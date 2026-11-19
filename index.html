@@ -1,0 +1,1678 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body>
+<title>Wexipedia · Cronología y tránsitos</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Disposición (v2, 2026-11-02; personas, 2026-11-12): eje VERTICAL a la izquierda, pasado arriba. A su derecha,
+   tres columnas de tarjetas, una por carril. Las personas no se dibujan: el eje hace de lupa (quién vivía en cada
+   año) y, al elegir una persona, su vida se marca sobre el eje.
+   La altura de cada década depende de cuántas tarjetas tiene: los siglos densos (XIX, XX) se abren
+   y los vacíos se comprimen. Las tarjetas llevan a sus conexiones; la ficha completa se abre a la derecha. */
+:root {
+  --bg: #eef2f1;
+  --hoja: #fbfcfc;
+  --tinta: #18222c;
+  --tenue: #5a6772;
+  --linea: #cfd8da;
+  --banda: #e5eae9;
+  --acento: #24557f;
+  --aviso-bg: #fff4d6; --aviso-tx: #6b4c00;
+
+  /* Tres carriles (REGLAS §8, 2026-11-11) */
+  --c-politica-economia: #b0462d;
+  --c-ciencia-saber: #2b68ad;
+  --c-personas: #5d6b79;
+  --c-religion: #8a4670;
+  --c-politica: #b0462d;
+  --c-sociedad: #9c7212;
+  --c-fisica:   #2b68ad;
+  --c-quimica:  #10807f;
+  --c-biologia: #3c8537;
+  --c-salud:    #5646c0;
+  --c-filosofia: #6b5a8c;
+  --c-literatura: #8c5a4a;
+  --c-saberes:  #7b6f12;
+
+  --f-lectura: "Newsreader", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --f-ui: "IBM Plex Sans Condensed", "Arial Narrow", "Roboto Condensed", system-ui, sans-serif;
+  --f-num: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --cab: 48px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11171d; --hoja: #18212a; --tinta: #e3e9ee; --tenue: #93a1ad; --linea: #2c3944; --banda: #151d24;
+  --acento: #8fbbe6; --aviso-bg: #3a3014; --aviso-tx: #f2d98c;
+  --c-politica-economia: #ec8a70; --c-ciencia-saber: #77abe8;
+  --c-personas: #9aa8b6; --c-religion: #d690bb; --c-politica: #ec8a70; --c-sociedad: #d9b158;
+  --c-fisica: #77abe8; --c-quimica: #5cc6c2; --c-biologia: #86c97e; --c-salud: #a59af0; --c-filosofia: #b3a3d6; --c-literatura: #d6a493; --c-saberes: #c9bc5a;
+  color-scheme: dark;
+}}
+:root[data-theme="dark"] {
+  --bg: #11171d; --hoja: #18212a; --tinta: #e3e9ee; --tenue: #93a1ad; --linea: #2c3944; --banda: #151d24;
+  --acento: #8fbbe6; --aviso-bg: #3a3014; --aviso-tx: #f2d98c;
+  --c-politica-economia: #ec8a70; --c-ciencia-saber: #77abe8;
+  --c-personas: #9aa8b6; --c-religion: #d690bb; --c-politica: #ec8a70; --c-sociedad: #d9b158;
+  --c-fisica: #77abe8; --c-quimica: #5cc6c2; --c-biologia: #86c97e; --c-salud: #a59af0; --c-filosofia: #b3a3d6; --c-literatura: #d6a493; --c-saberes: #c9bc5a;
+  color-scheme: dark;
+}
+
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--tinta); font-family: var(--f-ui); font-size: 14px; overflow: hidden; }
+.app { height: 100%; display: flex; flex-direction: column; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+
+/* ---------- Barra ---------- */
+.barra { background: var(--hoja); border-bottom: 1px solid var(--linea);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 10px; display: flex; flex-direction: column; gap: 10px; }
+.fila1 { display: flex; align-items: center; gap: 10px 18px; flex-wrap: wrap; }
+.marca { display: flex; align-items: baseline; gap: 10px; margin-right: auto; }
+.marca h1 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 22px; letter-spacing: .06em; text-transform: uppercase; }
+.marca span { color: var(--tenue); font-size: 12px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; }
+.seg { display: inline-flex; border: 1px solid var(--linea); border-radius: 6px; overflow: hidden; }
+.seg button { border: 0; background: transparent; padding: 6px 12px; cursor: pointer; font-weight: 500; }
+.seg button + button { border-left: 1px solid var(--linea); }
+.seg button[aria-pressed="true"] { background: var(--tinta); color: var(--hoja); }
+.btn { border: 1px solid var(--linea); background: transparent; border-radius: 6px; padding: 6px 10px; cursor: pointer; }
+.btn b { font-family: var(--f-num); font-weight: 500; }
+.busca { display: flex; gap: 8px; flex-wrap: wrap; }
+.busca input, .busca select { border: 1px solid var(--linea); border-radius: 6px; background: var(--bg); padding: 6px 10px; min-width: 0; }
+.busca input { width: 190px; }
+
+.carriles-sw { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; border: 1px solid var(--linea); border-radius: 999px;
+  padding: 3px 10px 3px 7px; background: transparent; cursor: pointer; font-size: 13px; }
+.chip i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="false"] { color: var(--tenue); border-style: dashed; }
+.chip[aria-pressed="false"] i { background: transparent; box-shadow: inset 0 0 0 1.5px var(--c); }
+.aviso { background: var(--aviso-bg); color: var(--aviso-tx); font-size: 13px; border-radius: 6px; padding: 6px 10px; }
+
+/* ---------- Escena vertical ---------- */
+.mesa { flex: 1; min-height: 0; display: flex; position: relative; }
+.escena { flex: 1; min-width: 0; overflow-y: auto; overflow-x: hidden; position: relative; overscroll-behavior: contain; }
+.cab { position: sticky; top: 0; z-index: 6; height: var(--cab); background: color-mix(in srgb, var(--bg) 90%, transparent);
+  backdrop-filter: blur(6px); border-bottom: 1px solid var(--linea); }
+.cab > * { position: absolute; top: 0; height: 100%; display: flex; align-items: center; }
+.cab .ahora { left: 0; padding-left: max(10px, env(safe-area-inset-left, 0px)); font: 500 12px var(--f-num); color: var(--tinta); white-space: nowrap; }
+.cab .ahora em { font: italic 15px var(--f-lectura); margin-right: 6px; }
+.cab .col-n { gap: 9px; font: 600 14px var(--f-ui); text-transform: uppercase; letter-spacing: .18em; color: var(--tinta); white-space: nowrap; overflow: hidden; padding-bottom: 3px; }
+.cab .col-n::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px; border-radius: 2px; background: var(--grad, var(--tinta)); }
+.cab .col-n span { overflow: hidden; text-overflow: ellipsis; }
+.cab .col-n i { flex: none; width: 11px; height: 11px; border-radius: 3px; background: var(--c); }
+.cab .col-n.vidas-n { justify-content: center; }
+
+.lienzo { position: relative; }
+.banda { position: absolute; left: 0; right: 0; background: var(--banda); }
+.era-n { position: absolute; right: 12px; font-size: 10.5px; text-transform: uppercase; letter-spacing: .12em; color: var(--tenue); opacity: .8; }
+.regla-s { position: absolute; left: 0; right: 0; height: 0; border-top: 1px solid var(--linea); }
+.regla-s span { position: absolute; top: -10px; left: 6px; font: italic 600 15px var(--f-lectura); color: var(--tinta); background: var(--bg); padding: 0 4px; border-radius: 3px; }
+.tk { position: absolute; font: 500 11.5px var(--f-num); color: var(--tenue); transform: translateY(-50%); font-variant-numeric: tabular-nums; }
+.tk::after { content: ""; position: absolute; top: 50%; width: 6px; border-top: 1px solid var(--tenue); margin-left: 5px; }
+.eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
+.hueco { position: absolute; display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--tenue); font-style: italic; font-family: var(--f-lectura); }
+.hueco::before { content: ""; width: 16px; border-top: 2px dotted var(--tenue); }
+
+@keyframes destello-v { 0% { box-shadow: 0 0 0 4px color-mix(in srgb, var(--acento) 60%, transparent); } 100% { box-shadow: 0 0 0 0 transparent; } }
+/* Zona de cada franja de vidas y «lupa» de contemporáneos (2026-11-12) */
+#vzonas .vz { position: absolute; top: 0; cursor: crosshair; }
+#vzonas .vz:hover { background: color-mix(in srgb, var(--banda) 80%, transparent); }
+/* Vida de la persona elegida (o señalada en la lupa), marcada sobre el eje */
+#vida-sel { position: absolute; width: 6px; border-radius: 3px; background: var(--c); pointer-events: none; z-index: 3; box-shadow: 0 0 0 2px var(--bg); }
+#vida-sel.aprox { -webkit-mask-image: linear-gradient(transparent, #000 10px, #000 calc(100% - 10px), transparent); mask-image: linear-gradient(transparent, #000 10px, #000 calc(100% - 10px), transparent); }
+#vida-sel.destello { animation: destello-v 1.1s ease-out; }
+.contemp h4 { margin: 10px 0 4px; font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--c); }
+.contemp details summary { cursor: pointer; color: var(--acento); font-size: 13px; margin: 2px 0 4px; }
+.aviso button { margin-left: 10px; font: inherit; font-weight: 600; color: inherit; background: none; border: 1px solid currentColor; border-radius: 5px; padding: 1px 8px; cursor: pointer; }
+#lupa { position: absolute; z-index: 6; width: 250px; max-height: 60vh; overflow: auto; background: var(--hoja); border: 1px solid var(--linea); border-radius: 8px;
+  box-shadow: 0 8px 28px rgba(0,0,0,.18); padding: 8px 10px 10px; font-family: var(--f-ui); font-size: 12.5px; }
+#lupa .lupa-t { font: 600 12px var(--f-num); color: var(--tenue); }
+#lupa .lupa-a { font-size: 11px; color: var(--tenue); margin: 2px 0 4px; }
+#lupa h4 { margin: 7px 0 2px; font-size: 10.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--c); }
+#lupa button { display: flex; width: 100%; gap: 6px; align-items: baseline; text-align: left; background: none; border: 0; padding: 2px 0; color: var(--tinta); cursor: pointer; font: inherit; }
+#lupa button:hover { color: var(--acento); }
+#lupa button i { flex: none; width: 3px; height: 11px; border-radius: 2px; background: var(--c); }
+#lupa button span { margin-left: auto; padding-left: 6px; color: var(--tenue); font: 11px var(--f-num); white-space: nowrap; }
+#lupa-l { position: absolute; height: 0; border-top: 1.5px solid var(--tinta); opacity: .55; pointer-events: none; z-index: 5; }
+
+/* ---------- Tarjetas ---------- */
+.tj { position: absolute; background: var(--hoja); border: 1px solid var(--linea); border-left: 3px solid var(--c); border-radius: 6px;
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--tinta) 6%, transparent); transition: opacity .15s, box-shadow .15s, border-color .15s; }
+.tj.prueba { border-style: dashed; border-left-style: solid; }
+.tj-a { display: block; width: 100%; text-align: left; background: none; border: 0; padding: 7px 9px 7px 9px; cursor: pointer; }
+.tj-m { display: flex; gap: 8px; align-items: baseline; font: 500 11.5px var(--f-num); color: var(--tenue); white-space: nowrap; }
+.tj-m > span:first-child { flex: none; }
+.tj-m .k { font-family: var(--f-ui); font-size: 10.5px; text-transform: uppercase; letter-spacing: .07em; color: var(--c); font-weight: 600; margin-left: auto; overflow: hidden; text-overflow: ellipsis; flex: 0 1 auto; min-width: 0; }
+.tj-m .k > span + span::before { content: " · "; }
+.solo .tj-m .k .kc { display: none; }
+.solo .tj-m .k .kc + span::before { content: none; }
+.tj-m .k .sal { color: var(--aviso-tx); }
+.tj-t { display: block; font-family: var(--f-lectura); font-weight: 600; font-size: 15.5px; line-height: 1.22; margin-top: 2px; text-wrap: pretty; }
+.tj-r { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; font-family: var(--f-lectura); font-size: 13.5px; line-height: 1.4; color: var(--tenue); margin-top: 4px; }
+.tj-x { display: flex; flex-wrap: wrap; gap: 4px; padding: 0 9px 8px; }
+.tj-x button { display: inline-flex; align-items: center; gap: 4px; max-width: 100%; border: 1px solid var(--linea); background: transparent; border-radius: 999px;
+  padding: 1px 8px 1px 6px; font-size: 12px; cursor: pointer; color: var(--tinta); }
+.tj-x button i { flex: none; width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+.tj-x button span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tj-x button:hover { border-color: var(--tinta); }
+.tj-x .mas { color: var(--tenue); }
+/* Versión oficial: siempre presente en la tarjeta, desplegable (REGLAS §9, 2026-11-11) */
+.tj-o { padding: 0 9px 7px; font-family: var(--f-ui); font-size: 12px; color: var(--tenue); }
+.tj-o summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; gap: 5px; padding: 1px 0; }
+.tj-o summary::-webkit-details-marker { display: none; }
+.tj-o summary::before { content: "▸"; font-size: 10px; transition: transform .15s; }
+.tj-o[open] summary::before { transform: rotate(90deg); }
+.tj-o summary:hover { color: var(--tinta); }
+.tj-o p { margin: 4px 0 0; padding-left: 8px; border-left: 2px solid var(--linea); font-family: var(--f-lectura); font-size: 13px; line-height: 1.45; color: var(--tinta); }
+.tj-o .tj-of { display: block; margin-top: 4px; padding-left: 10px; font-size: 11.5px; }
+.tj-o .tj-of a { color: var(--acento); }
+.tj-o.falta { font-style: italic; }
+.tj-o.falta.obligatoria { font-style: normal; color: var(--aviso-tx); }
+.compacto .tj-o { padding: 0 8px 5px; }
+.compacto .tj-r, .compacto .tj-x { display: none; }
+.compacto .tj-a { padding: 5px 8px; }
+.compacto .tj-t { font-size: 14px; }
+.tj:hover { border-color: var(--tenue); border-left-color: var(--c); }
+.tj.sel { box-shadow: 0 0 0 2px var(--tinta), 0 6px 18px color-mix(in srgb, var(--tinta) 18%, transparent); z-index: 3; }
+.tj.rel { box-shadow: 0 0 0 1.5px var(--c); z-index: 2; }
+.tj.ten { opacity: .25; }
+.tj.destello { animation: destello 1.1s ease-out; }
+@keyframes destello { 0% { box-shadow: 0 0 0 6px color-mix(in srgb, var(--acento) 55%, transparent); } 100% { box-shadow: 0 0 0 2px var(--tinta); } }
+
+.lineas { position: absolute; left: 0; top: 0; pointer-events: none; z-index: 1; overflow: visible; }
+.lineas path { fill: none; stroke: var(--tinta); stroke-width: 1.5; stroke-dasharray: 4 3; opacity: .6; }
+
+.volver { position: absolute; left: 50%; transform: translateX(-50%); bottom: calc(14px + env(safe-area-inset-bottom, 0px)); z-index: 8;
+  border: 1px solid var(--tinta); background: var(--tinta); color: var(--hoja); border-radius: 999px; padding: 7px 14px; cursor: pointer;
+  max-width: min(420px, 80%); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; box-shadow: 0 4px 14px rgba(0,0,0,.18); }
+
+/* ---------- Ficha lateral ---------- */
+.ficha { width: min(560px, 44vw); flex: none; background: var(--hoja); border-left: 1px solid var(--linea); overflow-y: auto;
+  container-type: inline-size; padding-right: env(safe-area-inset-right, 0px); }
+.ficha-in { padding: 18px 22px 40px; display: flex; flex-direction: column; gap: 18px; }
+.ficha-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.cerrar { margin-left: auto; border: 1px solid var(--linea); background: transparent; border-radius: 6px; padding: 4px 10px; cursor: pointer; }
+.pill { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; padding: 2px 8px; border-radius: 999px; border: 1px solid currentColor; }
+.pill.carr { color: var(--c); }
+.pill.est-prueba { color: var(--aviso-tx); background: var(--aviso-bg); border-color: transparent; }
+.pill.est-borrador { color: var(--tenue); }
+.pill.est-revisado { color: var(--acento); }
+.pill.est-aprobado { color: var(--c-biologia); }
+.ficha h2 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 30px; line-height: 1.12; text-wrap: balance; letter-spacing: -0.01em; }
+.fecha { font-family: var(--f-num); font-size: 13px; color: var(--tenue); margin-top: 6px; }
+.lead { font-family: var(--f-lectura); font-size: 18px; line-height: 1.5; margin: 0; max-width: 62ch; }
+.cols { display: grid; gap: 16px; }
+@container (min-width: 500px) { .cols { grid-template-columns: 1fr 1fr; } }
+.col h3, .bloque h3 { margin: 0 0 8px; font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--tenue); font-weight: 600; }
+.col { min-width: 0; }
+.segun, .oficial { border-top: 2px solid var(--tinta); padding-top: 10px; font-family: var(--f-lectura); font-size: 15.5px; line-height: 1.55; }
+.oficial { border-top-color: var(--linea); }
+.segun + .segun { margin-top: 14px; }
+.segun .quien { font-family: var(--f-ui); font-size: 13px; color: var(--tenue); margin-bottom: 4px; }
+.segun .quien strong { color: var(--tinta); }
+.segun p, .oficial p { margin: 0; }
+.vacio { font-family: var(--f-ui); font-size: 13px; color: var(--tenue); border: 1px dashed var(--linea); border-radius: 6px; padding: 10px 12px; line-height: 1.45; }
+.tj-s { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.sello, .discrepa { display: inline-block; font: 600 10.5px var(--f-ui); letter-spacing: .03em; padding: 2px 7px; border-radius: 999px; }
+.sello { color: var(--c-ciencia-saber); border: 1px solid currentColor; background: color-mix(in srgb, var(--c-ciencia-saber) 10%, transparent); }
+.segun .sello { display: block; margin-top: 6px; font-size: 12px; font-weight: 500; letter-spacing: 0; border-radius: 6px; padding: 4px 8px; }
+.discrepa { color: var(--aviso-tx); border: 1px dashed currentColor; }
+.discrepa.grande { display: block; border-radius: 6px; padding: 6px 9px; margin-bottom: 8px; font-size: 12.5px; }
+.disputa { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 8px; }
+.contra { margin-top: 6px; font-family: var(--f-ui); font-size: 12px; color: var(--c-politica); }
+.fuentes { list-style: none; padding: 0; margin: 8px 0 0; font-family: var(--f-ui); font-size: 13px; display: grid; gap: 4px; }
+.fuentes a, .segun a { color: var(--acento); }
+.cita { font-family: var(--f-lectura); font-size: 15px; }
+.cita em { font-family: var(--f-ui); font-style: normal; font-size: 12px; }
+.conex { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.conex button { width: 100%; text-align: left; display: grid; grid-template-columns: 10px 1fr; gap: 4px 10px; align-items: baseline;
+  border: 1px solid var(--linea); border-radius: 6px; padding: 8px 10px; background: transparent; cursor: pointer; }
+.conex button:hover { border-color: var(--tinta); }
+.conex i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); align-self: center; }
+.conex strong { font-weight: 600; }
+.conex small { grid-column: 2; color: var(--tenue); font-size: 12.5px; }
+.temas { display: flex; flex-wrap: wrap; gap: 6px; }
+.bandeja h2 { font-size: 26px; }
+.bandeja .grupo { display: flex; flex-direction: column; gap: 6px; }
+.bandeja .grupo h3 { margin: 0; font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--tenue); font-weight: 600; }
+.fuente { border-top: 2px solid var(--tinta); padding-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+.fuente h3 { margin: 0; font-family: var(--f-lectura); font-size: 20px; font-weight: 600; line-height: 1.2; text-wrap: balance; }
+.fuente h3 a { color: inherit; text-decoration-color: var(--linea); text-underline-offset: 3px; }
+.f-meta { font-family: var(--f-num); font-size: 12px; color: var(--tenue); }
+.f-autores { font-size: 13px; font-weight: 600; }
+.fuente p { margin: 0; font-family: var(--f-lectura); font-size: 15.5px; line-height: 1.55; max-width: 62ch; }
+.fuente details summary { cursor: pointer; font-size: 13px; color: var(--acento); padding: 4px 0; }
+.fuente details .conex { margin-top: 6px; }
+.pend { margin: 0; padding-left: 18px; display: grid; gap: 4px; font-size: 13.5px; }
+.fautor { font-family: var(--f-ui); font-size: 13px; color: var(--tenue); margin-top: 4px; }
+.vacia-app { padding: 40px; font-size: 16px; }
+
+@media (max-width: 760px) {
+  .busca input { width: 130px; }
+  .marca span { display: none; }
+  .ficha { position: fixed; inset: 0; width: auto; z-index: 20; border-left: 0;
+    padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); padding-left: env(safe-area-inset-left, 0px); }
+}
+/* Colores de los carriles (15-11-2026): política naranja oscuro, ciencia azul, religión amarillo */
+:root { --c-politica-economia: #c25a0a; --c-religion: #a87b00; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --c-politica-economia: #f08a3c; --c-religion: #e6c44a; } }
+:root[data-theme="dark"] { --c-politica-economia: #f08a3c; --c-religion: #e6c44a; }
+.chip { letter-spacing: .05em; font-weight: 500; }
+/* Franja «feed» (15-11-2026): fondo difuminado con los tres colores y, encima, fichas reales que van pasando */
+.busca { flex: 1 1 520px; align-items: stretch; }
+.feed { position: relative; flex: 1 1 240px; min-width: 200px; min-height: 34px; border-radius: 8px; overflow: hidden; cursor: pointer;
+  border: 1px solid var(--linea); isolation: isolate; }
+.feed { border-color: #9aa5ae; box-shadow: inset 0 1px 0 rgba(255,255,255,.7), inset 0 -1px 0 rgba(0,0,0,.12); }
+/* Plata en movimiento: bandas metálicas que se desplazan, difuminadas */
+.feed::before { content: ""; position: absolute; inset: -40%; z-index: -2; filter: blur(10px);
+  background: linear-gradient(105deg, #8d98a2 0%, #dfe4e8 18%, #ffffff 30%, #b3bcc4 44%, #eef1f3 58%, #9ba6af 74%, #dde2e6 88%, #8d98a2 100%);
+  background-size: 250% 100%; animation: feed-fluye 9s ease-in-out infinite alternate; }
+/* Diseño de fondo: trama diagonal fina + puntos + destello que barre la franja; los extremos se funden con la barra */
+.feed::after { content: ""; position: absolute; inset: 0; z-index: -1;
+  background:
+    linear-gradient(90deg, transparent 50%, rgba(27,36,44,.82) 72%, #11171d 100%),
+    linear-gradient(90deg, var(--hoja), transparent 12%),
+    linear-gradient(115deg, transparent 40%, rgba(255,255,255,.75) 50%, transparent 60%) 0 0 / 220% 100%,
+    radial-gradient(circle, rgba(24,34,44,.22) 1px, transparent 1.4px) 0 0 / 9px 9px,
+    repeating-linear-gradient(135deg, rgba(24,34,44,.09) 0 1px, transparent 1px 7px);
+  animation: feed-destello 6s linear infinite; }
+@keyframes feed-destello { from { background-position: 0 0, 0 0, 140% 0, 0 0, 0 0; } to { background-position: 0 0, 0 0, -140% 0, 0 0, 0 0; } }
+.feed-i { padding-left: 64px; padding-right: 40%; }
+.feed-i small, .feed-i b { text-transform: uppercase; }
+/* Fondo blanco; letras naranjas con borde negro (15-11-2026) */
+.feed { background: #fff; border-color: #18222c; box-shadow: none; }
+.feed::before { background: #fff; filter: none; animation: none; }
+.feed::after { background: repeating-linear-gradient(135deg, rgba(24,34,44,.06) 0 1px, transparent 1px 7px); animation: none; }
+.feed-i small, .feed-i b { color: #ff8a00; text-shadow: none; paint-order: stroke fill; }
+.feed-i b { -webkit-text-stroke: 3px #000; }
+.feed-i small { -webkit-text-stroke: 2.5px #000; opacity: 1; }
+.feed-i small { font: 500 10.5px var(--f-num); letter-spacing: .08em; }
+.feed-i b { font: 600 15px/1.15 var(--f-lectura); letter-spacing: normal; }
+/* Título en minúsculas con la primera en mayúscula; fecha y carril siguen en mayúsculas */
+.feed-i b { text-transform: lowercase; }
+.feed-i b::first-letter { text-transform: uppercase; }
+/* Letras sin movimiento: cambian de golpe; lo único que se mueve es el fondo, muy sutil, de blanco a plateado */
+.feed-i { transition: none; transform: none; }
+.feed::before { inset: 0; background: linear-gradient(100deg, #fff 0%, #e9edf0 30%, #fff 50%, #dde2e6 75%, #fff 100%); background-size: 300% 100%; animation: feed-fluye 14s ease-in-out infinite alternate; }
+@media (prefers-reduced-motion: reduce) { .feed::before { animation: none; } }
+.feed-i b { letter-spacing: .04em; font-size: 14px; }
+.feed-i { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; padding: 0 22px; gap: 1px;
+  opacity: 0; transform: translateY(8px); transition: opacity .6s ease, transform .6s ease; pointer-events: none; }
+.feed-i.on { opacity: 1; transform: none; }
+.feed-i small { font: 500 10.5px var(--f-num); letter-spacing: .08em; text-transform: uppercase; color: #2a3641; white-space: nowrap; }
+.feed-i b { font: 600 15px/1.15 var(--f-lectura); color: #101820; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-shadow: 0 1px 0 rgba(255,255,255,.65); }
+@keyframes feed-fluye { from { background-position: 0% 0; } to { background-position: 100% 0; } }
+/* Letras oscuras sobre plata (15-11-2026): sin borde; formato «Título. Autor. (FECHA · CARRIL)» con lo de paréntesis en mayúsculas */
+.feed { border: 0; }
+.feed-i { padding-top: 4px; }
+.feed::before { background: linear-gradient(100deg, #aeb7bf 0%, #e6eaed 25%, #c3cbd1 48%, #f2f4f6 70%, #a9b2ba 100%); background-size: 300% 100%; animation: feed-fluye 12s ease-in-out infinite alternate; }
+.feed-i b { -webkit-text-stroke: 0; paint-order: normal; color: #121c25; text-transform: none; letter-spacing: .01em; font: 600 13.5px/1.2 var(--f-lectura); text-shadow: 0 1px 0 rgba(255,255,255,.55); }
+.feed-i b .m { text-transform: uppercase; font: 600 11px var(--f-num); letter-spacing: .06em; }
+.feed-i b::first-letter { text-transform: none; }
+@media (prefers-reduced-motion: reduce) { .feed::before, .feed::after { animation: none; } .feed-i { transition: none; } }
+@media (prefers-reduced-motion: reduce) { .tj { transition: none; } .tj.destello, #vida-sel.destello { animation: none; } }
+/* Fondo marrón oscuro con textura fija (15-11-2026, tema oscuro): la trama solo va detrás de la línea de tiempo; tarjetas lisas */
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #140d08; --hoja: #22170f; --banda: #1b120b; --linea: #3d2d1f; --tinta: #f0e6d6; --tenue: #b3a08a; --acento: #e2bb7e; } }
+:root[data-theme="dark"] { --bg: #140d08; --hoja: #22170f; --banda: #1b120b; --linea: #3d2d1f; --tinta: #f0e6d6; --tenue: #b3a08a; --acento: #e2bb7e; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .escena {
+  background-color: var(--bg);
+  background-image:
+    repeating-linear-gradient(45deg, rgba(226,187,126,.035) 0 1px, transparent 1px 9px),
+    repeating-linear-gradient(-45deg, rgba(0,0,0,.35) 0 1px, transparent 1px 9px),
+    radial-gradient(circle, rgba(226,187,126,.06) 1px, transparent 1.5px);
+  background-size: auto, auto, 18px 18px;
+  background-attachment: local; } }
+:root[data-theme="dark"] .escena {
+  background-color: var(--bg);
+  background-image:
+    repeating-linear-gradient(45deg, rgba(226,187,126,.035) 0 1px, transparent 1px 9px),
+    repeating-linear-gradient(-45deg, rgba(0,0,0,.35) 0 1px, transparent 1px 9px),
+    radial-gradient(circle, rgba(226,187,126,.06) 1px, transparent 1.5px);
+  background-size: auto, auto, 18px 18px;
+  background-attachment: local; }
+.banda { opacity: .7; }
+/* Barra (15-11-2026): solo queda el buscador; fuera «Ir a…» y el filtro de autores */
+#ira, #autor { display: none; }
+.busca input { width: 260px; }
+/* Cuadro de fichas que pasan (15-11-2026): estilo pergamino, fijo */
+.feed { background: #ecdcb4; border: 1px solid #8a6a3c; box-shadow: inset 0 0 14px rgba(110,72,28,.45), inset 0 0 3px rgba(80,50,15,.5); }
+.feed::before { inset: 0; filter: none; animation: none;
+  background:
+    radial-gradient(ellipse at 20% 30%, rgba(255,248,225,.55), transparent 55%),
+    radial-gradient(ellipse at 80% 70%, rgba(190,150,90,.28), transparent 60%),
+    radial-gradient(ellipse at 50% 50%, #f1e2bd 40%, #dcc391 100%); }
+.feed::after { animation: none;
+  background:
+    repeating-linear-gradient(92deg, rgba(120,85,40,.05) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(2deg, rgba(120,85,40,.04) 0 1px, transparent 1px 7px),
+    radial-gradient(circle, rgba(110,75,30,.10) 1px, transparent 1.6px) 0 0 / 13px 11px; }
+.feed-i b { color: #3a2410; text-shadow: 0 1px 0 rgba(255,245,220,.6); }
+.feed-i b .m, .feed-i small { color: #6e4a22; }
+/* Letra del pergamino algo más grande (15-11-2026) */
+.feed-i b { font-size: 15.5px; }
+.feed-i b .m { font-size: 12px; }
+.feed-i small { font-size: 11.5px; }
+/* Capa «Cielo» (REGLAS §9, 2026-11-18): calculada, sin autor, nunca ficha */
+:root { --c-cielo: #3d6f8f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --c-cielo: #8ec3e3; } }
+:root[data-theme="dark"] { --c-cielo: #8ec3e3; }
+#cielo .cb { position: absolute; border-radius: 2px; cursor: pointer; background: var(--c-cielo); opacity: .8; }
+#cielo .cb.oposición { opacity: .45; }
+#cielo .cb.cuadratura { opacity: .9; background: repeating-linear-gradient(45deg, var(--c-cielo) 0 3px, transparent 3px 5px); outline: 1px solid var(--c-cielo); outline-offset: -1px; }
+#cielo .cb:hover { opacity: 1; box-shadow: 0 0 0 2px color-mix(in srgb, var(--c-cielo) 35%, transparent); }
+#cielo .cp { position: absolute; top: 0; width: 0; border-left: 1px dotted color-mix(in srgb, var(--c-cielo) 45%, transparent); }
+.cab .cielo-n { font: 600 10px var(--f-ui); text-transform: uppercase; letter-spacing: .12em; color: var(--c-cielo); justify-content: center; }
+.cielo-dia { border-left: 3px solid var(--c-cielo); padding-left: 10px; }
+.cielo-dia .pos { display: flex; flex-wrap: wrap; gap: 4px 12px; font: 13px var(--f-num); margin: 6px 0; }
+.cielo-dia .nota, .paralelo .nota { font-size: 12px; color: var(--tenue); }
+.paralelo { border-left: 3px solid var(--c-cielo); padding-left: 10px; margin: 14px 0; }
+.paralelo .cifras { display: flex; flex-wrap: wrap; gap: 6px 18px; font: 500 14px var(--f-num); margin: 8px 0; }
+.leyenda-cielo { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12px; margin: 6px 0; }
+.leyenda-cielo i { display: inline-block; width: 10px; height: 12px; margin-right: 5px; vertical-align: -2px; border-radius: 2px; background: var(--c-cielo); }
+.leyenda-cielo i.oposición { opacity: .45; }
+.leyenda-cielo i.cuadratura { background: repeating-linear-gradient(45deg, var(--c-cielo) 0 3px, transparent 3px 5px); outline: 1px solid var(--c-cielo); outline-offset: -1px; }
+/* Matriz de autores (2026-11-18): la intensidad es un dato, el hueco se ve y la contradicción va marcada */
+.matriz-scroll { overflow-x: auto; padding-bottom: 4px; }
+.matriz { border-collapse: collapse; font: 11px var(--f-ui); }
+.matriz th { font-weight: 600; color: var(--tenue); padding: 0 4px 4px; text-align: center; font-size: 10px; }
+.matriz th[scope="row"] { text-align: left; padding: 0 10px 0 0; color: var(--tx); font-size: 11px; white-space: nowrap; }
+.matriz td { padding: 1px; text-align: center; }
+.matriz .cel { display: block; margin: 0 auto; position: relative; width: 26px; height: 22px; border: 1px solid var(--linea); border-radius: 3px; color: var(--tx); font: 600 10px var(--f-ui); cursor: pointer; }
+.matriz .cel:hover, .matriz .cel:focus-visible { outline: 2px solid var(--acento); outline-offset: 1px; }
+.matriz .cel .choca { position: absolute; top: -3px; right: -3px; width: 7px; height: 7px; border-radius: 50%; background: #c0392b; }
+.matriz .cel .coinc { position: absolute; bottom: -3px; right: -3px; width: 6px; height: 6px; border-radius: 50%; background: #2e7d32; }
+.matriz .cero { display: block; margin: 0 auto; width: 26px; height: 22px; line-height: 22px; text-align: center; color: var(--tenue); opacity: .45; }
+.matriz-detalle h4 { margin: 12px 0 6px; font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--tenue); }
+.matriz-detalle:empty { display: none; }
+/* Grafo temporal de la matriz (2026-11-18): cuándo firma cada autor y con quién */
+.tg { display: block; width: 100%; height: auto; min-width: 700px; }
+.tg text { fill: var(--tenue); font: 9px var(--f-ui); }
+.tg .tg-n { fill: var(--tx); font: 600 9.5px var(--f-ui); }
+.tg .tg-sub { font: 8.5px var(--f-num); opacity: .85; }
+.tg .tg-mark { cursor: pointer; }
+.tg .tg-mark:hover { stroke: var(--acento); stroke-width: 1.4; }
+.tg .tg-arco { fill: none; stroke-width: .9; opacity: .5; cursor: pointer; }
+.tg .tg-arco:hover { opacity: 1; stroke-width: 1.7; }
+.leyenda-tg { display: flex; gap: 14px; flex-wrap: wrap; font: 11px var(--f-ui); color: var(--tenue); margin: 2px 0 8px; }
+.leyenda-tg i { display: inline-block; width: 16px; height: 0; margin-right: 5px; vertical-align: 3px; border-top: 2px solid var(--tenue); }
+.leyenda-tg i.roja { border-color: #c0392b; }
+.leyenda-tg i.verde { border-color: #2e7d32; }
+.leyenda-tg i.celda { width: 9px; height: 11px; border: 0; border-radius: 2px; background: var(--tinta); opacity: .55; vertical-align: -1px; }
+/* Sello de la versión oficial (2026-11-18): con fuente o sin fuente, a la vista */
+.pill.of-ok { color: var(--c-biologia); }
+.pill.of-sin { color: var(--aviso-tx); background: var(--aviso-bg); border-color: transparent; }
+.tj-o.sinfuente summary { color: var(--aviso-tx); }
+.tj-of.sin { color: var(--aviso-tx); }
+/* Mapa del cielo (2026-11-18): la rueda con planetas y estrellas fijas, calculada */
+.rueda-wrap { display: grid; grid-template-columns: minmax(280px, 1fr) minmax(220px, 320px); gap: 18px; align-items: start; }
+@media (max-width: 780px) { .rueda-wrap { grid-template-columns: 1fr; } }
+.rueda { width: 100%; height: auto; }
+.rueda-signo { font: 600 13px var(--f-ui); fill: var(--tenue); letter-spacing: .06em; }
+.rueda-grado { font: 9px var(--f-num); fill: var(--tenue); opacity: .7; }
+.rueda-est { cursor: pointer; }
+.rueda-est:hover, .rueda-est:focus-visible { stroke: var(--acento); stroke-width: 1.5; }
+.rueda-est-n { font: 9.5px var(--f-ui); fill: var(--tenue); }
+.rueda-planeta-n { font: 600 11px var(--f-ui); fill: var(--tinta); }
+.rueda-controles { display: flex; gap: 8px; align-items: flex-end; flex-wrap: wrap; margin-bottom: 12px; }
+.rueda-controles label { display: flex; flex-direction: column; gap: 3px; font: 10px var(--f-ui); text-transform: uppercase; letter-spacing: .08em; color: var(--tenue); }
+.rueda-controles input { width: 74px; padding: 4px 6px; border: 1px solid var(--linea); border-radius: 5px; background: var(--hoja); color: var(--tinta); font: 13px var(--f-num); }
+.rueda-lista { display: flex; flex-direction: column; gap: 7px; }
+.rueda-item { border-left: 2px solid var(--c-cielo); padding-left: 9px; font-size: 12.5px; }
+.rueda-item b { font-weight: 600; }
+.rueda-item small { display: block; color: var(--tenue); font-size: 11.5px; line-height: 1.35; }
+.estrellas-dia { margin-top: 12px; border-top: 1px dashed var(--linea); padding-top: 10px; }
+.estrellas-dia h4 { margin: 0 0 6px; font: 600 10.5px var(--f-ui); text-transform: uppercase; letter-spacing: .08em; color: var(--tenue); }
+.estrellas-dia ul { margin: 0; padding-left: 16px; }
+.estrellas-dia li { font-size: 12.5px; margin-bottom: 5px; line-height: 1.4; }
+.estrellas-dia small { display: block; color: var(--tenue); font-size: 11.5px; font-style: italic; }
+.rueda-controles select { max-width: 280px; padding: 4px 6px; border: 1px solid var(--linea); border-radius: 5px; background: var(--hoja); color: var(--tinta); font: 13px var(--f-ui); }
+.t-wrap { overflow-x: auto; margin-top: 10px; }
+.t-tabla { border-collapse: collapse; width: 100%; font: 12.5px var(--f-num); }
+.t-tabla th { text-align: left; font: 600 10.5px var(--f-ui); text-transform: uppercase; letter-spacing: .06em; color: var(--tenue); border-bottom: 1px solid var(--linea); padding: 4px 6px; }
+.t-tabla td { border-bottom: 1px dashed var(--linea); padding: 5px 6px; vertical-align: top; }
+.t-tabla tr.t-misma td { background: color-mix(in srgb, var(--c-cielo) 12%, transparent); }
+.t-tabla details summary { cursor: pointer; }
+.t-tabla td:not(:last-child) { white-space: nowrap; }
+/* Portada de tránsitos (REGLAS §9, 2026-11-19): vista propia sobre el eje. */
+:root { --fuego: #c4572e; --tierra: #6f7f2e; --aire: #3b7fb8; --agua: #5b4aa8; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fuego: #ec8a70; --tierra: #b5c46a; --aire: #7fb6e6; --agua: #a99af0; } }
+:root[data-theme="dark"] { --fuego: #ec8a70; --tierra: #b5c46a; --aire: #7fb6e6; --agua: #a99af0; }
+#transitos { position: fixed; inset: 0; z-index: 30; overflow-y: auto; background: var(--bg); color: var(--tinta); font-family: var(--f-ui); font-size: 14px; line-height: 1.4; }
+#transitos[hidden] { display: none !important; }
+.t-cab { position: sticky; top: 0; z-index: 3; background: var(--hoja); border-bottom: 1px solid var(--linea); padding: 10px 16px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+.t-marca { display: flex; align-items: baseline; gap: 10px; margin-right: auto; flex-wrap: wrap; }
+.t-marca h1 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 22px; letter-spacing: .05em; text-transform: uppercase; }
+.t-marca span { color: var(--tenue); font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
+.t-nav { display: flex; gap: 4px; flex-wrap: wrap; }
+.t-nav a { color: var(--acento); text-decoration: none; padding: 4px 10px; border: 1px solid var(--linea); border-radius: 14px; }
+.t-nav a.on { background: var(--acento); color: var(--hoja); border-color: var(--acento); }
+.t-nav a.t-eje { border-color: var(--tinta); color: var(--tinta); }
+.t-main { max-width: 1500px; margin: 0 auto; padding: 18px 16px 60px; }
+.t-main h2 { font-family: var(--f-lectura); font-weight: 600; margin: 6px 0 4px; font-size: 28px; }
+.t-sub { color: var(--tenue); margin: 0 0 16px; max-width: 95ch; }
+.t-nota { color: var(--tenue); font-size: 12.5px; margin: 10px 0; }
+.t-scroll { overflow-x: auto; padding-bottom: 6px; }
+.t-tabla { border-collapse: collapse; width: 100%; background: var(--hoja); border: 1px solid var(--linea); }
+.t-tabla th, .t-tabla td { border: 1px solid var(--linea); padding: 6px; text-align: center; vertical-align: top; }
+.t-tabla th { font-weight: 600; font-size: 12px; background: var(--banda); }
+.t-tabla th a, .t-tabla td a { color: inherit; text-decoration: none; }
+.t-tabla th a:hover, .t-tabla td a:hover { text-decoration: underline; }
+.t-tabla .t-planeta { text-align: left; min-width: 150px; }
+.t-tabla .t-planeta span { font-weight: 400; color: var(--tenue); font-size: 11px; }
+.t-tabla .t-vac { color: var(--linea); }
+.t-tabla b { font-family: var(--f-num); font-size: 16px; }
+.t-tabla td span { font-family: var(--f-num); font-size: 11.5px; color: var(--tenue); }
+.t-gl { font-size: 18px; display: block; }
+.t-tabla .fuego { border-top: 4px solid var(--fuego); }
+.t-tabla .tierra { border-top: 4px solid var(--tierra); }
+.t-tabla .aire { border-top: 4px solid var(--aire); }
+.t-tabla .agua { border-top: 4px solid var(--agua); }
+.t-ahora { outline: 3px solid var(--acento); outline-offset: -3px; }
+.t-banda { position: relative; height: 42px; margin: 12px 0 0; background: var(--banda); border: 1px solid var(--linea); border-radius: 5px; overflow: hidden; }
+.t-barra { position: absolute; height: 4px; border-radius: 2px; opacity: .8; }
+.t-barra.e0 { background: var(--fuego); } .t-barra.e1 { background: var(--tierra); }
+.t-barra.e2 { background: var(--aire); } .t-barra.e3 { background: var(--agua); }
+.t-barra-ahora { height: 6px; opacity: 1; box-shadow: 0 0 0 1px var(--tinta); }
+.t-anios { display: flex; justify-content: space-between; font: 11px var(--f-num); color: var(--tenue); margin: 2px 0 14px; }
+.t-cols { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(260px, 1fr); gap: 12px; overflow-x: auto; padding-bottom: 10px; align-items: start; }
+.t-col { background: var(--hoja); border: 1px solid var(--linea); border-radius: 6px; padding: 10px; min-height: 80px; }
+.t-col-cab { display: flex; align-items: baseline; gap: 8px; justify-content: space-between; }
+.t-col h3 { margin: 0; font-family: var(--f-lectura); font-size: 20px; }
+.t-eje-mini { color: var(--acento); font-size: 11.5px; text-decoration: none; white-space: nowrap; }
+.t-eje-mini:hover { text-decoration: underline; }
+.t-fechas { font: 11px var(--f-num); color: var(--tenue); margin: 2px 0 4px; }
+.t-idas { font-size: 11.5px; color: var(--tenue); margin: 4px 0; border-left: 2px solid var(--linea); padding-left: 6px; }
+.t-ano { margin-top: 10px; border-top: 1px dashed var(--linea); padding-top: 4px; font: 11px var(--f-num); color: var(--tenue); }
+.t-f { display: block; padding: 3px 0 3px 8px; border-left: 3px solid var(--linea); margin: 3px 0; color: var(--tinta); text-decoration: none; font-family: var(--f-lectura); font-size: 14px; line-height: 1.25; }
+.t-f:hover { background: var(--banda); }
+.t-f small { color: var(--tenue); font-family: var(--f-num); font-size: 10.5px; }
+.t-f.t-politica-economia { border-color: var(--c-politica-economia); }
+.t-f.t-ciencia-saber { border-color: var(--c-ciencia-saber); }
+.t-f.t-religion { border-color: var(--c-religion); }
+.t-f.t-persona { border-color: var(--c-personas); font-style: italic; }
+.t-f.t-borr { opacity: .65; }
+.t-filtros { display: flex; gap: 14px; flex-wrap: wrap; margin: 0 0 12px; font-size: 13px; align-items: center; }
+.t-filtros span a { text-decoration: none; color: var(--acento); padding: 0 2px; }
+.t-vacio { border: 1px dashed var(--linea); border-radius: 6px; padding: 14px; color: var(--tenue); }
+@media (max-width: 760px) {
+  .t-cab { align-items: flex-start; }
+  .t-marca h1 { font-size: 18px; }
+  .t-main { padding: 12px 10px 50px; }
+  .t-main h2 { font-size: 23px; }
+  .t-cols { grid-auto-columns: minmax(240px, 85vw); }
+}
+</style>
+
+<div class="app">
+  <header class="barra">
+    <div class="fila1">
+      <div class="marca"><h1>BIENVENIDO A WEXIPEDIA</h1><span>CRONOLOGÍA RIGUROSA BASADA EN AUTORES</span></div>
+      <a class="btn" href="#/transitos" id="volver-transitos" title="Volver a la portada de tránsitos">← Tránsitos</a>
+      <div class="seg" role="group" aria-label="Tamaño de las tarjetas">
+        <button type="button" data-modo="detalle">Detalle</button>
+        <button type="button" data-modo="compacto">Compacto</button>
+      </div>
+      <div class="seg" role="group" aria-label="Cielo">
+        <button type="button" id="cielo-b" title="Mostrar u ocultar la franja de ciclos de planetas lentos (calculada)">Cielo</button>
+        <button type="button" id="rueda-b" title="Mapa del cielo: planetas y estrellas fijas en cualquier fecha, calculado">Rueda</button>
+        <button type="button" id="paral-b" title="Paralelos: hechos y cielo comparados con el azar">Paralelos</button>
+        <button type="button" id="trans-b" title="Estrellas fijas: cuándo pasó cada planeta sobre cada estrella (1885-2026), con las fichas de esos años">Estrellas</button>
+      </div>
+      <div class="seg" role="group" aria-label="Autores">
+        <button type="button" id="matriz-b" title="Matriz de autores: quién firma qué siglo y dónde chocan">Matriz</button>
+      </div>
+      <div class="busca">
+        <select id="ira" aria-label="Ir a un siglo"></select>
+        <input id="buscar" type="search" placeholder="Buscar…" aria-label="Buscar en las fichas">
+        <select id="autor" aria-label="Filtrar por autor"></select>
+        <div class="feed" id="feed" title="Pulsa para abrir la ficha" aria-live="off"><div class="feed-i"></div><div class="feed-i"></div></div>
+        
+        
+        
+      </div>
+    </div>
+    <div class="carriles-sw" id="sw" aria-label="Carriles"></div>
+    <div class="aviso" id="aviso" hidden></div>
+  </header>
+
+  <div class="mesa">
+    <div class="escena" id="escena" tabindex="0" aria-label="Línea de tiempo vertical. Desplaza hacia abajo para avanzar en el tiempo.">
+      <div class="cab" id="cab"></div>
+      <div class="lienzo" id="lienzo">
+        <div id="fondo"></div>
+        <div id="vzonas"></div>
+        <div id="cielo"></div>
+        <div id="vida-sel" hidden></div>
+        <div id="tarjetas"></div>
+        <svg class="lineas" id="lineas"></svg>
+      </div>
+    </div>
+    <button type="button" class="volver" id="volver" hidden></button>
+    <aside class="ficha" id="ficha" hidden aria-label="Ficha"></aside>
+  </div>
+</div>
+
+<div id="transitos" hidden></div>
+
+<script src="cielo-datos.js"></script>
+<script src="cielo.js"></script>
+<script src="datos.js"></script>
+<script src="transitos-datos.js"></script>
+<script src="transitos.js"></script>
+<script>
+(() => {
+const D = window.CRONO;
+if (!D) { document.querySelector(".app").innerHTML = '<p class="vacia-app">No se han podido cargar los datos (datos.js). Ejecuta herramientas/compilar.py y vuelve a publicar.</p>'; return; }
+
+// ---------- Fechas: internamente año astronómico, en pantalla sin año 0 ----------
+const fmt = y => y <= 0 ? `${1 - y} a.C.` : `${y}`;
+function fmtFecha(f, persona, vivo) {
+  const fe = f.fecha;
+  if (!fe) return "Sin fecha";
+  if (fe.texto) return fe.texto;
+  const c = fe.aprox ? "c. " : "";
+  if (fe.hasta == null) return persona && vivo ? `${c}${fmt(fe.desde)} –` : c + fmt(fe.desde);
+  const ambosAC = fe.desde <= 0 && fe.hasta <= 0;
+  const a = ambosAC ? `${1 - fe.desde}` : fmt(fe.desde);
+  let s = `${c}${a} – ${fmt(fe.hasta)}`;
+  if (persona) s += ` · ${fe.hasta - fe.desde} años`;
+  return s;
+}
+const romano = n => { const t=[[1000,"M"],[900,"CM"],[500,"D"],[400,"CD"],[100,"C"],[90,"XC"],[50,"L"],[40,"XL"],[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]]; let s=""; for (const [v,r] of t) while (n>=v){s+=r;n-=v;} return s; };
+// Siglo de un año astronómico: { n, ac, ini } (ini = primer año astronómico del siglo)
+const siglo = y => y > 0 ? { n: Math.ceil(y / 100), ac: false, ini: Math.floor((y - 1) / 100) * 100 + 1 }
+                         : { n: Math.ceil((1 - y) / 100), ac: true, ini: -Math.ceil((1 - y) / 100) * 100 + 1 };
+const nomSiglo = s => `s. ${romano(s.n)}${s.ac ? " a.C." : ""}`;
+const HOY = new Date().getFullYear();
+
+const ERAS = [
+  { n: "Prehistoria", d: -6000, h: -3000 },
+  { n: "Edad Antigua", d: -3000, h: 476 },
+  { n: "Edad Media", d: 476, h: 1492 },
+  { n: "Edad Moderna", d: 1492, h: 1789 },
+  { n: "Edad Contemporánea", d: 1789, h: HOY + 1 },
+];
+
+// ---------- Datos ----------
+const NOMBRES_UI = { "politica-economia": "POLITIQUEO", "ciencia-saber": "CIENCIA", "religion": "RELIGIÓN" };
+for (const c of D.carriles) if (NOMBRES_UI[c.id]) c.nombre = NOMBRES_UI[c.id];
+const carriles = D.carriles;
+const carrilDe = Object.fromEntries(carriles.map(c => [c.id, c]));
+const color = id => `var(--c-${id})`;
+const todas = D.fichas.map(f => f.fecha ? ({ ...f, ini: f.fecha.desde, fin: (f.fecha.hasta ?? (f.vivo ? HOY : f.fecha.desde)) }) : { ...f });
+const fichas = todas.filter(f => f.fecha);
+const sinFecha = todas.filter(f => !f.fecha);
+const porId = Object.fromEntries(todas.map(f => [f.id, f]));
+const autores = Object.fromEntries(D.autores.map(a => [a.id, a]));
+const conex = Object.fromEntries(todas.map(f => [f.id, []]));
+for (const f of todas) for (const c of (f.conexiones || [])) {
+  if (!porId[c.id]) continue;
+  if (!conex[f.id].some(x => x.id === c.id)) conex[f.id].push({ id: c.id, nota: c.nota });
+  if (!conex[c.id].some(x => x.id === f.id)) conex[c.id].push({ id: f.id, nota: c.nota });
+}
+// Grupos de carriles = columnas de tarjetas, en el orden de carriles.json
+const NOMBRE_NAT = {"gobiernos": "Gobiernos", "conflictos": "Conflictos", "ideales-sociales": "Ideales sociales", "banca": "Banca", "institutos": "Institutos", "filosofia": "Filosofía", "organizaciones": "Organizaciones", "teoria-alternativa": "Teoría alternativa", "ciencia": "Ciencia", "saber-ancestral": "Saber ancestral", "arquitecturas": "Arquitecturas", "documentos": "Documentos", "ocultismo": "Ocultismo", "logias": "Logias"};
+const NOMBRE_GRUPO = { "politica-economia": "Política y economía", "ciencia-saber": "Ciencia y saber ancestral", religion: "Religión", personas: "Personas", humanidades: "Religión · política · sociedad", ciencia: "Ciencia y salud", pensamiento: "Filosofía y literatura", saberes: "Saberes tradicionales" };
+const COLOR_GRUPO = { "politica-economia": "politica-economia", "ciencia-saber": "ciencia-saber", religion: "religion", personas: "personas", humanidades: "politica", ciencia: "fisica", pensamiento: "filosofia", saberes: "saberes" };
+// Presentación en DOS columnas (14-11-2026). Los datos siguen con tres carriles (política y economía, ciencia, religión):
+// solo se agrupan al dibujar. Cada tarjeta conserva el color de su carril.
+const COLUMNAS = [
+  { id: "historia-politica", nombre: "POLITIQUEO", colores: ["politica-economia"], carr: carriles.filter(c => c.id === "politica-economia").map(c => c.id) },
+  { id: "ciencias-religion", nombre: "CIENCIA-RELIGIÓN", colores: ["ciencia-saber", "religion"], carr: carriles.filter(c => c.id !== "politica-economia" && c.id !== "personas").map(c => c.id) },
+];
+const grupos = COLUMNAS;
+
+// ---------- Estado ----------
+const guardar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+const leer = (k, def) => { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : def; } catch (e) { return def; } };
+// Los carriles ocultos guardados que ya no existen (antes de los tres carriles) se descartan
+const st = { ocultos: new Set(leer("crono.ocultos", []).filter(id => carrilDe[id])), autor: "", nat: "", q: "", sel: null, modo: leer("crono.modo", "detalle"), atras: [], cielo: leer("crono.cielo", true) };
+
+const $ = id => document.getElementById(id);
+const app = document.querySelector(".app"), transitosEl = $("transitos");
+const escena = $("escena"), lienzo = $("lienzo"), cab = $("cab"), fondo = $("fondo"), vidaSel = $("vida-sel"), tarjEl = $("tarjetas"), svg = $("lineas"), ficha = $("ficha");
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+const coincide = f => !st.q || (f.titulo + " " + f.resumen).toLowerCase().includes(st.q);
+const deAutor = f => (!st.autor || (f.segun || []).some(s => s.autor === st.autor)) && (!st.nat || f.naturaleza === st.nat);
+const corto = (t, n = 26) => t.length > n ? t.slice(0, n - 1).trimEnd() + "…" : t;
+
+// ---------- Barra ----------
+const sw = $("sw");
+for (const c of carriles) {
+  const b = document.createElement("button");
+  b.type = "button"; b.className = "chip"; b.style.setProperty("--c", color(c.id)); b.dataset.c = c.id;
+  b.innerHTML = `<i></i>${esc(c.nombre)}`;
+  b.setAttribute("aria-pressed", String(!st.ocultos.has(c.id)));
+  b.onclick = () => { st.ocultos.has(c.id) ? st.ocultos.delete(c.id) : st.ocultos.add(c.id);
+    b.setAttribute("aria-pressed", String(!st.ocultos.has(c.id))); guardar("crono.ocultos", [...st.ocultos]); maquetar(true); };
+  sw.appendChild(b);
+}
+const selAutor = $("autor");
+selAutor.innerHTML = `<option value="">Todos los autores</option>` + D.autores.map(a => `<option value="${a.id}">${esc(a.nombre)}</option>`).join("");
+selAutor.onchange = () => { st.autor = selAutor.value; pintar(); };
+
+$("buscar").oninput = e => { st.q = e.target.value.trim().toLowerCase(); pintar(); };
+$("buscar").onkeydown = e => { if (e.key === "Enter") { const f = fichas.find(f => coincide(f) && deAutor(f) && !st.ocultos.has(f.carril)); if (f) ir(f.id); } };
+document.querySelectorAll("[data-modo]").forEach(b => b.onclick = () => { st.modo = b.dataset.modo; guardar("crono.modo", st.modo); maquetar(true); });
+// Capa «Cielo»: franja de ciclos y panel de paralelos (solo si datos.js trae D.cielo)
+const CIELO = D.cielo || null;
+if (!CIELO) $("cielo-b").parentElement.hidden = true;
+$("cielo-b").onclick = () => { st.cielo = !st.cielo; guardar("crono.cielo", st.cielo); maquetar(true); };
+$("rueda-b").onclick = () => abrirRueda();
+$("paral-b").onclick = () => abrirParalelos();
+$("matriz-b").onclick = () => abrirMatriz();
+$("trans-b").onclick = () => abrirTransitos();
+
+const nPrueba = todas.filter(f => f.estado === "prueba").length;
+
+// ---------- Franja feed: fichas reales con fecha, al azar, una cada pocos segundos ----------
+(() => {
+  const el = $("feed"); if (!el) return;
+  const caps = [...el.children]; let k = 0, actual = null, id = null;
+  const pool = fichas.filter(f => carrilDe[f.carril] && f.carril !== "personas" && f.titulo);
+  if (!pool.length) { el.hidden = true; return; }
+  const sig = () => {
+    const f = pool[Math.floor(Math.random() * pool.length)];
+    const nuevo = caps[k ^ 1], viejo = caps[k]; k ^= 1;
+    const s0 = (f.segun || [])[0], au = s0 && autores[s0.autor] ? autores[s0.autor].nombre : "";
+    nuevo.innerHTML = `<b>${esc(f.titulo.replace(/[.\s]+$/, ""))}. <span class="m">(${esc(fmtFecha(f))} · ${esc(carrilDe[f.carril].nombre)})</span></b>`;
+    nuevo.classList.add("on"); viejo.classList.remove("on"); id = f.id;
+  };
+  el.onclick = () => { if (id) ir(id); };
+  sig(); setInterval(sig, 4000);
+})();
+
+const obras = [];
+for (const a of D.autores) for (const o of (a.obras || [])) {
+  const clave = o.url || `${a.id}/${o.id}`;
+  let x = obras.find(y => y.clave === clave);
+  if (!x) { x = { clave, ...o, autores: [], refs: [] }; obras.push(x); }
+  if (!x.autores.includes(a.nombre)) x.autores.push(a.nombre);
+  x.refs.push(`${a.id}/${o.id}`);
+}
+const fichasDeObra = x => todas.filter(f => (f.segun || []).some(s => x.refs.includes(`${s.autor}/${s.obra}`)));
+const procesadas = obras.filter(o => o.estado === "procesada");
+
+if (!nPrueba && !leer("crono.pista-eje", false)) { const a = $("aviso"); a.hidden = false;
+  a.innerHTML = `Las personas ya no se dibujan como barras: pasa el ratón por el eje de años (o tócalo) para ver quién vivía en cada momento. Al abrir una persona, su vida se marca en el eje.<button type="button" id="aviso-ok">Entendido</button>`;
+  $("aviso-ok").onclick = () => { a.hidden = true; guardar("crono.pista-eje", true); maquetar(true); }; }
+if (nPrueba) { const a = $("aviso"); a.hidden = false;
+  a.textContent = `Datos de prueba (${nPrueba} fichas, borde discontinuo): solo llevan la versión oficial y ningún autor todavía.`; }
+
+// ---------- Tarjetas (DOM, se crean una vez) ----------
+// Versión oficial en la tarjeta: siempre presente, plegada; se despliega sin abrir la ficha
+function oficialTarjeta(f) {
+  const of = f.oficial;
+  if (!(of && of.resumen)) {
+    return `<div class="tj-o falta">Versión oficial: pendiente</div>`;
+  }
+  const fs = (of.fuentes || []).map(x => x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titulo)}</a>` : esc(x.titulo)).join(" · ");
+  const conFuente = !!(of.fuentes || []).length;
+  return `<details class="tj-o${conFuente ? "" : " sinfuente"}"><summary>Versión oficial${conFuente ? " ✓" : " · sin fuente"}</summary><p>${esc(of.resumen)}</p>${fs ? `<span class="tj-of">Fuente: ${fs}</span>` : `<span class="tj-of sin">Pendiente de documentar: no se publica así.</span>`}</details>`;
+}
+// Sello de coincidencia (REGLAS §2.5) y aviso de discrepancia (§2.3)
+function coincidencias(f) {
+  const segun = f.segun || [], vistos = new Set(), out = [];
+  for (const s of segun) for (const a of s.coincide || []) if (!vistos.has(a)) {
+    vistos.add(a);
+    const e = segun.find(x => x.autor === a), au = autores[a];
+    out.push({ nombre: au?.nombre || a, obra: e ? (au?.obras?.find(o => o.id === e.obra)?.titulo || e.obra) : "" });
+  }
+  return out;
+}
+const discrepan = f => (f.segun || []).some(s => (s.contradice || []).length);
+function sellosTarjeta(f) {
+  const co = coincidencias(f), di = discrepan(f);
+  if (!co.length && !di) return "";
+  return `<span class="tj-s">${co.map(c => `<span class="sello">Coincide con ${esc(c.nombre)}</span>`).join("")}${di ? `<span class="discrepa">Estos autores discrepan</span>` : ""}</span>`;
+}
+const nodos = {};
+for (const f of fichas) {
+  const persona = f.tipo === "persona";
+  const el = document.createElement("article");
+  el.className = `tj${f.estado === "prueba" ? " prueba" : ""}`;
+  el.style.setProperty("--c", color(f.carril));
+  el.dataset.id = f.id;
+  const cx = conex[f.id];
+  const nAut = new Set((f.segun || []).map(s => s.autor)).size;
+  el.innerHTML = `<button type="button" class="tj-a">
+      <span class="tj-m"><span>${esc(fmtFecha(f, false, f.vivo))}</span><span class="k"><span class="kc">${esc(carrilDe[f.carril]?.nombre || f.carril)}</span>${f.naturaleza ? `<span class="nat">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}${nAut > 1 ? `<span class="na">${nAut} autores</span>` : ""}</span></span>
+      <span class="tj-t">${esc(f.titulo)}</span>
+      <span class="tj-r">${esc(f.resumen)}</span>${sellosTarjeta(f)}
+    </button>` + oficialTarjeta(f) +
+    (cx.length ? `<div class="tj-x">${cx.slice(0, 3).map(k => { const o = porId[k.id];
+      return `<button type="button" data-ir="${o.id}" style="--c:${color(o.carril)}" title="${esc(o.titulo)}${k.nota ? " — " + esc(k.nota) : ""}"><i></i><span>${esc(corto(o.titulo))}</span></button>`; }).join("")}${cx.length > 3 ? `<button type="button" class="mas" data-abrir="1">+${cx.length - 3}</button>` : ""}</div>` : "");
+  el.querySelector(".tj-a").onclick = () => seleccionar(f.id);
+  const det = el.querySelector("details.tj-o"); if (det) det.addEventListener("toggle", () => maquetar(true));
+  el.querySelectorAll("[data-ir]").forEach(b => b.onclick = () => ir(b.dataset.ir, f.id));
+  const mas = el.querySelector("[data-abrir]"); if (mas) mas.onclick = () => seleccionar(f.id);
+  tarjEl.appendChild(el); nodos[f.id] = el;
+}
+
+// ---------- Maquetación vertical ----------
+// La altura de cada década = lo que ocupan las tarjetas de su columna más llena. Décadas vacías: 3 px;
+// tramos vacíos largos (≥ 150 años) se comprimen en un hueco rotulado.
+let anchoPrev = 0;
+let L = null;   // última maquetación: { dec0, tops, alturas, T, inv, alto }
+function maquetar(conservar) {
+  const anclaAño = conservar && L ? L.inv(escena.scrollTop) : null;
+  if (L) ocultarLupa();   // la maquetación cambia las posiciones: la lupa se cierra
+  document.querySelectorAll("[data-modo]").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.modo === st.modo)));
+  lienzo.classList.toggle("compacto", st.modo === "compacto");
+
+  const W = escena.clientWidth;
+  // Las personas no ocupan columna (REGLAS §8): van en la franja de vidas, con el color de su carril.
+  const vis = fichas.filter(f => !st.ocultos.has(f.carril));
+  const visT = vis.filter(f => f.tipo !== "persona");
+  const personas = vis.filter(f => f.tipo === "persona").sort((a, b) => a.ini - b.ini);
+  // Una sola columna si no caben las columnas por carril con un ancho legible (móvil, o ficha abierta en pantalla mediana)
+  const gs = grupos.filter(g => g.carr.some(c => !st.ocultos.has(c)));
+  const estrecho = W < 480 || (W - 100) / Math.max(1, gs.length) < 150;
+  const cols = estrecho ? [{ id: "todo", carr: carriles.map(c => c.id) }] : gs;
+  const colDe = {}; for (const [i, g] of cols.entries()) for (const c of g.carr) colDe[c] = i;
+
+  // Personas (REGLAS §8, 2026-11-12): sin barras ni tarjetas. El eje de años hace de lupa: al pasar el ratón
+  // o tocarlo salen quienes vivían ese año; al elegir una persona, su vida se marca sobre el eje.
+  const ejeW = estrecho ? 58 : 76, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
+  const zonas = [{ x: 0, w: ejeW }];
+  // Franja «Cielo» entre el eje y las columnas: una pista por par de planetas
+  const verCielo = !!(CIELO && st.cielo);
+  const pares = verCielo ? [...new Set(CIELO.ciclos.map(k => k.par))] : [];
+  const pista = estrecho ? 6 : 9, cieloX = ejeW + 6, cieloW = verCielo ? pares.length * pista + 6 : 0;
+  const x0 = ejeW + 8 + cieloW;
+  const colW = Math.max(140, (W - x0 - derecha - gap * (cols.length - 1)) / cols.length);
+  const xCol = cols.map((g, i) => x0 + i * (colW + gap));
+
+  // Tarjetas: ancho, visibilidad y medida (las personas no tienen tarjeta en columna)
+  // En columnas de un solo carril visible no hace falta repetir el nombre del carril en cada tarjeta
+  const soloCol = cols.map(g => g.carr.filter(c => !st.ocultos.has(c)).length === 1);
+  for (const f of fichas) { const el = nodos[f.id]; const on = f.tipo !== "persona" && !st.ocultos.has(f.carril); el.hidden = !on;
+    if (on) { el.style.width = `${colW}px`; el.classList.toggle("solo", soloCol[colDe[f.carril]]); } }
+  const alto = {}; for (const f of visT) alto[f.id] = nodos[f.id].offsetHeight;
+
+  // Décadas
+  const GAP = 6;
+  const minY = Math.min(...fichas.map(f => f.ini)), maxY = Math.max(HOY, ...fichas.map(f => f.fin));
+  const dec0 = Math.floor(minY / 10) - 1, dec1 = Math.floor(maxY / 10) + 1, nd = dec1 - dec0 + 1;
+  const suma = Array.from({ length: nd }, () => new Array(cols.length).fill(0));
+  const hayVida = new Array(nd).fill(false);
+  for (const f of visT) { const d = Math.floor(f.ini / 10) - dec0; suma[d][colDe[f.carril]] += alto[f.id] + GAP; }
+  for (const p of personas) for (let d = Math.floor(p.ini / 10); d <= Math.floor(p.fin / 10); d++) hayVida[d - dec0] = true;
+  const alturas = suma.map((s, i) => { const m = Math.max(...s); return m ? Math.max(30, m + 14) : (hayVida[i] ? 7 : 3); });
+  // Comprimir tramos vacíos largos (sin tarjetas ni vidas)
+  const huecos = [];
+  for (let i = 0; i < nd;) {
+    if (alturas[i] > 3) { i++; continue; }
+    let j = i; while (j < nd && alturas[j] <= 3) j++;
+    if (j - i >= 15) { const h = 64 / (j - i); for (let k = i; k < j; k++) alturas[k] = h; huecos.push([i, j]); }
+    i = j;
+  }
+  const tops = []; let acc = 24;
+  for (let i = 0; i < nd; i++) { tops.push(acc); acc += alturas[i]; }
+  const T = y => { const d = Math.max(0, Math.min(nd - 1, Math.floor(y / 10) - dec0)); return tops[d] + (y - (d + dec0) * 10) / 10 * alturas[d]; };
+  const inv = px => { let lo = 0, hi = nd - 1; while (lo < hi) { const m = (lo + hi + 1) >> 1; if (tops[m] <= px) lo = m; else hi = m - 1; }
+    return (lo + dec0) * 10 + Math.max(0, Math.min(1, (px - tops[lo]) / alturas[lo])) * 10; };
+
+  // Colocar tarjetas: en su año o justo debajo de la anterior de la columna
+  const fondoCol = new Array(cols.length).fill(0);
+  const pos = {};
+  for (const f of [...visT].sort((a, b) => a.ini - b.ini)) {
+    // Se apila desde el inicio de su década (la fecha exacta va escrita en la tarjeta)
+    const c = colDe[f.carril], d = Math.floor(f.ini / 10) - dec0, y = Math.max(tops[d] + 4, fondoCol[c] + GAP);
+    pos[f.id] = y; fondoCol[c] = y + alto[f.id];
+    const el = nodos[f.id]; el.style.top = `${y}px`; el.style.left = `${xCol[c]}px`;
+  }
+  const altoTotal = Math.max(acc, ...fondoCol) + 90;
+  lienzo.style.height = `${altoTotal}px`;
+
+
+  // Fondo: eras, siglos, décadas, huecos
+  let h = "";
+  ERAS.forEach((e, i) => { const a = T(Math.max(e.d, dec0 * 10)), b = T(Math.min(e.h, dec1 * 10 + 9));
+    if (b - a < 2) return;
+    if (i % 2 === 0) h += `<div class="banda" style="top:${a}px;height:${b - a}px"></div>`;
+    if (b - a > 40) h += `<div class="era-n" style="top:${a + 6}px">${e.n}</div>`; });
+  h += `<div class="eje-l" style="left:${ejeW}px"></div>`;
+  const enHueco = d => huecos.some(([i, j]) => d - dec0 >= i && d - dec0 < j);
+  let ultimo = -99;
+  for (let d = dec0; d <= dec1; d++) {
+    const a = d * 10;
+    if (enHueco(d)) continue;
+    const y = T(a);
+    if (a % 100 === 0 && a > 0) {
+      const s = siglo(a + 1);
+      h += `<div class="regla-s" style="top:${y}px;left:${ejeW}px"><span style="left:${x0 - ejeW}px">${nomSiglo(s)}</span></div>`;
+      h += `<div class="tk" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; ultimo = y; continue;
+    }
+    if (a <= 0 && a % 100 === 0) {   // a.C.: el "500 a.C." histórico es el año astronómico −499
+      const y2 = T(a + 1);
+      h += `<div class="regla-s" style="top:${y2}px;left:${ejeW}px"><span style="left:${x0 - ejeW}px">${nomSiglo(siglo(a + 1))}</span></div>`;
+      h += `<div class="tk" style="top:${y2}px;right:${W - ejeW + 12}px">${a === 0 ? "1" : `${-a} a.C.`}</div>`; ultimo = y2; continue;
+    }
+    if (a > 0 && alturas[d - dec0] >= 22 && y - ultimo >= 18) { h += `<div class="tk" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; ultimo = y; }
+  }
+  for (const [i, j] of huecos) {
+    const ya = tops[i], yb = tops[j - 1] + alturas[j - 1];
+    const años = (j - i) * 10;
+    h += `<div class="hueco" style="top:${(ya + yb) / 2 - 9}px;left:${ejeW - 8}px">${años} años sin fichas · ${fmt((i + dec0) * 10)} – ${fmt((j + dec0) * 10)}</div>`;
+  }
+  fondo.innerHTML = h;
+
+  // Bandas del cielo (año fraccional con T())
+  let ch = "";
+  if (verCielo) {
+    const limite = dec1 * 10 + 10;
+    pares.forEach((p, i) => ch += `<div class="cp" style="left:${cieloX + i * pista + pista / 2}px;height:${acc}px"></div>`);
+    CIELO.ciclos.forEach((k, n) => { const a = añoFrac(k.desde), b = añoFrac(k.hasta); if (a > limite) return;
+      const i = pares.indexOf(k.par), ya = T(a), yb = T(Math.min(b, limite));
+      ch += `<div class="cb ${k.aspecto}" data-ciclo="${n}" style="left:${cieloX + i * pista + 1}px;width:${pista - 2}px;top:${ya}px;height:${Math.max(3, yb - ya)}px" title="${esc(tituloCiclo(k))}"></div>`; });
+  }
+  cieloEl.innerHTML = ch;
+
+  // Cabecera de columnas
+  let c = `<div class="ahora" id="ahora" style="width:${ejeW}px" title="Pasa el ratón por el eje de años (o tócalo) para ver quién vivía entonces"></div>`;
+  if (verCielo) c += `<div class="cielo-n" style="left:${cieloX}px;width:${cieloW - 4}px" title="Ciclos de planetas lentos, calculados">${estrecho ? "☉" : "Cielo"}</div>`;
+  if (estrecho) c += `<div class="col-n" style="left:${x0}px;width:${colW}px"><span>Todos los carriles</span></div>`;
+  else cols.forEach((g, i) => {
+    const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
+    c += `<div class="col-n" style="left:${xCol[i]}px;width:${colW}px;--grad:${grad}">${cs.map(k => `<i style="--c:${color(k)}"></i>`).join("")}<span>${esc(g.nombre)}</span></div>`; });
+  cab.innerHTML = c;
+  $("vzonas").innerHTML = zonas.map(z => `<div class="vz" style="left:${z.x}px;width:${z.w}px;height:${Math.max(acc, ...fondoCol) + 90}px"></div>`).join("");
+
+  svg.setAttribute("width", W); svg.setAttribute("height", altoTotal);
+  L = { dec0, tops, alturas, T, inv, alto: altoTotal, pos, colDe, cols, x0, colW, gap, ejeW, zonas };
+  $("cielo-b").setAttribute("aria-pressed", String(verCielo));
+  anchoPrev = W;
+  if (anclaAño != null) escena.scrollTop = T(anclaAño);
+  rellenarIrA(vis);
+  pintar(); ahora();
+}
+
+function rellenarIrA(vis) {
+  const cuenta = new Map();
+  for (const f of vis) { const s = siglo(f.ini); const k = s.ini; if (!cuenta.has(k)) cuenta.set(k, { s, n: 0 }); cuenta.get(k).n++; }
+  const ops = [...cuenta.entries()].sort((a, b) => a[0] - b[0]);
+  $("ira").innerHTML = `<option value="">IR A… SIGLOS</option>` + ops.map(([k, { s, n }]) => `<option value="${k}">${nomSiglo(s)} · ${n}</option>`).join("");
+}
+$("ira").onchange = e => { const v = e.target.value; if (v === "") return; desplazarA(L.T(+v) - 8); e.target.value = ""; };
+
+// Indicador de siglo/década visibles arriba
+function ahora() {
+  const el = $("ahora"); if (!el || !L) return;
+  const y = Math.round(L.inv(escena.scrollTop + 20));
+  const s = siglo(y);
+  el.innerHTML = `<em>${nomSiglo(s)}</em>`;
+  el.title = `Hacia ${fmt(y)}`;
+}
+
+// ---------- Pintado: selección, filtros, líneas ----------
+function pintar() {
+  const sel = st.sel, rel = sel ? new Set(conex[sel].map(c => c.id)) : null;
+  marcarVida();
+  for (const f of fichas) {
+    const pasa = coincide(f) && deAutor(f);
+    const ten = !pasa || (!!sel && f.id !== sel && !rel.has(f.id));
+    const el = nodos[f.id]; if (el.hidden) continue;
+    el.classList.toggle("sel", f.id === sel);
+    el.classList.toggle("rel", !!rel && rel.has(f.id));
+    el.classList.toggle("ten", ten);
+  }
+  const b = $("volver"), prev = st.atras[st.atras.length - 1];
+  b.hidden = !prev; if (prev) b.textContent = `← Volver a «${corto(porId[prev].titulo, 40)}»`;
+  lineas();
+}
+// Vida de una persona marcada sobre el eje: la elegida o, mientras se señala en la lupa, esa
+let vidaTemp = null;
+function marcarVida() {
+  const id = vidaTemp || (st.sel && porId[st.sel]?.tipo === "persona" ? st.sel : null);
+  const f = id && porId[id];
+  if (!f || !f.fecha || !L || st.ocultos.has(f.carril)) { vidaSel.hidden = true; return; }
+  const ya = L.T(f.ini), yb = L.T(f.fin + 1);
+  vidaSel.hidden = false;
+  vidaSel.classList.toggle("aprox", !!f.fecha.aprox);
+  vidaSel.style.cssText = `--c:${color(f.carril)};left:${L.ejeW - 3}px;top:${ya}px;height:${Math.max(6, yb - ya)}px`;
+}
+// Una ficha se ve en pantalla como tarjeta o, si es la persona elegida, como su vida marcada en el eje
+function visible(id) { const f = porId[id]; if (!f) return false;
+  if (f.tipo === "persona") return id === st.sel && !vidaSel.hidden;
+  const n = nodos[id]; return !!n && !n.hidden; }
+function caja(id) {
+  if (porId[id].tipo === "persona")
+    return { x: parseFloat(vidaSel.style.left), y: parseFloat(vidaSel.style.top), w: 6, h: Math.min(parseFloat(vidaSel.style.height), 44) };
+  const n = nodos[id]; return { x: parseFloat(n.style.left), y: parseFloat(n.style.top), w: n.offsetWidth, h: n.offsetHeight };
+}
+function lineas() {
+  if (!st.sel || !L || !visible(st.sel)) { svg.innerHTML = ""; return; }
+  const a = caja(st.sel);
+  let s = "";
+  for (const c of conex[st.sel]) {
+    if (!visible(c.id)) continue;
+    const b = caja(c.id);
+    const ay = a.y + Math.min(a.h / 2, 22), by = b.y + Math.min(b.h / 2, 22);
+    if (Math.abs(a.x - b.x) < 4) {  // misma columna: arco por la derecha
+      const x = a.x + a.w, dx = Math.min(60, 18 + Math.abs(by - ay) * 0.05);
+      s += `<path d="M${x},${ay} C${x + dx},${ay} ${x + dx},${by} ${x},${by}"/>`;
+    } else {
+      const izq = a.x < b.x, xa = izq ? a.x + a.w : a.x, xb = izq ? b.x : b.x + b.w, m = (xa + xb) / 2;
+      s += `<path d="M${xa},${ay} C${m},${ay} ${m},${by} ${xb},${by}"/>`;
+    }
+  }
+  svg.innerHTML = s;
+}
+
+// ---------- Lupa: quién vivía en el año que señala el ratón (o el dedo) sobre el eje ----------
+const lupa = document.createElement("div"); lupa.id = "lupa"; lupa.hidden = true; lienzo.appendChild(lupa);
+const lupaL = document.createElement("div"); lupaL.id = "lupa-l"; lupaL.hidden = true; lienzo.appendChild(lupaL);
+let lupaT = 0;
+function ocultarLupa() { clearTimeout(lupaT); lupa.hidden = true; lupaL.hidden = true; if (vidaTemp) { vidaTemp = null; marcarVida(); } }
+function zonaEn(x) { return L && L.zonas.find(z => x >= z.x - 2 && x <= z.x + z.w + 2); }
+function mostrarLupa(x, y) {
+  const z = zonaEn(x); if (!z) return;
+  clearTimeout(lupaT);
+  const año = Math.round(L.inv(y));
+  const vivos = fichas.filter(f => f.tipo === "persona" && !st.ocultos.has(f.carril) && f.ini <= año && año <= f.fin);
+  if (!vivos.length) { ocultarLupa(); return; }
+  const porCarril = carriles.map(c => [c, vivos.filter(f => f.carril === c.id).sort((a, b) => a.ini - b.ini)]).filter(([, l]) => l.length);
+  lupa.innerHTML = `<div class="lupa-t">Vivían en ${esc(fmt(año))} · ${vivos.length}</div><div class="lupa-a">Toca un nombre para abrir su ficha</div>` +
+    porCarril.map(([c, l]) => `<h4 style="--c:${color(c.id)}">${esc(c.nombre)} · ${l.length}</h4>` +
+      l.map(f => `<button type="button" data-ir="${f.id}" style="--c:${color(f.carril)}"><i></i>${esc(f.titulo)}<span>${esc(fmtFecha(f, false, f.vivo))}</span></button>`).join("")).join("");
+  lupa.querySelectorAll("[data-ir]").forEach(b => {
+    b.onclick = () => { ocultarLupa(); ir(b.dataset.ir, st.sel || undefined); };
+    b.onmouseenter = () => { vidaTemp = b.dataset.ir; marcarVida(); };
+    b.onmouseleave = () => { vidaTemp = null; marcarVida(); };
+  });
+  lupa.hidden = false; lupaL.hidden = false;
+  lupaL.style.cssText = `left:${z.x}px;width:${escena.clientWidth - z.x}px;top:${y}px`;
+  const ancho = Math.min(250, escena.clientWidth - 16);
+  let lx = z.x + z.w + 8; if (lx + ancho > escena.clientWidth - 8) lx = Math.max(8, escena.clientWidth - ancho - 8);
+  lupa.style.width = `${ancho}px`; lupa.style.left = `${lx}px`;
+  const top = escena.scrollTop + 8, bottom = escena.scrollTop + escena.clientHeight - lupa.offsetHeight - 8;
+  // Si no cabe a la derecha de la franja (móvil), va debajo del dedo para no taparlo
+  const tapa = lx < z.x + z.w;
+  lupa.style.top = `${tapa ? Math.min(y + 26, Math.max(top, bottom)) : Math.max(top, Math.min(y - 20, bottom))}px`;
+}
+const yLienzo = e => e.clientY - lienzo.getBoundingClientRect().top;
+const xLienzo = e => e.clientX - lienzo.getBoundingClientRect().left;
+for (const capa of [$("vzonas")]) {
+  capa.addEventListener("mousemove", e => { if (!matchMedia("(hover: none)").matches) mostrarLupa(xLienzo(e), yLienzo(e)); });
+  capa.addEventListener("mouseleave", () => { lupaT = setTimeout(ocultarLupa, 350); });
+}
+// En pantallas táctiles, tocar el eje muestra la lupa
+$("vzonas").addEventListener("click", e => mostrarLupa(xLienzo(e), yLienzo(e)));
+lupa.addEventListener("mouseenter", () => clearTimeout(lupaT));
+lupa.addEventListener("mouseleave", () => { lupaT = setTimeout(ocultarLupa, 350); });
+document.addEventListener("click", e => { if (!lupa.hidden && !lupa.contains(e.target) && !$("vzonas").contains(e.target)) ocultarLupa(); });
+
+// ---------- Navegación entre tarjetas ----------
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+function desplazarA(y) { const lejos = Math.abs(y - escena.scrollTop) > escena.clientHeight * 3;
+  escena.scrollTo({ top: Math.max(0, y), behavior: reduce || lejos ? "auto" : "smooth" }); }
+function enfocar(id) {
+  if (porId[id]?.tipo === "persona") {   // personas: llevar la vista a su nacimiento y marcar su vida en el eje
+    const f = porId[id]; if (!L || !f.fecha) return;
+    marcarVida();
+    const y = L.T(f.ini), vis = escena.clientHeight;
+    if (y < escena.scrollTop + 30 || y > escena.scrollTop + vis - 40) desplazarA(y - vis * 0.3);
+    vidaSel.classList.remove("destello"); void vidaSel.offsetWidth; vidaSel.classList.add("destello"); return;
+  }
+  const el = nodos[id]; if (!el || el.hidden) return;
+  const y = parseFloat(el.style.top), vis = escena.clientHeight;
+  const arriba = escena.scrollTop + 30, abajo = escena.scrollTop + vis - el.offsetHeight - 20;
+  if (y < arriba || y > abajo) desplazarA(y - vis * 0.3);
+  el.classList.remove("destello"); void el.offsetWidth; el.classList.add("destello");
+}
+// ir: seleccionar otra tarjeta y llevar la vista hasta ella (desde = tarjeta de la que se viene, para "Volver")
+function ir(id, desde) {
+  const f = porId[id]; if (!f) return;
+  if (desde && desde !== id) { st.atras.push(desde); if (st.atras.length > 30) st.atras.shift(); }
+  seleccionar(id, true);
+}
+$("volver").onclick = () => { const id = st.atras.pop(); if (id) seleccionar(id, true); };
+
+function seleccionar(id, centrar) {
+  const f = porId[id]; if (!f) return;
+  if (st.ocultos.has(f.carril)) { st.ocultos.delete(f.carril); guardar("crono.ocultos", [...st.ocultos]);
+    sw.querySelector(`[data-c="${f.carril}"]`).setAttribute("aria-pressed", "true"); maquetar(true); }
+  st.sel = id;
+  if (location.hash.slice(1) !== id) history.replaceState(null, "", "#" + id);
+  const estabaCerrada = ficha.hidden;
+  abrirFicha(f);
+  if (estabaCerrada && f.fecha) maquetar(true);   // al abrir la ficha cambia el ancho
+  else pintar();
+  if (f.fecha) requestAnimationFrame(() => { if (centrar || estabaCerrada) enfocar(id); });
+}
+
+// ---------- Ficha lateral, bandeja "Sin fecha" y "Fuentes" ----------
+function abrirPanel(html) {
+  const cerrada = ficha.hidden;
+  ficha.innerHTML = html; ficha.hidden = false; ficha.scrollTop = 0;
+  $("cerrar").onclick = cerrarFicha;
+  ficha.querySelectorAll("[data-ir]").forEach(b => b.onclick = () => ir(b.dataset.ir, st.sel));
+  if (cerrada) maquetar(true);
+}
+function abrirBandeja() {
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const visibles = sinFecha.filter(f => coincide(f) && deAutor(f));
+  const gr = carriles.map(c => [c, visibles.filter(f => f.carril === c.id)]).filter(([, l]) => l.length);
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Bandeja</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>Sin fecha</h2><p class="fautor">Fichas que el autor no sitúa en el tiempo. Se colocarán en el eje cuando haya fecha.${visibles.length < sinFecha.length ? ` Se muestran ${visibles.length} de ${sinFecha.length} por los filtros.` : ""}</p></div>
+    ${gr.map(([c, l]) => `<section class="grupo"><h3>${esc(c.nombre)}</h3><ul class="conex">${l.map(o =>
+      `<li><button type="button" data-ir="${o.id}" style="--c:${color(o.carril)}"><i></i><span><strong>${esc(o.titulo)}</strong></span><small>${esc(o.resumen)}</small></button></li>`).join("")}</ul></section>`).join("") || `<div class="vacio">No hay fichas sin fecha con estos filtros.</div>`}
+  </div>`);
+  pintar();
+}
+function abrirFuentes() {
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const fmtF = f => { if (!f) return ""; const [y, m, d] = f.split("-"); const mes = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"]; return d ? `${+d} de ${mes[m - 1]} de ${y}` : m ? `${mes[m - 1]} de ${y}` : y; };
+  const tipo = { video: "Vídeo", libro: "Libro", web: "Web", pdf: "PDF" };
+  const card = o => { const fs = fichasDeObra(o); return `<section class="fuente">
+      <div class="f-meta">${tipo[o.tipo] || o.tipo}${o.fecha ? ` · ${fmtF(o.fecha)}` : ""}${o.duracion ? ` · ${esc(o.duracion)}` : ""}</div>
+      <h3>${o.url ? `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.titulo)}</a>` : esc(o.titulo)}</h3>
+      <div class="f-autores">${o.autores.map(esc).join(" · ")}</div>
+      ${o.resumen ? `<p>${esc(o.resumen)}</p>` : `<p class="fautor">Sin resumen todavía.</p>`}
+      ${fs.length ? `<details><summary>${fs.length} fichas</summary><ul class="conex">${fs.map(f => `<li><button type="button" data-ir="${f.id}" style="--c:${color(f.carril)}"><i></i><span><strong>${esc(f.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(f, f.tipo === "persona", f.vivo))}</span></span></button></li>`).join("")}</ul></details>` : ""}
+    </section>`; };
+  const pend = obras.filter(o => o.estado !== "procesada");
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Fuentes</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>Fuentes procesadas</h2><p class="fautor">Cada charla u obra con su resumen breve y las fichas que salen de ella.</p></div>
+    ${procesadas.map(card).join("") || `<div class="vacio">Aún no hay fuentes procesadas.</div>`}
+    ${pend.length ? `<section class="grupo"><h3>Pendientes</h3><ul class="pend">${pend.map(o => `<li>${esc(o.titulo)} <span class="fautor">· ${o.autores.map(esc).join(", ")}</span></li>`).join("")}</ul></section>` : ""}
+  </div>`);
+  pintar();
+}
+function cerrarFicha() { st.sel = null; st.atras = []; ficha.hidden = true; history.replaceState(null, "", "#/eje"); maquetar(true); }
+
+// Personas de la cronología que vivían en la fecha de una ficha (o que coincidieron con una persona)
+function contemporaneos(f) {
+  if (!f.fecha) return "";
+  const a = f.ini, b = f.fin;
+  const lista = fichas.filter(p => p.tipo === "persona" && p.id !== f.id && p.ini <= b && p.fin >= a);
+  if (!lista.length) return "";
+  const titulo = f.tipo === "persona" ? `Coincidió con · ${lista.length}` : a === b ? `Vivían en ${fmt(a)} · ${lista.length}` : `Vivían entre ${fmt(a)} y ${fmt(b)} · ${lista.length}`;
+  const cuerpo = carriles.map(c => [c, lista.filter(p => p.carril === c.id).sort((x, y) => x.ini - y.ini)]).filter(([, l]) => l.length)
+    .map(([c, l]) => `<h4 style="--c:${color(c.id)}">${esc(c.nombre)} · ${l.length}</h4><ul class="conex">${l.map(p =>
+      `<li><button type="button" data-ir="${p.id}" style="--c:${color(p.carril)}"><i></i><span><strong>${esc(p.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(p, false, p.vivo))}</span></span></button></li>`).join("")}</ul>`).join("");
+  return `<section class="bloque contemp"><h3>${titulo}</h3>${lista.length > 12 ? `<details><summary>Ver la lista</summary>${cuerpo}</details>` : cuerpo}</section>`;
+}
+// ---------- Capa «Cielo» (calculada, sin autor; nunca ficha) ----------
+const cieloEl = $("cielo");
+const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
+function añoFrac(s) { const [y, m, d] = s.split("-").map(Number); return y + ((m - 1) * 30.4 + (d || 1) - 1) / 365.25; }
+function fechaLarga(s) { const [y, m, d] = s.split("-").map(Number); return `${d} de ${MESES[m - 1]} de ${y}`; }
+function tituloCiclo(k) { return `${k.par} · ${k.aspecto} (orbe ${k.orbe}°)\n${fechaLarga(k.desde)} – ${fechaLarga(k.hasta)}${(k.exactos || []).length ? `\nExacto: ${k.exactos.map(fechaLarga).join(", ")}` : ""}`; }
+const notaCielo = () => `<p class="nota">Calculado, no lo dice ningún autor. ${esc(CIELO.metodo)} Rango fiable: ${CIELO.rango.planetas[0]}–${CIELO.rango.planetas[1]} (Plutón: tabla de JPL Horizons desde 1599; en ciclos y recuentos, ${CIELO.rango.pluton[0]}–${CIELO.rango.pluton[1]}); antes no se calcula.</p>`;
+const listaFichas = ids => `<ul class="conex">${ids.map(id => porId[id]).filter(Boolean).map(o =>
+  `<li><button type="button" data-ir="${o.id}" style="--c:${color(o.carril)}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span></button></li>`).join("")}</ul>`;
+cieloEl.addEventListener("click", e => { const b = e.target.closest("[data-ciclo]"); if (b) abrirCiclo(CIELO.ciclos[+b.dataset.ciclo]); });
+function abrirCiclo(k) {
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const a = añoFrac(k.desde), b = añoFrac(k.hasta);
+  const dentro = fichas.filter(f => f.tipo !== "persona" && f.fecha && f.ini <= Math.floor(b) && f.fin >= Math.floor(a) && !st.ocultos.has(f.carril)).sort((x, y) => x.ini - y.ini);
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Cielo · calculado</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>${esc(k.par)} · ${esc(k.aspecto)}</h2><div class="fecha">${fechaLarga(k.desde)} – ${fechaLarga(k.hasta)} · orbe ${k.orbe}°</div>
+    ${(k.exactos || []).length ? `<div class="fautor">Exacto: ${k.exactos.map(fechaLarga).join(" · ")}</div>` : ""}</div>
+    <section class="bloque"><h3>Hechos de esos años · ${dentro.length}</h3>${dentro.length ? listaFichas(dentro.map(f => f.id)) : `<div class="vacio">Ningún hecho fechado en ese periodo con estos filtros.</div>`}
+    <p class="nota">Coincidir en el tiempo no es una relación: es solo lo que había en el cielo. Para la comparación con el azar, ver «Paralelos».</p></section>
+    ${notaCielo()}
+  </div>`);
+  pintar();
+}
+function cieloDia(f) {
+  const c = CIELO && CIELO.dias[f.id]; if (!c) return "";
+  if (c.fuera) return `<section class="bloque cielo-dia"><h3>Cielo ese día · calculado</h3><p class="nota">${fechaLarga(c.fecha)}: fuera del rango fiable del cálculo (${CIELO.rango.planetas[0]}–${CIELO.rango.planetas[1]}). No se calcula.</p></section>`;
+  return `<section class="bloque cielo-dia"><h3>Cielo ese día · calculado</h3>
+    <div class="fecha">${fechaLarga(c.fecha)} · 12:00 UTC</div>
+    <div class="pos">${Object.entries(c.pos).map(([p, v]) => `<span>${esc(p)} ${esc(v)}</span>`).join("")}</div>
+    ${(c.aspectos || []).length ? `<p>${c.aspectos.map(x => `${esc(x.a)}–${esc(x.b)}: ${esc(x.aspecto)} (orbe ${x.orbe}°)`).join(" · ")}</p>` : `<p class="nota">Sin aspectos entre planetas lentos ese día.</p>`}
+    ${c.sin_pluton ? `<p class="nota">Sin Plutón: la tabla de JPL Horizons empieza en 1599; antes no se calcula.</p>` : ""}
+    ${estrellasDiaHTML(c.fecha)}
+    <p class="nota">Calculado, no lo dice ningún autor. Sin Luna ni casas: la ficha no da la hora. Las estrellas y su naturaleza salen del libro de Robson (1923).</p></section>`;
+}
+function estrellasDiaHTML(fechaISO) {
+  if (!window.MOTOR || !/^\d{4}-\d{1,2}-\d{1,2}$/.test(fechaISO || "")) return "";
+  const [y, m, d] = fechaISO.split("-").map(Number);
+  const jd = MOTOR.jdDesdeFecha(y, m, d, 12);
+  const cerca = MOTOR.estrellasCerca(jd, 1).slice(0, 8);
+  if (!cerca.length) return "";
+  const filas = cerca.map(c => {
+    const rob = c.robson;
+    const nat = rob && rob.naturaleza ? ` · ${esc(rob.naturaleza)}` : "";
+    const txt = rob && rob.influencia ? `<small>${esc(rob.influencia.slice(0, 240))}${rob.influencia.length > 240 ? "…" : ""}</small>` : "";
+    return `<li><b>${esc(c.cuerpo)}</b> · ${esc(c.estrella.nombre)} (mag ${c.estrella.mag}) · orbe ${c.orbe.toFixed(2)}°${nat}${txt}</li>`;
+  }).join("");
+  return `<div class="estrellas-dia"><h4>Estrellas sobre los planetas · orbe 1°</h4><ul>${filas}</ul></div>`;
+}
+function abrirParalelos() {
+  if (!CIELO) return;
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const pares = [...new Set(CIELO.ciclos.map(k => k.par))];
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Paralelos · calculado</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>Paralelos</h2><p class="fautor">Se cuenta cuántos hechos caen en un aspecto del cielo y se compara con lo que daría el azar. Observaciones, no pruebas.</p></div>
+    ${CIELO.paralelos.map(p => `<section class="paralelo"><h3>${esc(p.id)} · ${esc(p.titulo)}</h3>
+      <p>${esc(p.pregunta)}</p>
+      <div class="cifras"><span>Hechos: ${p.aciertos} de ${p.n} (${Number(p.porc_hechos).toFixed(1).replace(".", ",")} %)</span><span>Al azar: ${Number(p.porc_azar).toFixed(1).replace(".", ",")} % (≈ ${String(p.esperado).replace(".", ",")})</span><span>Razón: ${String(p.razon).replace(".", ",")}</span></div>
+      <p><strong>Lectura:</strong> ${esc(p.lectura)}</p>
+      <p class="nota">Recuento sobre todas las fichas del repositorio; abajo, solo las que se ven en esta página.</p>
+      ${(p.hechos || []).length ? `<details><summary>${p.hechos.length} hechos enlazados</summary>${listaFichas(p.hechos)}</details>` : ""}
+    </section>`).join("")}
+    <section class="bloque"><h3>La franja «Cielo»</h3><p>Junto al eje, una pista por par (de izquierda a derecha): ${pares.map(esc).join(" · ")}. Pulsa una banda para ver su periodo.</p>
+      <div class="leyenda-cielo"><span><i></i>conjunción</span><span><i class="cuadratura"></i>cuadratura</span><span><i class="oposición"></i>oposición</span></div></section>
+    ${notaCielo()}
+  </div>`);
+  pintar();
+}
+
+// ---------- Matriz de autores (2026-11-18): quién firma qué siglo y dónde chocan ----------
+function grafoTemporal(auts) {
+  const Y0 = 1400, W = 1000, GUT = 150, PAD = 12, TOP = 30, LH = 36;
+  const conFecha = todas.filter(f => f.fecha && typeof f.ini === "number");
+  const yMax = Math.max(2030, ...conFecha.map(f => f.ini));
+  const dentro = conFecha.filter(f => f.ini >= Y0);
+  const ancho = W - GUT - PAD;
+  const X = y => GUT + (y - Y0) / (yMax - Y0) * ancho;
+  const centro = {}, cuenta = {};
+  auts.forEach((a, i) => { centro[a.id] = TOP + i * LH + LH / 2; cuenta[a.id] = 0; });
+  const paso = ancho / ((yMax - Y0) / 10);
+  const anchoCel = Math.max(4, paso - 1.2);
+  const dec = y => Math.floor(y / 10) * 10;
+  const celdas = {}, arcos = [];
+  dentro.forEach(f => {
+    const autsF = [...new Set((f.segun || []).map(s => s.autor))]
+      .filter(id => centro[id] !== undefined).sort((a, b) => centro[a] - centro[b]);
+    autsF.forEach(id => {
+      const k = id + "|" + dec(f.ini);
+      if (!celdas[k]) celdas[k] = { a: id, d: dec(f.ini), ids: [] };
+      celdas[k].ids.push(f.id);
+      cuenta[id]++;
+    });
+    const contra = (f.segun || []).some(s => (s.contradice || []).length);
+    const coincide = (f.segun || []).some(s => (s.coincide || []).length);
+    for (let i = 1; i < autsF.length; i++) {
+      arcos.push({
+        x: X(f.ini), ya: centro[autsF[i - 1]], yb: centro[autsF[i]], contra, coincide, id: f.id,
+        t: `${fmtFecha(f)} · ${f.titulo} · ${autsF.map(a => autores[a].nombre).join(" + ")}`
+      });
+    }
+  });
+  const maxC = Math.max(1, ...Object.values(celdas).map(c => c.ids.length));
+  const eje = [];
+  for (let y = 1400; y <= yMax; y += 100) {
+    eje.push(`<line x1="${X(y).toFixed(1)}" y1="${TOP - 6}" x2="${X(y).toFixed(1)}" y2="${TOP + auts.length * LH - 10}" stroke="var(--linea)" stroke-width=".6"/>`
+      + `<text x="${X(y).toFixed(1)}" y="${TOP - 11}" text-anchor="middle">${y}</text>`);
+  }
+  const bandas = auts.map(a => {
+    const y = centro[a.id];
+    return `<rect x="${GUT}" y="${y - LH / 2 + 3}" width="${ancho}" height="${LH - 6}" fill="var(--linea)" opacity=".14" rx="3"/>`
+      + `<text x="0" y="${y + 3}" class="tg-n">${esc(a.nombre)}</text>`
+      + `<text x="0" y="${y + 15}" class="tg-sub">${cuenta[a.id]} ficha(s) desde 1400</text>`;
+  }).join("");
+  const marcas = Object.values(celdas).map(c => {
+    const alfa = (0.14 + 0.76 * c.ids.length / maxC).toFixed(2);
+    return `<rect class="tg-mark" data-tg="${c.ids.join(",")}" x="${(X(c.d) + 0.6).toFixed(1)}" y="${centro[c.a] - 9}" width="${anchoCel.toFixed(1)}" height="18" rx="2" fill="var(--tinta)" opacity="${alfa}"><title>${esc(autores[c.a].nombre)} · ${c.d}s · ${c.ids.length} ficha(s)</title></rect>`;
+  }).join("");
+  const lineas = arcos.map(a => {
+    const col = a.contra ? "#c0392b" : a.coincide ? "#2e7d32" : "var(--tenue)";
+    return `<path class="tg-arco" data-tg="${a.id}" d="M${a.x.toFixed(1)} ${a.ya} Q${(a.x + 16).toFixed(1)} ${(a.ya + a.yb) / 2} ${a.x.toFixed(1)} ${a.yb}" stroke="${col}"><title>${esc(a.t)}</title></path>`;
+  }).join("");
+  const alto = TOP + auts.length * LH + 10;
+  return `<svg class="tg" viewBox="0 0 ${W} ${alto}" role="img" aria-label="Cuándo firma cada autor y con quién">${eje.join("")}${bandas}${lineas}${marcas}</svg>`;
+}
+
+function abrirMatriz() {
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const auts = Object.values(autores);
+  const conAutor = todas.filter(f => (f.segun || []).length);
+  const conFecha = conAutor.filter(f => f.fecha);
+  const siglo = y => Math.floor(y / 100) * 100;
+  const etiqueta = s => s >= 0 ? `${s}` : `${-s} a.C.`;
+  if (!conAutor.length) {
+    abrirPanel(`<div class="ficha-in bandeja"><div class="ficha-top"><span class="pill">Matriz de autores</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div><div class="vacio">No hay fichas con autor.</div></div>`);
+    return;
+  }
+  const siglos = conFecha.map(f => siglo(f.ini));
+  const min = Math.min(...siglos), max = Math.max(...siglos);
+  const cols = []; for (let s = min; s <= max; s += 100) cols.push(s);
+  const filasCols = [...cols, "sin"];
+  const celda = {};
+  auts.forEach(a => filasCols.forEach(c => celda[a.id + "|" + c] = { n: 0, contra: 0, coinc: 0, ids: [] }));
+  conAutor.forEach(f => {
+    const c = f.fecha ? siglo(f.ini) : "sin";
+    (f.segun || []).forEach(s => {
+      const k = s.autor + "|" + c; if (!celda[k]) return;
+      celda[k].n++; celda[k].ids.push(f.id);
+      if ((s.contradice || []).length) celda[k].contra++;
+      if ((s.coincide || []).length) celda[k].coinc++;
+    });
+  });
+  const maxN = Math.max(1, ...Object.values(celda).map(c => c.n));
+  const filas = filasCols.map(c => `<tr><th scope="row">${c === "sin" ? "Sin fecha" : etiqueta(c)}</th>${auts.map(a => {
+    const d = celda[a.id + "|" + c];
+    if (!d.n) return `<td><span class="cero" title="Sin fichas de ${esc(a.nombre)} en ${c === "sin" ? "sin fecha" : etiqueta(c)}">·</span></td>`;
+    const alfa = (0.12 + 0.88 * d.n / maxN).toFixed(2);
+    return `<td><button type="button" class="cel" data-matriz="${a.id}|${c}" style="background:rgba(128,130,140,${alfa})" title="${esc(a.nombre)} · ${etiqueta(c)} · ${d.n} ficha(s)${d.contra ? ` · ${d.contra} con contradicción` : ""}${d.coinc ? ` · ${d.coinc} coincidencia(s)` : ""}"><span>${d.n}</span>${d.contra ? '<i class="choca" aria-hidden="true"></i>' : ""}${d.coinc ? '<i class="coinc" aria-hidden="true"></i>' : ""}</button></td>`;
+  }).join("")}</tr>`).join("");
+  const cabecera = auts.map(a => `<th scope="col" title="${esc(a.nombre)}">${esc(a.nombre.split(" ")[0])}</th>`).join("");
+
+  const solapa = {}, choca = {};
+  auts.forEach(a => auts.forEach(b => { solapa[a.id + "|" + b.id] = 0; choca[a.id + "|" + b.id] = 0; }));
+  conAutor.forEach(f => {
+    const ids = [...new Set((f.segun || []).map(s => s.autor))].filter(x => autores[x]);
+    ids.forEach(a => ids.forEach(b => { if (a !== b) solapa[a + "|" + b]++; }));
+    (f.segun || []).forEach(s => (s.contradice || []).forEach(b => {
+      if (autores[s.autor] && autores[b]) { choca[s.autor + "|" + b]++; choca[b + "|" + s.autor]++; }
+    }));
+  });
+  const maxSol = Math.max(1, ...Object.values(solapa));
+  const conContra = conAutor.filter(f => (f.segun || []).some(s => (s.contradice || []).length)).length;
+  const conCoinc = new Set(conAutor.filter(f => (f.segun || []).some(s => (s.coincide || []).length)).map(f => f.id)).size;
+  const svgTemporal = grafoTemporal(auts);
+  const pre1400 = todas.filter(f => f.fecha && typeof f.ini === "number" && f.ini < 1400).length;
+  const sinFecha = todas.filter(f => !f.fecha).length;
+
+  // Huecos: fichas por siglo y carril (todas las fichas, no solo las firmadas)
+  const porSiglo = {};
+  carriles.forEach(c => { porSiglo[c.id] = {}; filasCols.forEach(s => porSiglo[c.id][s] = 0); });
+  todas.forEach(f => {
+    const s = f.fecha ? siglo(f.ini) : "sin";
+    if (porSiglo[f.carril] && porSiglo[f.carril][s] !== undefined) porSiglo[f.carril][s]++;
+  });
+  const maxH = Math.max(1, ...carriles.flatMap(c => filasCols.map(s => porSiglo[c.id][s])));
+  const filasHuecos = filasCols.map(s => `<tr><th scope="row">${s === "sin" ? "Sin fecha" : etiqueta(s)}</th>${carriles.map(c => {
+    const n = porSiglo[c.id][s];
+    if (!n) return `<td><span class="cero" title="Sin fichas en ${esc(c.nombre)} · ${s === "sin" ? "sin fecha" : etiqueta(s)}">·</span></td>`;
+    const alfa = (0.12 + 0.88 * n / maxH).toFixed(2);
+    return `<td><span class="cel" style="background:rgba(128,130,140,${alfa});cursor:default" title="${esc(c.nombre)} · ${s === "sin" ? "sin fecha" : etiqueta(s)} · ${n} ficha(s)"><span>${n}</span></span></td>`;
+  }).join("")}</tr>`).join("");
+  const filas2 = auts.map(a => `<tr><th scope="row">${esc(a.nombre)}</th>${auts.map(b => {
+    if (a.id === b.id) return `<td><span class="cero">—</span></td>`;
+    const n = solapa[a.id + "|" + b.id], x = choca[a.id + "|" + b.id];
+    if (!n) return `<td><span class="cero" title="${esc(a.nombre)} y ${esc(b.nombre)} no coinciden en ninguna ficha">·</span></td>`;
+    const alfa = (0.12 + 0.88 * n / maxSol).toFixed(2);
+    return `<td><button type="button" class="cel" data-par="${a.id}|${b.id}" style="background:rgba(128,130,140,${alfa})" title="${esc(a.nombre)} y ${esc(b.nombre)}: ${n} ficha(s)${x ? `, ${x} contradicción(es)` : ""}"><span>${n}</span>${x ? '<i class="choca" aria-hidden="true"></i>' : ""}</button></td>`;
+  }).join("")}</tr>`).join("");
+
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Matriz de autores</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>Quién firma qué</h2><p class="fautor">Cada fila, un siglo (la última, las fichas sin fecha); cada columna, un autor. La intensidad es el número de fichas que firma ahí; el punto rojo, que alguna de esas fichas contradice a otro autor. Un punto es un siglo que ese autor no toca. Pulsa una celda para ver las fichas.</p></div>
+    <section class="bloque"><h3>Fichas por autor y siglo</h3>
+      <div class="matriz-scroll"><table class="matriz"><thead><tr><th></th>${cabecera}</tr></thead><tbody>${filas}</tbody></table></div>
+      <div id="matriz-detalle" class="matriz-detalle"></div>
+    </section>
+    <section class="bloque"><h3>Solapamiento entre autores</h3>
+      <p class="fautor">Fichas que firman dos autores a la vez. En rojo, cuántas veces uno contradice al otro: lo que la web hoy solo dice abriendo cada ficha.</p>
+      <div class="matriz-scroll"><table class="matriz"><thead><tr><th></th>${auts.map(a => `<th scope="col">${esc(a.nombre.split(" ")[0])}</th>`).join("")}</tr></thead><tbody>${filas2}</tbody></table></div>
+      <div id="matriz-detalle2" class="matriz-detalle"></div>
+    </section>
+    <section class="bloque"><h3>Huecos por carril</h3>
+      <p class="fautor">Fichas por siglo y carril. Donde no hay número no hay ficha: el hueco también es información.</p>
+      <div class="matriz-scroll"><table class="matriz"><thead><tr><th></th>${carriles.map(c => `<th scope="col">${esc(NOMBRES_UI[c.id] || c.nombre)}</th>`).join("")}</tr></thead><tbody>${filasHuecos}</tbody></table></div>
+    </section>
+    <section class="bloque"><h3>Cuándo firma cada autor</h3>
+      <p class="fautor">Cada franja es un autor y cada columna una década; cuanto más oscura, más fichas firma ahí. La línea cruza a dos autores cuando firman la misma ficha: el tiempo deja de ser una tabla y se ve dónde se encuentran.</p>
+      <div class="leyenda-tg"><span><i class="celda"></i>fichas firmadas por década</span><span><i class="roja"></i>se contradicen</span><span><i class="verde"></i>coincide un autor de ciencia</span><span><i></i>solo se solapan</span></div>
+      <div class="matriz-scroll">${svgTemporal}</div>
+      <div id="matriz-detalle3" class="matriz-detalle"></div>
+      <p class="nota">La escala empieza en 1400: quedan fuera ${pre1400} ficha(s) anteriores y ${sinFecha} sin fecha, que están en la tabla de arriba. Un hueco horizontal es un autor que no firma nada en esa época; la raya vertical, que el corpus se concentra.</p>
+    </section>
+    <p class="nota">La matriz mide lo que dicen los autores, no lo que está validado: el estado no cambia el recuento. Punto rojo: contradicción entre autores (hoy, ${conContra} ficha(s)). Punto verde: coincidencia con un autor de ciencia (${conCoinc} ficha(s)). Las fichas sin fecha van en su propia fila: no se esconden.</p>
+  </div>`);
+  ficha.querySelectorAll("[data-matriz]").forEach(b => b.onclick = () => {
+    const [au, c] = b.dataset.matriz.split("|");
+    const d = celda[au + "|" + c];
+    const cuando = c === "sin" ? "Sin fecha" : etiqueta(+c);
+    $("matriz-detalle").innerHTML = `<h4>${esc(autores[au].nombre)} · ${cuando} · ${d.n} ficha(s)</h4>` + listaFichas(d.ids) + (d.contra ? `<p class="nota">${d.contra} de ellas con contradicción a otro autor.</p>` : "");
+  });
+  ficha.querySelectorAll("[data-tg]").forEach(b => b.onclick = () => {
+    const ids = b.dataset.tg.split(",");
+    $("matriz-detalle3").innerHTML = `<h4>${ids.length} ficha(s) en esa marca</h4>` + listaFichas(ids);
+  });
+  ficha.querySelectorAll("[data-par]").forEach(b => b.onclick = () => {
+    const [a, b2] = b.dataset.par.split("|");
+    const ids = conAutor.filter(f => (f.segun || []).some(s => s.autor === a) && (f.segun || []).some(s => s.autor === b2)).map(f => f.id);
+    $("matriz-detalle2").innerHTML = `<h4>${esc(autores[a].nombre)} · ${esc(autores[b2].nombre)} · ${ids.length} ficha(s)</h4>` + listaFichas(ids);
+  });
+}
+
+// ---------- Mapa del cielo (2026-11-18): planetas y estrellas fijas, calculados ----------
+const SIGNOS_R = ["Ari", "Tau", "Gem", "Can", "Leo", "Vir", "Lib", "Esc", "Sag", "Cap", "Acu", "Pis"];
+const COLOR_PLANETA = { Sol: "#c9962a", Luna: "#8d99a6", Mercurio: "#8a6fb0", Venus: "#3f8f6f", Marte: "#b0462d",
+                        "Júpiter": "#a87a2a", Saturno: "#6b5a3e", Urano: "#2b68ad", Neptuno: "#2a6f8f", "Plutón": "#7a3b52" };
+
+function ruedaHTML(pos, jd) {
+  const C = 320, R1 = 268, R2 = 236, RE = 212, RP = 168;
+  const P = (deg, r) => { const a = (deg - 90) * Math.PI / 180; return [C + r * Math.cos(a), C + r * Math.sin(a)]; };
+  let s = `<svg class="rueda" viewBox="0 0 640 640" role="img" aria-label="Mapa del cielo">`;
+  s += `<circle cx="${C}" cy="${C}" r="${R1}" fill="none" stroke="var(--linea)"/>`;
+  s += `<circle cx="${C}" cy="${C}" r="${R2}" fill="none" stroke="var(--linea)"/>`;
+  for (let i = 0; i < 12; i++) {
+    const [x, y] = P(i * 30, R1), [x2, y2] = P(i * 30, R2);
+    s += `<line x1="${x.toFixed(1)}" y1="${y.toFixed(1)}" x2="${x2.toFixed(1)}" y2="${y2.toFixed(1)}" stroke="var(--linea)" opacity=".8"/>`;
+    const [lx, ly] = P(i * 30 + 15, (R1 + R2) / 2);
+    s += `<text x="${lx.toFixed(1)}" y="${(ly + 4).toFixed(1)}" text-anchor="middle" class="rueda-signo">${SIGNOS_R[i]}</text>`;
+  }
+  for (const e of MOTOR.ESTRELLAS) {
+    const lon = MOTOR.longitudEstrella(e, jd);
+    const [x, y] = P(lon, RE);
+    const r = Math.max(1, 3 - e.mag * 0.55);
+    const rob = MOTOR.robsonDe(e);
+    const t = `${e.nombre} · mag ${e.mag} · ${MOTOR.signo(lon)}${rob && rob.naturaleza ? " · " + rob.naturaleza : ""}`;
+    s += `<circle class="rueda-est" data-est="${MOTOR.ESTRELLAS.indexOf(e)}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${r.toFixed(1)}" fill="var(--tenue)" opacity="${Math.min(1, 0.45 + 0.55 * (3 - e.mag) / 4).toFixed(2)}"><title>${esc(t)}</title></circle>`;
+  }
+  for (const [n, lon] of Object.entries(pos)) {
+    const [x, y] = P(lon, RP);
+    s += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5" fill="${COLOR_PLANETA[n] || "var(--tinta)"}"/>`;
+    const [tx, ty] = P(lon, RP - 14);
+    s += `<text x="${tx.toFixed(1)}" y="${(ty + 4).toFixed(1)}" text-anchor="middle" class="rueda-planeta-n">${esc(n.slice(0, 3))}</text>`;
+  }
+  const [nx, ny] = P(0, 0);
+  s += `<circle cx="${nx}" cy="${ny}" r="3" fill="var(--tenue)"/>`;
+  return s + `</svg>`;
+}
+
+function abrirRueda() {
+  if (!window.MOTOR) { alert("El motor del cielo no está cargado (cielo-datos.js). Ejecuta herramientas/compilar_cielo.py."); return; }
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const hoy = new Date();
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Mapa del cielo · calculado</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>El cielo de una fecha</h2><p class="fautor">Los planetas y las estrellas fijas (magnitud 3 o más brillante) en cualquier fecha de −3000 a 3000. Se calcula aquí mismo: VSOP87 para los planetas, ELP2000 para la Luna, precesión y movimiento propio para las estrellas. Pulsa una estrella para leer lo que escribió Robson.</p></div>
+    <div class="rueda-controles">
+      <label>Año<input id="r-a" type="number" min="-3000" max="3000" step="1" value="${hoy.getFullYear()}"></label>
+      <label>Mes<input id="r-m" type="number" min="1" max="12" step="1" value="${hoy.getMonth() + 1}"></label>
+      <label>Día<input id="r-d" type="number" min="1" max="31" step="1" value="${hoy.getDate()}"></label>
+      <label>Hora UT<input id="r-h" type="number" min="0" max="23" step="1" value="12"></label>
+      <button type="button" class="pill" id="r-hoy">Hoy</button>
+    </div>
+    <div class="rueda-wrap">
+      <div><div id="rueda-mapa"></div><div id="rueda-pos" class="pos" style="font:12.5px var(--f-num);margin-top:8px"></div></div>
+      <div><h4 style="margin:0 0 8px;font:600 11px var(--f-ui);text-transform:uppercase;letter-spacing:.08em;color:var(--tenue)">Estrellas sobre planetas · orbe 1°</h4>
+      <div class="rueda-lista" id="rueda-lista"></div></div>
+    </div>
+    <div id="rueda-detalle" class="matriz-detalle"></div>
+    <p class="nota">Longitudes eclípticas tropicales de la fecha, sin casas. El punto de un planeta no es su tamaño: todos igual. El de una estrella, sí: cuanto mayor, más brillante. Las fechas anteriores al 15-10-1582 se calculan en calendario juliano.</p>
+  </div>`);
+
+  const pintarRueda = () => {
+    const y = Math.max(-3000, Math.min(3000, +$("r-a").value || 2000));
+    const m = Math.max(1, Math.min(12, +$("r-m").value || 1));
+    const di = Math.max(1, Math.min(31, +$("r-d").value || 1));
+    const h = Math.max(0, Math.min(23, +$("r-h").value || 0));
+    const jd = MOTOR.jdDesdeFecha(y, m, di, h);
+    const pos = MOTOR.posiciones(jd, y, m);
+    $("rueda-mapa").innerHTML = ruedaHTML(pos, jd);
+    $("rueda-pos").innerHTML = Object.entries(pos).map(([n, v]) => `<span style="margin-right:12px"><b style="color:${COLOR_PLANETA[n] || "inherit"}">${esc(n)}</b> ${MOTOR.signo(v)}</span>`).join("");
+    const cerca = MOTOR.estrellasCerca(jd, 1);
+    $("rueda-lista").innerHTML = cerca.length ? cerca.map(c => {
+      const rob = c.robson;
+      return `<div class="rueda-item"><b>${esc(c.estrella.nombre)}</b> sobre <b>${esc(c.cuerpo)}</b> · orbe ${c.orbe.toFixed(2)}°<small>${rob && rob.naturaleza ? "Naturaleza: " + esc(rob.naturaleza) : "Robson no la escribe con letras"}</small></div>`;
+    }).join("") : `<p class="nota">Ninguna estrella de magnitud ≤ 3 a menos de 1° de un planeta ese día.</p>`;
+    $("rueda-mapa").querySelectorAll("[data-est]").forEach(b => b.onclick = () => {
+      const e = MOTOR.ESTRELLAS[+b.dataset.est];
+      const lon = MOTOR.longitudEstrella(e, jd);
+      const rob = MOTOR.robsonDe(e);
+      $("rueda-detalle").innerHTML = `<h4>${esc(e.nombre)} · mag ${e.mag} · ${MOTOR.signo(lon)}</h4>`
+        + (rob ? `<p><b>Robson, ${esc(rob.nombre)}</b>${rob.naturaleza ? ` · naturaleza: ${esc(rob.naturaleza)}` : ""}</p><p style="font-family:var(--f-lectura);font-size:13.5px;line-height:1.45">${esc(rob.influencia)}</p>` : `<p class="nota">Esta estrella no está entre las entradas del libro que se pudieron leer.</p>`);
+    });
+  };
+  ["r-a", "r-m", "r-d", "r-h"].forEach(id => $(id).oninput = pintarRueda);
+  $("r-hoy").onclick = () => {
+    const n = new Date();
+    $("r-a").value = n.getFullYear(); $("r-m").value = n.getMonth() + 1; $("r-d").value = n.getDate(); $("r-h").value = 12;
+    pintarRueda();
+  };
+  pintarRueda();
+}
+
+// ---------- Estrellas y sus tránsitos (2026-11-18): ¿cuándo estuvo Saturno sobre Regulus? ----------
+// Se calcula al pulsar, para una estrella o un planeta elegidos, 1885-2026, paso de 1 día a
+// 12:00 UTC. No se precarga nada: 178 estrellas por 140 años cuelga el navegador.
+// Barrido: se mira el planeta cada pocos días y solo se baja a día a día donde podría haber
+// tránsito (margen = orbe + velocidad máxima del planeta × paso), así que no se salta ninguno.
+const TR_CUERPOS = ["Sol", "Mercurio", "Venus", "Marte", "Júpiter", "Saturno", "Urano", "Neptuno", "Plutón"];
+const TR_VMAX = { Sol: 1.05, Mercurio: 2.4, Venus: 1.35, Marte: 0.9, "Júpiter": 0.26, Saturno: 0.14, Urano: 0.07, Neptuno: 0.04, "Plutón": 0.05 }; // grados/día, con holgura
+const TR_PASO = { Sol: 4, Mercurio: 4, Venus: 4, Marte: 6, "Júpiter": 10, Saturno: 10, Urano: 15, Neptuno: 15, "Plutón": 15 };
+const TR_ES = { Sun: "Sol", Mercury: "Mercurio", Venus: "Venus", Mars: "Marte", Jupiter: "Júpiter", Saturn: "Saturno" };
+const trNatDe = rob => {
+  if (!rob || !rob.naturaleza) return null;
+  const s = new Set(); for (const [en, es] of Object.entries(TR_ES)) if (new RegExp("\\b" + en + "\\b").test(rob.naturaleza)) s.add(es);
+  return s.size ? s : null;
+};
+const trFecha = jd => { const [y, m, d] = MOTOR.fechaDesdeJd(jd); return `${y}-${String(m).padStart(2, "0")}-${String(Math.floor(d)).padStart(2, "0")}`; };
+const trSep = (a, b) => Math.abs(((a - b) % 360 + 540) % 360 - 180);
+let trTurno = 0;
+
+function abrirTransitos() {
+  if (!window.MOTOR || !MOTOR.longitudCuerpo) { alert("El motor del cielo no está cargado (cielo-datos.js y cielo.js)."); return; }
+  st.sel = null; history.replaceState(null, "", location.pathname + location.search);
+  const est = MOTOR.ESTRELLAS.map((e, i) => ({ e, i, rob: MOTOR.robsonDe(e) })).sort((a, b) => a.e.nombre.localeCompare(b.e.nombre));
+  const reg = est.find(x => x.e.nombre === "Regulus");
+  abrirPanel(`<div class="ficha-in bandeja">
+    <div class="ficha-top"><span class="pill">Estrellas · tránsitos · calculado</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>¿Cuándo estuvo un planeta sobre una estrella?</h2><p class="fautor">Elige una estrella (y uno o todos los planetas) o un planeta (sobre todas las estrellas). Se calcula aquí, día a día de 1885 a 2026 a 12:00 UTC, con el mismo motor que la Rueda. Cada paso enlaza las fichas de esos años. Sin Luna: ninguna ficha da la hora.</p></div>
+    <div class="rueda-controles">
+      <label>Estrella<select id="t-est"><option value="">— todas (planeta elegido) —</option>${est.map(x => `<option value="${x.i}"${reg && x.i === reg.i ? " selected" : ""}>${esc(x.e.nombre)} · mag ${x.e.mag}${x.rob && x.rob.naturaleza ? " · " + esc(x.rob.naturaleza) : ""}</option>`).join("")}</select></label>
+      <label>Planeta<select id="t-pla"><option value="">— todos —</option>${TR_CUERPOS.map(c => `<option${c === "Saturno" ? " selected" : ""}>${c}</option>`).join("")}</select></label>
+      <label>Orbe °<input id="t-orbe" type="number" min="0.1" max="3" step="0.1" value="1"></label>
+      <button type="button" class="pill" id="t-ir">Calcular</button>
+    </div>
+    <div id="t-estado" class="nota"></div>
+    <div id="t-robson"></div>
+    <div id="t-tabla"></div>
+    <p class="nota">Un paso es la racha de días seguidos dentro del orbe; con la retrogradación un planeta lento puede pasar tres veces. «Misma naturaleza» = el planeta está entre los que Robson nombra para la estrella. Robson solo aparece si su entrada se pudo emparejar con seguridad (42 de 178 estrellas); si no, se dice. Hechos con día: los de PAR-001, con fecha exacta dentro del paso.</p>
+  </div>`);
+  $("t-ir").onclick = calcularTransitos;
+  calcularTransitos();
+}
+
+function calcularTransitos() {
+  const turno = ++trTurno;
+  const iE = $("t-est").value, pla = $("t-pla").value;
+  const orbe = Math.max(0.1, Math.min(3, +$("t-orbe").value || 1));
+  if (iE === "" && !pla) { $("t-estado").textContent = "Elige al menos una estrella o un planeta: las 178 estrellas con todos los planetas a la vez cuelgan la página."; $("t-tabla").innerHTML = ""; $("t-robson").innerHTML = ""; return; }
+  const estrellas = iE === "" ? MOTOR.ESTRELLAS : [MOTOR.ESTRELLAS[+iE]];
+  const cuerpos = pla ? [pla] : TR_CUERPOS;
+  if (iE !== "") {
+    const e = estrellas[0], rob = MOTOR.robsonDe(e);
+    $("t-robson").innerHTML = `<div class="matriz-detalle"><h4>${esc(e.nombre)} · mag ${e.mag} · hoy en ${MOTOR.signo(MOTOR.longitudEstrella(e, MOTOR.jdDesdeFecha(2026, 1, 1, 12)))}</h4>`
+      + (rob ? `<p><b>Robson, ${esc(rob.nombre)}</b>${rob.naturaleza ? ` · naturaleza: ${esc(rob.naturaleza)}` : " · sin naturaleza escrita"}</p><p style="font-family:var(--f-lectura);font-size:13.5px;line-height:1.45">${esc(rob.influencia)}</p>`
+             : `<p class="nota">Esta estrella no está entre las entradas del libro de Robson que se pudieron leer y emparejar. No se rellena.</p>`) + `</div>`;
+  } else $("t-robson").innerHTML = "";
+  const jd0 = MOTOR.jdDesdeFecha(1885, 1, 1, 12), jd1 = MOTOR.jdDesdeFecha(2026, 12, 31, 12);
+  const datosEst = estrellas.map(e => ({ e, rob: MOTOR.robsonDe(e), cache: {} }));
+  const lonAnual = (x, y) => x.cache[y] ?? (x.cache[y] = MOTOR.longitudEstrella(x.e, MOTOR.jdDesdeFecha(y, 7, 1, 12)));
+  const pasos = [];
+  const tareas = cuerpos.map(c => ({ c, jd: jd0, abiertos: new Map() }));
+  let it = 0;
+  const lonDia = (c, jd) => { const [y, m] = MOTOR.fechaDesdeJd(jd); return MOTOR.longitudCuerpo(c, jd, y, m); };
+  const cerrar = (t, k) => { const p = t.abiertos.get(k); if (p) { pasos.push(p); t.abiertos.delete(k); } };
+  function trozo() {
+    if (turno !== trTurno) return;
+    const fin = performance.now() + 40;
+    while (it < tareas.length && performance.now() < fin) {
+      const t = tareas[it], v = TR_VMAX[t.c], s = TR_PASO[t.c];
+      if (t.jd > jd1) { for (const k of [...t.abiertos.keys()]) cerrar(t, k); it++; continue; }
+      const [y, m] = MOTOR.fechaDesdeJd(t.jd);
+      const lon = t.sig != null ? t.sig : MOTOR.longitudCuerpo(t.c, t.jd, y, m);
+      if (lon == null) { t.sig = null; t.jd += s; continue; }
+      const hasta = Math.min(t.jd + s, jd1 + 1);
+      const lonB = lonDia(t.c, hasta);
+      t.sig = lonB;
+      // Con separación a al principio del tramo y b al final, y el planeta a v °/día como
+      // mucho, solo puede haber un día dentro del orbe si a + b ≤ 2·orbe + v·s. Solo entonces
+      // se calcula día a día (0,1° de holgura por la estrella, que se toma a mitad de año).
+      const cerca = datosEst.filter(x => trSep(lonAnual(x, y), lon) + trSep(lonAnual(x, y), lonB) <= 2 * orbe + v * (hasta - t.jd) + 0.1);
+      if (cerca.length) {
+        for (let jd = t.jd; jd < hasta; jd++) {
+          const l = jd === t.jd ? lon : lonDia(t.c, jd);
+          for (const x of cerca) {
+            const k = x.e.nombre;
+            // la estrella se mueve menos de 0,02° al año: si a mitad de año ya está lejos, no hace falta la exacta
+            const d = trSep(lonAnual(x, y), l) > orbe + 0.1 ? 99 : trSep(MOTOR.longitudEstrella(x.e, jd), l);
+            if (d <= orbe) {
+              const p = t.abiertos.get(k);
+              if (p && jd - p.jdHasta <= 1) { p.jdHasta = jd; if (d < p.orbe) { p.orbe = d; p.jdExacto = jd; } }
+              else { cerrar(t, k); t.abiertos.set(k, { cuerpo: t.c, x, jdDesde: jd, jdHasta: jd, jdExacto: jd, orbe: d }); }
+            } else cerrar(t, k);
+          }
+        }
+      }
+      for (const [k, p] of t.abiertos) if (!cerca.some(x => x.e.nombre === k)) cerrar(t, k);
+      t.jd = hasta;
+      $("t-estado").textContent = `Calculando ${t.c}${tareas.length > 1 ? ` (${it + 1} de ${tareas.length})` : ""} · ${y}…`;
+    }
+    if (it < tareas.length) { setTimeout(trozo, 0); return; }
+    pintarTransitos(pasos, orbe, iE === "", cuerpos.length > 1);
+  }
+  $("t-tabla").innerHTML = "";
+  trozo();
+}
+
+const TR_MAX_FILAS = 1500;
+function pintarTransitos(pasos, orbe, variasEstrellas, variosCuerpos) {
+  pasos.sort((a, b) => a.jdDesde - b.jdDesde);
+  const diasHecho = CIELO ? Object.entries(CIELO.dias || {}) : [];
+  const esMisma = p => { const n = trNatDe(p.x.rob); return !!(n && n.has(p.cuerpo)); };
+  const conNat = pasos.filter(esMisma).length;
+  const resumen = `${pasos.length} paso(s) a ${String(orbe).replace(".", ",")}° de 1885 a 2026${conNat ? ` · ${conNat} con el planeta de la misma naturaleza (Robson)` : ""}.`;
+  if (!pasos.length) { $("t-estado").innerHTML = resumen; $("t-tabla").innerHTML = `<p class="vacio">Ningún paso en ese periodo.</p>`; return; }
+  const filtro = variasEstrellas ? `<label class="nota"><input type="checkbox" id="t-solo"${pasos.length > TR_MAX_FILAS && conNat ? " checked" : ""}> solo los de la misma naturaleza</label>` : "";
+  $("t-estado").innerHTML = resumen + " " + filtro;
+  const fichasDe = (ya, yb) => fichas.filter(f => f.tipo !== "persona" && f.fecha && f.ini <= yb && f.fin >= ya && !st.ocultos.has(f.carril)).sort((x, y) => x.ini - y.ini).map(f => f.id);
+  const pinta = () => {
+    const solo = variasEstrellas && $("t-solo") && $("t-solo").checked;
+    const lista = solo ? pasos.filter(esMisma) : pasos;
+    const vis = lista.slice(0, TR_MAX_FILAS);
+    const filas = vis.map((p, n) => {
+      const a = trFecha(p.jdDesde), b = trFecha(p.jdHasta), ex = trFecha(p.jdExacto);
+      const ya = +a.slice(0, 4), yb = +b.slice(0, 4);
+      const nf = fichasDe(ya, yb).length;
+      const hechos = diasHecho.filter(([id, v]) => v.fecha >= a && v.fecha <= b && porId[id]).map(([id]) => id);
+      const misma = esMisma(p);
+      const robTxt = p.x.rob ? (p.x.rob.naturaleza ? esc(p.x.rob.naturaleza) + (misma ? " ✓" : "") : "sin naturaleza escrita") : "—";
+      return `<tr${misma ? ' class="t-misma"' : ""}>
+        ${variosCuerpos || variasEstrellas ? `<td>${variosCuerpos ? `<b style="color:${COLOR_PLANETA[p.cuerpo] || "inherit"}">${esc(p.cuerpo)}</b>` : ""}${variasEstrellas ? ` ${variosCuerpos ? "· " : ""}${esc(p.x.e.nombre)}` : ""}</td>` : ""}
+        <td>${a === b ? a : `${a} → ${b}`}</td><td>${ex} · ${p.orbe.toFixed(2).replace(".", ",")}°</td>
+        ${variasEstrellas || variosCuerpos ? `<td>${robTxt}</td>` : ""}
+        <td>${hechos.length ? `<b title="Hecho con día exacto dentro del paso">★ ${hechos.length}</b> ` : ""}${nf || hechos.length ? `<details data-n="${n}" data-a="${ya}" data-b="${yb}" data-h="${hechos.join(",")}"><summary>${nf} ficha(s) de ${ya === yb ? ya : ya + "–" + yb}</summary></details>` : `<span class="nota">ninguna</span>`}</td>
+      </tr>`;
+    }).join("");
+    const cab = `<tr>${variosCuerpos || variasEstrellas ? `<th>${variosCuerpos ? "Planeta" : ""}${variosCuerpos && variasEstrellas ? " · " : ""}${variasEstrellas ? "Estrella" : ""}</th>` : ""}<th>Paso</th><th>Exacto · orbe</th>${variasEstrellas || variosCuerpos ? "<th>Robson</th>" : ""}<th>Fichas de esos años</th></tr>`;
+    $("t-tabla").innerHTML = (lista.length > TR_MAX_FILAS ? `<p class="nota">Se muestran los ${TR_MAX_FILAS} primeros de ${lista.length}. Elige una estrella o marca «solo los de la misma naturaleza» para acotar.</p>` : "")
+      + `<div class="t-wrap"><table class="t-tabla"><thead>${cab}</thead><tbody>${filas}</tbody></table></div>`;
+    // la lista de fichas se arma al abrir cada paso, no antes
+    $("t-tabla").querySelectorAll("details[data-n]").forEach(d => d.addEventListener("toggle", () => {
+      if (!d.open || d.dataset.hecho) return;
+      d.dataset.hecho = "1";
+      const h = d.dataset.h ? d.dataset.h.split(",") : [];
+      d.insertAdjacentHTML("beforeend", (h.length ? `<p class="nota">★ Con día dentro del paso:</p>${listaFichas(h)}` : "") + listaFichas(fichasDe(+d.dataset.a, +d.dataset.b)));
+      d.querySelectorAll("[data-ir]").forEach(b => b.onclick = () => ir(b.dataset.ir, st.sel));
+    }));
+  };
+  if ($("t-solo")) $("t-solo").onchange = pinta;
+  pinta();
+}
+
+function abrirFicha(f) {
+  const c = carrilDe[f.carril];
+  const persona = f.tipo === "persona";
+  const segun = f.segun || [];
+  const segunHTML = segun.length ? segun.map(s => {
+    const au = autores[s.autor], ob = au?.obras?.find(o => o.id === s.obra);
+    const donde = s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.ubicacion || "enlace")}</a>` : esc(s.ubicacion);
+    const contra = (s.contradice || []).length ? `<div class="contra">Contradice a: ${s.contradice.map(a => esc(autores[a]?.nombre || a)).join(", ")}</div>` : "";
+    const sello = (s.coincide || []).map(a => { const e = segun.find(x => x.autor === a), aa = autores[a], oo = e && aa?.obras?.find(o => o.id === e.obra);
+      return `<div class="sello">Coincide con <strong>${esc(aa?.nombre || a)}</strong>${e ? `, en <em>${esc(oo?.titulo || e.obra)}</em>` : ""}</div>`; }).join("");
+    return `<div class="segun${(s.contradice || []).length ? " en-disputa" : ""}"><div class="quien">Según <strong>${esc(au?.nombre || s.autor)}</strong>, en <em>${esc(ob?.titulo || s.obra)}</em> (${donde})</div><p>${esc(s.resumen)}</p>${sello}${contra}</div>`;
+  }).join("") : `<div class="vacio">Ningún autor registrado todavía para esta ficha.${f.estado === "prueba" ? " Es un dato de prueba." : ""}</div>`;
+  const of = f.oficial;
+  const ofFuente = !!(of && (of.fuentes || []).length);
+  const oficialHTML = of && of.resumen ? `<div class="oficial"><p>${esc(of.resumen)}</p><ul class="fuentes">${(of.fuentes || []).map(x =>
+      `<li>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titulo)}</a>` : esc(x.titulo)}${x.consultado ? ` · consultado ${esc(x.consultado)}` : ""}</li>`).join("")}</ul></div>`
+    : `<div class="vacio">Sin versión oficial todavía.</div>`;
+  const citas = (f.citas || []).length ? `<section class="bloque"><h3>Citas</h3>${f.citas.map(q => `<p class="cita">${esc(q.resumen)} — ${esc(q.atribuida_a)} <em class="pill">${esc(q.verificacion)}</em></p>`).join("")}</section>` : "";
+  const cx = conex[f.id];
+  const conexHTML = cx.length ? `<section class="bloque"><h3>Lleva a · ${cx.length} conexion${cx.length === 1 ? "" : "es"}</h3><ul class="conex">${cx.map(k => { const o = porId[k.id];
+      return `<li><button type="button" data-ir="${o.id}" style="--c:${color(o.carril)}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span>${k.nota ? `<small>${esc(k.nota)}</small>` : ""}</button></li>`; }).join("")}</ul></section>` : "";
+  const temas = (f.temas || []).length ? `<section class="bloque"><h3>También toca</h3><div class="temas">${f.temas.map(t => `<span class="pill carr" style="--c:${color(t)}">${esc(carrilDe[t]?.nombre || t)}</span>`).join("")}</div></section>` : "";
+  abrirPanel(`<div class="ficha-in">
+    <div class="ficha-top"><span class="pill carr" style="--c:${color(f.carril)}">${esc(c?.nombre || f.carril)}</span>${f.naturaleza ? `<span class="pill carr" style="--c:${color(f.carril)}">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}<span class="pill est-${f.estado}">${esc(f.estado)}</span>
+      <button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
+    <div><h2>${esc(f.titulo)}</h2><div class="fecha">${esc(fmtFecha(f, persona, f.vivo))}${f.fecha?.margen ? ` (± ${f.fecha.margen} años)` : ""}${f.fecha?.fuente === "oficial" ? " · fecha de la versión oficial" : ""}</div>${f.fecha_autor ? `<div class="fautor">Fecha que da el autor: ${esc(f.fecha_autor)}</div>` : ""}</div>
+    <p class="lead">${esc(f.resumen)}</p>
+    <div class="cols">
+      <section class="col"><h3>Según los autores</h3>${discrepan(f) ? `<div class="discrepa grande">Estos autores discrepan: se muestran todas las versiones, sin elegir ganador.</div><div class="disputa">${segunHTML}</div>` : segunHTML}</section>
+      <section class="col"><h3>Versión oficial ${of && of.resumen ? (ofFuente ? `<span class="pill of-ok">con fuente</span>` : `<span class="pill of-sin">sin fuente</span>`) : ""}</h3>${oficialHTML}</section>
+    </div>
+    ${citas}${cieloDia(f)}${conexHTML}${contemporaneos(f)}${temas}
+  </div>`);
+}
+
+// ---------- Eventos ----------
+let rafScroll = 0;
+escena.addEventListener("scroll", () => { cancelAnimationFrame(rafScroll); rafScroll = requestAnimationFrame(ahora); }, { passive: true });
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && !ficha.hidden) cerrarFicha();
+  else if (e.key === "Backspace" && st.atras.length && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) { e.preventDefault(); $("volver").click(); }
+});
+new ResizeObserver(() => { if (app.hidden) return; const w = escena.clientWidth; if (Math.abs(w - anchoPrev) > 1) { anchoPrev = w; maquetar(true); } }).observe(escena);
+document.fonts?.ready?.then(() => { if (!app.hidden) maquetar(true); });
+
+// ---------- Rutas: la portada son los tránsitos; el eje vive en #/eje ----------
+function mostrarTransitos() {
+  app.hidden = true;
+  transitosEl.hidden = false;
+  if (!ficha.hidden) { ficha.hidden = true; st.sel = null; st.atras = []; }
+}
+function mostrarEje(desde) {
+  app.hidden = false;
+  transitosEl.hidden = true;
+  if (!ficha.hidden) { ficha.hidden = true; st.sel = null; st.atras = []; }
+  if (desde !== undefined && desde !== null && desde !== "") {
+    requestAnimationFrame(() => {
+      maquetar(true);
+      const d = Number(desde);
+      if (L && Number.isFinite(d)) desplazarA(Math.max(0, L.T(d) - 60));
+    });
+  }
+}
+function alCambiarHash() {
+  const h = location.hash || "";
+  if (h.startsWith("#/transitos")) {
+    mostrarTransitos();
+    if (window.TRANSITOS_APP) window.TRANSITOS_APP.render(h);
+    return;
+  }
+  if (h.startsWith("#/eje")) {
+    const qs = h.split("?")[1] || "";
+    mostrarEje(new URLSearchParams(qs).get("desde"));
+    return;
+  }
+  mostrarEje();
+  const id = h.slice(1);
+  if (id && porId[id]) {
+    if (id !== st.sel) seleccionar(id, true);
+    return;
+  }
+  // Sin ruta o ruta desconocida: la portada.
+  history.replaceState(null, "", "#/transitos");
+  mostrarTransitos();
+  if (window.TRANSITOS_APP) window.TRANSITOS_APP.render("#/transitos");
+}
+addEventListener("hashchange", alCambiarHash);
+
+// ---------- Arranque ----------
+anchoPrev = escena.clientWidth;
+maquetar(false);
+if (!location.hash) history.replaceState(null, "", "#/transitos");
+alCambiarHash();
+})();
+</script>
+
+</body></html>
