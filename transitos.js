@@ -8,7 +8,6 @@
   if (!D) return;
   const SIG = D.signos;
   const GLIFO = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
-  const ELEM = ["fuego", "tierra", "aire", "agua"];
   const PL = {
     saturno: { n: "Saturno", g: "♄", per: "29,5 años; unos 2,5 por signo" },
     urano: { n: "Urano", g: "♅", per: "84 años; unos 7 por signo" },
@@ -69,7 +68,7 @@
       `Cada casilla dice cuántas veces ha recorrido el planeta ese signo desde ${DESDE} y los años de la última vuelta. ` +
       `El recuadro marca el signo de hoy. Pulsa un signo para ver todas sus vueltas con los hechos de Wexipedia.`);
     let s = `<div class="t-scroll"><table class="t-tabla t-portada"><thead><tr><th></th>` +
-      SIG.map((x, i) => `<th class="${ELEM[i % 4]}"><span class="t-gl">${GLIFO[i]}</span>${esc(x)}</th>`).join("") +
+      SIG.map((x, i) => `<th style="border-top-color:var(--s${i})"><span class="t-gl" style="color:var(--s${i})">${GLIFO[i]}</span>${esc(x)}</th>`).join("") +
       `</tr></thead><tbody>`;
     for (const k in PL) {
       const vv = V(k), hoy = actual(k);
@@ -102,7 +101,7 @@
       vv.map(v => {
         const a = Math.max(0, (Math.max(v.ini, ini) - ini) / ancho * 100);
         const b = Math.min(100, ((v.fin || HOYA) - ini) / ancho * 100);
-        return `<i class="t-barra e${v.s % 4}${v === hoy ? " t-barra-ahora" : ""}" style="left:${a.toFixed(3)}%;width:${Math.max(0.25, b - a).toFixed(3)}%;top:${2 + (v.s % 6) * 5}px" title="${SIG[v.s]} · ${anyos(v)}"></i>`;
+        return `<i class="t-barra${v === hoy ? " t-barra-ahora" : ""}" style="left:${a.toFixed(3)}%;width:${Math.max(0.25, b - a).toFixed(3)}%;top:${2 + (v.s % 6) * 5}px;background:var(--s${v.s})" title="${SIG[v.s]} · ${anyos(v)}"></i>`;
       }).join("") +
       `</div><div class="t-anios"><span>${ini}</span><span>${Math.round((ini + fin) / 2)}</span><span>${Math.floor(fin)}</span></div>`;
     const filas = [];
@@ -112,7 +111,7 @@
       f[v.s] = v; ult = v.s;
     });
     h += `<div class="t-scroll"><table class="t-tabla"><thead><tr><th>Vuelta</th>` +
-      SIG.map((x, i) => `<th class="${ELEM[i % 4]}"><a href="#/transitos/${pk}/${slug(x)}"><span class="t-gl">${GLIFO[i]}</span>${esc(x)}</a></th>`).join("") +
+      SIG.map((x, i) => `<th style="border-top-color:var(--s${i})"><a href="#/transitos/${pk}/${slug(x)}"><span class="t-gl" style="color:var(--s${i})">${GLIFO[i]}</span>${esc(x)}</a></th>`).join("") +
       `</tr></thead><tbody>`;
     filas.forEach((r, n) => {
       h += `<tr><th>${n + 1}</th>` + r.map((v, i) => v
@@ -133,7 +132,7 @@
     let h = cabecera(pk, `${PL[pk].g} ${PL[pk].n} en ${GLIFO[i]} ${SIG[i]}`,
       `${vv.length} vueltas desde ${DESDE}, una al lado de otra y alineadas por el año dentro de la ventana. Cada hecho abre su ficha en el eje.`);
     h += `<div class="t-filtros"><label><input type="checkbox" id="t-per" ${per ? "checked" : ""}> Incluir personas nacidas en la ventana</label>` +
-      `<span>${SIG.map((x, j) => `<a href="#/transitos/${pk}/${slug(x)}${per ? "?personas=1" : ""}" style="${j === i ? "font-weight:700" : ""}">${GLIFO[j]}</a>`).join(" ")}</span></div>`;
+      `<span>${SIG.map((x, j) => `<a href="#/transitos/${pk}/${slug(x)}${per ? "?personas=1" : ""}" style="color:var(--s${j});${j === i ? "font-weight:700" : ""}">${GLIFO[j]}</a>`).join(" ")}</span></div>`;
     if (!vv.length) {
       h += `<p class="t-vacio">Ninguna vuelta de ${PL[pk].n} por ${SIG[i]} desde ${DESDE}.</p>`;
     } else {
@@ -143,7 +142,7 @@
         const dentro = D.fichas
           .filter(f => (f[2] !== "persona" || per) && f[4] >= Math.floor(v.ini) && f[4] <= Math.floor(fin))
           .sort((a, b) => a[4] - b[4] || a[1].localeCompare(b[1]));
-        h += `<section class="t-col"><div class="t-col-cab"><h3>${anyos(v)}</h3>` +
+        h += `<section class="t-col" style="border-top:3px solid var(--s${i})"><div class="t-col-cab"><h3>${anyos(v)}</h3>` +
           `<a class="t-eje-mini" href="#/eje?desde=${Math.floor(v.ini)}&hasta=${Math.floor(fin)}">ver en el eje →</a></div>` +
           `<div class="t-fechas">entra ${v.fi}${v.ff ? ` · sale ${v.ff}` : " · en curso"}</div>`;
         if (v.idas.length) h += `<div class="t-idas">Retrogradación: ${v.idas.map(esc).join(" · ")}</div>`;

@@ -437,9 +437,9 @@ button, input, select { font: inherit; color: inherit; }
 .t-tabla details summary { cursor: pointer; }
 .t-tabla td:not(:last-child) { white-space: nowrap; }
 /* Portada de tránsitos (REGLAS §9, 2026-11-19): vista propia sobre el eje. */
-:root { --fuego: #c4572e; --tierra: #6f7f2e; --aire: #3b7fb8; --agua: #5b4aa8; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --fuego: #ec8a70; --tierra: #b5c46a; --aire: #7fb6e6; --agua: #a99af0; } }
-:root[data-theme="dark"] { --fuego: #ec8a70; --tierra: #b5c46a; --aire: #7fb6e6; --agua: #a99af0; }
+:root { --s0: #b03a2e; --s1: #6f7f2e; --s2: #a8811a; --s3: #2f6f9e; --s4: #c25a0a; --s5: #3c7a37; --s6: #a05a7a; --s7: #8e2f3f; --s8: #5b4aa8; --s9: #7a5f3a; --s10: #1f7a7a; --s11: #3a5f8f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s0: #e06a5a; --s1: #b5c46a; --s2: #e6c44a; --s3: #6fb0d9; --s4: #f0a35c; --s5: #86c97e; --s6: #d690bb; --s7: #d96a7a; --s8: #a99af0; --s9: #c9a87a; --s10: #5cc6c2; --s11: #5a8fc9; } }
+:root[data-theme="dark"] { --s0: #e06a5a; --s1: #b5c46a; --s2: #e6c44a; --s3: #6fb0d9; --s4: #f0a35c; --s5: #86c97e; --s6: #d690bb; --s7: #d96a7a; --s8: #a99af0; --s9: #c9a87a; --s10: #5cc6c2; --s11: #5a8fc9; }
 #transitos { position: fixed; inset: 0; z-index: 30; overflow-y: auto; background: var(--bg); color: var(--tinta); font-family: var(--f-ui); font-size: 14px; line-height: 1.4; }
 #transitos[hidden] { display: none !important; }
 .t-cab { position: sticky; top: 0; z-index: 3; background: var(--hoja); border-bottom: 1px solid var(--linea); padding: 10px 16px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
@@ -466,15 +466,11 @@ button, input, select { font: inherit; color: inherit; }
 .t-tabla b { font-family: var(--f-num); font-size: 16px; }
 .t-tabla td span { font-family: var(--f-num); font-size: 11.5px; color: var(--tenue); }
 .t-gl { font-size: 18px; display: block; }
-.t-tabla .fuego { border-top: 4px solid var(--fuego); }
-.t-tabla .tierra { border-top: 4px solid var(--tierra); }
-.t-tabla .aire { border-top: 4px solid var(--aire); }
-.t-tabla .agua { border-top: 4px solid var(--agua); }
+.t-tabla thead th { border-top: 4px solid transparent; }
 .t-ahora { outline: 3px solid var(--acento); outline-offset: -3px; }
 .t-banda { position: relative; height: 42px; margin: 12px 0 0; background: var(--banda); border: 1px solid var(--linea); border-radius: 5px; overflow: hidden; }
 .t-barra { position: absolute; height: 4px; border-radius: 2px; opacity: .8; }
-.t-barra.e0 { background: var(--fuego); } .t-barra.e1 { background: var(--tierra); }
-.t-barra.e2 { background: var(--aire); } .t-barra.e3 { background: var(--agua); }
+/* El color de cada barra lo pone transitos.js con var(--sN). */
 .t-barra-ahora { height: 6px; opacity: 1; box-shadow: 0 0 0 1px var(--tinta); }
 .t-anios { display: flex; justify-content: space-between; font: 11px var(--f-num); color: var(--tenue); margin: 2px 0 14px; }
 .t-cols { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(260px, 1fr); gap: 12px; overflow-x: auto; padding-bottom: 10px; align-items: start; }
