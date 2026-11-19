@@ -8,6 +8,11 @@
   if (!D) return;
   const SIG = D.signos;
   const GLIFO = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
+  const ELEM = ["fuego", "tierra", "aire", "agua"];
+  const MOD = ["cardinal", "fijo", "mutable"];
+  const REGENTE = ["Marte", "Venus", "Mercurio", "Luna", "Sol", "Mercurio", "Venus", "Marte · Plutón", "Júpiter", "Saturno", "Saturno · Urano", "Júpiter · Neptuno"];
+  const flag = i => `<span class="t-flag"><i class="el-${ELEM[i % 4]}"></i><i class="mod-${MOD[i % 3]}"></i></span>`;
+  const casa = i => `Casa ${i + 1} · ${REGENTE[i]}`;
   const PL = {
     saturno: { n: "Saturno", g: "♄", per: "29,5 años; unos 2,5 por signo" },
     urano: { n: "Urano", g: "♅", per: "84 años; unos 7 por signo" },
@@ -63,12 +68,18 @@
       `<main class="t-main">${sub ? `<p class="t-sub">${sub}</p>` : ""}`;
   }
 
+  function leyenda() {
+    return `<div class="t-leyenda">` + SIG.map((x, i) =>
+      `<span>${flag(i)}<b>${GLIFO[i]} ${esc(x)}</b> · ${casa(i)}</span>`).join("") + `</div>` +
+      `<p class="t-nota">Bandera: arriba el elemento (fuego, tierra, aire, agua); abajo la modalidad (cardinal, fijo, mutable).</p>`;
+  }
+
   function portada() {
     const h = cabecera(null, "Los planetas lentos por los 12 signos",
       `Cada casilla dice cuántas veces ha recorrido el planeta ese signo desde ${DESDE} y los años de la última vuelta. ` +
       `El recuadro marca el signo de hoy. Pulsa un signo para ver todas sus vueltas con los hechos de Wexipedia.`);
     let s = `<div class="t-scroll"><table class="t-tabla t-portada"><thead><tr><th></th>` +
-      SIG.map((x, i) => `<th style="border-top-color:var(--s${i})"><span class="t-gl" style="color:var(--s${i})">${GLIFO[i]}</span>${esc(x)}</th>`).join("") +
+      SIG.map((x, i) => `<th style="border-top-color:var(--el-${ELEM[i % 4]})" title="${casa(i)}">${flag(i)}<span class="t-gl" style="color:var(--el-${ELEM[i % 4]})">${GLIFO[i]}</span>${esc(x)}</th>`).join("") +
       `</tr></thead><tbody>`;
     for (const k in PL) {
       const vv = V(k), hoy = actual(k);
@@ -82,6 +93,7 @@
       s += `</tr>`;
     }
     s += `</tbody></table></div>`;
+    s += leyenda();
     s += `<p class="t-nota">Rango: de ${DESDE} a hoy, más las ventanas que siguen abiertas. Solo Saturno, Urano, Neptuno y Plutón; Júpiter no entra. ` +
       `Plutón se calcula con la tabla diaria de JPL Horizons (baricentro del sistema, ID 9) de 1599 a 1890 y con el motor desde 1885; ` +
       `en el solape 1885–1890 la diferencia máxima es 0,0212°. El cielo es calculado y no tiene autor: no hay carta natal.</p>`;
@@ -101,7 +113,7 @@
       vv.map(v => {
         const a = Math.max(0, (Math.max(v.ini, ini) - ini) / ancho * 100);
         const b = Math.min(100, ((v.fin || HOYA) - ini) / ancho * 100);
-        return `<i class="t-barra${v === hoy ? " t-barra-ahora" : ""}" style="left:${a.toFixed(3)}%;width:${Math.max(0.25, b - a).toFixed(3)}%;top:${2 + (v.s % 6) * 5}px;background:var(--s${v.s})" title="${SIG[v.s]} · ${anyos(v)}"></i>`;
+        return `<i class="t-barra${v === hoy ? " t-barra-ahora" : ""}" style="left:${a.toFixed(3)}%;width:${Math.max(0.25, b - a).toFixed(3)}%;top:${2 + (v.s % 6) * 5}px;background:linear-gradient(to bottom,var(--el-${ELEM[v.s % 4]}) 0 50%,var(--mod-${MOD[v.s % 3]}) 50% 100%)" title="${SIG[v.s]} · ${anyos(v)}"></i>`;
       }).join("") +
       `</div><div class="t-anios"><span>${ini}</span><span>${Math.round((ini + fin) / 2)}</span><span>${Math.floor(fin)}</span></div>`;
     const filas = [];
@@ -111,7 +123,7 @@
       f[v.s] = v; ult = v.s;
     });
     h += `<div class="t-scroll"><table class="t-tabla"><thead><tr><th>Vuelta</th>` +
-      SIG.map((x, i) => `<th style="border-top-color:var(--s${i})"><a href="#/transitos/${pk}/${slug(x)}"><span class="t-gl" style="color:var(--s${i})">${GLIFO[i]}</span>${esc(x)}</a></th>`).join("") +
+      SIG.map((x, i) => `<th style="border-top-color:var(--el-${ELEM[i % 4]})" title="${casa(i)}"><a href="#/transitos/${pk}/${slug(x)}">${flag(i)}<span class="t-gl" style="color:var(--el-${ELEM[i % 4]})">${GLIFO[i]}</span>${esc(x)}</a></th>`).join("") +
       `</tr></thead><tbody>`;
     filas.forEach((r, n) => {
       h += `<tr><th>${n + 1}</th>` + r.map((v, i) => v
@@ -119,6 +131,7 @@
         : `<td class="t-vac">—</td>`).join("") + `</tr>`;
     });
     h += `</tbody></table></div>`;
+    h += leyenda();
     if (hoy) h += `<p class="t-nota">Ahora: <b>${PL[pk].n} en ${SIG[hoy.s]}</b>, ${anyos(hoy)}. ` +
       `<a href="#/transitos/${pk}/${slug(SIG[hoy.s])}">Ver esta vuelta con sus hechos →</a></p>`;
     return h + `</main>`;
@@ -130,9 +143,9 @@
     const per = q.get("personas") === "1";
     const vv = V(pk).filter(v => v.s === i);
     let h = cabecera(pk, `${PL[pk].g} ${PL[pk].n} en ${GLIFO[i]} ${SIG[i]}`,
-      `${vv.length} vueltas desde ${DESDE}, una al lado de otra y alineadas por el año dentro de la ventana. Cada hecho abre su ficha en el eje.`);
+      `${flag(i)} ${vv.length} vueltas desde ${DESDE}, una al lado de otra y alineadas por el año dentro de la ventana. Cada hecho abre su ficha en el eje. ${casa(i)}.`);
     h += `<div class="t-filtros"><label><input type="checkbox" id="t-per" ${per ? "checked" : ""}> Incluir personas nacidas en la ventana</label>` +
-      `<span>${SIG.map((x, j) => `<a href="#/transitos/${pk}/${slug(x)}${per ? "?personas=1" : ""}" style="color:var(--s${j});${j === i ? "font-weight:700" : ""}">${GLIFO[j]}</a>`).join(" ")}</span></div>`;
+      `<span>${SIG.map((x, j) => `<a href="#/transitos/${pk}/${slug(x)}${per ? "?personas=1" : ""}" style="color:var(--el-${ELEM[j % 4]});${j === i ? "font-weight:700" : ""}">${GLIFO[j]}</a>`).join(" ")}</span></div>`;
     if (!vv.length) {
       h += `<p class="t-vacio">Ninguna vuelta de ${PL[pk].n} por ${SIG[i]} desde ${DESDE}.</p>`;
     } else {
@@ -142,7 +155,7 @@
         const dentro = D.fichas
           .filter(f => (f[2] !== "persona" || per) && f[4] >= Math.floor(v.ini) && f[4] <= Math.floor(fin))
           .sort((a, b) => a[4] - b[4] || a[1].localeCompare(b[1]));
-        h += `<section class="t-col" style="border-top:3px solid var(--s${i})"><div class="t-col-cab"><h3>${anyos(v)}</h3>` +
+        h += `<section class="t-col" style="border-top:3px solid var(--el-${ELEM[i % 4]})"><div class="t-col-cab"><h3>${anyos(v)}</h3>` +
           `<a class="t-eje-mini" href="#/eje?desde=${Math.floor(v.ini)}&hasta=${Math.floor(fin)}">ver en el eje →</a></div>` +
           `<div class="t-fechas">entra ${v.fi}${v.ff ? ` · sale ${v.ff}` : " · en curso"}</div>`;
         if (v.idas.length) h += `<div class="t-idas">Retrogradación: ${v.idas.map(esc).join(" · ")}</div>`;
