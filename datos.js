@@ -30886,7 +30886,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La UICN se fundó el 5-10-1948 en Fontainebleau (Francia), impulsada por Julian Huxley y la UNESCO.",
+    "resumen": "La Unión Internacional para la Conservación de la Naturaleza se fundó el 5-10-1948 en Fontainebleau (Francia), impulsada por Julian Huxley y otras instituciones. Elabora la Lista Roja de especies amenazadas.",
     "fuentes": [
      {
       "titulo": "UICN: History",
@@ -30897,6 +30897,11 @@ window.CRONO = {
       "titulo": "Wikipedia: IUCN",
       "url": "https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Unión Internacional para la Conservación de la Naturaleza",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Internacional_para_la_Conservaci%C3%B3n_de_la_Naturaleza",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -33497,12 +33502,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Edward Alexander Crowley (Leamington, 12-10-1875 – Hastings, 1-12-1947), ocultista, escritor y alpinista británico.",
+    "resumen": "Edward Alexander Crowley (Leamington Spa, 1875 – Hastings, 1947), ocultista, escritor y alpinista británico. Miembro de la Golden Dawn, fundó la religión de Thelema y publicó «El libro de la ley» (1904); su figura influyó en la contracultura.",
     "fuentes": [
      {
       "titulo": "Crowley Clan",
       "url": "https://www.crowleyclan.com/crowley-in-the-world/2018/6/4/aleister-crowley",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Aleister Crowley",
+      "url": "https://es.wikipedia.org/wiki/Aleister_Crowley",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34066,12 +34076,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anatoli Lunacharski (Poltava, 1875 – Menton, 1933), primer comisario del Pueblo para la Instrucción Pública.",
+    "resumen": "Anatoli Vasílievich Lunacharski (Poltava, 1875 – Menton, 1933), político y escritor ruso. Primer comisario del Pueblo de Educación (1917-1929), impulsó la alfabetización y la política cultural soviética.",
     "fuentes": [
      {
       "titulo": "Freemasonry.bcy.ca: Russian masons",
       "url": "https://www.freemasonry.bcy.ca/texts/russia/russian_masons.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Anatoli Lunacharski",
+      "url": "https://es.wikipedia.org/wiki/Anatoli_Lunacharski",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34452,12 +34467,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Antonio Rosmini (Rovereto, 1797 – Stresa, 1855), sacerdote, filósofo y fundador del Instituto de la Caridad.",
+    "resumen": "Antonio Rosmini Serbati (Rovereto, 1797 – Stresa, 1855), sacerdote, filósofo y fundador del Instituto de la Caridad. Autor de «Nuevo ensayo sobre el origen de las ideas»; fue beatificado en 2007.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Fellowship of the New Life",
       "url": "https://en.wikipedia.org/wiki/Fellowship_of_the_New_Life",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Antonio Rosmini",
+      "url": "https://es.wikipedia.org/wiki/Antonio_Rosmini",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -35745,12 +35765,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Carlos de Habsburgo (Gante, 24-2-1500 – Yuste, 21-9-1558), rey de España desde 1516 y emperador de 1519 a 1556.",
+    "resumen": "Carlos de Habsburgo (Gante, 1500 – Yuste, 1558), rey de España (1516-1556) y emperador del Sacro Imperio (1519-1556). Gobernó el mayor imperio de su tiempo, afrontó la Reforma y las guerras con Francia y el Imperio otomano, y abdicó en 1555-1556.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Carlos I de España",
+      "url": "https://es.wikipedia.org/wiki/Carlos_I_de_Espa%C3%B1a",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -36626,7 +36651,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo griego de Abdera (c. 460 – c. 370 a.C.), discípulo de Leucipo y principal desarrollador del atomismo.",
+    "resumen": "Filósofo griego de Abdera (c. 460 – c. 370 a. C.), con Leucipo el principal atomista antiguo: solo existen átomos y vacío. Se le atribuyen obras de ética y de física que se conservan en fragmentos.",
     "fuentes": [
      {
       "titulo": "Biografías y Vidas",
@@ -36637,6 +36662,11 @@ window.CRONO = {
       "titulo": "World History Encyclopedia",
       "url": "https://www.worldhistory.org/trans/es/1-10119/democrito/",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Demócrito",
+      "url": "https://es.wikipedia.org/wiki/Dem%C3%B3crito",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -37878,12 +37908,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Emil Ludwig (Breslau, 1881 – Moscia, 1948), escritor y biógrafo alemán; entrevistó a Stalin el 13-12-1931.",
+    "resumen": "Emil Ludwig (Breslau, 1881 – Moscia, 1948), escritor y biógrafo alemán, nacionalizado suizo. Autor de biografías de Goethe, Napoleón, Bismarck y Mussolini; entrevistó a Mussolini en 1932.",
     "fuentes": [
      {
       "titulo": "Furr: nota sobre la conversación Stalin-Ludwig",
       "url": "https://msuweb.montclair.edu/~furrg/research/stalinludwig_missing_eng.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Emil Ludwig",
+      "url": "https://es.wikipedia.org/wiki/Emil_Ludwig",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38126,7 +38161,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico alemán (30-11-1756 – 3-4-1827), padre de la acústica experimental y pionero del estudio de los meteoritos.",
+    "resumen": "Ernst Florens Friedrich Chladni (Wittenberg, 1756 – Breslau, 1827), físico alemán, padre de la acústica experimental. Estudió las figuras que forma la arena sobre placas vibrantes (figuras de Chladni) y fue pionero en el estudio de los meteoritos.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -38137,6 +38172,11 @@ window.CRONO = {
       "titulo": "Deutsche Biographie",
       "url": "https://www.deutsche-biographie.de/sfz8188.html",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Ernst Chladni",
+      "url": "https://es.wikipedia.org/wiki/Ernst_Chladni",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38845,12 +38885,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Historiador francés (1902–1985), autor de El Mediterráneo y el mundo mediterráneo en la época de Felipe II.",
+    "resumen": "Historiador francés (Lunéville, 1902 – Cluses, 1985), figura de la Escuela de los Annales. Autor de «El Mediterráneo y el mundo mediterráneo en la época de Felipe II» (1949) y de «Civilización material, economía y capitalismo»; distinguió tiempo corto, coyuntura y larga duración.",
     "fuentes": [
      {
       "titulo": "Axios Press",
       "url": "https://axiospress.com/top-people/fernand-braudel",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Fernand Braudel",
+      "url": "https://es.wikipedia.org/wiki/Fernand_Braudel",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45700,12 +45745,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Juan de Inglaterra (1166–1216); en 1213 se declaró vasallo del papa Inocencio III y en 1215 firmó la Carta Magna.",
+    "resumen": "Juan de Inglaterra (1166-1216), rey desde 1199. Perdió Normandía ante Felipe II de Francia, se enfrentó al papado (interdicto de 1208) y en 1215 concedió la Carta Magna; murió en 1216 durante la guerra civil.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/John-king-of-England",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Juan I de Inglaterra",
+      "url": "https://es.wikipedia.org/wiki/Juan_I_de_Inglaterra",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45982,12 +46032,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Emperador romano de Oriente de 527 a 565; mandó compilar el Corpus iuris civilis y construir Santa Sofía.",
+    "resumen": "Emperador bizantino de 527 a 565 (Tauresio, c. 482 – Constantinopla, 565). Mandó compilar el Corpus iuris civilis, reconquistó parte del Occidente (África, Italia y el sur de Hispania) y ordenó construir Santa Sofía; su esposa Teodora fue corregente.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Justinian-I",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Justiniano I",
+      "url": "https://es.wikipedia.org/wiki/Justiniano_I",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52252,7 +52307,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico teórico estadounidense (11-5-1918 – 15-2-1988), Nobel de Física en 1965 por la electrodinámica cuántica.",
+    "resumen": "Richard Phillips Feynman (Nueva York, 1918 – Los Ángeles, 1988), físico teórico estadounidense. Nobel de Física en 1965 por la electrodinámica cuántica; creó los diagramas que llevan su nombre y participó en el proyecto Manhattan y en la investigación del accidente del Challenger.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -52263,6 +52318,11 @@ window.CRONO = {
       "titulo": "Nobel Prize",
       "url": "https://nobelprize.org/prizes/physics/1965/feynman/biographical/",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Richard Feynman",
+      "url": "https://es.wikipedia.org/wiki/Richard_Feynman",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54058,12 +54118,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico teórico y cosmólogo británico (8-1-1942 – 14-3-2018), conocido por sus trabajos sobre agujeros negros.",
+    "resumen": "Stephen William Hawking (Oxford, 1942 – Cambridge, 2018), físico teórico británico. Estudió los agujeros negros y la radiación que lleva su nombre; autor de «Breve historia del tiempo» (1988), ocupó la cátedra Lucasiana de Cambridge (1979-2009).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://britannica.com:443/biography/Stephen-Hawking",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Stephen Hawking",
+      "url": "https://es.wikipedia.org/wiki/Stephen_Hawking",
+      "consultado": "2026-11-20"
      }
     ]
    },
