@@ -16082,10 +16082,6 @@ window.CRONO = {
    "citas": [],
    "conexiones": [
     {
-     "id": "alumbrados-origen-illuminati",
-     "nota": "Según el autor, su origen."
-    },
-    {
      "id": "congreso-wilhelmsbad",
      "nota": "Mismo ámbito."
     }
@@ -56511,58 +56507,6 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "vista": "ciencia"
-  },
-  {
-   "id": "alumbrados-origen-illuminati",
-   "tipo": "saber",
-   "titulo": "Los alumbrados españoles, antecesores de los Illuminati de Baviera",
-   "carril": "religion",
-   "temas": [],
-   "fecha": {
-    "desde": 1520,
-    "aprox": true,
-    "margen": 10,
-    "fuente": "oficial"
-   },
-   "fecha_autor": "No da año",
-   "resumen": "Según Guerra, los jesuitas se llamaron alumbrados, y estos iluminados españoles precedieron a los Illuminati de Baviera, de los que serían origen.",
-   "segun": [
-    {
-     "autor": "jorge-guerra",
-     "obra": "origen-jesuita-riqueza-rothschild",
-     "ubicacion": "línea 1",
-     "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
-     "resumen": "Afirma que los restos templarios y la Compañía se hicieron llamar alumbrados.",
-     "contradice": []
-    },
-    {
-     "autor": "jorge-guerra",
-     "obra": "origen-jesuita-riqueza-rothschild",
-     "ubicacion": "línea 1",
-     "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
-     "resumen": "Sostiene que los iluminados españoles existieron mucho antes que los de Baviera y que estos tienen ahí sus orígenes.",
-     "contradice": []
-    }
-   ],
-   "oficial": {
-    "resumen": "Los alumbrados fueron un movimiento espiritual castellano del siglo XVI perseguido por la Inquisición (edicto de Toledo, 1525), distinto de los jesuitas. Pendiente de fuente.",
-    "fuentes": [
-     {
-      "titulo": "Wikipedia: Alumbrados",
-      "url": "https://es.wikipedia.org/wiki/Alumbrados"
-     }
-    ]
-   },
-   "citas": [],
-   "conexiones": [
-    {
-     "id": "illuminati-de-baviera-1776",
-     "nota": "Según el autor, de ellos derivan."
-    }
-   ],
-   "estado": "borrador",
-   "naturaleza": "ocultismo",
-   "vista": "religion"
   },
   {
    "id": "astrologia-guerra-iran-2026",
