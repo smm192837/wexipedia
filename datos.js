@@ -61028,7 +61028,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Louis-Nicolas Vauquelin analizó en 1799 la cáscara de huevo de gallinas, y el informe del Ejército de EE. UU. de 1978 recoge que Prout (1822) y Baranger (1960) hicieron observaciones parecidas; ninguna se considera prueba de transmutación. La versión oficial lo explica por el calcio que las gallinas toman del suelo, de las piedrecillas y del hueso medular. Pendientes de contraste las fuentes originales de Lawes, Gilbert y Herzeele. Lawes y Gilbert iniciaron en Rothamsted (1843) experimentos sobre el efecto de abonos minerales en cultivos; sus resultados describen la absorción de nutrientes del suelo y de los abonos, no una creación de materia.",
+    "resumen": "Louis-Nicolas Vauquelin analizó en 1799 la cáscara de huevo de gallinas, y el informe del Ejército de EE. UU. de 1978 recoge que Prout (1822) y Baranger (1960) hicieron observaciones parecidas; ninguna se considera prueba de transmutación. La versión oficial lo explica por el calcio que las gallinas toman del suelo, de las piedrecillas y del hueso medular. Albrecht von Herzeele (1821-1884) hizo cientos de experimentos entre 1875 y 1883; la ciencia no acepta la transmutación biológica. «Preuss», citado por Hauschka, no está identificado. Lawes y Gilbert iniciaron en Rothamsted (1843) experimentos sobre el efecto de abonos minerales en cultivos; sus resultados describen la absorción de nutrientes del suelo y de los abonos, no una creación de materia.",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -61044,6 +61044,11 @@ window.CRONO = {
       "titulo": "Rothamsted Research: experimentos clásicos de Lawes y Gilbert",
       "url": "https://era.rothamsted.ac.uk/eradoc/OCR/Guide2018-6-8",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Albrecht von Herzeele",
+      "url": "https://de.wikipedia.org/wiki/Albrecht_von_Herzeele",
+      "consultado": "2026-11-20"
      }
     ]
    },
