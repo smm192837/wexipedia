@@ -221,7 +221,7 @@ button, input, select { font: inherit; color: inherit; }
 .pill.est-prueba { color: var(--aviso-tx); background: var(--aviso-bg); border-color: transparent; }
 .pill.est-borrador { color: var(--tenue); }
 .pill.est-revisado { color: var(--acento); }
-.pill.est-aprobado { color: var(--c, var(--c-biologia)); }
+.pill.est-aprobado { color: var(--c-gris); }
 .ficha h2 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 30px; line-height: 1.12; text-wrap: balance; letter-spacing: -0.01em; }
 .fecha { font-family: var(--f-num); font-size: 13px; color: var(--tenue); margin-top: 6px; }
 .lead { font-family: var(--f-lectura); font-size: 18px; line-height: 1.5; margin: 0; max-width: 62ch; }
@@ -426,7 +426,7 @@ button, input, select { font: inherit; color: inherit; }
 .leyenda-tg i.verde { border-color: #2e7d32; }
 .leyenda-tg i.celda { width: 9px; height: 11px; border: 0; border-radius: 2px; background: var(--tinta); opacity: .55; vertical-align: -1px; }
 /* Sello de la versión oficial (2026-11-18): con fuente o sin fuente, a la vista */
-.pill.of-ok { color: var(--c-biologia); }
+.pill.of-ok { color: var(--c-gris); }
 .pill.of-sin { color: var(--aviso-tx); background: var(--aviso-bg); border-color: transparent; }
 .tj-o.sinfuente summary { color: var(--aviso-tx); }
 .tj-of.sin { color: var(--aviso-tx); }
@@ -1690,7 +1690,7 @@ function abrirFicha(f) {
       return `<li><button type="button" data-ir="${o.id}" style="--c:${colorFicha(o)}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span>${k.nota ? `<small>${esc(k.nota)}</small>` : ""}</button></li>`; }).join("")}</ul></section>` : "";
   const temas = (f.temas || []).length ? `<section class="bloque"><h3>También toca</h3><div class="temas">${f.temas.map(t => `<span class="pill carr" style="--c:${color(t)}">${esc(carrilDe[t]?.nombre || t)}</span>`).join("")}</div></section>` : "";
   abrirPanel(`<div class="ficha-in">
-    <div class="ficha-top"><span class="pill carr" style="--c:${colorFicha(f)}">${esc(nombreVista(vistaDe(f)))}</span>${f.naturaleza ? `<span class="pill carr" style="--c:${colorFicha(f)}">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}<span class="pill est-${f.estado}"${f.color ? ` style="--c:${colorFicha(f)}"` : ""}>${esc(f.estado)}</span>
+    <div class="ficha-top"><span class="pill carr" style="--c:${colorFicha(f)}">${esc(nombreVista(vistaDe(f)))}</span>${f.naturaleza ? `<span class="pill carr" style="--c:${colorFicha(f)}">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}<span class="pill est-${f.estado}">${esc(f.estado)}</span>
       <button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
     <div><h2>${esc(f.titulo)}</h2><div class="fecha">${esc(fmtFecha(f, persona, f.vivo))}${f.fecha?.margen ? ` (± ${f.fecha.margen} años)` : ""}${f.fecha?.fuente === "oficial" ? " · fecha de la versión oficial" : ""}</div>${f.fecha_autor ? `<div class="fautor">Fecha que da el autor: ${esc(f.fecha_autor)}</div>` : ""}</div>
     <p class="lead">${esc(f.resumen)}</p>
