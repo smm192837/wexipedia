@@ -81,6 +81,38 @@ window.CRONO = {
    ]
   }
  ],
+ "epocas": [
+  {
+   "id": "gran-guerra",
+   "nombre": "Gran Guerra",
+   "desde": 1914,
+   "hasta": 1918,
+   "criterio": "De Sarajevo (28-6-1914) al armisticio (11-11-1918).",
+   "nivel": "convención historiográfica",
+   "pregunta": "¿Quién financió y quién ganó la guerra?",
+   "pregunta_nivel": "hipótesis de Nexus"
+  },
+  {
+   "id": "entreguerras",
+   "nombre": "Entreguerras",
+   "desde": 1919,
+   "hasta": 1939,
+   "criterio": "Del Tratado de Versalles (28-6-1919) a la invasión de Polonia (1-9-1939).",
+   "nivel": "convención historiográfica",
+   "pregunta": "¿Quién pagó la guerra y quién cobró la paz?",
+   "pregunta_nivel": "hipótesis de Nexus"
+  },
+  {
+   "id": "segunda-guerra",
+   "nombre": "Segunda Guerra Mundial",
+   "desde": 1939,
+   "hasta": 1945,
+   "criterio": "De la invasión de Polonia (1-9-1939) a la rendición de Japón (2-9-1945).",
+   "nivel": "convención historiográfica",
+   "pregunta": "¿Quién heredó el poder que dejó la guerra?",
+   "pregunta_nivel": "hipótesis de Nexus"
+  }
+ ],
  "autores": [
   {
    "id": "jorge-guerra",
@@ -617,7 +649,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "186-anos-borrados-jesuitas",
@@ -665,7 +698,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "2001-odisea-del-espacio",
@@ -736,7 +770,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "abuelo-de-hitler",
@@ -777,7 +812,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "academia-historia-rusa-1720",
@@ -828,7 +864,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "acercamiento-mussolini-vaticano-1925",
@@ -894,7 +931,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "acuerdo-haavara-1933",
@@ -932,7 +970,8 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "agua-violet-dinamizacion-electrica",
@@ -1026,7 +1065,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "alba-comneno-toledo",
@@ -1073,7 +1113,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "alianza-jesuitas-rothschild",
@@ -1155,7 +1196,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "almagesto-traslado-biblioteca-italia",
@@ -1209,7 +1251,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "amazonas-escolta-zarinas-1602",
@@ -1254,7 +1297,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "america-first-movimiento",
@@ -1365,7 +1409,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "amistad-teilhard-huxley",
@@ -1441,7 +1486,8 @@ window.CRONO = {
      "nota": "Protagonista."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "apertura-archivo-secreto-vaticano-2006",
@@ -1493,7 +1539,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "apollo-global-management",
@@ -1536,7 +1583,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "archivo-secreto-vaticano-creacion",
@@ -1587,7 +1635,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "archivos-avinon-vaticano-1783",
@@ -1631,7 +1680,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "archivos-bibliotecas-imperiales-xviii",
@@ -1677,7 +1727,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "arco-iris-y-gusano-mae-wan-ho",
@@ -1742,7 +1793,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "armisticio-del-11-de-noviembre-1918",
@@ -1798,7 +1850,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "arpanet",
@@ -1844,7 +1897,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "asesinato-kennedy",
@@ -1936,7 +1990,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "asesinatos-osage",
@@ -1979,7 +2034,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "atentado-bolonia-1980",
@@ -2028,7 +2084,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentado-de-sarajevo",
@@ -2084,7 +2141,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentado-sarpi-1607",
@@ -2139,7 +2197,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentado-uss-cole-2000",
@@ -2180,7 +2239,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentado-wtc-1993",
@@ -2220,7 +2280,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentados-11s",
@@ -2347,7 +2408,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentados-amman-2005",
@@ -2387,7 +2449,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentados-bali-2002",
@@ -2427,7 +2490,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentados-londres-7j-2005",
@@ -2476,7 +2540,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atentados-madrid-11m-2004",
@@ -2524,7 +2589,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "atomismo-griego",
@@ -2573,7 +2639,8 @@ window.CRONO = {
      "nota": "Posturas opuestas sobre el vacío, según el autor."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "banco-de-amsterdam",
@@ -2621,7 +2688,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-de-inglaterra",
@@ -2668,7 +2736,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-de-italia",
@@ -2712,7 +2781,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-pagos-internacionales",
@@ -2893,7 +2963,8 @@ window.CRONO = {
      "fuente": "La da el autor sin indicar discurso ni informe. Contrastador: no se ha encontrado el origen de la frase en fuente abierta."
     }
    ],
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-santander",
@@ -2940,7 +3011,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-santo-spirito",
@@ -2998,7 +3070,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "banco-vaticano-ior",
@@ -3071,7 +3144,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "batalla-de-kulikovo-1380",
@@ -3122,7 +3196,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "bateria-niquel-hierro",
@@ -3163,7 +3238,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "bayer-heroina-1898",
@@ -3210,7 +3286,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "biblia-catolica-1777",
@@ -3257,7 +3334,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "biblioteca-alejandria-scaliger",
@@ -3304,7 +3382,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "biblioteca-colombina-expolio",
@@ -3356,7 +3435,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "biofotones",
@@ -3399,7 +3479,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "biones-reich",
@@ -3479,7 +3560,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "biscione-visconti-sforza",
@@ -3515,7 +3597,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "bismarck-marx-beckx",
@@ -3565,7 +3648,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "blackrock",
@@ -3637,7 +3721,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "bloques-de-la-primera-guerra-mundial",
@@ -3684,7 +3769,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "boda-jean-christophe-napoleon-olimpia-2019",
@@ -3738,7 +3824,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "bofarull-condes-de-barcelona-1838",
@@ -3788,7 +3875,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "bohemian-grove",
@@ -3851,7 +3939,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "bolcheviques-masones",
@@ -3930,7 +4019,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "bombardeo-dresde-1945",
@@ -3982,7 +4072,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "bpi-continuidad-posguerra",
@@ -4041,7 +4132,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "bpi-reichsbank-guerra-mundial",
@@ -4127,7 +4219,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "bretton-woods-1944",
@@ -4177,7 +4270,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "economia"
   },
   {
    "id": "bunker-villa-torlonia",
@@ -4228,7 +4322,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "bush-escuela-sarasota-2001",
@@ -4285,7 +4380,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "caballeros-de-colon",
@@ -4345,7 +4441,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "caballeros-honorarios-imperio-britanico",
@@ -4378,7 +4475,8 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "caida-constantinopla-1453",
@@ -4431,7 +4529,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "caida-de-rodas-1720",
@@ -4482,7 +4581,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "calendario-gregoriano-gregorio-xiii",
@@ -4534,7 +4634,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "canal-troncos-schauberger",
@@ -4577,7 +4678,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "carbonari",
@@ -4638,7 +4740,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "carta-magna-vasallaje",
@@ -4709,7 +4812,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "casa-borghese",
@@ -4799,7 +4903,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-de-habsburgo",
@@ -4869,7 +4974,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-de-hesse",
@@ -4936,7 +5042,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-de-saboya",
@@ -5040,7 +5147,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-farnese",
@@ -5126,7 +5234,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-grimaldi",
@@ -5178,7 +5287,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-imperial-bonaparte",
@@ -5314,7 +5424,8 @@ window.CRONO = {
      "nota": "El autor lo cita como ejemplo de presidente «frente»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "casa-massimo",
@@ -5406,7 +5517,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-orsini",
@@ -5511,7 +5623,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-romanov",
@@ -5578,7 +5691,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casa-torlonia",
@@ -5798,7 +5912,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "casco-nevski-inscripcion-coranica",
@@ -5847,7 +5962,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "caso-david-sanchez",
@@ -5909,7 +6025,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "caso-profumo-1961",
@@ -5961,7 +6078,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "celula-agua-stanley-meyer",
@@ -6019,7 +6137,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "centro-internacional-de-cabala",
@@ -6065,7 +6184,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "checa-policia-secreta-sovietica",
@@ -6121,7 +6241,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "china-experimento-occidental",
@@ -6161,7 +6282,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "cimatica-hans-jenny",
@@ -6215,7 +6337,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "circulacion-sangre-harvey",
@@ -6270,7 +6393,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "cirugias-psiquicas-pachita",
@@ -6321,7 +6445,8 @@ window.CRONO = {
      "nota": "Grinberg fue testigo y relató estas operaciones"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "city-de-londres",
@@ -6427,7 +6552,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "civilta-cattolica",
@@ -6500,7 +6626,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "club-bilderberg",
@@ -6564,7 +6691,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "club-de-los-1001",
@@ -6610,7 +6738,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "club-de-roma-trilateral",
@@ -6651,7 +6780,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "club-del-fuego-infernal",
@@ -6707,7 +6837,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "colaboracion-kervran-komaki",
@@ -6766,7 +6897,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "colon-1492-colonizacion-hordiana",
@@ -6806,7 +6938,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "colonizacion-europea-america-tartara",
@@ -6854,7 +6987,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "colonizacion-horda-eurasia-america",
@@ -6902,7 +7036,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "compania-de-jesus",
@@ -7276,7 +7411,8 @@ window.CRONO = {
      "fuente": "No aparece en obras de Dupin ni en fuentes de referencia: búsquedas en francés, inglés y español sin resultado (12-11-2026). Circula sin obra ni fecha."
     }
    ],
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "concesiones-mussolini-iglesia-1937",
@@ -7330,7 +7466,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "concilio-trento",
@@ -7387,7 +7524,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "concilio-vaticano-ii",
@@ -7431,7 +7569,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "condena-trump-2024",
@@ -7471,7 +7610,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "congregacion-de-auxiliis",
@@ -7523,7 +7663,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "congreso-solvay-1927",
@@ -7595,7 +7736,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "congreso-wilhelmsbad",
@@ -7645,7 +7787,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "conquista-otomana-siglo-xv-epidemias",
@@ -7698,7 +7841,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "consejo-de-seguridad-estadounidense",
@@ -7778,7 +7922,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "consejo-relaciones-exteriores",
@@ -7820,7 +7965,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "constellis-blackwater",
@@ -7865,7 +8011,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "constitucion-siciliana-1812",
@@ -7909,7 +8056,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "controversia-bechamp-pasteur",
@@ -8080,7 +8228,8 @@ window.CRONO = {
      "verificacion": "sin-comprobar",
      "fuente": "El vídeo la da como un hecho, sin obra ni testigo; no consta en las fuentes consultadas (otra versión de la misma frase, sobre Bernard, ya está registrada arriba)"
     }
-   ]
+   ],
+   "vista": "ciencia"
   },
   {
    "id": "convencion-derecha-foz-iguazu-2018",
@@ -8137,7 +8286,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "corporacion-vaticano",
@@ -8282,7 +8432,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "corporaciones-mas-grandes-que-estados",
@@ -8335,7 +8486,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "corpus-iuris-civilis",
@@ -8372,7 +8524,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "cowan-cancer-potencial-agua",
@@ -8442,7 +8595,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "creacion-de-dinero-bancaria",
@@ -8487,7 +8641,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "creacion-de-la-biblia-1600",
@@ -8537,7 +8692,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "creacion-reserva-federal-1913",
@@ -8628,7 +8784,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "crisis-financiera-2008",
@@ -8672,7 +8829,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "crisis-siglo-xiv",
@@ -8767,7 +8925,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "crucifixion-andronico-comneno-1185",
@@ -8825,7 +8984,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "cruzadas-1189-1204-guerra-de-troya",
@@ -8881,7 +9041,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "cruzadas-siglo-xiv-con-mongoles",
@@ -8931,7 +9092,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "cuadernos-pasteur",
@@ -8994,7 +9156,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "cuarto-reich",
@@ -9051,7 +9214,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "cuatro-imperios-1914",
@@ -9100,7 +9264,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "curso-agricultura-koberwitz-1924",
@@ -9164,7 +9329,8 @@ window.CRONO = {
      "nota": "La dinamización del agua forma parte de los preparados biodinámicos."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "cursos-artur-sala-2022",
@@ -9245,7 +9411,8 @@ window.CRONO = {
      "nota": "Temas del curso."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "debate-bastian-tyndall",
@@ -9300,7 +9467,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "declaracion-balfour",
@@ -9355,7 +9523,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "declaracion-derechos-humanos",
@@ -9412,7 +9581,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "decretos-proclericales-fascismo-1922",
@@ -9469,7 +9639,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "diderot-voltaire-biblioteca-catalina",
@@ -9520,7 +9691,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "dieciseis-fuentes-de-poder",
@@ -9552,7 +9724,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "dinero-digital",
@@ -9604,7 +9777,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "discurso-bush-nuevo-orden-mundial-1990",
@@ -9653,7 +9827,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "discurso-eisenhower-complejo-militar-industrial",
@@ -9704,7 +9879,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "division-cristianismo-religiones",
@@ -9751,7 +9927,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "doctrina-sanson",
@@ -9789,7 +9966,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "doge-eficiencia-gubernamental",
@@ -9830,7 +10008,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "donacion-de-constantino",
@@ -9880,7 +10059,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "dos-ramas-cristianismo-1204",
@@ -9931,7 +10111,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "dsm",
@@ -9983,7 +10164,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "ducado-gandia-lascaris-borgia",
@@ -10035,7 +10217,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "ecat-rossi",
@@ -10078,7 +10261,8 @@ window.CRONO = {
      "nota": "El autor lo interpreta como una aplicación del hidrógeno atómico."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "educacion-jesuita-lideres-eeuu",
@@ -10142,7 +10326,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "efecto-casimir",
@@ -10199,7 +10384,8 @@ window.CRONO = {
      "nota": "La versión oficial explica el efecto Casimir por las fluctuaciones del vacío."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "egipto-necropolis-imperial",
@@ -10252,7 +10438,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "einstein-eter-leiden",
@@ -10318,7 +10505,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "eje-de-resistencia",
@@ -10358,7 +10546,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "elecciones-generales-2026",
@@ -10439,7 +10628,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "embajadas-preste-juan-1486",
@@ -10489,7 +10679,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "energia-punto-cero",
@@ -10594,7 +10785,8 @@ window.CRONO = {
      "nota": "El autor la ve como base de la «energía libre»."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "energia-radiante-tesla",
@@ -10658,7 +10850,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "entrevista-stalin-emil-ludwig-1931",
@@ -10720,7 +10913,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "epidemia-ebola-2014",
@@ -10772,7 +10966,8 @@ window.CRONO = {
      "nota": "Relacionadas según Guillermo Mas Arellano en «Nuevo Orden Europeo»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "escuela-de-salamanca",
@@ -10874,7 +11069,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "escuela-prusiana",
@@ -10933,7 +11129,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "escuela-traductores-toledo-xvi",
@@ -10984,7 +11181,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "espana-refugio-nazi",
@@ -11055,7 +11253,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "esquema-poder-mundial",
@@ -11181,7 +11380,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "esquizofrenia-medicacion",
@@ -11252,7 +11452,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "estado-de-israel",
@@ -11329,7 +11530,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "estado-totalitario-fascista-1925",
@@ -11381,7 +11583,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "estados-sucesores-eneas-rurik",
@@ -11437,7 +11640,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "estatua-de-la-libertad-pedestal-1884",
@@ -11484,7 +11688,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "estrecho-de-ormuz",
@@ -11538,7 +11743,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "estructuras-disipativas",
@@ -11611,7 +11817,8 @@ window.CRONO = {
     }
    ],
    "citas": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "estudio-ejercito-eeuu-1978",
@@ -11652,7 +11859,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "europa-autosabotaje",
@@ -11695,7 +11903,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "evento-201-2019",
@@ -11757,7 +11966,8 @@ window.CRONO = {
      "nota": "El autor los cita juntos."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "expansion-fluvial-imperio-romano-x-xii",
@@ -11805,7 +12015,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "expedicion-antartica-alemana",
@@ -11848,7 +12059,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "expedicion-de-los-mil",
@@ -11900,7 +12112,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "experimento-aspect",
@@ -11946,7 +12159,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "experimento-botella-latimer",
@@ -11994,7 +12208,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "experimento-doble-rendija",
@@ -12049,7 +12264,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "experimento-michelson-morley",
@@ -12122,7 +12338,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "experimento-miller-viento-eter",
@@ -12187,7 +12404,8 @@ window.CRONO = {
      "nota": "Lo llevó a cabo Dayton Miller."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "experimento-pequeno-albert",
@@ -12244,7 +12462,8 @@ window.CRONO = {
      "nota": "Coautora"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "experimentos-baranger-germinacion",
@@ -12296,7 +12515,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "experimentos-boston-gripe-1918",
@@ -12342,7 +12562,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "expulsion-jesuitas-1767",
@@ -12399,7 +12620,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "expulsion-jesuitas-rusia-1820",
@@ -12448,7 +12670,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "fabianismo",
@@ -12550,7 +12773,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "factores-de-corte",
@@ -12644,7 +12868,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "familia-bush",
@@ -12722,7 +12947,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "familia-gambino",
@@ -12779,7 +13005,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "familia-warburg",
@@ -12871,7 +13098,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "festival-altamont-1969",
@@ -12912,7 +13140,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "figuras-chladni",
@@ -12962,7 +13191,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "fin-estados-pontificios-1870",
@@ -13040,7 +13270,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "financiacion-privada-oms",
@@ -13110,7 +13341,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "foro-davos",
@@ -13184,7 +13416,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "fortuna-rothschild",
@@ -13230,7 +13463,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "fundacion-constantinopla-nueva-cronologia",
@@ -13280,7 +13514,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "fundacion-de-napoles",
@@ -13324,7 +13559,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "fusion-fria",
@@ -13405,7 +13641,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "garduna",
@@ -13454,7 +13691,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "gas-civiles-iraq-1920",
@@ -13526,7 +13764,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "gates-fundacion-vacunas-acusaciones",
@@ -13580,7 +13819,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "gates-vacunas-poblacion-2010",
@@ -13641,7 +13881,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "generador-hendershot",
@@ -13686,7 +13927,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "georgetown-universidad",
@@ -13762,7 +14004,8 @@ window.CRONO = {
      "nota": "Es uno de los centros donde se formaron dirigentes estadounidenses."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "georgia-guidestones-1980",
@@ -13803,7 +14046,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "golden-dawn-1888",
@@ -13845,7 +14089,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "gran-imperio-mongol-horda-rusa",
@@ -13936,7 +14181,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "gran-israel",
@@ -13996,7 +14242,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "gran-tartaria-fuentes-siglo-xviii",
@@ -14042,7 +14289,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "grandes-bancos",
@@ -14087,7 +14335,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "grandes-problemas-romanov-1613",
@@ -14133,7 +14382,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "grupo-de-la-mesa-redonda",
@@ -14197,7 +14447,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "guardia-suiza",
@@ -14260,7 +14511,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "guerra-asimetrica-iran-2026",
@@ -14301,7 +14553,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-de-etiopia-1935",
@@ -14386,7 +14639,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-de-irak",
@@ -14426,7 +14680,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-de-livonia-campana-punitiva",
@@ -14473,7 +14728,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "guerra-de-los-mundos-radio-1938",
@@ -14526,7 +14782,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "guerra-de-ucrania",
@@ -14584,7 +14841,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-iran-2026",
@@ -14749,7 +15007,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-pugachov-1773",
@@ -14799,7 +15058,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "guerra-razin-1671",
@@ -14851,7 +15111,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "guerra-sucesion-espanola-linajes-bizantinos",
@@ -14897,7 +15158,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "guerra-treinta-anos",
@@ -14956,7 +15218,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerra-uscocos",
@@ -14997,7 +15260,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "guerras-ruso-turcas-politica-romanov",
@@ -15040,7 +15304,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "hambruna-bengala-1943",
@@ -15114,7 +15379,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "hipotesis-tiempo-fantasma-1986",
@@ -15167,7 +15433,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "historia-concilio-trento",
@@ -15214,7 +15481,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "historia-natural-buffon",
@@ -15265,7 +15533,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "hombre-de-pekin",
@@ -15312,7 +15581,8 @@ window.CRONO = {
      "nota": "Participó en el estudio."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "homeopatia",
@@ -15405,7 +15675,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "huida-hitler-argentina",
@@ -15487,7 +15758,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "hundimiento-del-maine-1898",
@@ -15533,7 +15805,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "iese-esade-1958",
@@ -15593,7 +15866,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "economia"
   },
   {
    "id": "iglesia-de-satan",
@@ -15645,7 +15919,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "iglesia-del-gesu",
@@ -15704,7 +15979,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "arquitecturas"
+   "naturaleza": "arquitecturas",
+   "vista": "religion"
   },
   {
    "id": "illuminati-de-baviera-1776",
@@ -15755,7 +16031,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "iluminados-de-baviera-1776",
@@ -15807,7 +16084,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "impeller-pax-jay-harman",
@@ -15864,7 +16142,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "imperio-romano-continua",
@@ -15973,7 +16252,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "incendio-nido-del-aguila",
@@ -16024,7 +16304,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "incendio-primer-goetheanum-1922",
@@ -16077,7 +16358,8 @@ window.CRONO = {
      "nota": "Su diseñador."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "infalibilidad-papal-1870",
@@ -16124,7 +16406,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "informe-flexner",
@@ -16222,7 +16505,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "informe-iron-mountain-1967",
@@ -16277,7 +16561,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "inquisicion-espanola",
@@ -16327,7 +16612,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "instituto-tavistock",
@@ -16402,7 +16688,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "intervencion-orden-del-templo-1677",
@@ -16450,7 +16737,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "invasion-horda-europa-1323-1341",
@@ -16513,7 +16801,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "iran-criptomonedas-sanciones",
@@ -16558,7 +16847,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "istituto-massimiliano-massimo",
@@ -16616,7 +16906,8 @@ window.CRONO = {
      "nota": "El autor lo presenta bajo su autoridad."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "iter",
@@ -16660,7 +16951,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "ivan-el-terrible-cuatro-zares",
@@ -16707,7 +16999,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "ivan-kalita-batu-khan-vaticano",
@@ -16758,7 +17051,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "ivanka-trump-marcas-china-2019",
@@ -16804,7 +17098,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "jabad-lubavitch",
@@ -16846,7 +17141,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "japon-cristiano-samurai-horda",
@@ -16895,7 +17191,8 @@ window.CRONO = {
       "consultado": "2026-11-19"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "jenner-vacuna-viruela",
@@ -16947,7 +17244,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "jerarquia-militar-de-roma",
@@ -17011,7 +17309,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "jerusalen-eros-bosforo",
@@ -17059,7 +17358,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "jesuitas-control-instituciones-eeuu",
@@ -17106,7 +17406,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jesuitas-direccion-cia",
@@ -17147,7 +17448,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jesuitas-japon",
@@ -17194,7 +17496,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "joven-bosnia",
@@ -17245,7 +17548,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "joven-italia",
@@ -17308,7 +17612,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "judios-en-la-unificacion-italiana",
@@ -17357,7 +17662,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "juramento-hipocratico",
@@ -17407,7 +17713,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "justicia-social-taparelli",
@@ -17465,7 +17772,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "kolkhoz-modelo-reducciones-jesuitas",
@@ -17524,7 +17832,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "kozyrev-volcanismo-lunar",
@@ -17575,7 +17884,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "la-forma-de-las-cosas-futuras-1933",
@@ -17615,7 +17925,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "lascaris-comneno-habsburgo",
@@ -17653,7 +17964,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "laudate-deum-2023",
@@ -17700,7 +18012,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "laudato-si-2015",
@@ -17755,7 +18068,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "legion-de-honor",
@@ -17828,7 +18142,8 @@ window.CRONO = {
      "nota": "El autor lo cita como caballero."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "lenin-readmite-jesuitas-1922",
@@ -17881,7 +18196,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "ley-conservacion-masa-lavoisier",
@@ -17929,7 +18245,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "ley-histeresis-steinmetz",
@@ -17978,7 +18295,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "leyenda-negra",
@@ -18015,7 +18333,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "leyes-raciales-fascistas-1938",
@@ -18079,7 +18398,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "libro-bechamp-or-pasteur",
@@ -18130,7 +18450,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "libro-de-la-ley",
@@ -18184,7 +18505,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "liga-del-norte-1959",
@@ -18221,7 +18543,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "lock-step-rockefeller-2010",
@@ -18278,7 +18601,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "lockdown-files-2020",
@@ -18326,7 +18650,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "logia-p2",
@@ -18387,7 +18712,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "logias-vacunacion-covid-2021",
@@ -18437,7 +18763,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "london-gold-pool-bpi",
@@ -18496,7 +18823,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "mafia-siciliana",
@@ -18694,7 +19022,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "magna-ciencia-obra",
@@ -18753,7 +19082,8 @@ window.CRONO = {
      "nota": "La obra y sus cursos se presentan en Plural 21."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "mandato-britanico-de-palestina",
@@ -18811,7 +19141,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "manifiesto-comunista-1848",
@@ -18872,7 +19203,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "mapas-noroeste-america-mancha-blanca",
@@ -18918,7 +19250,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "marasmo-orfanatos",
@@ -18959,7 +19292,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "marx-gymnasium-treveris-1830",
@@ -19014,7 +19348,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "masoneria-especulativa",
@@ -19131,7 +19466,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "masoneria-italiana-1908",
@@ -19197,7 +19533,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "massimo-dutti",
@@ -19244,7 +19581,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "matanza-de-kansas-city-1933",
@@ -19290,7 +19628,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "mayer-aprendiz-oppenheim-1757",
@@ -19342,7 +19681,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "mecanica-causal-kozyrev",
@@ -19457,7 +19797,8 @@ window.CRONO = {
      "nota": "El autor identifica las ondas de torsión con la psique."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "men-in-black-1997",
@@ -19530,7 +19871,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "mil-anos-extra-pax-romana-1650",
@@ -19575,7 +19917,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "mil-novecientos-ochenta-y-cuatro-1949",
@@ -19618,7 +19961,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "modelo-negocio-farmaceutico-clientes-recurrentes",
@@ -19708,7 +20052,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "modelo-nuclear-moon",
@@ -19755,7 +20100,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "monarquias-accionistas-multinacionales",
@@ -19831,7 +20177,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "monarquias-carolingias",
@@ -19871,7 +20218,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "monasterio-el-escorial",
@@ -19918,7 +20266,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "arquitecturas"
+   "naturaleza": "arquitecturas",
+   "vista": "religion"
   },
   {
    "id": "montagnier-adn",
@@ -19963,7 +20312,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "monumento-tomas-moro-moscu-1918",
@@ -20011,7 +20361,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "morgan-lamont-mussolini",
@@ -20100,7 +20451,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "morris-fishbein-jama-1924",
@@ -20160,7 +20512,8 @@ window.CRONO = {
      "nota": "El autor lo vincula con la supresión de terapias alternativas del cáncer."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "moscu-capital-imperio-xvi",
@@ -20208,7 +20561,8 @@ window.CRONO = {
       "consultado": "2026-11-18"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "movimiento-sionista",
@@ -20350,7 +20704,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "movimiento-social-italiano",
@@ -20425,7 +20780,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "muerte-bin-laden-2011",
@@ -20465,7 +20821,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "muerte-de-lenin-1924",
@@ -20515,7 +20872,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "muerte-gengis-kan-1343",
@@ -20579,7 +20937,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "mundo-feliz-1932",
@@ -20630,7 +20989,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "mussolini-caballero-de-malta",
@@ -20677,7 +21037,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "mussolini-titere-del-vaticano",
@@ -20754,7 +21115,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "napoleon-ocupa-malta-1798",
@@ -20813,7 +21175,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "napoleon-ocupa-roma-1798",
@@ -20863,7 +21226,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "napoleon-proclama-judios-1799",
@@ -20921,7 +21285,8 @@ window.CRONO = {
      "nota": "El autor lo presenta como antecedente."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "national-geographic",
@@ -20978,7 +21343,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "naturaleza-enlace-quimico-pauling",
@@ -21034,7 +21400,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "nazis-en-egipto",
@@ -21093,7 +21460,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "nestorianos-origen-musulmanes",
@@ -21140,7 +21508,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "new-world-order-wells-1940",
@@ -21183,7 +21552,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "nobleza-en-iberoamerica",
@@ -21269,7 +21639,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "nobleza-espanola",
@@ -21321,7 +21692,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "nobleza-negra",
@@ -21599,7 +21971,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "nssm-200-1974",
@@ -21651,7 +22024,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "nuclei-armati-rivoluzionari",
@@ -21704,7 +22078,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "nuevo-orden-europeo-1951",
@@ -21756,7 +22131,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "nuevos-idiomas-barreras-linguisticas",
@@ -21799,7 +22175,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "numero-911-emergencias-1968",
@@ -21845,7 +22222,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "oas-1961",
@@ -21890,7 +22268,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "oferta-de-paz-alemana-1916",
@@ -21934,7 +22313,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "oms-definicion-pandemia-2013",
@@ -21985,7 +22365,8 @@ window.CRONO = {
      "nota": "El autor lo presenta como paso previo al 11-3-2020."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "oms-fundacion-1948",
@@ -22068,7 +22449,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "oms-medicina-tradicional-estrategia",
@@ -22113,7 +22495,8 @@ window.CRONO = {
      "nota": "Mismo organismo."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "oms-pandemias-gripe-a-ebola-zika",
@@ -22173,7 +22556,8 @@ window.CRONO = {
      "nota": "Cambio de criterio tras las críticas a la gripe A."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "onu",
@@ -22249,7 +22633,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "operacion-barbarroja-1941",
@@ -22297,7 +22682,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "operacion-condor",
@@ -22333,7 +22719,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "operacion-gladio",
@@ -22407,7 +22794,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "operacion-highjump",
@@ -22450,7 +22838,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "operacion-leon-ascendente",
@@ -22493,7 +22882,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "operacion-paperclip",
@@ -22572,7 +22962,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "opus-dei",
@@ -22631,7 +23022,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "orden-constantiniana",
@@ -22715,7 +23107,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "orden-de-la-jarretera",
@@ -22798,7 +23191,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "orden-de-malta",
@@ -23005,7 +23399,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "orden-del-temple",
@@ -23121,7 +23516,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "ordenes-espuela-de-oro-y-cristo-1725",
@@ -23167,7 +23563,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "organizacion-gehlen",
@@ -23212,7 +23609,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "organizacion-mano-negra",
@@ -23265,7 +23663,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "origen-catolico-del-comunismo",
@@ -23330,7 +23729,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "origen-cristianismo",
@@ -23383,7 +23783,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "origen-de-las-especies",
@@ -23451,7 +23852,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "pacto-germano-sovietico-1939",
@@ -23504,7 +23906,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "pactos-de-letran",
@@ -23565,7 +23968,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "palantir",
@@ -23608,7 +24012,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "pallavicini-isabel-i",
@@ -23654,7 +24059,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "pam-reynolds-ecm",
@@ -23724,7 +24130,8 @@ window.CRONO = {
      "nota": "La persona del caso"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "pandemia-covid-19",
@@ -23877,7 +24284,8 @@ window.CRONO = {
      "nota": "Cambio de fases de 2013 que el autor cita como paso previo."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "papas-negro-blanco-gris",
@@ -23948,7 +24356,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "parapsicologia-urss",
@@ -24004,7 +24413,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "particion-final-imperio-1814",
@@ -24050,7 +24460,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "partido-renacimiento-nacional",
@@ -24108,7 +24519,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "partido-socialista-del-reich",
@@ -24153,7 +24565,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "pasteur-gusano-de-seda",
@@ -24210,7 +24623,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "patente-tesla-787412",
@@ -24262,7 +24676,8 @@ window.CRONO = {
      "nota": "La patente se presenta como prueba de la electricidad longitudinal."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "pedagogia-waldorf-1919",
@@ -24325,7 +24740,8 @@ window.CRONO = {
      "nota": "Fundamento de su método."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "pedro-i-reforma-calendario-1700",
@@ -24379,7 +24795,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "pentagono",
@@ -24473,7 +24890,8 @@ window.CRONO = {
      "fuente": "Pendiente: obra no dicha en el vídeo (E55)"
     }
    ],
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "petrodolar",
@@ -24522,7 +24940,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "pistola-de-gavrilo-princip",
@@ -24578,7 +24997,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "plan-kalergi",
@@ -24618,7 +25038,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "pleitos-colombinos",
@@ -24670,7 +25091,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "plural-21",
@@ -24740,7 +25162,8 @@ window.CRONO = {
      "nota": "En su 33.º aniversario se presenta la obra de Artur Sala."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "positivismo",
@@ -24786,7 +25209,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "postulados-de-koch-1884",
@@ -24841,7 +25265,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "potencial-transferido-grinberg",
@@ -24891,7 +25316,8 @@ window.CRONO = {
      "nota": "El autor lo relaciona con la no localidad cuántica."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "prestamo-rothschild-1832",
@@ -24955,7 +25381,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "primer-imperio-egipto-medieval",
@@ -25003,7 +25430,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "primera-guerra-mundial",
@@ -25091,7 +25519,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "privilegios-inmunidad-bpi",
@@ -25161,7 +25590,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "protocolos-de-los-sabios-de-sion",
@@ -25208,7 +25638,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "proton-21-mct",
@@ -25261,7 +25692,8 @@ window.CRONO = {
       "consultado": "2026-11-15"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "prueba-trinity-1945",
@@ -25309,7 +25741,8 @@ window.CRONO = {
      "nota": "Dealey Plaza y Trinity, según el autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "purga-pulkovo-1936",
@@ -25351,7 +25784,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "quema-libros-reich",
@@ -25398,7 +25832,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "rebelion-alemania-contra-imperio-xvi",
@@ -25451,7 +25886,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "reconstruccion-santo-sepulcro-1810",
@@ -25501,7 +25937,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "reducciones-jesuitas",
@@ -25571,7 +26008,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "reforma-corte-papal-pontificalis-domus",
@@ -25642,7 +26080,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "reforma-protestante-1517",
@@ -25685,7 +26124,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "regresion-hipnotica",
@@ -25764,7 +26204,8 @@ window.CRONO = {
      "nota": "Otra técnica que el autor cita para revivir el nudo de tiempo"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "reino-dos-sicilias",
@@ -25853,7 +26294,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "relatividad-especial",
@@ -25898,7 +26340,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "repulsin-schauberger",
@@ -25942,7 +26385,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "resorts-international-intertel",
@@ -26046,7 +26490,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "respiramos-electrones-pollack",
@@ -26121,7 +26566,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "restauracion-jesuitas-1814",
@@ -26190,7 +26636,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "reunion-gobernadores-bpi-2013",
@@ -26295,7 +26742,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "reunion-royal-society-1972",
@@ -26345,7 +26793,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "revista-nature",
@@ -26409,7 +26858,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "revolucion-francesa-1789",
@@ -26461,7 +26911,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "revolucion-islamica-1979",
@@ -26504,7 +26955,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "revolucion-rusa-1917",
@@ -26584,7 +27036,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "rockefeller-monopolio-petroquimica-medicina",
@@ -26658,7 +27111,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "rosacruces",
@@ -26701,7 +27155,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "rosetta-confiscada-1801",
@@ -26752,7 +27207,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "royal-society",
@@ -26830,7 +27286,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "ruptura-steiner-sociedad-teosofica-1913",
@@ -26907,7 +27364,8 @@ window.CRONO = {
      "nota": "Fundadora de la sociedad de la que se separa."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "ruptura-venecia-1607",
@@ -26969,7 +27427,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "rutas-de-escape-nazis",
@@ -27041,7 +27500,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "sabateo-frankismo",
@@ -27083,7 +27543,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "sabotajes-negociaciones-2025-2026",
@@ -27126,7 +27587,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "sagrada-familia-fecha-882",
@@ -27173,7 +27635,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "saludo-bellamy",
@@ -27219,7 +27682,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "saludo-musk-2025",
@@ -27274,7 +27738,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "salvamento-banco-de-roma-1922",
@@ -27326,7 +27791,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "santa-sofia-templo-de-salomon",
@@ -27379,7 +27845,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "sayops-jumilla-torre-pacheco-2025",
@@ -27438,7 +27905,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "secuestro-hijo-lindbergh-1932",
@@ -27483,7 +27951,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "secuestro-pio-vii-1809",
@@ -27548,7 +28017,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "sede-bpi-basilea-1977",
@@ -27598,7 +28068,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "segunda-guerra-mundial",
@@ -27684,7 +28155,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "sellos-ivan-iii-federico-iii",
@@ -27731,7 +28203,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "sitio-jativa-1522-1707",
@@ -27782,7 +28255,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "skull-and-bones-yale",
@@ -27852,7 +28326,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "smartphones-y-cognicion",
@@ -27891,7 +28366,8 @@ window.CRONO = {
     ]
    },
    "conexiones": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sociedad-americana-del-cancer-1913",
@@ -27938,7 +28414,8 @@ window.CRONO = {
      "nota": "Misma crítica a los tratamientos oficiales del cáncer."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sociedad-antroposofica",
@@ -28003,7 +28480,8 @@ window.CRONO = {
      "nota": "Destrucción de su primera sede."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "sociedad-de-los-peregrinos",
@@ -28120,7 +28598,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "sociedad-de-naciones",
@@ -28169,7 +28648,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ss-modelo-jesuita",
@@ -28212,7 +28692,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "stalin-poder-1929",
@@ -28271,7 +28752,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "stalin-seminario-tiflis",
@@ -28351,7 +28833,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "steiner-archivo-goethe-weimar",
@@ -28419,7 +28902,8 @@ window.CRONO = {
      "nota": "Obra que Steiner descubre en esta etapa."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sucesion-fibonacci",
@@ -28473,7 +28957,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "suiza-origen",
@@ -28536,7 +29021,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "supresion-jesuitas-1773",
@@ -28614,7 +29100,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "supresion-medicinas-alternativas-eeuu-1910",
@@ -28674,7 +29161,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "templarios-aragon-montesa",
@@ -28737,7 +29225,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "templarios-banca-siglo-xii",
@@ -28779,7 +29268,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "templarios-piratas-jolly-roger",
@@ -28826,7 +29316,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "templo-de-melkart",
@@ -28871,7 +29362,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "arquitecturas"
+   "naturaleza": "arquitecturas",
+   "vista": "religion"
   },
   {
    "id": "templo-de-salomon",
@@ -28939,7 +29431,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "arquitecturas"
+   "naturaleza": "arquitecturas",
+   "vista": "religion"
   },
   {
    "id": "teologia-de-la-liberacion",
@@ -28977,7 +29470,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "teoria-celular",
@@ -29043,7 +29537,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "tercer-reich",
@@ -29116,7 +29611,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "tercer-templo",
@@ -29160,7 +29656,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "arquitecturas"
+   "naturaleza": "arquitecturas",
+   "vista": "religion"
   },
   {
    "id": "testamento-hitler",
@@ -29205,7 +29702,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "the-lone-gunmen-piloto-2001",
@@ -29254,7 +29752,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "thelema",
@@ -29302,7 +29801,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "tindalizacion",
@@ -29348,7 +29848,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "tjundeshev-batij-2018",
@@ -29393,7 +29894,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "toma-constantinopla-1261",
@@ -29438,7 +29940,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "toma-de-berlin-1945",
@@ -29487,7 +29990,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "toma-de-kazan-1552",
@@ -29537,7 +30041,8 @@ window.CRONO = {
       "consultado": "2026-11-19"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "transduccion-informacion-agua-montagnier",
@@ -29610,7 +30115,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "transhumanismo-termino-huxley",
@@ -29674,7 +30180,8 @@ window.CRONO = {
      "nota": "Teilhard, aliado."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "transistor",
@@ -29720,7 +30227,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "traslado-capital-veneciano",
@@ -29810,7 +30318,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "tratado-de-tordesillas-1679",
@@ -29856,7 +30365,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "tratado-de-versalles",
@@ -29924,7 +30434,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "tratamientos-oficiales-cancer-critica",
@@ -30014,7 +30525,8 @@ window.CRONO = {
      "nota": "Otra tesis alternativa sobre el cáncer ya en el repositorio."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "triple-division-poderes-gran-khan",
@@ -30057,7 +30569,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "trump-dinero-ruso-bogatin",
@@ -30102,7 +30615,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "tucidides-eclipses-guerra-peloponeso",
@@ -30154,7 +30668,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "uicn-fundacion-1948",
@@ -30221,7 +30736,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "una-utopia-moderna-1905",
@@ -30260,7 +30776,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "unesco-fundacion-1946",
@@ -30309,7 +30826,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "unificacion-italiana",
@@ -30456,7 +30974,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "union-de-rusia-1318",
@@ -30501,7 +31020,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "union-protestante-liga-catolica",
@@ -30545,7 +31065,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "universidad-de-padua",
@@ -30591,7 +31112,8 @@ window.CRONO = {
      "nota": "Harvey estudió en Padua."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "universidades-cartas-reales",
@@ -30639,7 +31161,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "usaid-dfc-2025",
@@ -30686,7 +31209,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "utopia-tomas-moro-1516",
@@ -30734,7 +31258,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "vacunas-seguridad-eficacia-ndm",
@@ -30809,7 +31334,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "variolizacion-epidemias-alemania-1781",
@@ -30855,7 +31381,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "variolizacion-lady-montagu-1718",
@@ -30905,7 +31432,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "venetian-party",
@@ -30960,7 +31488,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "vicki-noratuk-ecm-ciega-de-nacimiento",
@@ -31018,7 +31547,8 @@ window.CRONO = {
      "nota": "Caso que el autor cita junto a este"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "vigilancia-masiva-china",
@@ -31062,7 +31592,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "vin-mariani-1863",
@@ -31104,7 +31635,8 @@ window.CRONO = {
    },
    "citas": [],
    "conexiones": [],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "virginia-company",
@@ -31148,7 +31680,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "virreinato-nueva-espana",
@@ -31192,7 +31725,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "virreyes-horda-europa-xvi",
@@ -31240,7 +31774,8 @@ window.CRONO = {
       "consultado": "2026-11-19"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "virus-observados-secos-sala",
@@ -31293,7 +31828,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "visita-gates-enea-2014",
@@ -31341,7 +31877,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "visita-uss-enterprise-napoles-2018",
@@ -31387,7 +31924,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "voto-de-pobreza-origen-comunismo",
@@ -31442,7 +31980,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "wall-street-financia-bolchevismo-y-nazismo",
@@ -31570,7 +32109,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "washington-arquitectura-romana",
@@ -31621,7 +32161,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "washington-dc",
@@ -31701,7 +32242,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "waterloo-rothschild-1815",
@@ -31748,7 +32290,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "world-trade-center",
@@ -31847,7 +32390,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "wwf-fundacion-1961",
@@ -31914,7 +32458,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "x-club",
@@ -31976,7 +32521,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "abraham-flexner",
@@ -32020,7 +32566,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "abraham-maslow",
@@ -32062,7 +32609,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "abraham-ortelius",
@@ -32109,7 +32657,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "adam-smith",
@@ -32173,7 +32722,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "adolf-hitler",
@@ -32238,7 +32788,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "agustin-carstens",
@@ -32285,7 +32836,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "agustin-fernandez-mallo",
@@ -32328,7 +32880,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "alain-aspect",
@@ -32376,7 +32929,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "albert-einstein",
@@ -32432,7 +32986,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "albert-hartl",
@@ -32484,7 +33039,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "albert-michelson",
@@ -32534,7 +33090,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "albert-pike",
@@ -32595,7 +33152,8 @@ window.CRONO = {
      "fuente": "Pendiente: «Moral y dogma», pasaje por localizar (E67)"
     }
    ],
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "aldous-huxley",
@@ -32667,7 +33225,8 @@ window.CRONO = {
      "nota": "Según el autor, fue miembro."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "aleister-crowley",
@@ -32784,7 +33343,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "alessandro-torlonia",
@@ -32830,7 +33390,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "alex-karp",
@@ -32881,7 +33442,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "alfonso-de-madrigal",
@@ -32929,7 +33491,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "alfred-pischinger",
@@ -32978,7 +33541,8 @@ window.CRONO = {
      "nota": "Su tríada capilar-matriz-célula es una de las bases del argumento"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "allen-dulles",
@@ -33036,7 +33600,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "alois-brunner",
@@ -33080,7 +33645,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "alois-konstantin-lowenstein",
@@ -33127,7 +33693,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "aly-khan",
@@ -33164,7 +33731,8 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "amancio-ortega",
@@ -33215,7 +33783,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "anatoli-fomenko",
@@ -33278,7 +33847,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "anatoli-lunacharski",
@@ -33320,7 +33890,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "andre-dupin",
@@ -33362,7 +33933,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "andrea-rossi",
@@ -33409,7 +33981,8 @@ window.CRONO = {
      "nota": "El ECAT es el dispositivo que presentó."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "andronico-i-comneno",
@@ -33458,7 +34031,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "antoine-bechamp",
@@ -33513,7 +34087,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "anton-lavey",
@@ -33559,7 +34134,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "anton-rupert",
@@ -33607,7 +34183,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "antonio-garcia-trevijano",
@@ -33651,7 +34228,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "antonio-rosmini",
@@ -33693,7 +34271,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "antony-sutton",
@@ -33761,7 +34340,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "aristoteles",
@@ -33817,7 +34397,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "arthur-balfour",
@@ -33859,7 +34440,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "arturo-sosa",
@@ -33920,7 +34502,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "athanasius-kircher",
@@ -33971,7 +34554,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "august-belmont",
@@ -34017,7 +34601,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "auguste-comte",
@@ -34064,7 +34649,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "baldassarre-capra",
@@ -34108,7 +34694,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "ben-bernanke",
@@ -34155,7 +34742,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "benedicto-xvi",
@@ -34206,7 +34794,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "benito-arias-montano",
@@ -34247,7 +34836,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "benito-mussolini",
@@ -34386,7 +34976,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "benjamin-netanyahu",
@@ -34438,7 +35029,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "bernardo-de-lippe-biesterfeld",
@@ -34508,7 +35100,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "buffon",
@@ -34555,7 +35148,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "candace-pert",
@@ -34611,7 +35205,8 @@ window.CRONO = {
      "nota": "Su tesis de las moléculas de la emoción"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "carl-gustav-jung",
@@ -34677,7 +35272,8 @@ window.CRONO = {
      "nota": "Su complejo afectivo inspira el «complejo subconsciente» del autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "carlomagno",
@@ -34721,7 +35317,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "carlos-borbon-dos-sicilias",
@@ -34860,7 +35457,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "carlos-martel",
@@ -34908,7 +35506,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "carlos-v",
@@ -34954,7 +35553,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "cecil-rhodes",
@@ -35008,7 +35608,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "charles-darwin",
@@ -35064,7 +35665,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "charles-joseph-bonaparte",
@@ -35119,7 +35721,8 @@ window.CRONO = {
      "nota": "Sobrino nieto."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "charles-lindbergh",
@@ -35165,7 +35768,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "charles-steinmetz",
@@ -35215,7 +35819,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "christoph-scheiner",
@@ -35261,7 +35866,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "clinton-roosevelt",
@@ -35303,7 +35909,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "corrado-malanga",
@@ -35346,7 +35953,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "cristian-de-anhalt",
@@ -35404,7 +36012,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "cristobal-colon",
@@ -35453,7 +36062,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "dante-alighieri",
@@ -35494,7 +36104,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "david-bohm",
@@ -35536,7 +36147,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "david-de-rothschild",
@@ -35614,7 +36226,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "david-hume",
@@ -35666,7 +36279,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "david-rockefeller",
@@ -35720,7 +36334,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "dayton-miller",
@@ -35769,7 +36384,8 @@ window.CRONO = {
      "nota": "Su experimento de 1925-26 es el que mide el viento de éter."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "democrito",
@@ -35822,7 +36438,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "dionisio-petavio",
@@ -35882,7 +36499,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "dmitri-donskoi",
@@ -35929,7 +36547,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "donald-mckale",
@@ -35972,7 +36591,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "donald-rumsfeld",
@@ -36018,7 +36638,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "donald-trump",
@@ -36303,7 +36924,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "dragutin-dimitrijevic",
@@ -36349,7 +36971,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "dudley-carleton",
@@ -36395,7 +37018,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "duque-de-kent",
@@ -36442,7 +37066,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "edmond-james-de-rothschild",
@@ -36496,7 +37121,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "edward-jenner",
@@ -36538,7 +37164,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "edward-morley",
@@ -36584,7 +37211,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "edwin-de-leon",
@@ -36626,7 +37254,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "edwin-johnson",
@@ -36673,7 +37302,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "edwin-sandys",
@@ -36719,7 +37349,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ehrenfried-pfeiffer",
@@ -36782,7 +37413,8 @@ window.CRONO = {
      "nota": "Continuadores del calendario biodinámico."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "eleanor-roosevelt",
@@ -36832,7 +37464,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "elon-musk",
@@ -36903,7 +37536,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "elvina-pallavicini",
@@ -36949,7 +37583,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "emil-ludwig",
@@ -36991,7 +37626,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "emilio-del-giudice",
@@ -37047,7 +37683,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "emmanuel-macron",
@@ -37103,7 +37740,8 @@ window.CRONO = {
      "nota": "Trabajó en su banco."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "enrique-iv-francia",
@@ -37145,7 +37783,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "erich-priebke",
@@ -37191,7 +37830,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "ernst-chladni",
@@ -37238,7 +37878,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "ernst-junger",
@@ -37282,7 +37923,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "esteban-schaumburg-lippe",
@@ -37324,7 +37966,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ethel-douglas-hume",
@@ -37366,7 +38009,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "eustace-mullins",
@@ -37427,7 +38071,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "eva-peron",
@@ -37480,7 +38125,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ezra-pound",
@@ -37537,7 +38183,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "federico-v-palatinado",
@@ -37582,7 +38229,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "feliks-dzerzhinski",
@@ -37629,7 +38277,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "felipe-ii",
@@ -37679,7 +38328,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "felipe-vi",
@@ -37769,7 +38419,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ferdinand-foch",
@@ -37894,7 +38545,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "fernand-braudel",
@@ -37936,7 +38588,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "fernando-vazquez-de-menchaca",
@@ -37993,7 +38646,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "fibonacci",
@@ -38037,7 +38691,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "fidel-castro",
@@ -38077,7 +38732,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "francesco-giorgi",
@@ -38137,7 +38793,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "francis-bacon",
@@ -38194,7 +38851,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "francis-parker-yockey",
@@ -38235,7 +38893,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "francisco-de-borja",
@@ -38276,7 +38935,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "francisco-de-vitoria",
@@ -38341,7 +39001,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "francisco-fernando",
@@ -38395,7 +39056,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "francisco-franco",
@@ -38441,7 +39103,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "francisco-suarez",
@@ -38493,7 +39156,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "francois-hotman",
@@ -38535,7 +39199,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "francois-quesnay",
@@ -38577,7 +39242,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "franklin-pierce",
@@ -38619,7 +39285,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "fritz-springmeier",
@@ -38662,7 +39329,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "galileo-galilei",
@@ -38720,7 +39388,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "gamal-abdel-nasser",
@@ -38766,7 +39435,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "gasparo-contarini",
@@ -38827,7 +39497,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "gaston-naessens",
@@ -38890,7 +39561,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "gavrilo-princip",
@@ -38956,7 +39628,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "gengis-kan",
@@ -39013,7 +39686,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "geoffrey-parker",
@@ -39060,7 +39734,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "georg-hegel",
@@ -39102,7 +39777,8 @@ window.CRONO = {
      "nota": "Tema."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "george-orwell",
@@ -39190,7 +39866,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "george-soros",
@@ -39245,7 +39922,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "george-sylvester-viereck",
@@ -39287,7 +39965,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "georges-cuvier",
@@ -39329,7 +40008,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "georgi-zhukov",
@@ -39375,7 +40055,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "gerald-pollack",
@@ -39422,7 +40103,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "giorgio-almirante",
@@ -39468,7 +40150,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "giovanni-diodati",
@@ -39514,7 +40197,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "giovanni-francesco-sagredo",
@@ -39560,7 +40244,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "giuliano-preparata",
@@ -39598,7 +40283,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "giuseppe-garibaldi",
@@ -39660,7 +40346,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "giuseppe-mazzini",
@@ -39730,7 +40417,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "goethe",
@@ -39813,7 +40501,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "gregg-braden",
@@ -39856,7 +40545,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "gregorio-pedro-agagianian",
@@ -39903,7 +40593,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "gro-harlem-brundtland",
@@ -39948,7 +40639,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "guillermo-de-gellone",
@@ -39994,7 +40686,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "guillermo-de-ockham",
@@ -40039,7 +40732,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "guillermo-ii",
@@ -40089,7 +40783,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "guillermo-ix-hesse-kassel",
@@ -40139,7 +40834,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "gunther-enderlein",
@@ -40192,7 +40888,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "h-g-wells",
@@ -40253,7 +40950,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "h-keith-thompson",
@@ -40299,7 +40997,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "halfdan-mahler",
@@ -40348,7 +41047,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "halton-arp",
@@ -40398,7 +41098,8 @@ window.CRONO = {
      "nota": "Su objeción al corrimiento al rojo como medida de distancia."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "hans-f-k-gunther",
@@ -40444,7 +41145,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "hans-jenny",
@@ -40486,7 +41188,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "hans-ulrich-niemitz",
@@ -40544,7 +41247,8 @@ window.CRONO = {
       "consultado": "2026-11-19"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "hans-ulrich-rudel",
@@ -40589,7 +41293,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "harold-puthoff",
@@ -40637,7 +41342,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "harold-saxton-burr",
@@ -40685,7 +41391,8 @@ window.CRONO = {
      "nota": "Citado por el autor como pionero del sistema bioeléctrico"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "heinrich-himmler",
@@ -40731,7 +41438,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "heinrich-matthias-thurn",
@@ -40777,7 +41485,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "heinrich-muller",
@@ -40832,7 +41541,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "heinz-krug",
@@ -40880,7 +41590,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "helena-blavatsky",
@@ -40944,7 +41655,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "henry-kissinger",
@@ -41000,7 +41712,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "henry-wotton",
@@ -41054,7 +41767,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "herbert-spencer",
@@ -41115,7 +41829,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "heribert-illig",
@@ -41158,7 +41873,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "hermann-goring",
@@ -41204,7 +41920,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "hernan-cortes",
@@ -41251,7 +41968,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "hillary-clinton",
@@ -41299,7 +42017,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "hipocrates",
@@ -41346,7 +42065,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "hjalmar-schacht",
@@ -41443,7 +42163,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "howard-hughes",
@@ -41505,7 +42226,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "hugh-trevor-roper",
@@ -41563,7 +42285,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "hugo-grocio",
@@ -41622,7 +42345,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "ignacio-de-loyola",
@@ -41686,7 +42410,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "ilya-prigogine",
@@ -41728,7 +42453,8 @@ window.CRONO = {
     }
    ],
    "citas": [],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "immanuel-kant",
@@ -41787,7 +42513,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "irving-langmuir",
@@ -41833,7 +42560,8 @@ window.CRONO = {
      "nota": "El autor lo menciona entre los asistentes al congreso de 1927."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "isaac-casaubon",
@@ -41881,7 +42609,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "isaac-newton",
@@ -41930,7 +42659,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "isaac-shamir",
@@ -41981,7 +42711,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "isabel-de-farnesio",
@@ -42033,7 +42764,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "isabel-estuardo",
@@ -42079,7 +42811,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "isabel-ii-espana",
@@ -42125,7 +42858,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ita-wegman",
@@ -42176,7 +42910,8 @@ window.CRONO = {
      "nota": "Su colaborador."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "ivan-i-kalita",
@@ -42225,7 +42960,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "ivan-pavlov",
@@ -42278,7 +43014,8 @@ window.CRONO = {
      "nota": "Watson lo aplicó al miedo humano"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "j-edgar-hoover",
@@ -42444,7 +43181,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jack-lew",
@@ -42491,7 +43229,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "jacob-rothschild",
@@ -42537,7 +43276,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "jacobo-grinberg",
@@ -42581,7 +43321,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "jacobo-i",
@@ -42626,7 +43367,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jacques-benveniste",
@@ -42677,7 +43419,8 @@ window.CRONO = {
      "nota": "Su trabajo se usó para apoyar la homeopatía"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "jaime-caruana",
@@ -42724,7 +43467,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "jair-bolsonaro",
@@ -42790,7 +43534,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "james-clerk-maxwell",
@@ -42856,7 +43601,8 @@ window.CRONO = {
      "nota": "Artur Sala lo menciona en «Éter luminífero»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "james-jesus-angleton",
@@ -42902,7 +43648,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "james-madole",
@@ -42958,7 +43705,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "jean-baptiste-de-franssu",
@@ -43007,7 +43755,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "jean-baptiste-lamarck",
@@ -43059,7 +43808,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "jean-christophe-napoleon",
@@ -43127,7 +43877,8 @@ window.CRONO = {
      "nota": "El autor lo presenta como su tío."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "politica"
   },
   {
    "id": "jean-hardouin",
@@ -43174,7 +43925,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "jean-pierre-garnier-malet",
@@ -43229,7 +43981,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "jefe-seattle",
@@ -43280,7 +44033,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "jeffrey-epstein",
@@ -43352,7 +44106,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jerome-powell",
@@ -43399,7 +44154,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "joaquin-de-fiore",
@@ -43444,7 +44200,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "johann-gottfried-herder",
@@ -43486,7 +44243,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "johann-joachim-christoph-bode",
@@ -43532,7 +44290,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "johann-von-leers",
@@ -43579,7 +44338,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "johannes-kepler",
@@ -43625,7 +44385,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "john-b-watson",
@@ -43682,7 +44443,8 @@ window.CRONO = {
      "nota": "Su trabajo parte del condicionamiento de Pávlov"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "john-dee",
@@ -43741,7 +44503,8 @@ window.CRONO = {
      "nota": "Astrología y saber oculto."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "john-f-kennedy",
@@ -43783,7 +44546,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "john-law",
@@ -43829,7 +44593,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "john-locke",
@@ -43888,7 +44653,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "john-robison",
@@ -43936,7 +44702,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "john-tyndall",
@@ -43987,7 +44754,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "john-wheeler",
@@ -44033,7 +44801,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "johnny-torrio",
@@ -44079,7 +44848,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "jose-arguelles",
@@ -44121,7 +44891,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "joseph-goebbels",
@@ -44167,7 +44938,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "joseph-scaliger",
@@ -44231,7 +45003,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "joshua-haldeman",
@@ -44273,7 +45046,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "juan-carlos-i",
@@ -44325,7 +45099,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "juan-de-borbon",
@@ -44371,7 +45146,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "juan-de-mariana",
@@ -44422,7 +45198,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "juan-domingo-peron",
@@ -44491,7 +45268,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "juan-pablo-ii",
@@ -44532,7 +45310,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "juan-sin-tierra",
@@ -44574,7 +45353,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "julian-huxley",
@@ -44657,7 +45437,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "julius-evola",
@@ -44710,7 +45491,8 @@ window.CRONO = {
      "nota": "Relacionadas según Guillermo Mas Arellano en «Nuevo Orden Europeo»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "junio-valerio-borghese",
@@ -44763,7 +45545,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "junipero-serra",
@@ -44805,7 +45588,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "justiniano",
@@ -44855,7 +45639,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "karl-donitz",
@@ -44913,7 +45698,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "karl-haushofer",
@@ -44967,7 +45753,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "karl-lowenstein",
@@ -45018,7 +45805,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "karl-marx",
@@ -45080,7 +45868,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "karl-schwarzenberg",
@@ -45126,7 +45915,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "lady-mary-wortley-montagu",
@@ -45168,7 +45958,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "lenin",
@@ -45226,7 +46017,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "leon-degrelle",
@@ -45275,7 +46067,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "leonardo-dona",
@@ -45321,7 +46114,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "leonardo-lessius",
@@ -45369,7 +46163,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "leopoldo-i-habsburgo",
@@ -45422,7 +46217,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "leopoldo-torlonia",
@@ -45468,7 +46264,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "leucipo",
@@ -45516,7 +46313,8 @@ window.CRONO = {
      "nota": "Maestro y discípulo según la tradición."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "lev-trotski",
@@ -45562,7 +46360,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "levinus-hulsius",
@@ -45611,7 +46410,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "licio-gelli",
@@ -45657,7 +46457,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "lindsey-graham",
@@ -45706,7 +46507,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "linus-pauling",
@@ -45749,7 +46551,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "lord-palmerston",
@@ -45791,7 +46594,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "lord-william-bentinck",
@@ -45837,7 +46641,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "louis-brandeis",
@@ -45887,7 +46692,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "louis-kervran",
@@ -45959,7 +46765,8 @@ window.CRONO = {
      "verificacion": "sin-comprobar",
      "fuente": "No hay fuente abierta; Monod ganó el Nobel en 1965."
     }
-   ]
+   ],
+   "vista": "ciencia"
   },
   {
    "id": "louis-pasteur",
@@ -46027,7 +46834,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "luc-frieden",
@@ -46070,7 +46878,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "luc-montagnier",
@@ -46126,7 +46935,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "luciano-de-samosata",
@@ -46170,7 +46980,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "luigi-taparelli",
@@ -46212,7 +47023,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "luisa-de-hesse-kassel",
@@ -46252,7 +47064,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "macrobio",
@@ -46298,7 +47111,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "mae-wan-ho",
@@ -46345,7 +47159,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "mahatma-gandhi",
@@ -46390,7 +47205,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "malcolm-knight",
@@ -46437,7 +47253,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vivo": true,
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "mao-zedong",
@@ -46479,7 +47296,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "marco-antonio-de-dominis",
@@ -46539,7 +47357,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "maria-thun",
@@ -46586,7 +47405,8 @@ window.CRONO = {
      "nota": "Su obra principal."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "mario-draghi",
@@ -46653,7 +47473,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "martin-bormann",
@@ -46722,7 +47543,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "martin-de-azpilcueta",
@@ -46783,7 +47605,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "martin-lings",
@@ -46836,7 +47659,8 @@ window.CRONO = {
      "nota": "Artur Sala lo propone como alternativa frente a otros tradicionalistas como Evola."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "martin-lutero",
@@ -46876,7 +47700,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "masaru-emoto",
@@ -46919,7 +47744,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "borrador",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "mateo-ricci",
@@ -46969,7 +47795,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "mauricio-de-nassau",
@@ -47015,7 +47842,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "max-planck",
@@ -47069,7 +47897,8 @@ window.CRONO = {
      "nota": "El autor la usa como apoyo de su «matriz tiempo-información»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "max-warburg",
@@ -47147,7 +47976,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "maximiliano-i-baviera",
@@ -47193,7 +48023,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "mayer-amschel-rothschild",
@@ -47299,7 +48130,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "menachem-mendel-schneerson",
@@ -47341,7 +48173,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "mervyn-king",
@@ -47388,7 +48221,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "michael-aquino",
@@ -47429,7 +48263,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "michael-bar-zohar",
@@ -47476,7 +48311,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "michael-de-kent",
@@ -47531,7 +48367,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "mohamed-naguib",
@@ -47577,7 +48414,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "mohamed-vi",
@@ -47634,7 +48472,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "montagu-norman",
@@ -47713,7 +48552,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "morris-fishbein",
@@ -47762,7 +48602,8 @@ window.CRONO = {
      "nota": "Hecho asociado."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "napoleon-bonaparte",
@@ -47896,7 +48737,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "nassim-haramein",
@@ -47939,7 +48781,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "nelson-mandela",
@@ -47974,7 +48817,8 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "nicholas-goodrick-clarke",
@@ -48022,7 +48866,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nicolaes-van-geelkercken",
@@ -48071,7 +48916,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "nicolas-de-cusa",
@@ -48122,7 +48968,8 @@ window.CRONO = {
      "nota": "Visión opuesta, según el autor."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nikola-tesla",
@@ -48231,7 +49078,8 @@ window.CRONO = {
      "nota": "Contemporáneos; según el autor, Tesla rechazó el espacio curvo de Einstein."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nikolai-kozyrev",
@@ -48297,7 +49145,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nikolai-morozov",
@@ -48352,7 +49201,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "orson-welles",
@@ -48393,7 +49243,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "oswald-mosley",
@@ -48434,7 +49285,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "otto-abetz",
@@ -48476,7 +49328,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "otto-ernst-remer",
@@ -48521,7 +49374,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "otto-skorzeny",
@@ -48618,7 +49472,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "otto-von-bismarck",
@@ -48660,7 +49515,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "pablo-escobar",
@@ -48714,7 +49570,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "pablo-iii",
@@ -48802,7 +49659,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pam-reynolds",
@@ -48851,7 +49709,8 @@ window.CRONO = {
      "nota": "Su caso"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "paolo-sarpi",
@@ -48982,7 +49841,8 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "papa-francisco",
@@ -49083,7 +49943,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "papa-leon-xiv",
@@ -49167,7 +50028,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "paracelso",
@@ -49222,7 +50084,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "parmenides",
@@ -49266,7 +50129,8 @@ window.CRONO = {
      "nota": "Posturas opuestas sobre el vacío, según el autor."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "paul-hechler",
@@ -49313,7 +50177,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "paul-manning",
@@ -49361,7 +50226,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "paul-niehans",
@@ -49406,7 +50272,8 @@ window.CRONO = {
      "nota": "El autor recuerda que lo trató."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "paul-warburg",
@@ -49457,7 +50324,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "paulo-v",
@@ -49521,7 +50389,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pedro-i-de-rusia",
@@ -49564,7 +50433,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "per-jacobsson",
@@ -49615,7 +50485,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "peter-thiel",
@@ -49666,7 +50537,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "petr-krekshin",
@@ -49708,7 +50580,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "philip-k-dick",
@@ -49750,7 +50623,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "philippe-duplessis-mornay",
@@ -49802,7 +50676,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "pier-paolo-pasolini",
@@ -49879,7 +50754,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "pieter-beckx",
@@ -49925,7 +50801,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pietro-gasparri",
@@ -49985,7 +50862,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "tratados-y-escritos"
+   "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
   },
   {
    "id": "pietro-tacchi-venturi",
@@ -50086,7 +50964,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pio-ix",
@@ -50150,7 +51029,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pio-xi",
@@ -50227,7 +51107,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "pio-xii",
@@ -50292,7 +51173,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "platon",
@@ -50349,7 +51231,8 @@ window.CRONO = {
      "nota": "El autor ve los sólidos platónicos en la cimática en 3D."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "plotino",
@@ -50392,7 +51275,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "pol-pot",
@@ -50429,7 +51313,8 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "prescott-bush",
@@ -50475,7 +51360,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "raffaele-pilotti",
@@ -50522,7 +51408,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "reinhard-gehlen",
@@ -50580,7 +51467,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "reinhard-kopps",
@@ -50626,7 +51514,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "rene-descartes",
@@ -50710,7 +51599,8 @@ window.CRONO = {
      "nota": "Citado por el autor como blanco indirecto de Steiner."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "rene-guenon",
@@ -50769,7 +51659,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "rene-quinton",
@@ -50830,7 +51721,8 @@ window.CRONO = {
      "nota": "Mismo marco: el medio determina la salud"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "richard-buckminster-fuller",
@@ -50879,7 +51771,8 @@ window.CRONO = {
      "nota": "Término que el autor aplica al cuerpo"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "richard-byrd",
@@ -50921,7 +51814,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "richard-feynman",
@@ -50972,7 +51866,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "robert-ader",
@@ -51020,7 +51915,8 @@ window.CRONO = {
      "nota": "Base de la psiconeuroinmunología citada"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "robert-baldauf",
@@ -51074,7 +51970,8 @@ window.CRONO = {
       "consultado": "2026-11-19"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "robert-cecil",
@@ -51120,7 +52017,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "robert-hooke",
@@ -51175,7 +52073,8 @@ window.CRONO = {
      "nota": "Rivales en la Royal Society."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "robert-koch",
@@ -51222,7 +52121,8 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "robert-monroe",
@@ -51264,7 +52164,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "robert-moon",
@@ -51311,7 +52212,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "robert-o-becker",
@@ -51364,7 +52266,8 @@ window.CRONO = {
      "nota": "Otro pionero citado junto a él"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "robert-torricelli",
@@ -51417,7 +52320,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "robespierre",
@@ -51458,7 +52362,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "roger-auboin",
@@ -51500,7 +52405,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "roger-pearson",
@@ -51547,7 +52453,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "rosalie-rayner",
@@ -51600,7 +52507,8 @@ window.CRONO = {
      "nota": "Colaborador y después marido"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "roy-cohn",
@@ -51722,7 +52630,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "royal-raymond-rife",
@@ -51774,7 +52683,8 @@ window.CRONO = {
      "nota": "Observó «partículas polimórficas» y las vinculó con el cáncer (bacilo BX)"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "rudolf-steiner",
@@ -51918,7 +52828,8 @@ window.CRONO = {
      "nota": "Concepto con el que se le ha criticado dentro de la escuela tradicionalista."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "rudolf-virchow",
@@ -51970,7 +52881,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "rupert-sheldrake",
@@ -52031,7 +52943,8 @@ window.CRONO = {
      "nota": "Artur Sala lo menciona en «Teoría de los tres ejes de realidad»."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "samuel-hahnemann",
@@ -52099,7 +53012,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "samuel-hartlib",
@@ -52148,7 +53062,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "samuel-oppenheimer",
@@ -52201,7 +53116,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "santorio-santorio",
@@ -52247,7 +53163,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "schwaller-de-lubicz",
@@ -52300,7 +53217,8 @@ window.CRONO = {
      "nota": "Artur Sala contrapone su rigor al de Evola en el mismo pasaje."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sigmund-freud",
@@ -52354,7 +53272,8 @@ window.CRONO = {
      "nota": "El autor contrapone ambos métodos."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "simon-marius",
@@ -52402,7 +53321,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "socrates",
@@ -52454,7 +53374,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "sofia-chotek",
@@ -52508,7 +53429,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "stalin",
@@ -52578,7 +53500,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "stanley-kubrick",
@@ -52640,7 +53563,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "stepan-razin",
@@ -52689,7 +53613,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "stephen-hawking",
@@ -52731,7 +53656,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "stephen-wise",
@@ -52773,7 +53699,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "teilhard-de-chardin",
@@ -52839,7 +53766,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "theodor-herzl",
@@ -52902,7 +53830,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "theodore-olson",
@@ -52948,7 +53877,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "thomas-bernhard",
@@ -52990,7 +53920,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "thomas-corbally",
@@ -53068,7 +53999,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "thomas-edison",
@@ -53120,7 +54052,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "thomas-henry-huxley",
@@ -53173,7 +54106,8 @@ window.CRONO = {
      "nota": "Su amigo Darwin."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "thomas-hobbes",
@@ -53220,7 +54154,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "thomas-mckittrick",
@@ -53262,7 +54197,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "tilman-fertitta",
@@ -53305,7 +54241,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "timothy-dolan",
@@ -53353,7 +54290,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "logias"
+   "naturaleza": "logias",
+   "vista": "religion"
   },
   {
    "id": "timothy-geithner",
@@ -53400,7 +54338,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "timothy-leary",
@@ -53437,7 +54376,8 @@ window.CRONO = {
     ]
    },
    "conexiones": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "tom-bearden",
@@ -53494,7 +54434,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "tomas-moro",
@@ -53540,7 +54481,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "torrebruno",
@@ -53592,7 +54534,8 @@ window.CRONO = {
     ]
    },
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "uki-goni",
@@ -53639,7 +54582,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "victor-manuel-ii",
@@ -53701,7 +54645,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "viktor-schauberger",
@@ -53792,7 +54737,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "vladimir-putin",
@@ -53867,7 +54813,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "walter-rauff",
@@ -53924,7 +54871,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "conflictos-belicos"
+   "naturaleza": "conflictos-belicos",
+   "vista": "politica"
   },
   {
    "id": "walter-russell",
@@ -53970,7 +54918,8 @@ window.CRONO = {
      "nota": "Ambos hablan de dos vórtices opuestos, según el autor."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "wilhelm-kammeyer",
@@ -54013,7 +54962,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "wilhelm-reich",
@@ -54064,7 +55014,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "william-cavendish-devonshire",
@@ -54115,7 +55066,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "william-de-montague-salisbury",
@@ -54161,7 +55113,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "william-garner-sutherland",
@@ -54209,7 +55162,8 @@ window.CRONO = {
      "nota": "Terapia que nace de su concepto craneal"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "william-harvey",
@@ -54259,7 +55213,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "william-randolph-hearst",
@@ -54325,7 +55280,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "william-wynn-westcott",
@@ -54375,7 +55331,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "winston-churchill",
@@ -54489,7 +55446,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "yasir-arafat",
@@ -54531,7 +55489,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "gobiernos"
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "yemelian-pugachov",
@@ -54580,7 +55539,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "politica"
   },
   {
    "id": "zacharias-janssen",
@@ -54624,7 +55584,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "zhou-xiaochuan",
@@ -54671,7 +55632,8 @@ window.CRONO = {
      }
     ]
    },
-   "naturaleza": "banca"
+   "naturaleza": "banca",
+   "vista": "economia"
   },
   {
    "id": "accion-cosmica",
@@ -54748,7 +55710,8 @@ window.CRONO = {
     }
    ],
    "citas": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "acidificacion-medio-cancer",
@@ -54792,7 +55755,8 @@ window.CRONO = {
      "nota": "La acidificación es el motor de la mutación de los microorganismos en esa teoría"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "agrohomeopatia-kolisko",
@@ -54859,7 +55823,8 @@ window.CRONO = {
      "nota": "También trabajó con ritmos planetarios."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "agua-cristal-liquido-esther-del-rio",
@@ -54920,7 +55885,8 @@ window.CRONO = {
      "nota": "Mismo hallazgo de Esther del Río: el agua rodea la red de magnetitas"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "agua-estructurada-acupuntura-colageno",
@@ -54964,7 +55930,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "agua-ez-pollack",
@@ -55075,7 +56042,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "agua-genoma-gariaev",
@@ -55137,7 +56105,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "aguila-bicefala",
@@ -55204,7 +56173,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "almagesto-manipulado",
@@ -55260,7 +56230,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "alquimia-origen-quimica",
@@ -55305,7 +56276,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "alumbrados-origen-illuminati",
@@ -55356,7 +56328,8 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "astrologia-guerra-iran-2026",
@@ -55397,7 +56370,8 @@ window.CRONO = {
      "nota": "Intento de explicarla por ciclos."
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "biodinamica-dinamizacion-agua",
@@ -55479,7 +56453,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "bomba-sodio-potasio-pappas",
@@ -55523,7 +56498,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "calendario-biodinamico-siembra",
@@ -55612,7 +56588,8 @@ window.CRONO = {
      "nota": "Ritmos lunares."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "calendarios-sacerdotales-babilonia",
@@ -55660,7 +56637,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "campos-morficos",
@@ -55710,7 +56688,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "castellanizacion-historia-de-espana",
@@ -55758,7 +56737,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "catastrofismo",
@@ -55809,7 +56789,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "celuloterapia",
@@ -55857,7 +56838,8 @@ window.CRONO = {
      "nota": "Su creador."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "ciclo-completo-del-agua-schauberger",
@@ -55959,7 +56941,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "ciclo-krebs-dudas",
@@ -56014,7 +56997,8 @@ window.CRONO = {
      "verificacion": "sin-comprobar",
      "fuente": "El autor no cita obra; no se ha localizado en la obra de Steiner."
     }
-   ]
+   ],
+   "vista": "ciencia"
   },
   {
    "id": "civilizacion-del-no-ser",
@@ -56077,7 +57061,8 @@ window.CRONO = {
      "nota": "El autor la une al cuarto Reich"
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "coherencia-cardiaca-intuicion",
@@ -56125,7 +57110,8 @@ window.CRONO = {
      "nota": "Base del argumento"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "contrainiciacion",
@@ -56169,7 +57155,8 @@ window.CRONO = {
      "nota": "El autor sitúa la teosofía en el origen del fenómeno."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "corazon-cerebro-glandula-campo-heartmath",
@@ -56237,7 +57224,8 @@ window.CRONO = {
      "nota": "Otro «cerebro» periférico según el autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "corazon-helicoidal-agua",
@@ -56299,7 +57287,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "corrimiento-al-rojo-arp",
@@ -56349,7 +57338,8 @@ window.CRONO = {
      "nota": "La tesis procede de las observaciones de Halton Arp."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "cristalizacion-sensible-cromatografia",
@@ -56420,7 +57410,8 @@ window.CRONO = {
      "nota": "Forma parte del conjunto biodinámico."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "cronologia-escaligero-petavio",
@@ -56504,7 +57495,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "culto-asclepio-incubacion",
@@ -56559,7 +57551,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "darwinismo-social",
@@ -56631,7 +57624,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "dominios-coherentes-del-giudice-preparata",
@@ -56700,7 +57694,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "dualismo-materia-pensamiento",
@@ -56761,7 +57756,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "edad-media-no-fue-oscurantismo",
@@ -56804,7 +57800,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "eje-medio-duramadre-tensegridad",
@@ -56865,7 +57862,8 @@ window.CRONO = {
      "nota": "Autor del término tensegridad"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "electricidad-longitudinal",
@@ -56936,7 +57934,8 @@ window.CRONO = {
      "nota": "La patente de 1905 describe la transmisión de esa electricidad."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "empirismo",
@@ -57069,7 +58068,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "epistemologia-steiner-pensamiento-activo",
@@ -57161,7 +58161,8 @@ window.CRONO = {
      "nota": "Su autor."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "estados-ampliados-de-conciencia",
@@ -57242,7 +58243,8 @@ window.CRONO = {
      "nota": "Mismo marco del autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "etapas-criticas-complejos-intrauterina-parto-infancia",
@@ -57294,7 +58296,8 @@ window.CRONO = {
      "nota": "Mecanismos de formación"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "eter-luminifero",
@@ -57377,7 +58380,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "fascia-meridianos-somatizacion",
@@ -57430,7 +58434,8 @@ window.CRONO = {
      "nota": "Parte de su coraza muscular"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "fijacion-nitrogeno-energia",
@@ -57482,7 +58487,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "formacion-de-complejos-subconscientes",
@@ -57542,7 +58548,8 @@ window.CRONO = {
      "nota": "Condicionamiento clásico"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "fuentes-de-electrones-qi",
@@ -57612,7 +58619,8 @@ window.CRONO = {
      "nota": "Mismo marco ácido-base que usa el autor para el cáncer"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "giro-materialista-ciencia",
@@ -57664,7 +58672,8 @@ window.CRONO = {
      "nota": "Tercer momento de la tesis."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "hemisferios-cerebrales-sincronizacion",
@@ -57712,7 +58721,8 @@ window.CRONO = {
      "nota": "El campo del corazón como sincronizador"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "hidrogeno-atomico",
@@ -57787,7 +58797,8 @@ window.CRONO = {
      "nota": "El autor explica el ECAT de Rossi a partir del hidrógeno atómico."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "hormus-hudson-ziegler",
@@ -57836,7 +58847,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "iberos-lengua-y-espiritualidad",
@@ -57874,7 +58886,8 @@ window.CRONO = {
    },
    "citas": [],
    "conexiones": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "jano",
@@ -57915,7 +58928,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "limpieza-renal-hepatica-hierbas",
@@ -57966,7 +58980,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "magos-caldeos",
@@ -58024,7 +59039,8 @@ window.CRONO = {
      "nota": "El autor cree que también habrían infiltrado el Vaticano."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "mapas-fechas-con-letra-i-j",
@@ -58079,7 +59095,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "maquinas-sobreunitarias",
@@ -58157,7 +59174,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "mareas-y-ritmos-lunares-del-agua",
@@ -58205,7 +59223,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "maria-magdalena-cambio-de-era-xvi",
@@ -58252,7 +59271,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "religion"
   },
   {
    "id": "matriz-viviente-oschman",
@@ -58316,7 +59336,8 @@ window.CRONO = {
      "nota": "El agua cristal-líquido abunda en el tejido conjuntivo, según el autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "medicina-antroposofica",
@@ -58387,7 +59408,8 @@ window.CRONO = {
      "nota": "Corriente en la que el autor la sitúa."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "memoria-del-agua",
@@ -58479,7 +59501,8 @@ window.CRONO = {
      "nota": "El autor liga el agua a los campos de torsión de la teoría de Kozyrev"
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "meridianos-tejido-conjuntivo-acupuntura",
@@ -58546,7 +59569,8 @@ window.CRONO = {
      "nota": "Epígrafe atribuido a Tesla sobre el tratamiento eléctrico"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "metamorfosis-de-las-plantas-goethe",
@@ -58616,7 +59640,8 @@ window.CRONO = {
      "nota": "Otra obra científica de Goethe."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "microbiota-limpieza-colon",
@@ -58669,7 +59694,8 @@ window.CRONO = {
      "nota": "Teoría del terreno frente al germen"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "microzimas-bechamp",
@@ -58725,7 +59751,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "mms-quelacion-kalcker",
@@ -58768,7 +59795,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "modelo-caliente-chandrasekhar",
@@ -58823,7 +59851,8 @@ window.CRONO = {
      "verificacion": "sin-comprobar",
      "fuente": "No consta en la biografía de Chandrasekhar consultada (Britannica)."
     }
-   ]
+   ],
+   "vista": "ciencia"
   },
   {
    "id": "monumento-yonaguni",
@@ -58868,7 +59897,8 @@ window.CRONO = {
     ]
    },
    "conexiones": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "noosfera",
@@ -58923,7 +59953,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "nudo-de-tiempo-complejo-subconsciente",
@@ -59010,7 +60041,8 @@ window.CRONO = {
      "nota": "Método propuesto para deshacerlos"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nueva-ciencia-del-agua",
@@ -59099,7 +60131,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "nueva-cronologia-fomenko",
@@ -59201,7 +60234,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "oligoelementos-agua-de-mar-energia",
@@ -59259,7 +60293,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "ondas-de-torsion",
@@ -59306,7 +60341,8 @@ window.CRONO = {
      "nota": "Kozyrev formuló la teoría del tiempo de la que derivan."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "peptidos-moleculas-de-la-emocion",
@@ -59362,7 +60398,8 @@ window.CRONO = {
      "nota": "Otra red de comunicación del cuerpo según el autor"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "pleomorfismo",
@@ -59452,7 +60489,8 @@ window.CRONO = {
      "verificacion": "sin-comprobar",
      "fuente": "Epígrafe de la p. 121 del libro; la redacción aparece atribuida a Blavatsky en Theosophy Wiki (https://theosophy.wiki/en/Life), pero no se localizó la obra y la página original"
     }
-   ]
+   ],
+   "vista": "ciencia"
   },
   {
    "id": "prana",
@@ -59504,7 +60542,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "precursores-critica-cronologia",
@@ -59611,7 +60650,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "precursores-transmutacion-siglo-xix",
@@ -59707,7 +60747,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "preste-juan",
@@ -59755,7 +60796,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "religion"
   },
   {
    "id": "programacion-predictiva-cine-11s",
@@ -59827,7 +60869,8 @@ window.CRONO = {
      "nota": "La película que, según el autor, lo inició"
     }
    ],
-   "estado": "borrador"
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "propiedades-anomalas-del-agua",
@@ -59885,7 +60928,8 @@ window.CRONO = {
       "consultado": "2026-11-16"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "psincronologia",
@@ -60048,7 +61092,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "punto-omega",
@@ -60099,7 +61144,8 @@ window.CRONO = {
      "nota": "Según el autor, enlaza con el transhumanismo."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "quintaesencia",
@@ -60152,7 +61198,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "raices-misticas-hegel-marx",
@@ -60199,7 +61246,8 @@ window.CRONO = {
      "nota": "Discípulo."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "red-de-indra",
@@ -60268,7 +61316,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "red-ferroso-ferrica-chakras",
@@ -60320,7 +61369,8 @@ window.CRONO = {
      "nota": "Chakras y meridianos de la tradición india y china"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sat-chit-ananda",
@@ -60369,7 +61419,8 @@ window.CRONO = {
     }
    ],
    "citas": [],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "saturnales",
@@ -60427,7 +61478,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ocultismo"
+   "naturaleza": "ocultismo",
+   "vista": "religion"
   },
   {
    "id": "segundo-cerebro-sistema-nervioso-enterico",
@@ -60486,7 +61538,8 @@ window.CRONO = {
      "nota": "Otro «cerebro» periférico"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "shiva-nataraja",
@@ -60535,7 +61588,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "simbolos-dos-vortices",
@@ -60588,7 +61642,8 @@ window.CRONO = {
       "consultado": "2026-11-14"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "simbolos-invertidos",
@@ -60648,7 +61703,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "naturaleza": "ideales-sociales"
+   "naturaleza": "ideales-sociales",
+   "vista": "politica"
   },
   {
    "id": "sistema-bioelectrico-paralelo",
@@ -60716,7 +61772,8 @@ window.CRONO = {
      "nota": "Pionero citado"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sistema-nervioso-divisiones",
@@ -60771,7 +61828,8 @@ window.CRONO = {
      "nota": "El autor la contrapone al sistema nervioso"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "teoria-de-los-septenios",
@@ -60822,7 +61880,8 @@ window.CRONO = {
      "nota": "Su autor."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "teoria-del-color-goethe",
@@ -60874,7 +61933,8 @@ window.CRONO = {
      "nota": "Steiner la ve como una de las dos obras científicas de Goethe que más le influyen."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "teoria-del-terreno",
@@ -60944,7 +62004,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "teoria-tres-ejes-realidad",
@@ -61086,7 +62147,8 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "terapia-craneosacral",
@@ -61146,7 +62208,8 @@ window.CRONO = {
      "nota": "Las meninges como eje del sistema"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "transmutaciones-biologicas-kervran",
@@ -61245,7 +62308,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "transmutaciones-geologicas-kervran",
@@ -61287,7 +62351,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "trauma-carga-energetica-neurosis-psicosis",
@@ -61343,7 +62408,8 @@ window.CRONO = {
      "nota": "Qué queda en el subconsciente cuando no se supera el umbral"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "tres-ciencias-iniciaticas",
@@ -61408,7 +62474,8 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   },
   {
    "id": "trinidad-espiritu-alma-cuerpo",
@@ -61456,7 +62523,8 @@ window.CRONO = {
      "nota": "El autor compara su modelo con la envoltura pránica del Vedanta"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "tsimtsum-cabala",
@@ -61505,7 +62573,8 @@ window.CRONO = {
      "nota": "El autor equipara el reshimu con la energía del vacío."
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "vaciar-subconsciente-testigo-voluntad",
@@ -61557,7 +62626,8 @@ window.CRONO = {
      "nota": "Técnicas que el autor cita para trabajar con el nudo de tiempo"
     }
    ],
-   "estado": "aprobado"
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "verbo-creador",
@@ -61612,7 +62682,8 @@ window.CRONO = {
       "consultado": "2026-11-13"
      }
     ]
-   }
+   },
+   "vista": "ciencia"
   },
   {
    "id": "vitalismo-medico",
@@ -61673,11 +62744,12 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
-   "citas": []
+   "citas": [],
+   "vista": "ciencia"
   }
  ],
  "cielo": {
-  "generado": "2026-11-19",
+  "generado": "2026-11-20",
   "metodo": "Calculado con VSOP87D (planetas), ELP2000-82B (Luna), ΔT de Espenak y Meeus, nutación y tiempo de luz: el mismo motor que usa la web. 12:00 UTC, zodiaco tropical, geocéntrico, longitudes aparentes. Rango -3000 a 3000. Plutón: tabla de JPL Horizons 1599-1890 y fórmula de Schlyter 1885-2099; en ciclos y recuentos, desde 1800. Sin Luna ni casas en las fichas: ninguna da la hora.",
   "motor": "VSOP87D-ELP2000",
   "rango": {
@@ -63787,7 +64859,16 @@ window.CRONO = {
       "orbe": 1.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Esc",
+     "oposiciones": [
+      {
+       "planeta": "Saturno",
+       "orbe": 2.6
+      }
+     ]
+    }
    },
    "guerra-de-los-mundos-radio-1938": {
     "fecha": "1938-10-30",
@@ -64427,6 +65508,28894 @@ window.CRONO = {
     "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 10 de 35 (28,6 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
     "razon": 0.89
    }
-  ]
+  ],
+  "anios": {
+   "30": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Gem",
+     "Urano": "Leo",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Ari",
+     "Saturno": "17°Gem",
+     "Urano": "5°Leo",
+     "Neptuno": "23°Cap",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "41": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Lib",
+     "Urano": "Vir",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Pis",
+     "Saturno": "25°Lib",
+     "Urano": "25°Vir",
+     "Neptuno": "18°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "120": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Vir",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Lib",
+     "Saturno": "9°Can",
+     "Urano": "3°Vir",
+     "Neptuno": "11°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "204": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Tau",
+     "Urano": "Vir",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "14°Esc",
+     "Saturno": "16°Tau",
+     "Urano": "4°Vir",
+     "Neptuno": "16°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 1.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "370": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "14°Esc",
+     "Saturno": "29°Sag",
+     "Urano": "27°Leo",
+     "Neptuno": "21°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "482": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Lib",
+     "Urano": "Cap",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Tau",
+     "Saturno": "23°Lib",
+     "Urano": "5°Cap",
+     "Neptuno": "25°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "529": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Gem",
+     "Urano": "Can",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "2°Gem",
+     "Urano": "19°Can",
+     "Neptuno": "11°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "688": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "14°Vir",
+     "Saturno": "22°Lib",
+     "Urano": "12°Gem",
+     "Neptuno": "0°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "701": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Ari",
+     "Urano": "Leo",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Lib",
+     "Saturno": "2°Ari",
+     "Urano": "8°Leo",
+     "Neptuno": "29°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "748": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Lib",
+     "Saturno": "5°Esc",
+     "Urano": "6°Pis",
+     "Neptuno": "14°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "751": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Sag",
+     "Urano": "Pis",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Cap",
+     "Saturno": "10°Sag",
+     "Urano": "18°Pis",
+     "Neptuno": "20°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "755": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Cap",
+     "Urano": "Ari",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "29°Cap",
+     "Urano": "4°Ari",
+     "Neptuno": "29°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "901": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Cap",
+     "Urano": "Cap",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "4°Vir",
+     "Saturno": "16°Cap",
+     "Urano": "5°Cap",
+     "Neptuno": "21°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1001": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Pis",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "16°Gem",
+     "Urano": "13°Pis",
+     "Neptuno": "27°Sag",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1053": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "18°Pis",
+     "Urano": "25°Lib",
+     "Neptuno": "25°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1101": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Tau",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "5°Esc",
+     "Urano": "19°Tau",
+     "Neptuno": "9°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1118": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Gem",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Sag",
+     "Saturno": "8°Gem",
+     "Urano": "0°Leo",
+     "Neptuno": "15°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1119": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Cap",
+     "Saturno": "20°Gem",
+     "Urano": "5°Leo",
+     "Neptuno": "17°Vir",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1130": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Esc",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Sag",
+     "Saturno": "0°Esc",
+     "Urano": "24°Vir",
+     "Neptuno": "11°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1135": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Cap",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "0°Cap",
+     "Urano": "17°Lib",
+     "Neptuno": "22°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1162": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Sag",
+     "Urano": "Acu",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Vir",
+     "Saturno": "1°Sag",
+     "Urano": "17°Acu",
+     "Neptuno": "21°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1166": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Cap",
+     "Urano": "Pis",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "11°Cap",
+     "Saturno": "19°Cap",
+     "Urano": "3°Pis",
+     "Neptuno": "0°Cap",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1170": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Pis",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Gem",
+     "Saturno": "10°Pis",
+     "Urano": "19°Pis",
+     "Neptuno": "9°Cap",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1185": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "16°Vir",
+     "Urano": "19°Tau",
+     "Neptuno": "13°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1189": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Esc",
+     "Urano": "Gem",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Sag",
+     "Saturno": "3°Esc",
+     "Urano": "6°Gem",
+     "Neptuno": "22°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1201": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Ari",
+     "Urano": "Can",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Sag",
+     "Saturno": "0°Ari",
+     "Urano": "27°Can",
+     "Neptuno": "20°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1202": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Ari",
+     "Urano": "Leo",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Cap",
+     "Saturno": "13°Ari",
+     "Urano": "1°Leo",
+     "Neptuno": "22°Pis",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1204": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Tau",
+     "Urano": "Leo",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "9°Tau",
+     "Urano": "10°Leo",
+     "Neptuno": "26°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1213": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Vir",
+     "Urano": "Vir",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Sag",
+     "Saturno": "0°Vir",
+     "Urano": "21°Vir",
+     "Neptuno": "17°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1222": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Sag",
+     "Urano": "Esc",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Vir",
+     "Saturno": "15°Sag",
+     "Urano": "2°Esc",
+     "Neptuno": "7°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1261": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Ari",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "16°Cap",
+     "Saturno": "15°Ari",
+     "Urano": "18°Ari",
+     "Neptuno": "1°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1265": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Gem",
+     "Urano": "Tau",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Gem",
+     "Saturno": "7°Gem",
+     "Urano": "4°Tau",
+     "Neptuno": "10°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1273": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "22°Cap",
+     "Saturno": "14°Vir",
+     "Urano": "7°Gem",
+     "Neptuno": "27°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1287": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "1°Pis",
+     "Urano": "6°Leo",
+     "Neptuno": "27°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1288": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "14°Tau",
+     "Saturno": "14°Pis",
+     "Urano": "11°Leo",
+     "Neptuno": "29°Vir",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1296": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Sag",
+     "Saturno": "26°Gem",
+     "Urano": "17°Vir",
+     "Neptuno": "16°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1297": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Can",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Acu",
+     "Saturno": "9°Can",
+     "Urano": "22°Vir",
+     "Neptuno": "18°Lib",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1301": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "17°Gem",
+     "Saturno": "27°Leo",
+     "Urano": "10°Lib",
+     "Neptuno": "27°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1312": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Tau",
+     "Saturno": "6°Cap",
+     "Urano": "1°Sag",
+     "Neptuno": "21°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1318": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Pis",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Lib",
+     "Saturno": "21°Pis",
+     "Urano": "28°Sag",
+     "Neptuno": "4°Sag",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1323": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Tau",
+     "Urano": "Cap",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Ari",
+     "Saturno": "26°Tau",
+     "Urano": "19°Cap",
+     "Neptuno": "15°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1328": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Can",
+     "Urano": "Acu",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "28°Can",
+     "Urano": "10°Acu",
+     "Neptuno": "27°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1343": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Cap",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Sag",
+     "Saturno": "25°Cap",
+     "Urano": "11°Ari",
+     "Neptuno": "0°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1348": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Gem",
+     "Saturno": "29°Pis",
+     "Urano": "1°Tau",
+     "Neptuno": "12°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1350": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Ari",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Can",
+     "Saturno": "25°Ari",
+     "Urano": "9°Tau",
+     "Neptuno": "16°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1351": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "7°Tau",
+     "Urano": "13°Tau",
+     "Neptuno": "19°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1370": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "26°Sag",
+     "Urano": "3°Leo",
+     "Neptuno": "2°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1380": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Tau",
+     "Urano": "Vir",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Acu",
+     "Saturno": "2°Tau",
+     "Urano": "18°Vir",
+     "Neptuno": "24°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1400": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Lib",
+     "Saturno": "3°Cap",
+     "Urano": "20°Sag",
+     "Neptuno": "8°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1401": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Lib",
+     "Saturno": "15°Cap",
+     "Urano": "24°Sag",
+     "Neptuno": "10°Gem",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1451": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Lib",
+     "Urano": "Can",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Cap",
+     "Saturno": "0°Lib",
+     "Urano": "21°Can",
+     "Neptuno": "27°Vir",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1453": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "24°Lib",
+     "Urano": "0°Leo",
+     "Neptuno": "2°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1466": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "19°Tau",
+     "Saturno": "2°Ari",
+     "Urano": "28°Vir",
+     "Neptuno": "0°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1468": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Ari",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Can",
+     "Saturno": "28°Ari",
+     "Urano": "7°Lib",
+     "Neptuno": "4°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1472": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Gem",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Lib",
+     "Saturno": "19°Gem",
+     "Urano": "26°Lib",
+     "Neptuno": "13°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1478": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Esc",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Tau",
+     "Saturno": "2°Vir",
+     "Urano": "24°Esc",
+     "Neptuno": "26°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 0.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1483": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Lib",
+     "Saturno": "0°Esc",
+     "Urano": "16°Sag",
+     "Neptuno": "7°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1485": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Sag",
+     "Saturno": "24°Esc",
+     "Urano": "25°Sag",
+     "Neptuno": "12°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1486": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Sag",
+     "Urano": "Cap",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "6°Cap",
+     "Saturno": "5°Sag",
+     "Urano": "0°Cap",
+     "Neptuno": "14°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1491": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Gem",
+     "Saturno": "6°Acu",
+     "Urano": "21°Cap",
+     "Neptuno": "25°Sag",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1492": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Can",
+     "Saturno": "18°Acu",
+     "Urano": "26°Cap",
+     "Neptuno": "27°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1493": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Pis",
+     "Urano": "Acu",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Leo",
+     "Saturno": "1°Pis",
+     "Urano": "0°Acu",
+     "Neptuno": "29°Sag",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1500": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Pis",
+     "Saturno": "1°Gem",
+     "Urano": "29°Acu",
+     "Neptuno": "15°Cap",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1501": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Gem",
+     "Urano": "Pis",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "2°Tau",
+     "Saturno": "13°Gem",
+     "Urano": "3°Pis",
+     "Neptuno": "17°Cap",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1506": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Leo",
+     "Urano": "Pis",
+     "Neptuno": "Cap",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "15°Leo",
+     "Urano": "23°Pis",
+     "Neptuno": "29°Cap",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1510": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "16°Cap",
+     "Saturno": "2°Lib",
+     "Urano": "9°Ari",
+     "Neptuno": "8°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1512": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Ari",
+     "Saturno": "25°Lib",
+     "Urano": "17°Ari",
+     "Neptuno": "12°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1516": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Sag",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Can",
+     "Saturno": "12°Sag",
+     "Urano": "3°Tau",
+     "Neptuno": "21°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1517": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Sag",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "22°Leo",
+     "Saturno": "24°Sag",
+     "Urano": "7°Tau",
+     "Neptuno": "24°Acu",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1520": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Esc",
+     "Saturno": "1°Acu",
+     "Urano": "19°Tau",
+     "Neptuno": "1°Pis",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1524": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Pis",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Ari",
+     "Saturno": "21°Pis",
+     "Urano": "6°Gem",
+     "Neptuno": "10°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1526": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Ari",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Gem",
+     "Saturno": "17°Ari",
+     "Urano": "14°Gem",
+     "Neptuno": "14°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1527": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Ari",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "6°Can",
+     "Saturno": "29°Ari",
+     "Urano": "18°Gem",
+     "Neptuno": "16°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1535": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Leo",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "9°Leo",
+     "Urano": "22°Can",
+     "Neptuno": "4°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1536": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Leo",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "21°Leo",
+     "Urano": "26°Can",
+     "Neptuno": "7°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1540": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Leo",
+     "Saturno": "8°Lib",
+     "Urano": "14°Leo",
+     "Neptuno": "16°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1541": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "29°Leo",
+     "Saturno": "20°Lib",
+     "Urano": "18°Leo",
+     "Neptuno": "18°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.2
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1545": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Sag",
+     "Urano": "Vir",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Sag",
+     "Saturno": "7°Sag",
+     "Urano": "6°Vir",
+     "Neptuno": "27°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1546": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Sag",
+     "Urano": "Vir",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Acu",
+     "Saturno": "19°Sag",
+     "Urano": "11°Vir",
+     "Neptuno": "29°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1548": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Cap",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "18°Ari",
+     "Saturno": "13°Cap",
+     "Urano": "20°Vir",
+     "Neptuno": "3°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1549": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Cap",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "19°Tau",
+     "Saturno": "25°Cap",
+     "Urano": "25°Vir",
+     "Neptuno": "6°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1550": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Acu",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "17°Gem",
+     "Saturno": "8°Acu",
+     "Urano": "29°Vir",
+     "Neptuno": "8°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1551": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Acu",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Can",
+     "Saturno": "20°Acu",
+     "Urano": "4°Lib",
+     "Neptuno": "10°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1552": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Leo",
+     "Saturno": "3°Pis",
+     "Urano": "9°Lib",
+     "Neptuno": "12°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1553": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Vir",
+     "Saturno": "15°Pis",
+     "Urano": "13°Lib",
+     "Neptuno": "15°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1554": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Vir",
+     "Saturno": "28°Pis",
+     "Urano": "18°Lib",
+     "Neptuno": "17°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1558": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Tau",
+     "Urano": "Esc",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Acu",
+     "Saturno": "19°Tau",
+     "Urano": "6°Esc",
+     "Neptuno": "25°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1559": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "18°Pis",
+     "Saturno": "2°Gem",
+     "Urano": "11°Esc",
+     "Neptuno": "28°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1560": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Ari",
+     "Saturno": "15°Gem",
+     "Urano": "16°Esc",
+     "Neptuno": "0°Gem",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1561": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Tau",
+     "Saturno": "27°Gem",
+     "Urano": "20°Esc",
+     "Neptuno": "2°Gem",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1563": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Can",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "17°Can",
+     "Saturno": "22°Can",
+     "Urano": "29°Esc",
+     "Neptuno": "6°Gem",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1564": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Leo",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Leo",
+     "Saturno": "4°Leo",
+     "Urano": "4°Sag",
+     "Neptuno": "9°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1566": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Leo",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "2°Lib",
+     "Saturno": "28°Leo",
+     "Urano": "13°Sag",
+     "Neptuno": "13°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1567": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "29°Lib",
+     "Saturno": "10°Vir",
+     "Urano": "17°Sag",
+     "Neptuno": "15°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1568": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Vir",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Sag",
+     "Saturno": "22°Vir",
+     "Urano": "22°Sag",
+     "Neptuno": "17°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1571": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Lib",
+     "Urano": "Cap",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Pis",
+     "Saturno": "27°Lib",
+     "Urano": "5°Cap",
+     "Neptuno": "24°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1573": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Esc",
+     "Urano": "Cap",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Tau",
+     "Saturno": "20°Esc",
+     "Urano": "14°Cap",
+     "Neptuno": "28°Gem",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1576": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Sag",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Leo",
+     "Saturno": "26°Sag",
+     "Urano": "27°Cap",
+     "Neptuno": "5°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1578": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Cap",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "20°Cap",
+     "Urano": "5°Acu",
+     "Neptuno": "9°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1580": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Acu",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Sag",
+     "Saturno": "15°Acu",
+     "Urano": "14°Acu",
+     "Neptuno": "13°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1581": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Acu",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "11°Cap",
+     "Saturno": "27°Acu",
+     "Urano": "18°Acu",
+     "Neptuno": "15°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1582": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Pis",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Acu",
+     "Saturno": "10°Pis",
+     "Urano": "22°Acu",
+     "Neptuno": "17°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1583": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Pis",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Pis",
+     "Saturno": "23°Pis",
+     "Urano": "26°Acu",
+     "Neptuno": "19°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1585": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Ari",
+     "Urano": "Pis",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "18°Ari",
+     "Urano": "4°Pis",
+     "Neptuno": "23°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1588": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Tau",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "17°Leo",
+     "Saturno": "25°Tau",
+     "Urano": "17°Pis",
+     "Neptuno": "0°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1590": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Gem",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Lib",
+     "Saturno": "20°Gem",
+     "Urano": "24°Pis",
+     "Neptuno": "4°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1596": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Tau",
+     "Saturno": "4°Vir",
+     "Urano": "18°Ari",
+     "Neptuno": "17°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1597": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "4°Gem",
+     "Saturno": "16°Vir",
+     "Urano": "22°Ari",
+     "Neptuno": "19°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1600": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Lib",
+     "Urano": "Tau",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "21°Lib",
+     "Urano": "4°Tau",
+     "Neptuno": "26°Leo",
+     "Plutón": "24°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1601": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Esc",
+     "Urano": "Tau",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "16°Vir",
+     "Saturno": "3°Esc",
+     "Urano": "8°Tau",
+     "Neptuno": "28°Leo",
+     "Plutón": "25°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1602": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Esc",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "12°Lib",
+     "Saturno": "15°Esc",
+     "Urano": "12°Tau",
+     "Neptuno": "0°Vir",
+     "Plutón": "26°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1605": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Sag",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "24°Cap",
+     "Saturno": "21°Sag",
+     "Urano": "24°Tau",
+     "Neptuno": "6°Vir",
+     "Plutón": "28°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1606": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Cap",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "2°Pis",
+     "Saturno": "3°Cap",
+     "Urano": "28°Tau",
+     "Neptuno": "8°Vir",
+     "Plutón": "29°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1607": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Cap",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "7°Ari",
+     "Saturno": "15°Cap",
+     "Urano": "2°Gem",
+     "Neptuno": "11°Vir",
+     "Plutón": "0°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1608": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Cap",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "28°Cap",
+     "Urano": "6°Gem",
+     "Neptuno": "13°Vir",
+     "Plutón": "1°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1609": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Acu",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "10°Acu",
+     "Urano": "10°Gem",
+     "Neptuno": "15°Vir",
+     "Plutón": "2°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1613": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "19°Vir",
+     "Saturno": "0°Ari",
+     "Urano": "27°Gem",
+     "Neptuno": "23°Vir",
+     "Plutón": "6°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1614": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Ari",
+     "Urano": "Can",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Lib",
+     "Saturno": "12°Ari",
+     "Urano": "1°Can",
+     "Neptuno": "26°Vir",
+     "Plutón": "7°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1615": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Ari",
+     "Urano": "Can",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Esc",
+     "Saturno": "25°Ari",
+     "Urano": "5°Can",
+     "Neptuno": "28°Vir",
+     "Plutón": "8°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1618": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Gem",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "3°Gem",
+     "Urano": "18°Can",
+     "Neptuno": "4°Lib",
+     "Plutón": "11°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1619": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Gem",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Ari",
+     "Saturno": "15°Gem",
+     "Urano": "22°Can",
+     "Neptuno": "6°Lib",
+     "Plutón": "12°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1621": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Can",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Gem",
+     "Saturno": "10°Can",
+     "Urano": "1°Leo",
+     "Neptuno": "11°Lib",
+     "Plutón": "14°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1628": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Lib",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "26°Sag",
+     "Saturno": "4°Lib",
+     "Urano": "2°Vir",
+     "Neptuno": "26°Lib",
+     "Plutón": "20°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1629": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Lib",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "4°Acu",
+     "Saturno": "16°Lib",
+     "Urano": "7°Vir",
+     "Neptuno": "28°Lib",
+     "Plutón": "21°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1630": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Lib",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Pis",
+     "Saturno": "28°Lib",
+     "Urano": "12°Vir",
+     "Neptuno": "0°Esc",
+     "Plutón": "22°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 0.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1632": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Esc",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "18°Tau",
+     "Saturno": "22°Esc",
+     "Urano": "21°Vir",
+     "Neptuno": "5°Esc",
+     "Plutón": "24°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.6
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1634": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Sag",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "16°Sag",
+     "Urano": "0°Lib",
+     "Neptuno": "9°Esc",
+     "Plutón": "26°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1635": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Sag",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "6°Leo",
+     "Saturno": "28°Sag",
+     "Urano": "5°Lib",
+     "Neptuno": "11°Esc",
+     "Plutón": "27°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1640": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "0°Pis",
+     "Urano": "28°Lib",
+     "Neptuno": "22°Esc",
+     "Plutón": "1°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1641": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Pis",
+     "Urano": "Esc",
+     "Neptuno": "Esc",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "12°Pis",
+     "Urano": "3°Esc",
+     "Neptuno": "25°Esc",
+     "Plutón": "2°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1642": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Pis",
+     "Urano": "Esc",
+     "Neptuno": "Esc",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "18°Pis",
+     "Saturno": "24°Pis",
+     "Urano": "8°Esc",
+     "Neptuno": "27°Esc",
+     "Plutón": "3°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1646": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Tau",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "15°Can",
+     "Saturno": "15°Tau",
+     "Urano": "26°Esc",
+     "Neptuno": "6°Sag",
+     "Plutón": "7°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1650": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "29°Lib",
+     "Saturno": "4°Can",
+     "Urano": "14°Sag",
+     "Neptuno": "15°Sag",
+     "Plutón": "11°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1660": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Esc",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "5°Esc",
+     "Urano": "28°Cap",
+     "Neptuno": "7°Cap",
+     "Plutón": "21°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1663": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Sag",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "6°Sag",
+     "Saturno": "11°Sag",
+     "Urano": "11°Acu",
+     "Neptuno": "14°Cap",
+     "Plutón": "24°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1665": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Cap",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "5°Cap",
+     "Urano": "19°Acu",
+     "Neptuno": "18°Cap",
+     "Plutón": "26°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1670": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "22°Can",
+     "Saturno": "7°Pis",
+     "Urano": "10°Pis",
+     "Neptuno": "0°Acu",
+     "Plutón": "1°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1671": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Pis",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "17°Leo",
+     "Saturno": "19°Pis",
+     "Urano": "14°Pis",
+     "Neptuno": "2°Acu",
+     "Plutón": "2°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1672": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "12°Vir",
+     "Saturno": "2°Ari",
+     "Urano": "18°Pis",
+     "Neptuno": "4°Acu",
+     "Plutón": "3°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1677": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "27°Acu",
+     "Saturno": "4°Gem",
+     "Urano": "7°Ari",
+     "Neptuno": "15°Acu",
+     "Plutón": "9°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1679": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Gem",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "5°Tau",
+     "Saturno": "29°Gem",
+     "Urano": "15°Ari",
+     "Neptuno": "20°Acu",
+     "Plutón": "11°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1684": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "16°Vir",
+     "Saturno": "0°Vir",
+     "Urano": "5°Tau",
+     "Neptuno": "1°Pis",
+     "Plutón": "17°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1689": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Esc",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "2°Pis",
+     "Saturno": "0°Esc",
+     "Urano": "25°Tau",
+     "Neptuno": "13°Pis",
+     "Plutón": "24°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1690": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Esc",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "7°Ari",
+     "Saturno": "12°Esc",
+     "Urano": "29°Tau",
+     "Neptuno": "15°Pis",
+     "Plutón": "25°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1692": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Sag",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "6°Sag",
+     "Urano": "7°Gem",
+     "Neptuno": "19°Pis",
+     "Plutón": "28°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1694": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Cap",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "0°Leo",
+     "Saturno": "0°Cap",
+     "Urano": "15°Gem",
+     "Neptuno": "24°Pis",
+     "Plutón": "1°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1700": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Pis",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "29°Cap",
+     "Saturno": "14°Pis",
+     "Urano": "10°Can",
+     "Neptuno": "7°Ari",
+     "Plutón": "9°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1701": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Pis",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "26°Pis",
+     "Urano": "15°Can",
+     "Neptuno": "9°Ari",
+     "Plutón": "11°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1705": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Tau",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "8°Can",
+     "Saturno": "16°Tau",
+     "Urano": "2°Leo",
+     "Neptuno": "18°Ari",
+     "Plutón": "17°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1707": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Gem",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "28°Leo",
+     "Saturno": "11°Gem",
+     "Urano": "11°Leo",
+     "Neptuno": "23°Ari",
+     "Plutón": "21°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1711": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "27°Sag",
+     "Saturno": "0°Leo",
+     "Urano": "29°Leo",
+     "Neptuno": "2°Tau",
+     "Plutón": "28°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.5
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1712": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Leo",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "5°Acu",
+     "Saturno": "12°Leo",
+     "Urano": "3°Vir",
+     "Neptuno": "4°Tau",
+     "Plutón": "0°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1713": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Leo",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "13°Pis",
+     "Saturno": "24°Leo",
+     "Urano": "8°Vir",
+     "Neptuno": "6°Tau",
+     "Plutón": "2°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1714": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "17°Ari",
+     "Saturno": "6°Vir",
+     "Urano": "13°Vir",
+     "Neptuno": "8°Tau",
+     "Plutón": "4°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1718": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Lib",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "7°Leo",
+     "Saturno": "24°Lib",
+     "Urano": "1°Lib",
+     "Neptuno": "17°Tau",
+     "Plutón": "12°Vir"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1720": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Esc",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "27°Vir",
+     "Saturno": "18°Esc",
+     "Urano": "11°Lib",
+     "Neptuno": "21°Tau",
+     "Plutón": "16°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 3.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1723": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Sag",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "25°Sag",
+     "Urano": "25°Lib",
+     "Neptuno": "28°Tau",
+     "Plutón": "23°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1724": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Cap",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "7°Cap",
+     "Urano": "29°Lib",
+     "Neptuno": "0°Gem",
+     "Plutón": "25°Vir"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1725": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Cap",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "18°Pis",
+     "Saturno": "19°Cap",
+     "Urano": "4°Esc",
+     "Neptuno": "2°Gem",
+     "Plutón": "28°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1731": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "5°Vir",
+     "Saturno": "3°Ari",
+     "Urano": "2°Sag",
+     "Neptuno": "15°Gem",
+     "Plutón": "12°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1739": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Can",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "26°Tau",
+     "Saturno": "13°Can",
+     "Urano": "8°Cap",
+     "Neptuno": "3°Can",
+     "Plutón": "3°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1742": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Leo",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "14°Leo",
+     "Saturno": "19°Leo",
+     "Urano": "21°Cap",
+     "Neptuno": "9°Can",
+     "Plutón": "11°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1743": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "1°Vir",
+     "Urano": "25°Cap",
+     "Neptuno": "11°Can",
+     "Plutón": "13°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1744": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "13°Vir",
+     "Urano": "29°Cap",
+     "Neptuno": "13°Can",
+     "Plutón": "16°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1749": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Esc",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "28°Pis",
+     "Saturno": "14°Esc",
+     "Urano": "20°Acu",
+     "Neptuno": "24°Can",
+     "Plutón": "29°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1750": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Esc",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "0°Tau",
+     "Saturno": "26°Esc",
+     "Urano": "25°Acu",
+     "Neptuno": "26°Can",
+     "Plutón": "1°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1751": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Sag",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "8°Sag",
+     "Urano": "29°Acu",
+     "Neptuno": "28°Can",
+     "Plutón": "4°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1755": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Cap",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "26°Cap",
+     "Urano": "15°Pis",
+     "Neptuno": "7°Leo",
+     "Plutón": "14°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 2.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1756": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Acu",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "9°Lib",
+     "Saturno": "9°Acu",
+     "Urano": "19°Pis",
+     "Neptuno": "9°Leo",
+     "Plutón": "16°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.5
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1757": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Acu",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "8°Esc",
+     "Saturno": "21°Acu",
+     "Urano": "23°Pis",
+     "Neptuno": "11°Leo",
+     "Plutón": "18°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1758": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Pis",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "11°Sag",
+     "Saturno": "3°Pis",
+     "Urano": "27°Pis",
+     "Neptuno": "13°Leo",
+     "Plutón": "21°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1767": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Gem",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "16°Vir",
+     "Saturno": "25°Gem",
+     "Urano": "2°Tau",
+     "Neptuno": "3°Vir",
+     "Plutón": "10°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1769": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Can",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "13°Esc",
+     "Saturno": "20°Can",
+     "Urano": "10°Tau",
+     "Neptuno": "7°Vir",
+     "Plutón": "14°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 2.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1770": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "16°Sag",
+     "Saturno": "2°Leo",
+     "Urano": "14°Tau",
+     "Neptuno": "9°Vir",
+     "Plutón": "16°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1771": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Leo",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "24°Cap",
+     "Saturno": "14°Leo",
+     "Urano": "18°Tau",
+     "Neptuno": "11°Vir",
+     "Plutón": "18°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1773": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "8°Ari",
+     "Saturno": "8°Vir",
+     "Urano": "26°Tau",
+     "Neptuno": "15°Vir",
+     "Plutón": "22°Cap"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1774": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "20°Vir",
+     "Urano": "0°Gem",
+     "Neptuno": "18°Vir",
+     "Plutón": "24°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1775": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "2°Lib",
+     "Urano": "4°Gem",
+     "Neptuno": "20°Vir",
+     "Plutón": "25°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1776": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "5°Can",
+     "Saturno": "14°Lib",
+     "Urano": "8°Gem",
+     "Neptuno": "22°Vir",
+     "Plutón": "27°Cap"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1777": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "0°Leo",
+     "Saturno": "26°Lib",
+     "Urano": "12°Gem",
+     "Neptuno": "24°Vir",
+     "Plutón": "29°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 0.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1780": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "17°Lib",
+     "Saturno": "2°Sag",
+     "Urano": "25°Gem",
+     "Neptuno": "1°Lib",
+     "Plutón": "4°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1781": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Sag",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "17°Esc",
+     "Saturno": "14°Sag",
+     "Urano": "29°Gem",
+     "Neptuno": "3°Lib",
+     "Plutón": "6°Acu"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1782": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Sag",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "22°Sag",
+     "Saturno": "27°Sag",
+     "Urano": "3°Can",
+     "Neptuno": "5°Lib",
+     "Plutón": "7°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1783": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Cap",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "29°Cap",
+     "Saturno": "9°Cap",
+     "Urano": "7°Can",
+     "Neptuno": "7°Lib",
+     "Plutón": "9°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1784": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Cap",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "21°Cap",
+     "Urano": "11°Can",
+     "Neptuno": "9°Lib",
+     "Plutón": "11°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1787": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Acu",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "12°Gem",
+     "Saturno": "28°Acu",
+     "Urano": "24°Can",
+     "Neptuno": "16°Lib",
+     "Plutón": "15°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1789": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "3°Leo",
+     "Saturno": "23°Pis",
+     "Urano": "3°Leo",
+     "Neptuno": "20°Lib",
+     "Plutón": "18°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1790": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "28°Leo",
+     "Saturno": "5°Ari",
+     "Urano": "7°Leo",
+     "Neptuno": "22°Lib",
+     "Plutón": "20°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1792": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "21°Lib",
+     "Saturno": "0°Tau",
+     "Urano": "16°Leo",
+     "Neptuno": "27°Lib",
+     "Plutón": "23°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1793": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Tau",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "22°Esc",
+     "Saturno": "13°Tau",
+     "Urano": "21°Leo",
+     "Neptuno": "29°Lib",
+     "Plutón": "24°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1795": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "5°Acu",
+     "Saturno": "7°Gem",
+     "Urano": "0°Vir",
+     "Neptuno": "3°Esc",
+     "Plutón": "27°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1796": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "13°Pis",
+     "Saturno": "20°Gem",
+     "Urano": "4°Vir",
+     "Neptuno": "5°Esc",
+     "Plutón": "28°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1797": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "17°Ari",
+     "Saturno": "2°Can",
+     "Urano": "9°Vir",
+     "Neptuno": "8°Esc",
+     "Plutón": "0°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1798": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Can",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "18°Tau",
+     "Saturno": "14°Can",
+     "Urano": "14°Vir",
+     "Neptuno": "10°Esc",
+     "Plutón": "1°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1799": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Can",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "27°Can",
+     "Urano": "18°Vir",
+     "Neptuno": "12°Esc",
+     "Plutón": "3°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1800": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Leo",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "9°Leo",
+     "Urano": "23°Vir",
+     "Neptuno": "14°Esc",
+     "Plutón": "4°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1801": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Leo",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "7°Leo",
+     "Saturno": "21°Leo",
+     "Urano": "28°Vir",
+     "Neptuno": "16°Esc",
+     "Plutón": "5°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1802": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Vir",
+     "Saturno": "3°Vir",
+     "Urano": "2°Lib",
+     "Neptuno": "19°Esc",
+     "Plutón": "6°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1803": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "28°Vir",
+     "Saturno": "15°Vir",
+     "Urano": "7°Lib",
+     "Neptuno": "21°Esc",
+     "Plutón": "8°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1804": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "26°Lib",
+     "Saturno": "27°Vir",
+     "Urano": "12°Lib",
+     "Neptuno": "23°Esc",
+     "Plutón": "9°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1805": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Lib",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "27°Esc",
+     "Saturno": "9°Lib",
+     "Urano": "16°Lib",
+     "Neptuno": "25°Esc",
+     "Plutón": "10°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1806": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Lib",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "21°Lib",
+     "Urano": "21°Lib",
+     "Neptuno": "27°Esc",
+     "Plutón": "12°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1807": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Esc",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "3°Esc",
+     "Urano": "26°Lib",
+     "Neptuno": "0°Sag",
+     "Plutón": "13°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1808": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Esc",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "17°Pis",
+     "Saturno": "15°Esc",
+     "Urano": "0°Esc",
+     "Neptuno": "2°Sag",
+     "Plutón": "14°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1809": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Esc",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "21°Ari",
+     "Saturno": "27°Esc",
+     "Urano": "5°Esc",
+     "Neptuno": "4°Sag",
+     "Plutón": "15°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1810": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Sag",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "22°Tau",
+     "Saturno": "10°Sag",
+     "Urano": "10°Esc",
+     "Neptuno": "6°Sag",
+     "Plutón": "17°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1811": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Sag",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "19°Gem",
+     "Saturno": "22°Sag",
+     "Urano": "15°Esc",
+     "Neptuno": "9°Sag",
+     "Plutón": "18°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1812": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "15°Can",
+     "Saturno": "4°Cap",
+     "Urano": "19°Esc",
+     "Neptuno": "11°Sag",
+     "Plutón": "19°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1813": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Cap",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "10°Leo",
+     "Saturno": "16°Cap",
+     "Urano": "24°Esc",
+     "Neptuno": "13°Sag",
+     "Plutón": "20°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1814": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Cap",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "5°Vir",
+     "Saturno": "28°Cap",
+     "Urano": "28°Esc",
+     "Neptuno": "15°Sag",
+     "Plutón": "21°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1815": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Acu",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "1°Lib",
+     "Saturno": "11°Acu",
+     "Urano": "3°Sag",
+     "Neptuno": "17°Sag",
+     "Plutón": "23°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1816": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Acu",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "0°Esc",
+     "Saturno": "23°Acu",
+     "Urano": "8°Sag",
+     "Neptuno": "20°Sag",
+     "Plutón": "24°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1817": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Pis",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Sag",
+     "Saturno": "5°Pis",
+     "Urano": "12°Sag",
+     "Neptuno": "22°Sag",
+     "Plutón": "25°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1818": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Pis",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "7°Cap",
+     "Saturno": "18°Pis",
+     "Urano": "17°Sag",
+     "Neptuno": "24°Sag",
+     "Plutón": "26°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1819": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Ari",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "16°Acu",
+     "Saturno": "0°Ari",
+     "Urano": "21°Sag",
+     "Neptuno": "26°Sag",
+     "Plutón": "27°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1820": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Ari",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "23°Pis",
+     "Saturno": "13°Ari",
+     "Urano": "26°Sag",
+     "Neptuno": "29°Sag",
+     "Plutón": "28°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1821": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Ari",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "26°Ari",
+     "Saturno": "25°Ari",
+     "Urano": "0°Cap",
+     "Neptuno": "1°Cap",
+     "Plutón": "29°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1822": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Tau",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "26°Tau",
+     "Saturno": "7°Tau",
+     "Urano": "5°Cap",
+     "Neptuno": "3°Cap",
+     "Plutón": "0°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1823": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Tau",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "23°Gem",
+     "Saturno": "20°Tau",
+     "Urano": "9°Cap",
+     "Neptuno": "5°Cap",
+     "Plutón": "2°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1824": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "19°Can",
+     "Saturno": "2°Gem",
+     "Urano": "13°Cap",
+     "Neptuno": "8°Cap",
+     "Plutón": "3°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1825": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Gem",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "14°Leo",
+     "Saturno": "15°Gem",
+     "Urano": "18°Cap",
+     "Neptuno": "10°Cap",
+     "Plutón": "4°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1826": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Gem",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "27°Gem",
+     "Urano": "22°Cap",
+     "Neptuno": "12°Cap",
+     "Plutón": "5°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1827": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "9°Can",
+     "Urano": "26°Cap",
+     "Neptuno": "14°Cap",
+     "Plutón": "6°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1828": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Can",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "4°Esc",
+     "Saturno": "21°Can",
+     "Urano": "1°Acu",
+     "Neptuno": "17°Cap",
+     "Plutón": "7°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1829": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "6°Sag",
+     "Saturno": "4°Leo",
+     "Urano": "5°Acu",
+     "Neptuno": "19°Cap",
+     "Plutón": "8°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1830": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Leo",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "13°Cap",
+     "Saturno": "16°Leo",
+     "Urano": "9°Acu",
+     "Neptuno": "21°Cap",
+     "Plutón": "9°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1831": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Leo",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "28°Leo",
+     "Urano": "13°Acu",
+     "Neptuno": "24°Cap",
+     "Plutón": "10°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1832": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Vir",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "28°Pis",
+     "Saturno": "10°Vir",
+     "Urano": "17°Acu",
+     "Neptuno": "26°Cap",
+     "Plutón": "11°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1833": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "1°Tau",
+     "Saturno": "22°Vir",
+     "Urano": "22°Acu",
+     "Neptuno": "28°Cap",
+     "Plutón": "12°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1834": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "4°Lib",
+     "Urano": "26°Acu",
+     "Neptuno": "0°Acu",
+     "Plutón": "13°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1835": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "27°Gem",
+     "Saturno": "16°Lib",
+     "Urano": "0°Pis",
+     "Neptuno": "3°Acu",
+     "Plutón": "14°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1836": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Lib",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "23°Can",
+     "Saturno": "28°Lib",
+     "Urano": "4°Pis",
+     "Neptuno": "5°Acu",
+     "Plutón": "15°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1837": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "18°Leo",
+     "Saturno": "10°Esc",
+     "Urano": "8°Pis",
+     "Neptuno": "7°Acu",
+     "Plutón": "16°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1838": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "22°Esc",
+     "Urano": "12°Pis",
+     "Neptuno": "9°Acu",
+     "Plutón": "17°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1839": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "9°Lib",
+     "Saturno": "4°Sag",
+     "Urano": "16°Pis",
+     "Neptuno": "12°Acu",
+     "Plutón": "18°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1840": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Sag",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "8°Esc",
+     "Saturno": "16°Sag",
+     "Urano": "20°Pis",
+     "Neptuno": "14°Acu",
+     "Plutón": "19°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1841": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Sag",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "11°Sag",
+     "Saturno": "29°Sag",
+     "Urano": "24°Pis",
+     "Neptuno": "16°Acu",
+     "Plutón": "20°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1842": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Cap",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "18°Cap",
+     "Saturno": "11°Cap",
+     "Urano": "28°Pis",
+     "Neptuno": "18°Acu",
+     "Plutón": "21°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1843": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Cap",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "27°Acu",
+     "Saturno": "23°Cap",
+     "Urano": "2°Ari",
+     "Neptuno": "21°Acu",
+     "Plutón": "22°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1844": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Acu",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "3°Ari",
+     "Saturno": "5°Acu",
+     "Urano": "6°Ari",
+     "Neptuno": "23°Acu",
+     "Plutón": "23°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1845": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Acu",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "5°Tau",
+     "Saturno": "18°Acu",
+     "Urano": "10°Ari",
+     "Neptuno": "25°Acu",
+     "Plutón": "24°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1846": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "4°Gem",
+     "Saturno": "0°Pis",
+     "Urano": "14°Ari",
+     "Neptuno": "27°Acu",
+     "Plutón": "25°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.6
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1847": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "1°Can",
+     "Saturno": "12°Pis",
+     "Urano": "18°Ari",
+     "Neptuno": "0°Pis",
+     "Plutón": "26°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1848": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "25°Pis",
+     "Urano": "21°Ari",
+     "Neptuno": "2°Pis",
+     "Plutón": "27°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1849": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "7°Ari",
+     "Urano": "25°Ari",
+     "Neptuno": "4°Pis",
+     "Plutón": "28°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1850": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "16°Vir",
+     "Saturno": "20°Ari",
+     "Urano": "29°Ari",
+     "Neptuno": "6°Pis",
+     "Plutón": "29°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1851": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "13°Lib",
+     "Saturno": "2°Tau",
+     "Urano": "3°Tau",
+     "Neptuno": "9°Pis",
+     "Plutón": "0°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1852": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "13°Esc",
+     "Saturno": "15°Tau",
+     "Urano": "7°Tau",
+     "Neptuno": "11°Pis",
+     "Plutón": "1°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 1.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1853": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Sag",
+     "Saturno": "27°Tau",
+     "Urano": "11°Tau",
+     "Neptuno": "13°Pis",
+     "Plutón": "2°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1854": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "24°Cap",
+     "Saturno": "9°Gem",
+     "Urano": "15°Tau",
+     "Neptuno": "15°Pis",
+     "Plutón": "3°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1855": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Gem",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "2°Pis",
+     "Saturno": "22°Gem",
+     "Urano": "19°Tau",
+     "Neptuno": "18°Pis",
+     "Plutón": "4°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1856": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "7°Ari",
+     "Saturno": "4°Can",
+     "Urano": "23°Tau",
+     "Neptuno": "20°Pis",
+     "Plutón": "5°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1857": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Can",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "16°Can",
+     "Urano": "27°Tau",
+     "Neptuno": "22°Pis",
+     "Plutón": "6°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1858": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Can",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "28°Can",
+     "Urano": "1°Gem",
+     "Neptuno": "24°Pis",
+     "Plutón": "7°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1859": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "4°Can",
+     "Saturno": "11°Leo",
+     "Urano": "5°Gem",
+     "Neptuno": "27°Pis",
+     "Plutón": "8°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1860": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Pis",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "0°Leo",
+     "Saturno": "23°Leo",
+     "Urano": "9°Gem",
+     "Neptuno": "29°Pis",
+     "Plutón": "9°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1861": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "25°Leo",
+     "Saturno": "5°Vir",
+     "Urano": "13°Gem",
+     "Neptuno": "1°Ari",
+     "Plutón": "10°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1862": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "20°Vir",
+     "Saturno": "17°Vir",
+     "Urano": "17°Gem",
+     "Neptuno": "3°Ari",
+     "Plutón": "11°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1863": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Lib",
+     "Saturno": "29°Vir",
+     "Urano": "21°Gem",
+     "Neptuno": "6°Ari",
+     "Plutón": "12°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1864": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Esc",
+     "Saturno": "11°Lib",
+     "Urano": "26°Gem",
+     "Neptuno": "8°Ari",
+     "Plutón": "12°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1865": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Lib",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "22°Sag",
+     "Saturno": "23°Lib",
+     "Urano": "0°Can",
+     "Neptuno": "10°Ari",
+     "Plutón": "13°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1866": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "29°Cap",
+     "Saturno": "5°Esc",
+     "Urano": "4°Can",
+     "Neptuno": "12°Ari",
+     "Plutón": "14°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1867": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "17°Esc",
+     "Urano": "8°Can",
+     "Neptuno": "14°Ari",
+     "Plutón": "15°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1868": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Ari",
+     "Saturno": "29°Esc",
+     "Urano": "12°Can",
+     "Neptuno": "17°Ari",
+     "Plutón": "16°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1869": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Sag",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "13°Tau",
+     "Saturno": "11°Sag",
+     "Urano": "17°Can",
+     "Neptuno": "19°Ari",
+     "Plutón": "17°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1870": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Sag",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Gem",
+     "Saturno": "24°Sag",
+     "Urano": "21°Can",
+     "Neptuno": "21°Ari",
+     "Plutón": "18°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.5
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1871": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "8°Can",
+     "Saturno": "6°Cap",
+     "Urano": "25°Can",
+     "Neptuno": "23°Ari",
+     "Plutón": "19°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.2
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1872": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Cap",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "3°Leo",
+     "Saturno": "18°Cap",
+     "Urano": "0°Leo",
+     "Neptuno": "26°Ari",
+     "Plutón": "20°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1873": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Acu",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "28°Leo",
+     "Saturno": "0°Acu",
+     "Urano": "4°Leo",
+     "Neptuno": "28°Ari",
+     "Plutón": "21°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1874": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Acu",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "24°Vir",
+     "Saturno": "13°Acu",
+     "Urano": "8°Leo",
+     "Neptuno": "0°Tau",
+     "Plutón": "22°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1875": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Acu",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "21°Lib",
+     "Saturno": "25°Acu",
+     "Urano": "13°Leo",
+     "Neptuno": "2°Tau",
+     "Plutón": "23°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1876": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "22°Esc",
+     "Saturno": "7°Pis",
+     "Urano": "17°Leo",
+     "Neptuno": "4°Tau",
+     "Plutón": "24°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1877": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "27°Sag",
+     "Saturno": "20°Pis",
+     "Urano": "22°Leo",
+     "Neptuno": "7°Tau",
+     "Plutón": "25°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1878": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Ari",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "5°Acu",
+     "Saturno": "2°Ari",
+     "Urano": "26°Leo",
+     "Neptuno": "9°Tau",
+     "Plutón": "25°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1879": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "12°Pis",
+     "Saturno": "15°Ari",
+     "Urano": "1°Vir",
+     "Neptuno": "11°Tau",
+     "Plutón": "26°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1880": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Ari",
+     "Saturno": "27°Ari",
+     "Urano": "5°Vir",
+     "Neptuno": "13°Tau",
+     "Plutón": "27°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1881": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Tau",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "18°Tau",
+     "Saturno": "10°Tau",
+     "Urano": "10°Vir",
+     "Neptuno": "15°Tau",
+     "Plutón": "28°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1882": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Tau",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "22°Tau",
+     "Urano": "15°Vir",
+     "Neptuno": "18°Tau",
+     "Plutón": "29°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1883": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "4°Gem",
+     "Urano": "19°Vir",
+     "Neptuno": "20°Tau",
+     "Plutón": "0°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1884": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "7°Leo",
+     "Saturno": "17°Gem",
+     "Urano": "24°Vir",
+     "Neptuno": "22°Tau",
+     "Plutón": "1°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1885": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Gem",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "2°Vir",
+     "Saturno": "29°Gem",
+     "Urano": "29°Vir",
+     "Neptuno": "24°Tau",
+     "Plutón": "2°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1886": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Can",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "28°Vir",
+     "Saturno": "11°Can",
+     "Urano": "3°Lib",
+     "Neptuno": "26°Tau",
+     "Plutón": "3°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1887": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "26°Lib",
+     "Saturno": "23°Can",
+     "Urano": "8°Lib",
+     "Neptuno": "29°Tau",
+     "Plutón": "4°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1888": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Leo",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "27°Esc",
+     "Saturno": "6°Leo",
+     "Urano": "13°Lib",
+     "Neptuno": "1°Gem",
+     "Plutón": "5°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1889": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Leo",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "18°Leo",
+     "Urano": "17°Lib",
+     "Neptuno": "3°Gem",
+     "Plutón": "6°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1890": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "0°Vir",
+     "Urano": "22°Lib",
+     "Neptuno": "5°Gem",
+     "Plutón": "7°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1891": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "17°Pis",
+     "Saturno": "12°Vir",
+     "Urano": "27°Lib",
+     "Neptuno": "7°Gem",
+     "Plutón": "8°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1892": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "22°Ari",
+     "Saturno": "24°Vir",
+     "Urano": "2°Esc",
+     "Neptuno": "9°Gem",
+     "Plutón": "9°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1893": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Lib",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "22°Tau",
+     "Saturno": "6°Lib",
+     "Urano": "6°Esc",
+     "Neptuno": "12°Gem",
+     "Plutón": "10°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1894": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "20°Gem",
+     "Saturno": "18°Lib",
+     "Urano": "11°Esc",
+     "Neptuno": "14°Gem",
+     "Plutón": "10°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1895": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "15°Can",
+     "Saturno": "0°Esc",
+     "Urano": "16°Esc",
+     "Neptuno": "16°Gem",
+     "Plutón": "11°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1896": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Esc",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "11°Leo",
+     "Saturno": "12°Esc",
+     "Urano": "20°Esc",
+     "Neptuno": "18°Gem",
+     "Plutón": "12°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1897": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Esc",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "6°Vir",
+     "Saturno": "24°Esc",
+     "Urano": "25°Esc",
+     "Neptuno": "20°Gem",
+     "Plutón": "13°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1898": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "2°Lib",
+     "Saturno": "6°Sag",
+     "Urano": "0°Sag",
+     "Neptuno": "22°Gem",
+     "Plutón": "14°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1899": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "0°Esc",
+     "Saturno": "18°Sag",
+     "Urano": "4°Sag",
+     "Neptuno": "25°Gem",
+     "Plutón": "15°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1900": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "2°Sag",
+     "Saturno": "1°Cap",
+     "Urano": "9°Sag",
+     "Neptuno": "27°Gem",
+     "Plutón": "16°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1901": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Gem",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "8°Cap",
+     "Saturno": "13°Cap",
+     "Urano": "13°Sag",
+     "Neptuno": "29°Gem",
+     "Plutón": "17°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1902": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Cap",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "16°Acu",
+     "Saturno": "25°Cap",
+     "Urano": "18°Sag",
+     "Neptuno": "1°Can",
+     "Plutón": "18°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1903": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Acu",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "23°Pis",
+     "Saturno": "7°Acu",
+     "Urano": "23°Sag",
+     "Neptuno": "3°Can",
+     "Plutón": "19°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1904": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Acu",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "26°Ari",
+     "Saturno": "20°Acu",
+     "Urano": "27°Sag",
+     "Neptuno": "5°Can",
+     "Plutón": "20°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1905": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Pis",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "26°Tau",
+     "Saturno": "2°Pis",
+     "Urano": "1°Cap",
+     "Neptuno": "7°Can",
+     "Plutón": "21°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1906": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "23°Gem",
+     "Saturno": "15°Pis",
+     "Urano": "6°Cap",
+     "Neptuno": "10°Can",
+     "Plutón": "22°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1907": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "19°Can",
+     "Saturno": "27°Pis",
+     "Urano": "10°Cap",
+     "Neptuno": "12°Can",
+     "Plutón": "23°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1908": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "14°Leo",
+     "Saturno": "9°Ari",
+     "Urano": "15°Cap",
+     "Neptuno": "14°Can",
+     "Plutón": "24°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1909": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "22°Ari",
+     "Urano": "19°Cap",
+     "Neptuno": "16°Can",
+     "Plutón": "25°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1910": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "4°Tau",
+     "Urano": "23°Cap",
+     "Neptuno": "18°Can",
+     "Plutón": "26°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1911": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Tau",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "4°Esc",
+     "Saturno": "16°Tau",
+     "Urano": "28°Cap",
+     "Neptuno": "20°Can",
+     "Plutón": "27°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1912": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Tau",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "7°Sag",
+     "Saturno": "29°Tau",
+     "Urano": "2°Acu",
+     "Neptuno": "22°Can",
+     "Plutón": "28°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1913": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Gem"
+    },
+    "grados": {
+     "Júpiter": "13°Cap",
+     "Saturno": "11°Gem",
+     "Urano": "6°Acu",
+     "Neptuno": "25°Can",
+     "Plutón": "29°Gem"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1914": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "24°Gem",
+     "Urano": "10°Acu",
+     "Neptuno": "27°Can",
+     "Plutón": "0°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1915": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Can",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "27°Pis",
+     "Saturno": "6°Can",
+     "Urano": "15°Acu",
+     "Neptuno": "29°Can",
+     "Plutón": "1°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1916": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Can",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "0°Tau",
+     "Saturno": "18°Can",
+     "Urano": "19°Acu",
+     "Neptuno": "1°Leo",
+     "Plutón": "2°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1917": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "0°Leo",
+     "Urano": "23°Acu",
+     "Neptuno": "3°Leo",
+     "Plutón": "4°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1918": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "27°Gem",
+     "Saturno": "13°Leo",
+     "Urano": "27°Acu",
+     "Neptuno": "5°Leo",
+     "Plutón": "5°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1919": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Leo",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "22°Can",
+     "Saturno": "25°Leo",
+     "Urano": "1°Pis",
+     "Neptuno": "7°Leo",
+     "Plutón": "6°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1920": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "18°Leo",
+     "Saturno": "7°Vir",
+     "Urano": "5°Pis",
+     "Neptuno": "10°Leo",
+     "Plutón": "7°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1921": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "19°Vir",
+     "Urano": "9°Pis",
+     "Neptuno": "12°Leo",
+     "Plutón": "8°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1922": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Lib",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "9°Lib",
+     "Saturno": "1°Lib",
+     "Urano": "13°Pis",
+     "Neptuno": "14°Leo",
+     "Plutón": "9°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1923": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Lib",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "9°Esc",
+     "Saturno": "13°Lib",
+     "Urano": "17°Pis",
+     "Neptuno": "16°Leo",
+     "Plutón": "10°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1924": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Lib",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "12°Sag",
+     "Saturno": "25°Lib",
+     "Urano": "21°Pis",
+     "Neptuno": "18°Leo",
+     "Plutón": "11°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1925": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "18°Cap",
+     "Saturno": "7°Esc",
+     "Urano": "25°Pis",
+     "Neptuno": "20°Leo",
+     "Plutón": "12°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1926": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "26°Acu",
+     "Saturno": "19°Esc",
+     "Urano": "29°Pis",
+     "Neptuno": "22°Leo",
+     "Plutón": "14°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1927": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Sag",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "2°Ari",
+     "Saturno": "1°Sag",
+     "Urano": "3°Ari",
+     "Neptuno": "25°Leo",
+     "Plutón": "15°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1928": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Sag",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "5°Tau",
+     "Saturno": "14°Sag",
+     "Urano": "7°Ari",
+     "Neptuno": "27°Leo",
+     "Plutón": "16°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1929": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Sag",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "4°Gem",
+     "Saturno": "26°Sag",
+     "Urano": "11°Ari",
+     "Neptuno": "29°Leo",
+     "Plutón": "17°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1930": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "1°Can",
+     "Saturno": "8°Cap",
+     "Urano": "15°Ari",
+     "Neptuno": "1°Vir",
+     "Plutón": "18°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1931": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "20°Cap",
+     "Urano": "19°Ari",
+     "Neptuno": "3°Vir",
+     "Plutón": "20°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 0.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1932": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Acu",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "3°Acu",
+     "Urano": "23°Ari",
+     "Neptuno": "5°Vir",
+     "Plutón": "21°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1933": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Acu",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "17°Vir",
+     "Saturno": "15°Acu",
+     "Urano": "26°Ari",
+     "Neptuno": "7°Vir",
+     "Plutón": "22°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1934": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "13°Lib",
+     "Saturno": "27°Acu",
+     "Urano": "0°Tau",
+     "Neptuno": "10°Vir",
+     "Plutón": "23°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1935": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Pis",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "13°Esc",
+     "Saturno": "10°Pis",
+     "Urano": "4°Tau",
+     "Neptuno": "12°Vir",
+     "Plutón": "25°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1936": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Pis",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "17°Sag",
+     "Saturno": "22°Pis",
+     "Urano": "8°Tau",
+     "Neptuno": "14°Vir",
+     "Plutón": "26°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1937": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Ari",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "24°Cap",
+     "Saturno": "4°Ari",
+     "Urano": "12°Tau",
+     "Neptuno": "16°Vir",
+     "Plutón": "27°Can"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1938": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Ari",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Can"
+    },
+    "grados": {
+     "Júpiter": "2°Pis",
+     "Saturno": "17°Ari",
+     "Urano": "16°Tau",
+     "Neptuno": "18°Vir",
+     "Plutón": "29°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1939": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Ari",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "7°Ari",
+     "Saturno": "29°Ari",
+     "Urano": "20°Tau",
+     "Neptuno": "20°Vir",
+     "Plutón": "0°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1940": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "12°Tau",
+     "Urano": "24°Tau",
+     "Neptuno": "22°Vir",
+     "Plutón": "1°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1941": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Tau",
+     "Urano": "Tau",
+     "Neptuno": "Vir",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "24°Tau",
+     "Urano": "28°Tau",
+     "Neptuno": "25°Vir",
+     "Plutón": "3°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1942": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "4°Can",
+     "Saturno": "6°Gem",
+     "Urano": "2°Gem",
+     "Neptuno": "27°Vir",
+     "Plutón": "4°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1943": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Gem",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "0°Leo",
+     "Saturno": "19°Gem",
+     "Urano": "6°Gem",
+     "Neptuno": "29°Vir",
+     "Plutón": "6°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1944": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Can",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "25°Leo",
+     "Saturno": "1°Can",
+     "Urano": "10°Gem",
+     "Neptuno": "1°Lib",
+     "Plutón": "7°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1945": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Can",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "20°Vir",
+     "Saturno": "13°Can",
+     "Urano": "14°Gem",
+     "Neptuno": "3°Lib",
+     "Plutón": "8°Leo"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1946": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "17°Lib",
+     "Saturno": "25°Can",
+     "Urano": "18°Gem",
+     "Neptuno": "5°Lib",
+     "Plutón": "10°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1947": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "18°Esc",
+     "Saturno": "8°Leo",
+     "Urano": "22°Gem",
+     "Neptuno": "8°Lib",
+     "Plutón": "11°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1948": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "22°Sag",
+     "Saturno": "20°Leo",
+     "Urano": "27°Gem",
+     "Neptuno": "10°Lib",
+     "Plutón": "13°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1949": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "29°Cap",
+     "Saturno": "2°Vir",
+     "Urano": "1°Can",
+     "Neptuno": "12°Lib",
+     "Plutón": "15°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1950": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "14°Vir",
+     "Urano": "5°Can",
+     "Neptuno": "14°Lib",
+     "Plutón": "16°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1951": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "12°Ari",
+     "Saturno": "26°Vir",
+     "Urano": "9°Can",
+     "Neptuno": "16°Lib",
+     "Plutón": "18°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1952": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Lib",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "13°Tau",
+     "Saturno": "8°Lib",
+     "Urano": "13°Can",
+     "Neptuno": "18°Lib",
+     "Plutón": "19°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1953": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "12°Gem",
+     "Saturno": "20°Lib",
+     "Urano": "18°Can",
+     "Neptuno": "21°Lib",
+     "Plutón": "21°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1954": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "8°Can",
+     "Saturno": "2°Esc",
+     "Urano": "22°Can",
+     "Neptuno": "23°Lib",
+     "Plutón": "23°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1955": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "3°Leo",
+     "Saturno": "14°Esc",
+     "Urano": "26°Can",
+     "Neptuno": "25°Lib",
+     "Plutón": "25°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1956": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Esc",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "28°Leo",
+     "Saturno": "26°Esc",
+     "Urano": "1°Leo",
+     "Neptuno": "27°Lib",
+     "Plutón": "26°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1957": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": "Leo"
+    },
+    "grados": {
+     "Júpiter": "24°Vir",
+     "Saturno": "8°Sag",
+     "Urano": "5°Leo",
+     "Neptuno": "29°Lib",
+     "Plutón": "28°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1958": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "21°Lib",
+     "Saturno": "21°Sag",
+     "Urano": "9°Leo",
+     "Neptuno": "2°Esc",
+     "Plutón": "0°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1959": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Cap",
+     "Urano": "Leo",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "22°Esc",
+     "Saturno": "3°Cap",
+     "Urano": "14°Leo",
+     "Neptuno": "4°Esc",
+     "Plutón": "2°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1960": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Cap",
+     "Urano": "Leo",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "27°Sag",
+     "Saturno": "15°Cap",
+     "Urano": "18°Leo",
+     "Neptuno": "6°Esc",
+     "Plutón": "4°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1961": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Cap",
+     "Urano": "Leo",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "5°Acu",
+     "Saturno": "27°Cap",
+     "Urano": "23°Leo",
+     "Neptuno": "8°Esc",
+     "Plutón": "6°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1962": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Acu",
+     "Urano": "Leo",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "12°Pis",
+     "Saturno": "10°Acu",
+     "Urano": "27°Leo",
+     "Neptuno": "10°Esc",
+     "Plutón": "7°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1963": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Acu",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "17°Ari",
+     "Saturno": "22°Acu",
+     "Urano": "2°Vir",
+     "Neptuno": "13°Esc",
+     "Plutón": "9°Vir"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1964": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Pis",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "18°Tau",
+     "Saturno": "4°Pis",
+     "Urano": "6°Vir",
+     "Neptuno": "15°Esc",
+     "Plutón": "11°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1965": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "17°Pis",
+     "Urano": "11°Vir",
+     "Neptuno": "17°Esc",
+     "Plutón": "14°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1966": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Pis",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "29°Pis",
+     "Urano": "16°Vir",
+     "Neptuno": "19°Esc",
+     "Plutón": "16°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1967": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "7°Leo",
+     "Saturno": "11°Ari",
+     "Urano": "20°Vir",
+     "Neptuno": "21°Esc",
+     "Plutón": "18°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1968": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "2°Vir",
+     "Saturno": "24°Ari",
+     "Urano": "25°Vir",
+     "Neptuno": "24°Esc",
+     "Plutón": "20°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1969": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Tau",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "28°Vir",
+     "Saturno": "6°Tau",
+     "Urano": "0°Lib",
+     "Neptuno": "26°Esc",
+     "Plutón": "22°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.8
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1970": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "26°Lib",
+     "Saturno": "19°Tau",
+     "Urano": "4°Lib",
+     "Neptuno": "28°Esc",
+     "Plutón": "24°Vir"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1971": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Gem",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "27°Esc",
+     "Saturno": "1°Gem",
+     "Urano": "9°Lib",
+     "Neptuno": "0°Sag",
+     "Plutón": "27°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1972": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Vir"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "13°Gem",
+     "Urano": "14°Lib",
+     "Neptuno": "2°Sag",
+     "Plutón": "29°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1973": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "26°Gem",
+     "Urano": "18°Lib",
+     "Neptuno": "5°Sag",
+     "Plutón": "1°Lib"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1974": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Can",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "17°Pis",
+     "Saturno": "8°Can",
+     "Urano": "23°Lib",
+     "Neptuno": "7°Sag",
+     "Plutón": "4°Lib"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1975": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Lib",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "21°Ari",
+     "Saturno": "20°Can",
+     "Urano": "28°Lib",
+     "Neptuno": "9°Sag",
+     "Plutón": "6°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1976": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "22°Tau",
+     "Saturno": "2°Leo",
+     "Urano": "3°Esc",
+     "Neptuno": "11°Sag",
+     "Plutón": "8°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1977": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "19°Gem",
+     "Saturno": "15°Leo",
+     "Urano": "7°Esc",
+     "Neptuno": "14°Sag",
+     "Plutón": "11°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1978": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "15°Can",
+     "Saturno": "27°Leo",
+     "Urano": "12°Esc",
+     "Neptuno": "16°Sag",
+     "Plutón": "13°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1979": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "10°Leo",
+     "Saturno": "9°Vir",
+     "Urano": "17°Esc",
+     "Neptuno": "18°Sag",
+     "Plutón": "16°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1980": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Vir",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "6°Vir",
+     "Saturno": "21°Vir",
+     "Urano": "21°Esc",
+     "Neptuno": "20°Sag",
+     "Plutón": "18°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1981": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Lib",
+     "Urano": "Esc",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "2°Lib",
+     "Saturno": "3°Lib",
+     "Urano": "26°Esc",
+     "Neptuno": "23°Sag",
+     "Plutón": "21°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 1.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1982": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Lib",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "0°Esc",
+     "Saturno": "15°Lib",
+     "Urano": "1°Sag",
+     "Neptuno": "25°Sag",
+     "Plutón": "24°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1983": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Lib",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "2°Sag",
+     "Saturno": "27°Lib",
+     "Urano": "5°Sag",
+     "Neptuno": "27°Sag",
+     "Plutón": "26°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 1.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1984": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": "Lib"
+    },
+    "grados": {
+     "Júpiter": "7°Cap",
+     "Saturno": "9°Esc",
+     "Urano": "10°Sag",
+     "Neptuno": "29°Sag",
+     "Plutón": "29°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1985": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "15°Acu",
+     "Saturno": "21°Esc",
+     "Urano": "15°Sag",
+     "Neptuno": "2°Cap",
+     "Plutón": "1°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1986": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "22°Pis",
+     "Saturno": "4°Sag",
+     "Urano": "19°Sag",
+     "Neptuno": "4°Cap",
+     "Plutón": "4°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1987": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "26°Ari",
+     "Saturno": "16°Sag",
+     "Urano": "24°Sag",
+     "Neptuno": "6°Cap",
+     "Plutón": "7°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1988": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "26°Tau",
+     "Saturno": "28°Sag",
+     "Urano": "28°Sag",
+     "Neptuno": "8°Cap",
+     "Plutón": "9°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1989": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Cap",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "23°Gem",
+     "Saturno": "10°Cap",
+     "Urano": "3°Cap",
+     "Neptuno": "11°Cap",
+     "Plutón": "12°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1990": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "19°Can",
+     "Saturno": "22°Cap",
+     "Urano": "7°Cap",
+     "Neptuno": "13°Cap",
+     "Plutón": "15°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1991": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "14°Leo",
+     "Saturno": "5°Acu",
+     "Urano": "11°Cap",
+     "Neptuno": "15°Cap",
+     "Plutón": "17°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1992": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "17°Acu",
+     "Urano": "16°Cap",
+     "Neptuno": "17°Cap",
+     "Plutón": "20°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1993": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "6°Lib",
+     "Saturno": "29°Acu",
+     "Urano": "20°Cap",
+     "Neptuno": "20°Cap",
+     "Plutón": "23°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.6
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1994": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Pis",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "4°Esc",
+     "Saturno": "12°Pis",
+     "Urano": "24°Cap",
+     "Neptuno": "22°Cap",
+     "Plutón": "25°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1995": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Pis",
+     "Urano": "Cap",
+     "Neptuno": "Cap",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "7°Sag",
+     "Saturno": "24°Pis",
+     "Urano": "29°Cap",
+     "Neptuno": "24°Cap",
+     "Plutón": "28°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.2
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1996": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Ari",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "13°Cap",
+     "Saturno": "7°Ari",
+     "Urano": "3°Acu",
+     "Neptuno": "26°Cap",
+     "Plutón": "0°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1997": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Ari",
+     "Urano": "Acu",
+     "Neptuno": "Cap",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "19°Ari",
+     "Urano": "7°Acu",
+     "Neptuno": "29°Cap",
+     "Plutón": "3°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1998": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Tau",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "27°Pis",
+     "Saturno": "1°Tau",
+     "Urano": "11°Acu",
+     "Neptuno": "1°Acu",
+     "Plutón": "5°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1999": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Tau",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "0°Tau",
+     "Saturno": "14°Tau",
+     "Urano": "16°Acu",
+     "Neptuno": "3°Acu",
+     "Plutón": "8°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2000": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Tau",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "26°Tau",
+     "Urano": "20°Acu",
+     "Neptuno": "5°Acu",
+     "Plutón": "10°Sag"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2001": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "27°Gem",
+     "Saturno": "9°Gem",
+     "Urano": "24°Acu",
+     "Neptuno": "8°Acu",
+     "Plutón": "13°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2002": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "23°Can",
+     "Saturno": "21°Gem",
+     "Urano": "28°Acu",
+     "Neptuno": "10°Acu",
+     "Plutón": "15°Sag"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2003": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "18°Leo",
+     "Saturno": "3°Can",
+     "Urano": "2°Pis",
+     "Neptuno": "12°Acu",
+     "Plutón": "18°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2004": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "15°Can",
+     "Urano": "6°Pis",
+     "Neptuno": "14°Acu",
+     "Plutón": "20°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2005": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "9°Lib",
+     "Saturno": "28°Can",
+     "Urano": "10°Pis",
+     "Neptuno": "17°Acu",
+     "Plutón": "22°Sag"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2006": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Leo",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "9°Esc",
+     "Saturno": "10°Leo",
+     "Urano": "14°Pis",
+     "Neptuno": "19°Acu",
+     "Plutón": "25°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2007": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "11°Sag",
+     "Saturno": "22°Leo",
+     "Urano": "18°Pis",
+     "Neptuno": "21°Acu",
+     "Plutón": "27°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2008": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Vir",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Sag"
+    },
+    "grados": {
+     "Júpiter": "18°Cap",
+     "Saturno": "4°Vir",
+     "Urano": "22°Pis",
+     "Neptuno": "23°Acu",
+     "Plutón": "29°Sag"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2009": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Vir",
+     "Urano": "Pis",
+     "Neptuno": "Acu",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "26°Acu",
+     "Saturno": "16°Vir",
+     "Urano": "26°Pis",
+     "Neptuno": "26°Acu",
+     "Plutón": "1°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2010": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Acu",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "2°Ari",
+     "Saturno": "28°Vir",
+     "Urano": "0°Ari",
+     "Neptuno": "28°Acu",
+     "Plutón": "3°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2011": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "5°Tau",
+     "Saturno": "10°Lib",
+     "Urano": "4°Ari",
+     "Neptuno": "0°Pis",
+     "Plutón": "6°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2012": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "4°Gem",
+     "Saturno": "22°Lib",
+     "Urano": "8°Ari",
+     "Neptuno": "2°Pis",
+     "Plutón": "8°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2013": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "1°Can",
+     "Saturno": "4°Esc",
+     "Urano": "12°Ari",
+     "Neptuno": "5°Pis",
+     "Plutón": "10°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2014": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "16°Esc",
+     "Urano": "16°Ari",
+     "Neptuno": "7°Pis",
+     "Plutón": "12°Cap"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2015": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Esc",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "29°Esc",
+     "Urano": "20°Ari",
+     "Neptuno": "9°Pis",
+     "Plutón": "14°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2016": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Sag",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "17°Vir",
+     "Saturno": "11°Sag",
+     "Urano": "24°Ari",
+     "Neptuno": "11°Pis",
+     "Plutón": "16°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2017": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Ari",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "13°Lib",
+     "Saturno": "23°Sag",
+     "Urano": "28°Ari",
+     "Neptuno": "14°Pis",
+     "Plutón": "18°Cap"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2018": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Cap",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "13°Esc",
+     "Saturno": "5°Cap",
+     "Urano": "2°Tau",
+     "Neptuno": "16°Pis",
+     "Plutón": "20°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2019": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Cap",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "16°Sag",
+     "Saturno": "17°Cap",
+     "Urano": "5°Tau",
+     "Neptuno": "18°Pis",
+     "Plutón": "22°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2020": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "23°Cap",
+     "Saturno": "0°Acu",
+     "Urano": "9°Tau",
+     "Neptuno": "20°Pis",
+     "Plutón": "24°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2021": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "1°Pis",
+     "Saturno": "12°Acu",
+     "Urano": "13°Tau",
+     "Neptuno": "23°Pis",
+     "Plutón": "25°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2022": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "7°Ari",
+     "Saturno": "24°Acu",
+     "Urano": "17°Tau",
+     "Neptuno": "25°Pis",
+     "Plutón": "27°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2023": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Pis",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "9°Tau",
+     "Saturno": "7°Pis",
+     "Urano": "21°Tau",
+     "Neptuno": "27°Pis",
+     "Plutón": "29°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2024": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "19°Pis",
+     "Urano": "25°Tau",
+     "Neptuno": "29°Pis",
+     "Plutón": "1°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2025": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Ari",
+     "Urano": "Tau",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "4°Can",
+     "Saturno": "1°Ari",
+     "Urano": "29°Tau",
+     "Neptuno": "2°Ari",
+     "Plutón": "3°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2026": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "0°Leo",
+     "Saturno": "14°Ari",
+     "Urano": "3°Gem",
+     "Neptuno": "4°Ari",
+     "Plutón": "4°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2027": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "25°Leo",
+     "Saturno": "26°Ari",
+     "Urano": "7°Gem",
+     "Neptuno": "6°Ari",
+     "Plutón": "6°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2028": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Tau",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "20°Vir",
+     "Saturno": "9°Tau",
+     "Urano": "11°Gem",
+     "Neptuno": "8°Ari",
+     "Plutón": "8°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 3.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2029": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "17°Lib",
+     "Saturno": "21°Tau",
+     "Urano": "15°Gem",
+     "Neptuno": "11°Ari",
+     "Plutón": "9°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2030": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Gem",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "18°Esc",
+     "Saturno": "3°Gem",
+     "Urano": "19°Gem",
+     "Neptuno": "13°Ari",
+     "Plutón": "11°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2031": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Gem",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "22°Sag",
+     "Saturno": "16°Gem",
+     "Urano": "24°Gem",
+     "Neptuno": "15°Ari",
+     "Plutón": "13°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2032": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Gem",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "29°Cap",
+     "Saturno": "28°Gem",
+     "Urano": "28°Gem",
+     "Neptuno": "17°Ari",
+     "Plutón": "14°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2033": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Can",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "7°Pis",
+     "Saturno": "10°Can",
+     "Urano": "2°Can",
+     "Neptuno": "19°Ari",
+     "Plutón": "16°Acu"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2034": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "12°Ari",
+     "Saturno": "22°Can",
+     "Urano": "6°Can",
+     "Neptuno": "22°Ari",
+     "Plutón": "17°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2035": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Leo",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "13°Tau",
+     "Saturno": "5°Leo",
+     "Urano": "10°Can",
+     "Neptuno": "24°Ari",
+     "Plutón": "19°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2036": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "12°Gem",
+     "Saturno": "17°Leo",
+     "Urano": "14°Can",
+     "Neptuno": "26°Ari",
+     "Plutón": "20°Acu"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2037": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Leo",
+     "Urano": "Can",
+     "Neptuno": "Ari",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "8°Can",
+     "Saturno": "29°Leo",
+     "Urano": "19°Can",
+     "Neptuno": "28°Ari",
+     "Plutón": "22°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2038": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Tau",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "3°Leo",
+     "Saturno": "11°Vir",
+     "Urano": "23°Can",
+     "Neptuno": "1°Tau",
+     "Plutón": "23°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2039": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Tau",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "28°Leo",
+     "Saturno": "23°Vir",
+     "Urano": "27°Can",
+     "Neptuno": "3°Tau",
+     "Plutón": "25°Acu"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2040": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "24°Vir",
+     "Saturno": "5°Lib",
+     "Urano": "2°Leo",
+     "Neptuno": "5°Tau",
+     "Plutón": "26°Acu"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2041": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "22°Lib",
+     "Saturno": "17°Lib",
+     "Urano": "6°Leo",
+     "Neptuno": "7°Tau",
+     "Plutón": "28°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2042": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Lib",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Acu"
+    },
+    "grados": {
+     "Júpiter": "22°Esc",
+     "Saturno": "29°Lib",
+     "Urano": "10°Leo",
+     "Neptuno": "9°Tau",
+     "Plutón": "29°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2043": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Esc",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "27°Sag",
+     "Saturno": "11°Esc",
+     "Urano": "15°Leo",
+     "Neptuno": "12°Tau",
+     "Plutón": "1°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2044": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Esc",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "4°Acu",
+     "Saturno": "24°Esc",
+     "Urano": "19°Leo",
+     "Neptuno": "14°Tau",
+     "Plutón": "2°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2045": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "12°Pis",
+     "Saturno": "6°Sag",
+     "Urano": "24°Leo",
+     "Neptuno": "16°Tau",
+     "Plutón": "3°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2046": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Sag",
+     "Urano": "Leo",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "16°Ari",
+     "Saturno": "18°Sag",
+     "Urano": "28°Leo",
+     "Neptuno": "18°Tau",
+     "Plutón": "5°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2047": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Cap",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "17°Tau",
+     "Saturno": "0°Cap",
+     "Urano": "3°Vir",
+     "Neptuno": "20°Tau",
+     "Plutón": "6°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2048": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Cap",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "12°Cap",
+     "Urano": "8°Vir",
+     "Neptuno": "23°Tau",
+     "Plutón": "7°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2049": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Cap",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "25°Cap",
+     "Urano": "12°Vir",
+     "Neptuno": "25°Tau",
+     "Plutón": "9°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2050": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Acu",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "7°Leo",
+     "Saturno": "7°Acu",
+     "Urano": "17°Vir",
+     "Neptuno": "27°Tau",
+     "Plutón": "10°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2051": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Acu",
+     "Urano": "Vir",
+     "Neptuno": "Tau",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Vir",
+     "Saturno": "19°Acu",
+     "Urano": "21°Vir",
+     "Neptuno": "29°Tau",
+     "Plutón": "11°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "2052": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Pis",
+     "Urano": "Vir",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "28°Vir",
+     "Saturno": "2°Pis",
+     "Urano": "26°Vir",
+     "Neptuno": "1°Gem",
+     "Plutón": "13°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2053": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "26°Lib",
+     "Saturno": "14°Pis",
+     "Urano": "1°Lib",
+     "Neptuno": "3°Gem",
+     "Plutón": "14°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.1
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2054": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Pis",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "27°Esc",
+     "Saturno": "26°Pis",
+     "Urano": "5°Lib",
+     "Neptuno": "6°Gem",
+     "Plutón": "15°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2055": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Ari",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Cap",
+     "Saturno": "9°Ari",
+     "Urano": "10°Lib",
+     "Neptuno": "8°Gem",
+     "Plutón": "16°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 1.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2056": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Ari",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "21°Ari",
+     "Urano": "15°Lib",
+     "Neptuno": "10°Gem",
+     "Plutón": "18°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2057": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Tau",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "17°Pis",
+     "Saturno": "4°Tau",
+     "Urano": "20°Lib",
+     "Neptuno": "12°Gem",
+     "Plutón": "19°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2058": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Tau",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "21°Ari",
+     "Saturno": "16°Tau",
+     "Urano": "24°Lib",
+     "Neptuno": "14°Gem",
+     "Plutón": "20°Pis"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2059": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Tau",
+     "Urano": "Lib",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "21°Tau",
+     "Saturno": "28°Tau",
+     "Urano": "29°Lib",
+     "Neptuno": "16°Gem",
+     "Plutón": "21°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2060": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "19°Gem",
+     "Saturno": "11°Gem",
+     "Urano": "4°Esc",
+     "Neptuno": "19°Gem",
+     "Plutón": "23°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2061": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "15°Can",
+     "Saturno": "23°Gem",
+     "Urano": "8°Esc",
+     "Neptuno": "21°Gem",
+     "Plutón": "24°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2062": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Can",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "11°Leo",
+     "Saturno": "5°Can",
+     "Urano": "13°Esc",
+     "Neptuno": "23°Gem",
+     "Plutón": "25°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.6
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2063": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Can",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "6°Vir",
+     "Saturno": "18°Can",
+     "Urano": "18°Esc",
+     "Neptuno": "25°Gem",
+     "Plutón": "26°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2064": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "2°Lib",
+     "Saturno": "0°Leo",
+     "Urano": "22°Esc",
+     "Neptuno": "27°Gem",
+     "Plutón": "27°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2065": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Gem",
+     "Plutón": "Pis"
+    },
+    "grados": {
+     "Júpiter": "0°Esc",
+     "Saturno": "12°Leo",
+     "Urano": "27°Esc",
+     "Neptuno": "29°Gem",
+     "Plutón": "28°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2066": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Leo",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "1°Sag",
+     "Saturno": "24°Leo",
+     "Urano": "2°Sag",
+     "Neptuno": "2°Can",
+     "Plutón": "0°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2067": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Vir",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "7°Cap",
+     "Saturno": "6°Vir",
+     "Urano": "6°Sag",
+     "Neptuno": "4°Can",
+     "Plutón": "1°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2068": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Vir",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "15°Acu",
+     "Saturno": "18°Vir",
+     "Urano": "11°Sag",
+     "Neptuno": "6°Can",
+     "Plutón": "2°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2069": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Lib",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "22°Pis",
+     "Saturno": "0°Lib",
+     "Urano": "16°Sag",
+     "Neptuno": "8°Can",
+     "Plutón": "3°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2070": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Lib",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "26°Ari",
+     "Saturno": "12°Lib",
+     "Urano": "20°Sag",
+     "Neptuno": "10°Can",
+     "Plutón": "4°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2071": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Lib",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "26°Tau",
+     "Saturno": "25°Lib",
+     "Urano": "25°Sag",
+     "Neptuno": "12°Can",
+     "Plutón": "5°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2072": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "23°Gem",
+     "Saturno": "7°Esc",
+     "Urano": "29°Sag",
+     "Neptuno": "14°Can",
+     "Plutón": "6°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2073": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Esc",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "19°Can",
+     "Saturno": "19°Esc",
+     "Urano": "4°Cap",
+     "Neptuno": "17°Can",
+     "Plutón": "7°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.5
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2074": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Sag",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "14°Leo",
+     "Saturno": "1°Sag",
+     "Urano": "8°Cap",
+     "Neptuno": "19°Can",
+     "Plutón": "8°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2075": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Sag",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "9°Vir",
+     "Saturno": "13°Sag",
+     "Urano": "13°Cap",
+     "Neptuno": "21°Can",
+     "Plutón": "9°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2076": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "6°Lib",
+     "Saturno": "25°Sag",
+     "Urano": "17°Cap",
+     "Neptuno": "23°Can",
+     "Plutón": "11°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2077": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Cap",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "4°Esc",
+     "Saturno": "7°Cap",
+     "Urano": "21°Cap",
+     "Neptuno": "25°Can",
+     "Plutón": "12°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2078": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Cap",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "6°Sag",
+     "Saturno": "20°Cap",
+     "Urano": "26°Cap",
+     "Neptuno": "27°Can",
+     "Plutón": "13°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2079": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Acu",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "13°Cap",
+     "Saturno": "2°Acu",
+     "Urano": "0°Acu",
+     "Neptuno": "29°Can",
+     "Plutón": "14°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "2080": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Acu",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "21°Acu",
+     "Saturno": "14°Acu",
+     "Urano": "4°Acu",
+     "Neptuno": "2°Leo",
+     "Plutón": "15°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2081": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Acu",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "27°Pis",
+     "Saturno": "26°Acu",
+     "Urano": "8°Acu",
+     "Neptuno": "4°Leo",
+     "Plutón": "16°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2082": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Pis",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "0°Tau",
+     "Saturno": "9°Pis",
+     "Urano": "13°Acu",
+     "Neptuno": "6°Leo",
+     "Plutón": "17°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2083": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Pis",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "0°Gem",
+     "Saturno": "21°Pis",
+     "Urano": "17°Acu",
+     "Neptuno": "8°Leo",
+     "Plutón": "18°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2084": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Ari",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "27°Gem",
+     "Saturno": "4°Ari",
+     "Urano": "21°Acu",
+     "Neptuno": "10°Leo",
+     "Plutón": "19°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2085": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Ari",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "23°Can",
+     "Saturno": "16°Ari",
+     "Urano": "25°Acu",
+     "Neptuno": "12°Leo",
+     "Plutón": "20°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2086": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Ari",
+     "Urano": "Acu",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "18°Leo",
+     "Saturno": "28°Ari",
+     "Urano": "29°Acu",
+     "Neptuno": "14°Leo",
+     "Plutón": "21°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2087": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Tau",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "13°Vir",
+     "Saturno": "11°Tau",
+     "Urano": "3°Pis",
+     "Neptuno": "17°Leo",
+     "Plutón": "22°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2088": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Tau",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "10°Lib",
+     "Saturno": "23°Tau",
+     "Urano": "7°Pis",
+     "Neptuno": "19°Leo",
+     "Plutón": "23°Ari"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2089": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Gem",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "9°Esc",
+     "Saturno": "5°Gem",
+     "Urano": "11°Pis",
+     "Neptuno": "21°Leo",
+     "Plutón": "24°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2090": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Gem",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "11°Sag",
+     "Saturno": "18°Gem",
+     "Urano": "15°Pis",
+     "Neptuno": "23°Leo",
+     "Plutón": "25°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2091": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "18°Cap",
+     "Saturno": "0°Can",
+     "Urano": "19°Pis",
+     "Neptuno": "25°Leo",
+     "Plutón": "26°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2092": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "26°Acu",
+     "Saturno": "12°Can",
+     "Urano": "23°Pis",
+     "Neptuno": "27°Leo",
+     "Plutón": "27°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2093": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Pis",
+     "Neptuno": "Leo",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "2°Ari",
+     "Saturno": "25°Can",
+     "Urano": "27°Pis",
+     "Neptuno": "29°Leo",
+     "Plutón": "28°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2094": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Leo",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Ari"
+    },
+    "grados": {
+     "Júpiter": "4°Tau",
+     "Saturno": "7°Leo",
+     "Urano": "1°Ari",
+     "Neptuno": "2°Vir",
+     "Plutón": "29°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "2095": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "4°Gem",
+     "Saturno": "19°Leo",
+     "Urano": "5°Ari",
+     "Neptuno": "4°Vir",
+     "Plutón": "0°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2096": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "1°Can",
+     "Saturno": "1°Vir",
+     "Urano": "9°Ari",
+     "Neptuno": "6°Vir",
+     "Plutón": "1°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2097": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "13°Vir",
+     "Urano": "13°Ari",
+     "Neptuno": "8°Vir",
+     "Plutón": "2°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2098": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "21°Leo",
+     "Saturno": "25°Vir",
+     "Urano": "17°Ari",
+     "Neptuno": "10°Vir",
+     "Plutón": "3°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2099": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "17°Vir",
+     "Saturno": "7°Lib",
+     "Urano": "21°Ari",
+     "Neptuno": "12°Vir",
+     "Plutón": "4°Tau"
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "2100": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Lib",
+     "Urano": "Ari",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Lib",
+     "Saturno": "19°Lib",
+     "Urano": "25°Ari",
+     "Neptuno": "14°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     }
+    ]
+   }
+  }
  }
 };
