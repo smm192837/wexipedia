@@ -32777,7 +32777,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Abraham Flexner (Louisville, 1866 – Falls Church, 1959), educador estadounidense. Su informe de 1910 reformó la enseñanza médica en EE. UU.; fundó en 1930 el Instituto de Estudios Avanzados de Princeton.",
+    "resumen": "Abraham Flexner (Louisville, 13-11-1866 – Falls Church, 21-9-1959), educador estadounidense. Su informe de 1910, una evaluación crítica de las facultades de medicina de EE. UU. y Canadá, impulsó la reforma de la enseñanza médica; en 1930 fundó el Instituto de Estudios Avanzados de Princeton.",
     "fuentes": [
      {
       "titulo": "Britannica: Abraham Flexner",
@@ -33100,7 +33100,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nacido en A Coruña en 1967; físico y escritor, autor de la trilogía Nocilla y del ensayo Teoría general de la basura (2018). Vivo según las fuentes consultadas.",
+    "resumen": "Agustín Fernández Mallo (A Coruña, 1967), físico y escritor español que vive en Palma de Mallorca. Pertenece a la llamada Generación Nocilla, es autor de la trilogía Nocilla y del ensayo «Teoría general de la basura» (2018) y colabora con revistas culturales. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -33145,7 +33145,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alain Aspect (Agen, 1947), físico francés. Dirigió en Orsay los experimentos de 1982 sobre el entrelazamiento cuántico y los test de Bell; recibió el Nobel de Física en 2022, compartido con Clauser y Zeilinger.",
+    "resumen": "Alain Aspect (Agen, 15-6-1947), físico experimental francés. Dirigió en Orsay los experimentos de 1982 con fotones entrelazados y los test de Bell; recibió el Nobel de Física de 2022 junto con Anton Zeilinger y John Clauser.",
     "fuentes": [
      {
       "titulo": "Nobel Prize",
@@ -33442,7 +33442,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Aldous Huxley (1894-1963), escritor británico. Autor de «Contrapunto» (1928), «Un mundo feliz» (1932) y «Las puertas de la percepción» (1954); murió en Los Ángeles el 22-11-1963, el mismo día que Kennedy y C. S. Lewis.",
+    "resumen": "Aldous Leonard Huxley (Godalming, 26-7-1894 – Los Ángeles, 22-11-1963), escritor y filósofo británico de una familia de intelectuales. Criticó en sus novelas y ensayos las convenciones sociales de su tiempo; autor de «Contrapunto» (1928), «Un mundo feliz» (1932) y «Las puertas de la percepción» (1954).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Aldous Huxley",
@@ -33675,7 +33675,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alexander Caedmon Karp, nacido en Nueva York el 2-10-1967; doctor en teoría social por la Universidad Goethe de Fráncfort y cofundador y consejero delegado de Palantir. Vivo según las fuentes consultadas.",
+    "resumen": "Alexander Karp (Nueva York, 2-10-1967), empresario estadounidense, cofundador y consejero delegado de Palantir Technologies. Estudió derecho en Stanford y se doctoró en teoría social en la Universidad Goethe de Fráncfort; antes fundó la gestora Caedmon Group.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -33886,7 +33886,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alois Brunner (8-4-1912 – Damasco, c. 2001 o c. 2010), comandante del campo de Drancy; huyó a Egipto y después a Siria, donde murió sin ser juzgado.",
+    "resumen": "Alois Brunner (8-4-1912 – c. 2001 o c. 2010), capitán de las SS y mano derecha de Eichmann. Organizó deportaciones de judíos de Austria, Grecia, Francia y Eslovaquia (más de 100.000 personas) y fue comandante del campo de Drancy de junio de 1943 a agosto de 1944. Huyó a Egipto y después a Siria, donde murió sin ser juzgado.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -33930,12 +33930,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nacido en Wurzburgo el 16-12-1941, hijo de Karl; jefe de la casa desde 1990. Vivo según las fuentes consultadas.",
+    "resumen": "Alois Konstantin zu Löwenstein-Wertheim-Rosenberg (Würzburgo, 16-12-1941), empresario alemán y jefe, desde 1990, de la casa de Löwenstein-Wertheim-Rosenberg, la línea católica de los príncipes de Löwenstein. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alois-Konstantin,_Prince_of_L%C3%B6wenstein-Wertheim-Rosenberg",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Alois Konstantin zu Löwenstein-Wertheim-Rosenberg",
+      "url": "https://en.wikipedia.org/wiki/Alois_Konstantin_zu_Löwenstein-Wertheim-Rosenberg",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -33977,7 +33982,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Príncipe Ali Khan (Turín, 1911 – París, 1960), hijo del Aga Khan III. Fue diplomático pakistaní, representante ante la ONU y vicepresidente de la Asamblea General en 1958; estuvo casado con Rita Hayworth entre 1949 y 1953.",
+    "resumen": "Aly Khan (13-6-1911 – 12-5-1960), hijo del Aga Khan III y padre de Karim, el Aga Khan IV. Fue representante permanente de Pakistán ante la ONU; casó con la actriz Rita Hayworth. No heredó el título de Aga Khan.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -34141,7 +34146,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anatoli Vasílievich Lunacharski (Poltava, 1875 – Menton, 1933), político y escritor ruso. Primer comisario del Pueblo de Educación (1917-1929), impulsó la alfabetización y la política cultural soviética.",
+    "resumen": "Anatoli Vasílievich Lunacharski (Poltava, 23-11-1875 – Menton, 26-12-1933), dramaturgo, crítico literario y político comunista soviético. Fue el primer comisario del Pueblo de Educación (1917-1929).",
     "fuentes": [
      {
       "titulo": "Freemasonry.bcy.ca: Russian masons",
@@ -34189,12 +34194,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "André Marie Jean-Jacques Dupin (1783–1865), abogado y político francés, procurador general en 1830–1852 y 1857–1865.",
+    "resumen": "André Marie Jean Jacques Dupin, llamado Dupin el Mayor (Varzy, 1-2-1783 – 8-11-1865), abogado y político francés. Presidió la Cámara de Diputados y la Asamblea Legislativa, y fue procurador general en 1830-1852 y 1857-1865.",
     "fuentes": [
      {
       "titulo": "Photo12 / Ann Ronan Picture Library",
       "url": "https://www.photo12.com/en/image/arp18a08_406",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: André Marie Jean Jacques Dupin",
+      "url": "https://en.wikipedia.org/wiki/André_Marie_Jean_Jacques_Dupin",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34716,7 +34726,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Arthur James Balfour (1848-1930) fue primer ministro británico (1902-1905) y ministro de Exteriores (1916-1919). En 1917 firmó la declaración que lleva su nombre, favorable a un hogar nacional judío en Palestina.",
+    "resumen": "Arthur James Balfour (25-7-1848 – 19-3-1930), político escocés y I conde de Balfour, de formación filosófica; diputado desde 1874. Fue primer ministro británico (1902-1905) y ministro de Exteriores (1916-1919); en 1917 firmó la declaración que lleva su nombre.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Arthur Balfour",
@@ -35387,12 +35397,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Bernardo de Lippe-Biesterfeld (Jena, 29-6-1911 – Utrecht, 1-12-2004), marido de la reina Juliana; impulsó la conferencia Bilderberg en 1954 y fue el primer presidente de WWF. Implicado en 1976 en el escándalo Lockheed.",
+    "resumen": "Bernardo de Lippe-Biesterfeld (Jena, 29-6-1911 – Utrecht, 1-12-2004), príncipe consorte de los Países Bajos por su matrimonio con la reina Juliana y padre de la reina Beatriz. Impulsó la conferencia Bilderberg en 1954.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/62514",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Bernardo de Lippe-Biesterfeld",
+      "url": "https://es.wikipedia.org/wiki/Bernardo_de_Lippe-Biesterfeld",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -35798,7 +35813,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Carlos Martel (c. 688 – 741), mayordomo de palacio de los francos de Austrasia. Venció a los musulmanes en Poitiers (732), reunificó el reino y gobernó de hecho sobre los reyes merovingios; fue padre de Pipino el Breve.",
+    "resumen": "Carlos Martel (Herstal, c. 686 – Quierzy-sur-Oise, octubre de 741), jefe militar franco, duque y príncipe de los francos y mayordomo de palacio de Austrasia desde 715; gobernó de hecho el reino. Venció a los musulmanes en Poitiers (732).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -36315,12 +36330,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Cristián I de Anhalt-Bernburg (Bernburg, 11-5-1568 – 17-4-1630), consejero principal del Palatinado y de Federico V; mandó en la batalla de la Montaña Blanca.",
+    "resumen": "Cristián I de Anhalt-Bernburg (11-5-1568 – 17-4-1630), príncipe de la casa de Ascania, gobernante de Anhalt-Bernburg desde 1603. Fue gobernador del Alto Palatinado desde 1595 y consejero principal de los electores palatinos Federico IV y Federico V; mandó en la batalla de la Montaña Blanca.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Christian_I,_Prince_of_Anhalt-Bernburg",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Christian I of Anhalt-Bernburg",
+      "url": "https://en.wikipedia.org/wiki/Christian_I_of_Anhalt-Bernburg",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -36751,7 +36771,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo griego de Abdera (c. 460 – c. 370 a. C.), con Leucipo el principal atomista antiguo: solo existen átomos y vacío. Se le atribuyen obras de ética y de física que se conservan en fragmentos.",
+    "resumen": "Demócrito de Abdera (c. 460 – c. 370 a. C.), filósofo y polímata griego, discípulo de Leucipo y maestro de Protágoras. Fundó el atomismo con Leucipo: el universo está hecho solo de átomos y vacío. Sus obras de ética y de física se conservan en fragmentos.",
     "fuentes": [
      {
       "titulo": "Biografías y Vidas",
@@ -38023,7 +38043,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Emil Ludwig (Breslau, 1881 – Moscia, 1948), escritor y biógrafo alemán, nacionalizado suizo. Autor de biografías de Goethe, Napoleón, Bismarck y Mussolini; entrevistó a Mussolini en 1932.",
+    "resumen": "Emil Ludwig (Breslavia, 25-1-1881 – Moscia, cerca de Ascona, 17-9-1948), escritor y biógrafo alemán de origen judío, nacionalizado suizo. Famoso por sus biografías psicológicas de figuras históricas como Beethoven, Bismarck, Goethe, Napoleón y Mussolini.",
     "fuentes": [
      {
       "titulo": "Furr: nota sobre la conversación Stalin-Ludwig",
@@ -38544,7 +38564,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "María Eva Duarte de Perón (Los Toldos, 1919 – Buenos Aires, 1952), actriz y primera dama argentina. Esposa de Juan Domingo Perón, impulsó el voto femenino (1947) y la Fundación Eva Perón; murió de cáncer a los 33 años.",
+    "resumen": "María Eva Duarte de Perón, Evita (Los Toldos, 7-5-1919 – Buenos Aires, 26-7-1952), actriz y política argentina. Fue primera dama de 1946 a su muerte como esposa del presidente Juan Domingo Perón y figura destacada del peronismo; impulsó el voto femenino.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Eva Perón",
@@ -39075,7 +39095,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fernando Vázquez de Menchaca (Valladolid, 1512 – Sevilla, 1569), jurista de Felipe II; Grocio lo cita en De iure belli ac pacis.",
+    "resumen": "Fernando Vázquez de Menchaca (probablemente Valladolid, 1512 – 1569), jurista español. Estudió derecho en Valladolid y Salamanca, donde se graduó hacia 1548, y fue juez y funcionario, también en la corte de Felipe II. Grocio lo cita en «De iure belli ac pacis».",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -39504,7 +39524,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francisco Fernando de Habsburgo-Este (1863-1914), archiduque de Austria y heredero del trono austrohúngaro, fue asesinado en Sarajevo el 28 de junio de 1914; su muerte desencadenó la crisis que llevó a la Primera Guerra Mundial.",
+    "resumen": "Francisco Fernando de Habsburgo-Este (Graz, 18-12-1863 – Sarajevo, 28-6-1914), archiduque de Austria y, desde 1896, heredero del trono austrohúngaro. Su asesinato en Sarajevo el 28 de junio de 1914 desencadenó la crisis que llevó a la Primera Guerra Mundial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Francisco Fernando de Austria",
@@ -39661,7 +39681,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "François Hotman (1524-1590), jurista hugonote francés. Autor de «Francogallia» (1573), obra que defendía la monarquía limitada y el derecho de los pueblos frente al rey.",
+    "resumen": "François Hotman (23-8-1524 – 12-2-1590), jurista hugonote francés, vinculado al humanismo jurídico y a los monarcómacos, opositores de la monarquía absoluta. Autor de «Francogallia» (1573), que defendía la monarquía limitada y el derecho de los pueblos.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -39709,7 +39729,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "François Quesnay (Méré, 1694 – Versalles, 1774), médico de Luis XV y economista francés, fundador de la fisiocracia. Publicó el «Tableau économique» (1758), una de las primeras representaciones del flujo circular de la renta.",
+    "resumen": "François Quesnay (Méré, 4-6-1694 – Versalles, 16-12-1774), médico de Luis XV y economista francés, fundador de la fisiocracia. En 1758 publicó el «Tableau économique», quizá el primer intento de describir de forma analítica el funcionamiento de la economía.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -39801,7 +39821,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo y psicólogo alemán (1838-1917), sacerdote católico que abandonó el sacerdocio. Fue profesor de Freud en Viena y de Husserl; su psicología descriptiva y la tesis de la intencionalidad influyeron en la fenomenología.",
+    "resumen": "Franz Brentano (16-1-1838 – 17-3-1917), filósofo y psicólogo alemán, sacerdote católico que abandonó el sacerdocio. Su «Psicología desde un punto de vista empírico» (1874) reintrodujo en la filosofía contemporánea el concepto escolástico de intencionalidad. Fue profesor de Freud en Viena y de Husserl.",
     "fuentes": [
      {
       "titulo": "Stanford Encyclopedia of Philosophy: Franz Brentano",
@@ -40145,7 +40165,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gavrilo Princip (1894-1918), serbobosnio de la Joven Bosnia, asesinó el 28 de junio de 1914 en Sarajevo al archiduque Francisco Fernando y a su esposa. Murió en prisión en 1918. La Joven Bosnia no era una organización mazziniana.",
+    "resumen": "Gavrilo Princip (25-7-1894 – 28-4-1918), serbobosnio de la Joven Bosnia, organización que buscaba acabar con el dominio austrohúngaro en Bosnia y Herzegovina. A los 19 años asesinó en Sarajevo, el 28 de junio de 1914, al archiduque Francisco Fernando y a su esposa.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Gavrilo Princip",
@@ -40255,7 +40275,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Historiador británico nacido en 1943, especialista en la España de Felipe II y en la guerra de los Treinta Años. Vivo según las fuentes consultadas.",
+    "resumen": "Noel Geoffrey Parker (25-12-1943), historiador inglés especializado en la Europa occidental y España de la Edad Moderna y en la guerra de esa época; su libro más conocido es «La revolución militar» (1988). Estudió la España de Felipe II y la guerra de los Treinta Años. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -40739,12 +40759,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Giovanni Diodati (Ginebra, 3-6-1576 – 1649), traductor de la Biblia al italiano (1607) y de la Historia del Concilio de Trento; trabajó con Sarpi, Wotton, Carleton y Duplessis-Mornay.",
+    "resumen": "Giovanni Diodati (Ginebra, 3-6-1576 – 3-10-1649), teólogo calvinista italiano. Su traducción de la Biblia al italiano (1607), hecha de los textos hebreo, griego, latino y siríaco, fue la versión de referencia de los protestantes italianos; también tradujo la Historia del Concilio de Trento y trabajó con Sarpi.",
     "fuentes": [
      {
       "titulo": "Place for Truth",
       "url": "https://placefortruth.org/?p=1297",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Giovanni Diodati",
+      "url": "https://en.wikipedia.org/wiki/Giovanni_Diodati",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40787,7 +40812,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Giovanni Francesco Sagredo (Venecia, 19-6-1571 – 5-3-1620), amigo de Galileo y personaje de sus Diálogos; Sarpi lo confesó al morir.",
+    "resumen": "Giovanni Francesco Sagredo (Venecia, 19-6-1571 – 5-3-1620), matemático veneciano, amigo de Galileo y corresponsal de William Gilbert. Aparece como personaje en el «Diálogo sobre los dos máximos sistemas del mundo» (1632); Sarpi lo confesó al morir.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -40838,7 +40863,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Físico teórico italiano (1942-2000), investigador en teoría cuántica de campos. Con Emilio Del Giudice desarrolló el modelo de los dominios de coherencia (DQC), aplicado después al agua y a los sistemas biológicos.",
+    "resumen": "Giuliano Preparata (Padua, 10-3-1942 – Frascati, 24-4-2000), físico teórico italiano, investigador en teoría cuántica de campos. Con Emilio Del Giudice desarrolló el modelo de los dominios de coherencia.",
     "fuentes": [
      {
       "titulo": "MDPI Entropy 2014, 16(9), 4874",
@@ -41242,7 +41267,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Guillermo de Gellone o de Tolosa (c. 755 – c. 812/814), conde de Tolosa y primo de Carlomagno; se retiró como monje y fue canonizado.",
+    "resumen": "Guillermo de Gellone o de Tolosa (c. 755 – 28-5-812 o 814), segundo duque de Tolosa de 790 a 811 y primo de Carlomagno. Fundó en 804 la abadía de Gellone, donde se retiró como monje; el papa Alejandro II lo canonizó en 1066.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -41605,7 +41630,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Halfdan Theodor Mahler (1923-2016), médico danés, director general de la OMS de 1973 a 1988. Impulsó la estrategia de «salud para todos en el año 2000» y la atención primaria (Declaración de Alma-Ata, 1978).",
+    "resumen": "Halfdan Theodor Mahler (21-4-1923 – 14-12-2016), médico danés, director general de la OMS durante tres mandatos (1973-1988). Conocido por su lucha contra la tuberculosis y por la Declaración de Alma-Ata, que fijó la estrategia de «salud para todos en el año 2000».",
     "fuentes": [
      {
       "titulo": "OMS: fallece Halfdan Mahler",
@@ -42109,12 +42134,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Heinrich Müller (Múnich, 28-4-1900 – desaparecido en Berlín en mayo de 1945), jefe de la Gestapo; nunca se encontró su cadáver y se le da por muerto en 1945.",
+    "resumen": "Heinrich Müller (Múnich, 28-4-1900 – desaparecido en Berlín en mayo de 1945), general de división de las SS, llamado «Gestapo Müller». Dirigió la Sección IV de la RSHA, es decir, la Gestapo, de 1939 hasta el final de la guerra; nunca se encontró su cadáver.",
     "fuentes": [
      {
       "titulo": "Historica Wiki",
       "url": "https://historica.fandom.com/wiki/Heinrich_Mueller",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Heinrich Müller",
+      "url": "https://es.wikipedia.org/wiki/Heinrich_Müller",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -44097,7 +44127,7 @@ window.CRONO = {
    "estado": "aprobado",
    "vivo": true,
    "oficial": {
-    "resumen": "Jaime Caruana (Valencia, 14-3-1952), economista español; gobernador del Banco de España de julio de 2000 a julio de 2006 y director general del BPI del 1-4-2009 al 30-11-2017.",
+    "resumen": "Jaime Caruana (Valencia, 14-3-1952), economista español. Fue gobernador del Banco de España de julio de 2000 a julio de 2006 y director general del Banco de Pagos Internacionales (BPI) del 1-4-2009 al 30-11-2017.",
     "fuentes": [
      {
       "titulo": "BPI: Jaime Caruana, antiguo director general",
@@ -46045,7 +46075,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Juan de Inglaterra (1166-1216), rey desde 1199. Perdió Normandía ante Felipe II de Francia, se enfrentó al papado (interdicto de 1208) y en 1215 concedió la Carta Magna; murió en 1216 durante la guerra civil.",
+    "resumen": "Juan I de Inglaterra, Juan sin Tierra (24-12-1166 – 19-10-1216), rey desde 1199. Perdió Normandía y gran parte de Aquitania ante Felipe II de Francia, se enfrentó al papado (interdicto de 1208) y en 1215 concedió la Carta Magna; murió durante la guerra civil.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -46837,12 +46867,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leonardo Donà dalle Rose (1536–1612), dux durante el interdicto de 1606–1607, cuando Sarpi fue el consultor teológico de la República.",
+    "resumen": "Leonardo Donà o Donato (Venecia, 12-2-1536 – 16-7-1612), dux de Venecia desde el 10-1-1606 hasta su muerte. Su gobierno se recuerda sobre todo por la disputa con el papa Pablo V, que decretó el interdicto de 1606 contra la República; Paolo Sarpi fue entonces el consultor teológico de Venecia.",
     "fuentes": [
      {
       "titulo": "National Gallery of Art (CASVA)",
       "url": "https://nga.gov/research/casva/research-projects/research-reports-archive/ceriani-sebregondi-2017-2018.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Leonardo Donato",
+      "url": "https://es.wikipedia.org/wiki/Leonardo_Donato",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46941,7 +46976,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leopoldo I (1640-1705), emperador del Sacro Imperio Romano Germánico desde 1658, rey de Hungría y Bohemia. Durante su reinado, Viena fue liberada del asedio otomano en 1683.",
+    "resumen": "Leopoldo I de Habsburgo (Viena, 9-6-1640 – 5-5-1705), rey de Hungría desde 1655, de Bohemia desde 1656 y emperador del Sacro Imperio Romano Germánico desde 1658 hasta su muerte. En su reinado Viena resistió el sitio otomano de 1683.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Leopoldo I",
@@ -46988,7 +47023,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leopoldo Torlonia (1853–1918), duque de Poli y Guadagnolo, diputado y alcalde de Roma; fue destituido como alcalde en 1887. El escándalo de la Banca Romana estalló en 1893.",
+    "resumen": "Leopoldo Torlonia (25-7-1853 – 23-10-1918), noble y político italiano, tercer duque de Poli y Guadagnolo, hermano de Marino Torlonia y tío de Alessandro Torlonia (5.º príncipe de Civitella-Cesi). Fue alcalde de Roma de mayo de 1882 a mayo de 1887, año en que fue destituido.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -47865,7 +47900,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ambrosio Teodosio Macrobio (c. 370 – c. 430), gramático y filósofo romano. Autor de las «Saturnales» y del comentario al «Sueño de Escipión» de Cicerón, transmisor del neoplatonismo a la Edad Media.",
+    "resumen": "Ambrosio Teodosio Macrobio (activo hacia el año 400), gramático y escritor neoplatónico romano de la que se sabe poco con certeza. Autor de las «Saturnales» y del comentario al «Sueño de Escipión».",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -49651,7 +49686,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nicholas Goodrick-Clarke (Lincoln, 15-1-1953 – Torquay, 29-8-2012), profesor de esoterismo occidental en Exeter y autor de Las raíces ocultistas del nazismo.",
+    "resumen": "Nicholas Goodrick-Clarke (Lincoln, 15-1-1953 – Torquay, 29-8-2012), historiador británico y profesor de esoterismo occidental en la Universidad de Exeter. Autor de varios libros académicos sobre la historia del ocultismo en el nazismo, entre ellos «Las raíces ocultas del nazismo» (1985) y «Black Sun» sobre el neonazismo esotérico.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -50075,7 +50110,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundador de la Unión Británica de Fascistas (1932); tras la guerra creó el Union Movement (1948) y defendió la unidad europea.",
+    "resumen": "Oswald Mosley (Mayfair, Londres, 16-11-1896 – Orsay, 3-12-1980), sexto baronet y político británico; fundador de la Unión Británica de Fascistas (1932). Tras la guerra creó el Union Movement (1948) y defendió la unidad europea.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Oswald Mosley",
@@ -50934,7 +50969,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Parménides de Elea (c. 515 – c. 450 a. C.), filósofo griego, fundador de la escuela eleática. Expuso su pensamiento en un poema en hexámetros: el ser es y el no-ser no es, y el cambio es apariencia.",
+    "resumen": "Parménides de Elea (nacido entre 530 y 515 a. C. en la colonia griega de Elea, en el sur de Italia; murió c. 450 a. C.), filósofo griego, fundador de la escuela eleática. Escribió una sola obra, un poema filosófico en verso épico del que solo se conservan fragmentos: el ser es y el no-ser no es, y el cambio es apariencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -52048,7 +52083,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Platón (c. 428/427 – 348/347 a. C.), filósofo ateniense, discípulo de Sócrates y maestro de Aristóteles. Fundó la Academia y escribió diálogos como «La República», el «Fedón» y el «Timeo», con la teoría de las ideas.",
+    "resumen": "Platón (Atenas o Egina, c. 427 – 347 a. C.), filósofo griego, seguidor de Sócrates y maestro de Aristóteles. Autor de los «Diálogos», fundó en 387 a. C. la Academia de Atenas, que duró más de novecientos años.",
     "fuentes": [
      {
       "titulo": "EcuRed",
