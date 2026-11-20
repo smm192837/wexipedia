@@ -35541,7 +35541,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Psiquiatra suizo (1875–1961), discípulo y luego disidente de Freud; desarrolló los conceptos de inconsciente colectivo, arquetipo e individuación.",
+    "resumen": "Carl Gustav Jung (Kesswil, 26-7-1875 – Küsnacht, 6-6-1961), psiquiatra suizo, fue colaborador de Freud hasta su ruptura en 1913. Fundó la psicología analítica y desarrolló los conceptos de inconsciente colectivo, arquetipo y tipos psicológicos (1921).",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -36439,12 +36439,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico teórico (20-12-1917 – 27-10-1992), autor de una interpretación causal y no local de la mecánica cuántica y de Totalidad y el orden implicado (1980).",
+    "resumen": "David Bohm (Wilkes-Barre, 20-12-1917 – Londres, 27-10-1992), físico teórico estadounidense, propuso una interpretación causal de la mecánica cuántica con variables ocultas (1952). Tras negarse a declarar ante el Comité de Actividades Antiamericanas perdió su puesto y trabajó en Brasil, Israel y Reino Unido; expuso su visión del «orden implicado» en «La totalidad y el orden implicado» (1980).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/71634",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: David Bohm",
+      "url": "https://es.wikipedia.org/wiki/David_Bohm",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -36930,12 +36935,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Donald Henry Rumsfeld (1932–2021), secretario de Defensa con Ford (1975–1977) y con George W. Bush (2001–2006), durante las guerras de Afganistán e Irak.",
+    "resumen": "Donald Rumsfeld (Evanston, 9-7-1932 – Taos, 29-6-2021) fue secretario de Defensa con Gerald Ford (1975-1977), el más joven hasta entonces, y con George W. Bush (2001-2006). Defendió la invasión de Irak de 2003 y dimitió tras las elecciones legislativas de noviembre de 2006.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Donald_Rumsfeld",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Donald Rumsfeld",
+      "url": "https://es.wikipedia.org/wiki/Donald_Rumsfeld",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -37813,12 +37823,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Eleanor Roosevelt (1884–1962), esposa de F. D. Roosevelt, presidió la comisión que redactó la Declaración Universal de Derechos Humanos (1948).",
+    "resumen": "Eleanor Roosevelt (Nueva York, 11-10-1884 – 7-11-1962) fue primera dama de EE. UU. de 1933 a 1945 y delegada ante la ONU. Presidió la Comisión de Derechos Humanos que redactó la Declaración Universal, aprobada el 10-12-1948.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Eleanor Roosevelt",
+      "url": "https://es.wikipedia.org/wiki/Eleanor_Roosevelt",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -41435,7 +41450,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritor británico (1866-1946), autor de La guerra de los mundos y La isla del doctor Moreau; militante fabiano y defensor de un gobierno mundial.",
+    "resumen": "H. G. Wells (Bromley, 21-9-1866 – Londres, 13-8-1946), escritor británico, autor de «La máquina del tiempo» (1895), «La isla del doctor Moreau» (1896), «El hombre invisible» (1897) y «La guerra de los mundos» (1898). Fue miembro de la Sociedad Fabiana (1903-1908) y defendió en ensayos políticos, como «The New World Order» (1940), un gobierno mundial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
@@ -41936,12 +41951,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Heinrich Himmler (7-10-1900 – 23-5-1945), Reichsführer de las SS y jefe de la policía alemana; se suicidó tras ser capturado por los británicos.",
+    "resumen": "Heinrich Himmler (Múnich, 7-10-1900 – Lüneburg, 23-5-1945) fue Reichsführer de las SS desde 1929, jefe de la policía alemana desde 1936 y ministro del Interior desde 1943. Organizó el sistema de campos de concentración y exterminio y fue uno de los principales responsables del Holocausto. Capturado por los británicos, se suicidó con cianuro.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://www.wikipedia.com/wiki/Holocaust_perpetrators",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Heinrich Himmler",
+      "url": "https://es.wikipedia.org/wiki/Heinrich_Himmler",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42934,7 +42954,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Religioso vasco (1491–1556), fundador de la Compañía de Jesús. Organizó un sistema regular de cartas e informes entre los jesuitas y su superior en Roma.",
+    "resumen": "Ignacio de Loyola (Loyola, Azpeitia, 1491 – Roma, 31-7-1556) fue herido en el sitio de Pamplona en 1521 y se dedicó después a la vida religiosa. Redactó los «Ejercicios espirituales», fundó con sus compañeros la Compañía de Jesús (1534), aprobada por Pablo III en 1540, y fue su primer general. Fue canonizado en 1622.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Ignacio de Loyola",
@@ -46076,7 +46096,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo y esoterista italiano, referente del tradicionalismo y de la extrema derecha de posguerra; autor de «Los hombres y las ruinas» (1953).",
+    "resumen": "Julius Evola (Roma, 19-5-1898 – 11-6-1974), filósofo y esoterista italiano, autor de «Imperialismo pagano» (1928), «Rebelión contra el mundo moderno» (1934) y «Los hombres y las ruinas» (1953). Su tradicionalismo influyó en la extrema derecha italiana de la posguerra.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Julius Evola",
@@ -52801,7 +52821,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Robert Koch (11-12-1843, Clausthal – 27-5-1910, Baden-Baden) descubrió el bacilo de la tuberculosis (1882) y recibió el Nobel de Medicina en 1905.",
+    "resumen": "Robert Koch (Clausthal, 11-12-1843 – Baden-Baden, 27-5-1910) anunció en 1882 el descubrimiento del bacilo de la tuberculosis y en 1883-1884 el del vibrión del cólera. Formuló los postulados que llevan su nombre para relacionar un microbio con una enfermedad y recibió el Nobel de Medicina en 1905.",
     "fuentes": [
      {
       "titulo": "Nobel Prize: Robert Koch, datos",
@@ -52812,6 +52832,11 @@ window.CRONO = {
       "titulo": "Instituto Robert Koch: cronología",
       "url": "https://www.rki.de/EN/Content/Institute/History/rk_cv_en.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Robert Koch",
+      "url": "https://es.wikipedia.org/wiki/Robert_Koch",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54184,12 +54209,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Iósif Vissariónovich Dzhugashvili (Gori, 18-12-1878 – Moscú, 5-3-1953), máximo dirigente soviético desde mediados de los años veinte hasta su muerte.",
+    "resumen": "Iósif Stalin (Iósif Dzhugashvili; Gori, 18-12-1878 – Moscú, 5-3-1953) fue secretario general del Partido Comunista soviético desde 1922 y máximo dirigente de la URSS hasta su muerte. Impulsó la colectivización y la industrialización forzosas, dirigió la Gran Purga (1936-1938), firmó el pacto con Alemania en 1939 y llevó a la URSS a la victoria en la Segunda Guerra Mundial. Jruschov denunció su culto a la personalidad en 1956.",
     "fuentes": [
      {
       "titulo": "EcuRed",
       "url": "https://www.ecured.cu/Iósif_Stalin",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Iósif Stalin",
+      "url": "https://es.wikipedia.org/wiki/Iósif_Stalin",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -55918,12 +55948,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "William Harvey (Folkestone, 1578 – Londres, 1657), estudió en Padua y publicó De motu cordis (1628), que describe la circulación de la sangre.",
+    "resumen": "William Harvey (Folkestone, 1-4-1578 – Londres, 3-6-1657) estudió en Padua y fue médico de Jacobo I y Carlos I. En 1628 publicó «De motu cordis», donde describió la circulación de la sangre.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/William-Harvey",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: William Harvey",
+      "url": "https://es.wikipedia.org/wiki/William_Harvey",
+      "consultado": "2026-11-20"
      }
     ]
    },
