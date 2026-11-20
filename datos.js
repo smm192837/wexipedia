@@ -40299,7 +40299,7 @@ window.CRONO = {
     "hasta": null,
     "fuente": "oficial"
    },
-   "resumen": "Bioingeniero estadounidense que propone el agua EZ.",
+   "resumen": "Bioingeniero estadounidense, profesor en la Universidad de Washington; conocido por su tesis de la «cuarta fase» del agua (agua EZ) y por sus libros sobre el agua celular, difundidos sobre todo fuera de la ciencia académica mayoritaria.",
    "segun": [
     {
      "autor": "artur-sala",
