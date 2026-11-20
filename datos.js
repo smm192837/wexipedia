@@ -17968,11 +17968,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "The Shape of Things to Come (1933), novela de H. G. Wells que anticipa la historia futura hasta 2106. Pendiente de contrastar los detalles.",
+    "resumen": "The Shape of Things to Come (1933), novela de ciencia ficción de H. G. Wells; narra la historia futura hasta 2106 y la reconstrucción del mundo tras una guerra.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
-      "url": "https://es.wikipedia.org/wiki/H._G._Wells"
+      "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -20000,11 +20001,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nineteen Eighty-Four (1949), novela distópica de George Orwell. Pendiente de contrastar el vínculo con la Sociedad Fabiana.",
+    "resumen": "Nineteen Eighty-Four (1949), novela distópica de George Orwell; ambientada en un Estado totalitario que controla la información y la vida privada. Orwell la escribió como crítica del totalitarismo; no hay prueba de que refleje un plan de la Sociedad Fabiana.",
     "fuentes": [
      {
       "titulo": "Wikipedia: 1984 (novela)",
-      "url": "https://es.wikipedia.org/wiki/1984_(novela)"
+      "url": "https://es.wikipedia.org/wiki/1984_(novela)",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -21028,11 +21030,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Brave New World (1932), novela distópica de Aldous Huxley. Pendiente de contrastar el vínculo con la Sociedad Fabiana.",
+    "resumen": "Brave New World (1932), novela distópica de Aldous Huxley; sociedad futura organizada por castas y condicionamiento biológico. No hay prueba de que Huxley la escribiera como plan de la Sociedad Fabiana.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Un mundo feliz",
-      "url": "https://es.wikipedia.org/wiki/Un_mundo_feliz"
+      "url": "https://es.wikipedia.org/wiki/Un_mundo_feliz",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -21591,11 +21594,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "The New World Order (1940), ensayo de H. G. Wells a favor de una federación mundial; defendió una declaración de derechos. Pendiente de contrastar su influencia en la Declaración de 1948.",
+    "resumen": "The New World Order (1940), ensayo de H. G. Wells a favor de una federación mundial y una declaración de derechos. Influyó en el debate de posguerra, pero no consta que inspirara directamente la Declaración de 1948.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
-      "url": "https://es.wikipedia.org/wiki/H._G._Wells"
+      "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -30866,11 +30870,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "A Modern Utopia (1905), novela utópica de H. G. Wells con una nobleza voluntaria («samurais»). Pendiente de contrastar los detalles.",
+    "resumen": "A Modern Utopia (1905), novela utópica de H. G. Wells; un mundo gobernado por una élite voluntaria, los «samuráis».",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
-      "url": "https://es.wikipedia.org/wiki/H._G._Wells"
+      "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -33265,8 +33270,8 @@ window.CRONO = {
    "id": "aldous-huxley",
    "tipo": "persona",
    "titulo": "Aldous Huxley",
-   "carril": "ciencia-saber",
-   "naturaleza": "filosofia",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
    "temas": [],
    "fecha": {
     "desde": 1894,
@@ -33301,11 +33306,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Aldous Huxley, escritor y ensayista británico (1894–1963), hermano de Julian y nieto de Thomas Henry Huxley. Pendiente de contrastar su pertenencia a la Sociedad Fabiana y el origen del audio.",
+    "resumen": "Escritor y ensayista británico (1894-1963), autor de Un mundo feliz (1932). No consta que perteneciera a la Sociedad Fabiana.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Aldous Huxley",
-      "url": "https://es.wikipedia.org/wiki/Aldous_Huxley"
+      "url": "https://es.wikipedia.org/wiki/Aldous_Huxley",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -33332,7 +33338,7 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
-   "vista": "ciencia"
+   "vista": "politica"
   },
   {
    "id": "aleister-crowley",
@@ -41132,11 +41138,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "H. G. Wells, escritor británico (1866–1946), autor de La guerra de los mundos y La isla del doctor Moreau. Pendiente de contrastar su pertenencia a la Sociedad Fabiana y su papel en los derechos humanos.",
+    "resumen": "Escritor británico (1866-1946), autor de La guerra de los mundos y La isla del doctor Moreau; militante fabiano y defensor de un gobierno mundial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
-      "url": "https://es.wikipedia.org/wiki/H._G._Wells"
+      "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -49443,11 +49450,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Orson Welles, actor, director y productor estadounidense (1915–1985). Pendiente de contrastar la afirmación de que fuera francmasón.",
+    "resumen": "Actor, director y productor estadounidense (1915-1985), conocido por Citizen Kane y la emisión de La guerra de los mundos (1938). No consta que fuera francmasón.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orson Welles",
-      "url": "https://es.wikipedia.org/wiki/Orson_Welles"
+      "url": "https://es.wikipedia.org/wiki/Orson_Welles",
+      "consultado": "2026-11-20"
      }
     ]
    },
