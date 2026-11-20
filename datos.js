@@ -302,10 +302,10 @@ window.CRONO = {
      "tipo": "video",
      "referencia": "Vídeo del canal de Jorge Guerra; título y URL no constan en la transcripción aportada por smiguel1 el 2026-11-20. Minutajes aproximados de la transcripción.",
      "url": null,
-     "estado": "en-proceso",
+     "estado": "procesada",
      "fecha": "2026-11-20",
      "duracion": "12:33 (transcripción)",
-     "resumen": "Monólogo de Jorge Guerra sobre el origen de la psicología moderna y su uso como control social: Brentano como semilla, Freud y el psicoanálisis, Tavistock y Bernays. Sostiene que estos cuatro aparatos construyen el «diván» donde se nos analiza y se nos aplica la terapia, y cierra llamando a derribar los esquemas mentales inyectados. Tesis del autor, pendiente de contraste."
+     "resumen": "Monólogo de Jorge Guerra sobre el origen de la psicología moderna y su uso como control social: Brentano como semilla, Freud y el psicoanálisis, Tavistock y Bernays. Sostiene que estos cuatro aparatos construyen el «diván» donde se nos analiza y se nos aplica la terapia, y cierra llamando a derribar los esquemas mentales inyectados. Procesado en cinco fichas: las cuatro estaciones y la tesis de las «cuatro cárceles»."
     }
    ]
   },
@@ -7045,6 +7045,54 @@ window.CRONO = {
     {
      "id": "gran-imperio-mongol-horda-rusa",
      "nota": ""
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "politica"
+  },
+  {
+   "id": "committee-on-public-information",
+   "tipo": "hecho",
+   "titulo": "Committee on Public Information (CPI)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1917,
+    "hasta": 1919,
+    "fuente": "oficial"
+   },
+   "resumen": "Agencia de propaganda del gobierno de Wilson durante la Primera Guerra Mundial, dirigida por George Creel.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "paradigma-freud-tavistock-bernays",
+     "ubicacion": "7:42–8:22 (transcripción)",
+     "url": null,
+     "resumen": "Sostiene que Bernays y Lippmann llevaron a Wilson a crear la CPI y que allí se ensayaron las técnicas de manufactura de opinión.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Agencia federal de Estados Unidos creada en abril de 1917 y disuelta en 1919, dirigida por George Creel. Coordinó la propaganda oficial durante la Primera Guerra Mundial.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Committee on Public Information",
+      "url": "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "National Archives: Records of the Committee on Public Information",
+      "url": "https://www.archives.gov/research/guide-fed-records/groups/004.html",
+      "consultado": "2026-11-20"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "edward-bernays",
+     "nota": "Trabajó en la agencia."
     }
    ],
    "estado": "aprobado",
@@ -30056,6 +30104,53 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "torches-of-freedom-1929",
+   "tipo": "hecho",
+   "titulo": "Torches of Freedom (1929)",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1929,
+    "fuente": "oficial"
+   },
+   "resumen": "Campaña de Lucky Strike en abril de 1929, organizada por Bernays, que asoció el cigarrillo con la liberación femenina.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "paradigma-freud-tavistock-bernays",
+     "ubicacion": "9:02–11:07 (transcripción)",
+     "url": null,
+     "resumen": "Sostiene que Bernays organizó en abril de 1929 la campaña de Lucky Strike «antorcha de la libertad» para asociar el cigarrillo con el poder femenino.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Campaña publicitaria de Lucky Strike en abril de 1929, organizada por Edward Bernays. Mujeres jóvenes encendieron cigarrillos en la Quinta Avenida como gesto de liberación, dentro de una estrategia para ampliar el mercado femenino.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Torches of Freedom",
+      "url": "https://en.wikipedia.org/wiki/Torches_of_Freedom",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "History: Torches of Freedom",
+      "url": "https://www.history.com/news/torches-of-freedom-lucky-strike-feminism",
+      "consultado": "2026-11-20"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "edward-bernays",
+     "nota": "Organizó la campaña."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "politica"
+  },
+  {
    "id": "transduccion-informacion-agua-montagnier",
    "tipo": "hecho",
    "titulo": "Transmisión de información de un medicamento por agua (Montagnier)",
@@ -37136,6 +37231,62 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "edward-bernays",
+   "tipo": "persona",
+   "titulo": "Edward Bernays",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1891,
+    "hasta": 1995,
+    "fuente": "oficial"
+   },
+   "resumen": "Publicista austriaco-estadounidense, sobrino de Freud; padre de las relaciones públicas, Propaganda (1928) y la campaña Torches of Freedom.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "paradigma-freud-tavistock-bernays",
+     "ubicacion": "9:02–11:07 (transcripción)",
+     "url": null,
+     "resumen": "Sostiene que Bernays, doble sobrino de Freud, pasó por la CPI y aplicó el psicoanálisis a la propaganda; escribió Propaganda (1928) y organizó Torches of Freedom, el bacon and eggs y el reloj de pulsera.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Publicista estadounidense de origen austriaco (1891-1995), sobrino de Sigmund Freud. Trabajó en la Committee on Public Information (1917-1919), escribió Propaganda (1928) y organizó la campaña Torches of Freedom (1929); trabajó para Beech-Nut (bacon and eggs) y para la industria relojera. Está considerado uno de los fundadores de las relaciones públicas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Edward Bernays",
+      "url": "https://en.wikipedia.org/wiki/Edward_Bernays",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Britannica: Edward Bernays",
+      "url": "https://www.britannica.com/biography/Edward-Bernays",
+      "consultado": "2026-11-20"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "sigmund-freud",
+     "nota": "Tío de Bernays."
+    },
+    {
+     "id": "committee-on-public-information",
+     "nota": "Trabajó en la agencia."
+    },
+    {
+     "id": "torches-of-freedom-1929",
+     "nota": "Organizó la campaña."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "politica"
+  },
+  {
    "id": "edward-jenner",
    "tipo": "persona",
    "titulo": "Edward Jenner",
@@ -39298,6 +39449,54 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "franz-brentano",
+   "tipo": "persona",
+   "titulo": "Franz Brentano",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "temas": [],
+   "fecha": {
+    "desde": 1838,
+    "hasta": 1917,
+    "fuente": "oficial"
+   },
+   "resumen": "Filósofo y psicólogo alemán, sacerdote católico, maestro de Freud y de Husserl; la intencionalidad y la psicología descriptiva.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "paradigma-freud-tavistock-bernays",
+     "ubicacion": "0:09–2:28 (transcripción)",
+     "url": null,
+     "resumen": "Sostiene que Brentano, sacerdote y filósofo, plantó la semilla de la psicología moderna; fue maestro de Freud y de Husserl.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Filósofo y psicólogo alemán (1838-1917), sacerdote católico que abandonó el sacerdocio. Fue profesor de Freud en Viena y de Husserl; su psicología descriptiva y la tesis de la intencionalidad influyeron en la fenomenología.",
+    "fuentes": [
+     {
+      "titulo": "Stanford Encyclopedia of Philosophy: Franz Brentano",
+      "url": "https://plato.stanford.edu/entries/brentano/",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Franz Brentano",
+      "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+      "consultado": "2026-11-20"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "sigmund-freud",
+     "nota": "Alumno suyo en Viena."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "fritz-springmeier",
@@ -57570,6 +57769,18 @@ window.CRONO = {
     {
      "id": "sigmund-freud",
      "nota": "Persona central de la tesis."
+    },
+    {
+     "id": "edward-bernays",
+     "nota": "Tercera estación: propaganda y relaciones públicas."
+    },
+    {
+     "id": "franz-brentano",
+     "nota": "Primera estación: la semilla."
+    },
+    {
+     "id": "instituto-tavistock",
+     "nota": "Segunda estación: la manipulación de masas."
     }
    ],
    "estado": "aprobado",
