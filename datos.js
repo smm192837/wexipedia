@@ -36406,7 +36406,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Poeta florentino, autor de la Divina comedia. Militó en los güelfos blancos, fue desterrado en 1302 y en De Monarchia defendió la independencia del emperador frente al papa.",
+    "resumen": "Dante Alighieri (Florencia, c. 1265 – Rávena, 14-9-1321) militó en los güelfos blancos, fue desterrado de Florencia en 1302 y escribió la «Divina comedia».",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dante Alighieri",
@@ -36636,12 +36636,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "David Rockefeller (12-6-1915 – 20-3-2017), nieto de John D. Rockefeller, dirigió el Chase Manhattan y fundó la Comisión Trilateral (1973). Ninguna investigación oficial lo relaciona con el atentado de Bolonia.",
+    "resumen": "David Rockefeller (Nueva York, 12-6-1915 – Pocantico Hills, 20-3-2017), nieto de John D. Rockefeller, presidió el Chase Manhattan Bank (1969-1981) y el Consejo de Relaciones Exteriores (1970-1985), y fue impulsor de la Comisión Trilateral (1973).",
     "fuentes": [
      {
       "titulo": "Dartmouth College",
       "url": "https://rockefeller.dartmouth.edu/news-events/news?page=253",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: David Rockefeller",
+      "url": "https://es.wikipedia.org/wiki/David_Rockefeller",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -37580,7 +37585,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Edward Williams Morley (Newark, 1838 – West Hartford, 1923), químico y físico estadounidense. Con Michelson buscó en 1887 el viento del éter y no lo encontró; determinó además el peso atómico del oxígeno.",
+    "resumen": "Edward Morley (Newark, Nueva Jersey, 29-1-1838 – West Hartford, 24-2-1923), químico y físico estadounidense, realizó con Albert Michelson en 1887 el experimento que no detectó el «viento del éter». Midió con precisión el peso atómico del oxígeno.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -40514,12 +40519,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Naturalista francés (23-8-1769 – 13-5-1832), fundador de la paleontología de vertebrados. Demostró la realidad de la extinción y defendió el catastrofismo; se opuso a la evolución de Lamarck.",
+    "resumen": "Georges Cuvier (Montbéliard, 23-8-1769 – París, 13-5-1832) fundó la paleontología de vertebrados y la anatomía comparada, y demostró la realidad de las extinciones. Defendió el catastrofismo y se opuso a la evolución de Lamarck.",
     "fuentes": [
      {
       "titulo": "Britannica: Georges Cuvier",
       "url": "https://www.britannica.com/print/article/147625",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: Georges Cuvier",
+      "url": "https://es.wikipedia.org/wiki/Georges_Cuvier",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42468,12 +42478,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hermann Göring (12-1-1893 – 15-10-1946), comandante de la Luftwaffe y responsable del Plan Cuatrienal; condenado a muerte en Núremberg, se suicidó horas antes.",
+    "resumen": "Hermann Göring (Rosenheim, 12-1-1893 – Núremberg, 15-10-1946) fue comandante de la Luftwaffe, responsable del Plan Cuatrienal (1936) y mariscal del Reich desde 1940. Condenado a muerte en el juicio de Núremberg, se suicidó con cianuro horas antes de la ejecución.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://www.wikipedia.com/wiki/Holocaust_perpetrators",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Hermann Göring",
+      "url": "https://es.wikipedia.org/wiki/Hermann_Göring",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42692,12 +42707,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hjalmar Schacht (1877–1970), presidente del Reichsbank (1923–1930 y 1933–1939) y ministro de Economía de Hitler; uno de los impulsores del BPI (1930). Absuelto en Núremberg.",
+    "resumen": "Hjalmar Schacht (Tinglev, 22-1-1877 – Múnich, 3-6-1970) presidió el Reichsbank de 1923 a 1930 y de 1933 a 1939, y fue ministro de Economía de 1934 a 1937. Fue absuelto en el juicio de Núremberg (1946).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Hjalmar_Schacht",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Hjalmar Schacht",
+      "url": "https://es.wikipedia.org/wiki/Hjalmar_Schacht",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -43431,12 +43451,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Isabel II (Madrid, 10-10-1830 – París, 9-4-1904), reina de 1833 a 1868, destronada por la Revolución Gloriosa. El Banco de Santander se fundó en 1857, durante su reinado, con autorización real.",
+    "resumen": "Isabel II (Madrid, 10-10-1830 – París, 9-4-1904) reinó de 1833 a 1868, primero bajo la regencia de su madre María Cristina y luego de Espartero. La Revolución de 1868 la destronó; abdicó en 1870 en su hijo Alfonso XII.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.com/wiki/Isabella_II",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Isabel II de España",
+      "url": "https://es.wikipedia.org/wiki/Isabel_II_de_España",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -44974,12 +44999,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Johannes Kepler (Weil der Stadt, 1571 – Ratisbona, 1630), autor de las leyes del movimiento planetario. Las lunas de Júpiter las publicó Galileo en 1610; Kepler confirmó la observación.",
+    "resumen": "Johannes Kepler (Weil der Stadt, 27-12-1571 – Ratisbona, 15-11-1630) formuló las tres leyes del movimiento planetario, las dos primeras en «Astronomia nova» (1609) y la tercera en «Harmonices mundi» (1619). Fue matemático imperial de Rodolfo II y publicó las Tablas Rudolfinas (1627).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Johannes-Kepler",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Johannes Kepler",
+      "url": "https://es.wikipedia.org/wiki/Johannes_Kepler",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46327,12 +46357,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Karl Dönitz (16-9-1891 – 24-12-1980), jefe de la flota de submarinos y de la Kriegsmarine, presidente del Reich del 30-4 al 23-5-1945; condenado en Núremberg a diez años.",
+    "resumen": "Karl Dönitz (Grünau, 16-9-1891 – Aumühle, 24-12-1980) dirigió la flota de submarinos desde 1935 y la Kriegsmarine desde 1943. Tras el suicidio de Hitler fue presidente del Reich (30-4 a 23-5-1945) y firmó la rendición. Fue condenado en Núremberg a diez años de prisión, que cumplió hasta 1956.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Karl_D%C3%B6nitz",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Karl Dönitz",
+      "url": "https://es.wikipedia.org/wiki/Karl_Dönitz",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47969,7 +48004,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mao Zedong (1893-1976) fue el dirigente fundador de la República Popular China. No consta ninguna relación de mentoría con Teilhard de Chardin, que murió en 1955 y no tuvo contacto político con él.",
+    "resumen": "Mao Zedong (Shaoshan, 26-12-1893 – Pekín, 9-9-1976) dirigió el Partido Comunista Chino, proclamó la República Popular el 1-10-1949 y la gobernó hasta su muerte. Impulsó el Gran Salto Adelante (1958-1962), seguido de una hambruna con millones de muertos de cifras muy discutidas, y la Revolución Cultural (1966-1976).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mao Zedong",
@@ -50265,12 +50300,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pablo Emilio Escobar Gaviria (Rionegro, 1-12-1949 – Medellín, 2-12-1993), fundador del cártel de Medellín; murió abatido por la policía colombiana. Las fuentes consultadas no lo relacionan con el Santander.",
+    "resumen": "Pablo Escobar (Rionegro, 1-12-1949 – Medellín, 2-12-1993) fundó el cártel de Medellín, fue elegido suplente al Congreso colombiano en 1982 y dirigió una ola de atentados contra el Estado. Murió a manos de la policía en un tejado de Medellín.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Pablo_Escobar",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Pablo Escobar",
+      "url": "https://es.wikipedia.org/wiki/Pablo_Escobar",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -50779,7 +50819,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Médico y alquimista suizo (1493–1541) que dio a la química un papel central en la medicina. Los historiadores lo cuentan entre los antecedentes del vitalismo médico, que maduró en Montpellier en el s. XVIII.",
+    "resumen": "Paracelso (Theophrastus von Hohenheim; Einsiedeln, c. 1493 – Salzburgo, 24-9-1541), médico y alquimista suizo, dio a la química un papel central en la medicina y rompió con la tradición galénica.",
     "fuentes": [
      {
       "titulo": "Britannica: Paracelsus",
@@ -50790,6 +50830,11 @@ window.CRONO = {
       "titulo": "C. Wolfe, entrada «Vitalism» (Università Ca' Foscari)",
       "url": "https://iris.unive.it/retrieve/e4239ddd-f708-7180-e053-3705fe0a3322/cw%20vitalism%20EEMPS.pdf",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: Paracelso",
+      "url": "https://es.wikipedia.org/wiki/Paracelso",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52815,7 +52860,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Científico inglés (18-7-1635 – 3-3-1703), primer conservador de experimentos de la Royal Society, autor de Micrographia (1665) y de la ley de la elasticidad.",
+    "resumen": "Robert Hooke (Freshwater, isla de Wight, 18-7-1635 – Londres, 3-3-1703) fue el primer conservador de experimentos de la Royal Society desde 1662. Publicó «Micrographia» (1665), donde acuñó el término «célula», y formuló la ley de la elasticidad que lleva su nombre.",
     "fuentes": [
      {
       "titulo": "Royal Society of Biology",
@@ -52826,6 +52871,11 @@ window.CRONO = {
       "titulo": "Britannica 1911 (Wikisource)",
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Hooke,_Robert",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Robert Hooke",
+      "url": "https://es.wikipedia.org/wiki/Robert_Hooke",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54895,7 +54945,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thomas Henry Huxley (1825-1895), biólogo británico, defensor de la teoría de Darwin y divulgador de la ciencia; estudió medicina en Londres y fue cirujano naval. Abuelo de Julian y Aldous Huxley.",
+    "resumen": "Thomas Henry Huxley (Ealing, 4-5-1825 – Eastbourne, 29-6-1895), biólogo británico, defendió la teoría de la evolución de Darwin, por lo que fue llamado su «bulldog». Participó en el debate de Oxford de 1860 y acuñó el término «agnóstico» (1869).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Thomas Henry Huxley",
