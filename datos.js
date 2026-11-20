@@ -39296,7 +39296,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Abogado y escritor estadounidense de extrema derecha, autor de «Imperium» (1948) con el seudónimo Ulick Varange. Murió en prisión en 1960.",
+    "resumen": "Francis Parker Yockey (Chicago, 1917 – San Francisco, 16-6-1960), abogado y escritor estadounidense de extrema derecha, autor de «Imperium» (1948) con el seudónimo Ulick Varange. Detenido en 1960 con pasaportes falsos, murió en la cárcel por un suicidio con cianuro.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Francis Parker Yockey",
@@ -40440,7 +40440,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "George Sylvester Viereck (Múnich, 31-12-1884 – Holyoke, 18-3-1962), poeta y propagandista proalemán encarcelado durante la guerra.",
+    "resumen": "George Sylvester Viereck (Múnich, 31-12-1884 – Holyoke, 18-3-1962), poeta y propagandista germano-estadounidense. Difundió la causa alemana en EE. UU. en las dos guerras mundiales y fue condenado en 1942 por no declararse agente extranjero; salió de prisión en 1947.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -42275,12 +42275,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Sir Henry Wotton (30-3-1568 – diciembre de 1639), embajador inglés en Venecia durante casi veinte años y después rector de Eton.",
+    "resumen": "Sir Henry Wotton (30-3-1568 – diciembre de 1639), diplomático y poeta inglés, fue embajador de Jacobo I en Venecia en varios periodos entre 1604 y 1624. En 1624 fue nombrado prepósito (provost) del Eton College y publicó «Elements of Architecture».",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://EN.wikipedia.com/wiki/Henry_Wotton",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Henry Wotton",
+      "url": "https://en.wikipedia.org/wiki/Henry_Wotton",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -43128,12 +43133,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Isaac Casaubon (Ginebra, 18-2-1559 – Londres, 1-7-1614), helenista hugonote, bibliotecario de Enrique IV y desde 1610 en Inglaterra.",
+    "resumen": "Isaac Casaubon (Ginebra, 18-2-1559 – Londres, 1-7-1614), helenista hugonote, fue bibliotecario de Enrique IV y desde 1610 vivió en Inglaterra. En 1614 demostró por criterios filológicos que el Corpus Hermeticum no era una obra del antiguo Egipto sino posterior a la era cristiana.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Isaac-Casaubon",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Isaac Casaubon",
+      "url": "https://en.wikipedia.org/wiki/Isaac_Casaubon",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -43224,7 +43234,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Yitzhak Shamir (Ruzhany, 25-10-1915 – Tel Aviv, 30-6-2012), jefe de una unidad del Mossad en la Operación Damocles y después primer ministro.",
+    "resumen": "Yitzhak Shamir (Ruzhany, 25-10-1915 – Tel Aviv, 30-6-2012) fue dirigente de Lehi, agente del Mossad (1955-1965) y primer ministro de Israel en 1983-1984 y de 1986 a 1992.",
     "fuentes": [
      {
       "titulo": "Gran Enciclopèdia Catalana",
@@ -43235,6 +43245,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Operation_Damocles",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Yitzhak Shamir",
+      "url": "https://en.wikipedia.org/wiki/Yitzhak_Shamir",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -44823,12 +44838,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Johann Joachim Christoph Bode (1731–1793), traductor y editor, miembro de los illuminati de Baviera; visitó las logias de París en 1787.",
+    "resumen": "Johann Joachim Christoph Bode (1731–1793), traductor y editor alemán de Sterne, Fielding y Montaigne, masón e ingresado en los illuminati de Baviera en 1782. Visitó las logias de París en 1787.",
     "fuentes": [
      {
       "titulo": "Grand Lodge of British Columbia and Yukon",
       "url": "https://freemasonry.bcy.ca/texts/robison-barruel.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Johann Joachim Christoph Bode",
+      "url": "https://en.wikipedia.org/wiki/Johann_Joachim_Christoph_Bode",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45241,12 +45261,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "John Robison (1739–1805), profesor de filosofía natural en Edimburgo; en 1797 publicó Proofs of a Conspiracy contra masones e illuminati.",
+    "resumen": "John Robison (1739–1805), físico escocés, fue profesor de filosofía natural en la Universidad de Edimburgo desde 1773 y secretario de la Royal Society de Edimburgo. En 1797 publicó «Proofs of a Conspiracy» contra los masones y los illuminati.",
     "fuentes": [
      {
       "titulo": "Project Gutenberg",
       "url": "https://gutenberg.org/ebooks/47605",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: John Robison (physicist)",
+      "url": "https://en.wikipedia.org/wiki/John_Robison_(physicist)",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -48632,7 +48657,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Maximiliano I (Múnich, 17-4-1573 – Ingolstadt, 27-9-1651), educado por jesuitas, encabezó la Liga Católica en la guerra de los Treinta Años.",
+    "resumen": "Maximiliano I (Múnich, 17-4-1573 – Ingolstadt, 27-9-1651), educado por jesuitas, fue duque de Baviera desde 1597 y príncipe elector desde 1623. Fundó la Liga Católica (1609), que ganó la batalla de la Montaña Blanca (1620) en la guerra de los Treinta Años.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
