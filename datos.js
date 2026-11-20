@@ -34916,7 +34916,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Auguste Comte (Montpellier, 1798 – París, 1857), filósofo francés, creador del positivismo y de la sociología. Formuló la ley de los tres estadios y publicó el «Curso de filosofía positiva» (1830-1842).",
+    "resumen": "Auguste Comte (Montpellier, 19-1-1798 – París, 5-9-1857), filósofo francés, creó el positivismo y acuñó el término «sociología». Expuso la ley de los tres estados (teológico, metafísico y positivo) en su «Curso de filosofía positiva» (1830-1842).",
     "fuentes": [
      {
       "titulo": "Britannica: The Positive Philosophy of Auguste Comte",
@@ -39124,7 +39124,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leonardo de Pisa, Fibonacci (c. 1170 – después de 1240), matemático italiano. Introdujo en Europa los numerales indoárabes con el «Liber abaci» (1202) y describió la sucesión que lleva su nombre.",
+    "resumen": "Leonardo de Pisa, Fibonacci (c. 1170 – después de 1240), matemático italiano, difundió en Europa el sistema de numeración indoarábigo con el «Liber abaci» (1202). Su nombre quedó asociado a la sucesión que aparece en un problema de ese libro.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -39134,6 +39134,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Fibonacci",
       "url": "https://es.wikipedia.org/wiki/Fibonacci",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Leonardo de Pisa",
+      "url": "https://es.wikipedia.org/wiki/Leonardo_de_Pisa",
       "consultado": "2026-11-20"
      }
     ]
@@ -39373,7 +39378,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Duque de Gandía, bisnieto del papa Alejandro VI y de Fernando el Católico; entró en la Compañía en 1546 y fue su tercer general (1565–1572). No fue cofundador.",
+    "resumen": "Francisco de Borja (Gandía, 28-10-1510 – Roma, 30-9-1572), duque de Gandía, ingresó en la Compañía de Jesús en 1546 y fue su tercer prepósito general (1565-1572). Fue canonizado en 1671.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Francisco de Borja",
@@ -39586,7 +39591,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francisco Suárez (Granada, 1548 – Lisboa, 1617), jesuita, teólogo y filósofo, figura de la escolástica tardía y del derecho de gentes. Autor de las «Disputationes metaphysicae» (1597) y de «De legibus».",
+    "resumen": "Francisco Suárez (Granada, 5-1-1548 – Lisboa, 25-9-1617), jesuita, teólogo y filósofo, fue figura de la escuela de Salamanca. Escribió las «Disputaciones metafísicas» (1597) y «De legibus» (1612).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -39596,6 +39601,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Francisco Suárez",
       "url": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Francisco Suárez",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Suárez",
       "consultado": "2026-11-20"
      }
     ]
@@ -41270,11 +41280,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo nominalista inglés. La navaja de Ockham es un principio de economía de las explicaciones; la fórmula «pluralitas non est ponenda sine necessitate» aparece en sus obras.",
+    "resumen": "Guillermo de Ockham (Ockham, Surrey, c. 1287 – Múnich, c. 1347), franciscano inglés y filósofo nominalista. La navaja de Ockham es el principio de no multiplicar las explicaciones sin necesidad. Fue excomulgado en 1328 por su apoyo al emperador Luis de Baviera frente al papa Juan XXII.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Navaja de Ockham",
       "url": "https://es.wikipedia.org/wiki/Navaja_de_Ockham"
+     },
+     {
+      "titulo": "Wikipedia: Guillermo de Ockham",
+      "url": "https://es.wikipedia.org/wiki/Guillermo_de_Ockham",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42198,7 +42213,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Helena Petrovna Blavatsky (Ekaterinoslav, 1831 – Londres, 1891), ocultista y escritora rusa. Cofundó en 1875 la Sociedad Teosófica y escribió «Isis sin velo» (1877) y «La doctrina secreta» (1888).",
+    "resumen": "Helena Petrovna Blavatsky (Ekaterinoslav, 1831 – Londres, 8-5-1891), ocultista rusa, fundó la Sociedad Teosófica en Nueva York (1875) con Henry Steel Olcott. Escribió «Isis sin velo» (1877) y «La doctrina secreta» (1888).",
     "fuentes": [
      {
       "titulo": "Enciclopedia Británica 1911 (Wikisource)",
@@ -45378,7 +45393,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico irlandés (2-8-1820 – 1893): efecto Tyndall, estudios sobre el calor y la atmósfera, y la tindalización (1877). Miembro del X Club y adversario de la generación espontánea.",
+    "resumen": "John Tyndall (Leighlinbridge, 2-8-1820 – Hindhead, 4-12-1893), físico irlandés, descubrió el efecto que lleva su nombre (dispersión de la luz en partículas en suspensión) y demostró hacia 1859 que el vapor de agua y el dióxido de carbono absorben la radiación infrarroja.",
     "fuentes": [
      {
       "titulo": "Hektoen International: John Tyndall",
@@ -45389,6 +45404,11 @@ window.CRONO = {
       "titulo": "Britannica: X Club",
       "url": "https://www.britannica.com/topic/X-Club",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: John Tyndall",
+      "url": "https://es.wikipedia.org/wiki/John_Tyndall",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45794,12 +45814,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Juan de Borbón y Battenberg (La Granja, 20-6-1913 – Pamplona, 1-4-1993), hijo de Alfonso XIII y padre de Juan Carlos I; pretendiente al trono de 1941 a 1977.",
+    "resumen": "Juan de Borbón y Battenberg (La Granja de San Ildefonso, 20-6-1913 – Pamplona, 1-4-1993), conde de Barcelona, hijo de Alfonso XIII, fue el heredero de la corona durante el franquismo. El 14-5-1977 renunció a sus derechos dinásticos a favor de su hijo Juan Carlos I.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Infante_Juan,_Count_of_Barcelona",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Juan de Borbón y Battenberg",
+      "url": "https://es.wikipedia.org/wiki/Juan_de_Borbón_y_Battenberg",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46421,12 +46446,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Karl Haushofer (Múnich, 27-8-1869 – 10-3-1946), general y profesor; a través de Rudolf Hess su geopolítica influyó en Hitler. Se suicidó con su esposa en 1946.",
+    "resumen": "Karl Haushofer (Múnich, 27-8-1869 – Pähl, 10-3-1946), general y profesor, fue el principal difusor de la geopolítica en Alemania y mantuvo relación con Rudolf Hess, antiguo alumno suyo. Se suicidó junto a su esposa tras la guerra.",
     "fuentes": [
      {
       "titulo": "Deutsches Historisches Museum (LeMO)",
       "url": "https://www.dhm.de/lemo/biografie/karl-haushofer",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Karl Haushofer",
+      "url": "https://es.wikipedia.org/wiki/Karl_Haushofer",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47141,12 +47171,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Licio Gelli (Pistoia, 21-4-1919 – Arezzo, 15-12-2015); en 1981 se descubrió que dirigía la logia clandestina P2. Condenado, entre otras cosas, por desviar la investigación del atentado de Bolonia.",
+    "resumen": "Licio Gelli (Pistoia, 21-4-1919 – Arezzo, 15-12-2015) fue maestro venerable de la logia masónica Propaganda Due (P2). En 1981 la policía halló la lista de sus afiliados, con altos cargos políticos, militares y empresariales; la P2 se relacionó además con el hundimiento del Banco Ambrosiano (1982).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Licio_Gelli",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Licio Gelli",
+      "url": "https://es.wikipedia.org/wiki/Licio_Gelli",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -49138,12 +49173,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mohamed Naguib (Jartum, 19/20-2-1901 – El Cairo, 28-8-1984), líder de la revolución de 1952 y primer presidente de la República; Nasser lo destituyó en 1954.",
+    "resumen": "Mohamed Naguib (Jartum, 19/20-2-1901 – El Cairo, 28-8-1984) encabezó formalmente la revolución de 1952 y fue el primer presidente de Egipto (1953-1954). Nasser lo apartó en noviembre de 1954 y lo mantuvo bajo arresto domiciliario.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://britannica.com/print/article/401705",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Muhammad Naguib",
+      "url": "https://es.wikipedia.org/wiki/Muhammad_Naguib",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51132,11 +51172,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Papa de 1605 a 1621. Lanzó el entredicho contra Venecia (1606) y bajo su pontificado se terminó la fachada de San Pedro y se condenó el copernicanismo (1616).",
+    "resumen": "Pablo V (Camillo Borghese) fue papa de 1605 a 1621. Lanzó el entredicho contra Venecia en 1606; bajo su pontificado la Inquisición condenó en 1616 la doctrina copernicana y advirtió a Galileo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Paulo V",
       "url": "https://es.wikipedia.org/wiki/Paulo_V"
+     },
+     {
+      "titulo": "Wikipedia: Pablo V",
+      "url": "https://es.wikipedia.org/wiki/Pablo_V",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52045,7 +52090,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundador del neoplatonismo. Enseñó en Roma y su obra fue editada por Porfirio en las «Enéadas»; el Uno, el Intelecto y el Alma son sus tres hipóstasis.",
+    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundó el neoplatonismo y enseñó en Roma desde hacia 244. Sus tratados los reunió su discípulo Porfirio en las «Enéadas».",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -54144,12 +54189,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Simon Mayr (Gunzenhausen, 1573 – Ansbach, 1624 según el calendario juliano), descubrió las lunas de Júpiter a la vez que Galileo y de forma independiente; les dio sus nombres actuales.",
+    "resumen": "Simon Marius (Simon Mayr; Gunzenhausen, 1573 – Ansbach, 1624) descubrió de forma independiente las cuatro lunas mayores de Júpiter en diciembre de 1609 y las publicó en «Mundus Iovialis» (1614), donde propuso los nombres Ío, Europa, Ganímedes y Calisto, que son los que se usan hoy.",
     "fuentes": [
      {
       "titulo": "arXiv (Neuhäuser et al.)",
       "url": "https://arxiv.org/pdf/1604.03724",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Simon Marius",
+      "url": "https://es.wikipedia.org/wiki/Simon_Marius",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54193,7 +54243,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo ateniense (c. 470–399 a.C.). Según Platón hablaba de un daimon, una voz interior que le advertía; fue condenado a muerte por impiedad y corrupción de la juventud.",
+    "resumen": "Sócrates (Atenas, c. 470 – 399 a. C.), filósofo ateniense, no dejó escritos; lo conocemos sobre todo por Platón y Jenofonte. Fue juzgado y condenado a muerte en 399 a. C. por impiedad y por corromper a la juventud, y murió bebiendo cicuta.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
