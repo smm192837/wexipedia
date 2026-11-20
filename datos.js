@@ -12691,7 +12691,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los jesuitas fueron expulsados de Portugal (1759), Francia (1764) y de España y sus dominios (decreto de Carlos III, 27-2-1767; ejecución el 2-4-1767); Austria actuó en 1782 con la supresión de sus casas.",
+    "resumen": "Los jesuitas fueron expulsados de Portugal (1759), Francia (1764) y de España y sus dominios por Carlos III: el decreto lo dictaminó el fiscal Campomanes y lo aprobó el Consejo el 29-1-1767, el rey lo ratificó el 20-2 y se ejecutó el 2-4-1767, en secreto. Los motivos del decreto no se precisan («gravísimas causas»); el Gobierno los acusó de instigar los motines de 1766, acusación no probada. Salieron 2.641 jesuitas de España y 2.630 de las Indias; Austria actuó en 1782 con la supresión de sus casas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Suppression of the Society of Jesus",
@@ -12702,6 +12702,16 @@ window.CRONO = {
       "titulo": "Britannica: Jesuit",
       "url": "https://www.britannica.com/topic/Jesuit",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Biblioteca Virtual Miguel de Cervantes: La expulsión de los jesuitas de España (1767)",
+      "url": "https://www.cervantesvirtual.com/portales/expulsion_jesuitas/expulsion_espana/",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Expulsión de los jesuitas de España de 1767",
+      "url": "https://es.wikipedia.org/wiki/Expulsi%C3%B3n_de_los_jesuitas_de_Espa%C3%B1a_de_1767",
+      "consultado": "2026-11-20"
      }
     ]
    },
