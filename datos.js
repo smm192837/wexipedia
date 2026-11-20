@@ -8026,11 +8026,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundado en Nueva York en 1921. Es un centro de estudios independiente que publica la revista Foreign Affairs. Sus miembros proceden de muchas universidades; entre ellas está Georgetown, jesuita y conocida por formar diplomáticos.",
+    "resumen": "Fundado en Nueva York en 1921, es un centro de estudios (think tank) privado y no partidista. Publica la revista «Foreign Affairs» y reúne a políticos, empresarios y académicos; no es un órgano oficial del Gobierno de EE. UU.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Council on Foreign Relations",
       "url": "https://en.wikipedia.org/wiki/Council_on_Foreign_Relations"
+     },
+     {
+      "titulo": "Wikipedia: Consejo de Relaciones Exteriores",
+      "url": "https://es.wikipedia.org/wiki/Consejo_de_Relaciones_Exteriores",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -17989,11 +17994,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "The Shape of Things to Come (1933), novela de ciencia ficción de H. G. Wells; narra la historia futura hasta 2106 y la reconstrucción del mundo tras una guerra.",
+    "resumen": "«The Shape of Things to Come» (1933), novela de H. G. Wells. Narra la historia futura del mundo hasta el siglo XXI, con una guerra mundial, una pandemia y una utopía tecnocrática; fue la base del guion de «Things to Come» (1936), de Alexander Korda.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
       "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: The Shape of Things to Come",
+      "url": "https://en.wikipedia.org/wiki/The_Shape_of_Things_to_Come",
       "consultado": "2026-11-20"
      }
     ]
@@ -20941,12 +20951,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lenin murió el 21 de enero de 1924 en Gorki, a los 53 años, tras una serie de ictus que desde 1922 lo habían apartado de la dirección. Su muerte abrió una lucha por el poder que ganó Stalin.",
+    "resumen": "Vladímir Ilich Uliánov, Lenin (Simbirsk, 1870 – Gorki, 1924), dirigente bolchevique y jefe del primer Gobierno soviético. Murió el 21-1-1924 a los 53 años tras una serie de infartos; su cuerpo fue embalsamado y expuesto en el mausoleo de la Plaza Roja.",
     "fuentes": [
      {
       "titulo": "Vladimir Lenin: resumen biográfico",
       "url": "https://www.britannica.com/summary/Vladimir-Lenin",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Vladímir Lenin",
+      "url": "https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Lenin",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -21063,7 +21078,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Brave New World (1932), novela distópica de Aldous Huxley; sociedad futura organizada por castas y condicionamiento biológico. No hay prueba de que Huxley la escribiera como plan de la Sociedad Fabiana.",
+    "resumen": "«Un mundo feliz» (Brave New World, 1932), novela distópica de Aldous Huxley. Describe una sociedad futura de castas biológicas, condicionamiento psicológico y consumo obligatorio, con la droga «soma» como control social; se ha leído como crítica al cientificismo y a la ingeniería social.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Un mundo feliz",
@@ -23104,7 +23119,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundado en Madrid en 1928 por Josemaría Escrivá de Balaguer; prelatura personal desde 1982. La teología de la liberación surgió después, a finales de los años sesenta.",
+    "resumen": "Prelatura personal de la Iglesia católica fundada en Madrid en 1928 por Josemaría Escrivá de Balaguer. Sus miembros, laicos y sacerdotes, buscan la santificación del trabajo ordinario; fue erigida como prelatura personal en 1982 y su primer prelado fue Álvaro del Portillo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Opus Dei",
@@ -28034,12 +28049,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 1-3-1932 fue secuestrado el hijo de 20 meses de Charles Lindbergh; su cuerpo apareció el 12-5-1932 cerca de la casa. Bruno Hauptmann fue condenado y ejecutado en 1936. Aumentó el prestigio del FBI.",
+    "resumen": "El 1-3-1932 fue secuestrado Charles Augustus Lindbergh Jr., hijo de 20 meses del aviador, en Hopewell (Nueva Jersey). Fue hallado muerto en mayo; Bruno Hauptmann fue condenado y ejecutado en 1936. El caso impulsó la ley federal antiseduestro («Lindbergh Law»).",
     "fuentes": [
      {
       "titulo": "Britannica: Lindbergh baby kidnapping",
       "url": "https://www.britannica.com/event/Lindbergh-baby-kidnapping",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Secuestro del hijo de Lindbergh",
+      "url": "https://es.wikipedia.org/wiki/Secuestro_del_hijo_de_Lindbergh",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -29683,12 +29703,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Régimen nacionalsocialista alemán (1933–1945). En plena guerra su propaganda habló de un «nuevo orden» en Europa bajo hegemonía alemana. Himmler quería hacer del castillo de Wewelsburg un centro ideológico de las SS.",
+    "resumen": "Régimen nacionalsocialista alemán de 1933 a 1945. Tras el incendio del Reichstag y la Ley Habilitante (1933), Hitler concentró el poder; el régimen se basó en el partido único, la Gestapo y las SS, el rearme, el racismo de Estado y el expansionismo. Su derrota en la Segunda Guerra Mundial terminó con la capitulación del 8-5-1945.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Alemania nazi",
       "url": "https://es.wikipedia.org/wiki/Alemania_nazi",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia: Tercer Reich",
+      "url": "https://es.wikipedia.org/wiki/Tercer_Reich",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34951,7 +34976,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Joseph Ratzinger (Marktl am Inn, 16-4-1927 – Ciudad del Vaticano, 31-12-2022), papa de 2005 hasta su renuncia en 2013.",
+    "resumen": "Joseph Ratzinger (Marktl am Inn, 1927 – Ciudad del Vaticano, 2022), papa de 2005 a 2013. Teólogo y prefecto de la Congregación para la Doctrina de la Fe (1981-2005), renunció al pontificado el 28-2-2013, hecho sin precedentes en la era moderna.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -34962,6 +34987,11 @@ window.CRONO = {
       "titulo": "Santa Sede",
       "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2023/01/05/230105a.pdf",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Benedicto XVI",
+      "url": "https://es.wikipedia.org/wiki/Benedicto_XVI",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38344,12 +38374,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Primera dama de Argentina (1946–1952). En 1947 hizo su «gira del arcoíris» por Europa (España, Italia, Francia, Suiza). Las acusaciones sobre fondos nazis en cuentas suizas no se han probado.",
+    "resumen": "María Eva Duarte de Perón (Los Toldos, 1919 – Buenos Aires, 1952), actriz y primera dama argentina. Esposa de Juan Domingo Perón, impulsó el voto femenino (1947) y la Fundación Eva Perón; murió de cáncer a los 33 años.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Eva Perón",
       "url": "https://es.wikipedia.org/wiki/Eva_Perón",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia: Eva Perón",
+      "url": "https://es.wikipedia.org/wiki/Eva_Per%C3%B3n",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38956,7 +38991,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Estudió en colegios jesuitas de Cuba: el de Dolores (Santiago) y el de Belén (La Habana), donde había muchos jesuitas españoles. No estudió en España.",
+    "resumen": "Fidel Castro Ruz (Birán, 1926 – La Habana, 2016), abogado y revolucionario cubano. Tras el asalto al cuartel Moncada (1953) y su exilio en México, encabezó la revolución que derrocó a Batista en 1959; gobernó Cuba hasta 2008, primero como primer ministro y después como presidente.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Fidel Castro",
@@ -40930,12 +40965,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gro Harlem Brundtland (nacida el 20-4-1939) fue primera ministra de Noruega y directora general de la OMS (1998-2003).",
+    "resumen": "Gro Harlem Brundtland (Oslo, 1939), médica y política noruega. Primera ministra de Noruega en tres periodos (1981, 1986-89 y 1990-96) y directora general de la OMS (1998-2003); presidió la Comisión Mundial sobre Medio Ambiente y Desarrollo, que acuñó «desarrollo sostenible» (1987).",
     "fuentes": [
      {
       "titulo": "Britannica: Gro Harlem Brundtland",
       "url": "https://www.britannica.com/biography/Gro-Harlem-Brundtland",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Gro Harlem Brundtland",
+      "url": "https://es.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42005,12 +42045,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Henry Kissinger (27-5-1923, Fürth – 29-11-2023, Kent, Connecticut) fue consejero de seguridad nacional (1969-1975) y secretario de Estado (1973-1977) con Nixon y Ford.",
+    "resumen": "Henry Alfred Kissinger (Fürth, 1923 – Kent, 2023), diplomático estadounidense de origen alemán. Consejero de Seguridad Nacional (1969-1975) y secretario de Estado (1973-1977) con Nixon y Ford; impulsó la apertura a China y la distensión, y recibió el Nobel de la Paz en 1973 por los Acuerdos de París.",
     "fuentes": [
      {
       "titulo": "Britannica: Henry Kissinger",
       "url": "https://www.britannica.com/biography/Henry-Kissinger",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Henry Kissinger",
+      "url": "https://es.wikipedia.org/wiki/Henry_Kissinger",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45613,7 +45658,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Karol Wojtyła, papa de 1978 a 2005. Fue enterrado en un ataúd de ciprés según la costumbre; en 2011 sus restos se trasladaron a la basílica de San Pedro.",
+    "resumen": "Karol Wojtyła (Wadowice, 1920 – Ciudad del Vaticano, 2005), papa de 1978 a 2005, el primero no italiano desde 1523. Su pontificado duró 26 años; viajó por todo el mundo, impulsó el diálogo interreligioso y murió el 2-4-2005. Fue canonizado en 2014.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Juan Pablo II",
@@ -51657,12 +51702,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Saloth Sar (1925–1998), líder de los Jemeres Rojos y del régimen de la Kampuchea Democrática (1975–1979); estudió en París entre 1949 y 1953.",
+    "resumen": "Pol Pot (Saloth Sar, 1925 – 1998), dirigente de los Jemeres Rojos. Primer ministro de la Kampuchea Democrática (1976-1979), impuso un régimen de terror que causó entre 1,5 y 2 millones de muertos; murió en la selva sin ser juzgado.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Pol-Pot",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Pol Pot",
+      "url": "https://es.wikipedia.org/wiki/Pol_Pot",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -53906,12 +53956,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Stanley Kubrick (Nueva York, 26-7-1928 – Hertfordshire, 7-3-1999), director de «2001: una odisea del espacio» (1968) y «Eyes Wide Shut» (1999). Carril dudoso: sin carril propio, va al del tema por el que aparece aquí.",
+    "resumen": "Stanley Kubrick (Nueva York, 1928 – Childwickbury, 1999), director de cine estadounidense. Autor de «Senderos de gloria» (1957), «Espartaco» (1960), «2001: Una odisea del espacio» (1968), «La naranja mecánica» (1971), «El resplandor» (1980) y «Eyes Wide Shut» (1999), entre otras.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: Stanley Kubrick",
       "url": "https://www.britannica.com/biography/Stanley-Kubrick",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Stanley Kubrick",
+      "url": "https://es.wikipedia.org/wiki/Stanley_Kubrick",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54730,12 +54785,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Timothy Leary (1920–1996), psicólogo estadounidense, divulgador del LSD y figura de la contracultura; murió de cáncer de próstata en 1996. En sus últimos años defendió la cibernética y la criónica.",
+    "resumen": "Timothy Francis Leary (Springfield, 1920 – Beverly Hills, 1996), psicólogo estadounidense. Profesor en Harvard, divulgó el LSD y acuñó el lema «turn on, tune in, drop out»; fue detenido y encarcelado, y pasó después a la contracultura.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: Timothy Leary",
       "url": "https://www.britannica.com/biography/Timothy-Leary",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Timothy Leary",
+      "url": "https://es.wikipedia.org/wiki/Timothy_Leary",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -55836,12 +55896,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Yasir Arafat (El Cairo, 24-8-1929 – Clamart, 11-11-2004), presidente de la OLP desde 1969 y de la Autoridad Palestina; Nobel de la Paz en 1994.",
+    "resumen": "Yasir Arafat (El Cairo, 1929 – Clamart, 2004), dirigente palestino. Fundó Al Fatah y presidió la OLP desde 1969; firmó los Acuerdos de Oslo (1993) con Rabin y recibió el Nobel de la Paz en 1994. Fue presidente de la Autoridad Nacional Palestina desde 1996.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Yasser Arafat",
       "url": "https://en.wikipedia.org/wiki/Yasser_Arafat",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Yasir Arafat",
+      "url": "https://es.wikipedia.org/wiki/Yasir_Arafat",
+      "consultado": "2026-11-20"
      }
     ]
    },
