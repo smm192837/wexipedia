@@ -2240,12 +2240,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 12-10-2000 una lancha con explosivos atacó al destructor USS Cole en el puerto de Adén (Yemen): 17 marinos murieron y 39 resultaron heridos. Se atribuyó a Al Qaeda.",
+    "resumen": "El 12-10-2000 una lancha cargada de explosivos atacó al destructor USS Cole en el puerto de Adén (Yemen); murieron 17 marinos. El ataque se atribuyó a Al Qaeda.",
     "fuentes": [
      {
       "titulo": "Britannica: USS Cole attack",
       "url": "https://www.britannica.com/event/USS-Cole-attack",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Atentado contra el USS Cole",
+      "url": "https://es.wikipedia.org/wiki/Atentado_contra_el_USS_Cole",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -5709,11 +5714,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dinastía de origen boyardo ruso que reinó desde 1613. Desde 1762 la línea reinante fue la de Holstein-Gottorp-Romanov, de origen alemán por línea paterna (Pedro III).",
+    "resumen": "Dinastía rusa que reinó de 1613 a 1917. Miguel I fue elegido zar por el Zemski Sobor en 1613; Nicolás II abdicó en marzo de 1917 y la familia fue ejecutada en Ekaterimburgo en 1918.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dinastía Románov",
       "url": "https://es.wikipedia.org/wiki/Dinastía_Románov"
+     },
+     {
+      "titulo": "Wikipedia: Casa de Románov",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Rom%C3%A1nov",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -26220,7 +26230,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Reforma protestante comenzó en 1517, cuando Lutero publicó sus 95 tesis contra las indulgencias; se extendió por Europa y dio lugar a las iglesias protestantes.",
+    "resumen": "Movimiento religioso iniciado en 1517, cuando Lutero hizo públicas las 95 tesis contra las indulgencias en Wittenberg. Rompió la unidad de la Iglesia occidental y dio lugar a las iglesias luteranas, reformadas y anglicanas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Reforma protestante",
@@ -29914,12 +29924,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thelema es una religión y filosofía fundadas por Aleister Crowley a partir del Libro de la Ley (1904). Su principio central es hacer cada uno su propia voluntad.",
+    "resumen": "Thelema es la religión y filosofía que Aleister Crowley formuló a partir de «El libro de la ley» (1904), con la máxima «haz tu voluntad». Su sistema se organiza en la A∴A∴ y la Ordo Templi Orientis.",
     "fuentes": [
      {
       "titulo": "Britannica — Thelema",
       "url": "https://www.britannica.com/topic/Thelema",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Thelema",
+      "url": "https://es.wikipedia.org/wiki/Thelema",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38609,7 +38624,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Feliks Dzerzhinski (Dzerzhínovo, 11-9-1877 – Moscú, 20-7-1926), de familia noble polaca y católica; de niño quiso ser sacerdote católico. Fundó la Checa en 1917.",
+    "resumen": "Feliks Edmundovich Dzerzhinski (Dzerzhínovo, 1877 – Moscú, 1926), revolucionario soviético de origen polaco. Fundó y dirigió la Checa en diciembre de 1917 y después la GPU y la OGPU; organizó la represión del Terror Rojo y murió tras un discurso en 1926.",
     "fuentes": [
      {
       "titulo": "Britannica: Feliks Dzerzhinsky",
@@ -38620,6 +38635,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Dzerzhinsky",
       "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/felix-edmundovich-dzerzhinsky",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Feliks Dzerzhinski",
+      "url": "https://es.wikipedia.org/wiki/Feliks_Dzerzhinski",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42729,12 +42749,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hugh Redwald Trevor-Roper (15-1-1914 – 26-1-2003), catedrático regio de Historia en Oxford; en 1945 el espionaje británico le encargó aclarar la muerte de Hitler.",
+    "resumen": "Hugh Redwald Trevor-Roper (1914-2003), historiador británico, catedrático Regius de Historia Moderna en Oxford. Autor de «Los últimos días de Hitler» (1947); avaló los diarios de Hitler en 1983, que resultaron falsos.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Hugh_Trevor-Roper",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Hugh Trevor-Roper",
+      "url": "https://es.wikipedia.org/wiki/Hugh_Trevor-Roper",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -44486,7 +44511,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Jefe duwamish y suquamish (nacido hacia 1780–1790, muerto el 7-6-1866). El famoso discurso que se le atribuye se conoce por versiones reescritas por otros autores.",
+    "resumen": "Jefe Seattle (c. 1786-1866), líder de los duwamish y suquamish, en el actual estado de Washington. El discurso que se le atribuye («la tierra no pertenece al hombre») es una reconstrucción de 1887 de Henry Smith, con versiones muy divergentes.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -44497,6 +44522,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Chief_Seattle",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Jefe Seattle",
+      "url": "https://es.wikipedia.org/wiki/Jefe_Seattle",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -44607,12 +44637,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Jerome Hayden Powell, nacido en Washington en 1953; presidente de la Reserva Federal desde 2018. Estudió Derecho en Georgetown. Vivo según las fuentes consultadas.",
+    "resumen": "Jerome Hayden Powell (Washington, 1953), abogado y banquero de inversión, presidente de la Reserva Federal de EE. UU. desde 2018. Fue nominado por Trump y renominado por Biden en 2021.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Jerome_Powell",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Jerome Powell",
+      "url": "https://es.wikipedia.org/wiki/Jerome_Powell",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46993,12 +47028,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lindsey Graham (Central, Carolina del Sur, 9-7-1955) es senador republicano por Carolina del Sur desde 2003 y un habitual de la política exterior intervencionista.",
+    "resumen": "Lindsey Olin Graham (Central, Carolina del Sur, 1955), político republicano estadounidense, senador por Carolina del Sur desde 2003. Antes fue representante (1995-2003) y oficial de la Fuerza Aérea.",
     "fuentes": [
      {
       "titulo": "Britannica: Lindsey Graham",
       "url": "https://www.britannica.com/biography/Lindsey-Graham",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Lindsey Graham",
+      "url": "https://es.wikipedia.org/wiki/Lindsey_Graham",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47615,12 +47655,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ambrosio Teodosio Macrobio, gramático y filósofo latino que floreció hacia el año 400; sus Saturnales se escribieron después de c. 431. Fechas de vida desconocidas.",
+    "resumen": "Ambrosio Teodosio Macrobio (c. 370 – c. 430), gramático y filósofo romano. Autor de las «Saturnales» y del comentario al «Sueño de Escipión» de Cicerón, transmisor del neoplatonismo a la Edad Media.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/355384",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Macrobio",
+      "url": "https://es.wikipedia.org/wiki/Macrobio",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -49757,7 +49802,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Actor, director y productor estadounidense (1915-1985), conocido por Citizen Kane y la emisión de La guerra de los mundos (1938). No consta que fuera francmasón.",
+    "resumen": "Orson Welles (Kenosha, 1915 – Los Ángeles, 1985), actor, director y productor estadounidense. Con el Mercury Theatre radiaron «La guerra de los mundos» (1938) y dirigió «Ciudadano Kane» (1941), «El cuarto mandamiento» (1942) y «Sed de mal» (1958).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orson Welles",
@@ -53618,7 +53663,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Samuel Hartlib (Elbing, c. 1600 – Londres u Oxford, 1662), «el gran informador de Europa», promotor de la correspondencia científica en la Inglaterra de Cromwell.",
+    "resumen": "Samuel Hartlib (Elbing, c. 1600 – Londres, 1662), reformador y escritor anglo-prusiano. Su círculo promovió la ciencia baconiana, la educación y la agricultura; mantuvo correspondencia con Milton, Boyle y Comenius.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -53629,6 +53674,11 @@ window.CRONO = {
       "titulo": "Deutsche Biographie",
       "url": "https://www.deutsche-biographie.de/sfz26194.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Samuel Hartlib",
+      "url": "https://es.wikipedia.org/wiki/Samuel_Hartlib",
+      "consultado": "2026-11-20"
      }
     ]
    },
