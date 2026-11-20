@@ -6298,7 +6298,7 @@ window.CRONO = {
      "nota": "Potencia a la que la guerra pretende frenar."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -8550,7 +8550,7 @@ window.CRONO = {
      "nota": "Su ejemplo principal."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -10030,7 +10030,7 @@ window.CRONO = {
      "nota": "Su última ratio."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -10610,7 +10610,7 @@ window.CRONO = {
      "nota": "Uno de sus frentes."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -11967,7 +11967,7 @@ window.CRONO = {
      "nota": "Fase económica europea."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -14306,7 +14306,7 @@ window.CRONO = {
      "nota": "Su culminación religiosa."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -14617,7 +14617,7 @@ window.CRONO = {
      "nota": "Forma de combate de esa guerra."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -16092,7 +16092,7 @@ window.CRONO = {
      "nota": "Mismo ámbito."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -16468,7 +16468,7 @@ window.CRONO = {
      "nota": "Antecedente, según el autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -16909,7 +16909,7 @@ window.CRONO = {
      "nota": "Alternativa al sistema del dólar."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -17203,7 +17203,7 @@ window.CRONO = {
      "nota": "Su séptimo Rebe."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -17894,7 +17894,7 @@ window.CRONO = {
      "nota": "Colectivización."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -17988,7 +17988,7 @@ window.CRONO = {
      "nota": "Su autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -19745,7 +19745,7 @@ window.CRONO = {
      "nota": "Familia banquera."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -20026,7 +20026,7 @@ window.CRONO = {
      "nota": "El autor la cita en la programación predictiva (propuesta)."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -20937,7 +20937,7 @@ window.CRONO = {
      "nota": "Consecuencia."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -21055,7 +21055,7 @@ window.CRONO = {
      "nota": "La otra gran distopía."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -21619,7 +21619,7 @@ window.CRONO = {
      "nota": "Su autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -26192,7 +26192,7 @@ window.CRONO = {
      "nota": "Contrarreforma, según el autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -26980,7 +26980,7 @@ window.CRONO = {
      "nota": "Heredero."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -27656,7 +27656,7 @@ window.CRONO = {
      "nota": "Antecedente inmediato."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -29338,7 +29338,7 @@ window.CRONO = {
      "nota": "Según el autor, llegaron siglos después."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -29726,7 +29726,7 @@ window.CRONO = {
      "nota": "Antecedente del primer templo."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -30894,7 +30894,7 @@ window.CRONO = {
      "nota": "Su autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -32047,7 +32047,7 @@ window.CRONO = {
      "nota": "La alianza que cita."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -32733,7 +32733,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -33350,7 +33350,7 @@ window.CRONO = {
      "nota": "Según el autor, fue miembro."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
@@ -35153,7 +35153,7 @@ window.CRONO = {
      "nota": "La dirigió del lado israelí."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -36078,7 +36078,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -41180,7 +41180,7 @@ window.CRONO = {
      "nota": "Según el autor, fue fabiano."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -43552,7 +43552,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -46448,7 +46448,7 @@ window.CRONO = {
      "nota": "Su banquero."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -46738,7 +46738,7 @@ window.CRONO = {
      "nota": "Senador clave en el apoyo a la guerra."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -46782,7 +46782,7 @@ window.CRONO = {
     ]
    },
    "conexiones": [],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -47980,7 +47980,7 @@ window.CRONO = {
     ]
    },
    "conexiones": [],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -48409,7 +48409,7 @@ window.CRONO = {
      "nota": "Fue su líder."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -49480,7 +49480,7 @@ window.CRONO = {
      "nota": "Su emisión."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -52402,7 +52402,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -52600,7 +52600,7 @@ window.CRONO = {
      "nota": "Su revolución."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53355,7 +53355,7 @@ window.CRONO = {
      "nota": "Casa Oppenheimer de Hanóver."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -53512,7 +53512,7 @@ window.CRONO = {
      "nota": "El autor contrapone ambos métodos."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -53614,7 +53614,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -54347,7 +54347,7 @@ window.CRONO = {
      "nota": "Su amigo Darwin."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -56559,7 +56559,7 @@ window.CRONO = {
      "nota": "Intento de explicarla por ciclos."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
