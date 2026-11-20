@@ -7584,7 +7584,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Concilio ecuménico celebrado en varias etapas entre 1545 y 1563.",
+    "resumen": "Concilio ecuménico convocado por Pablo III y celebrado con interrupciones entre 1545 y 1563 (Trento y Bolonia), clausurado por Pío IV. Definió la doctrina católica frente a la Reforma (justificación, sacramentos, canon de la Escritura y tradición), reformó la disciplina del clero con los seminarios y fijó la misa tridentina.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia de prueba, sin contrastar)",
@@ -14747,7 +14747,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "EE. UU. y sus aliados invadieron Irak en marzo de 2003. Pendiente de contrastar. (visita de Rumsfeld al palacio Pallavicini)",
+    "resumen": "La invasión de Irak comenzó el 20-3-2003 con una coalición liderada por EE. UU. y el Reino Unido, sin mandato explícito del Consejo de Seguridad. El régimen de Sadam Husein cayó en abril; no se encontraron las armas de destrucción masiva alegadas (informe Duelfer, 2004). La ocupación se prolongó hasta 2011 y el conflicto derivó en guerra civil y en el surgimiento del Estado Islámico.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Guerra de Irak",
@@ -21250,11 +21250,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francia ocupó Malta en junio de 1798, camino de Egipto, y expulsó a los caballeros. Pendiente de fuente.",
+    "resumen": "La expedición francesa a Egipto ocupó Malta el 11-6-1798 y expulsó a la Orden de San Juan; el gran maestre Hompesch capituló. Los franceses se rindieron a los británicos en septiembre de 1800; el Tratado de Amiens (1802) preveía devolver la isla a la Orden, pero Gran Bretaña la retuvo y su posesión quedó confirmada en 1814.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Invasión francesa de Malta",
       "url": "https://es.wikipedia.org/wiki/Invasi%C3%B3n_francesa_de_Malta"
+     },
+     {
+      "titulo": "Wikipedia: French invasion of Malta",
+      "url": "https://en.wikipedia.org/wiki/French_invasion_of_Malta",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -32853,12 +32858,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Adam Smith (Kirkcaldy, 1723 – Edimburgo, 1790), autor de La riqueza de las naciones (1776).",
+    "resumen": "Economista y filósofo escocés (Kirkcaldy, 1723 – Edimburgo, 1790). Profesor de lógica y de filosofía moral en Glasgow, publicó «La teoría de los sentimientos morales» (1759) y «La riqueza de las naciones» (1776), obra fundacional de la economía clásica (división del trabajo, mercado y «mano invisible»).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Adam-Smith",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Adam Smith",
+      "url": "https://es.wikipedia.org/wiki/Adam_Smith",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -32916,7 +32926,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dictador de Alemania de 1933 a 1945. Se suicidó en el búnker de Berlín el 30 de abril de 1945.",
+    "resumen": "Político alemán de origen austriaco (Braunau, 1889 – Berlín, 1945), líder del Partido Nacionalsocialista. Canciller desde enero de 1933, concentró todo el poder tras la muerte de Hindenburg (1934) y llevó a Alemania a la Segunda Guerra Mundial; fue responsable del Holocausto. Se suicidó en el búnker de la Cancillería el 30-4-1945.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Adolf Hitler",
@@ -33115,7 +33125,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico teórico, autor de la teoría de la relatividad.",
+    "resumen": "Físico alemán, después suizo y estadounidense (Ulm, 1879 – Princeton, 1955). En 1905 publicó la relatividad especial y la explicación del efecto fotoeléctrico, por la que recibió el Nobel de Física de 1921; en 1915 formuló la relatividad general. Trabajó en la Oficina de Patentes de Berna, fue profesor en Zúrich, Praga y Berlín y, desde 1933, en el Instituto de Estudios Avanzados de Princeton.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -33872,12 +33882,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Príncipe Aly Khan (1911–1960), hijo del Aga Khan III y embajador de Pakistán ante la ONU.",
+    "resumen": "Príncipe Ali Khan (Turín, 1911 – París, 1960), hijo del Aga Khan III. Fue diplomático pakistaní, representante ante la ONU y vicepresidente de la Asamblea General en 1958; estuvo casado con Rita Hayworth entre 1949 y 1953.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Prince_Aly_Khan",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Aly Khan",
+      "url": "https://en.wikipedia.org/wiki/Aly_Khan",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34266,12 +34281,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anton Szandor LaVey (1930–1997), fundó la Iglesia de Satán en 1966.",
+    "resumen": "Anton Szandor LaVey (Chicago, 1930 – San Francisco, 1997), nombre adoptado por Howard Stanton Levey. Fundó en 1966 la Iglesia de Satán y publicó «La Biblia satánica» (1969); su figura impulsó el satanismo moderno como movimiento cultural.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/List_of_occult_writers",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Anton LaVey",
+      "url": "https://es.wikipedia.org/wiki/Anton_LaVey",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34527,11 +34547,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo griego (384–322 a.C.), discípulo de Platón y maestro de Alejandro Magno.",
+    "resumen": "Filósofo griego de Estagira (384-322 a. C.), discípulo de Platón en la Academia y preceptor de Alejandro Magno. Fundó el Liceo en Atenas y sistematizó la lógica, la física, la metafísica, la ética, la política, la retórica y la poética; su obra dominó la filosofía y la ciencia europeas hasta la Edad Moderna.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
       "url": "https://es.wikipedia.org/wiki/Aristóteles"
+     },
+     {
+      "titulo": "Wikipedia: Aristóteles",
+      "url": "https://es.wikipedia.org/wiki/Arist%C3%B3teles",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34781,7 +34806,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo francés (1798–1857), creador del positivismo y considerado fundador de la sociología.",
+    "resumen": "Auguste Comte (Montpellier, 1798 – París, 1857), filósofo francés, creador del positivismo y de la sociología. Formuló la ley de los tres estadios y publicó el «Curso de filosofía positiva» (1830-1842).",
     "fuentes": [
      {
       "titulo": "Britannica: The Positive Philosophy of Auguste Comte",
@@ -34792,6 +34817,11 @@ window.CRONO = {
       "titulo": "Project Gutenberg: Cours de philosophie positive",
       "url": "https://www.gutenberg.org/ebooks/31881",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: Auguste Comte",
+      "url": "https://es.wikipedia.org/wiki/Auguste_Comte",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -39434,12 +39464,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "François Quesnay (Méré, 4-6-1694 – 16-12-1774), médico de Luis XV y autor del Tableau économique (1758).",
+    "resumen": "François Quesnay (Méré, 1694 – Versalles, 1774), médico de Luis XV y economista francés, fundador de la fisiocracia. Publicó el «Tableau économique» (1758), una de las primeras representaciones del flujo circular de la renta.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: François Quesnay",
+      "url": "https://es.wikipedia.org/wiki/Fran%C3%A7ois_Quesnay",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40018,12 +40053,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Georg Wilhelm Friedrich Hegel (Stuttgart, 1770 – Berlín, 1831), filósofo idealista alemán.",
+    "resumen": "Filósofo alemán (Stuttgart, 1770 – Berlín, 1831), figura central del idealismo. Autor de la «Fenomenología del espíritu» (1807), la «Ciencia de la lógica» y la «Filosofía del derecho» (1821); profesor en Jena, Heidelberg y Berlín, su dialéctica influyó en Marx y en buena parte de la filosofía posterior.",
     "fuentes": [
      {
       "titulo": "Britannica: Political philosophy",
       "url": "https://www.britannica.com/topic/political-philosophy/American-constitutionalism",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Georg Wilhelm Friedrich Hegel",
+      "url": "https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40387,12 +40427,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Giorgio Almirante (1914–1988), cofundador y secretario del Movimiento Social Italiano.",
+    "resumen": "Giorgio Almirante (Salsomaggiore Terme, 1914 – Roma, 1988), político italiano. Fundó y dirigió el Movimento Sociale Italiano (MSI), partido neofascista, y fue diputado desde 1948; antes había dirigido «La difesa della razza» y colaborado con la República de Salò.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Giorgio_Almirante",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (it): Giorgio Almirante",
+      "url": "https://it.wikipedia.org/wiki/Giorgio_Almirante",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40533,12 +40578,17 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Físico teórico italiano (1942–2000); el autor da 2002.",
+    "resumen": "Físico teórico italiano (1942-2000), investigador en teoría cuántica de campos. Con Emilio Del Giudice desarrolló el modelo de los dominios de coherencia (DQC), aplicado después al agua y a los sistemas biológicos.",
     "fuentes": [
      {
       "titulo": "MDPI Entropy 2014, 16(9), 4874",
       "url": "https://mdpi.com/1099-4300/16/9/4874",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Giuliano Preparata",
+      "url": "https://en.wikipedia.org/wiki/Giuliano_Preparata",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -41285,7 +41335,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Halfdan Mahler (21-4-1923 – 14-12-2016) fue tercer director general de la OMS (1973-1988).",
+    "resumen": "Halfdan Theodor Mahler (1923-2016), médico danés, director general de la OMS de 1973 a 1988. Impulsó la estrategia de «salud para todos en el año 2000» y la atención primaria (Declaración de Alma-Ata, 1978).",
     "fuentes": [
      {
       "titulo": "OMS: fallece Halfdan Mahler",
@@ -41296,6 +41346,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Halfdan T. Mahler",
       "url": "https://en.wikipedia.org/wiki/Halfdan_T._Mahler",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Halfdan Mahler",
+      "url": "https://en.wikipedia.org/wiki/Halfdan_Mahler",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42903,7 +42958,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico, matemático y alquimista inglés. Newton presidió la Royal Society entre 1703 y 1727.",
+    "resumen": "Físico, matemático y astrónomo inglés (Woolsthorpe, 1643 – Londres, 1727). Formuló las leyes del movimiento y la gravitación universal en los «Principia» (1687), desarrolló el cálculo y la teoría de la luz y el color; presidió la Royal Society (1703-1727) y dirigió la Casa de la Moneda.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia de prueba, sin contrastar)",
@@ -45040,12 +45095,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico teórico estadounidense (9-7-1911 – 13-4-2008); acuñó «agujero negro» y «espuma cuántica».",
+    "resumen": "John Archibald Wheeler (Jacksonville, 1911 – Hightstown, 2008), físico teórico estadounidense. Acuñó los términos «agujero negro» y «agujero de gusano», trabajó en la fisión nuclear y en la gravitación cuántica, y fue maestro de Feynman y Thorne.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/John-Archibald-Wheeler",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: John Archibald Wheeler",
+      "url": "https://es.wikipedia.org/wiki/John_Archibald_Wheeler",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46098,12 +46158,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Karl Marx (Tréveris, 5-5-1818 – Londres, 14-3-1883), filósofo, economista y revolucionario alemán.",
+    "resumen": "Filósofo, economista y revolucionario alemán (Tréveris, 1818 – Londres, 1883). Redactó con Engels el «Manifiesto comunista» (1848) y analizó el capitalismo en «El capital» (1867); participó en la Asociación Internacional de Trabajadores (1864) y vivió exiliado en Londres desde 1849.",
     "fuentes": [
      {
       "titulo": "DHM LeMO: Karl Marx 1818-1883",
       "url": "https://www.dhm.de/lemo/biografie/karl-marx",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Karl Marx",
+      "url": "https://es.wikipedia.org/wiki/Karl_Marx",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47223,12 +47288,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritor y retórico sirio en lengua griega del siglo II; fechas aproximadas.",
+    "resumen": "Luciano de Samosata (c. 125 – después de 180), escritor y retórico sirio en lengua griega. Autor de diálogos satíricos («Diálogos de los muertos», «Historia verdadera», «Alejandro el falso profeta») que se burlan de la religión, la filosofía y la credulidad.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Lucian of Samosata",
       "url": "https://en.wikipedia.org/wiki/Lucian_of_Samosata",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Luciano de Samosata",
+      "url": "https://es.wikipedia.org/wiki/Luciano_de_Samosata",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47266,12 +47336,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Luigi Taparelli d'Azeglio (Turín, 1793 – Roma, 1862), jesuita y teórico del derecho natural.",
+    "resumen": "Luigi Taparelli d'Azeglio (Turín, 1793 – Roma, 1862), jesuita y teórico del derecho natural. Formuló el principio de subsidiariedad en su «Saggio teoretico di diritto naturale» (1840-1843) e influyó en la doctrina social de la Iglesia.",
     "fuentes": [
      {
       "titulo": "Catholic World Report: Behr sobre Taparelli",
       "url": "https://www.catholicworldreport.com/2020/04/13/recovering-the-historical-roots-true-meaning-of-social-justice/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Luigi Taparelli d'Azeglio",
+      "url": "https://en.wikipedia.org/wiki/Luigi_Taparelli_d%27Azeglio",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47945,11 +48020,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Teólogo y fraile agustino alemán, figura central de la Reforma protestante.",
+    "resumen": "Martín Lutero (Eisleben, 1483-1546), fraile agustino y profesor de teología en Wittenberg. En 1517 hizo públicas las 95 tesis contra las indulgencias; fue excomulgado en 1521 y declarado proscrito en la Dieta de Worms. Tradujo el Nuevo Testamento al alemán (1522) y dio forma a las iglesias luteranas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Martín Lutero",
       "url": "https://es.wikipedia.org/wiki/Martín_Lutero"
+     },
+     {
+      "titulo": "Wikipedia: Martín Lutero",
+      "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -50872,12 +50952,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Philip Kindred Dick (16-12-1928 – 2-3-1982), novelista estadounidense de ciencia ficción.",
+    "resumen": "Philip Kindred Dick (Chicago, 1928 – Santa Ana, 1982), novelista estadounidense de ciencia ficción. Autor de «El hombre en el castillo» (1962), «¿Sueñan los androides con ovejas eléctricas?» (1968) y «Ubik» (1969); sus temas (realidad simulada, identidad, poder) marcaron el cine y la cultura popular.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Philip K. Dick",
       "url": "https://en.wikipedia.org/wiki/Philip_K._Dick",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Philip K. Dick",
+      "url": "https://es.wikipedia.org/wiki/Philip_K._Dick",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51046,12 +51131,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pieter Jan Beckx (Sichem, 1795 – Roma, 1887), general de la Compañía de Jesús de 1853 a 1887.",
+    "resumen": "Jesuita flamenco (Sichem, 1795 – Roma, 1887), general de la Compañía de Jesús de 1853 a 1887. Gobernó la orden en una etapa de expansión misionera y de fuerte anticlericalismo en Europa; murió en Roma a los 92 años.",
     "fuentes": [
      {
       "titulo": "New Advent: Society of Jesus (generales)",
       "url": "https://www.newadvent.org/cathen/14100a.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Peter Jan Beckx",
+      "url": "https://en.wikipedia.org/wiki/Peter_Jan_Beckx",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52063,12 +52153,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Richard Evelyn Byrd (1888–1957), aviador y explorador polar; dirigió la Operación Highjump (1946–1947).",
+    "resumen": "Richard Evelyn Byrd (Winchester, 1888 – Boston, 1957), aviador y explorador polar estadounidense. Sobrevoló el Polo Norte en 1926 (hecho discutido) y el Polo Sur en 1929, y dirigió las operaciones Highjump (1946-47) y Deep Freeze.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Richard_E._Byrd",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Richard Evelyn Byrd",
+      "url": "https://es.wikipedia.org/wiki/Richard_Evelyn_Byrd",
+      "consultado": "2026-11-20"
      }
     ]
    },
