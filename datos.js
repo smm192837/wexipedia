@@ -46407,11 +46407,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leopoldo I (1640–1705), emperador del Sacro Imperio Romano Germánico desde 1658. Pendiente de fuente.",
+    "resumen": "Leopoldo I (1640-1705), emperador del Sacro Imperio Romano Germánico desde 1658, rey de Hungría y Bohemia. Durante su reinado, Viena fue liberada del asedio otomano en 1683.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Leopoldo I",
-      "url": "https://es.wikipedia.org/wiki/Leopoldo_I_del_Sacro_Imperio_Romano_Germ%C3%A1nico"
+      "url": "https://es.wikipedia.org/wiki/Leopoldo_I_del_Sacro_Imperio_Romano_Germ%C3%A1nico",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -47949,6 +47950,11 @@ window.CRONO = {
       "titulo": "A Grain of Truth: Recreating Dr. Emoto's Rice Experiment — Skeptical Inquirer",
       "url": "https://skepticalinquirer.org/exclusive/a-grain-of-truth-recreating-dr-emotos-rice-experiment/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Masaru Emoto",
+      "url": "https://en.wikipedia.org/wiki/Masaru_Emoto",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52556,11 +52562,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Maximilien de Robespierre (1758–1794), abogado y dirigente jacobino. No consta que fuera jesuita. Pendiente de fuente.",
+    "resumen": "Maximilien de Robespierre (1758-1794), abogado y dirigente jacobino, miembro del Comité de Salvación Pública y figura central del Terror; fue guillotinado el 28 de julio de 1794. No consta que fuera jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Maximilien Robespierre",
-      "url": "https://es.wikipedia.org/wiki/Maximilien_Robespierre"
+      "url": "https://es.wikipedia.org/wiki/Maximilien_Robespierre",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -53306,11 +53313,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Samuel Oppenheimer, financiero judío de la corte imperial de Viena (hacia 1630–1703). Pendiente de comprobar fechas y fuente.",
+    "resumen": "Samuel Oppenheimer (1630-1703), banquero judío de la corte imperial de Viena desde 1680 y proveedor del ejército en las guerras turcas; coleccionista de manuscritos y arte.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Samuel Oppenheimer",
-      "url": "https://en.wikipedia.org/wiki/Samuel_Oppenheimer"
+      "url": "https://en.wikipedia.org/wiki/Samuel_Oppenheimer",
+      "consultado": "2026-11-20"
      }
     ]
    },
