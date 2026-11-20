@@ -42689,9 +42689,9 @@ window.CRONO = {
     {
      "autor": "nacho-lopez-cabanas",
      "obra": "charla-teoria-del-todo-3",
-     "ubicacion": "descripción del vídeo",
+     "ubicacion": "min. 11:30–11:46",
      "url": "https://www.youtube.com/watch?v=943nLeRB0mE",
-     "resumen": "Según el autor, la teoría de las estructuras disipativas de Prigogine es uno de los dos pilares de la psincronología: sirve para entender la psique como sistema y cómo se forman los trastornos psicológicos.",
+     "resumen": "Según el autor, Prigogine expuso la teoría de las estructuras disipativas (Nobel en 1977) y es uno de los dos pilares de la psincronología: sirve para entender la psique como sistema abierto y cómo se forman los trastornos.",
      "contradice": []
     }
    ],
@@ -42712,7 +42712,7 @@ window.CRONO = {
     }
    ],
    "citas": [],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
