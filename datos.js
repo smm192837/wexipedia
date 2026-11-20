@@ -13506,7 +13506,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay datos fiables: el patrimonio de la familia Rothschild es mucho menor que la riqueza mundial. Pendiente de cifras y fuente.",
+    "resumen": "No hay datos fiables del 56 %: el patrimonio de la familia Rothschild es mucho menor que la riqueza mundial y el autor no constata la cifra. La ficha queda en borrador.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Familia Rothschild",
