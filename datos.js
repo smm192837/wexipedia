@@ -33371,7 +33371,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Abogado y general confederado, Soberano Gran Comendador del Rito Escocés (jurisdicción sur de EE. UU.) y autor de «Moral y dogma» (1871). El águila bicéfala es emblema del grado 33 del Rito Escocés.",
+    "resumen": "Albert Pike (Boston, 29-12-1809 – Washington, 2-4-1891), abogado y general confederado, fue Soberano Gran Comendador de la jurisdicción sur del Rito Escocés de 1859 hasta su muerte. Publicó «Morals and Dogma» (1871).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Albert Pike",
@@ -34029,12 +34029,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Amancio Ortega Gaona, nacido en Busdongo de Arbás (León) el 28-3-1936; fundador de Inditex (Zara), que compró Massimo Dutti en 1991–1995. Vivo según las fuentes consultadas.",
+    "resumen": "Amancio Ortega Gaona (Busdongo de Arbás, León, 28-3-1936) fundó Inditex, cuyo buque insignia, Zara, abrió su primera tienda en A Coruña en 1975. Inditex salió a bolsa en 2001.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Amancio-Ortega",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Amancio Ortega",
+      "url": "https://es.wikipedia.org/wiki/Amancio_Ortega",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -36164,12 +36169,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Christoph Scheiner (25-7-1573 o 1575 – Neisse, 18-6-1650), jesuita, inventor del pantógrafo y autor de Rosa Ursina sobre las manchas solares; disputó con Galileo la prioridad.",
+    "resumen": "Christoph Scheiner (25-7-1573 o 1575 – Neisse, 18-6-1650), jesuita, inventó el pantógrafo (1603) y observó las manchas solares desde 1611, lo que le enfrentó a Galileo por la prioridad. Publicó «Rosa Ursina» (1630).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Christoph_Scheiner",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Christoph Scheiner",
+      "url": "https://es.wikipedia.org/wiki/Christoph_Scheiner",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38593,7 +38603,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Poeta modernista, autor de los Cantos. Apoyó al fascismo italiano; acusado de traición, estuvo internado en el hospital St. Elizabeths (1945–1958). Murió en Venecia el 1 de noviembre de 1972.",
+    "resumen": "Ezra Pound (Hailey, Idaho, 30-10-1885 – Venecia, 1-11-1972), poeta modernista, autor de los «Cantos». Apoyó al fascismo italiano y emitió propaganda por la radio italiana durante la guerra; acusado de traición, fue declarado no apto para juicio y estuvo internado en el hospital St. Elizabeths (1945-1958). Volvió a Italia en 1958.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Ezra Pound",
@@ -41847,7 +41857,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Piloto de bombardeo en picado más condecorado de la Luftwaffe. Emigró a Argentina en 1948, donde fue cercano a Perón y fundó el Kameradenwerk de ayuda a nazis.",
+    "resumen": "Hans-Ulrich Rudel (Konradsdorf, 2-7-1916 – Rosenheim, 18-12-1982), piloto de bombardero en picado, fue el militar alemán más condecorado de la Segunda Guerra Mundial, con unas 2.500 misiones. Emigró a Argentina en 1948, donde fue cercano a Perón y fundó una red de ayuda a nazis.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Hans-Ulrich Rudel",
@@ -44261,12 +44271,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "James Jesus Angleton (Boise, 9-12-1917 – Washington, 11-5-1987), jefe de contrainteligencia de la CIA de 1954 a 1975; en 1945 sacó a Borghese de manos de los partisanos.",
+    "resumen": "James Jesus Angleton (Boise, 9-12-1917 – Washington, 11-5-1987) sirvió en la OSS en Italia, donde en 1945 sacó a Borghese de manos de los partisanos. Fue jefe de contrainteligencia de la CIA de 1954 hasta que el director William Colby lo apartó a finales de 1974.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://www.Wikipedia.org/wiki/James_Angleton",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: James Jesus Angleton",
+      "url": "https://es.wikipedia.org/wiki/James_Jesus_Angleton",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46772,7 +46787,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Político belga, fundador del rexismo y comandante de voluntarios valones de las Waffen-SS. Huyó a España en 1945, se nacionalizó y murió en Málaga. La frase de Hitler se conoce por el propio Degrelle.",
+    "resumen": "Léon Degrelle (Bouillon, 15-6-1906 – Málaga, 31-3-1994) fundó el movimiento rexista y mandó la Legión Valona de las Waffen-SS en el frente oriental. Huyó en avión a España en mayo de 1945, se nacionalizó español en 1954 y murió en Málaga. La frase de Hitler se conoce por el propio Degrelle.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Léon Degrelle",
@@ -49477,7 +49492,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Napoleón (1769-1821), emperador de los franceses. La frase que se le atribuye sobre los jesuitas procede de recuerdos indirectos (Montholon, Santa Elena) y no tiene fuente primaria comprobada; se marca dudosa.",
+    "resumen": "Napoleón Bonaparte (Ajaccio, 15-8-1769 – Santa Elena, 5-5-1821) tomó el poder en el golpe de Brumario (1799) y se proclamó emperador de los franceses en 1804. Abdicó en 1814, volvió de Elba en 1815 y fue derrotado en Waterloo. La frase que se le atribuye sobre los jesuitas procede de recuerdos indirectos (Montholon, Santa Elena) y no tiene fuente primaria comprobada; se marca dudosa.",
     "fuentes": [
      {
       "titulo": "Britannica: Napoleon I",
@@ -49488,6 +49503,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Napoleon",
       "url": "https://en.wikipedia.org/wiki/Napoleon",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Napoleón Bonaparte",
+      "url": "https://es.wikipedia.org/wiki/Napoleón_Bonaparte",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -50145,7 +50165,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Oficial de la Wehrmacht clave en el fracaso del atentado del 20 de julio de 1944 en Berlín; tras la guerra lideró el Partido Socialista del Reich. Vivió en Egipto y Siria y murió en Marbella.",
+    "resumen": "Otto Ernst Remer (Neubrandenburg, 18-8-1912 – Marbella, 4-10-1997), oficial de la Wehrmacht, fue clave en el fracaso del atentado del 20 de julio de 1944 en Berlín. Tras la guerra cofundó el Partido Socialista del Reich (1949), ilegalizado en 1952, y vivió en el exilio.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Otto Ernst Remer",
