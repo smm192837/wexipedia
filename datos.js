@@ -16070,11 +16070,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Illuminati de Baviera los fundó Adam Weishaupt el 1 de mayo de 1776 y se disolvieron hacia 1785. Pendiente de fuente.",
+    "resumen": "Los Illuminati de Baviera fueron fundados por Adam Weishaupt el 1 de mayo de 1776 y se disolvieron hacia 1785. No consta una filiación con los alumbrados españoles.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Iluminados de Baviera",
-      "url": "https://es.wikipedia.org/wiki/Iluminados_de_Baviera"
+      "url": "https://es.wikipedia.org/wiki/Iluminados_de_Baviera",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -16449,11 +16450,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Concilio Vaticano I proclamó la infalibilidad pontificia el 18-7-1870. Pendiente de fuente.",
+    "resumen": "El Concilio Vaticano I proclamó el 18 de julio de 1870 el dogma de la infalibilidad pontificia en cuestiones de fe y costumbres. No consta que fuera una «toma de control» jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Infalibilidad pontificia",
-      "url": "https://es.wikipedia.org/wiki/Infalibilidad_pontificia"
+      "url": "https://es.wikipedia.org/wiki/Infalibilidad_pontificia",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -19721,11 +19723,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mayer Amschel Rothschild fue aprendiz en el banco Oppenheim de Hanóver hacia 1757 (según la ficha de Mayer). Pendiente de contrastar la hipótesis jesuita.",
+    "resumen": "Mayer Amschel Rothschild fue aprendiz en la casa bancaria Oppenheim de Hanóver hacia 1757; no consta una mediación jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mayer Amschel Rothschild",
-      "url": "https://es.wikipedia.org/wiki/Mayer_Amschel_Rothschild"
+      "url": "https://es.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -20908,7 +20911,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lenin murió el 21 de enero de 1924 en Gorki, cerca de Moscú, a los 53 años, tras una serie de ictus que desde 1922 lo habían apartado de la dirección del partido. Su desaparición abrió una lucha por el poder de la que salió vencedor Stalin, ya afianzado como secretario general.",
+    "resumen": "Lenin murió el 21 de enero de 1924 en Gorki, a los 53 años, tras una serie de ictus que desde 1922 lo habían apartado de la dirección. Su muerte abrió una lucha por el poder que ganó Stalin.",
     "fuentes": [
      {
       "titulo": "Vladimir Lenin: resumen biográfico",
@@ -26167,11 +26170,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Reforma protestante empezó en 1517 con las 95 tesis de Lutero. Pendiente de fuente.",
+    "resumen": "La Reforma protestante comenzó en 1517, cuando Lutero publicó sus 95 tesis contra las indulgencias; se extendió por Europa y dio lugar a las iglesias protestantes.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Reforma protestante",
-      "url": "https://es.wikipedia.org/wiki/Reforma_protestante"
+      "url": "https://es.wikipedia.org/wiki/Reforma_protestante",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -26954,11 +26958,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Revolución francesa abarca de 1789 a 1799 (golpe de Napoleón). Pendiente de comprobar la tesis de financiación jesuita.",
+    "resumen": "La Revolución francesa se desarrolló entre 1789 y 1799, desde la convocatoria de los Estados Generales hasta el golpe de Napoleón. No hay pruebas de que se financiara con fondos jesuitas ni de que Robespierre fuera jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Revolución francesa",
-      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa"
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -29315,11 +29320,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Orden del Temple (1119–1312) ofreció servicios financieros a peregrinos y a reyes, como depósitos y cartas de crédito. Pendiente de comprobar el alcance del «arquitectos de la deuda».",
+    "resumen": "La Orden del Temple (1119-1312) ofreció servicios financieros a peregrinos y reyes, como depósitos y cartas de crédito. La idea de que fueran los «arquitectos del dinero ligado a la deuda» es una interpretación del autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orden del Temple",
-      "url": "https://es.wikipedia.org/wiki/Orden_del_Temple"
+      "url": "https://es.wikipedia.org/wiki/Orden_del_Temple",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -54313,11 +54319,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thomas Henry Huxley, biólogo británico (1825–1895), defensor de la teoría de Darwin. Pendiente de contrastar sus estudios de medicina.",
+    "resumen": "Thomas Henry Huxley (1825-1895), biólogo británico, defensor de la teoría de Darwin y divulgador de la ciencia; estudió medicina en Londres y fue cirujano naval. Abuelo de Julian y Aldous Huxley.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Thomas Henry Huxley",
-      "url": "https://es.wikipedia.org/wiki/Thomas_Henry_Huxley"
+      "url": "https://es.wikipedia.org/wiki/Thomas_Henry_Huxley",
+      "consultado": "2026-11-20"
      }
     ]
    },
