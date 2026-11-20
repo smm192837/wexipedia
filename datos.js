@@ -295,6 +295,17 @@ window.CRONO = {
      "fecha": "2022-10-30",
      "duracion": "no consta (transcripción .txt, sin tiempos)",
      "resumen": "Monólogo de Jorge Guerra sobre la Primera Guerra Mundial como escalón de una agenda oculta. Repasa el atentado de Sarajevo (la Joven Bosnia y la Mano Negra de Dimitrijević, el primer intento con bombas y el disparo de Princip, la pistola que acabó en manos de un jesuita y en el museo de Viena), los dos bloques, la duración, las víctimas y la caída de los cuatro imperios. Sostiene que los Protocolos de los Sabios de Sion y la revista jesuita Civiltà Cattolica «inocularon el veneno» y que la guerra sirvió para crear organismos supraestatales, con Teilhard de Chardin como inspirador. Presenta la Palestina británica como pago a los Rothschild: la compra de tierras desde 1882, el congreso sionista de Basilea (que fecha en 1887), la declaración Balfour (1917), San Remo y el mandato, además de una supuesta gestión de Louis Brandeis en 1916. Afirma que la Reserva Federal financió a los aliados, que la humillación de Versalles provocó el nazismo y que banqueros sionistas financiaron a Hitler. Cierra con Ferdinand Foch: su educación jesuita, su mando en 1918, su frase sobre Versalles y sus honores de 1921 (Caballeros de Colón, espada de los colegios jesuitas y doctorado en Georgetown)."
+    },
+    {
+     "id": "paradigma-freud-tavistock-bernays",
+     "titulo": "Paradigma: Freud, Tavistock y Bernays (transcripción)",
+     "tipo": "video",
+     "referencia": "Vídeo del canal de Jorge Guerra; título y URL no constan en la transcripción aportada por smiguel1 el 2026-11-20. Minutajes aproximados de la transcripción.",
+     "url": null,
+     "estado": "en-proceso",
+     "fecha": "2026-11-20",
+     "duracion": "12:33 (transcripción)",
+     "resumen": "Monólogo de Jorge Guerra sobre el origen de la psicología moderna y su uso como control social: Brentano como semilla, Freud y el psicoanálisis, Tavistock y Bernays. Sostiene que estos cuatro aparatos construyen el «diván» donde se nos analiza y se nos aplica la terapia, y cierra llamando a derribar los esquemas mentales inyectados. Tesis del autor, pendiente de contraste."
     }
    ]
   },
@@ -57496,6 +57507,71 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "cuatro-carceles-mentales",
+   "tipo": "saber",
+   "titulo": "Las «cuatro cárceles mentales»: el paradigma de Jorge Guerra",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [],
+   "fecha": {
+    "desde": 2026,
+    "aprox": true,
+    "texto": "2026 (tesis del vídeo)"
+   },
+   "resumen": "Jorge Guerra propone un paradigma de cuatro estaciones —Brentano, Freud, Tavistock y Bernays— como constructores del «diván» donde se nos analiza y se nos aplica la terapia. Tesis del autor, con la versión oficial al lado.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "paradigma-freud-tavistock-bernays",
+     "ubicacion": "0:09–12:33 (transcripción)",
+     "url": null,
+     "resumen": "Sostiene que Brentano plantó la semilla, Freud la hizo germinar, Tavistock la convirtió en manipulación de masas y Bernays en propaganda y relaciones públicas; los cuatro construyen el «diván» donde se nos analiza. Cierra llamando a derribar los esquemas mentales inyectados.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "No hay una doctrina de las «cuatro cárceles mentales» en Freud. La cadena Brentano → Freud → Tavistock → Bernays es una tesis de Jorge Guerra: Brentano fue profesor de Freud; Bernays, su doble sobrino, trabajó en la Committee on Public Information y escribió Propaganda (1928); Tavistock se fundó en 1947; MKUltra fue un programa de la CIA (1953-1973), no de Tavistock. La ingeniería del consentimiento y la propaganda están documentadas; la cadena como plan único, no.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Tavistock Institute",
+      "url": "https://en.wikipedia.org/wiki/Tavistock_Institute",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Edward Bernays",
+      "url": "https://en.wikipedia.org/wiki/Edward_Bernays",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Franz Brentano",
+      "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: MKUltra",
+      "url": "https://en.wikipedia.org/wiki/MKUltra",
+      "consultado": "2026-11-20"
+     }
+    ]
+   },
+   "citas": [
+    {
+     "resumen": "«Mientras no derribemos nuestros esquemas mentales... seguiremos siendo sus productos».",
+     "atribuida_a": "Jorge Guerra",
+     "verificacion": "sin-comprobar",
+     "fuente": "Transcripción del vídeo, 12:18–12:33; sin URL."
+    }
+   ],
+   "conexiones": [
+    {
+     "id": "sigmund-freud",
+     "nota": "Persona central de la tesis."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
