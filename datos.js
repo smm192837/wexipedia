@@ -33319,8 +33319,8 @@ window.CRONO = {
     {
      "resumen": "Las dictaduras del futuro descubrirán que no basta la violencia (con bayonetas se puede hacer todo menos sentarse sobre ellas) y que para conservar el poder hay que lograr el consentimiento de los gobernados.",
      "atribuida_a": "Aldous Huxley",
-     "verificacion": "sin-comprobar",
-     "fuente": "Audio incluido en el vídeo, sin identificar su origen; la transcripción sale muy deformada."
+     "verificacion": "verificada",
+     "fuente": "Entrevista de Mike Wallace a Aldous Huxley, 18-05-1958; transcripción parcial: https://restoreamericasmission.com/forum/topics/aldous-huxley-the-dictatorship-of-the-future"
     }
    ],
    "conexiones": [
