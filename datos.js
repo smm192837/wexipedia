@@ -10867,7 +10867,7 @@ window.CRONO = {
      "nota": "El autor la ve como base de la «energía libre»."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -29635,7 +29635,7 @@ window.CRONO = {
      "nota": "Artur Sala menciona a Rudolf Virchow en este episodio."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -47194,7 +47194,7 @@ window.CRONO = {
      "nota": "Artur Sala lo menciona en «Las «señales del ADN» de Montagnier»."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -61169,7 +61169,7 @@ window.CRONO = {
      "nota": "La película que, según el autor, lo inició"
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
