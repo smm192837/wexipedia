@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-19",
+ "generado": "2026-11-20",
  "publica": false,
  "carriles": [
   {
