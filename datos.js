@@ -52090,7 +52090,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundó el neoplatonismo y enseñó en Roma desde hacia 244. Sus tratados los reunió su discípulo Porfirio en las «Enéadas».",
+    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundó el neoplatonismo y enseñó en Roma desde c. 244. Sus tratados los reunió su discípulo Porfirio en las «Enéadas».",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
