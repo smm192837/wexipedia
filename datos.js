@@ -32010,7 +32010,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«en el 2018»",
-   "resumen": "Según Nocera, un portaaviones de EE. UU. fue a Nápoles a buscar a Carlos de Borbón para conmemorar 150 años de alianza con las Dos Sicilias.",
+   "resumen": "Según Nocera, un portaaviones de EE. UU. fue a Nápoles a buscar a Carlos de Borbón para conmemorar 150 años de alianza con las Dos Sicilias. SMiguel1 añade que el USS era «el barco de infiltrado Israel-Egipto».",
    "segun": [
     {
      "autor": "giuseppe-nocera",
