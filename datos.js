@@ -57513,6 +57513,7 @@ window.CRONO = {
    "id": "cuatro-carceles-mentales",
    "tipo": "saber",
    "titulo": "Las «cuatro cárceles mentales»: el paradigma de Jorge Guerra",
+   "color": "gris",
    "carril": "ciencia-saber",
    "naturaleza": "teoria-alternativa",
    "temas": [],
@@ -57571,7 +57572,7 @@ window.CRONO = {
      "nota": "Persona central de la tesis."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {

@@ -28,6 +28,7 @@
   --c-religion: #8a4670;
   --c-politica: #c25a0a;
   --c-economia: #2f7a3f;
+  --c-gris: #3f3f3f;
   --c-ciencia: #2b68ad;
   --c-sociedad: #9c7212;
   --c-fisica:   #2b68ad;
@@ -48,7 +49,7 @@
   --acento: #8fbbe6; --aviso-bg: #3a3014; --aviso-tx: #f2d98c;
   --c-politica-economia: #ec8a70; --c-ciencia-saber: #77abe8;
   --c-personas: #9aa8b6; --c-religion: #d690bb; --c-politica: #f08a3c;
-  --c-economia: #7fc98a; --c-ciencia: #77abe8; --c-sociedad: #d9b158;
+  --c-economia: #7fc98a; --c-ciencia: #77abe8; --c-sociedad: #d9b158; --c-gris: #9a9a9a;
   --c-fisica: #77abe8; --c-quimica: #5cc6c2; --c-biologia: #86c97e; --c-salud: #a59af0; --c-filosofia: #b3a3d6; --c-literatura: #d6a493; --c-saberes: #c9bc5a;
   color-scheme: dark;
 }}
@@ -57,7 +58,7 @@
   --acento: #8fbbe6; --aviso-bg: #3a3014; --aviso-tx: #f2d98c;
   --c-politica-economia: #ec8a70; --c-ciencia-saber: #77abe8;
   --c-personas: #9aa8b6; --c-religion: #d690bb; --c-politica: #f08a3c;
-  --c-economia: #7fc98a; --c-ciencia: #77abe8; --c-sociedad: #d9b158;
+  --c-economia: #7fc98a; --c-ciencia: #77abe8; --c-sociedad: #d9b158; --c-gris: #9a9a9a;
   --c-fisica: #77abe8; --c-quimica: #5cc6c2; --c-biologia: #86c97e; --c-salud: #a59af0; --c-filosofia: #b3a3d6; --c-literatura: #d6a493; --c-saberes: #c9bc5a;
   color-scheme: dark;
 }
@@ -220,7 +221,7 @@ button, input, select { font: inherit; color: inherit; }
 .pill.est-prueba { color: var(--aviso-tx); background: var(--aviso-bg); border-color: transparent; }
 .pill.est-borrador { color: var(--tenue); }
 .pill.est-revisado { color: var(--acento); }
-.pill.est-aprobado { color: var(--c-biologia); }
+.pill.est-aprobado { color: var(--c, var(--c-biologia)); }
 .ficha h2 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 30px; line-height: 1.12; text-wrap: balance; letter-spacing: -0.01em; }
 .fecha { font-family: var(--f-num); font-size: 13px; color: var(--tenue); margin-top: 6px; }
 .lead { font-family: var(--f-lectura); font-size: 18px; line-height: 1.5; margin: 0; max-width: 62ch; }
@@ -653,6 +654,7 @@ const VISTAS = [
 const grupos = VISTAS;
 const vistaDe = f => f.vista || (f.carril === "politica-economia" ? (f.naturaleza === "banca" ? "economia" : "politica") : f.carril === "ciencia-saber" ? "ciencia" : "religion");
 const nombreVista = id => (VISTAS.find(v => v.id === id) || {}).nombre || id;
+const colorFicha = f => f.color ? `var(--c-${f.color})` : color(vistaDe(f));
 const EPOCAS = D.epocas || [];
 
 // ---------- Estado ----------
@@ -780,7 +782,7 @@ for (const f of fichas) {
   const persona = f.tipo === "persona";
   const el = document.createElement("article");
   el.className = `tj${f.estado === "prueba" ? " prueba" : ""}`;
-  el.style.setProperty("--c", color(vistaDe(f)));
+  el.style.setProperty("--c", colorFicha(f));
   el.dataset.id = f.id;
   const cx = conex[f.id];
   const nAut = new Set((f.segun || []).map(s => s.autor)).size;
@@ -790,7 +792,7 @@ for (const f of fichas) {
       <span class="tj-r">${esc(f.resumen)}</span>${sellosTarjeta(f)}${chipCielo(f)}
     </button>` + oficialTarjeta(f) +
     (cx.length ? `<div class="tj-x">${cx.slice(0, 3).map(k => { const o = porId[k.id];
-      return `<button type="button" data-ir="${o.id}" style="--c:${color(vistaDe(o))}" title="${esc(o.titulo)}${k.nota ? " — " + esc(k.nota) : ""}"><i></i><span>${esc(corto(o.titulo))}</span></button>`; }).join("")}${cx.length > 3 ? `<button type="button" class="mas" data-abrir="1">+${cx.length - 3}</button>` : ""}</div>` : "");
+      return `<button type="button" data-ir="${o.id}" style="--c:${colorFicha(o)}" title="${esc(o.titulo)}${k.nota ? " — " + esc(k.nota) : ""}"><i></i><span>${esc(corto(o.titulo))}</span></button>`; }).join("")}${cx.length > 3 ? `<button type="button" class="mas" data-abrir="1">+${cx.length - 3}</button>` : ""}</div>` : "");
   el.querySelector(".tj-a").onclick = () => seleccionar(f.id);
   const det = el.querySelector("details.tj-o"); if (det) det.addEventListener("toggle", () => maquetar(true));
   el.querySelectorAll("[data-ir]").forEach(b => b.onclick = () => ir(b.dataset.ir, f.id));
@@ -1004,7 +1006,7 @@ function marcarVida() {
   const ya = L.T(f.ini), yb = L.T(f.fin + 1);
   vidaSel.hidden = false;
   vidaSel.classList.toggle("aprox", !!f.fecha.aprox);
-  vidaSel.style.cssText = `--c:${color(vistaDe(f))};left:${L.ejeW - 3}px;top:${ya}px;height:${Math.max(6, yb - ya)}px`;
+  vidaSel.style.cssText = `--c:${colorFicha(f)};left:${L.ejeW - 3}px;top:${ya}px;height:${Math.max(6, yb - ya)}px`;
 }
 // Una ficha se ve en pantalla como tarjeta o, si es la persona elegida, como su vida marcada en el eje
 function visible(id) { const f = porId[id]; if (!f) return false;
@@ -1049,7 +1051,7 @@ function mostrarLupa(x, y) {
   const porCarril = VISTAS.map(c => [c, vivos.filter(f => vistaDe(f) === c.id).sort((a, b) => a.ini - b.ini)]).filter(([, l]) => l.length);
   lupa.innerHTML = `<div class="lupa-t">Vivían en ${esc(fmt(año))} · ${vivos.length}</div><div class="lupa-a">Toca un nombre para abrir su ficha</div>` +
     porCarril.map(([c, l]) => `<h4 style="--c:${color(c.id)}">${esc(c.nombre)} · ${l.length}</h4>` +
-      l.map(f => `<button type="button" data-ir="${f.id}" style="--c:${color(vistaDe(f))}"><i></i>${esc(f.titulo)}<span>${esc(fmtFecha(f, false, f.vivo))}</span></button>`).join("")).join("");
+      l.map(f => `<button type="button" data-ir="${f.id}" style="--c:${colorFicha(f)}"><i></i>${esc(f.titulo)}<span>${esc(fmtFecha(f, false, f.vivo))}</span></button>`).join("")).join("");
   lupa.querySelectorAll("[data-ir]").forEach(b => {
     b.onclick = () => { ocultarLupa(); ir(b.dataset.ir, st.sel || undefined); };
     b.onmouseenter = () => { vidaTemp = b.dataset.ir; marcarVida(); };
@@ -1133,7 +1135,7 @@ function abrirBandeja() {
     <div class="ficha-top"><span class="pill">Bandeja</span><button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
     <div><h2>Sin fecha</h2><p class="fautor">Fichas que el autor no sitúa en el tiempo. Se colocarán en el eje cuando haya fecha.${visibles.length < sinFecha.length ? ` Se muestran ${visibles.length} de ${sinFecha.length} por los filtros.` : ""}</p></div>
     ${gr.map(([c, l]) => `<section class="grupo"><h3>${esc(c.nombre)}</h3><ul class="conex">${l.map(o =>
-      `<li><button type="button" data-ir="${o.id}" style="--c:${color(vistaDe(o))}"><i></i><span><strong>${esc(o.titulo)}</strong></span><small>${esc(o.resumen)}</small></button></li>`).join("")}</ul></section>`).join("") || `<div class="vacio">No hay fichas sin fecha con estos filtros.</div>`}
+      `<li><button type="button" data-ir="${o.id}" style="--c:${colorFicha(o)}"><i></i><span><strong>${esc(o.titulo)}</strong></span><small>${esc(o.resumen)}</small></button></li>`).join("")}</ul></section>`).join("") || `<div class="vacio">No hay fichas sin fecha con estos filtros.</div>`}
   </div>`);
   pintar();
 }
@@ -1146,7 +1148,7 @@ function abrirFuentes() {
       <h3>${o.url ? `<a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.titulo)}</a>` : esc(o.titulo)}</h3>
       <div class="f-autores">${o.autores.map(esc).join(" · ")}</div>
       ${o.resumen ? `<p>${esc(o.resumen)}</p>` : `<p class="fautor">Sin resumen todavía.</p>`}
-      ${fs.length ? `<details><summary>${fs.length} fichas</summary><ul class="conex">${fs.map(f => `<li><button type="button" data-ir="${f.id}" style="--c:${color(vistaDe(f))}"><i></i><span><strong>${esc(f.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(f, f.tipo === "persona", f.vivo))}</span></span></button></li>`).join("")}</ul></details>` : ""}
+      ${fs.length ? `<details><summary>${fs.length} fichas</summary><ul class="conex">${fs.map(f => `<li><button type="button" data-ir="${f.id}" style="--c:${colorFicha(f)}"><i></i><span><strong>${esc(f.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(f, f.tipo === "persona", f.vivo))}</span></span></button></li>`).join("")}</ul></details>` : ""}
     </section>`; };
   const pend = obras.filter(o => o.estado !== "procesada");
   abrirPanel(`<div class="ficha-in bandeja">
@@ -1179,7 +1181,7 @@ function fechaLarga(s) { const [y, m, d] = s.split("-").map(Number); return `${d
 function tituloCiclo(k) { return `${k.par} · ${k.aspecto} (orbe ${k.orbe}°)\n${fechaLarga(k.desde)} – ${fechaLarga(k.hasta)}${(k.exactos || []).length ? `\nExacto: ${k.exactos.map(fechaLarga).join(", ")}` : ""}`; }
 const notaCielo = () => `<p class="nota">Calculado, no lo dice ningún autor. ${esc(CIELO.metodo)} Rango fiable: ${CIELO.rango.planetas[0]}–${CIELO.rango.planetas[1]} (Plutón: tabla de JPL Horizons desde 1599; en ciclos y recuentos, ${CIELO.rango.pluton[0]}–${CIELO.rango.pluton[1]}); antes no se calcula.</p>`;
 const listaFichas = ids => `<ul class="conex">${ids.map(id => porId[id]).filter(Boolean).map(o =>
-  `<li><button type="button" data-ir="${o.id}" style="--c:${color(vistaDe(o))}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span></button></li>`).join("")}</ul>`;
+  `<li><button type="button" data-ir="${o.id}" style="--c:${colorFicha(o)}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span></button></li>`).join("")}</ul>`;
 
 function abrirCiclo(k) {
   st.sel = null; history.replaceState(null, "", location.pathname + location.search);
@@ -1685,10 +1687,10 @@ function abrirFicha(f) {
   const citas = (f.citas || []).length ? `<section class="bloque"><h3>Citas</h3>${f.citas.map(q => `<p class="cita">${esc(q.resumen)} — ${esc(q.atribuida_a)} <em class="pill">${esc(q.verificacion)}</em></p>`).join("")}</section>` : "";
   const cx = conex[f.id];
   const conexHTML = cx.length ? `<section class="bloque"><h3>Lleva a · ${cx.length} conexion${cx.length === 1 ? "" : "es"}</h3><ul class="conex">${cx.map(k => { const o = porId[k.id];
-      return `<li><button type="button" data-ir="${o.id}" style="--c:${color(vistaDe(o))}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span>${k.nota ? `<small>${esc(k.nota)}</small>` : ""}</button></li>`; }).join("")}</ul></section>` : "";
+      return `<li><button type="button" data-ir="${o.id}" style="--c:${colorFicha(o)}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span>${k.nota ? `<small>${esc(k.nota)}</small>` : ""}</button></li>`; }).join("")}</ul></section>` : "";
   const temas = (f.temas || []).length ? `<section class="bloque"><h3>También toca</h3><div class="temas">${f.temas.map(t => `<span class="pill carr" style="--c:${color(t)}">${esc(carrilDe[t]?.nombre || t)}</span>`).join("")}</div></section>` : "";
   abrirPanel(`<div class="ficha-in">
-    <div class="ficha-top"><span class="pill carr" style="--c:${color(vistaDe(f))}">${esc(nombreVista(vistaDe(f)))}</span>${f.naturaleza ? `<span class="pill carr" style="--c:${color(vistaDe(f))}">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}<span class="pill est-${f.estado}">${esc(f.estado)}</span>
+    <div class="ficha-top"><span class="pill carr" style="--c:${colorFicha(f)}">${esc(nombreVista(vistaDe(f)))}</span>${f.naturaleza ? `<span class="pill carr" style="--c:${colorFicha(f)}">${esc(NOMBRE_NAT[f.naturaleza] || f.naturaleza)}</span>` : ""}<span class="pill est-${f.estado}"${f.color ? ` style="--c:${colorFicha(f)}"` : ""}>${esc(f.estado)}</span>
       <button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
     <div><h2>${esc(f.titulo)}</h2><div class="fecha">${esc(fmtFecha(f, persona, f.vivo))}${f.fecha?.margen ? ` (± ${f.fecha.margen} años)` : ""}${f.fecha?.fuente === "oficial" ? " · fecha de la versión oficial" : ""}</div>${f.fecha_autor ? `<div class="fautor">Fecha que da el autor: ${esc(f.fecha_autor)}</div>` : ""}</div>
     <p class="lead">${esc(f.resumen)}</p>
