@@ -32022,12 +32022,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pendiente de contrastar: evento, buque y fecha exactos, y el aniversario de alianza que cita. El USS Enterprise (CVN-65) causó baja en 2017. Búsqueda hecha el 14-11-2026: no se ha encontrado ninguna visita de un portaaviones estadounidense a Nápoles para recoger a Carlos de Borbón en 2018, ni esa conmemoración de 150 años de alianza. Sí consta una visita oficial de Carlos y Camila de Borbón-Dos Sicilias a Nápoles del 3 al 5-11-2018 (aniversario de bodas y 25 años del movimiento neoborbónico), sin portaaviones. El USS Enterprise (CVN-65) estaba ya dado de baja y no puede ser el buque.",
+    "resumen": "El USS Enterprise (CVN-65) causó baja en 2017 y no pudo visitar Nápoles en 2018. La visita oficial de Carlos y Camila de Borbón-Dos Sicilias a Nápoles fue del 3 al 5 de noviembre de 2018 (aniversario de bodas y 25 años del movimiento neoborbónico), sin portaaviones. No se ha encontrado ninguna visita de un portaaviones estadounidense a Nápoles para recoger a Carlos de Borbón en 2018, ni esa conmemoración de 150 años.",
     "fuentes": [
      {
       "titulo": "Real Casa di Borbone: visita oficial a Nápoles (5-11-2018)",
       "url": "https://realcasadiborbone.it/en/?p=27209",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "U.S. Navy: Navy Decommissions «The Big E» (3-2-2017)",
+      "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2252799/navy-decommissions-the-big-e/",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40328,6 +40333,7 @@ window.CRONO = {
    "conexiones": [],
    "estado": "borrador",
    "citas": [],
+   "vivo": true,
    "vista": "ciencia"
   },
   {
