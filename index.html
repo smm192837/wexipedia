@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"></head><body>
 <title>Wexipedia · Cronología y tránsitos</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -114,6 +114,7 @@ button, input, select { font: inherit; color: inherit; }
 .era-n { position: absolute; right: 12px; font-size: 10.5px; text-transform: uppercase; letter-spacing: .12em; color: var(--tenue); opacity: .8; }
 .regla-s { position: absolute; left: 0; right: 0; height: 0; border-top: 1px solid var(--linea); }
 .regla-s span { position: absolute; top: -10px; left: 6px; font: italic 600 15px var(--f-lectura); color: var(--tinta); background: var(--bg); padding: 0 4px; border-radius: 3px; }
+.regla-s span.sg { left: auto; right: calc(100% + 10px); top: -8px; font: italic 600 12.5px var(--f-lectura); color: var(--tenue); background: none; padding: 0; white-space: nowrap; }
 .tk { position: absolute; font: 500 11.5px var(--f-num); color: var(--tenue); transform: translateY(-50%); font-variant-numeric: tabular-nums; }
 .tk::after { content: ""; position: absolute; top: 50%; width: 6px; border-top: 1px solid var(--tenue); margin-left: 5px; }
 .eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
@@ -943,7 +944,7 @@ function maquetar(conservar) {
     const ep = EPOCAS.find(e => e.desde <= d * 10 && d * 10 <= e.hasta);
     const cicloChips = a0 && a1 ? pl5.map(p => `<span class="ciclo">${GLIFO_PL[p]}${GLIFO_SG[a0.pos[p]]}→${GLIFO_SG[a1.pos[p]]}</span>`).join("") : "";
     const sinChips = a0 ? sinTxt(a0).split(" ").filter(Boolean).map(s => `<span class="sin">${s}</span>`).join("") : "";
-    const cielo = `<span class="et">cielo</span>${cicloChips}${sinChips}`;
+    const cielo = (cicloChips || sinChips) ? `<span class="et">cielo</span>${cicloChips}${sinChips}` : "";
     h += `<div class="dec" style="top:${y + 10}px;left:${ejeW + 6}px;right:${derecha}px"><div class="dec-h">
       <span class="n">${fmt(d * 10)}–${fmt(d * 10 + 9)}</span>
       <span class="r">${fsDec.length} ficha${fsDec.length === 1 ? "" : "s"}</span>
@@ -952,7 +953,7 @@ function maquetar(conservar) {
     </div></div>`;
     cols.forEach((g, j) => {
       const n = fsDec.filter(f => colDe[vistaDe(f)] === j).length;
-      if (!n) h += `<div class="hueco-carril" style="top:${tops[d - dec0] + CAB}px;left:${xCol[j]}px;width:${colW}px">Sin fichas en esta década</div>`;
+      if (!n) h += `<div class="hueco-carril" style="top:${tops[d - dec0] + CAB}px;left:${xCol[j]}px;width:${colW}px">Sin fichas</div>`;
     });
   }
 
@@ -963,12 +964,12 @@ function maquetar(conservar) {
     const y = T(a);
     if (a % 100 === 0 && a > 0) {
       const s = siglo(a + 1);
-      h += `<div class="regla-s" style="top:${y}px;left:${ejeW}px"><span style="left:${x0 - ejeW}px">${nomSiglo(s)}</span></div>`;
+      h += `<div class="regla-s" style="top:${y}px;left:${ejeW}px"></div>`;
       h += `<div class="tk" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; ultimo = y; continue;
     }
     if (a <= 0 && a % 100 === 0) {   // a.C.: el "500 a.C." histórico es el año astronómico −499
       const y2 = T(a + 1);
-      h += `<div class="regla-s" style="top:${y2}px;left:${ejeW}px"><span style="left:${x0 - ejeW}px">${nomSiglo(siglo(a + 1))}</span></div>`;
+      h += `<div class="regla-s" style="top:${y2}px;left:${ejeW}px"></div>`;
       h += `<div class="tk" style="top:${y2}px;right:${W - ejeW + 12}px">${a === 0 ? "1" : `${-a} a.C.`}</div>`; ultimo = y2; continue;
     }
     if (a > 0 && alturas[d - dec0] >= 22 && y - ultimo >= 18) { h += `<div class="tk" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; ultimo = y; }
