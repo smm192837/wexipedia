@@ -8605,7 +8605,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Compilación jurídica ordenada por Justiniano entre 529 y 534. Es la base del derecho civil europeo, pero no es un testamento ni concede poder al papado.",
+    "resumen": "El Corpus iuris civilis es la compilación jurídica que mandó hacer el emperador Justiniano I entre 529 y 534: el Código, el Digesto, las Instituciones y, más tarde, las Novelas. Es la base del derecho civil europeo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Corpus iuris civilis",
@@ -22849,7 +22849,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Plan de coordinación represiva entre las dictaduras del Cono Sur, formalizado en Santiago de Chile en noviembre de 1975, con conocimiento y apoyo de EE. UU.",
+    "resumen": "La Operación Cóndor fue un plan de coordinación represiva entre las dictaduras del Cono Sur, formalizado en una reunión en Santiago de Chile en noviembre de 1975. Participaron Chile, Argentina, Uruguay, Paraguay, Bolivia y Brasil, e intercambiaron información y persiguieron a opositores más allá de sus fronteras.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Operación Cóndor",
@@ -33308,7 +33308,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico estadounidense nacido en Strelno, Prusia (19-12-1852 – 9-5-1931); Nobel de Física en 1907, el primero de un estadounidense en ciencias.",
+    "resumen": "Albert A. Michelson (Strelno, Prusia, 19-12-1852 – Pasadena, 9-5-1931) midió la velocidad de la luz con gran precisión y, con Edward Morley, realizó en 1887 el experimento que no detectó el «viento del éter». Recibió el Nobel de Física de 1907, el primer estadounidense en lograrlo.",
     "fuentes": [
      {
       "titulo": "Nobel Prize",
@@ -33319,6 +33319,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com:443/facts/A-A-Michelson",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Albert Abraham Michelson",
+      "url": "https://es.wikipedia.org/wiki/Albert_Abraham_Michelson",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -35016,7 +35021,7 @@ window.CRONO = {
    "estado": "aprobado",
    "vivo": true,
    "oficial": {
-    "resumen": "Ben Shalom Bernanke (Augusta, Georgia, 13-12-1953), economista estadounidense; presidió la Reserva Federal de febrero de 2006 a enero de 2014.",
+    "resumen": "Ben Bernanke (Augusta, Georgia, 13-12-1953), economista estadounidense, presidió la Reserva Federal de 2006 a 2014, durante la crisis financiera de 2008. Recibió el Nobel de Economía de 2022, junto con Douglas Diamond y Philip Dybvig, por sus estudios sobre los bancos y las crisis financieras.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Ben Bernanke",
@@ -35027,6 +35032,11 @@ window.CRONO = {
       "titulo": "Ballotpedia: Ben Bernanke",
       "url": "https://ballotpedia.org/Ben_Bernanke",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Ben Bernanke",
+      "url": "https://es.wikipedia.org/wiki/Ben_Bernanke",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38208,12 +38218,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Erich Priebke (Hennigsdorf, 29-7-1913 – Roma, 11-10-2013); vivió libre en Bariloche hasta su extradición a Italia en 1995, donde fue condenado.",
+    "resumen": "Erich Priebke (Hennigsdorf, 29-7-1913 – Roma, 11-10-2013), capitán de las SS, participó en la matanza de las Fosas Ardeatinas (24-3-1944, 335 muertos). Vivió en Argentina hasta su extradición a Italia en 1995; fue condenado a cadena perpetua y murió bajo arresto domiciliario.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Erich_Priebke",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Erich Priebke",
+      "url": "https://es.wikipedia.org/wiki/Erich_Priebke",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45602,12 +45617,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Joseph Justus Scaliger (1540 – Leiden, 21-1-1609), profesor en Leiden y autor de De emendatione temporum (1583), base de la cronología moderna.",
+    "resumen": "Joseph Justus Scaliger (Agen, 5-8-1540 – Leiden, 21-1-1609), erudito francés, fue profesor en Leiden desde 1593. Fundó la cronología científica con «De emendatione temporum» (1583) y «Thesaurus temporum» (1606).",
     "fuentes": [
      {
       "titulo": "Cambridge Core (Camden Series)",
       "url": "https://core-prod.cambridgecore.org/core/journals/camden-old-series/article/isaac-casaubon-1614/838009E8D8D8758EE170CF2960806847",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Joseph Justus Scaliger",
+      "url": "https://es.wikipedia.org/wiki/Joseph_Justus_Scaliger",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46195,12 +46215,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Miquel Josep Serra i Ferrer (Petra, 1713 – Carmel, 1784), franciscano que fundó las primeras misiones de la Alta California; canonizado en 2015.",
+    "resumen": "Junípero Serra (Miquel Josep Serra i Ferrer; Petra, Mallorca, 24-11-1713 – Carmel, California, 28-8-1784), fraile franciscano, fundó en 1769 la misión de San Diego, la primera de las misiones de la Alta California, y dirigió la fundación de varias más. Fue canonizado en 2015 por el papa Francisco.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Saint-Junipero-Serra",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Junípero Serra",
+      "url": "https://es.wikipedia.org/wiki/Junípero_Serra",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -48244,7 +48269,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Martín de Azpilcueta, el Doctor Navarro (Barásoain, 13-12-1492 – Roma, 1586), formuló la teoría cuantitativa del dinero. Murió cuando Sarpi tenía 33 años.",
+    "resumen": "Martín de Azpilcueta, el Doctor Navarro (Barásoain, 13-12-1492 – Roma, 1586), canonista y moralista de la escuela de Salamanca, formuló en 1556 una teoría cuantitativa del dinero y escribió el «Manual de confesores y penitentes».",
     "fuentes": [
      {
       "titulo": "Real Academia de la Historia",
@@ -48255,6 +48280,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Mart%C3%ADn_de_Azpilcueta",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Martín de Azpilcueta",
+      "url": "https://es.wikipedia.org/wiki/Martín_de_Azpilcueta",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -48496,12 +48526,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mauricio de Orange-Nassau (Dillenburg, 13/14-11-1567 – La Haya, 23-4-1625), estatúder desde 1585 y jefe militar de la rebelión contra España.",
+    "resumen": "Mauricio de Orange-Nassau (Dillenburg, 13/14-11-1567 – La Haya, 23-4-1625) fue estatúder de Holanda y Zelanda desde 1585 y príncipe de Orange desde 1618. Reformó el ejército neerlandés, ganó la batalla de Nieuwpoort (1600) y dirigió la guerra contra España hasta la tregua de los Doce Años (1609); en 1619 hizo ejecutar a Oldenbarnevelt.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/370061",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Mauricio de Nassau",
+      "url": "https://es.wikipedia.org/wiki/Mauricio_de_Nassau",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -49987,12 +50022,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Otto Abetz (Schwetzingen, 26-3-1903 – Düsseldorf, 5-5-1958), embajador en París en 1940–1944; condenado en 1949 por la deportación de judíos.",
+    "resumen": "Otto Abetz (Schwetzingen, 26-3-1903 – Langenfeld, 5-5-1958) fue embajador de Alemania en París durante la ocupación (1940-1944). Un tribunal militar francés lo condenó en 1949 a 20 años de prisión; salió en 1954 y murió en un accidente de tráfico.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Otto_Abetz",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Otto Abetz",
+      "url": "https://es.wikipedia.org/wiki/Otto_Abetz",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51193,12 +51233,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Peter Andreas Thiel, nacido en Fráncfort del Meno (Hesse) el 11-10-1967; cofundador de PayPal, Palantir y Founders Fund. Vivo según las fuentes consultadas.",
+    "resumen": "Peter Thiel (Fráncfort del Meno, 11-10-1967), empresario estadounidense, cofundó PayPal (1998) y Palantir (2003), fue el primer inversor externo de Facebook (2004) y fundó el fondo Founders Fund (2005).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Peter Thiel",
+      "url": "https://es.wikipedia.org/wiki/Peter_Thiel",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52148,12 +52193,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Reinhard Gehlen (Erfurt, 3-4-1902 – Starnberg, 8-6-1979), jefe de inteligencia del frente oriental; dirigió la Organización Gehlen y el BND hasta 1968.",
+    "resumen": "Reinhard Gehlen (Erfurt, 3-4-1902 – Starnberg, 8-6-1979) dirigió la inteligencia militar alemana en el frente oriental (1942-1945). Tras la guerra montó con apoyo de EE. UU. la llamada Organización Gehlen (1946), que dio origen al servicio federal BND, del que fue presidente de 1956 a 1968.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Reinhard Gehlen",
       "url": "https://en.wikipedia.org/wiki/Reinhard_Gehlen",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Reinhard Gehlen",
+      "url": "https://es.wikipedia.org/wiki/Reinhard_Gehlen",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -53881,12 +53931,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Santorio Santorio (Capodistria, 1561 – Venecia, 1636), profesor en Padua, pionero de la medición en medicina (termoscopio clínico, balanza metabólica).",
+    "resumen": "Santorio Santorio (Capodistria, 1561 – Venecia, 1636), médico, fue profesor en Padua y pionero de la medición en medicina: el termoscopio, el pulsilogio y la báscula con que estudió la «perspiración insensible», recogida en «De statica medicina» (1614).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Santorio_Santorio",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Santorio Santorio",
+      "url": "https://es.wikipedia.org/wiki/Santorio_Santorio",
+      "consultado": "2026-11-20"
      }
     ]
    },
