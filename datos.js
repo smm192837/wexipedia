@@ -3642,8 +3642,19 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No consta en la obra conocida de Bismarck ninguna declaración que ponga a Marx bajo el control del general de los jesuitas; Beckx fue general de 1853 a 1887.",
-    "fuentes": []
+    "resumen": "Bismarck dirigió el Kulturkampf contra la Iglesia católica (1871-1878) y el 4 de julio de 1872 ordenó expulsar a los jesuitas del Imperio alemán; Beckx fue elegido general de la Compañía en 1853 y murió en 1887. Las fuentes consultadas no recogen ninguna declaración de Bismarck que ponga a Marx bajo el control del general de los jesuitas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Kulturkampf",
+      "url": "https://es.wikipedia.org/wiki/Kulturkampf",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Treccani: Beckx, Pierre Jean",
+      "url": "https://www.treccani.it/enciclopedia/pierre-jean-beckx_%28Enciclopedia-Italiana%29/",
+      "consultado": "2026-11-20"
+     }
+    ]
    },
    "citas": [],
    "conexiones": [
@@ -3664,7 +3675,7 @@ window.CRONO = {
      "nota": "Orden implicada."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -9778,8 +9789,14 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay una versión oficial clara; lo que sí consta es que es un esquema propio del autor, sin equivalente en la bibliografía de referencia.",
-    "fuentes": []
+    "resumen": "El esquema de dieciséis fuentes de poder es una clasificación propia de Nocera: no se ha localizado en la bibliografía académica consultada. Las tipologías del poder más citadas son la de Dahl (1957), que lo define como una relación entre actores, y la de French y Raven (1959), con cinco bases: coercitiva, de recompensa, legítima, referente y experta.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Power (political science)",
+      "url": "https://en.wikipedia.org/wiki/Power_(political_science)",
+      "consultado": "2026-11-20"
+     }
+    ]
    },
    "citas": [],
    "conexiones": [
@@ -9788,7 +9805,7 @@ window.CRONO = {
      "nota": "Otro esquema del poder, el de Jorge Guerra."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -20224,8 +20241,19 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay una versión oficial clara sobre este conjunto de afirmaciones; lo que sí consta es que cada empresa publica su accionariado en registros societarios y bursátiles (Shell y BP cotizan en bolsa y su accionariado es público). No se ha contrastado empresa por empresa.",
-    "fuentes": []
+    "resumen": "En los accionariados consultados el capital está atomizado entre fondos institucionales: en Shell el mayor accionista declarado es BlackRock (un 8,27 %) y en Bayer ninguno supera el 4 % (Amundi, un 3,19 %). No consta en esos registros una participación significativa de las casas reales que cita el autor. Solo se han comprobado Shell y Bayer, no el resto de empresas.",
+    "fuentes": [
+     {
+      "titulo": "ADVFN: Shell plc (SHEL) holders",
+      "url": "https://uk.advfn.com/stock-market/NYSE/SHEL/holders",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "MarketScreener: Bayer AG accionistas",
+      "url": "https://se.marketscreener.com/kurs/aktie/BAYER-AG-5587424/foretag-aktieagare/",
+      "consultado": "2026-11-20"
+     }
+    ]
    },
    "citas": [],
    "conexiones": [
@@ -20242,7 +20270,7 @@ window.CRONO = {
      "nota": "Otra pieza del esquema."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
   },
