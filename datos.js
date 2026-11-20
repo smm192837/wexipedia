@@ -13513,11 +13513,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Foro Económico Mundial lo fundó Klaus Schwab en 1971 (como Foro Europeo de Gestión) y celebra su reunión anual en Davos (Suiza).",
+    "resumen": "El Foro Económico Mundial lo fundó Klaus Schwab en 1971 como Foro Europeo de Gestión; adoptó su nombre actual en 1987. Tiene su sede en Ginebra y su reunión anual se celebra en Davos (Suiza), con asistencia de dirigentes políticos y empresariales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Foro Económico Mundial",
       "url": "https://es.wikipedia.org/wiki/Foro_Económico_Mundial"
+     },
+     {
+      "titulo": "Wikipedia: Foro Económico Mundial",
+      "url": "https://es.wikipedia.org/wiki/Foro Económico Mundial",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -35588,12 +35593,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Carlos I el Grande (c. 742/748 – Aquisgrán, 814), rey de los francos desde 768, coronado emperador por el papa León III en el año 800.",
+    "resumen": "Carlos I el Grande (c. 742/748 – Aquisgrán, 28-1-814), rey de los francos desde 768, conquistó el reino lombardo (774) y sometió a los sajones tras largas guerras. El papa León III lo coronó emperador en Roma la Navidad del año 800. Su corte de Aquisgrán fue el centro del llamado renacimiento carolingio.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Charlemagne",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38135,12 +38145,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Enrique de Borbón (Pau, 1553 – París, 1610), rey de Navarra y desde 1589 de Francia; firmó el Edicto de Nantes (1598) y murió asesinado.",
+    "resumen": "Enrique de Borbón (Pau, 13-12-1553 – París, 14-5-1610), rey de Navarra y desde 1589 de Francia, primero de la casa de Borbón. Se convirtió al catolicismo en 1593 y fue coronado en 1594. Su Edicto de Nantes (1598) reconoció la tolerancia a los protestantes. Murió apuñalado por François Ravaillac.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Henry_IV_of_France",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Enrique IV de Francia",
+      "url": "https://es.wikipedia.org/wiki/Enrique IV de Francia",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38280,12 +38295,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ernst Jünger (Heidelberg, 29-3-1895 – Riedlingen, 17-2-1998), autor de Tempestades de acero; combatió en las dos guerras mundiales.",
+    "resumen": "Ernst Jünger (Heidelberg, 29-3-1895 – Riedlingen, 17-2-1998) combatió en la Primera Guerra Mundial, donde recibió la orden Pour le Mérite, y publicó «Tempestades de acero» (1920). Sirvió como oficial en la París ocupada durante la Segunda Guerra Mundial, publicó «Sobre los acantilados de mármol» (1939) y murió a los 102 años.",
     "fuentes": [
      {
       "titulo": "Deutsches Historisches Museum (LeMO)",
       "url": "https://www.dhm.de/lemo/biografie/ernst-juenger",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Ernst Jünger",
+      "url": "https://es.wikipedia.org/wiki/Ernst Jünger",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38687,12 +38707,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Felipe II (Valladolid, 21-5-1527 – El Escorial, 13-9-1598), hijo de Carlos V, rey de España desde 1556 y de Portugal desde 1581.",
+    "resumen": "Felipe II (Valladolid, 21-5-1527 – El Escorial, 13-9-1598), hijo de Carlos V, fue rey de España desde 1556 y de Portugal desde 1581 (como Felipe I). Fijó la corte en Madrid, mandó construir El Escorial, sostuvo la guerra contra la revuelta de los Países Bajos y envió la Armada de 1588 contra Inglaterra; la Hacienda real declaró varias bancarrotas durante su reinado.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://kids.britannica.com/students/article/Philip-II/443443",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Felipe II de España",
+      "url": "https://es.wikipedia.org/wiki/Felipe II de España",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -39871,12 +39896,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gamal Abdel Nasser (Alejandría, 15-1-1918 – El Cairo, 28-9-1970), uno de los Oficiales Libres de 1952 y presidente desde 1956.",
+    "resumen": "Gamal Abdel Nasser (Alejandría, 15-1-1918 – El Cairo, 28-9-1970) fue uno de los Oficiales Libres que derrocaron al rey Faruk en julio de 1952 y presidente de Egipto desde 1956. Nacionalizó el Canal de Suez ese año (crisis de Suez), encabezó la República Árabe Unida con Siria (1958-1961) y perdió la guerra de los Seis Días (1967). Murió de un infarto y le sucedió Anwar el Sadat.",
     "fuentes": [
      {
       "titulo": "Military Wiki",
       "url": "https://military-history.fandom.com/wiki/Gamal_Abdel_Nasser",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Gamal Abdel Nasser",
+      "url": "https://es.wikipedia.org/wiki/Gamal Abdel Nasser",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42941,12 +42971,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Químico y físico (1917–2003), Nobel de Química en 1977 por sus trabajos sobre termodinámica fuera del equilibrio y estructuras disipativas.",
+    "resumen": "Ilya Prigogine (Moscú, 25-1-1917 – Bruselas, 28-5-2003), físico y químico belga de origen ruso, recibió el Nobel de Química de 1977 por su teoría de las estructuras disipativas y la termodinámica del no equilibrio. Divulgó su obra en «La nueva alianza» (con Isabelle Stengers, 1979).",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
       "url": "https://es.wikipedia.org/wiki/Ilya_Prigogine",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Ilya Prigogine",
+      "url": "https://es.wikipedia.org/wiki/Ilya Prigogine",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45091,12 +45126,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "John Law (Edimburgo, 16-4-1671 – Venecia, 21-3-1729), creador del sistema de papel moneda de la Banque royale francesa, que quebró en 1720.",
+    "resumen": "John Law (Edimburgo, 16-4-1671 – Venecia, 21-3-1729) fundó en Francia el Banque Générale (1716), que pasó a ser Banque Royale (1718), y la Compañía del Misisipi. Fue controlador general de finanzas en 1720. El papel moneda y la especulación con las acciones de la compañía acabaron en un hundimiento ese año y huyó de Francia.",
     "fuentes": [
      {
       "titulo": "EcuRed",
       "url": "https://www.ecured.cu/John_Law",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: John Law",
+      "url": "https://es.wikipedia.org/wiki/John Law",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -45446,12 +45486,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Joseph Goebbels (29-10-1897 – 1-5-1945), ministro de Propaganda; canciller un día tras la muerte de Hitler y se suicidó en el búnker.",
+    "resumen": "Joseph Goebbels (Rheydt, 29-10-1897 – Berlín, 1-5-1945) fue jefe del partido nazi en Berlín desde 1926 y ministro de Ilustración Pública y Propaganda del Reich de 1933 a 1945. Pronunció el discurso de la «guerra total» (Sportpalast, 18-2-1943). Tras el suicidio de Hitler fue canciller un día y se suicidó con su mujer, Magda, tras la muerte de sus seis hijos.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Holocaust_perpetrator",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Joseph Goebbels",
+      "url": "https://es.wikipedia.org/wiki/Joseph Goebbels",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51950,12 +51995,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Prescott Bush (15-5-1895, Columbus, Ohio – 8-10-1972, Nueva York) fue banquero y senador republicano por Connecticut (1952-1963).",
+    "resumen": "Prescott Bush (Columbus, Ohio, 15-5-1895 – Nueva York, 8-10-1972) fue banquero, socio de Brown Brothers Harriman, y senador republicano por Connecticut (1952-1963). Fue director de la Union Banking Corporation, cuyos activos incautó el gobierno de EE. UU. en 1942 por la ley de comercio con el enemigo. Fue padre de George H. W. Bush y abuelo de George W. Bush.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Prescott Bush",
       "url": "https://en.wikipedia.org/wiki/Prescott_Bush",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Prescott Bush",
+      "url": "https://es.wikipedia.org/wiki/Prescott Bush",
+      "consultado": "2026-11-20"
      }
     ]
    },
