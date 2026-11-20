@@ -25879,7 +25879,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -33081,7 +33081,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -33137,7 +33137,7 @@ window.CRONO = {
      "nota": "El autor lo presenta como prueba de que Einstein se equivocó."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -33242,7 +33242,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -34549,7 +34549,7 @@ window.CRONO = {
      "nota": "El autor ve en el acto y la potencia un antecedente de la autorrealización."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
   },
@@ -36300,7 +36300,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -36591,7 +36591,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -37420,7 +37420,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -38087,7 +38087,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -38900,7 +38900,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -40803,7 +40803,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -41447,7 +41447,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -41601,7 +41601,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -44240,7 +44240,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -44292,7 +44292,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -45060,7 +45060,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -45150,7 +45150,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -46573,7 +46573,7 @@ window.CRONO = {
      "nota": "Maestro y discípulo según la tradición."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -49046,7 +49046,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -50395,7 +50395,7 @@ window.CRONO = {
      "nota": "Posturas opuestas sobre el vacío, según el autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -51497,7 +51497,7 @@ window.CRONO = {
      "nota": "El autor ve los sólidos platónicos en la cimática en 3D."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -51541,7 +51541,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -52132,7 +52132,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -52339,7 +52339,7 @@ window.CRONO = {
      "nota": "Rivales en la Royal Society."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -52478,7 +52478,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -53924,7 +53924,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -55187,7 +55187,7 @@ window.CRONO = {
      "nota": "Ambos hablan de dos vórtices opuestos, según el autor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
