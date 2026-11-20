@@ -19657,7 +19657,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundada en Barcelona en 1985 por Armando Lasauca; Inditex la adquirió por completo en 1995. El nombre es inventado.",
+    "resumen": "Massimo Dutti, cadena de moda fundada en Barcelona en 1985 por Armando Lasauca; Inditex la compró en 1991. Empezó en moda masculina y hoy tiene también línea femenina y de niño.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Massimo Dutti",
@@ -30941,11 +30941,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "A Modern Utopia (1905), novela utópica de H. G. Wells; un mundo gobernado por una élite voluntaria, los «samuráis».",
+    "resumen": "«A Modern Utopia» (1905), ensayo-novela de H. G. Wells. Describe una sociedad mundial gobernada por una élite meritocrática (los «samurái») y sirvió de base a su idea de una república mundial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: H. G. Wells",
       "url": "https://es.wikipedia.org/wiki/H._G._Wells",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: A Modern Utopia",
+      "url": "https://en.wikipedia.org/wiki/A_Modern_Utopia",
       "consultado": "2026-11-20"
      }
     ]
@@ -32611,7 +32616,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El WWF se fundó el 29-4-1961 en Morges (Suiza); entre sus impulsores estuvieron Julian Huxley, Max Nicholson y Peter Scott.",
+    "resumen": "El WWF (World Wildlife Fund, hoy World Wide Fund for Nature) se fundó el 29-4-1961 en Morges (Suiza), impulsado por Julian Huxley, Peter Scott, Max Nicholson y Anton Rupert, entre otros. Su emblema es el panda.",
     "fuentes": [
      {
       "titulo": "WWF: Our history",
@@ -32622,6 +32627,11 @@ window.CRONO = {
       "titulo": "Wikipedia: WWF",
       "url": "https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: World Wide Fund for Nature",
+      "url": "https://es.wikipedia.org/wiki/World_Wide_Fund_for_Nature",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -32737,12 +32747,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Abraham Flexner (13-11-1866, Louisville – 21-9-1959, Falls Church) escribió el informe Flexner (1910) para la Fundación Carnegie.",
+    "resumen": "Abraham Flexner (Louisville, 1866 – Falls Church, 1959), educador estadounidense. Su informe de 1910 reformó la enseñanza médica en EE. UU.; fundó en 1930 el Instituto de Estudios Avanzados de Princeton.",
     "fuentes": [
      {
       "titulo": "Britannica: Abraham Flexner",
       "url": "https://www.britannica.com/biography/Abraham-Flexner",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Abraham Flexner",
+      "url": "https://es.wikipedia.org/wiki/Abraham_Flexner",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -32780,7 +32795,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Psicólogo estadounidense (1908–1970), figura de la psicología humanista; presentó su jerarquía de necesidades en 1943.",
+    "resumen": "Abraham Harold Maslow (Nueva York, 1908 – Menlo Park, 1970), psicólogo estadounidense, figura de la psicología humanista. Formuló la jerarquía de las necesidades (1943) y acuñó el término «autorrealización»; enseñó en el Brooklyn College y en la Universidad de Brandeis.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -33100,7 +33115,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico francés nacido el 15-6-1947 en Agen; Nobel de Física en 2022 por sus experimentos con fotones entrelazados. Vivo.",
+    "resumen": "Alain Aspect (Agen, 1947), físico francés. Dirigió en Orsay los experimentos de 1982 sobre el entrelazamiento cuántico y los test de Bell; recibió el Nobel de Física en 2022, compartido con Clauser y Zeilinger.",
     "fuentes": [
      {
       "titulo": "Nobel Prize",
@@ -33111,6 +33126,11 @@ window.CRONO = {
       "titulo": "CNRS",
       "url": "https://www.cnrs.fr/en/person/alain-aspect",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Alain Aspect",
+      "url": "https://es.wikipedia.org/wiki/Alain_Aspect",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -33387,7 +33407,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritor y ensayista británico (1894-1963), autor de Un mundo feliz (1932). No consta que perteneciera a la Sociedad Fabiana.",
+    "resumen": "Aldous Huxley (1894-1963), escritor británico. Autor de «Contrapunto» (1928), «Un mundo feliz» (1932) y «Las puertas de la percepción» (1954); murió en Los Ángeles el 22-11-1963, el mismo día que Kennedy y C. S. Lewis.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Aldous Huxley",
@@ -33567,12 +33587,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alessandro Torlonia (1800–1886), banquero del papado, desecó el lago Fucino y reunió la colección de esculturas Torlonia.",
+    "resumen": "Alessandro Torlonia (1800-1886), banquero italiano, príncipe de Civitella Cesi. Financió al papado, desecó el lago Fucino (1854-1875) y reunió la colección de esculturas antiguas que lleva su nombre.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alessandro_Torlonia,_Prince_of_Civitella-Cesi",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Alessandro Torlonia",
+      "url": "https://es.wikipedia.org/wiki/Alessandro_Torlonia",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34375,12 +34400,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anton Rupert (4-10-1916 – 18-1-2006) fundó el grupo Rembrandt y fue cofundador del WWF y del Club de los 1001.",
+    "resumen": "Anton Rupert (1916-2006), empresario sudafricano. Fundó el grupo Rembrandt (tabaco y artículos de lujo) y fue uno de los fundadores del WWF (1961) y de la Peace Parks Foundation.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Anton Rupert",
       "url": "https://en.wikipedia.org/wiki/Anton_Rupert",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Anton Rupert",
+      "url": "https://es.wikipedia.org/wiki/Anton_Rupert",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -34705,7 +34735,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Jesuita venezolano nacido en Caracas en 1948; superior general de la Compañía de Jesús desde el 14 de octubre de 2016.",
+    "resumen": "Arturo Marcelino Sosa Abascal (Caracas, 1948), jesuita venezolano, superior general de la Compañía de Jesús desde 2016, el primero no europeo. Antes fue provincial de Venezuela y delegado del general para las casas y obras internacionales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Arturo Sosa",
@@ -35718,12 +35748,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Carlos Martel (c. 688 – 741), mayordomo de palacio de los francos, vencedor en Poitiers (732) y abuelo de Carlomagno.",
+    "resumen": "Carlos Martel (c. 688 – 741), mayordomo de palacio de los francos de Austrasia. Venció a los musulmanes en Poitiers (732), reunificó el reino y gobernó de hecho sobre los reyes merovingios; fue padre de Pipino el Breve.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Charles-Martel",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Carlos Martel",
+      "url": "https://es.wikipedia.org/wiki/Carlos_Martel",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -37490,12 +37525,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Químico estadounidense (1838–1923), conocido por el experimento con Michelson y por medir con precisión el peso atómico del oxígeno.",
+    "resumen": "Edward Williams Morley (Newark, 1838 – West Hartford, 1923), químico y físico estadounidense. Con Michelson buscó en 1887 el viento del éter y no lo encontró; determinó además el peso atómico del oxígeno.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Edward-Williams-Morley",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Edward Morley",
+      "url": "https://es.wikipedia.org/wiki/Edward_Morley",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -38994,12 +39034,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Matemático de Pisa (c. 1170 – después de 1240), autor del Liber abaci (1202), que difundió en Europa los numerales indoarábigos.",
+    "resumen": "Leonardo de Pisa, Fibonacci (c. 1170 – después de 1240), matemático italiano. Introdujo en Europa los numerales indoárabes con el «Liber abaci» (1202) y describió la sucesión que lleva su nombre.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/336467",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Fibonacci",
+      "url": "https://es.wikipedia.org/wiki/Fibonacci",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -39451,12 +39496,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francisco Suárez (Granada, 1548 – Lisboa, 1617), teólogo jesuita, autor de De legibus y de las Disputationes metaphysicae.",
+    "resumen": "Francisco Suárez (Granada, 1548 – Lisboa, 1617), jesuita, teólogo y filósofo, figura de la escolástica tardía y del derecho de gentes. Autor de las «Disputationes metaphysicae» (1597) y de «De legibus».",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Francisco-Suarez",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Francisco Suárez",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Su%C3%A1rez",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -39501,12 +39551,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "François Hotman (1524–1590), jurista protestante, autor de Francogallia (1573). Murió cuando Sarpi tenía 38 años.",
+    "resumen": "François Hotman (1524-1590), jurista hugonote francés. Autor de «Francogallia» (1573), obra que defendía la monarquía limitada y el derecho de los pueblos frente al rey.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Hotman",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: François Hotman",
+      "url": "https://es.wikipedia.org/wiki/Fran%C3%A7ois_Hotman",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -40411,12 +40466,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gueorgui Konstantínovich Zhúkov (1-12-1896 – 18-6-1974), mariscal de la Unión Soviética; dirigió la toma de Berlín.",
+    "resumen": "Gueorgui Konstantínovich Zhúkov (1896-1974), mariscal soviético. Dirigió la defensa de Moscú y la toma de Berlín, recibió la rendición alemana en 1945 y fue ministro de Defensa entre 1955 y 1957, hasta su destitución por Jruschov.",
     "fuentes": [
      {
       "titulo": "The Holocaust Explained",
       "url": "https://theholocaustexplained.org/marshal-georgy-zhukov",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Gueorgui Zhúkov",
+      "url": "https://es.wikipedia.org/wiki/Gueorgui_Zh%C3%BAkov",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -42033,12 +42093,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Helena Petrovna Blavatsky (Ekaterinoslav, 12-8-1831 – Londres, 8-5-1891), cofundadora de la Sociedad Teosófica en 1875.",
+    "resumen": "Helena Petrovna Blavatsky (Ekaterinoslav, 1831 – Londres, 1891), ocultista y escritora rusa. Cofundó en 1875 la Sociedad Teosófica y escribió «Isis sin velo» (1877) y «La doctrina secreta» (1888).",
     "fuentes": [
      {
       "titulo": "Enciclopedia Británica 1911 (Wikisource)",
       "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Blavatsky,_Helena_Petrovna",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Helena Blavatsky",
+      "url": "https://es.wikipedia.org/wiki/Helena_Blavatsky",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -43194,12 +43259,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Isabel Estuardo (19-8-1596 – Londres, 13-2-1662), hija de Jacobo I y esposa de Federico V; reina de Bohemia en 1619–1620.",
+    "resumen": "Isabel Estuardo (1596-1662), hija de Jacobo I de Inglaterra y VI de Escocia, reina de Bohemia por su matrimonio con Federico V (1613). Tras la derrota de su marido en la Montaña Blanca (1620) vivió exiliada en La Haya y después en Inglaterra.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Elizabeth_Stuart,_Queen_of_Bohemia",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Isabel Estuardo",
+      "url": "https://es.wikipedia.org/wiki/Isabel_Estuardo",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -43709,7 +43779,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Jacobo Grinberg-Zylberbaum (1946), investigador de la UNAM, desapareció en diciembre de 1994; su paradero sigue sin conocerse.",
+    "resumen": "Jacobo Grinberg-Zylberbaum (Ciudad de México, 1946 – desaparecido en 1994), psicólogo mexicano, investigador de la UNAM. Estudió la relación entre cerebro y conciencia; desapareció en diciembre de 1994.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -45284,12 +45354,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritor estadounidense (24-1-1939 – 23-3-2011), creador del calendario Dreamspell y organizador de la Convergencia Armónica de 1987.",
+    "resumen": "José Argüelles (Rochester, 1939 – 2011), escritor estadounidense, historiador del arte y promotor de la contracultura. Creó el calendario Dreamspell y difundió la idea de 2012 como cambio de ciclo.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Arg%C3%BCelles",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: José Argüelles",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Arg%C3%BCelles",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46366,12 +46441,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lady Mary Wortley Montagu (15-5-1689 – 21-8-1762, Londres) fue escritora y defensora de la inoculación de la viruela en Gran Bretaña.",
+    "resumen": "Lady Mary Wortley Montagu (Londres, 1689 – 1762), escritora británica. Introdujo la variolización en Inglaterra tras verla en Turquía y escribió las «Cartas turcas».",
     "fuentes": [
      {
       "titulo": "Wikipedia: Lady Mary Wortley Montagu",
       "url": "https://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Lady Mary Wortley Montagu",
+      "url": "https://es.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -46718,12 +46798,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo griego del siglo V a.C., considerado por Aristóteles y Teofrasto fundador del atomismo; de su vida apenas se sabe nada.",
+    "resumen": "Leucipo de Mileto (siglo V a. C.), filósofo griego presocrático, iniciador del atomismo según Aristóteles y Teofrasto. De su obra solo quedan fragmentos y testimonios indirectos.",
     "fuentes": [
      {
       "titulo": "Biografías y Vidas",
       "url": "https://www.biografiasyvidas.com/biografia/l/leucipo.htm",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Leucipo",
+      "url": "https://es.wikipedia.org/wiki/Leucipo",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -50559,12 +50644,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo presocrático de Elea (c. 515–c. 450 a.C.). Su poema está puesto en boca de una diosa y niega el no-ser y el vacío.",
+    "resumen": "Parménides de Elea (c. 515 – c. 450 a. C.), filósofo griego, fundador de la escuela eleática. Expuso su pensamiento en un poema en hexámetros: el ser es y el no-ser no es, y el cambio es apariencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
       "url": "https://es.wikipedia.org/wiki/Parménides",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Parménides de Elea",
+      "url": "https://es.wikipedia.org/wiki/Parm%C3%A9nides_de_Elea",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51658,7 +51748,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo ateniense (c. 428/427 – 348/347 a.C.), fundador de la Academia. En el Timeo asocia los elementos a los sólidos regulares.",
+    "resumen": "Platón (c. 428/427 – 348/347 a. C.), filósofo ateniense, discípulo de Sócrates y maestro de Aristóteles. Fundó la Academia y escribió diálogos como «La República», el «Fedón» y el «Timeo», con la teoría de las ideas.",
     "fuentes": [
      {
       "titulo": "EcuRed",
@@ -51669,6 +51759,11 @@ window.CRONO = {
       "titulo": "World History Encyclopedia",
       "url": "https://www.worldhistory.org/trans/eS/1-349/platon/.md",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Platón",
+      "url": "https://es.wikipedia.org/wiki/Plat%C3%B3n",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -51715,7 +51810,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Filósofo griego nacido en Egipto (c. 204–270), fundador del neoplatonismo. En las Enéadas define el tiempo como la vida del alma.",
+    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundador del neoplatonismo. Enseñó en Roma y su obra fue editada por Porfirio en las «Enéadas»; el Uno, el Intelecto y el Alma son sus tres hipóstasis.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -52467,12 +52562,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Robert Cecil, I conde de Salisbury (1-6-1563 – 24-5-1612), secretario de Estado de Isabel I y de Jacobo I.",
+    "resumen": "Robert Cecil, I conde de Salisbury (1563-1612), estadista inglés. Secretario de Estado de Isabel I desde 1596 y principal ministro de Jacobo I, negoció la sucesión de 1603 y dirigió la política exterior; impulsó la colonización de Virginia.",
     "fuentes": [
      {
       "titulo": "John Bargrave Collection (Univ. de Saskatchewan)",
       "url": "https://drc.usask.ca/projects/bargrave/public_person.php?id=963",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Robert Cecil",
+      "url": "https://es.wikipedia.org/wiki/Robert_Cecil",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -52619,12 +52719,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ejecutivo de radio estadounidense (30-10-1915 – 17-3-1995), fundador del Monroe Institute y autor de Journeys Out of the Body (1971).",
+    "resumen": "Robert Allan Monroe (Lexington, 1915 – 1995), empresario de radio estadounidense. Fundó en 1958 el Monroe Institute y popularizó el término «proyección astral» con «Journeys Out of the Body» (1971).",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com",
       "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/monroe-robert-allen-1915-1995",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia: Robert Monroe",
+      "url": "https://es.wikipedia.org/wiki/Robert_Monroe",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -53725,7 +53830,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Neurólogo austriaco (1856–1939), creador del psicoanálisis. Sus rupturas con discípulos como Adler y Jung están documentadas.",
+    "resumen": "Sigmund Freud (Příbor, 1856 – Londres, 1939), neurólogo austriaco, creador del psicoanálisis. Desarrolló la teoría del inconsciente, la represión y el complejo de Edipo, y publicó «La interpretación de los sueños» (1899/1900); emigró a Londres en 1938.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -56112,7 +56217,7 @@ window.CRONO = {
    "estado": "aprobado",
    "vivo": true,
    "oficial": {
-    "resumen": "Zhou Xiaochuan (29-1-1948), economista chino; gobernador del Banco Popular de China de diciembre de 2002 a marzo de 2018.",
+    "resumen": "Zhou Xiaochuan (1948), economista chino, gobernador del Banco Popular de China de 2002 a 2018; antes presidió el Banco de Construcción y la comisión reguladora del mercado de valores. Impulsó la internacionalización del renminbi.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Zhou Xiaochuan",
@@ -56123,6 +56228,11 @@ window.CRONO = {
       "titulo": "Britannica: Zhou Xiaochuan",
       "url": "https://www.britannica.com/money/Zhou-Xiaochuan",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Zhou Xiaochuan",
+      "url": "https://es.wikipedia.org/wiki/Zhou_Xiaochuan",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -59428,7 +59538,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dios romano de los comienzos, las puertas y los tránsitos, representado con dos rostros opuestos; de él toma nombre el mes de enero.",
+    "resumen": "Jano, dios romano de los comienzos, las puertas y los tránsitos, representado con dos caras que miran al pasado y al futuro. Su mes es enero; su templo en el foro de Roma se cerraba en tiempos de paz.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Jano",
