@@ -1183,11 +1183,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay evidencia histórica de una alianza financiera entre los jesuitas y los Rothschild. Pendiente de fuente.",
+    "resumen": "No hay evidencia histórica de una alianza financiera entre los jesuitas y los Rothschild. La Compañía de Jesús fue suprimida en 1773 y restaurada en 1814; la familia Rothschild surgió en Fráncfort en el siglo XVIII y su relación con el Banco de Inglaterra es posterior y documentada por separado. La ficha usa 1773 (supresión) como fecha aproximada de la tesis del autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Familia Rothschild",
-      "url": "https://es.wikipedia.org/wiki/Familia_Rothschild"
+      "url": "https://es.wikipedia.org/wiki/Familia_Rothschild",
+      "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Supresión de la Compañía de Jesús",
+      "url": "https://es.wikipedia.org/wiki/Supresi%C3%B3n_de_la_Compa%C3%B1%C3%ADa_de_Jes%C3%BAs",
+      "consultado": "2026-11-20"
      }
     ]
    },
@@ -17864,7 +17870,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los koljoses surgen de la colectivización forzosa de 1929–1933; los historiadores la relacionan con la ideología marxista y la comuna rural rusa. El informe de interrogatorio de Hartl existe en los archivos de la CIA, pero no se ha localizado en él el paso sobre koljoses y reducciones.",
+    "resumen": "Los koljoses surgen de la colectivización forzosa de 1929-1933; los historiadores la relacionan con la ideología marxista y la comuna rural rusa. El informe de interrogatorio de Hartl existe en los archivos de la CIA, pero no se ha localizado en él el paso sobre koljoses y reducciones; la comparación es del autor.",
     "fuentes": [
      {
       "titulo": "CIA Reading Room: Hartl, Albert (informe de interrogatorio)",
