@@ -124,8 +124,10 @@ button, input, select { font: inherit; color: inherit; }
 .dec-h .n { font: 600 22px var(--f-lectura); letter-spacing: .01em; }
 .dec-h .r { font: 11px var(--f-num); color: var(--tenue); }
 .dec-h .tag { font-size: 10px; text-transform: uppercase; letter-spacing: .1em; color: var(--acento); border: 1px solid currentColor; border-radius: 999px; padding: 1px 7px; }
-.dec-h .cielo { flex: 1 1 100%; font: 11px var(--f-num); color: var(--tenue); line-height: 1.45; overflow-wrap: anywhere; }
-.dec-h .cielo b { color: var(--tinta); font-weight: 500; }
+.dec-h .cielo { flex: 1 1 100%; display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; font: 11px var(--f-num); color: var(--tenue); }
+.dec-h .cielo .et { font: 600 9.5px var(--f-ui); text-transform: uppercase; letter-spacing: .1em; color: var(--tenue); margin-right: 2px; }
+.dec-h .cielo .ciclo { border: 1px solid var(--linea); border-radius: 999px; padding: 1px 6px; background: color-mix(in srgb, var(--hoja) 80%, transparent); color: var(--tinta); }
+.dec-h .cielo .sin { color: var(--acento); border: 1px solid color-mix(in srgb, var(--acento) 35%, transparent); border-radius: 999px; padding: 1px 6px; }
 .epoca { position: absolute; left: 0; width: 6px; border-radius: 3px; background: var(--acento); opacity: .5; }
 .hueco-carril { position: absolute; border: 1px dashed var(--linea); border-radius: 6px; padding: 7px 9px; font: italic 11.5px var(--f-lectura); color: var(--tenue); }
 
@@ -386,12 +388,6 @@ button, input, select { font: inherit; color: inherit; }
 :root { --c-cielo: #3d6f8f; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --c-cielo: #8ec3e3; } }
 :root[data-theme="dark"] { --c-cielo: #8ec3e3; }
-#cielo .cb { position: absolute; border-radius: 2px; cursor: pointer; background: var(--c-cielo); opacity: .8; }
-#cielo .cb.oposición { opacity: .45; }
-#cielo .cb.cuadratura { opacity: .9; background: repeating-linear-gradient(45deg, var(--c-cielo) 0 3px, transparent 3px 5px); outline: 1px solid var(--c-cielo); outline-offset: -1px; }
-#cielo .cb:hover { opacity: 1; box-shadow: 0 0 0 2px color-mix(in srgb, var(--c-cielo) 35%, transparent); }
-#cielo .cp { position: absolute; top: 0; width: 0; border-left: 1px dotted color-mix(in srgb, var(--c-cielo) 45%, transparent); }
-.cab .cielo-n { font: 600 10px var(--f-ui); text-transform: uppercase; letter-spacing: .12em; color: var(--c-cielo); justify-content: center; }
 .cielo-dia { border-left: 3px solid var(--c-cielo); padding-left: 10px; }
 .cielo-dia .pos { display: flex; flex-wrap: wrap; gap: 4px 12px; font: 13px var(--f-num); margin: 6px 0; }
 .cielo-dia .nota, .paralelo .nota { font-size: 12px; color: var(--tenue); }
@@ -547,7 +543,7 @@ button, input, select { font: inherit; color: inherit; }
         <button type="button" data-modo="compacto">Compacto</button>
       </div>
       <div class="seg" role="group" aria-label="Cielo">
-        <button type="button" id="cielo-b" title="Mostrar u ocultar la franja de ciclos de planetas lentos (calculada)">Cielo</button>
+        <button type="button" id="cielo-b" title="Mostrar u ocultar los cinco ciclos y las sinergias en las tarjetas y en las cabeceras de década (calculado)">Cielo</button>
         <button type="button" id="epocas-b" title="Mostrar u ocultar las épocas (convención historiográfica + pregunta de Nexus)">Épocas</button>
         <button type="button" id="rueda-b" title="Mapa del cielo: planetas y estrellas fijas en cualquier fecha, calculado">Rueda</button>
         <button type="button" id="paral-b" title="Paralelos: hechos y cielo comparados con el azar">Paralelos</button>
@@ -576,7 +572,6 @@ button, input, select { font: inherit; color: inherit; }
       <div class="lienzo" id="lienzo">
         <div id="fondo"></div>
         <div id="vzonas"></div>
-        <div id="cielo"></div>
         <div id="vida-sel" hidden></div>
         <div id="tarjetas"></div>
         <svg class="lineas" id="lineas"></svg>
@@ -834,11 +829,10 @@ function maquetar(conservar) {
   // o tocarlo salen quienes vivían ese año; al elegir una persona, su vida se marca sobre el eje.
   const ejeW = estrecho ? 58 : 76, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
   const zonas = [{ x: 0, w: ejeW }];
-  // Franja «Cielo» entre el eje y las columnas: una pista por par de planetas
+  // La columna «Cielo» ya no se dibuja (2026-11-20): el cielo va en la cabecera de la década
+  // (chips de los cinco ciclos y de las sinergias) y en la etiqueta de cada tarjeta.
   const verCielo = !!(CIELO && st.cielo);
-  const pares = verCielo ? [...new Set(CIELO.ciclos.map(k => k.par))] : [];
-  const pista = estrecho ? 6 : 9, cieloX = ejeW + 6, cieloW = verCielo ? pares.length * pista + 6 : 0;
-  const x0 = ejeW + 8 + cieloW;
+  const x0 = ejeW + 8;
   const colW = Math.max(140, (W - x0 - derecha - gap * (cols.length - 1)) / cols.length);
   const xCol = cols.map((g, i) => x0 + i * (colW + gap));
 
@@ -850,7 +844,7 @@ function maquetar(conservar) {
   const alto = {}; for (const f of visT) alto[f.id] = nodos[f.id].offsetHeight;
 
   // Décadas (cabecera de década + tarjetas)
-  const GAP = 6, CAB = estrecho ? 44 : medio ? 62 : 66;
+  const GAP = 6, CAB = estrecho || !verCielo ? 44 : medio ? 86 : 78;
   const minY = Math.min(...fichas.map(f => f.ini)), maxY = Math.max(HOY, ...fichas.map(f => f.fin));
   const dec0 = Math.floor(minY / 10) - 1, dec1 = Math.floor(maxY / 10) + 1, nd = dec1 - dec0 + 1;
   const suma = Array.from({ length: nd }, () => new Array(cols.length).fill(0));
@@ -909,7 +903,9 @@ function maquetar(conservar) {
     const a0 = CIELO && CIELO.anios ? CIELO.anios[String(d * 10)] : null;
     const a1 = CIELO && CIELO.anios ? CIELO.anios[String(d * 10 + 9)] : null;
     const ep = EPOCAS.find(e => e.desde <= d * 10 && d * 10 <= e.hasta);
-    const cielo = a0 && a1 ? `<b>${pl5.map(p => `${GLIFO_PL[p]}${GLIFO_SG[a0.pos[p]]}→${GLIFO_SG[a1.pos[p]]}`).join(" ")}</b>${(a0.aspectos || a0.sinergias) && sinTxt(a0) ? " · " + sinTxt(a0) : ""}` : "";
+    const cicloChips = a0 && a1 ? pl5.map(p => `<span class="ciclo">${GLIFO_PL[p]}${GLIFO_SG[a0.pos[p]]}→${GLIFO_SG[a1.pos[p]]}</span>`).join("") : "";
+    const sinChips = a0 ? sinTxt(a0).split(" ").filter(Boolean).map(s => `<span class="sin">${s}</span>`).join("") : "";
+    const cielo = `<span class="et">cielo</span>${cicloChips}${sinChips}`;
     h += `<div class="dec" style="top:${y + 10}px;left:${ejeW + 6}px;right:${derecha}px"><div class="dec-h">
       <span class="n">${fmt(d * 10)}–${fmt(d * 10 + 9)}</span>
       <span class="r">${fsDec.length} ficha${fsDec.length === 1 ? "" : "s"}</span>
@@ -947,19 +943,8 @@ function maquetar(conservar) {
   fondo.innerHTML = h;
 
   // Bandas del cielo (año fraccional con T())
-  let ch = "";
-  if (verCielo) {
-    const limite = dec1 * 10 + 10;
-    pares.forEach((p, i) => ch += `<div class="cp" style="left:${cieloX + i * pista + pista / 2}px;height:${acc}px"></div>`);
-    CIELO.ciclos.forEach((k, n) => { const a = añoFrac(k.desde), b = añoFrac(k.hasta); if (a > limite) return;
-      const i = pares.indexOf(k.par), ya = T(a), yb = T(Math.min(b, limite));
-      ch += `<div class="cb ${k.aspecto}" data-ciclo="${n}" style="left:${cieloX + i * pista + 1}px;width:${pista - 2}px;top:${ya}px;height:${Math.max(3, yb - ya)}px" title="${esc(tituloCiclo(k))}"></div>`; });
-  }
-  cieloEl.innerHTML = ch;
-
   // Cabecera de columnas
   let c = `<div class="ahora" id="ahora" style="width:${ejeW}px" title="Pasa el ratón por el eje de años (o tócalo) para ver quién vivía entonces"></div>`;
-  if (verCielo) c += `<div class="cielo-n" style="left:${cieloX}px;width:${cieloW - 4}px" title="Ciclos de planetas lentos, calculados">${estrecho ? "☉" : "Cielo"}</div>`;
   if (estrecho) c += `<div class="col-n" style="left:${x0}px;width:${colW}px"><span>Todos los carriles</span></div>`;
   else cols.forEach((g, i) => {
     const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
@@ -1187,7 +1172,7 @@ function contemporaneos(f) {
   return `<section class="bloque contemp"><h3>${titulo}</h3>${lista.length > 12 ? `<details><summary>Ver la lista</summary>${cuerpo}</details>` : cuerpo}</section>`;
 }
 // ---------- Capa «Cielo» (calculada, sin autor; nunca ficha) ----------
-const cieloEl = $("cielo");
+
 const MESES = ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"];
 function añoFrac(s) { const [y, m, d] = s.split("-").map(Number); return y + ((m - 1) * 30.4 + (d || 1) - 1) / 365.25; }
 function fechaLarga(s) { const [y, m, d] = s.split("-").map(Number); return `${d} de ${MESES[m - 1]} de ${y}`; }
@@ -1195,7 +1180,7 @@ function tituloCiclo(k) { return `${k.par} · ${k.aspecto} (orbe ${k.orbe}°)\n$
 const notaCielo = () => `<p class="nota">Calculado, no lo dice ningún autor. ${esc(CIELO.metodo)} Rango fiable: ${CIELO.rango.planetas[0]}–${CIELO.rango.planetas[1]} (Plutón: tabla de JPL Horizons desde 1599; en ciclos y recuentos, ${CIELO.rango.pluton[0]}–${CIELO.rango.pluton[1]}); antes no se calcula.</p>`;
 const listaFichas = ids => `<ul class="conex">${ids.map(id => porId[id]).filter(Boolean).map(o =>
   `<li><button type="button" data-ir="${o.id}" style="--c:${color(vistaDe(o))}"><i></i><span><strong>${esc(o.titulo)}</strong> · <span class="fecha" style="display:inline">${esc(fmtFecha(o, o.tipo === "persona", o.vivo))}</span></span></button></li>`).join("")}</ul>`;
-cieloEl.addEventListener("click", e => { const b = e.target.closest("[data-ciclo]"); if (b) abrirCiclo(CIELO.ciclos[+b.dataset.ciclo]); });
+
 function abrirCiclo(k) {
   st.sel = null; history.replaceState(null, "", location.pathname + location.search);
   const a = añoFrac(k.desde), b = añoFrac(k.hasta);
@@ -1264,7 +1249,7 @@ function abrirParalelos() {
       <p class="nota">Recuento sobre todas las fichas del repositorio; abajo, solo las que se ven en esta página.</p>
       ${(p.hechos || []).length ? `<details><summary>${p.hechos.length} hechos enlazados</summary>${listaFichas(p.hechos)}</details>` : ""}
     </section>`).join("")}
-    <section class="bloque"><h3>La franja «Cielo»</h3><p>Junto al eje, una pista por par (de izquierda a derecha): ${pares.map(esc).join(" · ")}. Pulsa una banda para ver su periodo.</p>
+    <section class="bloque"><h3>Los ciclos</h3><p>La columna «Cielo» ya no se dibuja: cada tarjeta lleva sus cinco ciclos y todas sus sinergias, y la cabecera de la década los resume. Los pares que se calculan: ${pares.map(esc).join(" · ")}.</p>
       <div class="leyenda-cielo"><span><i></i>conjunción</span><span><i class="cuadratura"></i>cuadratura</span><span><i class="oposición"></i>oposición</span></div></section>
     ${notaCielo()}
   </div>`);
