@@ -101,28 +101,65 @@
     return h + s + `</main>`;
   }
 
+  /* Carriles: una fila por signo y el año en horizontal. Cada vuelta se ve como
+     una escalera, que es lo que de verdad dibuja el planeta al recorrer el
+     zodíaco. Sustituye a la banda de barras y a la tabla de 12 columnas. */
+  function carriles(pk, vv, hoy) {
+    const ini = DESDE;
+    const fin = Math.max(HOYA, ...vv.map(v => v.fin || HOYA));
+    const ancho = Math.max(1, fin - ini);
+    const pct = x => Math.max(0, Math.min(100, (x - ini) / ancho * 100));
+    let eje = "";
+    for (let a = Math.ceil(ini / 50) * 50; a < fin; a += 50) {
+      eje += `<span style="left:${pct(a).toFixed(2)}%">${a}</span>`;
+    }
+    eje += `<span style="left:100%;transform:translateX(-100%)">${Math.floor(fin)}</span>`;
+    let cab = `<div class="t-lanes-cab"><div class="t-cab-hueco"></div>`;
+    let px = `<div class="t-plot"><div class="t-axis">${eje}</div>`;
+    SIG.forEach((x, i) => {
+      const ws = vv.filter(v => v.s === i);
+      const barras = ws.map(v => {
+        const a = pct(Math.max(v.ini, ini));
+        const b = pct(v.fin || HOYA);
+        const tit = `${SIG[i]} · ${anyos(v)} — entra ${v.fi}` + (v.ff ? `, sale ${v.ff}` : ", en curso");
+        return `<a class="t-seg${v === hoy ? " t-seg-ahora" : ""}" href="#/transitos/${pk}/${slug(x)}"` +
+          ` style="left:${a.toFixed(3)}%;width:${Math.max(0.7, b - a).toFixed(3)}%;` +
+          `background:linear-gradient(to bottom,var(--el-${ELEM[i % 4]}) 0 50%,var(--mod-${MOD[i % 3]}) 50% 100%)"` +
+          ` title="${esc(tit)}" aria-label="${esc(tit)}"></a>`;
+      }).join("");
+      cab += `<div class="t-lane-cab" title="${casa(i)}">${flag(i)}<b>${GLIFO[i]} ${esc(x)}</b><span>${i + 1}</span></div>`;
+      px += `<div class="t-track">${barras || `<i class="t-seg-vac"></i>`}</div>`;
+    });
+    px += `<i class="t-hoy" style="left:${pct(HOYA).toFixed(2)}%" title="Hoy"></i></div>`;
+    cab += `</div>`;
+    const mini = `<div class="t-mini">` + SIG.map((x, i) => {
+      const ws = vv.filter(v => v.s === i);
+      return `<div class="t-mini-row"><span class="t-mini-sign">${flag(i)}<b>${GLIFO[i]} ${esc(x)}</b></span>` +
+        `<span class="t-mini-chips">` + (ws.length
+          ? ws.map(v => `<a class="t-chip${v === hoy ? " t-chip-ahora" : ""}" href="#/transitos/${pk}/${slug(x)}"` +
+            ` style="border-color:var(--el-${ELEM[i % 4]})" title="${esc(SIG[i] + " · " + v.fi + (v.ff ? " a " + v.ff : ", en curso"))}">${anyos(v)}</a>`).join("")
+          : `<span class="t-nota">sin vueltas desde ${DESDE}</span>`) + `</span></div>`;
+    }).join("") + `</div>`;
+    return `<div class="t-scroll t-lanes-wrap"><div class="t-lanes">${cab}${px}</div></div>` + mini;
+  }
+
   function planeta(pk) {
     const vv = V(pk), hoy = actual(pk);
     let h = cabecera(pk, `${PL[pk].g} ${PL[pk].n} por los 12 signos`,
-      `Vuelta completa: ${PL[pk].per}. Cada fila es una vuelta, de Aries a Piscis; leyendo una columna hacia abajo ves todas las veces que ha estado en ese signo.`);
-    // Banda de un vistazo: una barra por ventana, colocada por año.
-    const ini = Math.max(DESDE, Math.floor(vv.length ? vv[0].ini : DESDE));
-    const fin = Math.max(HOYA, ...vv.map(v => v.fin || HOYA));
-    const ancho = Math.max(1, fin - ini);
-    h += `<div class="t-banda" aria-hidden="true">` +
-      vv.map(v => {
-        const a = Math.max(0, (Math.max(v.ini, ini) - ini) / ancho * 100);
-        const b = Math.min(100, ((v.fin || HOYA) - ini) / ancho * 100);
-        return `<i class="t-barra${v === hoy ? " t-barra-ahora" : ""}" style="left:${a.toFixed(3)}%;width:${Math.max(0.25, b - a).toFixed(3)}%;top:${2 + (v.s % 6) * 5}px;background:linear-gradient(to bottom,var(--el-${ELEM[v.s % 4]}) 0 50%,var(--mod-${MOD[v.s % 3]}) 50% 100%)" title="${SIG[v.s]} · ${anyos(v)}"></i>`;
-      }).join("") +
-      `</div><div class="t-anios"><span>${ini}</span><span>${Math.round((ini + fin) / 2)}</span><span>${Math.floor(fin)}</span></div>`;
+      `Vuelta completa: ${PL[pk].per}. Cada fila es un signo y cada barra una vuelta: al bajar por la escalera se ve todo el ciclo. La línea de puntos marca hoy.`);
+    if (hoy) {
+      h += `<p class="t-ahora-chip">Ahora: <b>${PL[pk].g} ${PL[pk].n} en ${GLIFO[hoy.s]} ${esc(SIG[hoy.s])}</b> · ${anyos(hoy)} · ` +
+        `<a href="#/transitos/${pk}/${slug(SIG[hoy.s])}">ver sus hechos →</a></p>`;
+    }
+    h += carriles(pk, vv, hoy);
     const filas = [];
     let f = null, ult = -1;
     vv.forEach(v => {
       if (!f || v.s < ult) { f = new Array(12).fill(null); filas.push(f); }
       f[v.s] = v; ult = v.s;
     });
-    h += `<div class="t-scroll"><table class="t-tabla"><thead><tr><th>Vuelta</th>` +
+    h += `<details class="t-detalle"><summary>Ver las ${filas.length} vueltas con sus años</summary>` +
+      `<div class="t-scroll"><table class="t-tabla"><thead><tr><th>Vuelta</th>` +
       SIG.map((x, i) => `<th style="border-top-color:var(--el-${ELEM[i % 4]})" title="${casa(i)}"><a href="#/transitos/${pk}/${slug(x)}">${flag(i)}<span class="t-gl" style="color:var(--el-${ELEM[i % 4]})">${GLIFO[i]}</span>${esc(x)}</a></th>`).join("") +
       `</tr></thead><tbody>`;
     filas.forEach((r, n) => {
@@ -130,10 +167,8 @@
         ? `<td class="${v === hoy ? "t-ahora" : ""}"><a href="#/transitos/${pk}/${slug(SIG[i])}">${anyos(v)}</a></td>`
         : `<td class="t-vac">—</td>`).join("") + `</tr>`;
     });
-    h += `</tbody></table></div>`;
+    h += `</tbody></table></div></details>`;
     h += leyenda();
-    if (hoy) h += `<p class="t-nota">Ahora: <b>${PL[pk].n} en ${SIG[hoy.s]}</b>, ${anyos(hoy)}. ` +
-      `<a href="#/transitos/${pk}/${slug(SIG[hoy.s])}">Ver esta vuelta con sus hechos →</a></p>`;
     return h + `</main>`;
   }
 
