@@ -64279,7 +64279,11 @@ window.CRONO = {
       "orbe": 2.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Acu",
+     "oposiciones": []
+    }
    },
    "asesinato-kennedy": {
     "fecha": "1963-11-22",
@@ -64308,7 +64312,11 @@ window.CRONO = {
       "orbe": 1.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Acu",
+     "oposiciones": []
+    }
    },
    "atentado-bolonia-1980": {
     "fecha": "1980-08-02",
@@ -64337,7 +64345,11 @@ window.CRONO = {
       "orbe": 0.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "27°Ari",
+     "oposiciones": []
+    }
    },
    "atentado-sarpi-1607": {
     "fecha": "1607-10-05",
@@ -64366,7 +64378,11 @@ window.CRONO = {
       "orbe": 1.7
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "11°Ari",
+     "oposiciones": []
+    }
    },
    "atentado-uss-cole-2000": {
     "fecha": "2000-10-12",
@@ -64389,7 +64405,11 @@ window.CRONO = {
       "orbe": 0.1
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Ari",
+     "oposiciones": []
+    }
    },
    "atentado-wtc-1993": {
     "fecha": "1993-02-26",
@@ -64418,7 +64438,11 @@ window.CRONO = {
       "orbe": 0.5
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Tau",
+     "oposiciones": []
+    }
    },
    "atentados-amman-2005": {
     "fecha": "2005-11-09",
@@ -64441,7 +64465,11 @@ window.CRONO = {
       "orbe": 0.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "22°Acu",
+     "oposiciones": []
+    }
    },
    "atentados-bali-2002": {
     "fecha": "2002-10-12",
@@ -64470,7 +64498,11 @@ window.CRONO = {
       "orbe": 1.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Cap",
+     "oposiciones": []
+    }
    },
    "atentados-londres-7j-2005": {
     "fecha": "2005-07-07",
@@ -64493,7 +64525,11 @@ window.CRONO = {
       "orbe": 0.1
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "26°Can",
+     "oposiciones": []
+    }
    },
    "atentados-madrid-11m-2004": {
     "fecha": "2004-03-11",
@@ -64516,7 +64552,11 @@ window.CRONO = {
       "orbe": 2.5
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "19°Esc",
+     "oposiciones": []
+    }
    },
    "boda-jean-christophe-napoleon-olimpia-2019": {
     "fecha": "2019-10-19",
@@ -64539,7 +64579,11 @@ window.CRONO = {
       "orbe": 1.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Can",
+     "oposiciones": []
+    }
    },
    "bush-escuela-sarasota-2001": {
     "fecha": "2001-09-11",
@@ -64562,7 +64606,11 @@ window.CRONO = {
       "orbe": 2.1
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "27°Gem",
+     "oposiciones": []
+    }
    },
    "convencion-derecha-foz-iguazu-2018": {
     "fecha": "2018-12-08",
@@ -64585,7 +64633,11 @@ window.CRONO = {
       "orbe": 0.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "29°Sag",
+     "oposiciones": []
+    }
    },
    "creacion-reserva-federal-1913": {
     "fecha": "1913-12-23",
@@ -64601,7 +64653,11 @@ window.CRONO = {
      "Plutón": "0°Can"
     },
     "aspectos": [],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Esc",
+     "oposiciones": []
+    }
    },
    "curso-agricultura-koberwitz-1924": {
     "fecha": "1924-06-16",
@@ -64624,7 +64680,11 @@ window.CRONO = {
       "orbe": 1.3
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Sag",
+     "oposiciones": []
+    }
    },
    "discurso-bush-nuevo-orden-mundial-1990": {
     "fecha": "1990-09-11",
@@ -64647,7 +64707,11 @@ window.CRONO = {
       "orbe": 0.2
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Gem",
+     "oposiciones": []
+    }
    },
    "discurso-eisenhower-complejo-militar-industrial": {
     "fecha": "1961-01-17",
@@ -64663,7 +64727,11 @@ window.CRONO = {
      "Plutón": "7°Vir"
     },
     "aspectos": [],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Acu",
+     "oposiciones": []
+    }
    },
    "elecciones-generales-2026": {
     "fecha": "2026-10-05",
@@ -64716,7 +64784,11 @@ window.CRONO = {
       "orbe": 0.4
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Leo",
+     "oposiciones": []
+    }
    },
    "embajadas-preste-juan-1486": {
     "fecha": "1486-10-10",
@@ -64738,7 +64810,11 @@ window.CRONO = {
       "orbe": 1.1
      }
     ],
-    "sin_pluton": true
+    "sin_pluton": true,
+    "luna": {
+     "pos": "18°Pis",
+     "oposiciones": []
+    }
    },
    "estado-de-israel": {
     "fecha": "1948-05-14",
@@ -64767,7 +64843,11 @@ window.CRONO = {
       "orbe": 2.1
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "3°Leo",
+     "oposiciones": []
+    }
    },
    "estado-totalitario-fascista-1925": {
     "fecha": "1925-01-03",
@@ -64790,7 +64870,11 @@ window.CRONO = {
       "orbe": 0.2
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Tau",
+     "oposiciones": []
+    }
    },
    "estatua-de-la-libertad-pedestal-1884": {
     "fecha": "1884-08-05",
@@ -64813,7 +64897,11 @@ window.CRONO = {
       "orbe": 2.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "26°Cap",
+     "oposiciones": []
+    }
    },
    "evento-201-2019": {
     "fecha": "2019-10-18",
@@ -64836,7 +64924,11 @@ window.CRONO = {
       "orbe": 1.7
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "17°Gem",
+     "oposiciones": []
+    }
    },
    "festival-altamont-1969": {
     "fecha": "1969-12-06",
@@ -64891,7 +64983,11 @@ window.CRONO = {
       "orbe": 1.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "27°Cap",
+     "oposiciones": []
+    }
    },
    "hundimiento-del-maine-1898": {
     "fecha": "1898-02-15",
@@ -64926,7 +65022,11 @@ window.CRONO = {
       "orbe": 1.4
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Sag",
+     "oposiciones": []
+    }
    },
    "iluminados-de-baviera-1776": {
     "fecha": "1776-05-01",
@@ -64949,7 +65049,11 @@ window.CRONO = {
       "orbe": 0.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Lib",
+     "oposiciones": []
+    }
    },
    "incendio-nido-del-aguila": {
     "fecha": "2026-10-23",
@@ -64984,7 +65088,11 @@ window.CRONO = {
       "orbe": 0.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Pis",
+     "oposiciones": []
+    }
    },
    "incendio-primer-goetheanum-1922": {
     "fecha": "1922-12-31",
@@ -65031,7 +65139,11 @@ window.CRONO = {
       "orbe": 0.2
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Gem",
+     "oposiciones": []
+    }
    },
    "legion-de-honor": {
     "fecha": "1802-05-19",
@@ -65054,7 +65166,11 @@ window.CRONO = {
       "orbe": 0.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "22°Sag",
+     "oposiciones": []
+    }
    },
    "matanza-de-kansas-city-1933": {
     "fecha": "1933-06-17",
@@ -65077,7 +65193,11 @@ window.CRONO = {
       "orbe": 2.2
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Ari",
+     "oposiciones": []
+    }
    },
    "men-in-black-1997": {
     "fecha": "1997-07-02",
@@ -65112,7 +65232,11 @@ window.CRONO = {
       "orbe": 1.6
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Gem",
+     "oposiciones": []
+    }
    },
    "morgan-lamont-mussolini": {
     "fecha": "1925-04-13",
@@ -65141,7 +65265,11 @@ window.CRONO = {
       "orbe": 0.9
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Sag",
+     "oposiciones": []
+    }
    },
    "muerte-bin-laden-2011": {
     "fecha": "2011-05-02",
@@ -65164,7 +65292,11 @@ window.CRONO = {
       "orbe": 0.7
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "3°Tau",
+     "oposiciones": []
+    }
    },
    "numero-911-emergencias-1968": {
     "fecha": "1968-02-16",
@@ -65193,7 +65325,11 @@ window.CRONO = {
       "orbe": 1.9
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Vir",
+     "oposiciones": []
+    }
    },
    "patente-tesla-787412": {
     "fecha": "1905-04-18",
@@ -65216,7 +65352,11 @@ window.CRONO = {
       "orbe": 1.5
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "12°Lib",
+     "oposiciones": []
+    }
    },
    "prueba-trinity-1945": {
     "fecha": "1945-07-16",
@@ -65239,7 +65379,11 @@ window.CRONO = {
       "orbe": 2.4
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Lib",
+     "oposiciones": []
+    }
    },
    "sociedad-de-los-peregrinos": {
     "fecha": "1902-07-11",
@@ -65268,7 +65412,11 @@ window.CRONO = {
       "orbe": 0.8
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "6°Lib",
+     "oposiciones": []
+    }
    },
    "supresion-jesuitas-1773": {
     "fecha": "1773-07-21",
@@ -65291,7 +65439,11 @@ window.CRONO = {
       "orbe": 0.0
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Leo",
+     "oposiciones": []
+    }
    },
    "testamento-hitler": {
     "fecha": "1945-04-29",
@@ -65314,7 +65466,11 @@ window.CRONO = {
       "orbe": 2.2
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Sag",
+     "oposiciones": []
+    }
    },
    "the-lone-gunmen-piloto-2001": {
     "fecha": "2001-03-04",
@@ -65337,7 +65493,11 @@ window.CRONO = {
       "orbe": 1.3
      }
     ],
-    "sin_pluton": false
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Can",
+     "oposiciones": []
+    }
    }
   },
   "paralelos": [

@@ -776,7 +776,7 @@ function chipCielo(f) {
   const vistos = new Set();
   const sin = [...(a.aspectos || []), ...(a.sinergias || [])].filter(x => {
     const k = `${x.a}|${x.b}|${x.aspecto}`; if (vistos.has(k)) return false; vistos.add(k); return true;
-  }).slice(0, 3).map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`).join(" ");
+  }).map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`).join(" ");
   const txt = pl.map(p => `${p} ${a.grados[p]}`).join(" · ");
   return `<span class="tj-cielo" title="${esc(txt)}"><span class="lbl">Ciclos</span>${pl.map(p => `<span>${GLIFO_PL[p]}${GLIFO_SG[a.pos[p]] || ""}</span>`).join("")}${sin ? `<b>${sin}</b>` : ""}</span>`;
 }
@@ -819,10 +819,15 @@ function maquetar(conservar) {
   const vis = fichas.filter(f => !st.ocultos.has(vistaDe(f)));
   const visT = vis.filter(f => f.tipo !== "persona");
   const personas = vis.filter(f => f.tipo === "persona").sort((a, b) => a.ini - b.ini);
-  // Una sola columna si no caben las cuatro con un ancho legible (móvil, o ficha abierta en pantalla mediana)
+  // Cuatro columnas en escritorio; dos (Economía+Política / Ciencia+Religión) en tablet; una en móvil.
   const gs = grupos.filter(g => g.carr.some(c => !st.ocultos.has(c)));
-  const estrecho = W < 900 || (W - 100) / Math.max(1, gs.length) < 170;
-  const cols = estrecho ? [{ id: "todo", carr: VISTAS.map(c => c.id) }] : gs;
+  const gs2 = [
+    { id: "ep", nombre: "Economía y política", colores: ["economia", "politica"], carr: ["economia", "politica"] },
+    { id: "cr", nombre: "Ciencia y religión", colores: ["ciencia", "religion"], carr: ["ciencia", "religion"] },
+  ].filter(g => g.carr.some(c => !st.ocultos.has(c)));
+  const estrecho = W < 620;
+  const medio = !estrecho && W < 1180;
+  const cols = estrecho ? [{ id: "todo", carr: VISTAS.map(c => c.id) }] : medio ? gs2 : gs;
   const colDe = {}; for (const [i, g] of cols.entries()) for (const c of g.carr) colDe[c] = i;
 
   // Personas (REGLAS §8, 2026-11-12): sin barras ni tarjetas. El eje de años hace de lupa: al pasar el ratón
@@ -839,13 +844,13 @@ function maquetar(conservar) {
 
   // Tarjetas: ancho, visibilidad y medida (las personas no tienen tarjeta en columna)
   // En columnas de un solo carril visible no hace falta repetir el nombre del carril en cada tarjeta
-  const soloCol = cols.map(g => g.carr.filter(c => !st.ocultos.has(c)).length === 1);
+  const soloCol = cols.map(g => g.carr.length === 1);
   for (const f of fichas) { const el = nodos[f.id]; const on = f.tipo !== "persona" && !st.ocultos.has(vistaDe(f)); el.hidden = !on;
     if (on) { el.style.width = `${colW}px`; el.classList.toggle("solo", soloCol[colDe[vistaDe(f)]]); } }
   const alto = {}; for (const f of visT) alto[f.id] = nodos[f.id].offsetHeight;
 
   // Décadas (cabecera de década + tarjetas)
-  const GAP = 6, CAB = estrecho ? 44 : 66;
+  const GAP = 6, CAB = estrecho ? 44 : medio ? 62 : 66;
   const minY = Math.min(...fichas.map(f => f.ini)), maxY = Math.max(HOY, ...fichas.map(f => f.fin));
   const dec0 = Math.floor(minY / 10) - 1, dec1 = Math.floor(maxY / 10) + 1, nd = dec1 - dec0 + 1;
   const suma = Array.from({ length: nd }, () => new Array(cols.length).fill(0));
@@ -891,7 +896,7 @@ function maquetar(conservar) {
 
   // Épocas (banda vertical) y cabeceras de década (2026-11-20)
   const pl5 = ["Júpiter", "Saturno", "Urano", "Neptuno", "Plutón"];
-  const sinTxt = a => [...(a.aspectos || []), ...(a.sinergias || [])].slice(0, 3)
+  const sinTxt = a => [...(a.aspectos || []), ...(a.sinergias || [])].slice(0, 4)
     .map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`).join(" ");
   if (st.epocas) EPOCAS.forEach(e => {
     const y0 = T(Math.max(e.desde, dec0 * 10)), y1 = T(Math.min(e.hasta + 1, dec1 * 10 + 9));
@@ -1213,7 +1218,7 @@ function cieloAnio(f) {
   const vistos = new Set();
   const sin = [...(a.aspectos || []), ...(a.sinergias || [])].filter(x => {
     const k = `${x.a}|${x.b}|${x.aspecto}`; if (vistos.has(k)) return false; vistos.add(k); return true;
-  }).slice(0, 8).map(x => `${esc(x.a)}–${esc(x.b)} ${x.aspecto}${x.orbe != null ? ` (${String(x.orbe).replace(".", ",")}°)` : " (signo)"}`).join(" · ");
+  }).map(x => `${esc(x.a)}–${esc(x.b)} ${x.aspecto}${x.orbe != null ? ` (${String(x.orbe).replace(".", ",")}°)` : " (signo)"}`).join(" · ");
   return `<section class="bloque cielo-dia"><h3>Ciclos Júpiter→Plutón · ${f.ini} · calculado</h3>
     <div class="pos">${pl.map(p => `<span>${esc(p)} ${esc(a.grados[p])}</span>`).join("")}</div>
     <p><b>Sinergias</b>: ${sin || "ninguna"}</p>
@@ -1227,9 +1232,9 @@ function cieloDia(f) {
     <div class="pos">${Object.entries(c.pos).map(([p, v]) => `<span>${esc(p)} ${esc(v)}</span>`).join("")}</div>
     ${(c.aspectos || []).length ? `<p>${c.aspectos.map(x => `${esc(x.a)}–${esc(x.b)}: ${esc(x.aspecto)} (orbe ${x.orbe}°)`).join(" · ")}</p>` : `<p class="nota">Sin aspectos entre planetas lentos ese día.</p>`}
     ${c.sin_pluton ? `<p class="nota">Sin Plutón: la tabla de JPL Horizons empieza en 1599; antes no se calcula.</p>` : ""}
-    ${c.luna ? `<p><b>Luna</b>: ${esc(c.luna.pos)} ☍ ${c.luna.oposiciones.map(o => `${esc(o.planeta)} (orbe ${String(o.orbe).replace(".", ",")}°)`).join(" · ")}</p>` : ""}
+    ${c.luna ? `<p><b>Luna</b>: ${esc(c.luna.pos)}${c.luna.oposiciones.length ? " ☍ " + c.luna.oposiciones.map(o => `${esc(o.planeta)} (orbe ${String(o.orbe).replace(".", ",")}°)`).join(" · ") : " · sin oposición"}</p>` : ""}
     ${estrellasDiaHTML(c.fecha)}
-    <p class="nota">Calculado, no lo dice ningún autor. Sin casas: la ficha no da la hora. La Luna solo se matiza si hay oposición. Las estrellas y su naturaleza salen del libro de Robson (1923).</p></section>`;
+    <p class="nota">Calculado, no lo dice ningún autor. Sin casas: la ficha no da la hora; la Luna va a 12:00 UTC y es orientativa. El único matiz es si hay oposición. Las estrellas y su naturaleza salen del libro de Robson (1923).</p></section>`;
 }
 function estrellasDiaHTML(fechaISO) {
   if (!window.MOTOR || !/^\d{4}-\d{1,2}-\d{1,2}$/.test(fechaISO || "")) return "";
