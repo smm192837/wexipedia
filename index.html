@@ -103,6 +103,7 @@ button, input, select { font: inherit; color: inherit; }
 .cab > * { position: absolute; top: 0; height: 100%; display: flex; align-items: center; }
 .cab .ahora { left: 0; padding-left: max(10px, env(safe-area-inset-left, 0px)); font: 500 12px var(--f-num); color: var(--tinta); white-space: nowrap; }
 .cab .ahora em { font: italic 15px var(--f-lectura); margin-right: 6px; }
+.busca .ahora-top { font: italic 600 13px var(--f-lectura); color: var(--tenue); white-space: nowrap; padding: 0 4px; }
 .cab .col-n { gap: 9px; font: 600 14px var(--f-ui); text-transform: uppercase; letter-spacing: .18em; color: var(--tinta); white-space: nowrap; overflow: hidden; padding-bottom: 3px; }
 .cab .col-n::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 3px; border-radius: 2px; background: var(--grad, var(--tinta)); }
 .cab .col-n span { overflow: hidden; text-overflow: ellipsis; }
@@ -132,6 +133,7 @@ button, input, select { font: inherit; color: inherit; }
 .dec-h .cielo .sin { color: var(--acento); border: 1px solid color-mix(in srgb, var(--acento) 35%, transparent); border-radius: 999px; padding: 1px 6px; }
 .epoca { position: absolute; left: 0; width: 6px; border-radius: 3px; background: var(--acento); opacity: .5; }
 .hueco-carril { position: absolute; border: 1px dashed var(--linea); border-radius: 6px; padding: 7px 9px; font: italic 11.5px var(--f-lectura); color: var(--tenue); }
+.guia-vacia { position: absolute; pointer-events: none; border-left: 1px dashed color-mix(in srgb, var(--linea) 60%, transparent); border-right: 1px dashed color-mix(in srgb, var(--linea) 60%, transparent); border-radius: 5px; padding: 6px 9px; font: italic 11.5px var(--f-lectura); color: var(--tenue); }
 
 @keyframes destello-v { 0% { box-shadow: 0 0 0 4px color-mix(in srgb, var(--acento) 60%, transparent); } 100% { box-shadow: 0 0 0 0 transparent; } }
 /* Zona de cada franja de vidas y «lupa» de contemporáneos (2026-11-12) */
@@ -169,7 +171,9 @@ button, input, select { font: inherit; color: inherit; }
 .tj-m .k .sal { color: var(--aviso-tx); }
 .tj-t { display: block; font-family: var(--f-lectura); font-weight: 600; font-size: 15.5px; line-height: 1.22; margin-top: 2px; text-wrap: pretty; }
 .tj-r { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; font-family: var(--f-lectura); font-size: 13.5px; line-height: 1.4; color: var(--tenue); margin-top: 4px; }
-.tj-cielo { display: flex; flex-wrap: wrap; gap: 3px 7px; align-items: baseline; padding: 0 9px 7px; font: 11.5px var(--f-num); color: var(--tinta); }
+.tj-cielo { display: flex; flex-wrap: nowrap; overflow: hidden; gap: 0 7px; align-items: baseline; padding: 0 9px 7px; font: 11px var(--f-num); color: var(--tinta); white-space: nowrap; }
+.tj-cielo .cic { letter-spacing: .03em; }
+.tj-cielo b { border-left: 1px solid var(--linea); padding-left: 7px; }
 .tj-cielo .lbl { font-size: 9.5px; text-transform: uppercase; letter-spacing: .08em; color: var(--tenue); }
 .tj-cielo b { font-weight: 500; color: var(--acento); }
 .tj-cielo span { white-space: nowrap; }
@@ -591,6 +595,7 @@ button, input, select { font: inherit; color: inherit; }
         <button type="button" id="matriz-b" title="Matriz de autores: quién firma qué siglo y dónde chocan">Matriz</button>
       </div>
       <div class="busca">
+        <span id="ahora" class="ahora-top" title="Siglo visible"></span>
         <select id="ira" aria-label="Ir a un siglo"></select>
         <input id="buscar" type="search" placeholder="Buscar…" aria-label="Buscar en las fichas">
         <select id="autor" aria-label="Filtrar por autor"></select>
@@ -808,11 +813,12 @@ function chipCielo(f) {
   if (!a) return "";
   const pl = ["Júpiter", "Saturno", "Urano", "Neptuno", "Plutón"];
   const vistos = new Set();
-  const sin = [...(a.aspectos || []), ...(a.sinergias || [])].filter(x => {
+  const pares = [...(a.aspectos || []), ...(a.sinergias || [])].filter(x => {
     const k = `${x.a}|${x.b}|${x.aspecto}`; if (vistos.has(k)) return false; vistos.add(k); return true;
-  }).map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`).join(" ");
+  }).map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`);
+  const sin = pares.slice(0, 3).join(" ") + (pares.length > 3 ? ` +${pares.length - 3}` : "");
   const txt = pl.map(p => `${p} ${a.grados[p]}`).join(" · ");
-  return `<span class="tj-cielo" title="${esc(txt)}"><span class="lbl">Ciclos</span>${pl.map(p => `<span>${GLIFO_PL[p]}${GLIFO_SG[a.pos[p]] || ""}</span>`).join("")}${sin ? `<b>${sin}</b>` : ""}</span>`;
+  return `<span class="tj-cielo" title="${esc(txt)}"><span class="cic">${pl.map(p => `${GLIFO_PL[p]}${GLIFO_SG[a.pos[p]] || ""}`).join(" ")}</span>${sin ? `<b>${sin}</b>` : ""}</span>`;
 }
 const nodos = {};
 for (const f of fichas) {
@@ -953,7 +959,7 @@ function maquetar(conservar) {
     </div></div>`;
     cols.forEach((g, j) => {
       const n = fsDec.filter(f => colDe[vistaDe(f)] === j).length;
-      if (!n) h += `<div class="hueco-carril" style="top:${tops[d - dec0] + CAB}px;left:${xCol[j]}px;width:${colW}px">Sin fichas</div>`;
+      if (!n) h += `<div class="guia-vacia" style="top:${tops[d - dec0] + CAB - 4}px;height:${Math.max(12, alturas[d - dec0] - CAB + 2)}px;left:${xCol[j]}px;width:${colW}px">Sin fichas</div>`;
     });
   }
 
@@ -983,7 +989,7 @@ function maquetar(conservar) {
 
   // Bandas del cielo (año fraccional con T())
   // Cabecera de columnas
-  let c = `<div class="ahora" id="ahora" style="width:${ejeW}px" title="Pasa el ratón por el eje de años (o tócalo) para ver quién vivía entonces"></div>`;
+  let c = "";
   if (estrecho) c += `<div class="col-n" style="left:${x0}px;width:${colW}px"><span>Todos los carriles</span></div>`;
   else cols.forEach((g, i) => {
     const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
@@ -1014,7 +1020,7 @@ function ahora() {
   const el = $("ahora"); if (!el || !L) return;
   const y = Math.round(L.inv(escena.scrollTop + 20));
   const s = siglo(y);
-  el.innerHTML = `<em>${nomSiglo(s)}</em>`;
+  el.textContent = nomSiglo(s);
   el.title = `Hacia ${fmt(y)}`;
 }
 
