@@ -7660,6 +7660,119 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "comision-bergier",
+   "tipo": "hecho",
+   "titulo": "La Comisión Bergier sobre Suiza y el oro nazi (1996-2002)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1996,
+    "hasta": 2002,
+    "aprox": false,
+    "texto": "12-12-1996 a marzo de 2002"
+   },
+   "resumen": "Comisión suiza de historiadores que investigó los bienes y el oro movidos a Suiza antes, durante y después de la Segunda Guerra Mundial; SMiguel1 la señala junto a la BIS.",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-20",
+     "ubicacion": "nota de captura, pistas por investigar",
+     "url": null,
+     "resumen": "Pista de SMiguel1: investigar la BIS (1930, Basilea) y el oro saqueado, con la Comisión Bergier de Suiza.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Comisión Independiente de Expertos Suiza-Segunda Guerra Mundial, llamada de Bergier por su presidente, el historiador económico Jean-François Bergier, la creó el gobierno suizo el 12 de diciembre de 1996, tras la demanda del Congreso Judío Mundial contra los bancos suizos. Tuvo acceso sin trabas a los archivos de bancos y empresas y presentó su informe final en marzo de 2002. Entre sus resultados: Suiza fue el centro del comercio de oro europeo y el 77 % de los envíos de oro alemán al exterior pasaron por ella; parte del oro había sido robado a particulares y a los bancos centrales de los países ocupados, y se vendía por francos suizos con los que Alemania compraba material estratégico. De la BIS en concreto no hay dato en estas fuentes: ese punto sigue abierto.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Bergier commission (en)",
+      "url": "https://en.wikipedia.org/wiki/Bergier_commission",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "swissinfo: la Comisión Bergier informa sobre el papel de Suiza en la guerra",
+      "url": "https://www.swissinfo.ch/eng/bergier-commission-reports-on-swiss-wartime-role/2213576",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bpi-reichsbank-guerra-mundial",
+     "nota": "El oro del Reichsbank y la BIS, que la comisión no trató en concreto."
+    },
+    {
+     "id": "suiza-origen",
+     "nota": "Estado cuyo papel investigó."
+    },
+    {
+     "id": "tercer-reich",
+     "nota": "Régimen cuyo oro pasó por Suiza."
+    }
+   ],
+   "estado": "borrador",
+   "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "comision-warren-zapruder-1964",
+   "tipo": "hecho",
+   "titulo": "La Comisión Warren y la película de Zapruder (1963-1964)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1964,
+    "aprox": false,
+    "texto": "informe del 24 de septiembre de 1964"
+   },
+   "resumen": "Comisión presidencial que concluyó que Oswald actuó solo en el asesinato de Kennedy, y película doméstica de Zapruder que fue su prueba central; SMiguel1 los señala como controversia abierta.",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-20",
+     "ubicacion": "nota de captura, pistas por investigar",
+     "url": null,
+     "resumen": "Pista de SMiguel1: buscar fuente sobre la película de Zapruder, la Comisión Warren y la comisión de la Cámara de 1979; controversia abierta.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Comisión Warren, creada por el presidente Johnson el 29 de noviembre de 1963 y presidida por el juez Earl Warren, presentó su informe de 888 páginas el 24 de septiembre de 1964: concluyó que Lee Harvey Oswald mató a Kennedy y actuó solo, y que Jack Ruby actuó solo al matar a Oswald. Sus conclusiones han sido discutidas y también respaldadas por estudios posteriores. La película de Zapruder, muda y en 8 mm, rodada el 22 de noviembre de 1963 en Dealey Plaza (26,6 segundos, 486 fotogramas), fue prueba esencial para la comisión y para todas las investigaciones posteriores; en 1994 entró en el Registro Nacional de Cine de EE. UU. La comisión de la Cámara de 1979 (HSCA) llegó a otra conclusión, que se recoge en la ficha del asesinato.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Warren Commission (en)",
+      "url": "https://en.wikipedia.org/wiki/Warren_Commission",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Zapruder film (en)",
+      "url": "https://en.wikipedia.org/wiki/Zapruder_film",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "asesinato-kennedy",
+     "nota": "Hecho que investigó; incluye la comisión de 1979 y la Academia de Ciencias."
+    },
+    {
+     "id": "john-f-kennedy",
+     "nota": "Presidente asesinado."
+    },
+    {
+     "id": "memorando-cia-1967",
+     "nota": "Despacho de la CIA sobre sus críticos."
+    }
+   ],
+   "estado": "borrador",
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "committee-on-public-information",
    "tipo": "hecho",
    "titulo": "Committee on Public Information (CPI)",
@@ -21797,6 +21910,58 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "memorando-cia-1967",
+   "tipo": "hecho",
+   "titulo": "El despacho de la CIA de 1967 sobre los críticos de la Comisión Warren",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1967,
+    "aprox": false,
+    "texto": "1967 (enero según una fuente; sin cotejar con el original)"
+   },
+   "resumen": "Despacho interno de la CIA que recomendaba cómo contrarrestar a los críticos del informe Warren; SMiguel1 lo señala por la etiqueta «teoría de la conspiración».",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-20",
+     "ubicacion": "nota de captura, pistas por investigar",
+     "url": null,
+     "resumen": "Pista de SMiguel1: investigar el memorando de la CIA de 1967 y el uso de la etiqueta «teoría de la conspiración» contra los críticos de la Comisión Warren.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El despacho 1035-960 de la CIA, «Countering Criticism of the Warren Commission Report», es un documento real, desclasificado en 1976. Habla de «conspiracy theorists» y recomienda destacar que parte de la «charla conspirativa» la generaría la propaganda comunista. Que la CIA inventara la expresión «teoría de la conspiración» no se sostiene: el propio despacho la da por conocida y el término es anterior. La tesis de que la CIA popularizó su sentido peyorativo es de Lance deHaven-Smith (2013) y está disputada. La fecha exacta (enero o abril de 1967) falta cotejarla con el original.",
+    "fuentes": [
+     {
+      "titulo": "Lead Stories: la CIA no creó el término «conspiracy theorist»",
+      "url": "https://leadstories.com/hoax-alert/2023/01/fact-check-cia-did-not-create-term-conspiracy-theorist-after-jfk-assassination.html",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Metabunk: el despacho 1035-960 de la CIA",
+      "url": "https://www.metabunk.org/posts/68081/",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "asesinato-kennedy",
+     "nota": "El despacho respondía a las críticas del informe Warren."
+    },
+    {
+     "id": "comision-warren-zapruder-1964",
+     "nota": "Es la comisión cuyos críticos trata."
+    }
+   ],
+   "estado": "borrador",
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "men-in-black-1997",
