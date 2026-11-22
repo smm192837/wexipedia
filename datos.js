@@ -60234,6 +60234,10 @@ window.CRONO = {
     {
      "id": "los-planetas-trallero",
      "nota": "Libro de astrología aplicada."
+    },
+    {
+     "id": "efecto-marte-gauquelin",
+     "nota": "Intento estadístico que Trallero critica."
     }
    ],
    "estado": "borrador",
@@ -61929,6 +61933,51 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "efecto-marte-gauquelin",
+   "tipo": "saber",
+   "titulo": "El efecto Marte de Gauquelin (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [],
+   "fecha": {
+    "desde": 1955,
+    "aprox": false,
+    "texto": "1955 (L'influence des astres)",
+    "fuente": "oficial"
+   },
+   "fecha_autor": "años 70",
+   "resumen": "Correlación estadística entre campeones deportivos y la posición de Marte al nacer, propuesta por Michel Gauquelin; Trallero cree que el intento estadístico parte de un método equivocado, de abajo arriba.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 40:25–42:08",
+     "url": null,
+     "resumen": "Según Trallero, el intento estadístico de los años 70 con atletas de élite y ascendentes parte del método equivocado, de abajo arriba. El nombre («heno» en la transcripción) es dudoso; la identificación con Gauquelin la hace Nexus a partir del contexto y debe confirmarse en el vídeo.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El efecto Marte es una supuesta correlación estadística entre la excelencia deportiva y la posición del planeta Marte respecto al horizonte en el momento y lugar de nacimiento. Lo propuso el psicólogo francés Michel Gauquelin en L'influence des astres (1955): según él, un número estadísticamente significativo de campeones nació poco después de que Marte saliera o culminara. Su trabajo lo aceptó el psicólogo Hans Eysenck entre otros, pero los intentos posteriores de validarlo y replicarlo dieron resultados desiguales, sobre todo por desacuerdos sobre la selección y el análisis de los datos; trabajos posteriores lo explican por sesgo de selección. El Comité Para belga lo replicó en 1967, pero retuvo ocho años los resultados y alegó «errores demográficos». El efecto sigue siendo controvertido.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Mars effect (en)",
+      "url": "https://en.wikipedia.org/wiki/Mars_effect",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "astrologia-sacra",
+     "nota": "Trallero distingue esta astrología científica, estadística, de la suya."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
