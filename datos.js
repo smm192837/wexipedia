@@ -2707,11 +2707,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Wisselbank de Ámsterdam se fundó en 1609 tomando como modelo el Banco della Piazza di Rialto (1587) de Venecia. Amberes fue el gran centro financiero del siglo XVI hasta su saqueo en 1576 y su caída en 1585.",
+    "resumen": "El Wisselbank de Ámsterdam se fundó en 1609 tomando como modelo el Banco della Piazza di Rialto (1587) de Venecia. Amberes fue el gran centro financiero del siglo XVI hasta su saqueo en 1576 y su caída en 1585. Estaba avalado por la ciudad de Ámsterdam y fue de los primeros bancos públicos en ofrecer cuentas no convertibles directamente en moneda, por lo que algunos lo describen como el primer banco central de verdad, aunque esa opinión no es unánime. Facilitó operaciones hoy habituales en la banca, como los cheques y las transferencias entre cuentas, y también intervenía en la acuñación de moneda: su ensayador enviaba oro y plata a las cecas de las Provincias Unidas para recibir moneda nueva.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Amsterdamsche Wisselbank",
-      "url": "https://en.wikipedia.org/wiki/Amsterdam_Wisselbank"
+      "url": "https://en.wikipedia.org/wiki/Amsterdam_Wisselbank",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco de Ámsterdam",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Ámsterdam",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -2732,6 +2738,50 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-francia-1800",
+   "tipo": "hecho",
+   "titulo": "Banco de Francia (1800)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1800,
+    "texto": "1800",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco central de Francia desde 1800; emitió el franco hasta 1998 y hoy forma parte del Eurosistema.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Francia es el banco central nacional de Francia dentro del Eurosistema. Fue el banco central francés entre 1800 y 1998, y emitió el franco francés. Hoy está supeditado al Banco Central Europeo y participa en definir el tipo de interés dentro del Sistema Europeo de Bancos Centrales.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Bank of France",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_France",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco de Francia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Francia",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "napoleon-bonaparte",
+     "nota": "Su creación es de la época del Consulado de Napoleón."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Lo sustituyó en la política monetaria."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "economia"
   },
   {
@@ -2764,11 +2814,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundado en 1694; la ley la impulsó Charles Montagu, ministro de Hacienda. Fue privado hasta su nacionalización en 1946 y nunca perteneció a los Rothschild, aunque la casa Rothschild de Londres fue un banco muy influyente en el siglo XIX.",
+    "resumen": "Fundado en 1694; la ley la impulsó Charles Montagu, ministro de Hacienda. Fue privado hasta su nacionalización en 1946 y nunca perteneció a los Rothschild, aunque la casa Rothschild de Londres fue un banco muy influyente en el siglo XIX. Es el banco central del Reino Unido: emite y controla la circulación de la libra esterlina y fija la política monetaria mediante su Comité de Política Monetaria. Se creó en 1694 para actuar como banquero y gestor de la deuda del Gobierno inglés; es el segundo banco central más antiguo del mundo, tras el de Suecia (1668), y se ha tomado como modelo de la mayoría de los bancos centrales modernos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Banco de Inglaterra",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Inglaterra"
+     },
+     {
+      "titulo": "Wikipedia (en): Bank of England",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_England",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -3011,6 +3066,45 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "banco-mundial-1944",
+   "tipo": "hecho",
+   "titulo": "Banco Mundial (1944)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1944,
+    "texto": "julio de 1944",
+    "fuente": "oficial"
+   },
+   "resumen": "Organización multinacional de financiación y asistencia, creada en julio de 1944 en Bretton Woods.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Mundial es una organización multinacional especializada en finanzas y asistencia. Su propósito declarado es reducir la pobreza mediante préstamos de bajo interés, créditos sin intereses y apoyo económico a las naciones en desarrollo. Lo integran 189 países miembros. Se creó en julio de 1944 como parte de los acuerdos de Bretton Woods y tiene su sede en Washington D. C.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Mundial",
+      "url": "https://es.wikipedia.org/wiki/Banco_Mundial",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bretton-woods-1944",
+     "nota": "Conferencia de la que nació."
+    },
+    {
+     "id": "bretton-woods-fmi-1944",
+     "nota": "Organismo hermano de 1944."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "economia"
   },
   {
@@ -3517,6 +3611,41 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "vista": "ciencia"
+  },
+  {
+   "id": "bce-1998",
+   "tipo": "hecho",
+   "titulo": "Banco Central Europeo (1998)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1998,
+    "texto": "junio de 1998",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco central de los países del euro, creado en junio de 1998 y con sede en Fráncfort.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central Europeo es el banco central de los Estados de la Unión Europea que tienen el euro como moneda (la eurozona). Dirige el Eurosistema y forma, junto con los bancos centrales nacionales de los demás Estados miembros, el Sistema Europeo de Bancos Centrales. Se creó en junio de 1998 para ejecutar y gestionar la política monetaria de la Unión, y tiene su sede en Fráncfort del Meno. Adquirió la condición de institución de la Unión Europea con el Tratado de Lisboa, en 2009.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central Europeo",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_Europeo",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-francia-1800",
+     "nota": "Sustituyó a bancos centrales nacionales como este en la política monetaria."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
   },
   {
    "id": "biblia-catolica-1777",
@@ -4511,6 +4640,46 @@ window.CRONO = {
      }
     ]
    },
+   "vista": "economia"
+  },
+  {
+   "id": "bretton-woods-fmi-1944",
+   "tipo": "hecho",
+   "titulo": "Fondo Monetario Internacional (1944-1945)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1944,
+    "hasta": 1945,
+    "texto": "1944 – 27 de diciembre de 1945",
+    "fuente": "oficial"
+   },
+   "resumen": "Organismo nacido en los acuerdos de Bretton Woods (1944); entró en vigor el 27 de diciembre de 1945.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Fondo Monetario Internacional es una organización financiera internacional de las Naciones Unidas, con sede en Washington. Nació en 1944 en los acuerdos de Bretton Woods, sobre todo de las ideas de Harry Dexter White y John Maynard Keynes, en una reunión de 730 delegados de 44 países aliados de la Segunda Guerra Mundial. Entró en vigor el 27 de diciembre de 1945 con 29 países miembros, con el objetivo de reconstruir el sistema monetario internacional. Tras 1976 y la desaparición del cambio fijo, pasó a dar créditos a los Estados a cambio de que apliquen sus recomendaciones.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Fondo Monetario Internacional",
+      "url": "https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bretton-woods-1944",
+     "nota": "Conferencia de la que nació."
+    },
+    {
+     "id": "banco-mundial-1944",
+     "nota": "Organismo hermano de 1944."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "economia"
   },
   {
@@ -8895,6 +9064,50 @@ window.CRONO = {
     ]
    },
    "vista": "ciencia"
+  },
+  {
+   "id": "crac-de-1929",
+   "tipo": "hecho",
+   "titulo": "Crac de la bolsa de Nueva York (1929)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1929,
+    "texto": "octubre de 1929",
+    "fuente": "oficial"
+   },
+   "resumen": "Gran caída de la bolsa de Nueva York desde octubre de 1929 (Jueves Negro, 24; Martes Negro, 29), inicio de la Gran Depresión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El crac de 1929 fue la mayor caída bursátil de la historia de la bolsa de Nueva York. Empezó en octubre de 1929 con un fuerte descenso de precios y destruyó la confianza en el sistema bancario estadounidense. Se asocia sobre todo al 24 de octubre (Jueves Negro, con un récord de 12,9 millones de acciones negociadas) y al 29 de octubre (Martes Negro, con 16,4 millones). Marcó el comienzo de la Gran Depresión mundial, que duró hasta la entrada de Estados Unidos en la Segunda Guerra Mundial, el 8 de diciembre de 1941.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Wall Street crash of 1929",
+      "url": "https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Crac del 29",
+      "url": "https://es.wikipedia.org/wiki/Crac_del_29",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "sistema-reserva-federal",
+     "nota": "Su actuación ante la crisis se debate."
+    },
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "La Depresión duró hasta la entrada de EE. UU."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
   },
   {
    "id": "creacion-de-dinero-bancaria",
@@ -27153,6 +27366,46 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "reichsbank-1876",
+   "tipo": "hecho",
+   "titulo": "Reichsbank (1876-1945)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1876,
+    "hasta": 1945,
+    "texto": "1876 – 1945",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco central de Alemania de 1876 a 1945, creado tras la unificación del país.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Reichsbank fue el banco central de Alemania entre 1876 y 1945. Se creó tras la unificación alemana como principal entidad bancaria central de todo el territorio. Tuvo un papel destacado durante la hiperinflación. En 1939 las autoridades nazis lo renombraron Deutsche Reichsbank, y desapareció al final de la Segunda Guerra Mundial, tras la caída de la Alemania nazi.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Reichsbank",
+      "url": "https://es.wikipedia.org/wiki/Reichsbank",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bpi-reichsbank-guerra-mundial",
+     "nota": "Su relación con el BPI en la guerra."
+    },
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Desapareció al terminar."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
    "id": "reino-dos-sicilias",
    "tipo": "hecho",
    "titulo": "El reino de las Dos Sicilias",
@@ -27984,6 +28237,41 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
+  },
+  {
+   "id": "riksbank-1668",
+   "tipo": "hecho",
+   "titulo": "Banco de Suecia, el Riksbank (1668)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1668,
+    "texto": "1668",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco central de Suecia, fundado en 1668; el más antiguo del mundo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Suecia (Riksbank) es el banco central del Reino de Suecia. Se fundó en 1668 y es el banco central más antiguo del mundo. Es la autoridad monetaria de Suecia, se encarga de acuñar sus monedas y billetes, y es miembro del Sistema Europeo de Bancos Centrales.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Suecia",
+      "url": "https://es.wikipedia.org/wiki/Riksbank",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-inglaterra",
+     "nota": "Segundo banco central más antiguo, de 1694."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
   },
   {
    "id": "rockefeller-monopolio-petroquimica-medicina",
@@ -29158,6 +29446,85 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "shock-de-nixon-1971",
+   "tipo": "hecho",
+   "titulo": "Shock de Nixon: fin de la convertibilidad del dólar en oro (1971)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1971,
+    "texto": "1971",
+    "fuente": "oficial"
+   },
+   "resumen": "Cambios económicos de 1971 de Nixon, entre ellos la cancelación unilateral de la convertibilidad directa del dólar en oro.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El «shock de Nixon» fue una serie de cambios que el presidente Richard Nixon hizo en 1971 en las políticas económicas y exteriores de Estados Unidos, como respuesta a la creciente inflación. Los más importantes fueron la congelación de precios y salarios, los recargos a las importaciones y la cancelación unilateral de la convertibilidad internacional directa del dólar al oro.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Shock de Nixon",
+      "url": "https://es.wikipedia.org/wiki/Shock_de_Nixon",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bretton-woods-1944",
+     "nota": "Puso fin a la convertibilidad que fijó Bretton Woods."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
+   "id": "sistema-reserva-federal",
+   "tipo": "hecho",
+   "titulo": "Sistema de la Reserva Federal, EE. UU. (1913)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1913,
+    "texto": "23 de diciembre de 1913",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco central de Estados Unidos, creado el 23 de diciembre de 1913 con la Ley de la Reserva Federal tras una serie de pánicos financieros.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Sistema de la Reserva Federal es el banco central de Estados Unidos. Se creó el 23 de diciembre de 1913 con la Ley de la Reserva Federal, después de una serie de pánicos financieros que hicieron desear un control central del sistema monetario. Es un consorcio público-privado: una agencia del Gobierno, la Junta de Gobernadores, con sede en Washington, y 12 Bancos de la Reserva en el país. Su mandato es mantener los precios estables y maximizar el empleo. Aunque es un instrumento del Gobierno, se la considera banco central independiente por su aislamiento de la injerencia política.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Federal Reserve",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Sistema de la Reserva Federal",
+      "url": "https://es.wikipedia.org/wiki/Sistema_de_la_Reserva_Federal",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "Ficha de su creación y de lo que sostienen los autores."
+    },
+    {
+     "id": "banco-de-inglaterra",
+     "nota": "Otro banco central de referencia."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
    "id": "sitio-jativa-1522-1707",
    "tipo": "hecho",
    "titulo": "Sitio de Játiva: 1522 = 1707",
@@ -30113,6 +30480,47 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "taula-de-canvi-barcelona",
+   "tipo": "hecho",
+   "titulo": "Taula de canvi de Barcelona (siglo XV)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1400,
+    "hasta": 1499,
+    "texto": "siglo XV",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Institución financiera pública de la Corona de Aragón, en el siglo XV; la de Barcelona se considera el primer banco público de Europa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Taula de canvi, o simplemente Taula, fue una institución financiera que apareció en distintas ciudades de la Corona de Aragón en el siglo XV, en respuesta al aumento del comercio y de los viajes de larga distancia desde la Baja Edad Media, sobre todo marítimos. La Taula de Canvi de Barcelona puede considerarse el primer banco público de Europa.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Taula de canvi",
+      "url": "https://es.wikipedia.org/wiki/Taula_de_canvi",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-medici",
+     "nota": "Banco privado italiano del mismo siglo."
+    },
+    {
+     "id": "banco-de-san-giorgio-1407",
+     "nota": "Banco genovés del mismo siglo."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "economia"
   },
   {
