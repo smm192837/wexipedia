@@ -636,6 +636,37 @@ window.CRONO = {
      "resumen": "Lista de pistas que SMiguel1 pide investigar con fuente (radio y nazismo, JFK, memorando de la CIA de 1967, BIS y Bergier, frase de Foch)."
     }
    ]
+  },
+  {
+   "id": "sergio-trallero",
+   "nombre": "Sergio Trallero",
+   "obras": [
+    {
+     "id": "entrevista-sala-amigos-de-magna-ciencia",
+     "titulo": "Entrevista de Artur Sala a Sergio Trallero (Amigos de Magna Ciencia)",
+     "tipo": "video",
+     "fecha": null,
+     "duracion": "1 h 35 min",
+     "url": null,
+     "referencia": "Directo de «Amigos de Magna Ciencia» (canal de Artur Sala); grabado hacia 2021 (habla de la conjunción Júpiter-Saturno «del año pasado»). Transcripción automática sin marcas de hablante pegada por SMiguel1 el 22-11-2026; empieza en el minuto 4:31. Guardada en entrada/sergio-trallero__entrevista-artur-sala-amigos-de-magna-ciencia__2026-11-22.txt. Sin URL ni fecha exacta.",
+     "resumen": "Según Trallero: la filosofía perenne como núcleo atemporal de toda tradición, el ciclo de edades y el Kali Yuga como descenso colectivo, la astrología «sacra» como ciencia cosmológica ligada a alquimia y cábala, el zodiaco sideral como original y el tropical como deriva griega, la teoría de las eras como invención del siglo XVIII, una crítica a la ciencia moderna, la gran conjunción de 2020 como cambio de ciclo y el transhumanismo como contrarreligión final. También habla de su paso del sufismo al shivaísmo de Cachemira. Sin marcas de hablante en la transcripción.",
+     "estado": "procesada",
+     "con": [
+      "artur-sala"
+     ]
+    },
+    {
+     "id": "alquimia-de-la-astrologia-congreso-vigo",
+     "titulo": "La alquimia de la astrología (33.º Congreso Ibérico de Astrología, Vigo, junio de 2016)",
+     "tipo": "conferencia",
+     "fecha": "2016-06",
+     "duracion": null,
+     "url": null,
+     "referencia": "Conferencia en el 33.º Congreso Ibérico de Astrología (Vigo, junio de 2016), bajo el título «El saber cosmológico». Transcripción automática .txt, sin minutos ni marcas, aportada por SMiguel1 el 22-11-2026 (archivo «transcribed on 22-Nov-2026»). Guardada en entrada/sergio-trallero__alquimia-de-la-astrologia-congreso-vigo__2016-06.txt. Sin URL.",
+     "resumen": "Según Trallero, astrología y alquimia son ciencias herméticas hermanas: la alquimia aporta el mapa iniciático del alma. Expone la tria prima (azufre, mercurio, sal) y su correlación con Sol, Luna y Ascendente, la correspondencia entre los siete planetas y los siete metales, las tres fases de la obra (negro, blanco, rojo), y la piedra filosofal como integración de Sol, Luna y Ascendente. Propone llamar «astrología sacra» a esta astrología alquímica.",
+     "estado": "procesada"
+    }
+   ]
   }
  ],
  "fichas": [
@@ -8294,6 +8325,38 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "congreso-iberico-astrologia-vigo-2016",
+   "tipo": "hecho",
+   "titulo": "33.º Congreso Ibérico de Astrología, Vigo (2016)",
+   "carril": "ciencia-saber",
+   "naturaleza": "organizaciones",
+   "temas": [],
+   "fecha": {
+    "desde": 2016,
+    "texto": "junio de 2016"
+   },
+   "resumen": "Congreso celebrado en Vigo en junio de 2016 con el tema «El saber cosmológico», donde Trallero dio la conferencia «La alquimia de la astrología».",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 1",
+     "url": null,
+     "resumen": "Según Trallero, el 33.º congreso, con el saber cosmológico como tema, se celebró en tierra de Santiago Apóstol, patrón de los alquimistas según él; da la conferencia sobre astrología y alquimia.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Conferencia que Trallero dio allí."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
    "id": "congreso-solvay-1927",
    "tipo": "hecho",
    "titulo": "El quinto Congreso Solvay (1927)",
@@ -8416,6 +8479,42 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "conjuncion-jupiter-saturno-2020",
+   "tipo": "hecho",
+   "titulo": "Gran conjunción de Júpiter y Saturno (2020)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [],
+   "fecha": {
+    "desde": 2020,
+    "texto": "21.12.2020"
+   },
+   "resumen": "Conjunción de Júpiter y Saturno el 21 de diciembre de 2020, a 0° de Acuario; Trallero la lee como cierre de 200 años de conjunciones en tierra y apertura de otro ciclo en aire, ligado a la digitalización.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 1:02:46–1:03:51",
+     "url": null,
+     "resumen": "Según Trallero, en 2020 se cerró un ciclo de 200 años de conjunciones de Júpiter y Saturno en signos de tierra y se abrió otro en aire; lo asocia al paso de la industrialización a lo digital y a la inteligencia artificial, aunque dice que aún no se ve qué forma tomará.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "pandemia-covid-19",
+     "nota": "Trallero sitúa en 2020 un cambio de ciclo."
+    },
+    {
+     "id": "transhumanismo-termino-huxley",
+     "nota": "Lo liga a la digitalización y la IA."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "conquista-otomana-siglo-xv-epidemias",
@@ -10557,6 +10656,45 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
+  },
+  {
+   "id": "dimensiones-de-lo-real",
+   "tipo": "hecho",
+   "titulo": "«Dimensiones de lo real», de Sergio Trallero (2014)",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "temas": [
+    "religion"
+   ],
+   "fecha": {
+    "desde": 2014,
+    "aprox": true,
+    "margen": 1
+   },
+   "resumen": "Primer ensayo de Trallero; Sala lo recomienda como introducción al esoterismo, la astrología, la alquimia y las ciencias sagradas.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 4:31 y 1:19:08–1:19:45",
+     "url": null,
+     "resumen": "Según Artur Sala (en la entrevista), Dimensiones de lo real es el primer ensayo de Trallero, publicado hacia 2014, y una introducción al esoterismo, la astrología, la alquimia y las ciencias sagradas hacia la metafísica.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "los-planetas-trallero",
+     "nota": "Su segundo ensayo."
+    },
+    {
+     "id": "astrologia-sacra",
+     "nota": "Concepto que Trallero desarrolla."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
   },
   {
    "id": "dinero-digital",
@@ -20589,6 +20727,46 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "los-planetas-trallero",
+   "tipo": "hecho",
+   "titulo": "«Los planetas», de Sergio Trallero (2017-2018)",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "temas": [
+    "religion"
+   ],
+   "fecha": {
+    "desde": 2017,
+    "aprox": true,
+    "margen": 1
+   },
+   "fecha_autor": "2017 o 2018",
+   "resumen": "Segundo ensayo de Trallero, de astrología aplicada y psicológica; Sala lo recomienda tras leer Dimensiones de lo real.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 4:31 y 1:19:08–1:19:45",
+     "url": null,
+     "resumen": "Según Artur Sala (en la entrevista), Los planetas es el segundo ensayo de Trallero, publicado hacia 2017 o 2018, y trata de astrología psicológica aplicada.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "dimensiones-de-lo-real",
+     "nota": "Su primer ensayo."
+    },
+    {
+     "id": "astrologia-sacra",
+     "nota": "Marco del autor."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
    "id": "mafia-siciliana",
    "tipo": "hecho",
    "titulo": "La mafia siciliana",
@@ -26023,6 +26201,14 @@ window.CRONO = {
      "ubicacion": "min. 2:02:00",
      "url": "https://www.youtube.com/watch?v=gyELvwNH3p0&t=7320s",
      "resumen": "Sostiene que la pandemia sirvió de ensayo del identificador digital y que la guerra actual es otro paso de la misma agenda; Iván añade que «la estupidez es contagiosa».",
+     "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 49:04–50:00, 1:02:46–1:03:19",
+     "url": null,
+     "resumen": "Según Trallero, 2020 marcó un cambio de ciclo y la crisis evidencia los dogmas de la ciencia moderna («se está desnudando al rey»); dice haber publicado entradas sobre ello desde la ciencia sagrada y evita entrar en detalle para no ser censurado.",
      "contradice": []
     }
    ],
@@ -32456,6 +32642,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=L0CdIxr-FZU",
      "resumen": "Cita su frase «creo en el transhumanismo» de 1957: al creerlo bastantes, la humanidad cumplirá su destino.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 1:08:21–1:09:29, 1:24:01–1:25:52",
+     "url": null,
+     "resumen": "Según Trallero, el transhumanismo sería la contrarreligión del final del ciclo, junto a la nueva era y el tema extraterrestre, y destino de la ciencia moderna: crear una inteligencia artificial como parodia del Golem.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -37784,6 +37978,14 @@ window.CRONO = {
      "ubicacion": "min. 2:21:12",
      "url": "https://www.youtube.com/watch?v=JeM1DeOL0j8&t=8472s",
      "resumen": "Texto de Alex Fulton leído por el autor: Jung y Kubrick nacieron el mismo día, 26 de julio, y serían «los verdaderos agentes J y K» de «Men in Black».",
+     "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 37:32–40:25",
+     "url": null,
+     "resumen": "Según Trallero, la influencia de Jung (que levantaba la carta astral en casos difíciles) contribuyó a la psicologización de la astrología en el siglo XX.",
      "contradice": []
     }
    ],
@@ -44477,6 +44679,14 @@ window.CRONO = {
      "url": null,
      "resumen": "La nombra, con Guénon, Eliade y Schwaller de Lubicz, entre las personalidades más influyentes en las sociedades esotéricas modernas, como creadora de la teosofía.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 30:21–31:47",
+     "url": null,
+     "resumen": "Según Trallero, los teósofos hicieron con traducciones deficientes una mezcla poco rigurosa; Guénon la criticó con un análisis filológico preciso.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -50693,6 +50903,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, Martin Lings es preferible a otros autores de la escuela tradicionalista.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 9:38–10:43, 1:28:05–1:29:11",
+     "url": null,
+     "resumen": "Según Trallero, Lings es uno de los autores de la escuela tradicionalista; un libro suyo le mostró la riqueza de las teorías del éter tradicional (el título no lo recuerda).",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -53158,6 +53376,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, en Paracelso queda clara la antropología de los tres principios: el espíritu es el azufre, el alma el mercurio y el cuerpo la sal; con esa clave se entiende la tradición y la ciencia occidentales, que veían a Arnau de Vilanova como médico, a Newton como físico y a Ramon Llull como escritor, no como alquimistas.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 19",
+     "url": null,
+     "resumen": "Según Trallero, el ternario azufre-mercurio-sal cobró mucha importancia a partir de Paracelso.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -54793,6 +55019,14 @@ window.CRONO = {
      "resumen": "Según el autor, que abre la sesión matizando lo dicho en la parte anterior, Guénon fue un autor honesto cuyo mapa tradicional sigue siendo útil, pero no llegó a conocer el tantrismo no dual (trika), anterior a los Vedas y que, según el autor, se empezó a conocer en Occidente a finales de los años 80 gracias a Swami Lakshmanjoo.",
      "contradice": [],
      "coincide": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 9:38–10:43, 25:01–32:25",
+     "url": null,
+     "resumen": "Según Trallero, Guénon restaura en el siglo XX la filosofía perenne en la escuela tradicionalista; él lo descubrió por casualidad en la biblioteca de la universidad. Defiende su crítica filológica a la teosofía, con sus limitaciones por las fuentes de su época.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -58240,6 +58474,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=181s",
      "resumen": "El autor lo presenta como el científico proscrito más importante de la historia: su obra fue quemada por los comunistas, por los nazis y, en 1956, por EE. UU.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 1:27:16–1:27:58",
+     "url": null,
+     "resumen": "Según Trallero, Reich es un autor moderno que mete en un «cajón de sastre» fuerzas formativas y movimiento; el éter tradicional es otra cosa.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -59546,6 +59788,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Dice que la medicina alopática nace de la alquimia, práctica de Egipto, Grecia, Roma e Islam difundida por sociedades secretas, y que «Pharmakeia» es una potestad oculta.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 3",
+     "url": null,
+     "resumen": "Según Trallero, la química moderna nace del uso solo experimental de la alquimia cuando se perdieron sus claves místicas y espirituales.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -59568,6 +59818,66 @@ window.CRONO = {
     {
      "id": "culto-asclepio-incubacion",
      "nota": ""
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
+   "id": "alquimia-y-astrologia-ciencias-hermanas",
+   "tipo": "saber",
+   "titulo": "Alquimia y astrología, ciencias hermanas (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Trallero sostiene que astrología y alquimia forman una sola ciencia sagrada hermética: la alquimia da a la astrología el método para transmutar las energías planetarias y la obra consiste en solarizar la conciencia.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 1, 7, 67–77, 93",
+     "url": null,
+     "resumen": "Según Trallero, astrología y alquimia son un solo saber cosmológico (misterios menores de Eleusis y Egipto): sin alquimia la astrología es «una cabeza sin cuerpo». Propone el término «astrología sacra», menos predictiva, y ve el objetivo en solarizar la conciencia, con el Sol como logos en el corazón; el astrólogo auténtico sería un hermetista que transmuta Saturno por dentro.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La alquimia es una antigua práctica protocientífica y disciplina filosófica que combinaba química, metalurgia, medicina, astrología y misticismo; se practicó en Mesopotamia, Egipto, Persia, India, China, Grecia, Roma y el mundo islámico, y en Europa hasta el siglo XVIII. La alquimia occidental estuvo muy ligada al hermetismo, y dio origen a la química moderna.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Alquimia",
+      "url": "https://es.wikipedia.org/wiki/Alquimia",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [
+    {
+     "resumen": "El sabio domina a sus astros.",
+     "atribuida_a": "Adagio medieval (cita Trallero)",
+     "verificacion": "sin-comprobar",
+     "fuente": "Sapiens dominabitur astris; Trallero, Vigo 2016"
+    }
+   ],
+   "conexiones": [
+    {
+     "id": "astrologia-sacra",
+     "nota": "Mismo concepto, desarrollado aquí."
+    },
+    {
+     "id": "hermetismo",
+     "nota": "Marco en el que lo sitúa."
+    },
+    {
+     "id": "piedra-filosofal",
+     "nota": "Meta de la obra."
+    },
+    {
+     "id": "congreso-iberico-astrologia-vigo-2016",
+     "nota": "Dónde lo expuso."
     }
    ],
    "estado": "borrador",
@@ -59613,6 +59923,57 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "astrologia-sacra",
+   "tipo": "saber",
+   "titulo": "Astrología sacra (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Término de Trallero para una astrología entendida como ciencia cosmológica sagrada, unida a alquimia, numerología y cábala, y distinta de la predictiva y de la psicológica.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 17:16–21:22, 1:19:08–1:21:28",
+     "url": null,
+     "resumen": "Según Trallero, la astrología es una ciencia cosmológica (estudia el devenir cíclico) que va de lo sutil a lo denso; prefiere llamarla «sacra» y no «tradicional» porque la liga a alquimia, numerología y cábala. Distingue metafísica y cosmología, y misterios menores (solares, horizontales) y mayores (axiales, verticales).",
+     "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 7",
+     "url": null,
+     "resumen": "Según Trallero, la astrología tradicional no estaba desligada de la alquimia; prefiere llamarla «sacra» para rescatar su núcleo esotérico, más ligado a la magia y la iniciación que a predecir. Cree que parte del determinismo planetario viene del estoicismo.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "filosofia-perenne",
+     "nota": "Marco del que parte."
+    },
+    {
+     "id": "zodiaco-sideral-y-tropical",
+     "nota": "Su lectura de las dos astrologías."
+    },
+    {
+     "id": "dimensiones-de-lo-real",
+     "nota": "Libro donde la introduce."
+    },
+    {
+     "id": "los-planetas-trallero",
+     "nota": "Libro de astrología aplicada."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
@@ -60184,6 +60545,59 @@ window.CRONO = {
      }
     ]
    },
+   "vista": "ciencia"
+  },
+  {
+   "id": "ciclo-de-las-edades-kali-yuga",
+   "tipo": "saber",
+   "titulo": "Ciclo de las edades y Kali Yuga (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Marco cíclico de edades (oro, plata, bronce, hierro) desde el que Trallero lee la historia como descenso colectivo, con liberación individual.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 11:09–12:50, 1:04:06–1:09:29",
+     "url": null,
+     "resumen": "Según Trallero, en la edad de oro había un estado de conciencia no dual y las tradiciones nacen en la edad de plata como vías de regreso; estamos en el Kali Yuga y los cambios de ciclo son un descenso colectivo, mientras que la liberación es individual. La ciencia moderna sería una «alquimia al revés» nacida de ese descenso.",
+     "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 17 y 77",
+     "url": null,
+     "resumen": "Según Trallero, el andrógino de la edad de oro simboliza el estado de no dualidad que busca la alquimia, y Saturno-Cronos es el regente de esa edad.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Yuga",
+      "url": "https://es.wikipedia.org/wiki/Yuga",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "filosofia-perenne",
+     "nota": "Marco doctrinal de Trallero."
+    },
+    {
+     "id": "transhumanismo-termino-huxley",
+     "nota": "Lo ve como destino final de la ciencia moderna."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
@@ -61829,6 +62243,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, lo que hoy se llama materia oscura, energía oscura, corrimiento al rojo o Big Bang serían solo distintos vientos de un mismo éter, es decir, distintas velocidades de propagación de un medio.",
      "contradice": []
+    },
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 1:28:05–1:31:04",
+     "url": null,
+     "resumen": "Según Trallero, el éter tradicional es un principio metafísico previo a los cuatro elementos, ligado al oído y al verbo en el esquema de los tattvas; no hay que confundirlo con el akasha de los registros akáshicos de la nueva era.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -61969,6 +62391,55 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "vista": "ciencia"
+  },
+  {
+   "id": "filosofia-perenne",
+   "tipo": "saber",
+   "titulo": "Filosofía perenne",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Corriente que sostiene que las tradiciones espirituales comparten un núcleo universal; Trallero la presenta como esfera atemporal que se recupera por la vía iniciática.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 8:12–10:43, 11:09–12:50",
+     "url": null,
+     "resumen": "Según Trallero, es la esfera universal y atemporal presente en el núcleo de toda tradición espiritual, con capas exotéricas encima. Atribuye a Leibniz uno de los primeros usos del término, que tomó relevancia en el siglo XX con Guénon y la escuela tradicionalista.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia. Tiene raíces en el neoplatonismo renacentista (Ficino, Pico della Mirandola) y el término lo acuñó Agostino Steuco (1497-1548), no Leibniz.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Filosofía perenne",
+      "url": "https://es.wikipedia.org/wiki/Filosof%C3%ADa_perenne",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "rene-guenon",
+     "nota": "Trallero la liga a la escuela tradicionalista de Guénon."
+    },
+    {
+     "id": "martin-lings",
+     "nota": "Citado entre los tradicionalistas."
+    },
+    {
+     "id": "astrologia-sacra",
+     "nota": "Marco desde el que Trallero entiende la astrología."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
@@ -62204,6 +62675,51 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "hermetismo",
+   "tipo": "saber",
+   "titulo": "Hermetismo",
+   "carril": "religion",
+   "naturaleza": "ocultismo",
+   "temas": [
+    "ciencia-saber"
+   ],
+   "fecha": null,
+   "resumen": "Tradición filosófica y religiosa basada en los Hermética, atribuidos a Hermes Trismegisto; Trallero lo ve como raíz de la astrología y la alquimia occidentales.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 7",
+     "url": null,
+     "resumen": "Según Trallero, la astrología occidental viene del hermetismo, de Grecia y Egipto, y se transmitió por los árabes a la cristiandad medieval; hermetismo y alquimia serían términos casi equivalentes y Thoth-Hermes una función del logos divino.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El hermetismo es una tradición filosófica y religiosa basada en los textos pseudoepigráficos Hermética, atribuidos a Hermes Trismegisto («el tres veces grande»), combinación helenística del dios griego Hermes y el egipcio Thot. Los Hermética se escribieron a lo largo de muchos siglos (hacia 300 a. C.-1200 d. C.); el más famoso es el Corpus Hermeticum (hacia 100-300 d. C.).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Hermetismo",
+      "url": "https://es.wikipedia.org/wiki/Hermetismo",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Su marco para unir ambas ciencias."
+    },
+    {
+     "id": "paracelso",
+     "nota": "Alquimista citado en la conferencia."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
   },
   {
    "id": "hidrogeno-atomico",
@@ -63719,6 +64235,41 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "obra-al-negro-blanco-y-rojo",
+   "tipo": "saber",
+   "titulo": "Obra al negro, al blanco y al rojo (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Las tres fases de la Gran Obra alquímica, que Trallero asocia a Saturno (negro), la Luna (blanco) y el Sol (rojo).",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 37–49",
+     "url": null,
+     "resumen": "Según Trallero, la obra al negro es Saturno y la contracción y muerte al mundo profano; la obra al blanco es la Luna y la purificación del alma; la obra al rojo es el Sol, cuando desciende el espíritu (ave fénix, y en el tantra el fuego de la Kundalini).",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "piedra-filosofal",
+     "nota": "Meta de las tres fases."
+    },
+    {
+     "id": "siete-metales-y-siete-planetas",
+     "nota": "Planetas y metales de cada fase."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
    "id": "oligoelementos-agua-de-mar-energia",
    "tipo": "saber",
    "titulo": "Oligoelementos del agua de mar: ¿química o energía?",
@@ -63880,6 +64431,51 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "piedra-filosofal",
+   "tipo": "saber",
+   "titulo": "Piedra filosofal",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Sustancia alquímica legendaria; Trallero la entiende como el alma iluminada y, en la carta natal, la integración de Sol, Luna y Ascendente.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 5 y 79–89",
+     "url": null,
+     "resumen": "Según Trallero, la piedra filosofal es el alma iluminada en estado áureo y, en la carta, el equilibrio entre Sol, Luna y Ascendente (espíritu, alma y cuerpo): su logro sería la «medicina universal».",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La piedra filosofal es una sustancia alquímica legendaria a la que se atribuía el poder de convertir metales básicos como el plomo en oro o plata y, a veces, de dar un elixir de vida e inmortalidad. Fue durante siglos el objetivo más codiciado de la alquimia y símbolo de perfección e iluminación; su búsqueda se llamó Opus magnum, la «Gran Obra».",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Piedra filosofal",
+      "url": "https://es.wikipedia.org/wiki/Piedra_filosofal",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Meta de la obra."
+    },
+    {
+     "id": "obra-al-negro-blanco-y-rojo",
+     "nota": "Las fases que llevan a ella."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
@@ -65078,6 +65674,39 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "siete-metales-y-siete-planetas",
+   "tipo": "saber",
+   "titulo": "Siete metales y siete planetas (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [],
+   "fecha": null,
+   "resumen": "Correspondencia alquímica entre los siete planetas clásicos y siete metales (plomo-Saturno, estaño-Júpiter, hierro-Marte, oro-Sol, cobre-Venus, plata-Luna, mercurio); Trallero la usa como mapa de la obra interior.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 1, 35, 49–63",
+     "url": null,
+     "resumen": "Según Trallero, los siete planetas y los siete metales son los mismos principios universales vistos desde el cielo y la tierra; el oro madura por el sol y los demás metales son «oro imperfecto». Lee los glifos planetarios como círculo, media luna y cruz, y ordena la obra menor lunar (plomo, estaño, plata) y la mayor solar (cobre, hierro, oro). Afirma que hubo alquimistas que lograron transmutar plomo en oro.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "obra-al-negro-blanco-y-rojo",
+     "nota": "Las fases que recorren la serie."
+    },
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Marco general."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
    "id": "simbolos-dos-vortices",
    "tipo": "saber",
    "titulo": "Símbolos de los dos vórtices",
@@ -65315,6 +65944,42 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "teoria-de-las-eras-astrologicas",
+   "tipo": "saber",
+   "titulo": "Teoría de las eras astrológicas (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [
+    "religion"
+   ],
+   "fecha": {
+    "desde": 1790,
+    "aprox": true,
+    "margen": 10
+   },
+   "fecha_autor": "siglo XVIII",
+   "resumen": "Trallero dice que la idea de eras zodiacales (Piscis, Acuario…) es moderna, del siglo XVIII y de ambiente ilustrado y masónico, y que técnicamente el punto vernal sigue en Piscis.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 1:10:17–1:12:02",
+     "url": null,
+     "resumen": "Según Trallero, la teoría de las eras, basada en la precesión de los equinoccios, nace en el siglo XVIII en el progresismo ilustrado y en logias masónicas y no es tradicional; técnicamente seguimos en Piscis y faltarían unos 300 años para Acuario.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "zodiaco-sideral-y-tropical",
+     "nota": "El desfase entre zodiacos produce las eras."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   },
   {
@@ -65964,6 +66629,41 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "tria-prima-azufre-mercurio-sal",
+   "tipo": "saber",
+   "titulo": "Tria prima: azufre, mercurio y sal (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [
+    "religion"
+   ],
+   "fecha": null,
+   "resumen": "Los tres principios de la alquimia: azufre (espíritu), mercurio (alma) y sal (cuerpo); Trallero los correlaciona con Sol, Luna y Ascendente.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "alquimia-de-la-astrologia-congreso-vigo",
+     "ubicacion": "l. 11–21",
+     "url": null,
+     "resumen": "Según Trallero, la alquimia se basa en azufre (espíritu, fuego, masculino), mercurio (alma, acuoso, femenino; el flujo temporal que hay que «fijar») y sal (cuerpo); dice que el ternario cobró importancia a partir de Paracelso y propone ligarlos a Sol, Luna y Ascendente.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "paracelso",
+     "nota": "Trallero le atribuye la importancia del ternario."
+    },
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Parte de su correlación."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "ciencia"
+  },
+  {
    "id": "trinidad-espiritu-alma-cuerpo",
    "tipo": "saber",
    "titulo": "Espíritu, alma y cuerpo: la enfermedad como somatización del alma",
@@ -66231,6 +66931,39 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "vista": "ciencia"
+  },
+  {
+   "id": "zodiaco-sideral-y-tropical",
+   "tipo": "saber",
+   "titulo": "Zodiaco sideral y tropical (según Trallero)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [],
+   "fecha": null,
+   "resumen": "Trallero sostiene que la astrología original era sideral y lunar y que la tropical es una deriva griega, solar y geométrica; ambas le parecen válidas.",
+   "segun": [
+    {
+     "autor": "sergio-trallero",
+     "obra": "entrevista-sala-amigos-de-magna-ciencia",
+     "ubicacion": "min. 32:48–36:21",
+     "url": null,
+     "resumen": "Según Trallero, en el origen todas las astrologías eran siderales (basadas en las constelaciones) y lunares; la tropical, basada en equinoccios y solsticios, es una abstracción geométrica que se desarrolla en Occidente y sobre todo en Grecia, ligada a una sociedad más individual y solar. Cree que ambos sistemas son válidos y que la tropical funciona bien para los occidentales.",
+     "contradice": []
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "astrologia-sacra",
+     "nota": "Parte de su visión de la astrología."
+    },
+    {
+     "id": "teoria-de-las-eras-astrologicas",
+     "nota": "El desfase entre ambos zodiacos produce las eras."
+    }
+   ],
+   "estado": "borrador",
    "vista": "ciencia"
   }
  ],
