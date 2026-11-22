@@ -2054,12 +2054,22 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Kennedy fue asesinado en Dallas el 22 de noviembre de 1963. La Comisión Warren (1964) concluyó que actuó solo Lee Harvey Oswald; un comité de la Cámara (1979) consideró probable una conspiración, sin identificarla. Los Kennedy y los Fitzgerald descienden de emigrantes irlandeses católicos del siglo XIX, no de la nobleza europea.",
+    "resumen": "Kennedy fue asesinado en Dallas el 22 de noviembre de 1963. La Comisión Warren (1964) concluyó que actuó solo Lee Harvey Oswald; el comité de la Cámara (HSCA, informe de 1979) concluyó que fue «probablemente» asesinado como resultado de una conspiración, sin identificarla, apoyándose sobre todo en el análisis de una grabación acústica de la policía de Dallas (Dictabelt) que indicaba un cuarto disparo. Un panel de la Academia Nacional de Ciencias (1982) concluyó que los datos acústicos fiables no respaldan un segundo tirador; la controversia sigue abierta. Los Kennedy y los Fitzgerald descienden de emigrantes irlandeses católicos del siglo XIX, no de la nobleza europea.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Asesinato de John F. Kennedy",
       "url": "https://es.wikipedia.org/wiki/Asesinato_de_John_F._Kennedy",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Archivos Nacionales: informe del comité de la Cámara (HSCA)",
+      "url": "https://www.archives.gov/research/jfk/select-committee-report/part-1b.html",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Comité Selecto de la Cámara de EE. UU. sobre Asesinatos (en)",
+      "url": "https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_Assassinations",
+      "consultado": "2026-11-22"
      }
     ]
    },
