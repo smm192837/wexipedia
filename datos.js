@@ -2828,6 +2828,77 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "banco-de-san-giorgio-1407",
+   "tipo": "hecho",
+   "titulo": "Banco de San Giorgio, Génova (1407)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1407,
+    "texto": "1407",
+    "fuente": "oficial"
+   },
+   "resumen": "Institución financiera de la República de Génova, fundada en 1407; de los bancos más antiguos de Europa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco, o Compañía, de San Giorgio fue una institución financiera de la República de Génova. Se fundó en 1407 y fue uno de los bancos más antiguos de Europa, y probablemente del mundo. Tenía su sede en el Palazzo San Giorgio, construido en el siglo XIII por orden de Guglielmo Boccanegra, tío de Simone Boccanegra, primer dogo de Génova.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de San Giorgio",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_San_Giorgio",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-medici",
+     "nota": "Otro gran banco italiano del mismo siglo."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "banco-medici",
+   "tipo": "hecho",
+   "titulo": "Banco Medici (1397-1494)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1397,
+    "texto": "1397 – 1494",
+    "fuente": "oficial",
+    "hasta": 1494
+   },
+   "resumen": "Banco creado por la familia Medici en Italia; en el siglo XV fue el mayor y de más reputación de Europa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Medici existió de 1397 a 1494 y lo creó la familia Medici durante el siglo XV en Italia. En ese siglo fue el banco más grande y de mayor reputación de Europa, y hacia mediados de siglo la familia llegó a ser la más rica del continente. Estimar su fortuna es difícil porque gran parte estaba en obras de arte, tierras y oro. Su riqueza permitió a los Medici extender su influencia más allá de Italia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Medici",
+      "url": "https://es.wikipedia.org/wiki/Banco_Medici",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-san-giorgio-1407",
+     "nota": "Otro gran banco italiano del mismo siglo."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
    "id": "banco-pagos-internacionales",
    "tipo": "hecho",
    "titulo": "Banco de Pagos Internacionales",
@@ -9755,6 +9826,139 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "dictadura-argentina-1976",
+   "tipo": "hecho",
+   "titulo": "Proceso de Reorganización Nacional, Argentina (1976-1983)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1976,
+    "hasta": 1983,
+    "texto": "24 de marzo de 1976 – 10 de diciembre de 1983",
+    "fuente": "oficial"
+   },
+   "resumen": "Dictadura cívico-militar argentina, con terrorismo de Estado, desde el golpe de 1976 hasta la entrega del poder a un gobierno elegido.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Proceso de Reorganización Nacional fue una dictadura cívico-militar que gobernó Argentina desde el golpe de Estado del 24 de marzo de 1976 hasta la entrega del poder a un gobierno elegido por los ciudadanos el 10 de diciembre de 1983. Se caracterizó por un plan sistemático de terrorismo de Estado, con asesinatos, secuestros, torturas, desapariciones forzadas y robo de bebés.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Proceso de Reorganización Nacional",
+      "url": "https://es.wikipedia.org/wiki/Proceso_de_Reorganización_Nacional",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "dictadura-franquista",
+   "tipo": "hecho",
+   "titulo": "Dictadura de Francisco Franco (1939-1975)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1939,
+    "hasta": 1975,
+    "texto": "1939 – 1975",
+    "fuente": "oficial"
+   },
+   "resumen": "Régimen del general Franco en España, desde el final de la guerra civil (1939) hasta su muerte (1975).",
+   "segun": [],
+   "oficial": {
+    "resumen": "La dictadura franquista fue el período de la historia de España en que el general Francisco Franco ejerció la jefatura del Estado, desde el final de la guerra civil en 1939 hasta su muerte en 1975. Por la identificación total de Franco con el régimen, se la llama también «era de Franco».",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Dictadura de Francisco Franco",
+      "url": "https://es.wikipedia.org/wiki/Dictadura_de_Francisco_Franco",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "francisco-franco",
+     "nota": "Su jefe de Estado."
+    },
+    {
+     "id": "guerra-civil-espanola",
+     "nota": "Su origen."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "dictadura-militar-chile",
+   "tipo": "hecho",
+   "titulo": "Dictadura militar de Chile (1973-1990)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1973,
+    "hasta": 1990,
+    "texto": "11 de septiembre de 1973 – 11 de marzo de 1990",
+    "fuente": "oficial"
+   },
+   "resumen": "Régimen militar chileno iniciado con el golpe que derrocó al presidente Salvador Allende.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La dictadura militar de Chile abarca desde el 11 de septiembre de 1973 hasta el 11 de marzo de 1990. Empezó con el golpe de Estado que derrocó al gobierno democrático del presidente socialista Salvador Allende.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Dictadura militar (Chile)",
+      "url": "https://es.wikipedia.org/wiki/Dictadura_militar_(Chile)",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "dictadura-primo-de-rivera",
+   "tipo": "hecho",
+   "titulo": "Dictadura de Primo de Rivera (1923-1930)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1923,
+    "hasta": 1930,
+    "texto": "13 de septiembre de 1923 – 28 de enero de 1930",
+    "fuente": "oficial"
+   },
+   "resumen": "Régimen militar en España que empezó con el golpe de Estado de Miguel Primo de Rivera y acabó con su dimisión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La dictadura de Primo de Rivera fue el régimen político de España desde el golpe de Estado del capitán general de Cataluña, Miguel Primo de Rivera, el 13 de septiembre de 1923, hasta su dimisión el 28 de enero de 1930. Le sucedió la llamada «dictablanda» del general Dámaso Berenguer. Se la considera un primer ensayo de institucionalización del nacionalismo español autoritario, con el ejército como instrumento.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Dictadura de Primo de Rivera",
+      "url": "https://es.wikipedia.org/wiki/Dictadura_de_Primo_de_Rivera",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "diderot-voltaire-biblioteca-catalina",
    "tipo": "hecho",
    "titulo": "Diderot y Voltaire venden su biblioteca a Catalina la Grande",
@@ -11654,6 +11858,37 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
+   "id": "estado-novo-portugal",
+   "tipo": "hecho",
+   "titulo": "Estado Novo de Portugal (1933-1974)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1933,
+    "hasta": 1974,
+    "texto": "1933 – 1974",
+    "fuente": "oficial"
+   },
+   "resumen": "Dictadura autoritaria y corporativista que gobernó Portugal 41 años, hasta la Revolución de los Claveles.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Estado Nuevo (Estado Novo) fue la dictadura autoritaria y corporativista que gobernó Portugal sin interrupción durante 41 años, de 1933 a 1974, hasta que la Revolución de los Claveles y el período turbulento posterior llevaron al país a la democracia. Con el período previo, llamado Dictadura Nacional, forma la Segunda República portuguesa.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Estado Nuevo (Portugal)",
+      "url": "https://es.wikipedia.org/wiki/Estado_Nuevo_(Portugal)",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -14695,6 +14930,117 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-civil-espanola",
+   "tipo": "hecho",
+   "titulo": "Guerra civil española (1936-1939)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1936,
+    "hasta": 1939,
+    "texto": "17 de julio de 1936 – 1 de abril de 1939",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra desencadenada por el golpe militar del 17 de julio de 1936 contra el Gobierno de la Segunda República; terminó con la victoria del bando sublevado.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra civil española se desencadenó tras el fracaso parcial del golpe de Estado del 17 de julio de 1936, dado por parte de las fuerzas armadas contra el Gobierno electo de la Segunda República. Las tropas rebeldes pasaron del protectorado de Marruecos a la península en las últimas semanas de julio gracias a un puente aéreo con ayuda de la Alemania nazi y la Italia fascista. La guerra concluyó el 1 de abril de 1939 con la victoria del bando sublevado, y dio paso a la dictadura de Francisco Franco.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra civil española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_civil_española",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "francisco-franco",
+     "nota": "Jefe del bando sublevado y después del régimen."
+    },
+    {
+     "id": "dictadura-franquista",
+     "nota": "Régimen que nació de su desenlace."
+    },
+    {
+     "id": "benito-mussolini",
+     "nota": "La Italia fascista ayudó al bando sublevado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-corea",
+   "tipo": "hecho",
+   "titulo": "Guerra de Corea (1950-1953)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1950,
+    "hasta": 1953,
+    "texto": "1950 – 1953",
+    "fuente": "oficial"
+   },
+   "resumen": "Conflicto entre Corea del Norte y Corea del Sur y sus aliados; primera gran guerra subsidiaria de la Guerra Fría, cerrada con un armisticio sin tratado de paz.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Corea fue un conflicto armado en la península de Corea entre Corea del Norte, apoyada por China y la Unión Soviética, y Corea del Sur, apoyada por el Comando de las Naciones Unidas dirigido por Estados Unidos. Fue la primera gran guerra subsidiaria de la Guerra Fría. Los combates terminaron en 1953 con un armisticio pero sin tratado de paz, por lo que el conflicto coreano sigue formalmente abierto.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Corea",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Corea",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Marco en que se libró."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-crimea",
+   "tipo": "hecho",
+   "titulo": "Guerra de Crimea (1853-1856)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1853,
+    "hasta": 1856,
+    "texto": "octubre de 1853 – febrero de 1856",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra del Imperio ruso contra una alianza de otomanos, Francia, Reino Unido y Cerdeña.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Crimea se libró desde octubre de 1853 hasta febrero de 1856 entre el Imperio ruso y una alianza formada por el Imperio otomano, Francia, el Reino Unido y el Reino de Cerdeña. Entre sus causas estaban la decadencia otomana, la expansión rusa y el interés británico y francés en mantener el equilibrio de poder europeo. El punto de conflicto fue un desacuerdo sobre los derechos de las minorías cristianas en Palestina, entonces otomana.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Crimea",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Crimea",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-de-etiopia-1935",
    "tipo": "hecho",
    "titulo": "La guerra de Etiopía y la «trampa» de la Sociedad de Naciones",
@@ -14870,6 +15216,37 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-de-los-cien-anos",
+   "tipo": "hecho",
+   "titulo": "Guerra de los Cien Años (1337-1453)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1337,
+    "hasta": 1453,
+    "texto": "24 de mayo de 1337 – 19 de octubre de 1453",
+    "fuente": "oficial"
+   },
+   "resumen": "Conflicto intermitente de 116 años entre los reinos de Francia e Inglaterra.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de los Cien Años fue un conflicto armado que duró 116 años, del 24 de mayo de 1337 al 19 de octubre de 1453, de forma intermitente. Tuvo como principales contendientes a Francia e Inglaterra, y en algunas etapas implicó también a Navarra y al ducado de Borgoña. Algunos historiadores la consideran la primera gran guerra internacional europea y posiblemente el conflicto europeo más largo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de los Cien Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Cien_Años",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-de-los-mundos-radio-1938",
    "tipo": "hecho",
    "titulo": "Emisión radiofónica de «La guerra de los mundos» (1938)",
@@ -14921,6 +15298,37 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-secesion",
+   "tipo": "hecho",
+   "titulo": "Guerra de Secesión de Estados Unidos (1861-1865)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1861,
+    "hasta": 1865,
+    "texto": "12 de abril de 1861 – 26 de mayo de 1865",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra civil entre los estados de la Unión y la Confederación, motivada sobre todo por la expansión de la esclavitud.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Secesión, o guerra civil estadounidense, se libró del 12 de abril de 1861 al 26 de mayo de 1865 entre los estados de la Unión y la Confederación, formada poco antes por estados que se habían separado. El conflicto principal fue si debía permitirse que la esclavitud se expandiera a los territorios del oeste.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Secesión",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Secesión",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -14980,6 +15388,185 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-vietnam",
+   "tipo": "hecho",
+   "titulo": "Guerra de Vietnam (1955-1975)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1955,
+    "hasta": 1975,
+    "texto": "1955 – 1975",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre Vietnam del Norte (apoyado por China y la URSS) y Vietnam del Sur (apoyado por Estados Unidos), librada para reunificar el país.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Vietnam, o Segunda Guerra de Indochina, fue un conflicto librado entre 1955 y 1975 para reunificar Vietnam. Enfrentó al gobierno comunista de Vietnam del Norte, respaldado por China y la Unión Soviética, con el de Vietnam del Sur y su principal aliado, Estados Unidos. Se calcula que murieron entre 966 000 y 3 010 000 vietnamitas; Estados Unidos contabilizó 58 159 bajas y más de 1700 desaparecidos. Fue uno de los acontecimientos más importantes de la Guerra Fría.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Vietnam",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Vietnam",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Marco en que se libró."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-del-golfo-1991",
+   "tipo": "hecho",
+   "titulo": "Guerra del Golfo (1990-1991)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1990,
+    "hasta": 1991,
+    "texto": "agosto de 1990 – 28 de febrero de 1991",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre Irak y una coalición de 32 países liderada por Estados Unidos, que liberó Kuwait.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra del Golfo fue un conflicto armado entre Irak y una coalición de 32 países liderada por Estados Unidos. Tuvo dos fases: la Operación Escudo del Desierto, con el aumento de la presencia militar desde agosto de 1990 hasta enero de 1991, y la Operación Tormenta del Desierto, que empezó con bombardeos aéreos el 17 de enero de 1991 y terminó con la liberación de Kuwait el 28 de febrero.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra del Golfo",
+      "url": "https://es.wikipedia.org/wiki/Guerra_del_Golfo",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-de-irak",
+     "nota": "Segunda guerra contra Irak."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-franco-prusiana",
+   "tipo": "hecho",
+   "titulo": "Guerra franco-prusiana (1870-1871)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1870,
+    "hasta": 1871,
+    "texto": "19 de julio de 1870 – 10 de mayo de 1871",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre el Segundo Imperio francés y Prusia, apoyada por los demás estados alemanes.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra franco-prusiana se libró entre el 19 de julio de 1870 y el 10 de mayo de 1871 entre el Segundo Imperio francés y el Reino de Prusia, con el apoyo de la Confederación Alemana del Norte y de Baden, Baviera y Wurtemberg. Tuvo como telón de fondo la tensión creciente entre las dos potencias, ligada a la Prusia de Otto von Bismarck.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra franco-prusiana",
+      "url": "https://es.wikipedia.org/wiki/Guerra_franco-prusiana",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "otto-von-bismarck",
+     "nota": "Canciller de Prusia."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-fria",
+   "tipo": "hecho",
+   "titulo": "Guerra Fría (1945-1991)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "hasta": 1991,
+    "texto": "1945 – 1991",
+    "fuente": "oficial"
+   },
+   "resumen": "Periodo de enfrentamiento político, económico, ideológico y militar indirecto entre el bloque occidental y el oriental tras la Segunda Guerra Mundial.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Guerra Fría es el periodo histórico, entre 1945 y 1991, de búsqueda de dominio e influencia entre el bloque occidental y el bloque oriental. Fue un enfrentamiento en varios órdenes (político, económico, social, ideológico, militar y propagandístico) que se desarrolló a escala global después de la Segunda Guerra Mundial.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra Fría",
+      "url": "https://es.wikipedia.org/wiki/Guerra_Fría",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Su antecedente."
+    },
+    {
+     "id": "union-sovietica",
+     "nota": "Uno de los dos bloques."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-independencia-estados-unidos",
+   "tipo": "hecho",
+   "titulo": "Guerra de Independencia de los Estados Unidos (1775-1783)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1775,
+    "hasta": 1783,
+    "texto": "1775 – 1783",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra de las Trece Colonias contra Gran Bretaña, cerrada con el Tratado de París, que reconoció la independencia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Independencia de los Estados Unidos fue un conflicto armado dentro de la Revolución de las Trece Colonias, en el que el Ejército Continental, mandado por George Washington, derrotó al ejército británico. Se libró en América del Norte, el Caribe y el Atlántico, y terminó con el Tratado de París, por el que Gran Bretaña reconoció la independencia de Estados Unidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Independencia de los Estados Unidos",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Independencia_de_los_Estados_Unidos",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -15253,6 +15840,37 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-ruso-japonesa",
+   "tipo": "hecho",
+   "titulo": "Guerra ruso-japonesa (1904-1905)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1904,
+    "hasta": 1905,
+    "texto": "8 de febrero de 1904 – 5 de septiembre de 1905",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre los imperios ruso y japonés por Manchuria y Corea.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra ruso-japonesa enfrentó al Imperio ruso y al Imperio japonés por sus ambiciones imperialistas rivales en Manchuria y en Corea. Duró del 8 de febrero de 1904 al 5 de septiembre de 1905. Entre sus batallas están las de Yalu, Liaoyang, Mukden y Tsushima.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra ruso-japonesa",
+      "url": "https://es.wikipedia.org/wiki/Guerra_ruso-japonesa",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-sucesion-espanola-linajes-bizantinos",
    "tipo": "hecho",
    "titulo": "Guerra de Sucesión Española como lucha entre linajes bizantinos (1705-1715)",
@@ -15399,6 +16017,50 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "guerras-napoleonicas",
+   "tipo": "hecho",
+   "titulo": "Guerras napoleónicas (1803-1815)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1803,
+    "hasta": 1815,
+    "texto": "1803 – 1815",
+    "fuente": "oficial"
+   },
+   "resumen": "Serie de guerras entre el Primer Imperio francés de Napoleón y sucesivas coaliciones europeas, prolongación de las guerras de la Revolución.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las guerras napoleónicas, o guerras de la Coalición, fueron una serie de conflictos entre el Primer Imperio francés, bajo Napoleón I, y coaliciones europeas cambiantes. Fueron en parte una extensión de las guerras surgidas de la Revolución francesa y continuaron, con el impulso y la financiación del Reino Unido, durante todo el Primer Imperio. Produjeron un periodo de dominación francesa en Europa.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerras napoleónicas",
+      "url": "https://es.wikipedia.org/wiki/Guerras_napoleónicas",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "napoleon-bonaparte",
+     "nota": "Su protagonista."
+    },
+    {
+     "id": "revolucion-francesa-1789",
+     "nota": "Su origen."
+    },
+    {
+     "id": "waterloo-rothschild-1815",
+     "nota": "Batalla que las cerró."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -31309,6 +31971,50 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
+   "id": "union-sovietica",
+   "tipo": "hecho",
+   "titulo": "Unión Soviética (1922-1991)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1922,
+    "hasta": 1991,
+    "texto": "30 de diciembre de 1922 – 26 de diciembre de 1991",
+    "fuente": "oficial"
+   },
+   "resumen": "Estado socialista federal de Eurasia, fundado en 1922 y disuelto en 1991; primer país con Estado comunista y una de las dos superpotencias.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Unión de Repúblicas Socialistas Soviéticas fue un Estado socialista federal que se extendió por Europa del Este y Asia del Norte. La crearon la RSFS de Rusia, la RSS de Ucrania, la RSS de Bielorrusia y la RSFS de Transcaucasia, y llegó a tener quince repúblicas. Se fundó el 30 de diciembre de 1922 y se disolvió el 26 de diciembre de 1991. Fue el primer país con Estado comunista y sistema socialista, y una superpotencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Unión Soviética",
+      "url": "https://es.wikipedia.org/wiki/Unión_Soviética",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-rusa-1917",
+     "nota": "Su origen."
+    },
+    {
+     "id": "lenin",
+     "nota": "Fundador."
+    },
+    {
+     "id": "stalin",
+     "nota": "Dirigente hasta 1953."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
