@@ -588,10 +588,10 @@ window.CRONO = {
      "id": "la-voz-de-arthur-31-reich",
      "titulo": "La voz de Arthur nº 31: Wilhelm Reich, los experimentos con biones (1935-1944)",
      "tipo": "video",
-     "referencia": "Vídeo de la serie «La voz de Arthur», n.º 31, canal Artur Sala Magna Ciencia. URL https://www.youtube.com/watch?v=FYyzxF9F_Zk (estreno 21-11-2026; datos de la descripción aportados por smiguel1). Transcripción pendiente.",
-     "estado": "en-proceso",
-     "duracion": "27 min o más (último capítulo: 26:35)",
-     "resumen": "Según la descripción: Reich y los biones (Noruega, 1935-1939), el orgón (EE. UU., 1942) y el experimento XX de finales de 1944, con el capítulo del segundo libro Magna Ciencia «El verdadero origen de la vida» y su visión del pleomorfismo. Pendiente de la transcripción.",
+     "referencia": "Vídeo de la serie «La voz de Arthur», n.º 31, canal Artur Sala Magna Ciencia. URL https://www.youtube.com/watch?v=FYyzxF9F_Zk (estreno 21-11-2026). Transcripción con minutos pegada por smiguel1 el 22-11-2026.",
+     "estado": "procesada",
+     "duracion": "35 min",
+     "resumen": "Wilhelm Reich entre 1935 y 1944: su vida hasta 1935 y la ruptura con el psicoanálisis, los experimentos con biones en Noruega (partículas autoorganizadas a partir de musgo, césped y materia inerte, con el biólogo Roger Du Teil y el libro de James Strick), el artículo de 1942 sobre el orgón contra la segunda ley de la termodinámica, «La biopatía del cáncer» (1948), el efecto Warburg y el experimento XX.",
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk",
      "fecha": "2026-11-21"
     }
@@ -3901,10 +3901,42 @@ window.CRONO = {
      "resumen": "Según el autor, el investigador James Strick recibió un artículo de científicos coreanos que replicaba los experimentos con biones de Reich sin nombrarlo, porque la consigna de arriba era publicar sin hablar de Reich para no ser tachados de «magufos».",
      "contradice": [],
      "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 13:02",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=782s",
+     "resumen": "En Noruega Reich trabajó con tres conjuntos de microscopios Reichert (uno en campo claro, dos en campo oscuro) y publicó «Los experimentos con biones sobre el origen de la vida»; en el libro aparecen cinco preparados (1, 2, 3, 6 y 8), y existieron otros que no dieron esos resultados. Según el autor, concluyó que la unidad de vida no es la célula sino una diminuta partícula browniana capaz de autoorganizarse.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 14:31",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=871s",
+     "resumen": "Los restos de musgo y césped desprendían partículas iguales, transparentes y pulsantes que, según el autor, se organizaban en amebas, paramecios y vorticelas; el potasio y la colesterina aceleraban la desintegración vesicular y la lecitina la frenaba; el autoclave la aceleraba aún más y daba una «sopa» de partículas.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 17:26",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1046s",
+     "resumen": "Según el autor, con la teoría de Pasteur cualquier bacteria debía venir del aire, y por eso la hipótesis de Reich era imposible; en el apéndice del libro hay un matraz aislado hecho con el biólogo marsellés Roger Du Teil, que ayudó a descartar la contaminación por el aire.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 22:37",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1357s",
+     "resumen": "Los preparados 1, 2 y 3, con carbón, hollín y arena, también desprendían partículas iguales y transparentes, sin importar su origen orgánico o inorgánico; para el autor harían falta años para entender su papel en el origen de la vida.",
+     "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base.",
+    "resumen": "Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base. Entre 1934 y 1939 Reich realizó los «experimentos con biones», que publicó como «Die Bione» en Oslo en febrero de 1938 (edición inglesa en 1979, «The Bion Experiments on the Origin of Life»): examinó protozoos y otras muestras y observó vesículas azules luminosas que llamó biones, una forma de vida rudimentaria entre lo vivo y lo no vivo.",
     "fuentes": [
      {
       "titulo": "Wilhelm Reich Museum: The Bion Experiments",
@@ -3915,6 +3947,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Orgone",
       "url": "https://www.Wikipedia.com/wiki/Orgone",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -3926,10 +3963,86 @@ window.CRONO = {
     {
      "id": "pleomorfismo",
      "nota": "Según Artur Sala, los biones de Reich continúan la línea pleomorfista."
+    },
+    {
+     "id": "descubrimiento-orgon-1942",
+     "nota": "Teoría que salió de ellos."
+    },
+    {
+     "id": "experimento-xx-reich-1944",
+     "nota": "Experimento con las partículas."
+    },
+    {
+     "id": "strick-wilhelm-reich-biologist-2015",
+     "nota": "Libro que analiza los experimentos."
     }
    ],
    "estado": "aprobado",
    "citas": [],
+   "vista": "ciencia"
+  },
+  {
+   "id": "biopatia-del-cancer-1948",
+   "tipo": "hecho",
+   "titulo": "«La biopatía del cáncer» de Reich (1948)",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "texto": "1948",
+    "fuente": "autor"
+   },
+   "resumen": "Según Artur Sala, es una recopilación de artículos con las investigaciones de Reich sobre el cáncer y el efecto Warburg.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 25:04",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1504s",
+     "resumen": "«La biopatía del cáncer» (1948) es, según el autor, una recopilación de artículos publicada como libro, con las investigaciones de Reich sobre el cáncer; allí destaca el crecimiento caótico de las células tumorales, equiparable a un crecimiento entrópico, y conoce el efecto Warburg.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 26:14",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1574s",
+     "resumen": "Reich observó que las diminutas partículas (los biones) tenían capacidad de actuar contra los tejidos tumorales.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón». Escribió que había hallado bacilos T en tejido canceroso en descomposición y que, inyectados en ratones, provocaban inflamación y cáncer; concluyó que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas sufren una «degeneración biónica». La comunidad científica considera la teoría del orgón una pseudociencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Orgone",
+      "url": "https://en.wikipedia.org/wiki/Orgone",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "wilhelm-reich",
+     "nota": "Su autor."
+    },
+    {
+     "id": "biones-reich",
+     "nota": "Origen de sus ideas sobre el cáncer."
+    },
+    {
+     "id": "experimento-xx-reich-1944",
+     "nota": "Experimento sobre tejidos tumorales."
+    }
+   ],
+   "estado": "aprobado",
    "vista": "ciencia"
   },
   {
@@ -8634,6 +8747,14 @@ window.CRONO = {
      "resumen": "Para el autor, la raíz de los grandes relatos médicos recientes no está en el siglo XX (informe Flexner, posguerra), sino en la controversia entre Béchamp y Pasteur dentro de la ciencia victoriana.",
      "contradice": [],
      "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 19:28",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1168s",
+     "resumen": "El autor vuelve a tratar la controversia Béchamp-Pasteur en su libro 2, «El verdadero origen de la vida», junto a la obra de Reich, y cita el libro de James Strick sobre el debate victoriano de la generación espontánea: según él, los experimentos del cuello de cisne tuvieron trampas y la historia falseó datos para enterrar la teoría humoral.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -8684,6 +8805,10 @@ window.CRONO = {
     {
      "id": "cuadernos-pasteur",
      "nota": "Los cuadernos de Pasteur que estudió Geison (1995)."
+    },
+    {
+     "id": "strick-wilhelm-reich-biologist-2015",
+     "nota": "Libro de Strick sobre Reich, y el autor cita su libro anterior sobre la generación espontánea."
     }
    ],
    "estado": "aprobado",
@@ -9986,6 +10111,10 @@ window.CRONO = {
     {
      "id": "controversia-bechamp-pasteur",
      "nota": "Según Artur Sala, es el eco victoriano de la disputa entre Béchamp y Pasteur."
+    },
+    {
+     "id": "strick-wilhelm-reich-biologist-2015",
+     "nota": "Strick trata ese debate en su libro anterior."
     }
    ],
    "estado": "aprobado",
@@ -13157,6 +13286,62 @@ window.CRONO = {
     {
      "id": "rosalie-rayner",
      "nota": "Coautora"
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "experimento-xx-reich-1944",
+   "tipo": "hecho",
+   "titulo": "El experimento XX de Reich (1944)",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [],
+   "fecha": {
+    "desde": 1944,
+    "texto": "finales de 1944 (según la descripción del vídeo)",
+    "fuente": "autor"
+   },
+   "resumen": "Según Artur Sala, el preparado número 20 de Reich mostró que las partículas se acumulaban con más fuerza según su potencial orgónico.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 27:15",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1635s",
+     "resumen": "En el preparado número 20 (el experimento XX, de finales de 1944 según la descripción del vídeo) Reich habría comprobado que las diminutas partículas, según su potencial orgónico, tendían a acumularse con más fuerza en un punto, y que podían actuar contra los tejidos tumorales; para el autor revela que la energía orgónica, la capacidad de crear orden del caos, es la responsable de los seres vivos.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En las fuentes consultadas no consta una versión oficial específica del «experimento XX». Lo oficial sobre el conjunto: Reich expuso su teoría del cáncer en «La biopatía del cáncer» (1948), con partículas que llamó bacilos T y bions PA, y la comunidad científica considera la teoría del orgón una pseudociencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Orgone",
+      "url": "https://en.wikipedia.org/wiki/Orgone",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "wilhelm-reich",
+     "nota": "Su autor."
+    },
+    {
+     "id": "descubrimiento-orgon-1942",
+     "nota": "Teoría que el autor ve confirmada."
+    },
+    {
+     "id": "biones-reich",
+     "nota": "Las partículas del experimento."
     }
    ],
    "estado": "aprobado",
@@ -27329,10 +27514,18 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=566s",
      "resumen": "La obra de Reich la quemaron los nazis, los soviéticos y, por orden directa del Gobierno de EE. UU., en 1956. Lo considera el mayor ejemplo de cómo el materialismo tritura el conocimiento.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 0:49",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=49s",
+     "resumen": "Según el autor, la obra de Reich fue quemada primero por los comunistas, después por los nazis (por ser judío y por «La psicología de masas del fascismo») y finalmente, en 1956, por el gobierno de EE. UU., país donde llevaba 16 años exiliado, que ordenó la quema de toda su obra.",
+     "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS.",
+    "resumen": "Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS. El 23 de agosto de 1956 se quemaron seis toneladas de libros, revistas y papeles de Reich en el incinerador de Gansevoort, en Nueva York, entre ellos «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo».",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Wilhelm Reich Trial, 1956",
@@ -27343,6 +27536,11 @@ window.CRONO = {
       "titulo": "JSTOR Daily: Wilhelm Reich, twice burned",
       "url": "https://daily.jstor.org/wilhelm-reich-twice-burned",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -28993,6 +29191,83 @@ window.CRONO = {
     {
      "id": "empirismo",
      "nota": ""
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "ruptura-reich-psicoanalisis",
+   "tipo": "hecho",
+   "titulo": "La ruptura de Reich con la sociedad psicoanalítica y la vegetoterapia (hacia 1931-1935)",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "temas": [],
+   "fecha": {
+    "desde": 1931,
+    "hasta": 1935,
+    "texto": "hacia 1931 – 1935 (según el autor)",
+    "aprox": true,
+    "fuente": "autor"
+   },
+   "resumen": "Según Artur Sala, Reich rompió con Freud y la sociedad psicoanalítica y fundó la vegetoterapia caracteroanalítica, basada en el equilibrio entre simpaticotonía y vagotonía.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 5:29",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=329s",
+     "resumen": "Reich cortó con la sociedad psicoanalítica y fundó su propia visión, la vegetoterapia caracteroanalítica, con diferencias clave respecto a Freud, que lo tuvo por su alumno más importante; la relación acabó muy mal.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 10:16",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=616s",
+     "resumen": "Para el autor, el choque vino de que Reich estaba en contra de que el individuo tuviera que adaptarse a la sociedad: las enfermedades serían de la sociedad, dentro de la idea del terreno y de la epigenética. El autor valora el psicoanálisis de forma muy crítica.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 11:41",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=701s",
+     "resumen": "La vegetoterapia entiende la salud como el equilibrio entre expansión y contracción, simpaticotonía y vagotonía (la homeostasis de Claude Bernard); de ahí salieron las sustancias que usó en los experimentos con biones.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 12:48",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=768s",
+     "resumen": "Reich fue expulsado de la sociedad psicoanalítica (en 1931 se le impidió hablar) y en 1935 llegó a Noruega.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica internacional cancelaba su contrato para publicar «Análisis del carácter». En noviembre de 1933 fue excluido del Partido Comunista danés, sin haber ingresado nunca, por su defensa de la sexualidad adolescente y por «La psicología de masas del fascismo». Se trasladó a Oslo en 1934. La expulsión formal de la asociación psicoanalítica no consta en las fuentes consultadas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "wilhelm-reich",
+     "nota": "Su protagonista."
+    },
+    {
+     "id": "sigmund-freud",
+     "nota": "Su maestro."
+    },
+    {
+     "id": "teoria-del-terreno",
+     "nota": "El autor liga la idea de Reich con el terreno."
     }
    ],
    "estado": "aprobado",
@@ -30693,6 +30968,69 @@ window.CRONO = {
     {
      "id": "metamorfosis-de-las-plantas-goethe",
      "nota": "Obra que Steiner descubre en esta etapa."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "strick-wilhelm-reich-biologist-2015",
+   "tipo": "hecho",
+   "titulo": "«Wilhelm Reich, Biologist», de James Strick (2015)",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "temas": [],
+   "fecha": {
+    "desde": 2015,
+    "texto": "2015",
+    "fuente": "oficial"
+   },
+   "resumen": "Según Artur Sala, el libro del historiador James Strick analiza en detalle los experimentos de Reich y destaca el papel del biólogo Roger Du Teil.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 19:53",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1193s",
+     "resumen": "El autor descubrió tarde el libro de Strick «Wilhelm Reich, biólogo»; Strick, profesor de historia de la ciencia en la Franklin & Marshall, analiza la obra de Reich y los experimentos, revelando la importancia del trabajo de Roger Du Teil para descartar la contaminación por bacterias del aire.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 20:00",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1200s",
+     "resumen": "Antes, según el autor en 2002, Strick había publicado un libro sobre el debate victoriano de la generación espontánea (Pouchet y Béchamp frente a Pasteur; Tyndall y la tindalización) que denuncia trampas en los experimentos del cuello de cisne y una historia que falseó datos para enterrar la teoría humoral.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "James E. Strick, historiador de la ciencia en Franklin & Marshall College y luego presidente del Wilhelm Reich Trust, estudió los cuadernos de laboratorio de Reich de los experimentos con biones de 1935-1939 en Noruega, y en 2015 Harvard University Press publicó su libro «Wilhelm Reich, Biologist». Strick escribió que la narrativa dominante desde la muerte de Reich es que no merece la pena mirar con más detalle su ciencia porque no hubo ciencia legítima; la comunidad científica considera pseudociencia la teoría del orgón.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "biones-reich",
+     "nota": "Libro sobre esos experimentos."
+    },
+    {
+     "id": "wilhelm-reich",
+     "nota": "Su biografiado."
+    },
+    {
+     "id": "controversia-bechamp-pasteur",
+     "nota": "Tema de su libro anterior."
+    },
+    {
+     "id": "debate-bastian-tyndall",
+     "nota": "Debate victoriano que trata en su libro anterior."
     }
    ],
    "estado": "aprobado",
@@ -56046,6 +56384,10 @@ window.CRONO = {
     {
      "id": "regresion-hipnotica",
      "nota": "El autor contrapone ambos métodos."
+    },
+    {
+     "id": "ruptura-reich-psicoanalisis",
+     "nota": "Ruptura de Reich con su escuela."
     }
    ],
    "estado": "aprobado",
@@ -57793,10 +58135,34 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=566s",
      "resumen": "«el genio de los genios», el autor al que más horas ha dedicado; le consagró su último libro, sobre sus años 1936–1957.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 8:58",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=538s",
+     "resumen": "Según el autor, Reich nació en 1897 en Bucovina (hoy Ucrania, entonces Imperio austrohúngaro); murieron su padre, su madre (suicidio) y su único hermano, Robert; sirvió en la Primera Guerra Mundial, llegó a Viena hacia 1921 sin recursos, estudió derecho un año y pasó a medicina.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 24:32",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1472s",
+     "resumen": "Según el autor, en 1940 Reich emigró a EE. UU. en el último barco; allí trabajó como médico y montó una editorial, que le dio ingresos para volver a la investigación básica sobre el origen de la vida, el clima y la radiactividad.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 3:01",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=181s",
+     "resumen": "El autor lo presenta como el científico proscrito más importante de la historia: su obra fue quemada por los comunistas, por los nazis y, en 1956, por EE. UU.",
+     "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "Médico y psicoanalista austriaco (24-3-1897 – 3-11-1957), autor de «Análisis del carácter» y creador de la teoría del orgón, que la ciencia no acepta. Condenado en 1956 por desacato a una orden de la FDA, murió en la prisión de Lewisburg (EE. UU.).",
+    "resumen": "Médico y psicoanalista austriaco (24-3-1897 – 3-11-1957), autor de «Análisis del carácter» y creador de la teoría del orgón, que la ciencia no acepta. Condenado en 1956 por desacato a una orden de la FDA, murió en la prisión de Lewisburg (EE. UU.). Nació en Dobzau, Galicia (entonces Austria-Hungría), y la familia pasó pronto a Bucovina; su madre se suicidó el 1-10-1910. Estudió derecho en Viena y cambió a medicina tras el primer semestre (título en 1922). Se trasladó a Oslo en 1934 y a Nueva York en 1939; construyó acumuladores de orgón desde 1940.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Wilhelm Reich",
@@ -57818,6 +58184,26 @@ window.CRONO = {
     {
      "id": "quema-libros-reich",
      "nota": "Artur Sala lo menciona en «La quema de los libros de Reich»."
+    },
+    {
+     "id": "descubrimiento-orgon-1942",
+     "nota": "Su descubrimiento de 1942, según el autor."
+    },
+    {
+     "id": "experimento-xx-reich-1944",
+     "nota": "Experimento XX."
+    },
+    {
+     "id": "biopatia-del-cancer-1948",
+     "nota": "Su libro sobre el cáncer."
+    },
+    {
+     "id": "ruptura-reich-psicoanalisis",
+     "nota": "Su ruptura con Freud y la vegetoterapia."
+    },
+    {
+     "id": "strick-wilhelm-reich-biologist-2015",
+     "nota": "Biografía científica de Strick."
     }
    ],
    "estado": "aprobado",
@@ -60481,6 +60867,78 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "descubrimiento-orgon-1942",
+   "tipo": "saber",
+   "titulo": "El descubrimiento del orgón (1942)",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "temas": [],
+   "fecha": {
+    "desde": 1942,
+    "texto": "artículo de 1942",
+    "fuente": "autor"
+   },
+   "resumen": "Según Artur Sala, Reich describió en 1942 una energía a favor del orden, contraria al segundo principio de la termodinámica, frente a otra ligada a la muerte.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 25:25",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1525s",
+     "resumen": "En su artículo de 1942 «El descubrimiento del orgón», Reich habla de una energía contraria al segundo principio de la termodinámica, que crea estados más organizados, y de otra, la «descarga mecánica», ligada a la apoptosis y la muerte celular, a favor de la entropía; serían dos energías en competencia.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 27:31",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1651s",
+     "resumen": "El orgón sería un mar de energía virtual, un éter, que se divide en la energía a favor del orden y la energía a favor del caos; el autor lo compara con el yin y el yang y con las medicinas de Oriente.",
+     "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 1:42",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=102s",
+     "resumen": "La orgonomía de Reich intentó eludir la segunda ley de la termodinámica, algo que el autor presenta como un tabú de la física y de la biología.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El orgón es un concepto pseudocientífico descrito como una energía esotérica o fuerza vital universal hipotética. Lo propuso Wilhelm Reich en los años treinta (acuñó el término «energía orgónica», de orgasmo y organismo, durante sus años en Oslo) y lo desarrolló después su alumno Charles Kelley. Reich fundó hacia 1942 el Orgone Institute en EE. UU. para investigarlo. La comunidad científica rechaza la teoría del orgón como pseudociencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Orgone",
+      "url": "https://en.wikipedia.org/wiki/Orgone",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Wilhelm Reich",
+      "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "wilhelm-reich",
+     "nota": "Su autor."
+    },
+    {
+     "id": "biones-reich",
+     "nota": "De los biones salió la teoría del orgón."
+    },
+    {
+     "id": "eter-luminifero",
+     "nota": "El autor lo compara con el éter."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "dominios-coherentes-del-giudice-preparata",
    "tipo": "saber",
    "titulo": "Dominios coherentes del agua (Del Giudice y Preparata)",
@@ -60651,6 +61109,51 @@ window.CRONO = {
     {
      "id": "nueva-cronologia-fomenko",
      "nota": ""
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "efecto-warburg",
+   "tipo": "saber",
+   "titulo": "El efecto Warburg",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "temas": [],
+   "fecha": {
+    "desde": 1920,
+    "hasta": 1929,
+    "texto": "década de 1920",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Según Artur Sala, la célula tumoral tiene un problema metabólico de fermentación (efecto Warburg), que Reich conocía.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "la-voz-de-arthur-31-reich",
+     "ubicacion": "min. 26:22",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1582s",
+     "resumen": "El autor menciona el efecto Warburg: la célula tumoral tiene un problema metabólico, de fermentación; dice que hay mucha desinformación sobre el tema y que Reich, conocedor del efecto, vio en el crecimiento tumoral caótico un crecimiento entrópico.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En oncología, el efecto Warburg es la observación de que la mayoría de los cánceres obtienen energía por glucólisis aeróbica y fermentación láctica, en lugar de usar los mecanismos de las células no cancerosas. Lo publicó Otto Heinrich Warburg, premio Nobel de Fisiología en 1931 por descubrir la naturaleza y el modo de acción de la enzima respiratoria; hacia los años veinte su grupo concluyó que la falta de glucosa y de oxígeno en las células tumorales altera su metabolismo. El mayor consumo de glucosa de los tumores es la base de su detección con PET. La existencia del efecto ha alimentado la idea errónea de que el cáncer se trata reduciendo azúcares e hidratos de carbono.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Warburg effect (oncology)",
+      "url": "https://en.wikipedia.org/wiki/Warburg_effect_(oncology)",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "biopatia-del-cancer-1948",
+     "nota": "Reich lo conocía, según el autor."
     }
    ],
    "estado": "aprobado",
