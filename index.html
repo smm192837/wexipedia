@@ -605,7 +605,7 @@ button, input, select { font: inherit; color: inherit; }
         <button type="button" hidden id="paral-b" title="Paralelos: hechos y cielo comparados con el azar">Paralelos</button>
         <button type="button" hidden id="trans-b" title="Estrellas fijas: cuándo pasó cada planeta sobre cada estrella (1885-2026), con las fichas de esos años">Estrellas</button>
       </div>
-      <div class="seg" role="group" aria-label="Autores" hidden>
+      <div class="seg" role="group" aria-label="Autores" hidden style="display:none">
         <button type="button" id="matriz-b" title="Matriz de autores: quién firma qué siglo y dónde chocan">Matriz</button>
       </div>
       <div class="busca">
@@ -964,13 +964,15 @@ function maquetar(conservar) {
 
   // Décadas (cabecera de década + tarjetas)
   const GAP = 6, CAB = estrecho || !verCielo ? 44 : medio ? 86 : 78;
-  const minY = Math.min(...fichas.map(f => f.ini)), maxY = Math.max(HOY, ...fichas.map(f => f.fin));
+  const minY = Math.min(...fichas.map(f => f.ini)), maxY = Math.max(HOY, estrecho ? 0 : 2049, ...fichas.map(f => f.fin));   // el cielo llega hasta 2050 (2026-11-22)
   const dec0 = Math.floor(minY / 10) - 1, dec1 = Math.floor(maxY / 10) + 1, nd = dec1 - dec0 + 1;
   const suma = Array.from({ length: nd }, () => new Array(cols.length).fill(0));
   const hayVida = new Array(nd).fill(false);
   for (const f of visT) { const d = Math.floor(f.ini / 10) - dec0; suma[d][colDe[vistaDe(f)]] += alto[f.id] + GAP; }
   for (const p of personas) for (let d = Math.floor(p.ini / 10); d <= Math.floor(p.fin / 10); d++) hayVida[d - dec0] = true;
   const alturas = suma.map((s, i) => { const m = Math.max(...s); return m ? Math.max(30, m + 14 + CAB) : (hayVida[i] ? 7 : 3); });
+  // Décadas futuras hasta 2050: sin fichas, pero con altura para leer la franja y las marcas del cielo
+  if (!estrecho) for (let i = 0; i < nd; i++) if ((dec0 + i) * 10 > HOY && (dec0 + i) * 10 < 2060) alturas[i] = Math.max(alturas[i], 200);
   // Comprimir tramos vacíos largos (sin tarjetas ni vidas)
   const huecos = [];
   for (let i = 0; i < nd;) {
