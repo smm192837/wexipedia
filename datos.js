@@ -2863,6 +2863,121 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "banco-de-venecia-1157",
+   "tipo": "hecho",
+   "titulo": "Banco de Venecia (1157)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1157,
+    "texto": "1157",
+    "fuente": "oficial"
+   },
+   "resumen": "Primer banco con garantía del Estado en Venecia, en 1157; se considera el primer banco nacional dentro de las fronteras de Europa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Venecia fue el primer banco nacional establecido dentro de las fronteras de Europa. El primer banco se estableció en Venecia con garantía del Estado en 1157.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Venecia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Venecia",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-della-piazza-di-rialto-1587",
+     "nota": "Sus herederos como bancos públicos."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
+   "id": "banco-del-giro-1619",
+   "tipo": "hecho",
+   "titulo": "Banco del Giro, Venecia (1619)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1619,
+    "hasta": 1797,
+    "texto": "1619 – 1797",
+    "fuente": "oficial"
+   },
+   "resumen": "Banco público creado por la República de Venecia en 1619, activo hasta el fin de la República en 1797.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco del Giro (también Banco Giro o Bancogiro; en inglés, a veces «Bank of Venice») fue un banco público creado por la República de Venecia en 1619. Siguió en actividad hasta el fin de la República en 1797. Otra obra de la misma enciclopedia da su fin en 1807, por lo que el año final varía según la fuente.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Banco del Giro",
+      "url": "https://en.wikipedia.org/wiki/Banco_del_Giro",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-della-piazza-di-rialto-1587",
+     "nota": "Su antecesor y competidor."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "Banco público posterior, de 1609."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
+   "id": "banco-della-piazza-di-rialto-1587",
+   "tipo": "hecho",
+   "titulo": "Banco della Piazza di Rialto, Venecia (1587)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1587,
+    "hasta": 1637,
+    "texto": "1587 – 1637",
+    "fuente": "oficial"
+   },
+   "resumen": "Primer banco público de la República de Venecia, en la plaza del Rialto, hasta que lo desplazó el Banco del Giro.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco della Piazza di Rialto fue el primer banco público de la República de Venecia y funcionaba en la plaza del Rialto. Estuvo activo de 1587 a 1637, cuando sucumbió a la competencia del Banco del Giro, institución pública distinta creada en 1619.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Banco della Piazza di Rialto",
+      "url": "https://en.wikipedia.org/wiki/Banco_della_Piazza_di_Rialto",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-del-giro-1619",
+     "nota": "Lo sustituyó."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "Modelo del Wisselbank de Ámsterdam (1609)."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "economia"
+  },
+  {
    "id": "banco-medici",
    "tipo": "hecho",
    "titulo": "Banco Medici (1397-1494)",
