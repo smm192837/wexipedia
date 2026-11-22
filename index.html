@@ -855,6 +855,7 @@ function marcasAspectos(T, a, b) {
   TR.aspectos.forEach(([i, j, asp, y, m, d, n]) => {
     const fr = y + (m - 1) / 12 + (d - 1) / 372;
     if (fr < a || fr > b) return;
+    if (T(Math.floor(fr) + 1) - T(Math.floor(fr)) < 8) return;   // década comprimida (sin fichas): las marcas se amontonarían
     const yy = T(fr), x0 = 10 + i * 14, x1 = 10 + j * 14;
     h += `<div class="cj${asp ? " op" : ""}" style="top:${yy}px;left:${x0}px;width:${x1 - x0}px" title="${GLIFO_PL[pl[i]]}${asp ? "☍" : "☌"}${GLIFO_PL[pl[j]]} ${esc(pl[i])} ${NOM_ASP[asp]} ${esc(pl[j])} · ${fechaPunto(d, m, y)}${n > 1 ? ` (primera de ${n} pasadas por retrogradación)` : ""}"></div>`;
   });
