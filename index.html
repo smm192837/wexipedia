@@ -119,6 +119,8 @@ button, input, select { font: inherit; color: inherit; }
 .tk { position: absolute; font: 500 11.5px var(--f-num); color: var(--tenue); transform: translateY(-50%); font-variant-numeric: tabular-nums; }
 .tk::after { content: ""; position: absolute; top: 50%; width: 6px; border-top: 1px solid var(--tenue); margin-left: 5px; }
 .rs { position: absolute; width: 12px; box-sizing: border-box; border-right: 3px solid transparent; font: 600 10px/1 var(--f-ui); color: var(--bg); display: flex; align-items: flex-start; justify-content: center; padding-top: 2px; overflow: hidden; opacity: .9; }
+#fondo .rs { cursor: pointer; pointer-events: auto; }
+.rs-on { outline: 2px solid var(--tinta); outline-offset: -1px; z-index: 2; }
 .rs-i { border-top: 1px solid var(--bg); }
 .rail-h { position: absolute; bottom: 4px; width: 12px; text-align: center; font: 600 13px var(--f-ui); color: var(--tenue); }
 .eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
@@ -843,7 +845,7 @@ function franjaTransitos(T, a, b) {
     for (let t0 = ini0, k = 0; t0 < fin0 - 1e-6; k++) {
       const t1 = Math.min(fin0, (Math.floor(t0 / 10) + 1) * 10);
       const y0 = T(t0), y1 = T(t1);
-      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--el-${EL[g.sg % 4]});border-right-color:var(--mod-${MO[g.sg % 3]})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
+      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" data-k="${i}-${g.d.toFixed(3)}" data-d="${g.d}" data-h="${g.h}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--el-${EL[g.sg % 4]});border-right-color:var(--mod-${MO[g.sg % 3]})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
       t0 = t1;
     }
   }));
@@ -1051,6 +1053,7 @@ function maquetar(conservar) {
   anchoPrev = W;
   if (anclaAño != null) escena.scrollTop = T(anclaAño);
   rellenarIrA(vis);
+  marcarVentana();
   pintar(); ahora();
 }
 
@@ -1077,7 +1080,8 @@ function pintar() {
   marcarVida();
   for (const f of fichas) {
     const pasa = coincide(f) && deAutor(f);
-    const ten = !pasa || (!!sel && f.id !== sel && !rel.has(f.id));
+    const enVent = !st.vent || (f.ini <= st.vent.h && f.fin >= st.vent.d);
+    const ten = !pasa || !enVent || (!!sel && f.id !== sel && !rel.has(f.id));
     const el = nodos[f.id]; if (el.hidden) continue;
     el.classList.toggle("sel", f.id === sel);
     el.classList.toggle("rel", !!rel && rel.has(f.id));
@@ -1087,6 +1091,16 @@ function pintar() {
   b.hidden = !prev; if (prev) b.textContent = `← Volver a «${corto(porId[prev].titulo, 40)}»`;
   lineas();
 }
+// Ventana de un tránsito (2026-11-22): al pulsar un tramo de la franja se atenúan las tarjetas que no coinciden
+// en el tiempo con ese signo; pulsar de nuevo (o Esc) lo quita.
+function marcarVentana() {
+  document.querySelectorAll("#fondo .rs").forEach(x => x.classList.toggle("rs-on", !!st.vent && x.dataset.k === st.vent.k));
+}
+fondo.addEventListener("click", e => {
+  const r = e.target.closest(".rs"); if (!r) return;
+  st.vent = st.vent && st.vent.k === r.dataset.k ? null : { k: r.dataset.k, d: +r.dataset.d, h: +r.dataset.h };
+  marcarVentana(); pintar();
+});
 // Vida de una persona marcada sobre el eje: la elegida o, mientras se señala en la lupa, esa
 let vidaTemp = null;
 function marcarVida() {
@@ -1797,7 +1811,8 @@ function abrirFicha(f) {
 let rafScroll = 0;
 escena.addEventListener("scroll", () => { cancelAnimationFrame(rafScroll); rafScroll = requestAnimationFrame(ahora); }, { passive: true });
 document.addEventListener("keydown", e => {
-  if (e.key === "Escape" && !ficha.hidden) cerrarFicha();
+  if (e.key === "Escape" && st.vent && ficha.hidden) { st.vent = null; marcarVentana(); pintar(); }
+  else if (e.key === "Escape" && !ficha.hidden) cerrarFicha();
   else if (e.key === "Backspace" && st.atras.length && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) { e.preventDefault(); $("volver").click(); }
 });
 new ResizeObserver(() => { if (app.hidden) return; const w = escena.clientWidth; if (Math.abs(w - anchoPrev) > 1) { anchoPrev = w; maquetar(true); } }).observe(escena);
