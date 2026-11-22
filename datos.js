@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-20",
+ "generado": "2026-11-22",
  "publica": false,
  "carriles": [
   {
@@ -607,6 +607,22 @@ window.CRONO = {
       "jorge-guerra",
       "giuseppe-nocera"
      ]
+    }
+   ]
+  },
+  {
+   "id": "smiguel1",
+   "nombre": "SMiguel1",
+   "obras": [
+    {
+     "id": "pistas-2026-11-20",
+     "titulo": "Pistas por investigar (conversación con Nexus, 20-11-2026)",
+     "tipo": "conversacion",
+     "referencia": "Nota de captura 001 CAPTURA/2026-11-20-pistas-por-investigar.md, dictada por SMiguel1 a Nexus; no hay vídeo ni URL.",
+     "url": null,
+     "estado": "procesada",
+     "fecha": "2026-11-20",
+     "resumen": "Lista de pistas que SMiguel1 pide investigar con fuente (radio y nazismo, JFK, memorando de la CIA de 1967, BIS y Bergier, frase de Foch)."
     }
    ]
   }
@@ -2240,7 +2256,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 12-10-2000 una lancha cargada de explosivos atacó al destructor USS Cole en el puerto de Adén (Yemen); murieron 17 marinos. El ataque se atribuyó a Al Qaeda.",
+    "resumen": "El 12-10-2000 una célula de Al Qaeda cometió un atentado suicida con una lancha cargada de explosivos contra el destructor estadounidense USS Cole (DDG-67), anclado en el puerto yemení de Adén. Murieron 17 marineros y los dos suicidas, y hubo 39 heridos de diversa consideración.",
     "fuentes": [
      {
       "titulo": "Britannica: USS Cole attack",
@@ -2286,12 +2302,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 26-2-1993 un camión bomba explotó en el aparcamiento del WTC: murieron seis personas y más de mil resultaron heridas. Ramzi Yousef fue condenado por el atentado.",
+    "resumen": "El 26-2-1993, a las 12:17, un camión con 680 kg de explosivos estalló en el aparcamiento subterráneo de la Torre Norte del World Trade Center de Nueva York: murieron seis personas y más de mil resultaron heridas. Ramzi Yousef fue condenado por el atentado.",
     "fuentes": [
      {
       "titulo": "Britannica: World Trade Center bombing of 1993",
       "url": "https://www.britannica.com/event/World-Trade-Center-bombing-of-1993",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Atentado del World Trade Center de 1993",
+      "url": "https://es.wikipedia.org/wiki/Atentado_del_World_Trade_Center_de_1993",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -2455,7 +2476,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 9-11-2005 tres atentados suicidas en hoteles de Amán (Jordania) mataron a unas 60 personas; los reivindicó Al Qaeda en Irak.",
+    "resumen": "El 9-11-2005, hacia las 20:50 hora local, tres atentados suicidas coordinados alcanzaron los vestíbulos de los hoteles Grand Hyatt, Radisson SAS y Days Inn de Amán (Jordania), frecuentados por diplomáticos extranjeros. En el Radisson estalló la bomba en el salón donde se celebraba una boda palestina con cientos de invitados. Murieron 57 personas y 115 resultaron heridas (cifra inicial citada: unas 60). Al Qaeda en Irak los reivindicó enseguida.",
     "fuentes": [
      {
       "titulo": "Wikipedia — 2005 Amman bombings",
@@ -5300,7 +5321,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Familia genovesa que gobierna Mónaco desde 1297; Mónaco fue protectorado del Reino de Cerdeña (Saboya) entre 1815 y 1861. Pendiente de contrastar.",
+    "resumen": "Familia noble de origen genovés fundada por Francisco Grimaldi, que en 1297 tomó el señorío de Mónaco con sus soldados vestidos de franciscanos. Sus sucesores han reinado en el principado hasta hoy. Mónaco fue protectorado del Reino de Cerdeña (Saboya) entre 1815 y 1861. Pendiente de contrastar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Casa de Grimaldi",
@@ -5714,7 +5735,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dinastía rusa que reinó de 1613 a 1917. Miguel I fue elegido zar por el Zemski Sobor en 1613; Nicolás II abdicó en marzo de 1917 y la familia fue ejecutada en Ekaterimburgo en 1918.",
+    "resumen": "Dinastía rusa reinante desde el siglo XVII hasta principios del XX. Comenzó con la coronación de Miguel I en 1613, hijo del patriarca Filareto (primo de Teodoro I), elegido por el Zemski Sobor. Reinó hasta que la revolución de febrero de 1917 abolió la monarquía: Nicolás II abdicó en marzo de 1917 y la familia fue ejecutada en Ekaterimburgo en 1918.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dinastía Románov",
@@ -6804,7 +6825,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Club de Roma se fundó en 1968 y publicó «Los límites del crecimiento» en 1972. La Comisión Trilateral la fundó David Rockefeller en 1973. Ambas son foros privados de discusión.",
+    "resumen": "El Club de Roma es un laboratorio de ideas fundado en Roma en 1968, que reúne a un centenar de científicos, economistas, expolíticos e industriales de 52 países preocupados por problemas complejos del mundo; publicó «Los límites del crecimiento» en 1972. La Comisión Trilateral la fundó David Rockefeller en 1973. Ambas son foros privados de discusión.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Club de Roma",
@@ -7101,7 +7122,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Agencia federal de Estados Unidos creada en abril de 1917 y disuelta en 1919, dirigida por George Creel. Coordinó la propaganda oficial durante la Primera Guerra Mundial.",
+    "resumen": "El Comité de Información Pública (CPI, o Comité Creel) fue una agencia independiente del gobierno de Estados Unidos, creada bajo la administración Wilson para influir en la opinión pública a favor de la entrada en la Primera Guerra Mundial, sobre todo en el frente interno. Dirigido por George Creel, funcionó algo más de 26 meses (del 14-4-1917 al 30-6-1919) y usó todos los medios disponibles para crear entusiasmo bélico y reclutar apoyo público. Es un ejemplo notable de propaganda estatal en Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Committee on Public Information",
@@ -9951,7 +9972,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 17-1-1961, en su discurso de despedida, el presidente Eisenhower advirtió del peso del «complejo militar-industrial». No fue en 1955.",
+    "resumen": "El 17-1-1961 Dwight D. Eisenhower, 34.º presidente de Estados Unidos, pronunció su último discurso público como presidente en una emisión de televisión. Es conocido sobre todo por advertir contra la influencia del «complejo militar-industrial», pero también habló del gasto masivo y del déficit, y de la posible dominación de la ciencia por la financiación federal y de la política pública por una «élite científico-tecnológica». No fue en 1955.",
     "fuentes": [
      {
       "titulo": "Britannica: military-industrial complex",
@@ -10626,12 +10647,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El «Eje de la Resistencia» es la red de aliados y milicias de Irán: Hezbolá en Líbano, Hamás y la Yihad Islámica en Palestina, los hutíes en Yemen y milicias chiíes en Irak y Siria.",
+    "resumen": "El «Eje de la Resistencia» es una alianza antisionista, antiestadounidense y antiimperialista liderada por Irán, con el grupo chií libanés Hezbolá (que se enfrentó a Israel en 2006) y, hasta finales de 2024, la Siria baazista de Bashar al-Ásad; incluye también grupos guerrilleros palestinos. En la práctica, la red de aliados y milicias de Irán: Hezbolá en Líbano, Hamás y la Yihad Islámica en Palestina, los hutíes en Yemen y milicias chiíes en Irak y Siria.",
     "fuentes": [
      {
       "titulo": "Council on Foreign Relations: Iran's Axis of Resistance",
       "url": "https://www.cfr.org/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Eje de la Resistencia",
+      "url": "https://es.wikipedia.org/wiki/Eje_de_la_Resistencia",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -12140,7 +12166,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Expedición alemana a la Antártida (1938–1939) que exploró y reclamó la zona llamada Nueva Suabia; la reclamación nunca se hizo efectiva.",
+    "resumen": "La expedición antártica alemana de 1938–1939 exploró una parte de la Tierra de la Reina Maud que la Alemania nazi llamó Nueva Suabia (Neuschwabenland), por el nombre del barco de la expedición, el MS Schwabenland. El territorio, de unos 600 000 km², se sitúa entre unos 12° O y 18° E y entre 70° y 75° S. La reclamación alemana nunca se hizo efectiva; Noruega, por su parte, hizo en 1939 una reivindicación costera sobre la Tierra de la Reina Maud tras esta expedición.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nueva Suabia",
@@ -16011,7 +16037,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundada por Anton LaVey en San Francisco en 1966. En 1975 Michael Aquino la dejó y fundó el Templo de Set. El autor se corrige a sí mismo: Aquino no fundó la Iglesia de Satán.",
+    "resumen": "La Iglesia de Satán es una organización religiosa con estatus legal reconocido en Estados Unidos, fundada por Anton Szandor LaVey en San Francisco el 30-4-1966, en la Noche de Walpurgis, que su sistema considera el inicio del año I del reinado de Satanás. En 1975 Michael Aquino la dejó y fundó el Templo de Set. El autor se corrige a sí mismo: Aquino no fundó la Iglesia de Satán. Su sumo sacerdote actual es Peter H. Gilmore.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Iglesia de Satán",
@@ -16123,7 +16149,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Illuminati de Baviera fueron fundados por Adam Weishaupt el 1 de mayo de 1776 y se disolvieron hacia 1785. No consta una filiación con los alumbrados españoles.",
+    "resumen": "La Orden de los Illuminati de Baviera fue una sociedad secreta de la Ilustración fundada por Adam Weishaupt el 1-5-1776, que se declaraba contraria a la influencia religiosa y a los abusos de poder del Estado. El gobierno de Baviera la prohibió, junto con otras sociedades secretas, y se disolvió hacia 1785. No consta una filiación con los alumbrados españoles.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Iluminados de Baviera",
@@ -16499,7 +16525,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Concilio Vaticano I proclamó el 18 de julio de 1870 el dogma de la infalibilidad pontificia en cuestiones de fe y costumbres. No consta que fuera una «toma de control» jesuita.",
+    "resumen": "La infalibilidad pontificia es un dogma de la Iglesia católica desde 1870: según él, el papa está preservado de error cuando proclama una enseñanza dogmática en materia de fe y costumbres mediante una «solemne definición pontificia» o declaración ex cátedra. Se considera verdad de fe, por lo que no se permite discusión dentro de la Iglesia. El Concilio Vaticano I la proclamó el 18-7-1870. No consta que fuera una «toma de control» jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Infalibilidad pontificia",
@@ -17596,7 +17622,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los jesuitas llegaron a Japón en 1549 con Francisco Javier, fueron prohibidos en 1614 y volvieron tras la apertura Meiji; en 1913 fundaron la Universidad Sofía de Tokio. Pendiente de contrastar.",
+    "resumen": "Los jesuitas llegaron a Japón en 1549 con Francisco Javier, fueron prohibidos en 1614 y volvieron tras la apertura Meiji. En 1913 fundaron la Universidad Sofía de Tokio (Jōchi Daigaku), universidad católica privada con campus principal en Yotsuya (Chiyoda), reconocida como una de las tres mejores privadas del país junto con Keiō y Waseda. Pendiente de contrastar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Universidad Sofía",
@@ -19682,7 +19708,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Massimo Dutti, cadena de moda fundada en Barcelona en 1985 por Armando Lasauca; Inditex la compró en 1991. Empezó en moda masculina y hoy tiene también línea femenina y de niño.",
+    "resumen": "Massimo Dutti, cadena de moda fundada en Barcelona en 1985 por Armando Lasauca. Empezó en ropa de hombre; en 1991 Inditex adquirió el 65 % de las acciones y completó la compra en 1995, año en que lanzó la línea femenina. Hoy ofrece ropa, accesorios, calzado y perfumería para hombre y mujer, además de la colección de sastrería a medida Personal Tailoring. Cuenta con 643 tiendas en 78 mercados y vende por internet en 215.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Massimo Dutti",
@@ -19777,7 +19803,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mayer Amschel Rothschild fue aprendiz en la casa bancaria Oppenheim de Hanóver hacia 1757; no consta una mediación jesuita.",
+    "resumen": "Mayer Amschel Rothschild (Fráncfort, 23-2-1744 – 19-9-1812), banquero alemán de origen judío y fundador de la dinastía Rothschild. Su padre, Amschel Moses, fue comerciante de moneda y orfebre en el barrio judío de Fráncfort. Pocos años después de morir su padre, Mayer Amschel empezó como ayudante en la casa bancaria Oppenheimer de Hanóver (hacia 1757); no consta una mediación jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mayer Amschel Rothschild",
@@ -22342,7 +22368,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El primer servicio 911 de emergencias empezó a funcionar el 16-2-1968 en Haleyville (Alabama); AT&T había anunciado el 911 como número nacional en 1967. No tiene relación con la película de Kubrick.",
+    "resumen": "El 911 es un número telefónico de emergencias de Canadá y Estados Unidos, uno de los ocho códigos N11 del Plan de Numeración de Norteamérica: al marcarlo se conecta con un centro de despacho de emergencias. En aproximadamente el 96 % de Estados Unidos el sistema mejorado asocia el número del llamante con una dirección física. AT&T anunció el 911 como número nacional en 1967 y el primer servicio empezó a funcionar el 16-2-1968 en Haleyville (Alabama). No tiene relación con la película de Kubrick.",
     "fuentes": [
      {
       "titulo": "Wikipedia: 911 (emergency telephone number)",
@@ -23914,7 +23940,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El cristianismo surge en el siglo I en Judea en torno a Jesús de Nazaret. La mayoría de los historiadores acepta que Jesús existió. La tesis de Atwill (2005) no ha tenido aceptación académica.",
+    "resumen": "El cristianismo surge en el siglo I en Judea, en torno a Jesús de Nazaret. El consenso de los estudiosos modernos es que Jesús existió en el reino herodiano de Judea (concretamente Galilea) en el siglo I, y que sobre su vida y enseñanzas se construyó después el cristianismo; la corriente principal de los estudios del Nuevo Testamento ignora la hipótesis de su inexistencia. Los especialistas distinguen el «Cristo de la fe» del «Jesús histórico» mínimo. La tesis de Atwill (2005) no ha tenido aceptación académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Historicity of Jesus",
@@ -24134,7 +24160,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Palantir se fundó en 2003. Peter Thiel nació en Fráncfort del Meno (Hesse) en 1967; Alex Karp se doctoró en la Universidad Goethe de Fráncfort. No hay relación documentada con la casa de Hesse.",
+    "resumen": "Palantir Technologies es una empresa estadounidense que desarrolla software de integración y análisis de datos. Se fundó en 2003 en Palo Alto (California) por Peter Thiel, Alex Karp, Stephen Cohen, Joe Lonsdale y Nathan Gettings, y hoy tiene su sede en Miami. Sus clientes son agencias federales, gobiernos estatales y locales, organizaciones internacionales y empresas privadas; sus cuatro sistemas principales son Gotham, Foundry, Apollo y AIP. Peter Thiel nació en Fráncfort del Meno (Hesse) en 1967; Alex Karp se doctoró en la Universidad Goethe de Fráncfort. No hay relación documentada con la casa de Hesse.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Palantir Technologies",
@@ -24686,7 +24712,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Partido neonazi fundado en 1949 en la RFA, con Otto Ernst Remer como figura principal; el Tribunal Constitucional lo prohibió en 1952.",
+    "resumen": "El Partido Socialista del Reich (Sozialistische Reichspartei, SRP) fue un partido alemán de extrema derecha, neonazi, anticomunista y antisemita, escindido del Deutsche Rechtspartei y fundado en 1949 en la RFA. Su líder fue el exmilitar Otto Ernst Remer, y tuvo una milicia paramilitar, el Reichsfront. Tres años después, en 1952, se convirtió en el primer partido prohibido por el Tribunal Constitucional alemán.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Partido Socialista del Reich",
@@ -29218,7 +29244,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El papa Clemente XIV suprimió la Compañía de Jesús con el breve «Dominus ac Redemptor» (21-7-1773). En Prusia y Rusia el breve no se aplicó de inmediato y la orden sobrevivió.",
+    "resumen": "«Dominus ac Redemptor» fue el breve papal promulgado el 21-7-1773 por el que Clemente XIV suprimió la Compañía de Jesús. La Compañía fue restablecida en 1814 por Pío VII. En Prusia y Rusia el breve no se aplicó de inmediato y la orden sobrevivió.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dominus ac Redemptor",
@@ -29939,7 +29965,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thelema es la religión y filosofía que Aleister Crowley formuló a partir de «El libro de la ley» (1904), con la máxima «haz tu voluntad». Su sistema se organiza en la A∴A∴ y la Ordo Templi Orientis.",
+    "resumen": "Thelema es una filosofía de vida basada en las máximas «haz tu voluntad: será toda la ley» y «amor es la ley, amor bajo voluntad». Su ideal tiene antecedente en François Rabelais (1494–1553), pero la desarrolló y popularizó Aleister Crowley (1875–1947), que fundó una religión llamada thelema a partir de «El libro de la ley» (1904). La palabra es la transliteración del griego koiné θέλημα, «voluntad». Su sistema se organiza en la A∴A∴ y la Ordo Templi Orientis.",
     "fuentes": [
      {
       "titulo": "Britannica — Thelema",
@@ -31266,7 +31292,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Unión Protestante se creó en 1608 y la Liga Católica en 1609. Cristián de Anhalt fue el principal impulsor de la Unión. Pendiente de contrastar (correspondencia con Sarpi).",
+    "resumen": "La Unión Protestante (también Unión Evangélica o Unión de Auhausen) fue una coalición de Estados protestantes alemanes, calvinistas y luteranos, formada el 14-5-1608 por Federico IV del Palatinado para defender los derechos, tierras y seguridad de cada miembro. Cristián de Anhalt fue su principal impulsor. La Liga Católica se creó en 1609. La Unión luchó contra la Liga en la Guerra de los Treinta Años, pero era militarmente inferior. Pendiente de contrastar (correspondencia con Sarpi).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unión Protestante",
@@ -31310,7 +31336,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundada en 1222 y dependiente de Venecia desde 1405. Era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey.",
+    "resumen": "La Universidad de Estudios de Padua es una de las más importantes de Italia y, fundada en 1222, la segunda más antigua del país; su sede principal está en el Palacio Bo. En 2003 tenía cerca de 65 000 estudiantes. Dependía de Venecia desde 1405 y era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Universidad de Padua",
@@ -32147,6 +32173,69 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "volksempfaenger-1933",
+   "tipo": "hecho",
+   "titulo": "El Volksempfänger, la radio del pueblo (1933)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1933,
+    "texto": "18 de agosto de 1933"
+   },
+   "resumen": "Receptor de radio barato lanzado en 1933 por encargo de Goebbels; SMiguel1 lo señala como pista de cómo el nazismo usó la radio para llegar a las masas.",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-20",
+     "ubicacion": "nota de captura, primera pista",
+     "url": null,
+     "resumen": "Tesis de SMiguel1: la radio y el receptor popular de 1933 son una pista del uso de la radio por el nazismo para llegar a las masas; pidió buscar fuente.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Volksempfänger (modelo VE301) fue un receptor de radio de bajo precio que desarrolló el ingeniero Otto Griessing por encargo del ministro de Propaganda, Joseph Goebbels. Se presentó el 18 de agosto de 1933 en la Exposición de Radio de Berlín; el nombre VE301 alude al 30 de enero de 1933, día en que Hitler llegó al poder. Costaba 76 Reichsmark, cerca de la mitad que el receptor más barato del mercado, y su dial favorecía las emisoras cercanas. Las cifras de difusión varían según la fuente: unos 12,5 millones de aparatos hacia 1939 y casi dos tercios de los hogares alemanes con uno hacia 1941. Los historiadores lo describen como un instrumento abierto de propaganda, que a la vez se vendió por su precio y su valor como entretenimiento.",
+    "fuentes": [
+     {
+      "titulo": "USHMM: German Radio, the People's Receiver",
+      "url": "https://www.ushmm.org/information/exhibitions/online-exhibitions/propaganda/german-radio-the-peoples-receiver",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "JSTOR Daily: An Affordable Radio Brought Nazi Propaganda Home",
+      "url": "https://daily.jstor.org/an-affordable-radio-brought-nazi-propaganda-home/",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Deutsches Historisches Museum (LeMO): Volksempfänger",
+      "url": "https://www.dhm.de/lemo/kapitel/ns-regime/alltagsleben/volksempfaenger",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "joseph-goebbels",
+     "nota": "Lo encargó."
+    },
+    {
+     "id": "adolf-hitler",
+     "nota": "Su nombre alude al día de su llegada al poder."
+    },
+    {
+     "id": "tercer-reich",
+     "nota": "Instrumento de su propaganda."
+    },
+    {
+     "id": "guerra-de-los-mundos-radio-1938",
+     "nota": "Otro caso del poder de la radio sobre las masas."
+    }
+   ],
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
@@ -33728,7 +33817,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alfonso Fernández de Madrigal (Madrigal de las Altas Torres, c. 1400 – 1455), obispo de Ávila, autor de una obra enorme que se imprimió póstumamente en Venecia.",
+    "resumen": "Alfonso Fernández de Madrigal, el Tostado o el Abulense (Madrigal de las Altas Torres, c. 1400–1410 – 3-9-1455), teólogo español, consejero de Juan II de Castilla y, brevemente, obispo de Ávila. Autor de una obra enorme que se imprimió póstumamente en Venecia. Se le cita como una de las primeras señales del fin de la era precrítica de los estudios bíblicos, por su comentario al Deuteronomio. La fecha de nacimiento varía según la fuente (c. 1400 o c. 1410).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -34034,7 +34123,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Amancio Ortega Gaona (Busdongo de Arbás, León, 28-3-1936) fundó Inditex, cuyo buque insignia, Zara, abrió su primera tienda en A Coruña en 1975. Inditex salió a bolsa en 2001.",
+    "resumen": "Amancio Ortega Gaona (Busdongo de Arbás, León, 28-3-1936), empresario textil español. Fundó Inditex, junto con su exesposa Rosalía Mera, y la cadena Zara, cuya primera tienda abrió en A Coruña en 1975; presidió el grupo hasta que le sucedió Pablo Isla. Inditex salió a bolsa en 2001. A finales de 2009 recibió la Gran Cruz de la Orden del Mérito Civil.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -34146,7 +34235,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anatoli Vasílievich Lunacharski (Poltava, 23-11-1875 – Menton, 26-12-1933), dramaturgo, crítico literario y político comunista soviético. Fue el primer comisario del Pueblo de Educación (1917-1929).",
+    "resumen": "Anatoli Vasílievich Lunacharski (Poltava, 23-11-1875 – Menton, 26-12-1933), dramaturgo, crítico literario y político comunista soviético. Fue el primer comisario del Pueblo de Educación (1917–1929).",
     "fuentes": [
      {
       "titulo": "Freemasonry.bcy.ca: Russian masons",
@@ -34450,7 +34539,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Anton Rupert (1916-2006), empresario sudafricano. Fundó el grupo Rembrandt (tabaco y artículos de lujo) y fue uno de los fundadores del WWF (1961) y de la Peace Parks Foundation.",
+    "resumen": "Anthony Edward Rupert (Graaff-Reinet, 4-10-1916 – Stellenbosch, 18-1-2006), empresario y conservacionista sudafricano. Estudió en Pretoria y se instaló en Stellenbosch, donde fundó el grupo Rembrandt (tabaco y artículos de lujo), que sigue teniendo allí su sede. Fue uno de los fundadores del WWF (1961) y de la Peace Parks Foundation. Murió dormido en su casa a los 89 años.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Anton Rupert",
@@ -34986,7 +35075,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Baldassarre Capra (Milán, c. 1580 – 1626) publicó en 1607 un tratado sobre el compás proporcional; Galileo lo acusó de plagio y la Universidad de Padua le dio la razón.",
+    "resumen": "Baldassarre Capra (Milán, 1580 – Milán, 8-5-1626), científico italiano que disputó a Galileo la prioridad en el descubrimiento de la supernova de Kepler y se atribuyó la invención del compás proporcional, acusando a Galileo de plagio. En 1607 publicó un tratado sobre el compás proporcional; Galileo lo acusó de plagio y la Universidad de Padua le dio la razón.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -35138,7 +35227,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Humanista y hebraísta extremeño, dirigió la Biblia Políglota de Amberes (1568–1572) y organizó la biblioteca de El Escorial. Se le ha relacionado con la Familia Caritatis de Hendrik Niclaes.",
+    "resumen": "Benito Arias Montano (Fregenal de la Sierra, c. 1525–1527 – Sevilla, 6-7-1598), humanista, teólogo, filólogo y hebraísta español, figura central del humanismo cristiano del siglo XVI. Vinculado a la corte de Felipe II, como capellán real, fue uno de los principales responsables de la Biblia Políglota de Amberes (1568–1572), en colaboración con el impresor Cristóbal Plantino, y organizó la biblioteca de El Escorial. Se le ha relacionado con la Familia Caritatis de Hendrik Niclaes.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Benito Arias Montano",
@@ -35330,12 +35419,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Benjamin Netanyahu (Tel Aviv, 21-10-1949) es primer ministro de Israel (1996-1999, 2009-2021 y desde 2022) y líder del Likud; en 2026 dirigía el gobierno durante la guerra con Irán.",
+    "resumen": "Benjamin Netanyahu (Tel Aviv, 21-10-1949), político israelí, líder del Likud y miembro de la Knéset. Es primer ministro de Israel desde diciembre de 2022, cargo que ya ocupó de 1996 a 1999 y de 2009 a 2021. Hijo de padres judíos seculares, fue el primer primer ministro nacido tras la creación del Estado de Israel. En 2026 dirigía el gobierno durante la guerra con Irán.",
     "fuentes": [
      {
       "titulo": "Britannica: Benjamin Netanyahu",
       "url": "https://www.britannica.com/biography/Benjamin-Netanyahu",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Benjamín Netanyahu",
+      "url": "https://es.wikipedia.org/wiki/Benjam%C3%ADn_Netanyahu",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -36436,7 +36530,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dante Alighieri (Florencia, c. 1265 – Rávena, 14-9-1321) militó en los güelfos blancos, fue desterrado de Florencia en 1302 y escribió la «Divina comedia».",
+    "resumen": "Dante Alighieri (Florencia, c. mayo de 1265 – Rávena, 14-9-1321), filósofo, poeta y escritor italiano, autor de la «Divina comedia», una de las cumbres de la literatura universal y obra de la transición del pensamiento medieval al renacentista. Se desconoce su fecha exacta de nacimiento; se deduce de alusiones autobiográficas de la «Vita nuova». Participó activamente en la política de su tiempo: militó en los güelfos blancos y fue desterrado de Florencia en 1302.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dante Alighieri",
@@ -37365,7 +37459,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dudley Carleton, vizconde de Dorchester (10-3-1573 – 15-2-1632), embajador en Venecia (1610–1615) y en La Haya; intercambiaba información con Sarpi.",
+    "resumen": "Dudley Carleton, vizconde de Dorchester (10-3-1573 – 15-2-1632), diplomático inglés, coleccionista de arte y secretario de Estado. Fue embajador en Venecia (1610–1615) y en La Haya; intercambiaba información con Sarpi.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -37413,12 +37507,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Príncipe Eduardo, duque de Kent, nacido en Londres el 9-10-1935, primo de Isabel II; gran maestre de la Gran Logia Unida de Inglaterra desde 1967. Vivo según las fuentes consultadas.",
+    "resumen": "Eduardo, duque de Kent (Londres, 9-10-1935), príncipe del Reino Unido y duque de Kent desde la muerte de su padre, Jorge, en 1942. Nieto del rey Jorge V y de la reina María, primo de Isabel II, y con puesto en la línea de sucesión al trono. Gran maestre de la Gran Logia Unida de Inglaterra desde 1967. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://wikipedia.com/wiki/Prince_Edward,_Duke_of_Kent",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Eduardo de Kent (1935)",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_de_Kent_(1935)",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -37666,7 +37765,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Edwin de Leon (1818-1891) fue un diplomático, periodista y escritor estadounidense, partidario de la Confederación durante la guerra civil. No consta que patrocinara a los jesuitas.",
+    "resumen": "Edwin de Leon (4-5-1818 – 30-11-1891), diplomático, escritor y periodista estadounidense, partidario de la Confederación durante la guerra civil. No consta que patrocinara a los jesuitas.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en inglés): Edwin de Leon",
@@ -37949,12 +38048,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Elon Reeve Musk, nacido en Pretoria el 28-6-1971; dirigió el Departamento de Eficiencia Gubernamental (DOGE) en 2025. Vivo según las fuentes consultadas.",
+    "resumen": "Elon Reeve Musk (Pretoria, 28-6-1971), empresario, inversor y magnate sudafricano naturalizado estadounidense. Fundador, consejero delegado e ingeniero jefe de SpaceX; director general y arquitecto de producto de Tesla; fundador de The Boring Company y cofundador de Neuralink y OpenAI; director de tecnología de X Corp. Entre enero y mayo de 2025 ejerció como administrador de facto del Departamento de Eficiencia Gubernamental (DOGE). Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/more-on-this-day/June-28",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Elon Musk",
+      "url": "https://es.wikipedia.org/wiki/Elon_Musk",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -37996,7 +38100,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Elvina Medici del Vascello, princesa Pallavicini (1914–2004), dueña del palacio Pallavicini-Rospigliosi de Roma y figura de la aristocracia romana tradicionalista.",
+    "resumen": "Elvina Medici del Vascello, princesa Pallavicini (Génova, 22-1-1914 – Cortina d'Ampezzo, 29-8-2004), noble italiana, dueña del palacio Pallavicini-Rospigliosi de Roma. Fue conocida por sus esfuerzos humanitarios como mediadora entre monárquicos y aliados en Roma al terminar la Segunda Guerra Mundial. Desde la segunda mitad de los años setenta volvió a la prensa por ser cabeza de la «nobleza negra» romana favorable a monseñor Marcel Lefebvre, a quien acogió en su palacio para una conferencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -38114,7 +38218,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Físico italiano (1-1-1940 – 31-1-2014); el autor da 2013.",
+    "resumen": "Emilio Del Giudice (1-1-1940 – 31-1-2014), físico teórico italiano que trabajó en materia condensada. Fue pionero de la teoría de cuerdas a comienzos de los años setenta y se hizo más conocido por su trabajo con Giuliano Preparata en el Instituto Italiano de Física Nuclear (INFN). El autor da 2013 como año de su muerte; las fuentes consultadas dicen 2014.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Emilio Del Giudice",
@@ -38452,7 +38556,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritora británica (4-5-1874 – 16-7-1950), antiviviseccionista, contraria a las vacunas y a la teoría de los gérmenes. Autora de «Béchamp or Pasteur?» (1923), criticado por los historiadores.",
+    "resumen": "Ethel Douglas Hume (4-5-1874 – 16-7-1950), escritora, viajera y activista británica antiviviseccionista y por el bienestar animal, contraria a las vacunas y a la teoría de los gérmenes. Es conocida sobre todo por un libro polémico de 1923, «Béchamp or Pasteur?», que acusaba a Louis Pasteur de plagiar las teorías de Antoine Béchamp; los historiadores lo critican.",
     "fuentes": [
      {
       "titulo": "Wikipedia: E. Douglas Hume",
@@ -38510,7 +38614,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escritor estadounidense antisemita y conspiracionista, discípulo de Pound; autor de «Secretos de la Reserva Federal» (1952) y «La maldición de Canaán» (1987).",
+    "resumen": "Eustace Clarence Mullins Jr. (9-3-1923 – 2-2-2010), escritor estadounidense descrito como supremacista blanco, teórico de la conspiración antisemita y negacionista del Holocausto. Discípulo del poeta Ezra Pound, participó en grupos de extrema derecha, entre ellos el National Renaissance Party. Su obra más conocida es «Los secretos de la Reserva Federal» (1952), donde sostiene que varios banqueros conspiraron para redactar la ley de la Reserva Federal; también escribió «La maldición de Canaán» (1987).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Eustace Mullins",
@@ -39408,7 +39512,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francisco de Borja (Gandía, 28-10-1510 – Roma, 30-9-1572), duque de Gandía, ingresó en la Compañía de Jesús en 1546 y fue su tercer prepósito general (1565-1572). Fue canonizado en 1671.",
+    "resumen": "Francisco de Borja y Aragón (Gandía, 28-10-1510 – Roma, 30-9-1572), IV duque de Gandía, I marqués de Lombay, grande de España y virrey de Cataluña; bisnieto del papa Alejandro VI (Rodrigo de Borja) por parte de padre. Ingresó en la Compañía de Jesús en 1546 y fue su tercer prepósito general (1565–1572). Fue canonizado en 1671.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Francisco de Borja",
@@ -39621,7 +39725,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Francisco Suárez (Granada, 5-1-1548 – Lisboa, 25-9-1617), jesuita, teólogo y filósofo, fue figura de la escuela de Salamanca. Escribió las «Disputaciones metafísicas» (1597) y «De legibus» (1612).",
+    "resumen": "Francisco Suárez de Toledo (Doctor Eximius; Granada, 5-1-1548 – Lisboa, 25-9-1617), teólogo, filósofo y jurista jesuita español, considerado uno de los mayores escolásticos junto con Francisco de Vitoria, y a veces enmarcado en la fase final de la Escuela de Salamanca. Su obra marca un punto de inflexión del segundo escolasticismo, entre la última gran escolástica y la filosofía moderna. Escribió las «Disputaciones metafísicas» (1597) y «De legibus» (1612).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -39869,7 +39973,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Viktor Schaub (nacido en 1955), conocido como Fritz Springmeier, autor de Bloodlines of the Illuminati; condenado en 2003 por un atraco a mano armada. Vivo según las fuentes consultadas.",
+    "resumen": "Fritz Artz Springmeier (nacido Viktor E. Schoof, 24-9-1955), autor estadounidense de literatura de teoría de la conspiración, que sostiene en varios libros que una élite global de «linajes satánicos» conspira para dominar el mundo; define su objetivo como «exponer la agenda del Nuevo Orden Mundial». Autor de «Bloodlines of the Illuminati»; condenado en 2003 por un atraco a mano armada. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -41412,7 +41516,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Guillermo I de Hesse (1743–1821), landgrave Guillermo IX de Hesse-Kassel desde 1785 y elector desde 1803; alquilaba tropas a Gran Bretaña y nombró a Mayer Amschel Rothschild agente de su corte.",
+    "resumen": "Guillermo I, elector de Hesse (3-6-1743 – 27-2-1821), hijo mayor superviviente de Federico II, landgrave de Hesse-Kassel, y de la princesa María de Gran Bretaña, hija de Jorge II. Fue landgrave Guillermo IX de Hesse-Kassel desde 1785 y elector desde 1803; alquilaba tropas a Gran Bretaña y nombró a Mayer Amschel Rothschild agente de su corte.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -41733,7 +41837,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hans Friedrich Karl Günther (Friburgo, 16-2-1891 – 25-9-1968), teórico racial afiliado al partido nazi en 1932.",
+    "resumen": "Hans Friedrich Karl Günther (Friburgo, 16-2-1891 – 25-9-1968), escritor alemán, defensor del racismo científico y eugenista en la República de Weimar y la Alemania nazi; conocido como «Rassengünther» o «Rassenpapst». Enseñó en Jena, Berlín y Friburgo, y su «Kleine Rassenkunde des deutschen Volkes» (1929) fue una exposición popular del nordicismo. En 1930 obtuvo una nueva cátedra de teoría racial; se afilió al partido nazi en 1932. Se le considera una gran influencia en el pensamiento racial nazi.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -42688,12 +42792,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hipócrates de Cos (c. 460 – c. 375 a.C.): las fechas son tradicionales; Británica da c. 460 y c. 375 a.C. Se le atribuye el Corpus hipocrático.",
+    "resumen": "Hipócrates de Cos (Cos, c. 460 a. C. – Tesalia, c. 370–375 a. C.), médico de la Antigua Grecia que ejerció en el siglo de Pericles. Se le considera uno de los grandes exponentes de la historia de la medicina y se le llama «padre de la medicina»; fundó la escuela que lleva su nombre. Las fechas son tradicionales (Britannica da c. 460 y c. 375 a. C.). Se le atribuye el Corpus hipocrático.",
     "fuentes": [
      {
       "titulo": "Britannica: Hippocrates",
       "url": "https://www.britannica.com/biography/Hippocrates",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia: Hipócrates",
+      "url": "https://es.wikipedia.org/wiki/Hip%C3%B3crates",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -43929,12 +44038,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nathaniel Charles Jacob Rothschild (Cambridge, 29-4-1936 – Londres, 26-2-2024), banquero de inversión y filántropo, fundador de RIT Capital Partners.",
+    "resumen": "Nathaniel Charles Jacob Rothschild, cuarto barón Rothschild (Cambridge, 29-4-1936 – Londres, 26-2-2024), banquero, inversor y filántropo británico de la dinastía Rothschild; fundador de RIT Capital Partners y presidente honorario del Instituto de Investigación de Políticas Judías.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.com/wiki/N._C._Jacob_Rothschild",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Jacob Rothschild",
+      "url": "https://es.wikipedia.org/wiki/Jacob_Rothschild",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -44363,7 +44477,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "James Harting Madole (New Bedford, 7-7-1927 – Nueva York, 6-5-1979), líder del National Renaissance Party desde 1949; figura clave del neonazismo esotérico.",
+    "resumen": "James Harting Madole (New Bedford, 7-7-1927 – Nueva York, 6-5-1979), activista neonazi estadounidense y líder del National Renaissance Party desde poco después de su fundación en 1949 hasta su muerte. Fue de los primeros en mezclar neonazismo con ocultismo y esoterismo, y los estudiosos lo consideran una figura clave del neonazismo esotérico. Excéntrico, nunca alcanzó la notoriedad de su contemporáneo George Lincoln Rockwell.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -44413,7 +44527,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Financiero francés nacido en 1963; presidente del consejo de superintendencia del Instituto para las Obras de Religión desde 2014. Vivo según las fuentes consultadas.",
+    "resumen": "Jean-Baptiste Douville de Franssu (8-7-1963), profesional francés de la gestión de inversiones y la banca. Presidente del consejo de superintendencia del Instituto para las Obras de Religión (IOR, el banco vaticano) desde el 9-7-2014. Fue consejero delegado de Invesco Europe y miembro de su comité ejecutivo global desde 1990 hasta finales de octubre de 2011, etapa en la que dirigió la expansión de la firma en Europa. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -44817,7 +44931,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Jerome Hayden Powell (Washington, 1953), abogado y banquero de inversión, presidente de la Reserva Federal de EE. UU. desde 2018. Fue nominado por Trump y renominado por Biden en 2021.",
+    "resumen": "Jerome Hayden «Jay» Powell (Washington, 4-2-1953), banquero central, abogado y banquero de inversión estadounidense, graduado en Princeton y Georgetown. Fue el 16.º presidente de la Reserva Federal de 2018 a 2026: nominado por Trump y renominado por Biden en 2021, su mandato como presidente terminó el 22-5-2026. Sigue como miembro de la Junta de Gobernadores hasta el 31-1-2028.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -44916,7 +45030,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Johann Gottfried von Herder (Mohrungen, 25-8-1744 – Weimar, 18-12-1803), filósofo, teólogo y crítico, autor de las Ideas para una filosofía de la historia de la humanidad.",
+    "resumen": "Johann Gottfried von Herder (Mohrungen, 25-8-1744 – Weimar, 18-12-1803), filósofo, teólogo, pastor, poeta y crítico alemán, asociado a la Ilustración, el Sturm und Drang y el clasicismo de Weimar. Filósofo romántico, sostuvo que la verdadera cultura alemana había que buscarla en el pueblo (das Volk) y que el «espíritu del pueblo» (Volksgeist) se difundía por canciones, poesía y danzas populares. Autor de las «Ideas para una filosofía de la historia de la humanidad».",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -44958,7 +45072,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Johann Joachim Christoph Bode (1731–1793), traductor y editor alemán de Sterne, Fielding y Montaigne, masón e ingresado en los illuminati de Baviera en 1782. Visitó las logias de París en 1787.",
+    "resumen": "Johann Joachim Christoph Bode (16-1-1731 – 13-12-1793), conocido traductor alemán de obras literarias: tradujo a Sterne, Fielding y Montaigne. Masón, ingresó en los illuminati de Baviera en 1782 y visitó las logias de París en 1787.",
     "fuentes": [
      {
       "titulo": "Grand Lodge of British Columbia and Yukon",
@@ -45010,7 +45124,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Johann von Leers (Vietlübbe, 25-1-1902 – El Cairo, 5-3-1965), propagandista antisemita del Tercer Reich; tras pasar por Argentina, dirigió propaganda para Nasser.",
+    "resumen": "Johann Jakob von Leers (Vietlübbe, 25-1-1902 – El Cairo, 5-3-1965), «viejo combatiente» nazi y Sturmbannführer honorario de las Waffen-SS, profesor conocido por sus polémicas antijudías y uno de los ideólogos más importantes del Tercer Reich, con alto cargo en el Ministerio de Propaganda. Publicó para Goebbels, en la Argentina de Perón y en el Egipto de Nasser. Más tarde trabajó en el Departamento de Información egipcio como asesor de Gamal Abdel Nasser; se convirtió al islam y adoptó el nombre de Omar Amin.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -45594,7 +45708,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "José Argüelles (Rochester, 1939 – 2011), escritor estadounidense, historiador del arte y promotor de la contracultura. Creó el calendario Dreamspell y difundió la idea de 2012 como cambio de ciclo.",
+    "resumen": "José Argüelles (Rochester, 24-1-1939 – 23-3-2011), escritor y artista de la Nueva Era estadounidense, cofundador con Lloydine Argüelles de la Planet Art Network y de la Foundation for the Law of Time. Fue de los impulsores del Día de la Tierra y fundó el primer Whole Earth Festival (Davis, 1970). Es más conocido por organizar la Convergencia Armónica de 1987, inventar con su esposa el calendario Dreamspell (1990) y difundir la idea de 2012 como cambio de ciclo.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -46663,12 +46777,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Karel Schwarzenberg (Praga, 10-12-1937 – Viena, 12-11-2023), jefe de la casa Schwarzenberg, canciller de Václav Havel y ministro de Exteriores checo (2007–2009 y 2010–2013).",
+    "resumen": "Karel Schwarzenberg (Praga, 10-12-1937 – Viena, 12-11-2023), político, diplomático y estadista checo, jefe de la casa Schwarzenberg y canciller de Václav Havel. Fue ministro de Exteriores de la República Checa de 2007 a 2009 y de 2010 a 2013, líder y cofundador del partido TOP 09, candidato a presidente en 2013 y diputado de 2010 a 2021.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
       "url": "https://wiki.riteme.site/wiki/Karl_Schwarzenberg",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Karel Schwarzenberg",
+      "url": "https://es.wikipedia.org/wiki/Karel_Schwarzenberg",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -46711,7 +46830,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lady Mary Wortley Montagu (Londres, 1689 – 1762), escritora británica. Introdujo la variolización en Inglaterra tras verla en Turquía y escribió las «Cartas turcas».",
+    "resumen": "Lady Mary Wortley Montagu (Londres, 15-5-1689 – 21-8-1762), aristócrata, pionera de la medicina, escritora y poeta inglesa. En 1712 se casó con Edward Wortley Montagu, después embajador ante la Sublime Puerta, y lo acompañó a Turquía, donde pasó dos años y escribió mucho sobre la vida de las mujeres otomanas («Cartas turcas»). Introdujo en Inglaterra la variolización tras verla en Turquía. Murió de cáncer.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Lady Mary Wortley Montagu",
@@ -46921,7 +47040,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lenaert Leys (Brecht, 1-10-1554 – Lovaina, 15-1-1623), escolástico tardío cuyas ideas sobre contratos y mercados defendían el capitalismo naciente.",
+    "resumen": "Lenaert Leys, Leonardus Lessius (Brecht, 1-10-1554 – Lovaina, 15-1-1623), jurista, teólogo y economista jesuita de Brabante, apodado «el oráculo de los Países Bajos». Figura de la Escuela de Salamanca e inspirador de juristas posteriores como Grocio, Juan de Lugo y Pedro de Oñate. Sus ideas sobre contratos y mercados se leen como defensa del capitalismo naciente.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -47900,7 +48019,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ambrosio Teodosio Macrobio (activo hacia el año 400), gramático y escritor neoplatónico romano de la que se sabe poco con certeza. Autor de las «Saturnales» y del comentario al «Sueño de Escipión».",
+    "resumen": "Ambrosio Teodosio Macrobio (activo hacia el año 400), escritor y gramático neoplatónico romano del último cuarto del siglo IV, de cuya biografía se sabe poco con certeza. Autor de las «Saturnales» y del comentario al «Sueño de Escipión».",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -47961,7 +48080,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Genetista y física (12-11-1941 – 24-3-2016). El autor da su muerte en 2018 (error). Sus ideas sobre cristales líquidos y «arco iris» han sido criticadas como pseudociencia.",
+    "resumen": "Mae-Wan Ho (12-11-1941 – 24-3-2016), genetista conocida por sus críticas a la ingeniería genética y a la teoría de la evolución. Autora o coautora de diez libros, entre ellos «The Rainbow and the Worm» (1993, 1998), «Genetic Engineering: Dream or Nightmare?» (1998) y «Living Rainbow H2O» (2012). Fue criticada por abrazar la pseudociencia; sus ideas sobre cristales líquidos y «arco iris» se consideran tales. El autor da su muerte en 2018 (error).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mae-Wan Ho",
@@ -48142,12 +48261,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Marco Antonio de Dominis (1560–1624), arzobispo de Spalato; pasó a Inglaterra en 1616, publicó allí la Historia del Concilio de Trento de Sarpi (1619) y murió preso de la Inquisición.",
+    "resumen": "Marco Antonio de Dominis (isla de Rab, Dalmacia, 1560 – Roma, 1624), jesuita, obispo católico y científico dálmata. Formado en la Compañía de Jesús, fue profesor de matemáticas, retórica y filosofía en Brescia y Padua y arzobispo de Spalato (Split). Durante un tiempo dejó su fe y fue considerado apóstata; pasó a Inglaterra en 1616, publicó allí la Historia del Concilio de Trento de Sarpi (1619) y murió preso de la Inquisición.",
     "fuentes": [
      {
       "titulo": "Linguistic DNA (catálogo EEBO)",
       "url": "https://www.linguisticdna.org/cmd/book_n/quad/wit_n/wonderful_a/world_n",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Marco Antonio de Dominis",
+      "url": "https://es.wikipedia.org/wiki/Marco_Antonio_de_Dominis",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -49037,7 +49161,7 @@ window.CRONO = {
    "estado": "aprobado",
    "vivo": true,
    "oficial": {
-    "resumen": "Mervyn King (Chesham Bois, 30-3-1948), economista británico; gobernador del Banco de Inglaterra de julio de 2003 a junio de 2013 y par vitalicio (barón King of Lothbury) desde julio de 2013.",
+    "resumen": "Mervyn Allister King, barón King of Lothbury (Chesham Bois, 30-3-1948), economista y servidor público británico. Estudió economía en King's College (Cambridge) y Harvard. Fue gobernador del Banco de Inglaterra de julio de 2003 a junio de 2013 y par vitalicio desde julio de 2013; es profesor emérito de la London School of Economics.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mervyn King, Baron King of Lothbury",
@@ -49120,7 +49244,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nacido en Sofía el 30-1-1938; historiador, novelista y diputado de la Knéset. Vivo según las fuentes consultadas.",
+    "resumen": "Michael Bar-Zohar (Sofía, 30-1-1938), historiador, novelista y político israelí. Fue diputado de la Knéset por el Alineamiento y el Partido Laborista en los años ochenta y comienzos de los noventa. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -49417,7 +49541,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nació el 22-7-1889 en San Luis y murió el 27-9-1976 en Chicago. Se graduó en Rush Medical College en 1912 y fue editor del JAMA de 1924 a 1949 o 1950.",
+    "resumen": "Morris Fishbein (San Luis, 22-7-1889 – Chicago, 27-9-1976), médico estadounidense. Se graduó en Rush Medical College en 1912 y fue editor del Journal of the American Medical Association (JAMA) de 1924 a 1949 o 1950. Es criticado en la comunidad quiropráctica por su papel principal en la campaña para acabar con la quiropráctica como profesión, que consideraba basada en pseudociencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Morris Fishbein",
@@ -50914,7 +51038,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Paracelso (Theophrastus von Hohenheim; Einsiedeln, c. 1493 – Salzburgo, 24-9-1541), médico y alquimista suizo, dio a la química un papel central en la medicina y rompió con la tradición galénica.",
+    "resumen": "Theophrastus Bombast von Hohenheim, Paracelso (Einsiedeln, c. 1493 – Salzburgo, 24-9-1541), alquimista, médico y astrólogo suizo. Se le creía capaz de la transmutación del plomo en oro y dio nombre al zinc («zincum»). Dio a la química un papel central en la medicina y rompió con la tradición galénica.",
     "fuentes": [
      {
       "titulo": "Britannica: Paracelsus",
@@ -51066,7 +51190,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Corresponsal de la CBS en la Segunda Guerra Mundial y autor de Martin Bormann: Nazi in Exile (1981). Las fuentes consultadas no dan su año de nacimiento; murió en 1995.",
+    "resumen": "Paul Manning (m. 1995), periodista de radio estadounidense. Trabajó estrechamente con Edward R. Murrow en la Segunda Guerra Mundial como corresponsal de CBS Radio y después con la Mutual Broadcasting System. Autor de «Martin Bormann: Nazi in Exile» (1981). Las fuentes consultadas no dan su año de nacimiento.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -51227,7 +51351,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pablo V (Camillo Borghese) fue papa de 1605 a 1621. Lanzó el entredicho contra Venecia en 1606; bajo su pontificado la Inquisición condenó en 1616 la doctrina copernicana y advirtió a Galileo.",
+    "resumen": "Pablo V (Camillo Borghese; Roma, 17-9-1552 – Roma, 28-1-1621), 233.º papa de la Iglesia católica, de 1605 a 1621. Lanzó el entredicho contra Venecia en 1606; bajo su pontificado la Inquisición condenó en 1616 la doctrina copernicana y advirtió a Galileo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Paulo V",
@@ -51527,12 +51651,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Philippe de Mornay (Buhy, 5-11-1549 – La Forêt-sur-Sèvre, 11-11-1623), mano derecha de Enrique IV y redactor del Edicto de Nantes; estudió en Padua.",
+    "resumen": "Philippe de Mornay, señor de Plessis Marly (Buhy, 5-11-1549 – La Forêt-sur-Sèvre, 11-11-1623), escritor protestante francés y miembro de los monarcómacos. Fue mano derecha de Enrique IV y redactor del Edicto de Nantes; estudió en Padua.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/392541",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Felipe de Mornay",
+      "url": "https://es.wikipedia.org/wiki/Felipe_de_Mornay",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -52145,7 +52274,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Plotino (c. 204 – 270), filósofo griego nacido en Egipto, fundó el neoplatonismo y enseñó en Roma desde c. 244. Sus tratados los reunió su discípulo Porfirio en las «Enéadas».",
+    "resumen": "Plotino (c. 204/205 – 270), filósofo helenístico nacido en Egipto, educado en Alejandría con Amonio Saccas y establecido finalmente en Roma, donde enseñó desde c. 244. Fundó el neoplatonismo, corriente que integraron también Numenio de Apamea, Porfirio, Jámblico y Proclo. Su obra es en esencia un comentario original de Platón, más estructurado que el de Filón de Alejandría. Sus tratados los reunió su discípulo Porfirio en las «Enéadas».",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -52394,7 +52523,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Reinhard Kopps, alias Juan Maler (Hamburgo, 29-9-1914 – Bariloche, 11-9-2001); en 1994 delató a Priebke ante la cadena ABC.",
+    "resumen": "Reinhard Kopps, alias Juan Maler o Mahler (Hamburgo, 29-9-1914 – Bariloche, 11-9-2001), oficial de las SS durante la Segunda Guerra Mundial. Tras la derrota alemana ayudó a nazis a huir a Argentina y acabó huyendo él mismo; vivió en Bariloche con nombre falso, la misma ciudad donde residía Erich Priebke. En 1994 delató a Priebke ante la cadena ABC.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Reinhard Kopps",
@@ -53074,7 +53203,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Robert Allan Monroe (Lexington, 1915 – 1995), empresario de radio estadounidense. Fundó en 1958 el Monroe Institute y popularizó el término «proyección astral» con «Journeys Out of the Body» (1971).",
+    "resumen": "Robert Allan Monroe (Virginia, 30-10-1915 – 17-3-1995), ejecutivo de publicidad y de radio estadounidense, conocido por su investigación sobre los estados alterados de conciencia. A su libro «Journeys Out of the Body» (1971) se le atribuye haber popularizado el término «experiencia extracorporal» (proyección astral). En 1978 fundó el Instituto Monroe, que continuó su trabajo tras su muerte. Nota: la ficha decía 1958 como año de fundación; la fuente consultada dice 1978.",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com",
@@ -53122,7 +53251,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Físico estadounidense (14-2-1911 – 1-11-1989), de la Universidad de Chicago y el Proyecto Manhattan; propuso un modelo del núcleo con sólidos platónicos anidados.",
+    "resumen": "Robert James Moon (Chicago, 14-2-1911 – 1-11-1989), físico, químico e ingeniero estadounidense. Graduado de la Universidad de Chicago, fue miembro de su facultad y participó en el Proyecto Manhattan. Propuso un modelo del núcleo atómico con sólidos platónicos anidados.",
     "fuentes": [
      {
       "titulo": "Atomic Heritage Foundation",
@@ -53364,7 +53493,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nacido en Londres el 21-8-1927; fundó en 1958 la Northern League, de ideología neonazi. Vivo según las fuentes consultadas.",
+    "resumen": "Roger Pearson (Londres, 21-8-1927), antropólogo físico y eugenista británico, supremacista blanco, organizador político de la extrema derecha y editor de revistas políticas y académicas. Sirvió en el ejército británico tras la Segunda Guerra Mundial y fue empresario en el sur de Asia. En 1958 fundó la Northern League, de ideología neonazi. Enseñó en varias universidades de Estados Unidos. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -54033,7 +54162,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Samuel Oppenheimer (1630-1703), banquero judío de la corte imperial de Viena desde 1680 y proveedor del ejército en las guerras turcas; coleccionista de manuscritos y arte.",
+    "resumen": "Samuel Oppenheimer (21-6-1630 – 3-5-1703), banquero judío asquenazí, diplomático de la corte imperial y proveedor militar del emperador del Sacro Imperio. Gozó del favor especial de Leopoldo I, a quien adelantó sumas considerables para la Gran Guerra Turca. Aunque los judíos habían sido expulsados de Viena en 1670, el emperador le permitió instalarse allí con su séquito. Fue coleccionista de manuscritos y arte; el príncipe Eugenio de Saboya le llevó de Turquía numerosos manuscritos hebreos, núcleo de la biblioteca David Oppenheim, hoy parte de la Bodleian de Oxford.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Samuel Oppenheimer",
@@ -54356,7 +54485,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Sofía Chotek (1868-1914), condesa y después duquesa de Hohenberg, fue la esposa morganática del archiduque Francisco Fernando. Murió asesinada con él en Sarajevo el 28 de junio de 1914.",
+    "resumen": "Sofía Chotek von Chotkowa, duquesa de Hohenberg (Stuttgart, 1-3-1868 – Sarajevo, 28-6-1914), esposa morganática del archiduque Francisco Fernando, heredero del trono austrohúngaro. Su asesinato junto con él en Sarajevo desencadenó los hechos que llevaron a la Primera Guerra Mundial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sofía Chotek",
@@ -54645,12 +54774,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Stephen Samuel Wise (Budapest, 17-3-1874 – Nueva York, 19-4-1949), fundador del Congreso Judío Mundial. Murió en 1949; la ADL se fundó en 1913.",
+    "resumen": "Stephen Samuel Wise (Budapest, 17-3-1874 – Nueva York, 19-4-1949), rabino reformista, activista político y líder sionista estadounidense de origen húngaro. Su familia emigró a Estados Unidos cuando era niño; estudió en Columbia College y se doctoró en la Universidad de Columbia en 1901. En 1898 asistió al Segundo Congreso Sionista. Fundador del Congreso Judío Mundial. Murió en 1949; la ADL se fundó en 1913.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/print/article/645941",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Stephen Samuel Wise",
+      "url": "https://es.wikipedia.org/wiki/Stephen_Samuel_Wise",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -54820,7 +54954,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Theodore Olson (11-9-1940 – 13-11-2024), abogado estadounidense, Solicitor General de EE. UU. de 2001 a 2004. Su esposa, Barbara Olson, murió el 11-9-2001 en el vuelo 77.",
+    "resumen": "Theodore Bevry Olson (11-9-1940 – 13-11-2024), abogado estadounidense. Fue Solicitor General (número 42) de 2001 a 2004 con George W. Bush; antes, subsecretario de Justicia de la Oficina de Asesoría Legal de 1981 a 1984 con Reagan, y socio durante años del bufete Gibson Dunn. Su esposa, Barbara Olson, murió el 11-9-2001 en el vuelo 77.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Theodore Olson",
@@ -55144,7 +55278,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thomas Harrington McKittrick (St. Louis, 1889 – Newton, Nueva Jersey, 1970), banquero estadounidense, presidente del BPI de enero de 1940 a junio de 1946; después trabajó en el Chase National Bank.",
+    "resumen": "Thomas Harrington McKittrick (St. Louis, 1889 – Newton, Nueva Jersey, 1970), banquero estadounidense, presidente del Banco de Pagos Internacionales (BPI) de enero de 1940 a junio de 1946, durante la Segunda Guerra Mundial. Su estrecha relación con el Tercer Reich de Hitler ha suscitado polémica. Después trabajó en el Chase National Bank.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Thomas H. McKittrick",
@@ -55530,7 +55664,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nacido en Washington en 1953, de familia diplomática argentina; autor de La auténtica Odessa sobre la huida de nazis a la Argentina de Perón. Vivo según las fuentes consultadas.",
+    "resumen": "Uki Goñi (Washington, 17-10-1953), autor e historiador argentino de familia diplomática. Su investigación se centra en el papel del Vaticano, las autoridades suizas y el gobierno argentino en la organización de las «ratlines», rutas de escape para criminales de guerra nazis y colaboradores. Autor de «La auténtica Odessa» sobre la huida de nazis a la Argentina de Perón. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Uki Goñi",
@@ -55867,7 +56001,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pintor, escultor y escritor estadounidense (1871–1963) que publicó una cosmología propia tras una experiencia de «iluminación» en 1921; no tiene reconocimiento científico.",
+    "resumen": "Walter Bowman Russell (19-5-1871 – 19-5-1963), pintor impresionista, escultor, promotor inmobiliario y escritor estadounidense. Escribió mucho sobre temas de ciencia, pero sus ideas no atrajeron la atención de los científicos; publicó una cosmología propia tras una experiencia de «iluminación» en 1921 y no tiene reconocimiento científico.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -56158,7 +56292,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "William Harvey (Folkestone, 1-4-1578 – Londres, 3-6-1657) estudió en Padua y fue médico de Jacobo I y Carlos I. En 1628 publicó «De motu cordis», donde describió la circulación de la sangre.",
+    "resumen": "William Harvey (Folkestone, 1-4-1578 – Londres, 3-6-1657), médico inglés a quien se atribuye haber descrito correctamente por primera vez la circulación de la sangre y las propiedades de esta al ser distribuida por el cuerpo por el bombeo del corazón. Estudió en Padua y fue médico de Jacobo I y Carlos I; su descripción se publicó en 1628 en «De motu cordis». En 1651 mencionó por primera vez el concepto de ovocito con la sentencia «ex ovo omnia».",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica",
@@ -56281,7 +56415,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "William Wynn Westcott (1848–1925), médico forense y ocultista inglés; cofundó la Golden Dawn (1888) y escribió «Numbers: Their Occult Powers and Mystic Virtues». Fechas por comprobar.",
+    "resumen": "William Wynn Westcott (Leamington, Warwickshire, 17-12-1848 – 30-7-1925), forense, mago ceremonial, teósofo y masón británico. Fue Supremo Mago (jefe) de la S.R.I.A. y cofundó la Golden Dawn (1888). Escribió «Numbers: Their Occult Powers and Mystic Virtues».",
     "fuentes": [
      {
       "titulo": "Wikipedia: William Wynn Westcott",
@@ -56547,12 +56681,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Zacharias Janssen (La Haya, 1588 – Ámsterdam, 1628 o 1631), óptico al que se ha atribuido, sin pruebas firmes, la invención del telescopio y del microscopio.",
+    "resumen": "Zacharias Janssen (Middelburg, c. 1585–1588 – c. 1628–1632), inventor y fabricante de lentes holandés, formado con su padre Hans Janssen, también óptico. Es conocido por su trabajo en los primeros microscopios compuestos; se le ha atribuido, sin pruebas firmes, la invención del telescopio y del microscopio. Las fuentes discrepan en su lugar y fechas de nacimiento y muerte.",
     "fuentes": [
      {
       "titulo": "Biografías y Vidas",
       "url": "https://www.biografiasyvidas.com/biografia/j/janssen_zacharias.htm",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia: Zacharias Janssen",
+      "url": "https://es.wikipedia.org/wiki/Zacharias_Janssen",
+      "consultado": "2026-11-22"
      }
     ]
    },
@@ -57409,7 +57548,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Na⁺/K⁺-ATPasa fue descubierta en 1957 por Jens Skou (Nobel de Química 1997): saca tres iones de sodio y mete dos de potasio por cada molécula de ATP.",
+    "resumen": "La bomba de sodio-potasio (Na⁺/K⁺-ATPasa) es una enzima de transporte activo presente en la membrana de todas las células animales; usa la energía del ATP. Por cada molécula de ATP exporta tres iones de sodio e importa dos de potasio, de modo que hay una exportación neta de una carga positiva por ciclo, y la concentración extracelular de sodio es unas cinco veces la intracelular. Fue descubierta en 1957 por Jens Skou (Nobel de Química 1997).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sodium–potassium pump",
