@@ -118,6 +118,9 @@ button, input, select { font: inherit; color: inherit; }
 .regla-s span.sg { left: auto; right: calc(100% + 10px); top: -8px; font: italic 600 12.5px var(--f-lectura); color: var(--tenue); background: none; padding: 0; white-space: nowrap; }
 .tk { position: absolute; font: 500 11.5px var(--f-num); color: var(--tenue); transform: translateY(-50%); font-variant-numeric: tabular-nums; }
 .tk::after { content: ""; position: absolute; top: 50%; width: 6px; border-top: 1px solid var(--tenue); margin-left: 5px; }
+.rs { position: absolute; width: 12px; box-sizing: border-box; border-right: 3px solid transparent; font: 600 10px/1 var(--f-ui); color: var(--bg); display: flex; align-items: flex-start; justify-content: center; padding-top: 2px; overflow: hidden; opacity: .9; }
+.rs-i { border-top: 1px solid var(--bg); }
+.rail-h { position: absolute; bottom: 4px; width: 12px; text-align: center; font: 600 13px var(--f-ui); color: var(--tenue); }
 .eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
 .hueco { position: absolute; display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--tenue); font-style: italic; font-family: var(--f-lectura); }
 .hueco::before { content: ""; width: 16px; border-top: 2px dotted var(--tenue); }
@@ -579,7 +582,6 @@ button, input, select { font: inherit; color: inherit; }
   <header class="barra">
     <div class="fila1">
       <div class="marca"><h1>BIENVENIDO A WEXIPEDIA</h1><span>CRONOLOGÍA RIGUROSA BASADA EN AUTORES</span></div>
-      <a class="btn" href="#/transitos" id="volver-transitos" title="Volver a la portada de tránsitos">← Tránsitos</a>
       <div class="seg" role="group" aria-label="Tamaño de las tarjetas">
         <button type="button" data-modo="detalle">Detalle</button>
         <button type="button" data-modo="compacto">Compacto</button>
@@ -805,6 +807,48 @@ function sellosTarjeta(f) {
   return `<span class="tj-s">${co.map(c => `<span class="sello">Coincide con ${esc(c.nombre)}</span>`).join("")}${di ? `<span class="discrepa">Estos autores discrepan</span>` : ""}</span>`;
 }
 const GLIFO_PL = { "Júpiter": "♃", "Saturno": "♄", "Urano": "♅", "Neptuno": "♆", "Plutón": "♇" };
+// Franja de tránsitos (2026-11-22): un carril por planeta lento a la izquierda del eje, con el signo que ocupa
+// en cada momento (datos de transitos-datos.js: ingresos 1600-2100). Las entradas breves por retrogradación
+// (< 1 año) se funden con el tramo anterior.
+const GLIFO_SIGNO = ["♈", "♉", "♊", "♋", "♌", "♍", "♎", "♏", "♐", "♑", "♒", "♓"];
+let SEG_TR = null;
+function segmentosTransitos() {
+  if (SEG_TR) return SEG_TR;
+  SEG_TR = [];
+  const TR = window.TRANSITOS; if (!TR) return SEG_TR;
+  const fr = r => r[0] + (r[1] - 1) / 12 + (r[2] - 1) / 372;
+  TR.planetas.forEach(pl => {
+    const ing = TR.ingresos[pl] || []; if (!ing.length) return;
+    let segs = [{ d: 1600, h: null, sg: TR.signos.indexOf(ing[0][3]) }];
+    ing.forEach(r => { segs[segs.length - 1].h = fr(r); segs.push({ d: fr(r), h: null, sg: TR.signos.indexOf(r[4]), ini: r.slice(0, 3) }); });
+    segs[segs.length - 1].h = 2100;
+    const f = [];
+    segs.forEach(g => { const u = f[f.length - 1];
+      if (u && g.h - g.d < 1 && f.length > 1) u.h = g.h;
+      else if (u && u.sg === g.sg) u.h = g.h;
+      else f.push({ ...g }); });
+    SEG_TR.push({ pl, segs: f });
+  });
+  return SEG_TR;
+}
+function franjaTransitos(T, a, b) {
+  const TR = window.TRANSITOS; if (!TR) return "";
+  let h = "";
+  const EL = ["fuego", "tierra", "aire", "agua"], MO = ["cardinal", "fijo", "mutable"];
+  segmentosTransitos().forEach(({ pl, segs }, i) => segs.forEach(g => {
+    if (g.h < a || g.d > b) return;
+    const ini0 = Math.max(g.d, a), fin0 = Math.min(g.h, b);
+    const sg = TR.signos[g.sg], ini = g.ini ? `${g.ini[2]}-${g.ini[1]}-${g.ini[0]}` : "antes de 1600";
+    // Un trozo por década, para que el glifo del signo se vea en cada pantalla.
+    for (let t0 = ini0, k = 0; t0 < fin0 - 1e-6; k++) {
+      const t1 = Math.min(fin0, (Math.floor(t0 / 10) + 1) * 10);
+      const y0 = T(t0), y1 = T(t1);
+      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--el-${EL[g.sg % 4]});border-right-color:var(--mod-${MO[g.sg % 3]})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
+      t0 = t1;
+    }
+  }));
+  return h;
+}
 const GLIFO_SG = { Ari: "♈", Tau: "♉", Gem: "♊", Can: "♋", Leo: "♌", Vir: "♍", Lib: "♎", Esc: "♏", Sag: "♐", Cap: "♑", Acu: "♒", Pis: "♓" };
 const GLIFO_AS = { "conjunción": "☌", sextil: "⚹", cuadratura: "□", trígono: "△", oposición: "☍" };
 function chipCielo(f) {
@@ -872,8 +916,9 @@ function maquetar(conservar) {
 
   // Personas (REGLAS §8, 2026-11-12): sin barras ni tarjetas. El eje de años hace de lupa: al pasar el ratón
   // o tocarlo salen quienes vivían ese año; al elegir una persona, su vida se marca sobre el eje.
-  const ejeW = estrecho ? 58 : 76, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
-  const zonas = [{ x: 0, w: ejeW }];
+  const ejeW = estrecho ? 58 : 136, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
+  const RAIL = estrecho ? 0 : 58;   // franja de tránsitos a la izquierda (2026-11-22)
+  const zonas = [{ x: RAIL, w: ejeW - RAIL }];
   // La columna «Cielo» ya no se dibuja (2026-11-20): el cielo va en la cabecera de la década
   // (chips de los cinco ciclos y de las sinergias) y en la etiqueta de cada tarjeta.
   const verCielo = !!(CIELO && st.cielo);
@@ -931,6 +976,7 @@ function maquetar(conservar) {
     if (i % 2 === 0) h += `<div class="banda" style="top:${a}px;height:${b - a}px"></div>`;
     if (b - a > 40) h += `<div class="era-n" style="top:${a + 6}px">${e.n}</div>`; });
   h += `<div class="eje-l" style="left:${ejeW}px"></div>`;
+  if (!estrecho) h += franjaTransitos(T, dec0 * 10, dec1 * 10 + 9);
   const enHueco = d => huecos.some(([i, j]) => d - dec0 >= i && d - dec0 < j);
 
   // Épocas (banda vertical) y cabeceras de década (2026-11-20)
@@ -994,6 +1040,7 @@ function maquetar(conservar) {
   else cols.forEach((g, i) => {
     const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
     c += `<div class="col-n" style="left:${xCol[i]}px;width:${colW}px;--grad:${grad}">${cs.map(k => `<i style="--c:${color(k)}"></i>`).join("")}<span>${esc(g.nombre)}</span></div>`; });
+  if (!estrecho && window.TRANSITOS) window.TRANSITOS.planetas.forEach((pl, i) => { c += `<span class="rail-h" style="left:${4 + i * 14}px" title="${esc(pl)}">${GLIFO_PL[pl]}</span>`; });
   cab.innerHTML = c;
   $("vzonas").innerHTML = zonas.map(z => `<div class="vz" style="left:${z.x}px;width:${z.w}px;height:${Math.max(acc, ...fondoCol) + 90}px"></div>`).join("");
 
@@ -1776,9 +1823,9 @@ function mostrarEje(desde) {
 }
 function alCambiarHash() {
   const h = location.hash || "";
-  if (h.startsWith("#/transitos")) {
-    mostrarTransitos();
-    if (window.TRANSITOS_APP) window.TRANSITOS_APP.render(h);
+  if (h.startsWith("#/transitos")) {   // vista aparte retirada (2026-11-22): los tránsitos van en la franja del eje
+    history.replaceState(null, "", "#/eje");
+    mostrarEje();
     return;
   }
   if (h.startsWith("#/eje")) {
