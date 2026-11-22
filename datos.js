@@ -7379,6 +7379,47 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "codice-de-dresde",
+   "tipo": "hecho",
+   "titulo": "El Códice de Dresde (siglo XIII) y su compra en 1739",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [],
+   "fecha": {
+    "desde": 1200,
+    "hasta": 1250,
+    "texto": "hacia 1200–1250; comprado en 1739",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Libro maya de Chichén Itzá con tablas de calendario, eclipses y Venus; la biblioteca de Dresde lo compró en 1739 a un particular de Viena.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Códice de Dresde es un libro maya originario de la región de Chichén Itzá (México), del siglo XIII (hacia 1200-1250); se cree que copia un texto original de trescientos o cuatrocientos años antes. Contiene registros astronómicos avanzados: tablas calendáricas, de eclipses, de ciclos solares y lunares y del ciclo de Venus, además de información astrológica ligada a deidades. Tiene 39 hojas escritas por ambos lados y 3,56 metros de largo. En 1739 lo compró Johann Christian Götze, director de la Biblioteca Real de Dresde, a un propietario privado de Viena; no se sabe cómo llegó a Viena, y se cree que pudo haberlo enviado Hernán Cortés en 1519 al rey Carlos I.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Códice de Dresde",
+      "url": "https://es.wikipedia.org/wiki/Códice_de_Dresde",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "cuenta-larga-maya",
+     "nota": "Sistema calendárico que recoge."
+    },
+    {
+     "id": "forstemann-descifra-calendario-maya",
+     "nota": "Su calendario fue descifrado entre 1880 y 1900."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
    "id": "colaboracion-kervran-komaki",
    "tipo": "hecho",
    "titulo": "Kervran y Komaki, transmutaciones con levaduras (1963)",
@@ -14315,6 +14356,46 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "forstemann-descifra-calendario-maya",
+   "tipo": "hecho",
+   "titulo": "Förstemann descifra el calendario y la numeración mayas (1880-1900)",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "temas": [],
+   "fecha": {
+    "desde": 1880,
+    "hasta": 1900,
+    "texto": "entre 1880 y 1900",
+    "fuente": "oficial"
+   },
+   "resumen": "El bibliotecario de Dresde Ernst Förstemann descifró entre 1880 y 1900 la sección de calendario del Códice de Dresde y los numerales mayas.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Entre 1880 y 1900, el bibliotecario de Dresde Ernst Wilhelm Förstemann logró descifrar la sección del calendario del Códice de Dresde, incluidos los numerales mayas que usa. Esos números forman un sistema vigesimal (de base 20) con tres símbolos: el cero (en forma de concha), el uno (un punto) y el cinco.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Códice de Dresde",
+      "url": "https://es.wikipedia.org/wiki/Códice_de_Dresde",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "codice-de-dresde",
+     "nota": "Manuscrito que descifró."
+    },
+    {
+     "id": "cuenta-larga-maya",
+     "nota": "Sistema de cómputo que permitió entender."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
   },
   {
    "id": "fortuna-rothschild",
@@ -60735,6 +60816,50 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "cuenta-larga-maya",
+   "tipo": "saber",
+   "titulo": "La Cuenta Larga maya y el fin del ciclo de 2012",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "temas": [],
+   "fecha": {
+    "desde": 179,
+    "texto": "inscripción maya más antigua: 5 de septiembre de 179",
+    "fuente": "oficial"
+   },
+   "resumen": "Sistema mesoamericano que cuenta los días desde el 11 de agosto de 3114 a. C.; su gran ciclo de 13 baktunes acabó el 21 de diciembre de 2012.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Cuenta Larga es un sistema calendárico de Mesoamérica que identifica los días contándolos desde el 11 de agosto de 3114 a. C. (calendario gregoriano; 6 de septiembre en el juliano), con numeración vigesimal. A diferencia del calendario de 365 días, no repite ningún día. El ciclo de 13 baktunes, que empezó el día 13.0.0.0.0 (4 ajau, 8 cumkú), terminó el 21 de diciembre de 2012 d. C., tras 5125,36 años solares (5200 tunes de 360 días, 1 872 000 días); después se reinició el ciclo. La inscripción en Cuenta Larga inequívocamente maya más antigua es la Estela 46 de El Palmar (México), del 5 de septiembre de 179 d. C., seguida de la Estela 29 de Tikal (292 d. C.); inscripciones epiolmecas, como la Estela 2 de Chiapa de Corzo, son más de 300 años anteriores a la de Tikal. La correlación con nuestro calendario más aceptada es la de Goodman, Martínez y Thompson (GMT), que iguala el 0.0.0.0.0 al día juliano 584 283, es decir, al 11 de agosto de 3114 a. C.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Cuenta larga",
+      "url": "https://es.wikipedia.org/wiki/Cuenta_larga",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Calendario maya",
+      "url": "https://es.wikipedia.org/wiki/Calendario_maya",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "codice-de-dresde",
+     "nota": "Manuscrito maya con sus tablas calendáricas."
+    },
+    {
+     "id": "forstemann-descifra-calendario-maya",
+     "nota": "Quien descifró el calendario del códice."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "ciencia"
   },
   {
