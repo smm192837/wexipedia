@@ -15302,6 +15302,42 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-de-afganistan-2001",
+   "tipo": "hecho",
+   "titulo": "Guerra de Afganistán (2001-2021)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 2001,
+    "hasta": 2021,
+    "texto": "7 de octubre de 2001 – 30 de agosto de 2021",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra iniciada con la invasión de EE. UU. y aliados en 2001 y terminada con la caída de Kabul en manos talibanes en 2021.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de Afganistán, o guerra afgano-estadounidense, se libró en ese país y en zonas de Pakistán. Empezó con la invasión de Estados Unidos y sus aliados el 7 de octubre de 2001 y terminó con la caída de Kabul en manos de los talibanes el 15 de agosto de 2021, seguida de la retirada total de tropas extranjeras el 30 de agosto. Con veinte años de duración, fue el conflicto más largo de Estados Unidos y de muchos de sus aliados.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Afganistán (2001-2021)",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Afganistán_(2001-2021)",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "atentados-11s",
+     "nota": "Antecedente de la invasión."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-de-corea",
    "tipo": "hecho",
    "titulo": "Guerra de Corea (1950-1953)",
@@ -15629,6 +15665,67 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-de-los-seis-dias-1967",
+   "tipo": "hecho",
+   "titulo": "Guerra de los Seis Días (1967)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1967,
+    "texto": "5 – 10 de junio de 1967",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre Israel y una coalición árabe (Egipto, Siria, Jordania e Irak), del 5 al 10 de junio de 1967.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de los Seis Días, o guerra de junio de 1967, fue un conflicto bélico que enfrentó a Israel con una coalición árabe formada por la República Árabe Unida (nombre oficial de Egipto entonces), Siria, Jordania e Irak, entre el 5 y el 10 de junio de 1967.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de los Seis Días",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Seis_Días",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-los-siete-anos",
+   "tipo": "hecho",
+   "titulo": "Guerra de los Siete Años (1756-1763)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1756,
+    "hasta": 1763,
+    "texto": "1756 – 1763",
+    "fuente": "oficial"
+   },
+   "resumen": "Serie de conflictos internacionales por Silesia y por la supremacía colonial en América del Norte y la India.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de los Siete Años fue una serie de conflictos internacionales entre principios de 1756 y finales de 1763 por el control de Silesia y la supremacía colonial en América del Norte y la India. Por un lado estaban Prusia, Hannover y Gran Bretaña con sus colonias americanas y, más tarde, Portugal; por el otro, Sajonia, Austria, Francia, Rusia, Suecia y España (esta última desde 1761). Respecto a la guerra de sucesión austríaca cambiaron las coaliciones, y el conflicto de Silesia y la rivalidad franco-británica siguieron siendo las claves.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de los Siete Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Siete_Años",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-de-secesion",
    "tipo": "hecho",
    "titulo": "Guerra de Secesión de Estados Unidos (1861-1865)",
@@ -15867,6 +15964,46 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-independencia-espanola",
+   "tipo": "hecho",
+   "titulo": "Guerra de la Independencia española (1808-1814)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1808,
+    "hasta": 1814,
+    "texto": "1808 – 1814",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra de España, Reino Unido y Portugal contra Napoleón, que quería poner en el trono español a su hermano José.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra de la Independencia española fue un conflicto bélico entre 1808 y 1814, dentro de las guerras napoleónicas. Enfrentó a España, el Reino Unido y Portugal contra Napoleón Bonaparte, que pretendía, tras las abdicaciones de Bayona, instalar en el trono español a su hermano José Bonaparte y convertir España en un Estado satélite del Primer Imperio francés.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de la Independencia española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_española",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerras-napoleonicas",
+     "nota": "Se enmarca en ellas."
+    },
+    {
+     "id": "napoleon-bonaparte",
+     "nota": "Su impulsor."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerra-independencia-estados-unidos",
    "tipo": "hecho",
    "titulo": "Guerra de Independencia de los Estados Unidos (1775-1783)",
@@ -16061,6 +16198,42 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-iran-irak-1980",
+   "tipo": "hecho",
+   "titulo": "Guerra Irán-Irak (1980-1988)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1980,
+    "hasta": 1988,
+    "texto": "septiembre de 1980 – agosto de 1988",
+    "fuente": "oficial"
+   },
+   "resumen": "Guerra entre Irán e Irak que empezó con la invasión iraquí de Irán y terminó sin reparaciones ni cambios territoriales.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra Irán-Irak fue un conflicto armado entre ambos países que duró desde septiembre de 1980 hasta agosto de 1988. Las hostilidades empezaron con la invasión iraquí de Irán y duraron casi ocho años, hasta que ambas partes aceptaron la Resolución 598 del Consejo de Seguridad de la ONU. Se resolvió por la fuerte presión internacional, sin reparaciones ni cambios territoriales.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra Irán-Irak",
+      "url": "https://es.wikipedia.org/wiki/Guerra_Irán-Irak",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-islamica-1979",
+     "nota": "Antecedente inmediato en Irán."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -16348,6 +16521,37 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerras-del-opio",
+   "tipo": "hecho",
+   "titulo": "Guerras del Opio (1839-1860)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1839,
+    "hasta": 1860,
+    "texto": "1839 – 1842 y 1856 – 1860",
+    "fuente": "oficial"
+   },
+   "resumen": "Dos guerras entre China y el Reino Unido (la segunda, con Francia) por el comercio del opio.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las guerras del Opio, o guerras anglo-chinas, fueron dos conflictos del siglo XIX entre los imperios chino y británico. La primera duró de 1839 a 1842; la segunda, en la que Francia se alió con los británicos, estalló en 1856 y duró hasta 1860. Sus causas fueron los intereses comerciales ligados al contrabando británico de opio de la India a China y los esfuerzos del gobierno chino por imponer sus leyes a ese comercio.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerras del Opio",
+      "url": "https://es.wikipedia.org/wiki/Guerras_del_Opio",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "guerras-napoleonicas",
    "tipo": "hecho",
    "titulo": "Guerras napoleónicas (1803-1815)",
@@ -16433,6 +16637,37 @@ window.CRONO = {
      }
     ]
    },
+   "vista": "politica"
+  },
+  {
+   "id": "guerras-yugoslavas",
+   "tipo": "hecho",
+   "titulo": "Guerras yugoslavas (1991-2001)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1991,
+    "hasta": 2001,
+    "texto": "1991 – 2001",
+    "fuente": "oficial"
+   },
+   "resumen": "Serie de conflictos en el territorio de la antigua Yugoslavia entre 1991 y 2001.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las guerras yugoslavas fueron una serie de conflictos en el territorio de la antigua Yugoslavia entre 1991 y 2001. Comprendieron dos grupos de guerras sucesivas que afectaron a las seis ex repúblicas yugoslavas. También se llaman guerra de la antigua Yugoslavia o guerra de los Balcanes.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerras yugoslavas",
+      "url": "https://es.wikipedia.org/wiki/Guerras_yugoslavas",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -17269,6 +17504,124 @@ window.CRONO = {
     ]
    },
    "vista": "ciencia"
+  },
+  {
+   "id": "imperio-austrohungaro-1867",
+   "tipo": "hecho",
+   "titulo": "Imperio austrohúngaro (1867-1918)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1867,
+    "hasta": 1918,
+    "texto": "1867 – 1918",
+    "fuente": "oficial"
+   },
+   "resumen": "Estado creado en 1867 por el compromiso austrohúngaro, bajo la Casa de Habsburgo-Lorena, y disuelto en 1918.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Imperio austrohúngaro, o Austria-Hungría, fue un Estado europeo creado en 1867 tras la derrota del Imperio austríaco en la guerra austro-prusiana, que llevó al compromiso austrohúngaro. Ese acuerdo equiparó el estatus del Reino de Hungría con el del Imperio austríaco, bajo un mismo monarca de la Casa de Habsburgo-Lorena, con los títulos de Emperador de Austria y Rey de Hungría. Francisco José I gobernó de 1867 a 1916, y le siguió su sobrino nieto Carlos I hasta 1918. Fue la última fase de la monarquía de los Habsburgo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Imperio austrohúngaro",
+      "url": "https://es.wikipedia.org/wiki/Imperio_austrohúngaro",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "casa-de-habsburgo",
+     "nota": "Dinastía reinante."
+    },
+    {
+     "id": "primera-guerra-mundial",
+     "nota": "Se disolvió al terminar."
+    },
+    {
+     "id": "francisco-fernando",
+     "nota": "Su heredero, asesinado en 1914."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "imperio-britanico",
+   "tipo": "hecho",
+   "titulo": "Imperio británico (siglos XVI-XX)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1500,
+    "hasta": 1999,
+    "texto": "siglos XVI – XX",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Dominios, colonias, protectorados y mandatos del Reino de Inglaterra y después del Reino Unido; el imperio más extenso hasta hoy.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Imperio británico comprendió los dominios, colonias, protectorados, mandatos y otros territorios gobernados o administrados por el Reino de Inglaterra y su sucesor, el Reino Unido, entre los siglos XVI y XX. Ha sido el imperio de mayor extensión hasta la fecha. Su legado actual es la angloesfera y la Mancomunidad de Naciones.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Imperio británico",
+      "url": "https://es.wikipedia.org/wiki/Imperio_británico",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "mandato-britanico-de-palestina",
+     "nota": "Uno de sus mandatos."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "imperio-espanol",
+   "tipo": "hecho",
+   "titulo": "Imperio español (siglos XV-XX)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1400,
+    "hasta": 1999,
+    "texto": "siglo XV – siglo XX",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Primer imperio global, gobernado por las dinastías y gobiernos de España desde el siglo XV hasta el XX.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El imperio español, en la historiografía moderna, designa un Estado expansivo y hegemónico que generó nuevas sociedades y reorganizó territorios. Se llamó oficialmente Monarquía de España, Española o Católica, y más tarde Reino de España y de Indias; «Monarquía Hispánica» es una denominación historiográfica del siglo XX. Se considera el primer imperio global: gobernado por las dinastías y gobiernos de España desde el siglo XV hasta el XX, integró por primera vez sociedades y territorios en todos los continentes.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Imperio español",
+      "url": "https://es.wikipedia.org/wiki/Imperio_español",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "casa-de-habsburgo",
+     "nota": "Dinastía que lo gobernó en los siglos XVI y XVII."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
   },
   {
    "id": "imperio-romano-continua",
@@ -28060,6 +28413,81 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "revolucion-china-1949",
+   "tipo": "hecho",
+   "titulo": "Revolución china de 1949",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1949,
+    "texto": "1949",
+    "fuente": "oficial"
+   },
+   "resumen": "Resultado final de la guerra civil china entre el Partido Nacionalista de Chiang Kai-shek y el Partido Comunista de Mao Zedong.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La revolución china de 1949 fue el resultado final de la larga guerra civil china, que enfrentó al Partido Nacionalista de Chiang Kai-shek con el Partido Comunista Chino dirigido por Mao Zedong.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución china",
+      "url": "https://es.wikipedia.org/wiki/Revolución_china",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "mao-zedong",
+     "nota": "Líder del bando vencedor."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Marco en que se inscribe."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-cubana",
+   "tipo": "hecho",
+   "titulo": "Revolución cubana (1953-1959)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1953,
+    "hasta": 1958,
+    "texto": "26 de julio de 1953 – 31 de diciembre de 1958",
+    "fuente": "oficial"
+   },
+   "resumen": "Movimiento de Fidel Castro contra la dictadura de Batista, desde el asalto al Moncada hasta la derrota de Batista.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Revolución cubana fue un movimiento nacionalista de izquierda liderado por el guerrillero Fidel Castro y el Movimiento 26 de Julio contra la dictadura militar de Fulgencio Batista. Empezó el 26 de julio de 1953 con el asalto al cuartel Moncada y continuó de forma intermitente hasta que los rebeldes derrotaron a Batista el 31 de diciembre de 1958 y lo sustituyeron en el gobierno. El Movimiento 26 de Julio se reformó después en líneas marxista-leninistas y se convirtió en el Partido Comunista de Cuba en octubre de 1965.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución cubana",
+      "url": "https://es.wikipedia.org/wiki/Revolución_cubana",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Marco en que se inscribe."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "revolucion-francesa-1789",
    "tipo": "hecho",
    "titulo": "Revolución francesa (1789–1799)",
@@ -28111,6 +28539,42 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-industrial",
+   "tipo": "hecho",
+   "titulo": "Revolución Industrial (hacia 1750-1840)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1750,
+    "hasta": 1840,
+    "texto": "segunda mitad del siglo XVIII – entre 1820 y 1840",
+    "aprox": true,
+    "fuente": "oficial"
+   },
+   "resumen": "Transformación económica, social y tecnológica iniciada en Gran Bretaña con la máquina de vapor de Watt.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Revolución Industrial fue el proceso de transformación económica, social y tecnológica que empezó en la segunda mitad del siglo XVIII con la invención y aplicación práctica de la máquina de vapor perfeccionada por James Watt en el Reino de Gran Bretaña. Se extendió décadas después a gran parte de Europa Occidental y a la América anglosajona, y concluyó entre 1820 y 1840. Fue el mayor conjunto de transformaciones económicas y tecnológicas desde el Neolítico: de una economía agrícola y comercial a otra urbana, industrializada y mecanizada.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución Industrial",
+      "url": "https://es.wikipedia.org/wiki/Revolución_Industrial",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-francesa-1789",
+     "nota": "Coetánea."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
