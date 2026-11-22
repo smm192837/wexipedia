@@ -583,6 +583,17 @@ window.CRONO = {
      "resumen": "Vida y obra de Rudolf Steiner en tres etapas (filosófica, teosófica, antroposófica) y su legado: Waldorf, medicina antroposófica y agricultura biodinámica, con Goethe como base.",
      "url": null,
      "fecha": null
+    },
+    {
+     "id": "la-voz-de-arthur-31-reich",
+     "titulo": "La voz de Arthur nº 31: Wilhelm Reich, los experimentos con biones (1935-1944)",
+     "tipo": "video",
+     "referencia": "Vídeo de la serie «La voz de Arthur», n.º 31, canal Artur Sala Magna Ciencia. URL https://www.youtube.com/watch?v=FYyzxF9F_Zk (estreno 21-11-2026; datos de la descripción aportados por smiguel1). Transcripción pendiente.",
+     "estado": "en-proceso",
+     "duracion": "27 min o más (último capítulo: 26:35)",
+     "resumen": "Según la descripción: Reich y los biones (Noruega, 1935-1939), el orgón (EE. UU., 1942) y el experimento XX de finales de 1944, con el capítulo del segundo libro Magna Ciencia «El verdadero origen de la vida» y su visión del pleomorfismo. Pendiente de la transcripción.",
+     "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk",
+     "fecha": "2026-11-21"
     }
    ],
    "ambito": [
