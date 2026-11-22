@@ -841,10 +841,13 @@ function segmentosTransitos() {
       if (u && g.h - g.d < (MIN[pl] || 1) && f.length > 1) u.h = g.h;
       else if (u && u.sg === g.sg) u.h = g.h;
       else f.push({ ...g }); });
+    f.forEach((g, k) => { g.fin = f[k + 1] ? f[k + 1].ini : null; });
     SEG_TR.push({ pl, segs: f });
   });
   return SEG_TR;
 }
+const f2 = n => String(n).padStart(2, "0");
+const fechaPunto = (d, m, y) => `${f2(d)}.${f2(m)}.${y}`;   // 01.01.2026
 const NOM_ASP = { 0: "conjunción", 180: "oposición" };
 function marcasAspectos(T, a, b) {
   const TR = window.TRANSITOS; if (!TR || !TR.aspectos) return "";
@@ -853,7 +856,7 @@ function marcasAspectos(T, a, b) {
     const fr = y + (m - 1) / 12 + (d - 1) / 372;
     if (fr < a || fr > b) return;
     const yy = T(fr), x0 = 10 + i * 14, x1 = 10 + j * 14;
-    h += `<div class="cj${asp ? " op" : ""}" style="top:${yy}px;left:${x0}px;width:${x1 - x0}px" title="${GLIFO_PL[pl[i]]}${asp ? "☍" : "☌"}${GLIFO_PL[pl[j]]} ${esc(pl[i])} ${NOM_ASP[asp]} ${esc(pl[j])} · ${d}-${m}-${y}${n > 1 ? ` (primera de ${n} pasadas por retrogradación)` : ""}"></div>`;
+    h += `<div class="cj${asp ? " op" : ""}" style="top:${yy}px;left:${x0}px;width:${x1 - x0}px" title="${GLIFO_PL[pl[i]]}${asp ? "☍" : "☌"}${GLIFO_PL[pl[j]]} ${esc(pl[i])} ${NOM_ASP[asp]} ${esc(pl[j])} · ${fechaPunto(d, m, y)}${n > 1 ? ` (primera de ${n} pasadas por retrogradación)` : ""}"></div>`;
   });
   return h;
 }
@@ -863,12 +866,12 @@ function franjaTransitos(T, a, b) {
   segmentosTransitos().forEach(({ pl, segs }, i) => segs.forEach(g => {
     if (g.h < a || g.d > b) return;
     const ini0 = Math.max(g.d, a), fin0 = Math.min(g.h, b);
-    const sg = TR.signos[g.sg], ini = g.ini ? `${g.ini[2]}-${g.ini[1]}-${g.ini[0]}` : "antes de 1600";
+    const sg = TR.signos[g.sg], ini = g.ini ? fechaPunto(g.ini[2], g.ini[1], g.ini[0]) : "antes de 1600", fin = g.fin ? fechaPunto(g.fin[2], g.fin[1], g.fin[0]) : "2100";
     // Un trozo por década, para que el glifo del signo se vea en cada pantalla.
     for (let t0 = ini0, k = 0; t0 < fin0 - 1e-6; k++) {
       const t1 = Math.min(fin0, (Math.floor(t0 / 10) + 1) * 10);
       const y0 = T(t0), y1 = T(t1);
-      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" data-k="${i}-${g.d.toFixed(3)}" data-d="${g.d}" data-h="${g.h}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--s${g.sg})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
+      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" data-k="${i}-${g.d.toFixed(3)}" data-d="${g.d}" data-h="${g.h}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--s${g.sg})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${fin}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
       t0 = t1;
     }
   }));
