@@ -833,7 +833,7 @@ function segmentosTransitos() {
   const MIN = { "Marte": 0.06, "Júpiter": 0.3 };   // años: por debajo, entrada por retrogradación que se funde con el tramo anterior
   lista.forEach(([pl, ing0]) => {
     const ing = ing0 || []; if (!ing.length) return;
-    let segs = [{ d: 1600, h: null, sg: TR.signos.indexOf(ing[0][3]) }];
+    let segs = [{ d: pl === "Plutón" ? 1600 : ing[0][0] - 1, h: null, sg: TR.signos.indexOf(ing[0][3]) }];
     ing.forEach(r => { segs[segs.length - 1].h = fr(r); segs.push({ d: fr(r), h: null, sg: TR.signos.indexOf(r[4]), ini: r.slice(0, 3) }); });
     segs[segs.length - 1].h = 2100;
     const f = [];
@@ -847,7 +847,7 @@ function segmentosTransitos() {
   return SEG_TR;
 }
 const f2 = n => String(n).padStart(2, "0");
-const fechaPunto = (d, m, y) => `${f2(d)}.${f2(m)}.${y}`;   // 01.01.2026
+const fechaPunto = (d, m, y) => `${f2(d)}.${f2(m)}.${y > 0 ? y : (1 - y) + " a.C."}`;   // 01.01.2026
 const NOM_ASP = { 0: "conjunción", 180: "oposición" };
 function marcasAspectos(T, a, b) {
   const TR = window.TRANSITOS; if (!TR || !TR.aspectos) return "";
@@ -867,7 +867,7 @@ function franjaTransitos(T, a, b) {
   segmentosTransitos().forEach(({ pl, segs }, i) => segs.forEach(g => {
     if (g.h < a || g.d > b) return;
     const ini0 = Math.max(g.d, a), fin0 = Math.min(g.h, b);
-    const sg = TR.signos[g.sg], ini = g.ini ? fechaPunto(g.ini[2], g.ini[1], g.ini[0]) : "antes de 1600", fin = g.fin ? fechaPunto(g.fin[2], g.fin[1], g.fin[0]) : "2100";
+    const sg = TR.signos[g.sg], ini = g.ini ? fechaPunto(g.ini[2], g.ini[1], g.ini[0]) : "antes del primer ingreso", fin = g.fin ? fechaPunto(g.fin[2], g.fin[1], g.fin[0]) : "2100";
     // Un trozo por década, para que el glifo del signo se vea en cada pantalla.
     for (let t0 = ini0, k = 0; t0 < fin0 - 1e-6; k++) {
       const t1 = Math.min(fin0, (Math.floor(t0 / 10) + 1) * 10);
@@ -1042,10 +1042,10 @@ function maquetar(conservar) {
 
   // Marcas menores (2026-11-22): cada 2 años, y rótulo cada lustro, para leer los ingresos de la franja.
   if (!estrecho) for (let d = dec0; d <= dec1; d++) {
-    if (enHueco(d) || alturas[d - dec0] < 70 || d * 10 < 1600 || d * 10 > 2100) continue;
+    if (enHueco(d) || alturas[d - dec0] < 70 || d * 10 < -2010 || d * 10 > 2100) continue;
     for (let k = 1; k <= 9; k++) {
       const a = d * 10 + k, y = T(a);
-      if (k === 5) { if (alturas[d - dec0] >= 110) h += `<div class="tk tk5" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; }
+      if (k === 5) { if (alturas[d - dec0] >= 110) h += `<div class="tk tk5" style="top:${y}px;right:${W - ejeW + 12}px">${fmt(a)}</div>`; }
       else if (k % 2 === 0) h += `<div class="tk2" style="top:${y}px;left:${ejeW - 7}px"></div>`;
     }
   }
