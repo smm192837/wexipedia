@@ -118,11 +118,16 @@ button, input, select { font: inherit; color: inherit; }
 .regla-s span.sg { left: auto; right: calc(100% + 10px); top: -8px; font: italic 600 12.5px var(--f-lectura); color: var(--tenue); background: none; padding: 0; white-space: nowrap; }
 .tk { position: absolute; font: 500 11.5px var(--f-num); color: var(--tenue); transform: translateY(-50%); font-variant-numeric: tabular-nums; }
 .tk::after { content: ""; position: absolute; top: 50%; width: 6px; border-top: 1px solid var(--tenue); margin-left: 5px; }
-.rs { position: absolute; width: 12px; box-sizing: border-box; border-right: 3px solid transparent; font: 600 10px/1 var(--f-ui); color: var(--bg); display: flex; align-items: flex-start; justify-content: center; padding-top: 2px; overflow: hidden; opacity: .9; }
+.rs { position: absolute; width: 12px; box-sizing: border-box; font: 600 10px/1 var(--f-ui); color: var(--bg); display: flex; align-items: flex-start; justify-content: center; padding-top: 2px; overflow: hidden; opacity: .9; }
 #fondo .rs { cursor: pointer; pointer-events: auto; }
 .rs-on { outline: 2px solid var(--tinta); outline-offset: -1px; z-index: 2; }
 .tk2 { position: absolute; width: 6px; border-top: 1px solid var(--tenue); opacity: .7; }
 .tk5 { font-size: 10.5px; opacity: .85; }
+.cj { position: absolute; height: 0; border-top: 2px solid var(--tinta); z-index: 3; pointer-events: auto; cursor: help; }
+.cj::before, .cj::after { content: ""; position: absolute; top: -6px; width: 6px; height: 6px; border-radius: 50%; border: 2px solid var(--tinta); background: var(--tinta); }
+.cj::before { left: -5px; } .cj::after { right: -5px; }
+.cj.op { border-top-style: dashed; }
+.cj.op::before, .cj.op::after { background: var(--bg); }
 .rs-i { border-top: 1px solid var(--bg); }
 .rail-h { position: absolute; bottom: 4px; width: 12px; text-align: center; font: 600 13px var(--f-ui); color: var(--tenue); }
 .eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
@@ -473,6 +478,9 @@ button, input, select { font: inherit; color: inherit; }
 .t-tabla details summary { cursor: pointer; }
 .t-tabla td:not(:last-child) { white-space: nowrap; }
 /* Portada de tránsitos (REGLAS §9, 2026-11-19): vista propia sobre el eje. */
+:root { --s0: hsl(8 62% 56%); --s1: hsl(98 62% 34%); --s2: hsl(48 62% 45%); --s3: hsl(205 62% 56%); --s4: hsl(8 62% 34%); --s5: hsl(98 62% 45%); --s6: hsl(48 62% 56%); --s7: hsl(205 62% 34%); --s8: hsl(8 62% 45%); --s9: hsl(98 62% 56%); --s10: hsl(48 62% 34%); --s11: hsl(205 62% 45%); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --s0: hsl(8 66% 64%); --s1: hsl(98 66% 42%); --s2: hsl(48 66% 53%); --s3: hsl(205 66% 64%); --s4: hsl(8 66% 42%); --s5: hsl(98 66% 53%); --s6: hsl(48 66% 64%); --s7: hsl(205 66% 42%); --s8: hsl(8 66% 53%); --s9: hsl(98 66% 64%); --s10: hsl(48 66% 42%); --s11: hsl(205 66% 53%); } }
+:root[data-theme="dark"] { --s0: hsl(8 66% 64%); --s1: hsl(98 66% 42%); --s2: hsl(48 66% 53%); --s3: hsl(205 66% 64%); --s4: hsl(8 66% 42%); --s5: hsl(98 66% 53%); --s6: hsl(48 66% 64%); --s7: hsl(205 66% 42%); --s8: hsl(8 66% 53%); --s9: hsl(98 66% 64%); --s10: hsl(48 66% 42%); --s11: hsl(205 66% 53%); }
 :root { --el-fuego: #c0392b; --el-tierra: #6f8f3a; --el-aire: #c9a227; --el-agua: #2f6f9e; --mod-cardinal: #a03a5b; --mod-fijo: #5b4aa8; --mod-mutable: #1f7a7a; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --el-fuego: #e06a5a; --el-tierra: #b5c46a; --el-aire: #e6c44a; --el-agua: #6fb0d9; --mod-cardinal: #e07a9a; --mod-fijo: #a99af0; --mod-mutable: #5cc6c2; } }
 :root[data-theme="dark"] { --el-fuego: #e06a5a; --el-tierra: #b5c46a; --el-aire: #e6c44a; --el-agua: #6fb0d9; --mod-cardinal: #e07a9a; --mod-fijo: #a99af0; --mod-mutable: #5cc6c2; }
@@ -778,7 +786,7 @@ const fichasDeObra = x => todas.filter(f => (f.segun || []).some(s => x.refs.inc
 const procesadas = obras.filter(o => o.estado === "procesada");
 
 if (!nPrueba && !leer("crono.pista-eje", false)) { const a = $("aviso"); a.hidden = false;
-  a.innerHTML = `Las personas ya no se dibujan como barras: pasa el ratón por el eje de años (o tócalo) para ver quién vivía en cada momento. Al abrir una persona, su vida se marca en el eje.<button type="button" id="aviso-ok">Entendido</button>`;
+  a.innerHTML = `Pasa el cursor por el eje para ver las personas.<button type="button" id="aviso-ok">Entendido</button>`;
   $("aviso-ok").onclick = () => { a.hidden = true; guardar("crono.pista-eje", true); maquetar(true); }; }
 if (nPrueba) { const a = $("aviso"); a.hidden = false;
   a.textContent = `Datos de prueba (${nPrueba} fichas, borde discontinuo): solo llevan la versión oficial y ningún autor todavía.`; }
@@ -837,10 +845,21 @@ function segmentosTransitos() {
   });
   return SEG_TR;
 }
+const NOM_ASP = { 0: "conjunción", 180: "oposición" };
+function marcasAspectos(T, a, b) {
+  const TR = window.TRANSITOS; if (!TR || !TR.aspectos) return "";
+  const pl = TR.aspectos_planetas; let h = "";
+  TR.aspectos.forEach(([i, j, asp, y, m, d, n]) => {
+    const fr = y + (m - 1) / 12 + (d - 1) / 372;
+    if (fr < a || fr > b) return;
+    const yy = T(fr), x0 = 10 + i * 14, x1 = 10 + j * 14;
+    h += `<div class="cj${asp ? " op" : ""}" style="top:${yy}px;left:${x0}px;width:${x1 - x0}px" title="${GLIFO_PL[pl[i]]}${asp ? "☍" : "☌"}${GLIFO_PL[pl[j]]} ${esc(pl[i])} ${NOM_ASP[asp]} ${esc(pl[j])} · ${d}-${m}-${y}${n > 1 ? ` (primera de ${n} pasadas por retrogradación)` : ""}"></div>`;
+  });
+  return h;
+}
 function franjaTransitos(T, a, b) {
   const TR = window.TRANSITOS; if (!TR) return "";
   let h = "";
-  const EL = ["fuego", "tierra", "aire", "agua"], MO = ["cardinal", "fijo", "mutable"];
   segmentosTransitos().forEach(({ pl, segs }, i) => segs.forEach(g => {
     if (g.h < a || g.d > b) return;
     const ini0 = Math.max(g.d, a), fin0 = Math.min(g.h, b);
@@ -849,11 +868,11 @@ function franjaTransitos(T, a, b) {
     for (let t0 = ini0, k = 0; t0 < fin0 - 1e-6; k++) {
       const t1 = Math.min(fin0, (Math.floor(t0 / 10) + 1) * 10);
       const y0 = T(t0), y1 = T(t1);
-      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" data-k="${i}-${g.d.toFixed(3)}" data-d="${g.d}" data-h="${g.h}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--el-${EL[g.sg % 4]});border-right-color:var(--mod-${MO[g.sg % 3]})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
+      if (y1 - y0 >= 1) h += `<div class="rs${k === 0 ? " rs-i" : ""}" data-k="${i}-${g.d.toFixed(3)}" data-d="${g.d}" data-h="${g.h}" style="top:${y0}px;height:${y1 - y0}px;left:${4 + i * 14}px;background:var(--s${g.sg})" title="${esc(pl)} en ${esc(sg)} · desde ${ini} hasta ${Math.floor(g.h)}">${y1 - y0 >= 14 ? GLIFO_SIGNO[g.sg] : ""}</div>`;
       t0 = t1;
     }
   }));
-  return h;
+  return h + marcasAspectos(T, a, b);
 }
 const GLIFO_SG = { Ari: "♈", Tau: "♉", Gem: "♊", Can: "♋", Leo: "♌", Vir: "♍", Lib: "♎", Esc: "♏", Sag: "♐", Cap: "♑", Acu: "♒", Pis: "♓" };
 const GLIFO_AS = { "conjunción": "☌", sextil: "⚹", cuadratura: "□", trígono: "△", oposición: "☍" };
