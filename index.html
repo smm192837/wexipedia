@@ -121,6 +121,8 @@ button, input, select { font: inherit; color: inherit; }
 .rs { position: absolute; width: 12px; box-sizing: border-box; border-right: 3px solid transparent; font: 600 10px/1 var(--f-ui); color: var(--bg); display: flex; align-items: flex-start; justify-content: center; padding-top: 2px; overflow: hidden; opacity: .9; }
 #fondo .rs { cursor: pointer; pointer-events: auto; }
 .rs-on { outline: 2px solid var(--tinta); outline-offset: -1px; z-index: 2; }
+.tk2 { position: absolute; width: 6px; border-top: 1px solid var(--tenue); opacity: .7; }
+.tk5 { font-size: 10.5px; opacity: .85; }
 .rs-i { border-top: 1px solid var(--bg); }
 .rail-h { position: absolute; bottom: 4px; width: 12px; text-align: center; font: 600 13px var(--f-ui); color: var(--tenue); }
 .eje-l { position: absolute; top: 0; bottom: 0; width: 0; border-left: 1.5px solid var(--tinta); opacity: .55; }
@@ -808,7 +810,7 @@ function sellosTarjeta(f) {
   if (!co.length && !di) return "";
   return `<span class="tj-s">${co.map(c => `<span class="sello">Coincide con ${esc(c.nombre)}</span>`).join("")}${di ? `<span class="discrepa">Estos autores discrepan</span>` : ""}</span>`;
 }
-const GLIFO_PL = { "Júpiter": "♃", "Saturno": "♄", "Urano": "♅", "Neptuno": "♆", "Plutón": "♇" };
+const GLIFO_PL = { "Marte": "♂", "Júpiter": "♃", "Saturno": "♄", "Urano": "♅", "Neptuno": "♆", "Plutón": "♇" };
 // Franja de tránsitos (2026-11-22): un carril por planeta lento a la izquierda del eje, con el signo que ocupa
 // en cada momento (datos de transitos-datos.js: ingresos 1600-2100). Las entradas breves por retrogradación
 // (< 1 año) se funden con el tramo anterior.
@@ -819,14 +821,16 @@ function segmentosTransitos() {
   SEG_TR = [];
   const TR = window.TRANSITOS; if (!TR) return SEG_TR;
   const fr = r => r[0] + (r[1] - 1) / 12 + (r[2] - 1) / 372;
-  TR.planetas.forEach(pl => {
-    const ing = TR.ingresos[pl] || []; if (!ing.length) return;
+  const lista = [...(TR.extra ? TR.extra.planetas.map(pl => [pl, TR.extra.eventos[pl]]) : []), ...TR.planetas.map(pl => [pl, TR.ingresos[pl]])];
+  const MIN = { "Marte": 0.06, "Júpiter": 0.3 };   // años: por debajo, entrada por retrogradación que se funde con el tramo anterior
+  lista.forEach(([pl, ing0]) => {
+    const ing = ing0 || []; if (!ing.length) return;
     let segs = [{ d: 1600, h: null, sg: TR.signos.indexOf(ing[0][3]) }];
     ing.forEach(r => { segs[segs.length - 1].h = fr(r); segs.push({ d: fr(r), h: null, sg: TR.signos.indexOf(r[4]), ini: r.slice(0, 3) }); });
     segs[segs.length - 1].h = 2100;
     const f = [];
     segs.forEach(g => { const u = f[f.length - 1];
-      if (u && g.h - g.d < 1 && f.length > 1) u.h = g.h;
+      if (u && g.h - g.d < (MIN[pl] || 1) && f.length > 1) u.h = g.h;
       else if (u && u.sg === g.sg) u.h = g.h;
       else f.push({ ...g }); });
     SEG_TR.push({ pl, segs: f });
@@ -918,8 +922,8 @@ function maquetar(conservar) {
 
   // Personas (REGLAS §8, 2026-11-12): sin barras ni tarjetas. El eje de años hace de lupa: al pasar el ratón
   // o tocarlo salen quienes vivían ese año; al elegir una persona, su vida se marca sobre el eje.
-  const ejeW = estrecho ? 58 : 136, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
-  const RAIL = estrecho ? 0 : 58;   // franja de tránsitos a la izquierda (2026-11-22)
+  const ejeW = estrecho ? 58 : 168, gap = estrecho ? 0 : 10, derecha = estrecho ? 8 : 14;
+  const RAIL = estrecho ? 0 : 90;   // franja de tránsitos a la izquierda (2026-11-22)
   const zonas = [{ x: RAIL, w: ejeW - RAIL }];
   // La columna «Cielo» ya no se dibuja (2026-11-20): el cielo va en la cabecera de la década
   // (chips de los cinco ciclos y de las sinergias) y en la etiqueta de cada tarjeta.
@@ -1011,6 +1015,15 @@ function maquetar(conservar) {
     });
   }
 
+  // Marcas menores (2026-11-22): cada 2 años, y rótulo cada lustro, para leer los ingresos de la franja.
+  if (!estrecho) for (let d = dec0; d <= dec1; d++) {
+    if (enHueco(d) || alturas[d - dec0] < 70 || d * 10 < 1600 || d * 10 > 2100) continue;
+    for (let k = 1; k <= 9; k++) {
+      const a = d * 10 + k, y = T(a);
+      if (k === 5) { if (alturas[d - dec0] >= 110) h += `<div class="tk tk5" style="top:${y}px;right:${W - ejeW + 12}px">${a}</div>`; }
+      else if (k % 2 === 0) h += `<div class="tk2" style="top:${y}px;left:${ejeW - 7}px"></div>`;
+    }
+  }
   let ultimo = -99;
   for (let d = dec0; d <= dec1; d++) {
     const a = d * 10;
@@ -1042,7 +1055,7 @@ function maquetar(conservar) {
   else cols.forEach((g, i) => {
     const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
     c += `<div class="col-n" style="left:${xCol[i]}px;width:${colW}px;--grad:${grad}">${cs.map(k => `<i style="--c:${color(k)}"></i>`).join("")}<span>${esc(g.nombre)}</span></div>`; });
-  if (!estrecho && window.TRANSITOS) window.TRANSITOS.planetas.forEach((pl, i) => { c += `<span class="rail-h" style="left:${4 + i * 14}px" title="${esc(pl)}">${GLIFO_PL[pl]}</span>`; });
+  if (!estrecho && window.TRANSITOS) segmentosTransitos().forEach(({ pl }, i) => { c += `<span class="rail-h" style="left:${4 + i * 14}px" title="${esc(pl)}">${GLIFO_PL[pl]}</span>`; });
   cab.innerHTML = c;
   $("vzonas").innerHTML = zonas.map(z => `<div class="vz" style="left:${z.x}px;width:${z.w}px;height:${Math.max(acc, ...fondoCol) + 90}px"></div>`).join("");
 
