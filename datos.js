@@ -8333,7 +8333,8 @@ window.CRONO = {
    "temas": [],
    "fecha": {
     "desde": 2016,
-    "texto": "junio de 2016"
+    "aprox": false,
+    "texto": "24-26 de junio de 2016"
    },
    "resumen": "Congreso celebrado en Vigo en junio de 2016 con el tema «El saber cosmológico», donde Trallero dio la conferencia «La alquimia de la astrología».",
    "segun": [
@@ -8354,6 +8355,21 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado.",
+    "fuentes": [
+     {
+      "titulo": "Programa del 33.º Congreso Ibérico de Astrología, Vigo 2016 (astro3z)",
+      "url": "https://astro3z.wordpress.com/programa/",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Historia de los Congresos Ibéricos de Astrología (Astralis)",
+      "url": "https://www.astralis.es/novedades/congresosibericos_historia.htm",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
