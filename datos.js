@@ -60590,14 +60590,14 @@ window.CRONO = {
     {
      "autor": "sergio-trallero",
      "obra": "alquimia-de-la-astrologia-congreso-vigo",
-     "ubicacion": "l. 17 y 77",
+     "ubicacion": "l. 11, 13 y 17",
      "url": null,
      "resumen": "Según Trallero, el andrógino de la edad de oro simboliza el estado de no dualidad que busca la alquimia, y Saturno-Cronos es el regente de esa edad.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última.",
+    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última. Los cuatro yugas duran 1 728 000, 1 296 000, 864 000 y 432 000 años (el Kali Yuga, el último, 432 000).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Yuga",
@@ -62422,7 +62422,12 @@ window.CRONO = {
    "temas": [
     "religion"
    ],
-   "fecha": null,
+   "fecha": {
+    "desde": 1540,
+    "aprox": false,
+    "texto": "1540 (De perenni philosophia, de Steuco)",
+    "fuente": "oficial"
+   },
    "resumen": "Corriente que sostiene que las tradiciones espirituales comparten un núcleo universal; Trallero la presenta como esfera atemporal que se recupera por la vía iniciática.",
    "segun": [
     {
@@ -62435,11 +62440,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia. Tiene raíces en el neoplatonismo renacentista (Ficino, Pico della Mirandola) y el término lo acuñó Agostino Steuco (1497-1548), no Leibniz.",
+    "resumen": "La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia. Tiene raíces en el neoplatonismo renacentista (Ficino, Pico della Mirandola) y el término lo acuñó Agostino Steuco (1497-1548), que lo usó en el título de su tratado De perenni philosophia (1540); Trallero lo atribuye a Leibniz, y la versión oficial no lo recoge así.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Filosofía perenne",
       "url": "https://es.wikipedia.org/wiki/Filosof%C3%ADa_perenne",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Perennial philosophy (en)",
+      "url": "https://en.wikipedia.org/wiki/Perennial_philosophy",
       "consultado": "2026-11-22"
      }
     ]
@@ -62705,7 +62715,13 @@ window.CRONO = {
    "temas": [
     "ciencia-saber"
    ],
-   "fecha": null,
+   "fecha": {
+    "desde": 100,
+    "hasta": 300,
+    "aprox": true,
+    "texto": "hacia 100-300 d. C. (Corpus Hermeticum)",
+    "fuente": "oficial"
+   },
    "resumen": "Tradición filosófica y religiosa basada en los Hermética, atribuidos a Hermes Trismegisto; Trallero lo ve como raíz de la astrología y la alquimia occidentales.",
    "segun": [
     {
@@ -66697,7 +66713,13 @@ window.CRONO = {
    "temas": [
     "religion"
    ],
-   "fecha": null,
+   "fecha": {
+    "desde": 1530,
+    "aprox": true,
+    "margen": 10,
+    "texto": "hacia 1530 (Opus paramirum)",
+    "fuente": "oficial"
+   },
    "resumen": "Los tres principios de la alquimia: azufre (espíritu), mercurio (alma) y sal (cuerpo); Trallero los correlaciona con Sol, Luna y Ascendente.",
    "segun": [
     {
