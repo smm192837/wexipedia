@@ -8514,6 +8514,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "Una gran conjunción es la conjunción de Júpiter y Saturno, cuando ambos planetas se ven más cerca en el cielo; ocurre aproximadamente cada 20 años, cuando Júpiter adelanta a Saturno. La más reciente fue el 21 de diciembre de 2020, con los planetas separados 6 minutos de arco, la menor distancia entre ellos desde 1623. La siguiente será el 4 de noviembre de 2040.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Great conjunction (en)",
+      "url": "https://en.wikipedia.org/wiki/Great_conjunction",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -59974,6 +59984,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "La astrología, en su acepción más amplia, es un conjunto de tradiciones y creencias que sostienen que es posible reconocer o construir un significado de los eventos celestes y de las constelaciones, basándose en la interpretación de su correlación con los sucesos terrenales. Este paralelismo se utiliza como método de adivinación y de inferencia del carácter de las personas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Astrología",
+      "url": "https://es.wikipedia.org/wiki/Astrolog%C3%ADa",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -64267,6 +64287,21 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "La nigredo es un concepto alquímico: la primera de tres fases, previa a la albedo y la rubedo, en la transmutación de la materia. Se asocia a la putrefacción y a la disolución de la materia prima para generar otra superior. Muchos alquimistas creían que, como primer paso hacia la piedra filosofal, todos los ingredientes debían purificarse y cocerse hasta formar una materia negra uniforme.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Nigredo",
+      "url": "https://es.wikipedia.org/wiki/Nigredo",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Nigredo (en)",
+      "url": "https://en.wikipedia.org/wiki/Nigredo",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -65704,6 +65739,21 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "En los escritos alquímicos aparecen los siete planetas clásicos y los siete metales de la Antigüedad que se les correspondían, junto con los dioses romanos asociados a esos astros. El planeta clásico es un astro visible a simple vista que se mueve sobre el fondo de estrellas fijas: Sol, Luna, Venus, Júpiter, Mercurio, Marte y Saturno.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Alchemy (en)",
+      "url": "https://en.wikipedia.org/wiki/Alchemy",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Classical planet (en)",
+      "url": "https://en.wikipedia.org/wiki/Classical_planet",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -65980,6 +66030,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "La era astrológica, en astrología, es un periodo de tiempo que se corresponde con el desplazamiento en 30 grados de arco del eje terrestre debido al fenómeno de la precesión de los equinoccios, equivalentes a un mes del año platónico o ciclo equinoccial, es decir el período que tarda la precesión de la Tierra en dar una vuelta completa de 360° lo que ocurre en aproximadamente 25920 años.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Era astrológica",
+      "url": "https://es.wikipedia.org/wiki/Era_astrol%C3%B3gica",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -66661,6 +66721,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "Paracelso adoptó la idea de que los medicamentos se componen de tres principios, la tria prima: azufre (lo combustible), mercurio (lo fluido y cambiante) y sal (lo sólido y permanente). La primera mención del modelo está en el Opus paramirum, hacia 1530. Para él, en una madera que arde, lo que se quema es el azufre, el humo es el mercurio y la ceniza es la sal.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Paracelsus (en)",
+      "url": "https://en.wikipedia.org/wiki/Paracelsus",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -66964,6 +67034,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "El zodiaco o zodíaco es una región del cielo en forma de cinturón o banda de la esfera celeste que se extiende aproximadamente 8° al norte y al sur de la eclíptica, que es la trayectoria aparente del Sol a través de la esfera celeste a lo largo del año. Los caminos orbitales de la Luna y los planetas principales están dentro del cinturón del zodíaco.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Zodiaco",
+      "url": "https://es.wikipedia.org/wiki/Zodiaco",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   }
  ],
