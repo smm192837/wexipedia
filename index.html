@@ -890,7 +890,7 @@ function chipCielo(f) {
     const k = `${x.a}|${x.b}|${x.aspecto}`; if (vistos.has(k)) return false; vistos.add(k); return true;
   }).map(x => `${GLIFO_PL[x.a]}${GLIFO_AS[x.aspecto]}${GLIFO_PL[x.b]}`);
   const sin = pares.slice(0, 3).join(" ") + (pares.length > 3 ? ` +${pares.length - 3}` : "");
-  const txt = pl.map(p => `${p} ${a.grados[p]}`).join(" · ");
+  const txt = pl.map(p => `${p} ${a.grados[p] ?? "–"}`).join(" · ");
   return `<span class="tj-cielo" title="${esc(txt)}"><span class="cic">${pl.map(p => `${GLIFO_PL[p]}${GLIFO_SG[a.pos[p]] || ""}`).join(" ")}</span>${sin ? `<b>${sin}</b>` : ""}</span>`;
 }
 const nodos = {};
@@ -1025,7 +1025,7 @@ function maquetar(conservar) {
     const a0 = CIELO && CIELO.anios ? CIELO.anios[String(d * 10)] : null;
     const a1 = CIELO && CIELO.anios ? CIELO.anios[String(d * 10 + 9)] : null;
     const ep = EPOCAS.find(e => e.desde <= d * 10 && d * 10 <= e.hasta);
-    const cicloChips = a0 && a1 ? pl5.map(p => `<span class="ciclo">${GLIFO_PL[p]}${GLIFO_SG[a0.pos[p]]}→${GLIFO_SG[a1.pos[p]]}</span>`).join("") : "";
+    const cicloChips = a0 && a1 ? pl5.map(p => `<span class="ciclo">${GLIFO_PL[p]}${GLIFO_SG[a0.pos[p]] || "–"}→${GLIFO_SG[a1.pos[p]] || "–"}</span>`).join("") : "";
     const sinChips = a0 ? sinTxt(a0).split(" ").filter(Boolean).map(s => `<span class="sin">${s}</span>`).join("") : "";
     const cielo = (cicloChips || sinChips) ? `<span class="et">cielo</span>${cicloChips}${sinChips}` : "";
     h += `<div class="dec" style="top:${y + 10}px;left:${ejeW + 6}px;right:${derecha}px"><div class="dec-h">
