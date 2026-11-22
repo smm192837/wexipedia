@@ -2073,7 +2073,16 @@ window.CRONO = {
      }
     ]
    },
-   "conexiones": [],
+   "conexiones": [
+    {
+     "id": "memorando-cia-1967",
+     "nota": "Despacho de la CIA de 1967 sobre los críticos del informe Warren."
+    },
+    {
+     "id": "comision-warren-zapruder-1964",
+     "nota": "Comisión Warren (1964) y película de Zapruder sobre este hecho."
+    }
+   ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
@@ -4725,6 +4734,10 @@ window.CRONO = {
     {
      "id": "tercer-reich",
      "nota": "(propuesta del cronista)"
+    },
+    {
+     "id": "comision-bergier",
+     "nota": "La Comisión Bergier investigó el oro alemán en Suiza; de la BIS no trató en concreto."
     }
    ],
    "estado": "aprobado",
@@ -16233,6 +16246,10 @@ window.CRONO = {
     {
      "id": "pandemia-covid-19",
      "nota": "El autor la compara con el miedo del COVID."
+    },
+    {
+     "id": "volksempfaenger-1933",
+     "nota": "Otro caso del poder de la radio sobre las masas."
     }
    ],
    "estado": "aprobado",
@@ -31638,6 +31655,10 @@ window.CRONO = {
     {
      "id": "movimiento-sionista",
      "nota": "Primer Congreso Sionista en Basilea."
+    },
+    {
+     "id": "comision-bergier",
+     "nota": "La Comisión Bergier investigó el papel de Suiza en la guerra."
     }
    ],
    "estado": "aprobado",
@@ -32275,6 +32296,14 @@ window.CRONO = {
     {
      "id": "familia-warburg",
      "nota": "Coinciden Rubén (NDM) y Guillermo Mas Arellano: los Warburg financiaron al nazismo."
+    },
+    {
+     "id": "volksempfaenger-1933",
+     "nota": "Instrumento de su propaganda."
+    },
+    {
+     "id": "comision-bergier",
+     "nota": "La Comisión Bergier investigó el oro nazi que pasó por Suiza."
     }
    ],
    "estado": "aprobado",
@@ -35650,6 +35679,10 @@ window.CRONO = {
     {
      "id": "abuelo-de-hitler",
      "nota": "Relacionadas según Guillermo Mas Arellano en «Nuevo Orden Europeo»."
+    },
+    {
+     "id": "volksempfaenger-1933",
+     "nota": "El nombre VE301 alude al día de su llegada al poder."
     }
    ],
    "estado": "aprobado",
@@ -47911,6 +47944,10 @@ window.CRONO = {
     {
      "id": "asesinato-kennedy",
      "nota": ""
+    },
+    {
+     "id": "comision-warren-zapruder-1964",
+     "nota": "Comisión Warren que investigó su asesinato."
     }
    ],
    "estado": "aprobado",
@@ -48333,6 +48370,10 @@ window.CRONO = {
     {
      "id": "tercer-reich",
      "nota": ""
+    },
+    {
+     "id": "volksempfaenger-1933",
+     "nota": "Encargó el receptor popular de 1933."
     }
    ],
    "estado": "aprobado",
