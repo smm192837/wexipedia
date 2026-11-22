@@ -10678,8 +10678,8 @@ window.CRONO = {
    ],
    "fecha": {
     "desde": 2014,
-    "aprox": true,
-    "margen": 1
+    "aprox": false,
+    "fuente": "oficial"
    },
    "resumen": "Primer ensayo de Trallero; Sala lo recomienda como introducción al esoterismo, la astrología, la alquimia y las ciencias sagradas.",
    "segun": [
@@ -10704,6 +10704,17 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "fecha_autor": "2014 (según Sala, de memoria)",
+   "oficial": {
+    "resumen": "Ensayo de Sergio Trallero publicado en 2014 por Liber Factory (ISBN 978-84-9949-557-6), según el catálogo de Open Library.",
+    "fuentes": [
+     {
+      "titulo": "Open Library: obras de Sergio Trallero",
+      "url": "https://openlibrary.org/search?q=sergio+trallero",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -20747,8 +20758,8 @@ window.CRONO = {
    ],
    "fecha": {
     "desde": 2017,
-    "aprox": true,
-    "margen": 1
+    "aprox": false,
+    "fuente": "oficial"
    },
    "fecha_autor": "2017 o 2018",
    "resumen": "Segundo ensayo de Trallero, de astrología aplicada y psicológica; Sala lo recomienda tras leer Dimensiones de lo real.",
@@ -20774,6 +20785,16 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "oficial": {
+    "resumen": "Ensayo de Sergio Trallero publicado en 2017 por CreateSpace Independent Publishing Platform (ISBN 978-1-5452-2635-3), según el catálogo de Open Library.",
+    "fuentes": [
+     {
+      "titulo": "Open Library: obras de Sergio Trallero",
+      "url": "https://openlibrary.org/search?q=sergio+trallero",
+      "consultado": "2026-11-22"
+     }
+    ]
+   },
    "vista": "ciencia"
   },
   {
@@ -60597,11 +60618,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última. Los cuatro yugas duran 1 728 000, 1 296 000, 864 000 y 432 000 años (el Kali Yuga, el último, 432 000).",
+    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última. Los cuatro yugas duran 1 728 000, 1 296 000, 864 000 y 432 000 años (el Kali Yuga, el último, 432 000). En Hesíodo («Trabajos y días», vv. 106-202), la humanidad pasa por cinco edades, desde una raza de oro que vive como los dioses hasta la de hierro; el mito de las edades del hombre es la versión griega de la idea.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Yuga",
       "url": "https://es.wikipedia.org/wiki/Yuga",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Edades del hombre",
+      "url": "https://es.wikipedia.org/wiki/Edades_del_hombre",
       "consultado": "2026-11-22"
      }
     ]
@@ -62734,11 +62760,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El hermetismo es una tradición filosófica y religiosa basada en los textos pseudoepigráficos Hermética, atribuidos a Hermes Trismegisto («el tres veces grande»), combinación helenística del dios griego Hermes y el egipcio Thot. Los Hermética se escribieron a lo largo de muchos siglos (hacia 300 a. C.-1200 d. C.); el más famoso es el Corpus Hermeticum (hacia 100-300 d. C.).",
+    "resumen": "El hermetismo es una tradición filosófica y religiosa basada en los textos pseudoepigráficos Hermética, atribuidos a Hermes Trismegisto («el tres veces grande»), combinación helenística del dios griego Hermes y el egipcio Thot. Los Hermética se escribieron a lo largo de muchos siglos (hacia 300 a. C.-1200 d. C.); el más famoso es el Corpus Hermeticum (hacia 100-300 d. C.). Sobre la palabra «alquimia», es.wikipedia da su origen en el árabe al-khīmiyā y recoge la hipótesis de que venga del copto kēme («Egipto», la «tierra negra»).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Hermetismo",
       "url": "https://es.wikipedia.org/wiki/Hermetismo",
+      "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Alquimia (etimología)",
+      "url": "https://es.wikipedia.org/wiki/Alquimia",
       "consultado": "2026-11-22"
      }
     ]
