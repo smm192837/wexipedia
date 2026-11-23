@@ -941,7 +941,8 @@ function maquetar(conservar) {
   ].filter(g => g.carr.some(c => !st.ocultos.has(c)));
   const estrecho = W < 620;
   const medio = !estrecho && W < 1180;
-  const cols = estrecho ? [{ id: "todo", carr: VISTAS.map(c => c.id) }] : medio ? gs2 : gs;
+  // Columna única (2026-11-23): los cuatro carriles van juntos en orden cronológico; el carril se marca con la banda y la etiqueta de cada tarjeta.
+  const cols = [{ id: "todo", carr: VISTAS.map(c => c.id) }];
   const colDe = {}; for (const [i, g] of cols.entries()) for (const c of g.carr) colDe[c] = i;
 
   // Personas (REGLAS §8, 2026-11-12): sin barras ni tarjetas. El eje de años hace de lupa: al pasar el ratón
@@ -953,7 +954,7 @@ function maquetar(conservar) {
   // (chips de los cinco ciclos y de las sinergias) y en la etiqueta de cada tarjeta.
   const verCielo = !!(CIELO && st.cielo);
   const x0 = ejeW + 8;
-  const colW = Math.max(140, (W - x0 - derecha - gap * (cols.length - 1)) / cols.length);
+  const colW = Math.max(140, Math.min(estrecho ? 9999 : 820, (W - x0 - derecha - gap * (cols.length - 1)) / cols.length));
   const xCol = cols.map((g, i) => x0 + i * (colW + gap));
 
   // Tarjetas: ancho, visibilidad y medida (las personas no tienen tarjeta en columna)
@@ -1078,6 +1079,7 @@ function maquetar(conservar) {
   // Cabecera de columnas
   let c = "";
   if (estrecho) c += `<div class="col-n" style="left:${x0}px;width:${colW}px"><span>Todos los carriles</span></div>`;
+  else if (cols.length === 1) c += `<div class="col-n" style="left:${x0}px;width:${colW}px;--grad:linear-gradient(90deg, ${VISTAS.map((v, i) => `${color(v.id)} ${i * 25}% ${(i + 1) * 25}%`).join(", ")})">${VISTAS.map(v => `<i style="--c:${color(v.id)}"></i><span>${esc(v.nombre)}</span>`).join("")}</div>`;
   else cols.forEach((g, i) => {
     const cs = g.colores, grad = cs.length > 1 ? `linear-gradient(90deg, ${color(cs[0])} 50%, ${color(cs[1])} 50%)` : color(cs[0]);
     c += `<div class="col-n" style="left:${xCol[i]}px;width:${colW}px;--grad:${grad}">${cs.map(k => `<i style="--c:${color(k)}"></i>`).join("")}<span>${esc(g.nombre)}</span></div>`; });
