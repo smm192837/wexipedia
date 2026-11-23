@@ -6991,6 +6991,50 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "censo-augusto-imperio-romano",
+   "tipo": "hecho",
+   "titulo": "Censo de Augusto y control del Imperio Romano",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": -3,
+    "aprox": true,
+    "margen": 3,
+    "texto": "hacia el 4 a. C."
+   },
+   "resumen": "Según Nocera, el censo de Augusto ya era un instrumento de control de personas y patrimonio.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 2–3",
+     "url": null,
+     "resumen": "Nocera recuerda que Augusto ordenó hacia el 4 a. C. un censo en todos los territorios, que no solo contaba personas y casas sino también el patrimonio, y lo presenta como muestra de la «manía de control» del Imperio.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Censo de Quirinio",
+      "url": "https://es.wikipedia.org/wiki/Censo_de_Quirinio",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "devaluacion-denario-imperio-romano",
+     "nota": "Otro mecanismo de control imperial según Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "centro-internacional-de-cabala",
    "tipo": "hecho",
    "titulo": "El Centro Internacional de Cábala",
@@ -7175,6 +7219,57 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
+  },
+  {
+   "id": "cibeles-colina-vaticana",
+   "tipo": "hecho",
+   "titulo": "Culto de Cibeles en la colina vaticana",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": -203,
+    "texto": "204 a. C. (llegada de Cibeles a Roma) – siglo IV"
+   },
+   "resumen": "Según Nocera, el santuario de Cibeles (Magna Mater) estaba en la colina donde hoy se alza la plaza de San Pedro.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 18–23",
+     "url": null,
+     "resumen": "Nocera cuenta que la diosa Cibeles se incorporó a las deidades de Roma en el 204 a. C. con una piedra venida de Pesinunte, que su templo (Phrygianum) y el circo de Calígula y Nerón ocupaban la colina vaticana, que Claudio reformó el culto a partir del 43 d. C. y que había altares a Cibeles aún tras Constantino (altar del 295, otro de 374).",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Magna Mater (Cibeles) se introdujo en Roma en 204 a. C. durante la segunda guerra púnica; el santuario Phrygianum del Vaticano está atestiguado en inscripciones de los siglos II–IV. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Cibeles",
+      "url": "https://es.wikipedia.org/wiki/Cibeles",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Phrygianum",
+      "url": "https://en.wikipedia.org/wiki/Phrygianum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "natalis-solis-invicti-25-diciembre",
+     "nota": "Mismo capítulo de Nocera."
+    },
+    {
+     "id": "concilio-nicea-325",
+     "nota": "Continuidad cultual."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
   },
   {
    "id": "cimatica-hans-jenny",
@@ -8614,6 +8709,55 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "concilio-nicea-325",
+   "tipo": "hecho",
+   "titulo": "Concilio de Nicea (325) y la unificación religiosa de Constantino",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": 325
+   },
+   "resumen": "Según Nocera, Nicea fue una maniobra política de Constantino para unificar el credo y controlar rebeliones.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 14–15, 22–27",
+     "url": null,
+     "resumen": "Nocera sostiene que Constantino, Pontífice Máximo, reunió a todos los obispos en Nicea para obtener un solo credo, que el emperador no votaba pero marcaba el rumbo, que el debate arriano era secundario para Roma y que la fecha del 25 de diciembre salió de allí. Apoya la lectura en la tesis de Rodney Stark de que Constantino nunca fue cristiano y actuó por estrategia.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El primer concilio ecuménico se celebró en Nicea en 325 por convocatoria de Constantino; condenó el arrianismo y fijó el Credo niceno y la fecha de la Pascua. La fecha del 25 de diciembre se fijó más tarde en Roma (hacia 336). Constantino se bautizó poco antes de morir. La tesis de que fue una maniobra puramente política no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: Council of Nicaea",
+      "url": "https://www.britannica.com/event/Council-of-Nicaea-Christianity",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "concilios-ecumenicos-control-imperial",
+     "nota": "Serie de concilios."
+    },
+    {
+     "id": "natalis-solis-invicti-25-diciembre",
+     "nota": "Fecha de Navidad."
+    },
+    {
+     "id": "donacion-de-constantino",
+     "nota": "Mismo personaje."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
+  },
+  {
    "id": "concilio-trento",
    "tipo": "hecho",
    "titulo": "Concilio de Trento",
@@ -8714,6 +8858,54 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
+  },
+  {
+   "id": "concilios-ecumenicos-control-imperial",
+   "tipo": "hecho",
+   "titulo": "Los concilios ecuménicos bajo el Imperio (325–1313)",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": 325,
+    "hasta": 1313,
+    "texto": "325–1313"
+   },
+   "resumen": "Nocera señala que todos los primeros concilios fueron patrocinados por emperadores y presididos por papas ciudadanos del imperio.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 23–29",
+     "url": null,
+     "resumen": "Nocera ofrece dos tablas: los ocho primeros concilios en el Imperio de Oriente (Nicea 325 hasta Constantinopla 869) y siete en occidente (de Letrán 1123 a Vienne 1311–1313), con el emperador que los patrocinó, y concluye que el Imperio quería un único credo y que la totalidad de los papas eran ciudadanos romanos. Cita el edicto de Tesalónica del 380, que convirtió el cristianismo en religión oficial.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1313, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: ecumenical council",
+      "url": "https://www.britannica.com/topic/ecumenical-council",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Edicto de Tesalónica",
+      "url": "https://es.wikipedia.org/wiki/Edicto_de_Tesal%C3%B3nica",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "concilio-nicea-325",
+     "nota": "Primero de la serie."
+    }
+   ],
+   "estado": "borrador",
    "vista": "religion"
   },
   {
@@ -9212,6 +9404,54 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "constantino-dinero-fiat-constantinopla",
+   "tipo": "hecho",
+   "titulo": "Constantino, Constantinopla y el «dinero fiat»",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 324,
+    "hasta": 330,
+    "aprox": true,
+    "texto": "324–330 (Constantinopla se inaugura en 330)"
+   },
+   "resumen": "Nocera dice que Constantino emitió dinero por decreto, sin respaldo, para pagar la expansión de Constantinopla.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 16–17",
+     "url": null,
+     "resumen": "Nocera cuenta que Constantino tomó Bizancio, la llamó Constantinopla y, para costear la expansión, emitió dinero por decreto sin valor intrínseco, a la vez que usaba el credo y el clero para identificar brotes de insurrección y mandaba construir la antigua basílica de San Pedro.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Constantino fundó Constantinopla sobre Bizancio y la inauguró en 330; sus reformas monetarias crearon el sólido de oro (solidus), una moneda estable con respaldo metálico. Que emitiera moneda fiduciaria sin respaldo no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: Constantine the Great",
+      "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "concilio-nicea-325",
+     "nota": "Contexto."
+    },
+    {
+     "id": "devaluacion-denario-imperio-romano",
+     "nota": "Tema monetario del Imperio."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "economia"
+  },
+  {
    "id": "constellis-blackwater",
    "tipo": "hecho",
    "titulo": "Blackwater y Constellis",
@@ -9542,6 +9782,56 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "coronacion-carlomagno-800",
+   "tipo": "hecho",
+   "titulo": "Coronación de Carlomagno (800)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 800,
+    "texto": "25 de diciembre de 800"
+   },
+   "resumen": "Coronación imperial de Carlomagno por León III, que Nocera lee como renacimiento del Imperio Romano bajo el papa.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 34–41",
+     "url": null,
+     "resumen": "Nocera dice que en la Navidad del 800 León III coronó a Carlomagno y que ese Sacro Imperio, formado por el Reino de los Francos, Lombardos y otros, continúa en realidad al Imperio Romano: Carlomagno descendería de prefectos romanos de la Galia y de la dinastía Flavia (figura 13). Desde entonces, afirma, todo monarca necesitaba la legitimidad del papa.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "León III coronó emperador a Carlomagno en Roma el 25-12-800. Su genealogía de origen galorromano (los Arnulfing) y la conexión con los Flavios son discutibles. La lectura de continuidad del imperio romano es compartida, con matices, por la historiografía; la subordinación de los monarcas al papa es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: Charlemagne",
+      "url": "https://www.britannica.com/biography/Charlemagne",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Persona."
+    },
+    {
+     "id": "donacion-de-pipino-756",
+     "nota": "Antecedente."
+    },
+    {
+     "id": "saeculum-obscurum-904",
+     "nota": "Después."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -11023,6 +11313,50 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "detencion-jesus-cohorte-romana",
+   "tipo": "hecho",
+   "titulo": "La «cohorte» del arresto de Jesús (lectura de Nocera)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 30,
+    "aprox": true,
+    "margen": 3,
+    "fuente": "oficial"
+   },
+   "resumen": "Nocera señala que el término griego del arresto de Jesús designa una cohorte romana de unos 600 hombres.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 12",
+     "url": null,
+     "resumen": "Nocera afirma, apoyándose en Mauro Biglino, que la palabra griega del relato evangélico (speira) designa una cohorte romana de unos 600 soldados y deduce que Roma vio en Jesús una amenaza política seria, tras la ejecución de Juan y de Jesús. Es una lectura suya.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En Juan 18:3 la palabra speira se traduce como «cohorte»; su tamaño nominal era de unos 600 hombres, pero el término se usaba también de forma laxa para destacamentos menores. La interpretación política de Nocera no forma parte de la versión académica. Pendiente de contrastar. Delicado: tema religioso.",
+    "fuentes": [
+     {
+      "titulo": "Biblia: Juan 18",
+      "url": "https://www.bibliatodo.com/la-biblia/Juan-18",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "concilio-nicea-325",
+     "nota": "Misma tesis de control romano de la religión."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
+  },
+  {
    "id": "deuda-naciente-eeuu-1783-1813",
    "tipo": "hecho",
    "titulo": "La deuda de los primeros Estados Unidos (1783–1813)",
@@ -11769,6 +12103,56 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
+  },
+  {
+   "id": "donacion-de-pipino-756",
+   "tipo": "hecho",
+   "titulo": "Donación de Pipino (756)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 756,
+    "fuente": "oficial"
+   },
+   "resumen": "Entrega de territorios del centro de Italia al papa por Pipino el Breve, origen de los Estados Pontificios.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 36–40",
+     "url": null,
+     "resumen": "Nocera presenta la Donación de Pipino III al papa Esteban II como el nacimiento del Estado Papal, sin dar año, y la alianza entre el papado y los carolingios, sellada en Saint-Denis hacia el 760 (basílica sobre una necrópolis galorromana); dice que hasta mediados del siglo VIII el papa dependía de Bizancio y que desde entonces los monarcas necesitan su legitimidad.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En 754–756 Pipino el Breve entregó al papa los territorios arrebatados a los lombardos (Exarcado de Rávena y Pentápolis), origen de los Estados Pontificios, con el apoyo del papa Esteban II (III). Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: Donation of Pippin",
+      "url": "https://www.britannica.com/event/Donation-of-Pippin",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Continuación."
+    },
+    {
+     "id": "fin-estados-pontificios-1870",
+     "nota": "Fin del Estado Papal."
+    },
+    {
+     "id": "carlomagno",
+     "nota": "Hijo de Pipino."
+    }
+   ],
+   "estado": "borrador",
    "vista": "religion"
   },
   {
@@ -21109,6 +21493,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Según Nocera, Alejandro II «reconquistó» Inglaterra al permitir (con autorización y préstamo de recursos, dice) que Guillermo el Conquistador la invadiera en 1066; al completarse la conquista en 1070 envió tres legados papales, término que Nocera vincula con el Imperio Romano.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 8–9",
+     "url": null,
+     "resumen": "Nocera añade que los legados de 1070 fueron Pietro, Giovanni Minutus y Ermenfrido de Sion, que coronaron a Guillermo en Pascua y presidieron concilios para reformar la Iglesia inglesa; destaca a Lanfranco, arzobispo de Canterbury, y dice que hacia 1080 el arzobispo controlaba casi todo a través del rey.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -21710,6 +22102,49 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
+  },
+  {
+   "id": "linaje-romano-gregorio-i",
+   "tipo": "hecho",
+   "titulo": "Linaje romano del papa Gregorio I",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": 590,
+    "hasta": 604,
+    "texto": "590–604"
+   },
+   "resumen": "Nocera sostiene que Gregorio I descendía de la familia senatorial de los Anicios.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 32 y figura 12",
+     "url": null,
+     "resumen": "Nocera dice que Gregorio I era descendiente de la dinastía de los Anicios, presente en Roma desde las guerras de Macedonia, y que san Félix III y san Félix IV comparten su línea de sangre; lo toma como prueba de que los papas pertenecían al mismo círculo de poder romano.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Gregorio Magno (590–604) pertenecía a una familia senatorial romana vinculada a los Anicios; Félix III era su tatarabuelo según algunas fuentes. Que ello implique continuidad de un poder oculto es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Gregorio I",
+      "url": "https://es.wikipedia.org/wiki/Gregorio_I",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "orden-benedictina-529",
+     "nota": "Mismo capítulo."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
   },
   {
    "id": "lock-step-rockefeller-2010",
@@ -24623,6 +25058,54 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "natalis-solis-invicti-25-diciembre",
+   "tipo": "hecho",
+   "titulo": "Natalis Solis Invicti y el 25 de diciembre",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 274,
+    "aprox": true,
+    "fuente": "oficial",
+    "texto": "25 de diciembre (fiesta romana del Sol Invicto, 274)"
+   },
+   "resumen": "Nocera enlaza la Navidad con la fiesta romana del nacimiento del Sol Invicto y con una decisión de Nicea.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 20–23",
+     "url": null,
+     "resumen": "Nocera señala que el 25 de diciembre coincidía con el solsticio y con las fiestas de muchos dioses; reproduce en las tablas 1 y 2 una lista de «hijos de dioses» (Atis, Tammuz, Horus, Dionisio, Krishna, Jesús…) celebrados en esas fechas, y afirma que la decisión de celebrar el nacimiento de Jesús el 25 de diciembre vino de Nicea.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La fiesta del Sol Invicto se estableció oficialmente en Roma bajo Aureliano en 274. La primera mención cristiana del 25 de diciembre es del Cronógrafo de 354 (para el año 336); no procede del concilio de Nicea. Muchos de los paralelismos de dioses de las tablas son discutidos por los historiadores. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Sol Invictus",
+      "url": "https://es.wikipedia.org/wiki/Sol_Invictus",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "cibeles-colina-vaticana",
+     "nota": "Mismo capítulo."
+    },
+    {
+     "id": "concilio-nicea-325",
+     "nota": "Dónde Nocera sitúa la decisión."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
+  },
+  {
    "id": "national-geographic",
    "tipo": "hecho",
    "titulo": "La National Geographic Society",
@@ -26405,6 +26888,49 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "logias",
+   "vista": "religion"
+  },
+  {
+   "id": "orden-benedictina-529",
+   "tipo": "hecho",
+   "titulo": "Orden benedictina (529)",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": 529,
+    "hasta": 530,
+    "texto": "529–530"
+   },
+   "resumen": "Según Nocera, san Benito de Nursia, de familia noble del imperio, fundó la orden más antigua del Vaticano en Montecassino.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 32–34",
+     "url": null,
+     "resumen": "Nocera dice que la orden benedictina se fundó entre el 529 y el 530 por Benito de Nursia, de una familia noble del imperio, bajo el reino de Odoacro y, en cuanto a los Anicios y Máximos, predecesores de la orden; con sede en Montecassino y casi 8.000 monjes en 2008.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Benito de Nursia fundó Montecassino hacia el 529 y escribió su Regla hacia el 540. Los benedictinos están en la Iglesia católica desde entonces. El vínculo con linajes senatoriales es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Orden de San Benito",
+      "url": "https://es.wikipedia.org/wiki/Orden_de_San_Benito",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "linaje-romano-gregorio-i",
+     "nota": "Mismo capítulo."
+    }
+   ],
+   "estado": "borrador",
    "vista": "religion"
   },
   {
@@ -31456,6 +31982,50 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "saeculum-obscurum-904",
+   "tipo": "hecho",
+   "titulo": "Saeculum obscurum y la «pornocracia» (904)",
+   "carril": "religion",
+   "naturaleza": "arquitecturas",
+   "temas": [],
+   "fecha": {
+    "desde": 904,
+    "hasta": 964,
+    "aprox": true,
+    "texto": "desde 904"
+   },
+   "resumen": "Nocera cita el siglo oscuro del papado: el papa Sergio III bajo el control de Teofilacto y Teodora.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 41",
+     "url": null,
+     "resumen": "Nocera señala que el Saeculum obscurum comenzó en 904 con Sergio III, quien estaba bajo el control del cónsul romano Teofilacto y de su esposa Teodora, que usaba el sexo para ejercer el poder, y lo vincula con la influencia de grandes familias aristocráticas sobre el papado.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Saeculum obscurum (hacia 904–964) designa una época de influencia de las familias aristocráticas romanas (Teofilacto, Teodora, Marozia) sobre el papado; el término «pornocracia» es del siglo XIX y su historicidad es discutida. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Pornocracia",
+      "url": "https://es.wikipedia.org/wiki/Pornocracia",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Después de la coronación."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "religion"
+  },
+  {
    "id": "sagrada-familia-fecha-882",
    "tipo": "hecho",
    "titulo": "Sagrada Familia: ¿1882 o 882?",
@@ -34042,6 +34612,53 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "titulo-rey-de-jerusalen-corona-espanola",
+   "tipo": "hecho",
+   "titulo": "El título de rey de Jerusalén y la Corona española",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1277,
+    "hasta": 1504,
+    "texto": "1277–1504"
+   },
+   "resumen": "Según Nocera, el título de rey de Jerusalén pasó del Imperio Latino a Carlos de Anjou y de ahí a la Corona de Aragón y a Felipe VI.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 30–31",
+     "url": null,
+     "resumen": "Nocera repasa el Imperio Latino de Constantinopla (siglo XIII), a Balduino II, rey de Jerusalén, y cuenta que en 1277 María de Antioquía vendió sus derechos a Carlos I de Anjou, que en 1504 Fernando el Católico unió el título a la Corona de Aragón y que hoy sigue entre los títulos del rey de España, con la heráldica de la cruz de Jerusalén en el escudo; para él, la Corona española está supeditada al Vaticano.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En 1277 María de Antioquía cedió sus derechos al trono de Jerusalén a Carlos de Anjou; los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Título de rey de Jerusalén",
+      "url": "https://es.wikipedia.org/wiki/T%C3%ADtulo_de_rey_de_Jerusal%C3%A9n",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "orden-del-temple",
+     "nota": "Cruzadas."
+    },
+    {
+     "id": "reino-dos-sicilias",
+     "nota": "Nápoles, cadena de herencia."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "tjundeshev-batij-2018",
