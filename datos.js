@@ -5527,6 +5527,42 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "cambridge-analytica-2013",
+   "tipo": "hecho",
+   "titulo": "Cambridge Analytica (2013-2018)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 2013,
+    "hasta": 2018,
+    "texto": "2013-2018",
+    "fuente": "oficial"
+   },
+   "resumen": "Consultora política británica fundada en 2013 como filial de SCL Group; cerró en 2018 tras el escándalo de datos de Facebook.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Cambridge Analytica fue una consultora política británica, antes llamada SCL USA, fundada en 2013 como filial de SCL Group por Nigel Oakes, Alexander Nix y Alexander Oakes, con Nix de director ejecutivo. Saltó a la fama por el escándalo de datos de Facebook; fue contratada por actores políticos como las campañas presidenciales de 2016 de Ted Cruz y Donald Trump, y cerró en 2018.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Cambridge Analytica",
+      "url": "https://en.wikipedia.org/wiki/Cambridge_Analytica",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "donald-trump",
+     "nota": "Contratada por su campaña presidencial de 2016."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "canal-troncos-schauberger",
    "tipo": "hecho",
    "titulo": "Canal de troncos con agua fría de Schauberger",
@@ -8038,6 +8074,44 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "vista": "ciencia"
+  },
+  {
+   "id": "college-holy-cross-1843",
+   "tipo": "hecho",
+   "titulo": "Colegio de la Santa Cruz, Worcester (1843)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1843,
+    "fuente": "oficial"
+   },
+   "resumen": "Colegio universitario jesuita de Worcester (Massachusetts), fundado en 1843; el primer college católico de Nueva Inglaterra.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El College of the Holy Cross es un colegio universitario privado de artes liberales de Worcester, Massachusetts, fundado en 1843 por Benedict Joseph Fenwick bajo los auspicios de la Compañía de Jesús. Fue el primer college católico de Nueva Inglaterra y está entre las instituciones católicas de educación superior más antiguas de Estados Unidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): College of the Holy Cross",
+      "url": "https://en.wikipedia.org/wiki/College_of_the_Holy_Cross",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "compania-de-jesus",
+     "nota": "Colegio jesuita."
+    },
+    {
+     "id": "georgetown-universidad",
+     "nota": "Otra institución jesuita estadounidense."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "ciencia"
   },
   {
@@ -10930,6 +11004,35 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "politica"
+  },
+  {
+   "id": "csic-1939",
+   "tipo": "hecho",
+   "titulo": "Consejo Superior de Investigaciones Científicas, CSIC (1939)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1939,
+    "fuente": "oficial"
+   },
+   "resumen": "Organismo público español de investigación, creado por ley el 24-11-1939 como heredero material de la Junta para Ampliación de Estudios.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El CSIC es un organismo público español de investigación, adscrito al Ministerio de Ciencia, Innovación y Universidades. Su ley fundacional es del 24 de noviembre de 1939 y lo hizo heredero material, no intelectual, de la Junta para Ampliación de Estudios e Investigaciones Científicas (1907-1939). Tiene 121 institutos y tres centros nacionales; con datos de 2009, generaba cerca del 20 % de la producción científica española. Su logotipo es «El árbol de la ciencia» de Ramon Llull.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Consejo Superior de Investigaciones Científicas",
+      "url": "https://es.wikipedia.org/wiki/Consejo_Superior_de_Investigaciones_Científicas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
   },
   {
    "id": "cuadernos-pasteur",
@@ -16204,6 +16307,41 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "fundacion-bill-y-melinda-gates-1994",
+   "tipo": "hecho",
+   "titulo": "Fundación Bill y Melinda Gates (1994)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1994,
+    "texto": "1994 (nombre actual desde 1999; fusión de 2000)",
+    "fuente": "oficial"
+   },
+   "resumen": "Fundación privada de Seattle creada en 1994 como Fundación William H. Gates; se llama así desde 1999.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Fundación Gates es una fundación privada con sede en Seattle (Washington). Fue creada en 1994 por Bill Gates y Melinda French Gates como Fundación William H. Gates y renombrada en 1999 como Fundación Bill y Melinda Gates; en enero de 2000 se fusionó con la Fundación Gates para el Aprendizaje. Recibió el Premio Príncipe de Asturias de Cooperación Internacional en 2006.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Fundación Bill y Melinda Gates",
+      "url": "https://es.wikipedia.org/wiki/Fundación_Bill_y_Melinda_Gates",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "gates-fundacion-vacunas-acusaciones",
+     "nota": "Ficha sobre las acusaciones que le hacen algunos autores."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "fundacion-constantinopla-nueva-cronologia",
    "tipo": "hecho",
    "titulo": "Fundación de la Nueva Roma de Constantinopla (según la Nueva cronología)",
@@ -19132,6 +19270,42 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "horizonte-2020",
+   "tipo": "hecho",
+   "titulo": "Horizonte 2020 (programa de la UE, 2014-2020)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 2014,
+    "hasta": 2020,
+    "texto": "2014-2020",
+    "fuente": "oficial"
+   },
+   "resumen": "Programa marco de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Horizonte 2020 fue el mayor programa de investigación e innovación de la Unión Europea, con un presupuesto de casi 80.000 millones de euros para 2014-2020 y el objetivo de asegurar la competitividad global de Europa. Precede a Horizonte Europa (2021-2027).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Horizonte 2020",
+      "url": "https://es.wikipedia.org/wiki/Horizonte_2020",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "agenda-2030",
+     "nota": "Otra agenda internacional con horizonte en 2020-2030."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
    "id": "huida-hitler-argentina",
    "tipo": "hecho",
    "titulo": "La supuesta huida de Hitler a Argentina",
@@ -21581,6 +21755,42 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
+  },
+  {
+   "id": "juventudes-hitlerianas-1926",
+   "tipo": "hecho",
+   "titulo": "Juventudes Hitlerianas (1926)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1926,
+    "hasta": 1945,
+    "texto": "1926 (nacieron del Jugendbund de 1922)",
+    "fuente": "oficial"
+   },
+   "resumen": "Organización juvenil del partido nazi, creada en 1926 a partir del Jugendbund de 1922, para adiestrar a los jóvenes alemanes en su ideología.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las Juventudes Hitlerianas (Hitler-Jugend) fueron establecidas por el NSDAP en 1926 como sistema de adiestramiento de los jóvenes alemanes, con entrenamiento militar y formación en la ideología nazi. Nacieron del Jugendbund der NSDAP, fundado en marzo de 1922, y duraron hasta 1945.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Juventudes Hitlerianas",
+      "url": "https://es.wikipedia.org/wiki/Juventudes_Hitlerianas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "adolf-hitler",
+     "nota": "Organización del partido que dirigía."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
   },
   {
    "id": "kolkhoz-modelo-reducciones-jesuitas",
@@ -24131,6 +24341,36 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "milicia-nacional-espana-1812",
+   "tipo": "hecho",
+   "titulo": "Milicia Nacional de España (1812)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1812,
+    "texto": "1812 (abolida definitivamente en la Restauración)",
+    "fuente": "oficial"
+   },
+   "resumen": "Cuerpo de ciudadanos armados para el orden público, creado por la Constitución de 1812 y abolido de forma definitiva en la Restauración.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Milicia Nacional fue en España un cuerpo de ciudadanos armados para mantener el orden público y defender el régimen constitucional. Se estableció con la Constitución de 1812 de las Cortes de Cádiz; Fernando VII la abolió en 1814, se restableció en el Trienio Liberal (1820-1823) y volvió a abolirse en la Década Ominosa (1823-1833). Con Isabel II enfrentó a moderados, que querían sustituirla por la Guardia Civil, y progresistas, que la defendían. La abolió definitivamente la Restauración.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Milicia Nacional (España)",
+      "url": "https://es.wikipedia.org/wiki/Milicia_Nacional_(España)",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "mirari-vos-1832",
    "tipo": "hecho",
    "titulo": "Encíclica Mirari vos (1832)",
@@ -24774,6 +25014,40 @@ window.CRONO = {
      }
     ]
    },
+   "vista": "politica"
+  },
+  {
+   "id": "movimiento-scout-1907",
+   "tipo": "hecho",
+   "titulo": "Movimiento scout (1907)",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1907,
+    "fuente": "oficial"
+   },
+   "resumen": "Movimiento juvenil fundado por Baden-Powell: primer campamento en la isla de Brownsea en 1907 y manual «Escultismo para muchachos» en 1908.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El escultismo es un movimiento infantil y juvenil que educa con valores y juegos al aire libre. Nació en la Inglaterra de principios del siglo XX con el primer campamento experimental en la isla de Brownsea (1907) y el manual «Escultismo para muchachos» (1908), del general Robert Baden-Powell, que se apoyó en su experiencia militar. Hoy está en 165 países y territorios, con unos 60 millones de miembros.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Escultismo",
+      "url": "https://es.wikipedia.org/wiki/Escultismo",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "juventudes-hitlerianas-1926",
+     "nota": "Otra organización juvenil con uniformes y grados del siglo XX."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -29351,6 +29625,40 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "partido-comunista-de-china-1921",
+   "tipo": "hecho",
+   "titulo": "Partido Comunista de China (1921)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1921,
+    "fuente": "oficial"
+   },
+   "resumen": "Partido gobernante de la República Popular China; su congreso fundacional fue del 23 al 31 de julio de 1921.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Partido Comunista de China es el partido fundador y gobernante de la República Popular China. Se fundó en 1921: su congreso fundacional se celebró del 23 al 31 de julio. Con casi 100 millones de miembros, es una de las mayores organizaciones políticas del mundo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Partido Comunista de China",
+      "url": "https://es.wikipedia.org/wiki/Partido_Comunista_de_China",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "manifiesto-comunista-1848",
+     "nota": "Origen doctrinal del comunismo."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "partido-renacimiento-nacional",
    "tipo": "hecho",
    "titulo": "National Renaissance Party",
@@ -29829,6 +30137,40 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "phi-beta-kappa-1776",
+   "tipo": "hecho",
+   "titulo": "Sociedad Phi Beta Kappa (1776)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1776,
+    "fuente": "oficial"
+   },
+   "resumen": "Sociedad de honor académica estadounidense fundada el 5-12-1776 en el College of William and Mary; la primera con nombre de letras griegas.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Phi Beta Kappa es una sociedad de honor académica de Estados Unidos que busca promover la excelencia en las humanidades y las ciencias e integrar a los mejores estudiantes de las universidades líderes. Fue fundada el 5 de diciembre de 1776 en el College of William and Mary, como la primera hermandad colegial con nombre de letras griegas. Según Wikipedia, han sido miembros 17 presidentes de Estados Unidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Phi Beta Kappa",
+      "url": "https://es.wikipedia.org/wiki/Phi_Beta_Kappa",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "skull-and-bones-yale",
+     "nota": "Otra sociedad estudiantil estadounidense."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
   },
   {
    "id": "pistola-de-gavrilo-princip",
@@ -30814,6 +31156,44 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "vista": "ciencia"
+  },
+  {
+   "id": "ratio-studiorum-1599",
+   "tipo": "hecho",
+   "titulo": "Ratio Studiorum (1599)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1599,
+    "fuente": "oficial"
+   },
+   "resumen": "Plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La «Ratio atque Institutio Studiorum Societatis Iesu», o Ratio Studiorum, fue el documento que normalizó en 1599 el sistema de educación jesuita, de influencia mundial. Un comité redactó un borrador de prueba en 1586, enviado a las provincias para comentarios de los profesores, y con esa experiencia se hizo en Roma el documento oficial de 1599.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Ratio Studiorum",
+      "url": "https://en.wikipedia.org/wiki/Ratio_Studiorum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "compania-de-jesus",
+     "nota": "Plan de estudios de la orden."
+    },
+    {
+     "id": "educacion-jesuita-lideres-eeuu",
+     "nota": "Educación jesuita y dirigentes estadounidenses."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "ciencia"
   },
   {
@@ -33414,6 +33794,46 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "schutzstaffel-ss-1925",
+   "tipo": "hecho",
+   "titulo": "Schutzstaffel, las SS (1925)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1925,
+    "hasta": 1945,
+    "texto": "1925 (nombre definitivo)–1945",
+    "fuente": "oficial"
+   },
+   "resumen": "Organización paramilitar, policial y de seguridad al servicio de Hitler y del NSDAP; con Himmler (1929-1945) se volvió una de las más poderosas del régimen.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las Schutzstaffel (SS) fueron una organización paramilitar, policial, política y de seguridad al servicio de Adolf Hitler y del NSDAP. Empezaron como la pequeña guardia Saal-Schutz de las reuniones del partido en Múnich; en 1925, ya con su nombre definitivo, se unió Heinrich Himmler, que las dirigió de 1929 a 1945. Sus dos grupos principales fueron las Allgemeine SS y las Waffen-SS, y las SS-Totenkopfverbände dirigían los campos de concentración y exterminio.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Schutzstaffel",
+      "url": "https://es.wikipedia.org/wiki/Schutzstaffel",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "adolf-hitler",
+     "nota": "Organización a su servicio."
+    },
+    {
+     "id": "ss-modelo-jesuita",
+     "nota": "Ficha sobre la tesis de que su estructura copió la jesuita."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "politica"
   },
   {
@@ -36911,6 +37331,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "unicef-1946",
+   "tipo": "hecho",
+   "titulo": "Unicef (1946)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1946,
+    "texto": "1946 (permanente desde 1953)",
+    "fuente": "oficial"
+   },
+   "resumen": "Agencia de la ONU para la infancia, creada en 1946 como fondo de emergencia y permanente desde 1953.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Fondo de las Naciones Unidas para la Infancia (Unicef) es una agencia de la ONU con sede en Nueva York. Se creó en 1946 como Fondo Internacional de Emergencia de las Naciones Unidas para la Infancia, para ayudar a los niños de Europa tras la Segunda Guerra Mundial, y en 1953 pasó a ser organismo permanente. Trabaja en más de 191 países y territorios guiándose por la Convención sobre los Derechos del Niño.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Unicef",
+      "url": "https://es.wikipedia.org/wiki/Unicef",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Agencia del sistema de la ONU."
+    },
+    {
+     "id": "unesco-fundacion-1946",
+     "nota": "Otra agencia de la ONU nacida el mismo año."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "unificacion-italiana",
    "tipo": "hecho",
    "titulo": "La unificación de Italia",
@@ -37315,6 +37774,40 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "universidad-de-deusto-1886",
+   "tipo": "hecho",
+   "titulo": "Universidad de Deusto (1886)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1886,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad jesuita de Bilbao y San Sebastián, fundada en 1886; la universidad privada más antigua de España.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad de Deusto es una universidad privada regida por la Compañía de Jesús, con campus en Bilbao y San Sebastián. Fue fundada en 1886 por la Compañía como Universidad de la Iglesia de Deusto, para dotar al País Vasco de un centro universitario propio en plena expansión industrial. Es la universidad privada más antigua de España. Su Universidad Comercial empezó en 1916.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad de Deusto",
+      "url": "https://es.wikipedia.org/wiki/Universidad_de_Deusto",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "compania-de-jesus",
+     "nota": "Universidad regida por la orden."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
    "id": "universidad-de-padua",
    "tipo": "hecho",
    "titulo": "Universidad de Padua",
@@ -37359,6 +37852,223 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-de-salamanca-1218",
+   "tipo": "hecho",
+   "titulo": "Universidad de Salamanca (1218)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1218,
+    "texto": "1218 (estudio general); 1252 (título de universidad)",
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad pública de Salamanca, la más antigua de España en funcionamiento: estudio general de 1218 y título de universidad en 1252.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad de Salamanca es una universidad pública española, la más antigua en funcionamiento de España y del mundo hispánico y la cuarta de Europa. Nació de escuelas catedralicias documentadas desde 1174. Alfonso IX de León instituyó el estudio general en 1218; la cédula real de Alfonso X de 9 de noviembre de 1252 le dio el título de universidad, ratificado en 1255 por Alejandro IV con la «licentia ubique docendi».",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad de Salamanca",
+      "url": "https://es.wikipedia.org/wiki/Universidad_de_Salamanca",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "escuela-de-salamanca",
+     "nota": "Sede de la escuela de pensamiento del siglo XVI."
+    },
+    {
+     "id": "universidad-de-padua",
+     "nota": "Otra de las universidades medievales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-fordham-1841",
+   "tipo": "hecho",
+   "titulo": "Universidad Fordham (1841)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1841,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad jesuita de Nueva York, fundada en 1841 como St. John's College.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad Fordham es una universidad de investigación jesuita de Nueva York, fundada en 1841 como St. John's College por el obispo coadjutor John Hughes y puesta poco después al cuidado de la Compañía de Jesús. Es la universidad católica y jesuita más antigua del noreste de Estados Unidos. Desde 1969 la gobierna una junta laica independiente de la Iglesia, aunque todos sus presidentes entre 1846 y 2022 fueron sacerdotes jesuitas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Fordham University",
+      "url": "https://en.wikipedia.org/wiki/Fordham_University",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "compania-de-jesus",
+     "nota": "Universidad jesuita."
+    },
+    {
+     "id": "georgetown-universidad",
+     "nota": "Otra universidad jesuita estadounidense."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-harvard",
+   "tipo": "hecho",
+   "titulo": "Universidad Harvard (1636)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1636,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad privada de Cambridge (Massachusetts), fundada el 28-10-1636; la más antigua de Estados Unidos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad Harvard es una universidad privada de investigación de la Ivy League, en Cambridge (Massachusetts), fundada el 28 de octubre de 1636 y llamada así por su primer benefactor, el clérigo inglés John Harvard. Es la institución de educación superior más antigua de Estados Unidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad Harvard",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Harvard",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "universidad-yale",
+     "nota": "Otra universidad de la Ivy League."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-johns-hopkins-1876",
+   "tipo": "hecho",
+   "titulo": "Universidad Johns Hopkins (1876)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1876,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad privada de Baltimore, fundada el 22-2-1876; considerada la primera universidad de investigación de Estados Unidos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad Johns Hopkins es una universidad privada de Baltimore (Maryland), fundada el 22 de febrero de 1876. Según Wikipedia fue la primera universidad dedicada a la investigación en Estados Unidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad Johns Hopkins",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Johns_Hopkins",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "universidad-harvard",
+     "nota": "Otra universidad privada de investigación de Estados Unidos."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-pontificia-comillas-1890",
+   "tipo": "hecho",
+   "titulo": "Universidad Pontificia Comillas, ICAI-ICADE (1890)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1890,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad jesuita de Madrid, nacida en 1890 como seminario pontificio de Comillas; sus facultades se conocen como ICAI e ICADE.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad Pontificia Comillas es una universidad privada española dirigida por la Compañía de Jesús, con sede en Madrid. Nació el 16 de diciembre de 1890 como seminario pontificio en Comillas (Cantabria), erigido por León XIII mediante el breve «Sempiternam Dominici Gregis» y costeado por el marqués de Comillas. Sus facultades se conocen como ICAI (ingeniería), ICADE (Instituto Católico de Administración y Dirección de Empresas) y CIHS. Según Wikipedia, en 2021 el 17 % de los directivos de las empresas del IBEX 35 habían estudiado en ella.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad Pontificia Comillas",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Pontificia_Comillas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "compania-de-jesus",
+     "nota": "Universidad dirigida por la orden."
+    },
+    {
+     "id": "iese-esade-1958",
+     "nota": "Otra escuela de negocios española vinculada a órdenes religiosas."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "ciencia"
+  },
+  {
+   "id": "universidad-yale",
+   "tipo": "hecho",
+   "titulo": "Universidad Yale (1701)",
+   "carril": "ciencia-saber",
+   "naturaleza": "institutos",
+   "temas": [],
+   "fecha": {
+    "desde": 1701,
+    "fuente": "oficial"
+   },
+   "resumen": "Universidad privada de New Haven (Connecticut), fundada en 1701; es de la Ivy League.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Universidad Yale es una universidad privada de New Haven, Connecticut, fundada en 1701 y miembro de la Ivy League. Es la tercera institución de educación superior más antigua de Estados Unidos y uno de los nueve «colleges» coloniales con carta real del monarca británico anterior a la Revolución de las Trece Colonias.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Universidad Yale",
+      "url": "https://es.wikipedia.org/wiki/Universidad_Yale",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "skull-and-bones-yale",
+     "nota": "Su sociedad estudiantil más conocida."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "ciencia"
   },
   {
