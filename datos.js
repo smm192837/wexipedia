@@ -7702,6 +7702,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Presenta al príncipe Bernardo como fundador del Grupo Bilderberg y miembro de la caballería de las SS.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. ~227",
+     "url": null,
+     "resumen": "Nocera señala que el Club Bilderberg reúne desde 1954 a la élite sin ser el único centro de control; en 2018, en Turín, fue invitado oficialmente por primera vez el Vaticano.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -7719,7 +7727,7 @@ window.CRONO = {
      "nota": "Presencia de monarcas, según el autor."
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9272,6 +9280,51 @@ window.CRONO = {
      }
     ]
    },
+   "vista": "politica"
+  },
+  {
+   "id": "consejo-de-las-americas-1963",
+   "tipo": "hecho",
+   "titulo": "Council of the Americas (1963)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1963
+   },
+   "resumen": "Asociación empresarial de Washington; Nocera dice que la maneja la familia Rockefeller y que presidentes latinoamericanos pasan por ella.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. ~228",
+     "url": null,
+     "resumen": "Nocera afirma que el Consejo de las Américas, fundado en 1963 y «manejado por los Rockefeller», es escala para futuros presidentes latinoamericanos y cita la reunión de Jair Bolsonaro en octubre de 2017 como muestra de que ni Brasil escapa al control global.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Council of the Americas lo fundó en 1963 David Rockefeller como asociación de empresas con intereses en América Latina; reúne a ejecutivos y gobernantes en conferencias. Que sea un instrumento de control global es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Americas Society / Council of the Americas",
+      "url": "https://en.wikipedia.org/wiki/Americas_Society/Council_of_the_Americas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "jair-bolsonaro",
+     "nota": "Citado por Nocera."
+    },
+    {
+     "id": "cfr-1921",
+     "nota": "Misma visita de Bolsonaro."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -26997,6 +27050,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Según el autor, los Láscaris-Comneno, herederos del Imperio Griego, son los Habsburgo (mismo escudo del águila bicéfala) y los Ángelus los Anjou, que crearon documentación artificial (Orden Constantiniana de Isaac Ángelo en 1190; Espuela de Oro de Carlos de Anjou en 1266) y convirtieron a Isaac Ángelo en Judas; se declaran descendientes de Andrónico Comneno (Cristo), duques de Atenas y de Hesperia y condes de Ribagorza; en 1922, 1935 y 1945 intentaron reconstruir sus derechos.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 205–207",
+     "url": null,
+     "resumen": "Nocera dice que la orden se remonta a Constantino, que su gran maestre es Carlos de Borbón-Dos Sicilias (Farnesio), que en 2011 obtuvo estatus consultivo en el ECOSOC, que ese año Carlos y Camilla recibieron la ciudadanía de la City de Londres y que en 2013 investió a Juan Manuel Santos; considera que la dinastía Borbón domina la orden.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -27014,7 +27075,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -27263,6 +27324,14 @@ window.CRONO = {
      "ubicacion": "cap. 3, p. 209",
      "url": null,
      "resumen": "Nocera la describe como un estado sin territorio, con unos 13.000 miembros y 80.000 voluntarios, supeditado al Vaticano; nace en Jerusalén durante las cruzadas, y la sitúa en la estructura de control.",
+     "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 208–210",
+     "url": null,
+     "resumen": "Nocera cuenta que el papa Francisco pidió en enero de 2017 la dimisión del gran maestre Matthew Festing, que la orden es reconocida por 104 países y que en diciembre de 2018 votó a favor del Pacto de Migración de la ONU; interpreta ambos hechos como un intento de alinearla con el globalismo.",
      "contradice": []
     }
    ],
@@ -30741,6 +30810,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Nocera afirma que en octubre de 2007 el Vaticano reconoció la inocencia de los templarios y que, casi a la vez, la reina Isabel II reconoció a la Orden del Templo de Salomón; la describe como un principado soberano sin territorio, con pasaportes diplomáticos y una declaración presentada ante la ONU, y lo ve como una pieza de la estructura de control.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. ~196–199",
+     "url": null,
+     "resumen": "Nocera amplía con la web de la OSMTH: restaurada en París en 1804 bajo Napoleón, reestructurada en 1995, estatus consultivo especial ante el ECOSOC desde 2002, Declaración de Bruselas de octubre de 2007 y Resolución nº 8 de 2008; más de 6.000 miembros, y lo presenta como religión usada para tranquilizar a la gente, como hacía Roma.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -31277,6 +31354,51 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "riia-chatham-house-1920",
+   "tipo": "hecho",
+   "titulo": "Royal Institute of International Affairs (Chatham House, 1920)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1920
+   },
+   "resumen": "Think tank británico de política exterior; Nocera lo describe como un poder de decisión con miembros corporativos como Google, Apple y Microsoft.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 218",
+     "url": null,
+     "resumen": "Nocera dice que la RIIA se fundó en 1920 con la dinastía Astor, recibió el título «Royal» en 1926 por carta de la corona, se presenta como centro de pensamiento pero actúa como gran poder de influencia entre política y corporaciones, y mantiene a los gobiernos dentro de las reglas del FMI y el Banco Mundial.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Chatham House se fundó en 1920 tras la Conferencia de París y recibió la carta real en 1926; es un think tank con miembros individuales y corporativos y publica la revista International Affairs. Que sea un poder oculto de decisión no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Chatham House: historia",
+      "url": "https://www.chathamhouse.org/about-us/our-history",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "cfr-1921",
+     "nota": "Homólogo estadounidense, según Nocera."
+    },
+    {
+     "id": "city-de-londres",
+     "nota": "City como mayor corporación miembro, según Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
