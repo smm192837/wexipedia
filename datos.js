@@ -1013,6 +1013,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "acnur-1950",
+   "tipo": "hecho",
+   "titulo": "ACNUR/UNHCR, Alto Comisionado de la ONU para los Refugiados (1950)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1950,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera lo cita junto a la OIM como el organismo de la ONU que controla lo referente a refugiados, con sede en Ginebra.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera lo cita junto a la OIM como el organismo de la ONU que controla lo referente a refugiados, con sede en Ginebra.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El ACNUR se creó el 14-12-1950 y empezó a trabajar en 1951; tiene sede en Ginebra. Su carácter de pieza de control es lectura de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: ACNUR",
+      "url": "https://es.wikipedia.org/wiki/Alto_Comisionado_de_las_Naciones_Unidas_para_los_Refugiados",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "acuerdo-haavara-1933",
    "tipo": "hecho",
    "titulo": "Acuerdo Haavara",
@@ -9409,6 +9451,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "consejo-mundial-de-la-energia-1923",
+   "tipo": "hecho",
+   "titulo": "Consejo Mundial de la Energía (WEC, 1923)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1923,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que el WEC, con sede en Londres y acreditado por la ONU, agrupa a más de 3.000 organizaciones de 90 países y representa a toda la energía; por debajo estarían los cárteles energéticos.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «WEC»",
+     "url": null,
+     "resumen": "Nocera dice que el WEC, con sede en Londres y acreditado por la ONU, agrupa a más de 3.000 organizaciones de 90 países y representa a toda la energía; por debajo estarían los cárteles energéticos.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Consejo Mundial de la Energía nació en 1923 en Londres como Conferencia Mundial de la Energía y es hoy una red de empresas, gobiernos e instituciones del sector. Su carácter de cúspide de un sistema de control es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Consejo Mundial de la Energía",
+      "url": "https://es.wikipedia.org/wiki/Consejo_Mundial_de_la_Energ%C3%ADa",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "consejo-relaciones-exteriores",
    "tipo": "hecho",
    "titulo": "Consejo de Relaciones Exteriores (CFR)",
@@ -10123,6 +10207,48 @@ window.CRONO = {
    "conexiones": [],
    "estado": "borrador",
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "corte-penal-internacional-2002",
+   "tipo": "hecho",
+   "titulo": "Corte Penal Internacional (2002)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 2002,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera sostiene que la CPI forma parte del entramado global y resume que, si lograran la Agenda 2030, la Asamblea General sería el congreso del mundo y la Corte Internacional de Justicia, la corte suprema.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «No es ONU: es SNU»",
+     "url": null,
+     "resumen": "Nocera sostiene que la CPI forma parte del entramado global y resume que, si lograran la Agenda 2030, la Asamblea General sería el congreso del mundo y la Corte Internacional de Justicia, la corte suprema.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La CPI es un tribunal independiente creado por el Estatuto de Roma (1998), en vigor desde 2002, con sede en La Haya; no es un órgano de la ONU. Es un dato que contradice lo que dice Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Corte Penal Internacional",
+      "url": "https://es.wikipedia.org/wiki/Corte_Penal_Internacional",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -15541,6 +15667,48 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "fao-1945",
+   "tipo": "hecho",
+   "titulo": "FAO, Organización de las Naciones Unidas para la Alimentación y la Agricultura (1945)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que el 61 % de la financiación de la FAO viene de donaciones voluntarias, entre ellas una de la semillera Euroseeds (300.000 € en 2015), y que las grandes empresas de alimentos se reúnen con la FAO desde 2010 para asegurar su futuro.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «FAO»",
+     "url": null,
+     "resumen": "Nocera dice que el 61 % de la financiación de la FAO viene de donaciones voluntarias, entre ellas una de la semillera Euroseeds (300.000 € en 2015), y que las grandes empresas de alimentos se reúnen con la FAO desde 2010 para asegurar su futuro.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias. Que los donantes busquen contratos es afirmación de Nocera sin comprobar. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "FAO: informe de resultados",
+      "url": "http://www.fao.org/fileadmin/user_upload/PIR/docs/MV543e.pdf",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "festival-altamont-1969",
    "tipo": "hecho",
    "titulo": "Festival de Altamont (diciembre de 1969)",
@@ -16367,6 +16535,48 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "geidco-2016",
+   "tipo": "hecho",
+   "titulo": "GEIDCO, Organización para el Desarrollo y la Cooperación de la Interconexión Energética Global",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 2016
+   },
+   "fecha_autor": "«2015» (según Nocera)",
+   "resumen": "Nocera la presenta como la organización china que busca dar protagonismo a China en el control energético dentro de un posible gobierno mundial.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «WEC» (lista de cárteles)",
+     "url": null,
+     "resumen": "Nocera la presenta como la organización china que busca dar protagonismo a China en el control energético dentro de un posible gobierno mundial.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global lanzada por China en 2015. Su papel de pieza de un control mundial es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: GEIDCO",
+      "url": "https://en.wikipedia.org/wiki/Global_Energy_Interconnection_Development_and_Cooperation_Organization",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "generador-hendershot",
@@ -19006,6 +19216,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "iata-1945",
+   "tipo": "hecho",
+   "titulo": "IATA, Asociación Internacional de Transporte Aéreo (1945)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que la IATA fija el código de vuelo del pase de abordar, que en teoría no pertenece al SNU pero reporta a la ITO, que a su vez forma parte de la UNECE de la ONU.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera dice que la IATA fija el código de vuelo del pase de abordar, que en teoría no pertenece al SNU pero reporta a la ITO, que a su vez forma parte de la UNECE de la ONU.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La IATA se fundó en La Habana en 1945 como asociación de aerolíneas; no es una agencia de la ONU. La cadena de dependencia que expone Nocera no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: IATA",
+      "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Internacional_de_Transporte_A%C3%A9reo",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "iese-esade-1958",
    "tipo": "hecho",
    "titulo": "IESE (Opus Dei) y ESADE (Compañía de Jesús) en 1958",
@@ -20108,6 +20360,48 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "vista": "religion"
+  },
+  {
+   "id": "internacional-socialista-1951",
+   "tipo": "hecho",
+   "titulo": "Internacional Socialista (1951)",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1951,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que muchos partidos de América Latina y Europa pertenecen a la IS, fundada en 1951, con estatus consultivo de categoría 1 en la ONU y vínculos con regímenes como el de los Castro.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «IS»",
+     "url": null,
+     "resumen": "Nocera dice que muchos partidos de América Latina y Europa pertenecen a la IS, fundada en 1951, con estatus consultivo de categoría 1 en la ONU y vínculos con regímenes como el de los Castro.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres. Los lazos que Nocera describe con tiranías son su interpretación. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Internacional Socialista",
+      "url": "https://es.wikipedia.org/wiki/Internacional_Socialista",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "intervencion-orden-del-templo-1677",
@@ -25427,6 +25721,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "nftc-1914",
+   "tipo": "hecho",
+   "titulo": "National Foreign Trade Council (NFTC, 1914)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1914,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera la presenta como una de las organizaciones de la estructura global; su presidente en 2002, Rufus Yerxa, fue subdirector de la Organización Mundial del Comercio.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «NFTC»",
+     "url": null,
+     "resumen": "Nocera la presenta como una de las organizaciones de la estructura global; su presidente en 2002, Rufus Yerxa, fue subdirector de la Organización Mundial del Comercio.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El NFTC se fundó en 1914 en Estados Unidos como asociación de empresas con negocios internacionales. La conexión con la OMC que señala Nocera se explica por la trayectoria de su presidente. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "NFTC: acerca de",
+      "url": "http://www.nftc.org",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "nobleza-en-iberoamerica",
    "tipo": "hecho",
    "titulo": "Nobleza europea en Iberoamérica",
@@ -26097,6 +26433,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "oaci-icao-1944",
+   "tipo": "hecho",
+   "titulo": "OACI/ICAO, Organización de Aviación Civil Internacional (1944)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1944,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera usa el código de aeropuerto del billete para decir que la ICAO (1944) regula los aeropuertos a escala mundial y que la IATA, formalmente ajena, responde a la ITO y a la UNECE, y por tanto al SNU.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera usa el código de aeropuerto del billete para decir que la ICAO (1944) regula los aeropuertos a escala mundial y que la IATA, formalmente ajena, responde a la ITO y a la UNECE, y por tanto al SNU.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Convenio de Chicago de 1944 creó la OACI, agencia de la ONU desde 1947. La IATA es una asociación privada de aerolíneas. Que ello pruebe un control total por la ONU es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: OACI",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_Aviaci%C3%B3n_Civil_Internacional",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "oas-1961",
    "tipo": "hecho",
    "titulo": "Creación de la OAS en Madrid",
@@ -26143,6 +26521,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "ocde-1948",
+   "tipo": "hecho",
+   "titulo": "OCDE, Organización para la Cooperación y el Desarrollo Económicos (1948)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que la OCDE, fundada en 1948, define políticas económicas globales, que antes de 1998 se limitaba a lo macroeconómico y que desde entonces actúa como organismo multilateral; menciona que su sede en París, el castillo de la Muette, fue propiedad Rothschild.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «OECD»",
+     "url": null,
+     "resumen": "Nocera dice que la OCDE, fundada en 1948, define políticas económicas globales, que antes de 1998 se limitaba a lo macroeconómico y que desde entonces actúa como organismo multilateral; menciona que su sede en París, el castillo de la Muette, fue propiedad Rothschild.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La OCDE sucede a la Organización Europea de Cooperación Económica, creada en 1948 para el Plan Marshall, y adoptó su nombre actual en 1961; su sede está en el castillo de la Muette, antes propiedad de la familia Rothschild. Que oriente políticas globales alineada con el SNU es lectura de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: OCDE",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Cooperaci%C3%B3n_y_el_Desarrollo_Econ%C3%B3micos",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "oferta-de-paz-alemana-1916",
    "tipo": "hecho",
    "titulo": "La oferta de paz alemana de 1916",
@@ -26185,6 +26605,132 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "oic-1969",
+   "tipo": "hecho",
+   "titulo": "Organización de Cooperación Islámica (OIC, 1969)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1969,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera sostiene que la OIC tiene organismos especializados como la ONU (banco islámico, ISESCO, uniones de prensa y parlamento), presencia en Nueva York, Ginebra y Bruselas, y que por ello la ONU adopta una postura blanda con la «invasión islámica» de Europa; esto último es opinión suya.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «OIC»",
+     "url": null,
+     "resumen": "Nocera sostiene que la OIC tiene organismos especializados como la ONU (banco islámico, ISESCO, uniones de prensa y parlamento), presencia en Nueva York, Ginebra y Bruselas, y que por ello la ONU adopta una postura blanda con la «invasión islámica» de Europa; esto último es opinión suya.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Organización de la Conferencia Islámica (hoy de Cooperación Islámica) se fundó en Rabat en 1969, tiene sede en Yeda y es observadora en la ONU. Las acusaciones de Nocera sobre su influencia en la política migratoria no forman parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Organización de Cooperación Islámica",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_Cooperaci%C3%B3n_Isl%C3%A1mica",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
+   "id": "oim-iom-1951",
+   "tipo": "hecho",
+   "titulo": "OIM/IOM, Organización Internacional para las Migraciones (1951)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1951,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que la OIM y el ACNUR, ambas con sede en Ginebra, controlan lo relativo a inmigrantes y refugiados, y que la OIM impulsó el Pacto de Migración de 2018.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera dice que la OIM y el ACNUR, ambas con sede en Ginebra, controlan lo relativo a inmigrantes y refugiados, y que la OIM impulsó el Pacto de Migración de 2018.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La OIM se creó en 1951 y es organismo conexo de la ONU desde 2016; tiene sede en Ginebra. Que controle a los migrantes es lectura de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: OIM",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Internacional_para_las_Migraciones",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
+   "id": "omi-imo-1948",
+   "tipo": "hecho",
+   "titulo": "OMI/IMO, Organización Marítima Internacional (1948)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera sostiene que la OMI, con sede en Londres, regularía casi todo el transporte marítimo mundial.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera señala que la IMO, con sede en Londres desde 1948, regularía casi todo el transporte marítimo mundial; da la cifra de más de cuatro quintas partes de los envíos.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en 1958; tiene sede en Londres. La cifra del 80 % que da Nocera no está comprobada. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Organización Marítima Internacional",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mar%C3%ADtima_Internacional",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -26470,6 +27016,48 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "omt-unwto",
+   "tipo": "hecho",
+   "titulo": "Organización Mundial del Turismo (UNWTO/OMT)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1975
+   },
+   "fecha_autor": "«1950» (según Nocera)",
+   "resumen": "Nocera dice que la UNWTO existe desde 1950, con sede en Ginebra, y que controla el turismo mundial.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera dice que la UNWTO existe desde 1950, con sede en Ginebra, y que controla el turismo mundial.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003. La sede en Ginebra y la fecha de 1950 de Nocera no coinciden con la versión oficial. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Organización Mundial del Turismo",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_del_Turismo",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "onu",
    "tipo": "hecho",
    "titulo": "La ONU",
@@ -26552,6 +27140,48 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
+   "id": "opep-1960",
+   "tipo": "hecho",
+   "titulo": "OPEP, Organización de Países Exportadores de Petróleo (1960)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1960,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera la cita, junto a GEIDCO, como uno de los cárteles energéticos situados bajo el WEC en la estructura de control.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «WEC» (lista de cárteles)",
+     "url": null,
+     "resumen": "Nocera la cita, junto a GEIDCO, como uno de los cárteles energéticos situados bajo el WEC en la estructura de control.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La OPEP se fundó en Bagdad en septiembre de 1960 por cinco países productores y tiene su sede en Viena desde 1965. Que dependa jerárquicamente del WEC es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: OPEP",
+      "url": "https://es.wikipedia.org/wiki/OPEP",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -27652,6 +28282,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "organizacion-mundial-de-aduanas-1952",
+   "tipo": "hecho",
+   "titulo": "Organización Mundial de Aduanas (OMA/WCO, 1952)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1952,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera afirma que la WCO, con sede en Bruselas, adhirió en 2015 a la Agenda 2030 (captura de su web) y es un organismo clave para el globalismo.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «WCO»",
+     "url": null,
+     "resumen": "Nocera afirma que la WCO, con sede en Bruselas, adhirió en 2015 a la Agenda 2030 (captura de su web) y es un organismo clave para el globalismo.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Consejo de Cooperación Aduanera empezó a funcionar en 1952 en Bruselas y tomó el nombre de Organización Mundial de Aduanas en 1994. Sus programas de apoyo a los Objetivos de Desarrollo Sostenible son públicos; su papel de control global es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Organización Mundial de Aduanas",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_Aduanas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "origen-catolico-del-comunismo",
    "tipo": "hecho",
    "titulo": "El comunismo, modelo social de origen cristiano",
@@ -27839,6 +28511,48 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "otan-1949",
+   "tipo": "hecho",
+   "titulo": "OTAN, Organización del Tratado del Atlántico Norte (1949)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1949,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera dice que la OTAN se fundó en Londres en 1949, tiene sede en Bruselas y agrupa a 29 países; afirma que, aunque parece independiente, la controlan las órdenes del Templo y Constantiniana, y la ve como regreso a la época del Estado Papal.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «OTAN»",
+     "url": null,
+     "resumen": "Nocera dice que la OTAN se fundó en Londres en 1949, tiene sede en Bruselas y agrupa a 29 países; afirma que, aunque parece independiente, la controlan las órdenes del Templo y Constantiniana, y la ve como regreso a la época del Estado Papal.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Tratado del Atlántico Norte se firmó en Washington el 4-4-1949 por doce países; la sede está en Bruselas y en 2018 tenía 29 miembros. La subordinación a órdenes caballerescas es tesis de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: OTAN",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_del_Tratado_del_Atl%C3%A1ntico_Norte",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "pacto-germano-sovietico-1939",
@@ -28991,6 +29705,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "piweir-imemo-1956",
+   "tipo": "hecho",
+   "titulo": "Instituto Primakov de Economía Mundial y Relaciones Internacionales (IMEMO)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1956
+   },
+   "fecha_autor": "«1925» (según Nocera)",
+   "resumen": "Nocera cita la web del instituto: nace en 1956 como sucesor del Instituto de Economía Mundial y Asuntos Internacionales (1925–1948), de la Academia de Ciencias de Rusia; lo ve como el Chatham House ruso y su primera aparición de Rusia en la estructura global.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «PIWEIR»",
+     "url": null,
+     "resumen": "Nocera cita la web del instituto: nace en 1956 como sucesor del Instituto de Economía Mundial y Asuntos Internacionales (1925–1948), de la Academia de Ciencias de Rusia; lo ve como el Chatham House ruso y su primera aparición de Rusia en la estructura global.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El IMEMO se creó en 1956 dentro de la Academia de Ciencias de la URSS y hoy lleva el nombre de Yevgueni Primakov; es un instituto de investigación sobre economía y política internacional. La equiparación con Chatham House como brazo de lobby es de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: IMEMO",
+      "url": "https://en.wikipedia.org/wiki/Primakov_Institute_of_World_Economy_and_International_Relations",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "riia-chatham-house-1920",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -35777,6 +36533,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "uit-itu-1865",
+   "tipo": "hecho",
+   "titulo": "UIT/ITU, Unión Internacional de Telecomunicaciones (1865)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1865,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera cuenta que la UIT, fundada en 1865 y con sede en Ginebra, fue incorporada por el SNU en 1947, y confiesa que fue una de las mayores decepciones de su vida saber su alcance, tras haber estudiado telecomunicaciones.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y tecnología de la información»",
+     "url": null,
+     "resumen": "Nocera cuenta que la UIT, fundada en 1865 y con sede en Ginebra, fue incorporada por el SNU en 1947, y confiesa que fue una de las mayores decepciones de su vida saber su alcance, tras haber estudiado telecomunicaciones.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Unión Internacional del Telégrafo se fundó en París en 1865, adoptó el nombre actual en 1932 y es agencia de la ONU desde 1947; su sede está en Ginebra. La valoración de Nocera es personal. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Unión Internacional de Telecomunicaciones",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Internacional_de_Telecomunicaciones",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "una-utopia-moderna-1905",
    "tipo": "hecho",
    "titulo": "«Una utopía moderna», de H. G. Wells (1905)",
@@ -36400,6 +37198,48 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "upu-1874",
+   "tipo": "hecho",
+   "titulo": "Unión Postal Universal (UPU, 1874)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1874,
+    "fuente": "autor"
+   },
+   "resumen": "Nocera cuenta que la UPU, de 1874, fue absorbida por la ONU al terminar la II Guerra Mundial, y la cita como ejemplo del control de los servicios de correo.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «SNU y el transporte»",
+     "url": null,
+     "resumen": "Nocera cuenta que la UPU, de 1874, fue absorbida por la ONU al terminar la II Guerra Mundial, y la cita como ejemplo del control de los servicios de correo.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La UPU se fundó en Berna en 1874 como Unión General de Correos y se convirtió en organismo especializado de la ONU en 1948. «Absorbida» es la palabra de Nocera. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Unión Postal Universal",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Postal_Universal",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Parte de la estructura global de control descrita por Nocera."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
