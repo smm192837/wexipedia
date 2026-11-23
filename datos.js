@@ -1035,11 +1035,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El ACNUR se creó el 14-12-1950 y empezó a trabajar en 1951; tiene sede en Ginebra. Su carácter de pieza de control es lectura de Nocera. Pendiente de contrastar.",
+    "resumen": "El ACNUR se creó el 14-12-1950 y empezó a trabajar en 1951; tiene sede en Ginebra. Su carácter de pieza de control es lectura de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: ACNUR",
       "url": "https://es.wikipedia.org/wiki/Alto_Comisionado_de_las_Naciones_Unidas_para_los_Refugiados",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): UNHCR",
+      "url": "https://en.wikipedia.org/wiki/UNHCR",
       "consultado": "2026-11-23"
      }
     ]
@@ -7145,11 +7150,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Council on Foreign Relations se fundó en 1921 en Nueva York como think tank sobre política exterior y publica la revista Foreign Affairs. Que sea un círculo oculto de poder no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El Council on Foreign Relations se fundó en 1921 en Nueva York como think tank sobre política exterior y publica la revista Foreign Affairs. Que sea un círculo oculto de poder no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "CFR: acerca de",
       "url": "https://www.cfr.org/about",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Council on Foreign Relations",
+      "url": "https://en.wikipedia.org/wiki/Council_on_Foreign_Relations",
       "consultado": "2026-11-23"
      }
     ]
@@ -8780,11 +8790,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El primer concilio ecuménico se celebró en Nicea en 325 por convocatoria de Constantino; condenó el arrianismo y fijó el Credo niceno y la fecha de la Pascua. La fecha del 25 de diciembre se fijó más tarde en Roma (hacia 336). Constantino se bautizó poco antes de morir. La tesis de que fue una maniobra puramente política no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El primer concilio ecuménico se celebró en Nicea en 325 (de mayo a finales de julio), por convocatoria de Constantino; trató la cuestión arriana, formó la primera parte del Credo niceno y fijó una fecha uniforme de la Pascua. La primera mención cristiana del 25 de diciembre es el Cronógrafo de 354; la fecha no procede del concilio. Constantino se bautizó poco antes de morir. La tesis de que fue una maniobra puramente política no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Britannica: Council of Nicaea",
       "url": "https://www.britannica.com/event/Council-of-Nicaea-Christianity",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): First Council of Nicaea",
+      "url": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Chronography of 354",
+      "url": "https://en.wikipedia.org/wiki/Chronography_of_354",
       "consultado": "2026-11-23"
      }
     ]
@@ -9473,11 +9493,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Consejo Mundial de la Energía nació en 1923 en Londres como Conferencia Mundial de la Energía y es hoy una red de empresas, gobiernos e instituciones del sector. Su carácter de cúspide de un sistema de control es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "El Consejo Mundial de la Energía se formó en 1923 con comités nacionales; la primera conferencia fue en 1924, y ese año se acordó una organización permanente, la World Power Conference. Hoy es una red de empresas, gobiernos e instituciones del sector, acreditada ante la ONU. Su carácter de cúspide de un sistema de control es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Consejo Mundial de la Energía",
       "url": "https://es.wikipedia.org/wiki/Consejo_Mundial_de_la_Energ%C3%ADa",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): World Energy Council",
+      "url": "https://en.wikipedia.org/wiki/World_Energy_Council",
       "consultado": "2026-11-23"
      }
     ]
@@ -9565,11 +9590,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Constantino fundó Constantinopla sobre Bizancio y la inauguró en 330; sus reformas monetarias crearon el sólido de oro (solidus), una moneda estable con respaldo metálico. Que emitiera moneda fiduciaria sin respaldo no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "Constantino fundó Constantinopla sobre Bizancio y la inauguró en 330; generalizó la acuñación del sólido (solidus), una moneda de oro de 72 por libra, estable y con respaldo metálico, que Diocleciano había introducido antes en emisiones pequeñas. Que emitiera moneda fiduciaria sin respaldo no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Britannica: Constantine the Great",
       "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Constantine the Great",
+      "url": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Solidus (coin)",
+      "url": "https://en.wikipedia.org/wiki/Solidus_(coin)",
       "consultado": "2026-11-23"
      }
     ]
@@ -10232,11 +10267,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La CPI es un tribunal independiente creado por el Estatuto de Roma (1998), en vigor desde 2002, con sede en La Haya; no es un órgano de la ONU. Es un dato que contradice lo que dice Nocera. Pendiente de contrastar.",
+    "resumen": "La CPI es un tribunal independiente creado por el Estatuto de Roma (1998), en vigor desde 2002, con sede en La Haya; no es un órgano de la ONU. Es un dato que contradice lo que dice Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Corte Penal Internacional",
       "url": "https://es.wikipedia.org/wiki/Corte_Penal_Internacional",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Criminal Court",
+      "url": "https://en.wikipedia.org/wiki/International_Criminal_Court",
       "consultado": "2026-11-23"
      }
     ]
@@ -10546,6 +10586,16 @@ window.CRONO = {
       "titulo": "Britannica: Federal Reserve Act",
       "url": "https://www.britannica.com/topic/Federal-Reserve-Act",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Federal Reserve Act",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Edward M. House",
+      "url": "https://en.wikipedia.org/wiki/Edward_M._House",
+      "consultado": "2026-11-23"
      }
     ]
    },
@@ -11612,7 +11662,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La devaluación del denario es un hecho aceptado: la plata fue disminuyendo desde Nerón (hacia el 64) y se desplomó en el siglo III; el edicto de precios máximos de Diocleciano es del 301. Las cifras concretas de Peden no se han comprobado. Pendiente de contrastar.",
+    "resumen": "La devaluación del denario es un hecho aceptado: con Nerón (37–68) su peso se redujo a 1/96 de libra, el denario dejó de acuñarse en plata hacia 270–275 (Aureliano) y el edicto de precios máximos de Diocleciano es del 301. Las cifras concretas de Peden no se han comprobado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Denario",
@@ -11622,6 +11672,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Edicto máximo de Diocleciano",
       "url": "https://es.wikipedia.org/wiki/Edicto_m%C3%A1ximo_de_Diocleciano",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Denarius",
+      "url": "https://en.wikipedia.org/wiki/Denarius",
       "consultado": "2026-11-23"
      }
     ]
@@ -12307,11 +12362,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 754–756 Pipino el Breve entregó al papa los territorios arrebatados a los lombardos (Exarcado de Rávena y Pentápolis), origen de los Estados Pontificios, con el apoyo del papa Esteban II (III). Pendiente de contrastar.",
+    "resumen": "En abril de 754 Pipino el Breve prometió al papa Esteban II (III) tierras de Italia (Quierzy) y en 756, tras derrotar al rey lombardo Astolfo, las entregó: el Exarcado de Rávena y el ducado romano. Es el origen de los Estados Pontificios.",
     "fuentes": [
      {
       "titulo": "Britannica: Donation of Pippin",
       "url": "https://www.britannica.com/event/Donation-of-Pippin",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Donation of Pepin",
+      "url": "https://en.wikipedia.org/wiki/Donation_of_Pepin",
       "consultado": "2026-11-23"
      }
     ]
@@ -12551,7 +12611,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La East India Company inglesa recibió su carta real de Isabel I el 31 de diciembre de 1600 y la Compañía Holandesa de las Indias Orientales (VOC) se fundó en 1602; la VOC fue pionera en emitir acciones negociables en bolsa y se disolvió en 1799. La inglesa dominó el comercio con la India hasta su disolución en 1874. Las acciones de la VOC eran públicas y sus accionistas figuraban en registros; la dependencia de los Estados Papales no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La East India Company inglesa recibió su carta real de Isabel I el 31 de diciembre de 1600 y la Compañía Holandesa de las Indias Orientales (VOC) se fundó en 1602; la VOC fue pionera en emitir acciones negociables en bolsa y se disolvió en 1799. La inglesa dominó el comercio con la India hasta su disolución en 1874. Las acciones de la VOC eran públicas y sus accionistas figuraban en registros; la dependencia de los Estados Papales no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Britannica: East India Company",
@@ -12561,6 +12621,16 @@ window.CRONO = {
      {
       "titulo": "Britannica: Dutch East India Company",
       "url": "https://www.britannica.com/topic/Dutch-East-India-Company",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): East India Company",
+      "url": "https://en.wikipedia.org/wiki/East_India_Company",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Dutch East India Company",
+      "url": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
       "consultado": "2026-11-23"
      }
     ]
@@ -15689,11 +15759,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias. Que los donantes busquen contratos es afirmación de Nocera sin comprobar. Pendiente de contrastar.",
+    "resumen": "La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias. Que los donantes busquen contratos es afirmación de Nocera sin comprobar.",
     "fuentes": [
      {
       "titulo": "FAO: informe de resultados",
       "url": "http://www.fao.org/fileadmin/user_upload/PIR/docs/MV543e.pdf",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Food and Agriculture Organization",
+      "url": "https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization",
       "consultado": "2026-11-23"
      }
     ]
@@ -19238,11 +19313,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La IATA se fundó en La Habana en 1945 como asociación de aerolíneas; no es una agencia de la ONU. La cadena de dependencia que expone Nocera no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La IATA se fundó en La Habana en 1945 como asociación de aerolíneas; no es una agencia de la ONU. La cadena de dependencia que expone Nocera no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: IATA",
       "url": "https://es.wikipedia.org/wiki/Asociaci%C3%B3n_Internacional_de_Transporte_A%C3%A9reo",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Air Transport Association",
+      "url": "https://en.wikipedia.org/wiki/International_Air_Transport_Association",
       "consultado": "2026-11-23"
      }
     ]
@@ -20384,11 +20464,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres. Los lazos que Nocera describe con tiranías son su interpretación. Pendiente de contrastar.",
+    "resumen": "La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres. Los lazos que Nocera describe con tiranías son su interpretación.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Internacional Socialista",
       "url": "https://es.wikipedia.org/wiki/Internacional_Socialista",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Socialist International",
+      "url": "https://en.wikipedia.org/wiki/Socialist_International",
       "consultado": "2026-11-23"
      }
     ]
@@ -21851,11 +21936,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Guillermo de Normandía invadió Inglaterra en 1066 con el respaldo del papa Alejandro II, que le habría enviado un estandarte (dato discutido). En 1070 legados papales presidieron concilios en Inglaterra y Guillermo reorganizó la Iglesia inglesa. Nocera lo lee como sumisión a Roma; la historiografía lo ve como apoyo diplomático en el marco de la reforma gregoriana. Pendiente de contrastar.",
+    "resumen": "Guillermo de Normandía invadió Inglaterra en 1066; el cronista Guillermo de Poitiers afirma que contó con el consentimiento del papa Alejandro II, con un estandarte papal, aunque se trata con cautela (dato discutido). En 1070 llegaron legados papales, que volvieron a coronar a Guillermo en Pascua e impusieron penitencias por Hastings. Nocera lo lee como sumisión a Roma; la historiografía lo ve como apoyo diplomático en el marco de la reforma gregoriana.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Conquista normanda de Inglaterra",
       "url": "https://es.wikipedia.org/wiki/Conquista_normanda_de_Inglaterra",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Norman conquest of England",
+      "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England",
       "consultado": "2026-11-23"
      }
     ]
@@ -22081,7 +22171,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 unió Washington, Georgetown y el condado en un solo gobierno municipal. La definición de 28 U.S.C. § 3002 («United States» incluye una corporación federal, una agencia...) sirve solo a efectos de la ley de cobro de deudas federales; la tesis de que EE. UU. se hizo corporación en 1871 no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial. Wikipedia atribuye la tesis de que la ley convirtió a EE. UU. en una corporación a un malentendido del término «corporación municipal». La definición de 28 U.S.C. § 3002 sirve solo a efectos de la ley de cobro de deudas federales; no se ha abierto aquí. La tesis no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Cornell Law: 28 U.S.C. § 3002 (definiciones)",
@@ -22389,11 +22479,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Sociedad de Naciones se fundó en 1920 (Pacto en Versalles, 1919) y se disolvió en 1946, cuando la ONU asumió sus funciones. Que fuera un instrumento de control y que la ONU sea la misma institución con otro nombre no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El Pacto de la Sociedad de Naciones se firmó el 28-6-1919 como parte del Tratado de Versalles y entró en vigor el 10-1-1920; cesó su actividad el 18-4-1946, cuando parte de sus órganos pasaron a la ONU. Que fuera un instrumento de control y que la ONU sea la misma institución con otro nombre no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Britannica: League of Nations",
       "url": "https://www.britannica.com/topic/League-of-Nations",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): League of Nations",
+      "url": "https://en.wikipedia.org/wiki/League_of_Nations",
       "consultado": "2026-11-23"
      }
     ]
@@ -25429,11 +25524,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La fiesta del Sol Invicto se estableció oficialmente en Roma bajo Aureliano en 274. La primera mención cristiana del 25 de diciembre es del Cronógrafo de 354 (para el año 336); no procede del concilio de Nicea. Muchos de los paralelismos de dioses de las tablas son discutidos por los historiadores. Pendiente de contrastar.",
+    "resumen": "La fiesta del Sol Invicto se estableció oficialmente en Roma bajo Aureliano en 274. La primera mención cristiana del 25 de diciembre es del Cronógrafo de 354; no procede del concilio de Nicea. Muchos de los paralelismos de dioses de las tablas son discutidos por los historiadores.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sol Invictus",
       "url": "https://es.wikipedia.org/wiki/Sol_Invictus",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Sol Invictus",
+      "url": "https://en.wikipedia.org/wiki/Sol_Invictus",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Chronography of 354",
+      "url": "https://en.wikipedia.org/wiki/Chronography_of_354",
       "consultado": "2026-11-23"
      }
     ]
@@ -25743,11 +25848,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El NFTC se fundó en 1914 en Estados Unidos como asociación de empresas con negocios internacionales. La conexión con la OMC que señala Nocera se explica por la trayectoria de su presidente. Pendiente de contrastar.",
+    "resumen": "El NFTC se fundó en 1914 en Estados Unidos, tras la primera Convención Nacional de Comercio Exterior, como asociación de empresas con negocios internacionales. Su presidente de 2016 a 2021, Rufus Yerxa, fue antes director general adjunto de la OMC durante once años, vínculo que Nocera señala.",
     "fuentes": [
      {
       "titulo": "NFTC: acerca de",
       "url": "http://www.nftc.org",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): National Foreign Trade Council",
+      "url": "https://en.wikipedia.org/wiki/National_Foreign_Trade_Council",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Rufus Yerxa",
+      "url": "https://en.wikipedia.org/wiki/Rufus_Yerxa",
       "consultado": "2026-11-23"
      }
     ]
@@ -26455,11 +26570,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Convenio de Chicago de 1944 creó la OACI, agencia de la ONU desde 1947. La IATA es una asociación privada de aerolíneas. Que ello pruebe un control total por la ONU es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "El Convenio de Chicago de 1944 creó la OACI, agencia de la ONU desde 1947. La IATA es una asociación privada de aerolíneas. Que ello pruebe un control total por la ONU es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: OACI",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_Aviaci%C3%B3n_Civil_Internacional",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Civil Aviation Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Civil_Aviation_Organization",
       "consultado": "2026-11-23"
      }
     ]
@@ -26543,11 +26663,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OCDE sucede a la Organización Europea de Cooperación Económica, creada en 1948 para el Plan Marshall, y adoptó su nombre actual en 1961; su sede está en el castillo de la Muette, antes propiedad de la familia Rothschild. Que oriente políticas globales alineada con el SNU es lectura de Nocera. Pendiente de contrastar.",
+    "resumen": "La OCDE sucede a la Organización Europea de Cooperación Económica, creada en abril de 1948 para el Plan Marshall; el convenio de la OCDE se firmó en diciembre de 1960 y sustituyó a la OECE en septiembre de 1961. Su sede está en el castillo de la Muette, en París. Que oriente políticas globales alineada con el SNU es lectura de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: OCDE",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Cooperaci%C3%B3n_y_el_Desarrollo_Econ%C3%B3micos",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): OECD",
+      "url": "https://en.wikipedia.org/wiki/OECD",
       "consultado": "2026-11-23"
      }
     ]
@@ -26630,11 +26755,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Organización de la Conferencia Islámica (hoy de Cooperación Islámica) se fundó en Rabat en 1969, tiene sede en Yeda y es observadora en la ONU. Las acusaciones de Nocera sobre su influencia en la política migratoria no forman parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La Organización de la Conferencia Islámica (hoy de Cooperación Islámica) se fundó en Rabat en 1969, tiene sede en Yeda y es observadora en la ONU. Las acusaciones de Nocera sobre su influencia en la política migratoria no forman parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización de Cooperación Islámica",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_Cooperaci%C3%B3n_Isl%C3%A1mica",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Organisation of Islamic Cooperation",
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation",
       "consultado": "2026-11-23"
      }
     ]
@@ -26672,11 +26802,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OIM se creó en 1951 y es organismo conexo de la ONU desde 2016; tiene sede en Ginebra. Que controle a los migrantes es lectura de Nocera. Pendiente de contrastar.",
+    "resumen": "La OIM se creó en 1951 y es organismo conexo de la ONU desde 2016; tiene sede en Ginebra. Que controle a los migrantes es lectura de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: OIM",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Internacional_para_las_Migraciones",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Organization for Migration",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
       "consultado": "2026-11-23"
      }
     ]
@@ -26714,11 +26849,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en 1958; tiene sede en Londres. La cifra del 80 % que da Nocera no está comprobada. Pendiente de contrastar.",
+    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres. La cifra del 80 % que da Nocera no se ha podido comprobar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Marítima Internacional",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mar%C3%ADtima_Internacional",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Maritime Organization",
+      "url": "https://en.wikipedia.org/wiki/International_Maritime_Organization",
       "consultado": "2026-11-23"
      }
     ]
@@ -27038,11 +27178,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003. La sede en Ginebra y la fecha de 1950 de Nocera no coinciden con la versión oficial. Pendiente de contrastar.",
+    "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003. La sede en Ginebra y la fecha de 1950 de Nocera no coinciden con la versión oficial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Mundial del Turismo",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_del_Turismo",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): World Tourism Organization",
+      "url": "https://en.wikipedia.org/wiki/World_Tourism_Organization",
       "consultado": "2026-11-23"
      }
     ]
@@ -27165,11 +27310,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OPEP se fundó en Bagdad en septiembre de 1960 por cinco países productores y tiene su sede en Viena desde 1965. Que dependa jerárquicamente del WEC es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "La OPEP se fundó en Bagdad en septiembre de 1960 por cinco países productores y tiene su sede en Viena desde 1965. Que dependa jerárquicamente del WEC es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: OPEP",
       "url": "https://es.wikipedia.org/wiki/OPEP",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): OPEC",
+      "url": "https://en.wikipedia.org/wiki/OPEC",
       "consultado": "2026-11-23"
      }
     ]
@@ -27597,11 +27747,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Benito de Nursia fundó Montecassino hacia el 529 y escribió su Regla hacia el 540. Los benedictinos están en la Iglesia católica desde entonces. El vínculo con linajes senatoriales es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orden de San Benito",
       "url": "https://es.wikipedia.org/wiki/Orden_de_San_Benito",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Monte Cassino",
+      "url": "https://en.wikipedia.org/wiki/Monte_Cassino",
       "consultado": "2026-11-23"
      }
     ]
@@ -28535,11 +28690,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Tratado del Atlántico Norte se firmó en Washington el 4-4-1949 por doce países; la sede está en Bruselas y en 2018 tenía 29 miembros. La subordinación a órdenes caballerescas es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "El Tratado del Atlántico Norte se firmó en Washington el 4-4-1949 por doce países; la sede está en Bruselas y en 2018 tenía 29 miembros. La subordinación a órdenes caballerescas es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: OTAN",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_del_Tratado_del_Atl%C3%A1ntico_Norte",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): NATO",
+      "url": "https://en.wikipedia.org/wiki/NATO",
       "consultado": "2026-11-23"
      }
     ]
@@ -31577,11 +31737,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 2007 se publicó el Pergamino de Chinon, que muestra que Clemente V absolvió a los templarios en 1308; las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU. Pendiente de contrastar.",
+    "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pergamino de Chinon",
       "url": "https://es.wikipedia.org/wiki/Pergamino_de_Chin%C3%B3n",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Chinon Parchment",
+      "url": "https://en.wikipedia.org/wiki/Chinon_Parchment",
       "consultado": "2026-11-23"
      }
     ]
@@ -32134,11 +32299,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Chatham House se fundó en 1920 tras la Conferencia de París y recibió la carta real en 1926; es un think tank con miembros individuales y corporativos y publica la revista International Affairs. Que sea un poder oculto de decisión no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "Chatham House se fundó en 1920 tras la Conferencia de París y recibió la carta real en 1926; es un think tank con miembros individuales y corporativos y publica la revista International Affairs. Que sea un poder oculto de decisión no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Chatham House: historia",
       "url": "https://www.chathamhouse.org/about-us/our-history",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Royal Institute of International Affairs",
+      "url": "https://en.wikipedia.org/wiki/Royal_Institute_of_International_Affairs",
       "consultado": "2026-11-23"
      }
     ]
@@ -32884,11 +33054,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Saeculum obscurum (hacia 904–964) designa una época de influencia de las familias aristocráticas romanas (Teofilacto, Teodora, Marozia) sobre el papado; el término «pornocracia» es del siglo XIX y su historicidad es discutida. Pendiente de contrastar.",
+    "resumen": "El Saeculum obscurum (904–964: de la instalación de Sergio III a la muerte de Juan XII) designa una época de influencia de las familias aristocráticas romanas (Teofilacto, Teodora, Marozia) sobre el papado; «pornocracia» fue un término acuñado por teólogos protestantes alemanes del siglo XIX y su historicidad es discutida.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pornocracia",
       "url": "https://es.wikipedia.org/wiki/Pornocracia",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Saeculum obscurum",
+      "url": "https://en.wikipedia.org/wiki/Saeculum_obscurum",
       "consultado": "2026-11-23"
      }
     ]
@@ -36086,11 +36261,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales. Jorge III figura con sus títulos habituales, entre ellos el de elector de Hannover (Brunswick-Lüneburg); que esos títulos signifiquen sumisión al Vaticano no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña (Hartley y Oswald, por Jorge III) y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales, recomendación que los estados ignoraron. Que los títulos del rey signifiquen sumisión al Vaticano no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Tratado de París (1783)",
       "url": "https://es.wikipedia.org/wiki/Tratado_de_Par%C3%ADs_(1783)",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Treaty of Paris (1783)",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
       "consultado": "2026-11-23"
      }
     ]
@@ -36555,11 +36735,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Unión Internacional del Telégrafo se fundó en París en 1865, adoptó el nombre actual en 1932 y es agencia de la ONU desde 1947; su sede está en Ginebra. La valoración de Nocera es personal. Pendiente de contrastar.",
+    "resumen": "La Unión Internacional del Telégrafo se fundó el 17-5-1865 en París, adoptó el nombre actual en 1932 y firmó con la ONU en noviembre de 1947 su condición de agencia especializada (en vigor el 1-1-1949); su sede está en Ginebra. La valoración de Nocera es personal.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unión Internacional de Telecomunicaciones",
       "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Internacional_de_Telecomunicaciones",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): International Telecommunication Union",
+      "url": "https://en.wikipedia.org/wiki/International_Telecommunication_Union",
       "consultado": "2026-11-23"
      }
     ]
@@ -36905,11 +37090,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La UIA nació de la Oficina Internacional de Bibliografía de Henri La Fontaine y Paul Otlet (1895), antecedente del Mundaneum; La Fontaine recibió el Nobel de la Paz en 1913. Que sea un eslabón del globalismo no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La UIA se fundó en 1907 como Oficina Central de Asociaciones Internacionales, por Henri La Fontaine (Nobel de la Paz de 1913) y Paul Otlet, pionero de la documentación. Nocera la fecha en 1895. Que sea un eslabón del globalismo no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unión de Asociaciones Internacionales",
       "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_de_Asociaciones_Internacionales",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Union of International Associations",
+      "url": "https://en.wikipedia.org/wiki/Union_of_International_Associations",
       "consultado": "2026-11-23"
      }
     ]
@@ -37223,11 +37413,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La UPU se fundó en Berna en 1874 como Unión General de Correos y se convirtió en organismo especializado de la ONU en 1948. «Absorbida» es la palabra de Nocera. Pendiente de contrastar.",
+    "resumen": "La UPU se fundó en Berna en 1874 como Unión General de Correos y se convirtió en organismo especializado de la ONU en 1948. «Absorbida» es la palabra de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unión Postal Universal",
       "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Postal_Universal",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Universal Postal Union",
+      "url": "https://en.wikipedia.org/wiki/Universal_Postal_Union",
       "consultado": "2026-11-23"
      }
     ]
