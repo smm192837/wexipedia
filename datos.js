@@ -36937,6 +36937,36 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "tribunal-constitucional-espana-1979",
+   "tipo": "hecho",
+   "titulo": "Tribunal Constitucional de España (1979)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1979,
+    "texto": "1979 (ley orgánica; Constitución de 1978)",
+    "fuente": "oficial"
+   },
+   "resumen": "Órgano constitucional español, intérprete supremo de la Constitución de 1978, regulado por la Ley Orgánica 2/1979, de 3 de octubre.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Tribunal Constitucional es un órgano constitucional español, independiente de los demás, que interpreta en última instancia la Constitución de 1978 y solo está sometido a ella y a su ley orgánica. Se regula en el Título IX de la Constitución (arts. 159 a 165) y en la Ley Orgánica 2/1979, de 3 de octubre. Aunque se llama «tribunal», no forma parte del Poder Judicial.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Tribunal Constitucional (España)",
+      "url": "https://es.wikipedia.org/wiki/Tribunal_Constitucional_(España)",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "triple-division-poderes-gran-khan",
    "tipo": "hecho",
    "titulo": "Triple división de poderes del Gran Khan",
