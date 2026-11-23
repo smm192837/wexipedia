@@ -1236,11 +1236,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "ONU: Agenda 2030",
       "url": "https://www.un.org/sustainabledevelopment/es/development-agenda/",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Transforming our world: the 2030 Agenda for Sustainable Development",
+      "url": "https://en.wikipedia.org/wiki/Transforming_our_world:_the_2030_Agenda_for_Sustainable_Development",
       "consultado": "2026-11-23"
      }
     ]
@@ -7295,7 +7300,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Magna Mater (Cibeles) se introdujo en Roma en 204 a. C. durante la segunda guerra púnica; el santuario Phrygianum del Vaticano está atestiguado en inscripciones de los siglos II–IV. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Cibeles",
@@ -7305,6 +7310,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Phrygianum",
       "url": "https://en.wikipedia.org/wiki/Phrygianum",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Cybele",
+      "url": "https://en.wikipedia.org/wiki/Cybele",
       "consultado": "2026-11-23"
      }
     ]
@@ -22569,11 +22579,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gregorio Magno (590–604) pertenecía a una familia senatorial romana vinculada a los Anicios; Félix III era su tatarabuelo según algunas fuentes. Que ello implique continuidad de un poder oculto es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano; se tiene a Félix III por su tatarabuelo, a través de Gordiano. Que ello implique continuidad de un poder oculto es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Gregorio I",
       "url": "https://es.wikipedia.org/wiki/Gregorio_I",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Gregory I",
+      "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Felix III",
+      "url": "https://en.wikipedia.org/wiki/Felix_III",
       "consultado": "2026-11-23"
      }
     ]
