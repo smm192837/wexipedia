@@ -1052,6 +1052,51 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "acuerdos-generales-prestamo-gab-1962",
+   "tipo": "hecho",
+   "titulo": "Acuerdos Generales de Préstamo (GAB) y G10, 1962",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1962
+   },
+   "resumen": "Convenio del Grupo de los Diez que presta recursos suplementarios al FMI; Nocera lo presenta como parte de un mecanismo de endeudamiento de los países pobres.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 160–162",
+     "url": null,
+     "resumen": "Nocera cuenta que en 1962 el G10 (diez países europeos y americanos más Japón; Suiza desde 1983) creó el GAB para aportar al FMI, y sostiene que los préstamos del FMI a América y África «son humo» que introduce corporaciones globales y deja deuda a los gobiernos locales; en 1995 se amplió con el NAB. Lo llama el «engaño maestro».",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Los Acuerdos Generales de Préstamo (GAB) se firmaron en 1962 entre diez países industrializados para dotar de recursos al FMI en caso de necesidad; el NAB (Nuevos Acuerdos de Préstamo) lo amplió en 1998 y los GAB se mantienen como línea secundaria. Que su efecto sea endeudar y colocar corporaciones no forma parte de la versión académica. Pendiente de contrastar (Nocera dice 1995 para el NAB; fecha por comprobar).",
+    "fuentes": [
+     {
+      "titulo": "FMI: acuerdos de préstamo",
+      "url": "https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/16/20/The-General-Arrangements-to-Borrow",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-pagos-internacionales",
+     "nota": "Mecanismo financiero global descrito por Nocera."
+    },
+    {
+     "id": "shock-de-nixon-1971",
+     "nota": "Cambio de sistema monetario."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "economia"
+  },
+  {
    "id": "ad-abolendam-1184",
    "tipo": "hecho",
    "titulo": "Bula Ad abolendam (1184)",
@@ -1120,6 +1165,52 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "vista": "religion"
+  },
+  {
+   "id": "agenda-2030",
+   "tipo": "hecho",
+   "titulo": "Agenda 2030 de la ONU",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 2015,
+    "texto": "25 de septiembre de 2015"
+   },
+   "resumen": "Resolución 70/1 de la ONU con 17 objetivos de desarrollo sostenible; Nocera la ve como la herramienta de un gobierno mundial.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 166–169",
+     "url": null,
+     "resumen": "Según Nocera, el 25-9-2015 la asamblea nº 70 de la ONU lanza la Agenda 2030, con presencia del papa Francisco y de Obama, cuyos 17 objetivos buscan acelerar el control de los recursos del planeta y de las necesidades humanas; repasa varios objetivos (1, 2, 3, 4, 6, 7, 8, 9, 13, 14, 15) como apariencia de protección y cita el Pacto de Migración como primer choque; dice que la ONU gastó unos 5.400 millones de dólares en 2018–2019.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "ONU: Agenda 2030",
+      "url": "https://www.un.org/sustainabledevelopment/es/development-agenda/",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Organismo promotor."
+    },
+    {
+     "id": "liga-de-naciones-1919",
+     "nota": "Línea histórica según Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "agua-violet-dinamizacion-electrica",
@@ -3354,6 +3445,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Nocera dice que el BIS es el banco central de los bancos centrales, con sede en Basilea, y que la deuda externa de todos los países está conectada con el BIS, el Banco de Inglaterra o la Reserva Federal; cita una deuda mundial de más de 7,1 billones de dólares y dice que desde 1971 el sistema carece de lógica.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 160",
+     "url": null,
+     "resumen": "Nocera dice que el BIS fue creación de Hjalmar Schacht (1930), luego presidente del banco del III Reich y ministro de economía, y que mientras Mussolini daba piso jurídico al Vaticano en 1929, Hitler preparaba sus finanzas fuera de Alemania.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -3573,6 +3672,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=PKmCzXCZrFM&t=108s",
      "resumen": "Fue expuesto por blanquear dinero de la mafia siciliana. En 2017 dos exdirectivos fueron condenados por violar las normas antiblanqueo en operaciones con la Banca del Fucino y JP Morgan, y absueltos en apelación.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 158–160",
+     "url": null,
+     "resumen": "Nocera traza el IOR desde el Banco di Santo Spirito (1605), tras los Médici y los Borghese, pasando por los tratados de Letrán (1929) hasta el IOR de 1942, y critica que su supervisor (la FIA) sea interno; vincula el Banco Ambrosiano con los escándalos de los 80 y de 2019.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -3614,8 +3721,64 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "basilea-ginebra-eje-segun-nocera",
+   "tipo": "hecho",
+   "titulo": "El eje Basilea–Ginebra",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": -43,
+    "texto": "Fundación romana (44 a. C.) a 1897",
+    "aprox": true
+   },
+   "resumen": "Nocera presenta Basilea y Ginebra como dos centros de poder europeos vinculados históricamente a los Estados Papales, junto con la City de Londres y el Distrito de Columbia.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 46–49",
+     "url": null,
+     "resumen": "Nocera repasa la historia de Basilea (fundación romana, obispado, Concilio de Basilea, Reforma en 1529, primer Congreso Sionista de 1897) y de Ginebra (refugio protestante en el XVI, anexión francesa en 1798 y regreso al dominio del Papado en 1814). Afirma que Basilea «nunca dejó de estar vinculada económicamente a los Estados Papales», que sus escudos mezclan símbolos del Sacro Imperio y del Vaticano y que la bandera suiza refleja la cruz templaria.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por Francia en 1798 y se unió a Suiza en 1815 tras la derrota de Napoleón. La vinculación con los Estados Papales como centro de poder oculto no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Basilea",
+      "url": "https://es.wikipedia.org/wiki/Basilea",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Ginebra",
+      "url": "https://es.wikipedia.org/wiki/Ginebra",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-pagos-internacionales",
+     "nota": "BIS en Basilea."
+    },
+    {
+     "id": "movimiento-sionista",
+     "nota": "Primer Congreso Sionista, 1897."
+    },
+    {
+     "id": "city-de-londres",
+     "nota": "«Al igual que City of London...»"
+    }
+   ],
+   "estado": "borrador",
    "vista": "economia"
   },
   {
@@ -6875,6 +7038,47 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "cfr-1921",
+   "tipo": "hecho",
+   "titulo": "Council on Foreign Relations (1921)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1921
+   },
+   "resumen": "Think tank de Nueva York; Nocera lo describe como un círculo de poder con miembros corporativos y presidentes.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «CFR»",
+     "url": null,
+     "resumen": "Nocera dice que se creó en 1921, un año después de la RIIA (Chatham House), con sede en Nueva York y Washington; su lista de miembros corporativos coincide en un 90 % con la de empresas de la City; cita al presidente Richard Haass en 2017: «un Orden Mundial 2.0» basado en la «obligación soberana»; afirma que presidentes de distintos países se reúnen con el CFR.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Council on Foreign Relations se fundó en 1921 en Nueva York como think tank sobre política exterior y publica la revista Foreign Affairs. Que sea un círculo oculto de poder no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "CFR: acerca de",
+      "url": "https://www.cfr.org/about",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "consejo-relaciones-exteriores",
+     "nota": "Posible duplicado: ya existe una ficha del CFR. Revisar."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "checa-policia-secreta-sovietica",
    "tipo": "hecho",
    "titulo": "La Checa, policía secreta soviética",
@@ -8240,6 +8444,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Según el autor, los jesuitas se fundan en Barcelona (1708 =1523), en París en 1720 (=1535) y son aprobados en 1725 (=1540) por Pablo III Farnese; en 1730 (=1545) convoca el Concilio.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 208",
+     "url": null,
+     "resumen": "Nocera presenta a los jesuitas como una orden militar de alto nivel en la estructura global, fundada según él en 1534 con Pablo III (Farnese) y restaurada en 1814; afirma que desde 1942 operan con ONG de ayuda y que controlan el adoctrinamiento educativo y la UNESCO.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -8334,7 +8546,7 @@ window.CRONO = {
      "nota": "(propuesta del cronista)"
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "citas": [
     {
      "resumen": "La Compañía de Jesús es una espada con la empuñadura en Roma y la punta en todas partes",
@@ -9843,6 +10055,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Según el autor: 1913 Reserva Federal; 1914-1945 dos guerras mundiales; 1944 Bretton Woods (FMI, Banco Mundial, paraísos fiscales); 1945 ONU; 1948 Israel; 1958 IESE (Opus Dei) y ESADE (Compañía de Jesús); 1959 Concilio Vaticano II («el catolicismo abraza el capitalismo global»); 1991 globalización.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 154–157",
+     "url": null,
+     "resumen": "Nocera dice que la Reserva Federal es una institución de propiedad privada creada el 23-12-1913 por cinco hombres, entre ellos Paul Warburg; Warburg planeaba desde 1910 controlar la emisión de dinero y los tres opositores (Guggenheim, Straus y Astor) murieron en el Titanic en 1912; la Fed nunca ha sido auditada seriamente.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -9870,7 +10090,7 @@ window.CRONO = {
      "nota": "Tesis general"
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -10801,6 +11021,58 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "deuda-naciente-eeuu-1783-1813",
+   "tipo": "hecho",
+   "titulo": "La deuda de los primeros Estados Unidos (1783–1813)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1783,
+    "hasta": 1813,
+    "texto": "1783–1813"
+   },
+   "resumen": "Nocera sostiene que la deuda fue el instrumento de control de los primeros Estados Unidos: la Constitución la mantuvo y las leyes de 1799–1845 repiten la palabra «deuda» 147 veces.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 52–55",
+     "url": null,
+     "resumen": "Según Nocera, el artículo VI de la Constitución de 1787 asegura la validez de las deudas contraídas antes de ella; en 1783 la deuda pública era de 43 millones de dólares, unos 11 dólares por habitante (equivalentes a casi una onza de oro); en las leyes del Congreso de 1799 a 1845 «deuda» aparece 147 veces y «deudor» más de 30, y en 1813 tanto EE. UU. como el Reino Unido adoptan leyes de bancarrota para evitar la prisión de miles de personas. Lo lee como un sistema que obliga a las personas al «favor» del Estado.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Constitución de EE. UU. (art. VI)",
+      "url": "https://constitution.congress.gov/constitution/",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "TreasuryDirect: deuda histórica, siglo XVIII",
+      "url": "https://www.treasurydirect.gov/government/historical-debt-outstanding/",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tratado-de-paris-1783",
+     "nota": "Artículo 4 sobre deudas."
+    },
+    {
+     "id": "ley-distrito-columbia-1871",
+     "nota": "Continuación del argumento."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "economia"
   },
   {
    "id": "devaluacion-denario-imperio-romano",
@@ -21059,6 +21331,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Nocera sostiene que la ley del Congreso de 1871 creó un gobierno «incorporado» para el Distrito de Columbia y que con ella EE. UU. pasó a ser una corporación, con derechos que se volvieron privilegios. Para él coincide con la constitución del Imperio Germánico respaldada por el Vaticano y marca el origen del «gobierno en la sombra». Apoya la idea en la definición de «United States» de 28 U.S.C. § 3002.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 55–57",
+     "url": null,
+     "resumen": "Nocera añade que la ley orgánica de 1801 fijó el Distrito de Columbia y que en 1871, con un trato financiero con banqueros como los Rothschild de Londres, el Congreso creó una forma de gobierno separada (ciudad estado de 10 millas de lado con bandera propia y «Lex Fori»); para él la «Constitución para los Estados Unidos» pasó a ser «de los Estados Unidos».",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -21345,6 +21625,53 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
+  },
+  {
+   "id": "liga-de-naciones-1919",
+   "tipo": "hecho",
+   "titulo": "Liga o Sociedad de Naciones (1919)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1919,
+    "hasta": 1946,
+    "texto": "1919–1946"
+   },
+   "resumen": "Organismo creado tras el Tratado de Versalles; Nocera la ve como la fase anterior de la ONU, con la misma estructura de control.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 164–166",
+     "url": null,
+     "resumen": "Nocera afirma que se creó en 1919 con excusas de paz y que durante casi 30 años «se alimentó de los recursos de los países» sin lograr la paz, y que al final de la II Guerra Mundial se le cambió el nombre a Naciones Unidas.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Sociedad de Naciones se fundó en 1920 (Pacto en Versalles, 1919) y se disolvió en 1946, cuando la ONU asumió sus funciones. Que fuera un instrumento de control y que la ONU sea la misma institución con otro nombre no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: League of Nations",
+      "url": "https://www.britannica.com/topic/League-of-Nations",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "onu",
+     "nota": "Sucesora."
+    },
+    {
+     "id": "union-asociaciones-internacionales-1895",
+     "nota": "La Fontaine, relator en 1920."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "liga-del-norte-1959",
@@ -23654,6 +23981,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Habla de un congreso sionista en Basilea en 1887 —que fecha mal— y de que el proyecto de celebrarlo en Múnich se frustró por la oposición de los judíos alemanes.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 47",
+     "url": null,
+     "resumen": "Nocera cita el primer Congreso Sionista Mundial de 1897 en Basilea como paso a la World Zionist Organization, organización de influencia hasta hoy.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -23691,7 +24026,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -25650,6 +25985,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=L0CdIxr-FZU",
      "resumen": "Dice que la ONU se fundó en gran medida por fabianos.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 165–178",
+     "url": null,
+     "resumen": "Nocera sostiene que la ONU es en realidad el Sistema de las Naciones Unidas, de casi 100 organizaciones (ICAO, IMO, UPU, UNWTO, ITU, FAO, UNESCO…), y que desde 1945 persigue un gobierno mundial, sin haber cumplido su meta de paz; presupuesto de unos 5.400 millones de dólares en 2018–2019.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -26387,6 +26730,14 @@ window.CRONO = {
      "url": null,
      "resumen": "Según el autor, la Orden de la Espuela de Oro y la Orden de Cristo, las dos órdenes principales de la Iglesia católica, se crearon en 1725 (=1540); la Orden del Templo se convierte en la Orden de Malta durante los siglos XVIII y XIX.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 209",
+     "url": null,
+     "resumen": "Nocera la describe como un estado sin territorio, con unos 13.000 miembros y 80.000 voluntarios, supeditado al Vaticano; nace en Jerusalén durante las cruzadas, y la sitúa en la estructura de control.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -26437,7 +26788,7 @@ window.CRONO = {
      "nota": "Guillermo Mas Arellano enlaza la Orden de Malta con la organización Gehlen (propuesta, pendiente de visto bueno)"
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -29842,6 +30193,52 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "logias",
+   "vista": "religion"
+  },
+  {
+   "id": "restauracion-orden-templo-2007",
+   "tipo": "hecho",
+   "titulo": "Reconocimiento de la Orden del Templo de Salomón (2007)",
+   "carril": "religion",
+   "naturaleza": "logias",
+   "temas": [],
+   "fecha": {
+    "desde": 2007,
+    "texto": "octubre de 2007"
+   },
+   "resumen": "Según Nocera, en 2007 el Vaticano absolvió a los templarios y Reino Unido reconoció a la Orden del Templo de Salomón como principado soberano.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «El retorno de la Orden del Templo de Salomón»",
+     "url": null,
+     "resumen": "Nocera afirma que en octubre de 2007 el Vaticano reconoció la inocencia de los templarios y que, casi a la vez, la reina Isabel II reconoció a la Orden del Templo de Salomón; la describe como un principado soberano sin territorio, con pasaportes diplomáticos y una declaración presentada ante la ONU, y lo ve como una pieza de la estructura de control.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En 2007 se publicó el Pergamino de Chinon, que muestra que Clemente V absolvió a los templarios en 1308; las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Pergamino de Chinon",
+      "url": "https://es.wikipedia.org/wiki/Pergamino_de_Chin%C3%B3n",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "orden-del-temple",
+     "nota": "Orden original."
+    },
+    {
+     "id": "onu",
+     "nota": "Dice que declaró ante la ONU."
+    }
+   ],
+   "estado": "borrador",
    "vista": "religion"
   },
   {
@@ -34172,6 +34569,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "tratado-de-paris-1783",
+   "tipo": "hecho",
+   "titulo": "Tratado de París de 1783",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1783,
+    "texto": "3 de septiembre de 1783"
+   },
+   "resumen": "Tratado que cerró la guerra de independencia de EE. UU.; Nocera lee en su encabezado y en sus artículos 4 y 5 una continuidad de la Corona y de las deudas.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 50–51",
+     "url": null,
+     "resumen": "Nocera señala que el encabezado nombra a Jorge III con títulos del Sacro Imperio (duque de Brunswick-Lüneburg, archi-tesorero y príncipe elector), que para él equivale a estar supeditado al Vaticano. Dice que el artículo 4 respeta las deudas con acreedores británicos y el 5 devuelve propiedades a los «British Subjects», y concluye que EE. UU. no ganó realmente la independencia.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales. Jorge III figura con sus títulos habituales, entre ellos el de elector de Hannover (Brunswick-Lüneburg); que esos títulos signifiquen sumisión al Vaticano no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Tratado de París (1783)",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Par%C3%ADs_(1783)",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "deuda-naciente-eeuu-1783-1813",
+     "nota": "Su artículo 4 sobre deudas."
+    },
+    {
+     "id": "ley-distrito-columbia-1871",
+     "nota": "Misma línea de argumento de Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "tratado-de-tordesillas-1679",
    "tipo": "hecho",
    "titulo": "Tratado de Tordesillas (1679 = 1494)",
@@ -34904,6 +35347,47 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "union-asociaciones-internacionales-1895",
+   "tipo": "hecho",
+   "titulo": "Unión de Asociaciones Internacionales (1895)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1895
+   },
+   "resumen": "Entidad nacida del Instituto Internacional de Bibliografía de La Fontaine y Otlet; Nocera la une con la Liga de Naciones y la Agenda 2030.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 163–165",
+     "url": null,
+     "resumen": "Nocera cuenta que en 1895 Henri La Fontaine, «socialista y masón», y Paul Otlet fundaron el Instituto Internacional de Bibliografía, luego Unión de Asociaciones Internacionales (UIA, «la mesa redonda»); en 1920 La Fontaine fue relator de la comisión de la Liga de Naciones y hoy la UIA acoge los 17 objetivos de la Agenda 2030: «no ha cambiado nada, solo han cambiado de nombre».",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La UIA nació de la Oficina Internacional de Bibliografía de Henri La Fontaine y Paul Otlet (1895), antecedente del Mundaneum; La Fontaine recibió el Nobel de la Paz en 1913. Que sea un eslabón del globalismo no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Unión de Asociaciones Internacionales",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_de_Asociaciones_Internacionales",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "union-interparlamentaria-1889",
+     "nota": "Mismo hilo."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "union-de-rusia-1318",
    "tipo": "hecho",
    "titulo": "Gengis Kan (Georgiy Danilovich) inicia la unión de Rusia (1318)",
@@ -34947,6 +35431,51 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "vista": "politica"
+  },
+  {
+   "id": "union-interparlamentaria-1889",
+   "tipo": "hecho",
+   "titulo": "Unión Interparlamentaria (1889)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1889
+   },
+   "resumen": "Organización internacional de parlamentos que Nocera considera la «piedra angular» del proyecto globalista.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 163 y sección «IPU»",
+     "url": null,
+     "resumen": "Nocera dice que el globalismo moderno nace en 1889 con la IPU, con sede en Ginebra y fundada por el parlamentario inglés William Randal Cremer; destaca su logo con corona de olivo, igual que en el Imperio Romano y la ONU; hoy daría estatus de observador a unas 70 organizaciones, entre ellas la Internacional Socialista.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Unión Interparlamentaria se fundó en 1889 en París por Frédéric Passy y William Randal Cremer; hoy tiene sede en Ginebra y reúne a los parlamentos nacionales. Que sea el origen de un plan globalista no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "IPU: historia",
+      "url": "https://www.ipu.org/about-us/about-ipu/history",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "union-asociaciones-internacionales-1895",
+     "nota": "Segundo hito de la génesis del globalismo."
+    },
+    {
+     "id": "liga-de-naciones-1919",
+     "nota": "Continuación."
+    }
+   ],
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -35627,6 +36156,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=UDWUUrEbiYc&t=1087s",
      "resumen": "Edwin Sandys, amigo de Sarpi, fue uno de sus fundadores; en 1606 estableció el primer asentamiento inglés permanente en lo que hoy es EE. UU. y fue la primera en llevar esclavos negros a sus plantaciones. Sandys informaba a Sarpi de los movimientos del oro español y de la flota holandesa.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 60",
+     "url": null,
+     "resumen": "Nocera presenta la carta de Jacobo I a la Virginia Company de Londres (1606) como el vínculo de EE. UU. con la Corona inglesa y con reyes católicos, según su lectura de los antepasados anglo-normandos y escoceses de Jacobo I.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -35649,7 +36186,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "banca",
    "vista": "economia"
   },
