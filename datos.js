@@ -618,6 +618,15 @@ window.CRONO = {
       "jorge-guerra",
       "giuseppe-nocera"
      ]
+    },
+    {
+     "id": "mientras-dormiamos",
+     "titulo": "Mientras dormíamos",
+     "tipo": "libro",
+     "referencia": "Libro de Giuseppe Nocera (prólogo de Nelson Roberto Pardo Giraldo). Editorial, año e ISBN pendientes de confirmar; edición leída en vídeo de páginas grabado por smiguel1 el 2026-11-23 (OCR local + lectura de las fotos).",
+     "estado": "en-proceso",
+     "fecha": null,
+     "resumen": "Según Nocera, la historia explica un «gran mecanismo» de control mundial heredado del Imperio Romano: la City de Londres, el Vaticano, Washington D. C., el eje Basilea–Ginebra, la ONU y los foros (Trilateral, Bilderberg) como centros de poder que han actuado sin que la gente los vea. El capítulo 1 recorre esos centros con la historia por delante; el capítulo 3 explica el sistema financiero (moneda, deuda e impuestos) como herramienta de control. Procesados solo los capítulos 1 y 3, y solo parcialmente."
     }
    ]
   },
@@ -3337,6 +3346,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=EgAcCYiBbuk",
      "resumen": "Sostiene que la familia Torlonia supervisa el BPI, cuyo edificio es una torre.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 152–153",
+     "url": null,
+     "resumen": "Nocera dice que el BIS es el banco central de los bancos centrales, con sede en Basilea, y que la deuda externa de todos los países está conectada con el BIS, el Banco de Inglaterra o la Reserva Federal; cita una deuda mundial de más de 7,1 billones de dólares y dice que desde 1971 el sistema carece de lógica.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -3408,7 +3425,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "citas": [
     {
      "resumen": "Al ser pequeño, flexible y libre de interferencias políticas, el banco ha sabido adaptarse a las circunstancias cambiantes.",
@@ -5432,6 +5449,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=O6Kqwoe0LBQ&t=1772s",
      "resumen": "Desde la Carta Magna el Vaticano estuvo detrás de la City de Londres.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 43–45",
+     "url": null,
+     "resumen": "Nocera cuenta la pugna de Juan sin Tierra con Inocencio III por el arzobispo Langton (interdicto de 1208, aceptación y vasallaje en 1213) y sostiene que la Carta Magna de 1215 supone la entrega de Inglaterra al Estado Pontífice, con privilegios para la City (párrafos 13 y 27); la presenta como base jurídica de EE. UU.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -5468,7 +5493,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -7164,6 +7189,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=gyELvwNH3p0&t=5090s",
      "resumen": "Guillermo sostiene que detrás de EE. UU. e Israel manda la City, no Wall Street, y que Gran Bretaña está detrás de ambos; la oligarquía sobrevive aunque sacrifique Estados.",
      "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 7",
+     "url": null,
+     "resumen": "Nocera recuerda que Tácito cita Londinium hacia el 60 d. C. como centro de comercio y que, aunque en teoría es uno de los 33 distritos de Gran Londres, la City se gobierna a sí misma, no responde al gobierno y tiene ciudadanía propia («Freedom of the City»).",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -7213,7 +7246,7 @@ window.CRONO = {
      "nota": "Las tres columnas."
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -10770,6 +10803,55 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "devaluacion-denario-imperio-romano",
+   "tipo": "hecho",
+   "titulo": "Devaluación del denario romano e inflación",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 64,
+    "hasta": 301,
+    "texto": "Nerón (64) – edicto de Diocleciano (301)",
+    "aprox": true
+   },
+   "resumen": "Según Nocera, el Imperio Romano rebajó la plata de sus monedas para acuñar más y ganó por el señoreaje, lo que provocó la primera inflación documentada.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 149–151",
+     "url": null,
+     "resumen": "Nocera cuenta que el denario nació con 95 % de plata, que Nerón empezó a mezclar bronce para fabricar más monedas con la misma plata (el «señoreaje»), que los precios subieron y que Diocleciano respondió con un edicto de precios máximos. Cita al historiador Joseph Peden: una libra de oro pasa de 50.000 denarios a 20 millones en 37 años (+40.000 %).",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La devaluación del denario es un hecho aceptado: la plata fue disminuyendo desde Nerón (hacia el 64) y se desplomó en el siglo III; el edicto de precios máximos de Diocleciano es del 301. Las cifras concretas de Peden no se han comprobado. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Denario",
+      "url": "https://es.wikipedia.org/wiki/Denario",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Edicto máximo de Diocleciano",
+      "url": "https://es.wikipedia.org/wiki/Edicto_m%C3%A1ximo_de_Diocleciano",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "shock-de-nixon-1971",
+     "nota": "Nocera enlaza la inflación romana con el fin del patrón oro."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "economia"
+  },
+  {
    "id": "dictadura-argentina-1976",
    "tipo": "hecho",
    "titulo": "Proceso de Reorganización Nacional, Argentina (1976-1983)",
@@ -11609,6 +11691,58 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "vista": "religion"
+  },
+  {
+   "id": "east-india-company-1600",
+   "tipo": "hecho",
+   "titulo": "East India Company y Compañía Holandesa de las Indias Orientales",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1600,
+    "hasta": 1602,
+    "texto": "1600–1602"
+   },
+   "resumen": "Creación de las dos primeras grandes compañías por acciones del comercio con Asia; Nocera las presenta como corporaciones con accionistas ocultos al servicio de las coronas.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 146–147",
+     "url": null,
+     "resumen": "Según Nocera, la inglesa (1600) y la holandesa (1602) fueron las primeras corporaciones anónimas, formalmente públicas pero con accionistas ocultos tras testaferros, y ambas pertenecían a su corona. Afirma que dependían de los Estados Papales, que el escudo de la inglesa lleva cruces templarias y que usaron el comercio del opio; la holandesa cerró en 1799.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La East India Company inglesa recibió su carta real de Isabel I el 31 de diciembre de 1600 y la Compañía Holandesa de las Indias Orientales (VOC) se fundó en 1602; la VOC fue pionera en emitir acciones negociables en bolsa y se disolvió en 1799. La inglesa dominó el comercio con la India hasta su disolución en 1874. Las acciones de la VOC eran públicas y sus accionistas figuraban en registros; la dependencia de los Estados Papales no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Britannica: East India Company",
+      "url": "https://www.britannica.com/topic/East-India-Company",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Britannica: Dutch East India Company",
+      "url": "https://www.britannica.com/topic/Dutch-East-India-Company",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "corporaciones-mas-grandes-que-estados",
+     "nota": "Mismo argumento de Nocera: el poder de las corporaciones."
+    },
+    {
+     "id": "guerras-del-opio",
+     "nota": "Comercio de opio ligado a la compañía."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "economia"
   },
   {
    "id": "ecat-rossi",
@@ -17478,7 +17612,16 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "resumen": "Dos guerras entre China y el Reino Unido (la segunda, con Francia) por el comercio del opio.",
-   "segun": [],
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 147",
+     "url": null,
+     "resumen": "Nocera presenta las dos guerras entre China e Inglaterra (1839 y 1856, con legislación en 1860) como la lucha por dominar el tráfico de opio ligado a la East India Company.",
+     "contradice": []
+    }
+   ],
    "oficial": {
     "resumen": "Las guerras del Opio, o guerras anglo-chinas, fueron dos conflictos del siglo XIX entre los imperios chino y británico. La primera duró de 1839 a 1842; la segunda, en la que Francia se alió con los británicos, estalló en 1856 y duró hasta 1860. Sus causas fueron los intereses comerciales ligados al contrabando británico de opio de la India a China y los esfuerzos del gobierno chino por imponer sus leyes a ese comercio.",
     "fuentes": [
@@ -17491,8 +17634,7 @@ window.CRONO = {
    },
    "citas": [],
    "conexiones": [],
-   "estado": "aprobado",
-   "solo_oficial": true,
+   "estado": "borrador",
    "vista": "politica"
   },
   {
@@ -20675,6 +20817,53 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "legados-papales-conquista-normanda-1066",
+   "tipo": "hecho",
+   "titulo": "El papa Alejandro II y la conquista normanda de Inglaterra",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1066,
+    "hasta": 1070,
+    "texto": "1066–1070"
+   },
+   "resumen": "Según Nocera, el papa Alejandro II «permitió» la invasión normanda de Inglaterra en 1066 y en 1070 envió tres legados papales.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, p. 7 (continúa en p. 8)",
+     "url": null,
+     "resumen": "Según Nocera, Alejandro II «reconquistó» Inglaterra al permitir (con autorización y préstamo de recursos, dice) que Guillermo el Conquistador la invadiera en 1066; al completarse la conquista en 1070 envió tres legados papales, término que Nocera vincula con el Imperio Romano.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Guillermo de Normandía invadió Inglaterra en 1066 con el respaldo del papa Alejandro II, que le habría enviado un estandarte (dato discutido). En 1070 legados papales presidieron concilios en Inglaterra y Guillermo reorganizó la Iglesia inglesa. Nocera lo lee como sumisión a Roma; la historiografía lo ve como apoyo diplomático en el marco de la reforma gregoriana. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia: Conquista normanda de Inglaterra",
+      "url": "https://es.wikipedia.org/wiki/Conquista_normanda_de_Inglaterra",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "city-de-londres",
+     "nota": "Contexto del cap. 1 de Nocera."
+    },
+    {
+     "id": "carta-magna-vasallaje",
+     "nota": "Segundo episodio de la sumisión a Roma según Nocera."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "legion-de-honor",
    "tipo": "hecho",
    "titulo": "Creación de la Legión de Honor (1802)",
@@ -20850,6 +21039,52 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "ley-distrito-columbia-1871",
+   "tipo": "hecho",
+   "titulo": "Ley de 1871 y el gobierno del Distrito de Columbia",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1871
+   },
+   "resumen": "Según Nocera, la ley de 1871 convirtió a EE. UU. en una corporación. Tesis delicada, con la versión oficial al lado.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 1, pp. 58–59",
+     "url": null,
+     "resumen": "Nocera sostiene que la ley del Congreso de 1871 creó un gobierno «incorporado» para el Distrito de Columbia y que con ella EE. UU. pasó a ser una corporación, con derechos que se volvieron privilegios. Para él coincide con la constitución del Imperio Germánico respaldada por el Vaticano y marca el origen del «gobierno en la sombra». Apoya la idea en la definición de «United States» de 28 U.S.C. § 3002.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 unió Washington, Georgetown y el condado en un solo gobierno municipal. La definición de 28 U.S.C. § 3002 («United States» incluye una corporación federal, una agencia...) sirve solo a efectos de la ley de cobro de deudas federales; la tesis de que EE. UU. se hizo corporación en 1871 no forma parte de la versión académica. Pendiente de contrastar.",
+    "fuentes": [
+     {
+      "titulo": "Cornell Law: 28 U.S.C. § 3002 (definiciones)",
+      "url": "https://www.law.cornell.edu/uscode/text/28/3002",
+      "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: District of Columbia Organic Act of 1871",
+      "url": "https://en.wikipedia.org/wiki/District_of_Columbia_Organic_Act_of_1871",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-franco-prusiana",
+     "nota": "Mismo año; Nocera lo sitúa junto a la constitución del Imperio Germánico."
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "ley-histeresis-steinmetz",
@@ -31457,7 +31692,16 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "resumen": "Cambios económicos de 1971 de Nixon, entre ellos la cancelación unilateral de la convertibilidad directa del dólar en oro.",
-   "segun": [],
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, p. 151",
+     "url": null,
+     "resumen": "Nocera explica que el patrón oro duró hasta el 15 de agosto de 1971 (Bretton Woods, 1944) y afirma que desde entonces el papel moneda no tiene respaldo ni valor real, una pieza del «Engaño Maestro».",
+     "contradice": []
+    }
+   ],
    "oficial": {
     "resumen": "El «shock de Nixon» fue una serie de cambios que el presidente Richard Nixon hizo en 1971 en las políticas económicas y exteriores de Estados Unidos, como respuesta a la creciente inflación. Los más importantes fueron la congelación de precios y salarios, los recargos a las importaciones y la cancelación unilateral de la convertibilidad internacional directa del dólar al oro.",
     "fuentes": [
@@ -31475,8 +31719,7 @@ window.CRONO = {
      "nota": "Puso fin a la convertibilidad que fijó Bretton Woods."
     }
    ],
-   "estado": "aprobado",
-   "solo_oficial": true,
+   "estado": "borrador",
    "vista": "economia"
   },
   {
