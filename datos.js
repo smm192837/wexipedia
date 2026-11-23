@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-22",
+ "generado": "2026-11-23",
  "publica": false,
  "carriles": [
   {
@@ -1041,6 +1041,41 @@ window.CRONO = {
    "estado": "borrador",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "ad-extirpanda-1252",
+   "tipo": "hecho",
+   "titulo": "Bula Ad extirpanda (1252)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1252,
+    "texto": "15-5-1252",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Inocencio IV que autoriza a la Inquisición pontificia a usar la tortura contra los herejes.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El papa Inocencio IV promulgó la bula Ad extirpanda el 15 de mayo de 1252. Como desde Inocencio III la herejía se trataba como crimen de lesa majestad, autorizaba a la Inquisición pontificia a emplear la tortura para obtener confesiones. La confirmaron Alejandro IV (30-11-1259) y Clemente IV (3-11-1265).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Ad extirpanda",
+      "url": "https://es.wikipedia.org/wiki/Ad_extirpanda",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "inquisicion-espanola",
+     "nota": "Inquisición posterior, de otra institución y época."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "agua-violet-dinamizacion-electrica",
@@ -7222,6 +7257,41 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "clericis-laicos-1296",
+   "tipo": "hecho",
+   "titulo": "Bula Clericis laicos (1296)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1296,
+    "texto": "24-2-1296",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Bonifacio VIII contra los impuestos a los clérigos sin permiso del papa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Clericis laicos es una bula promulgada por Bonifacio VIII el 24 de febrero de 1296. Su título viene de sus primeras palabras («Es una antigua tradición que los laicos sean absolutamente contrarios a los clérigos»).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Clericis laicos",
+      "url": "https://es.wikipedia.org/wiki/Clericis_laicos",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "unam-sanctam-1302",
+     "nota": "Misma disputa de Bonifacio VIII con el poder civil."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "club-bilderberg",
    "tipo": "hecho",
    "titulo": "Club Bilderberg",
@@ -10217,6 +10287,36 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "cum-nimis-absurdum-1555",
+   "tipo": "hecho",
+   "titulo": "Bula Cum nimis absurdum (1555)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1555,
+    "texto": "14-7-1555",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pablo IV que crea el gueto de Roma y restringe los derechos de los judíos en los Estados Pontificios.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Cum nimis absurdum fue emitida por Pablo IV el 14 de julio de 1555. Para incentivar la conversión, revocó todos los derechos de la comunidad judía en los Estados Pontificios e impuso restricciones religiosas y económicas. Creó el gueto de Roma, un barrio amurallado con tres puertas cerradas de noche, para los unos 2.000 judíos de la ciudad; obligó a los varones a llevar un sombrero amarillo puntiagudo y a las mujeres un pañuelo amarillo, y a asistir a sermones católicos obligatorios en sábado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Cum nimis absurdum",
+      "url": "https://en.wikipedia.org/wiki/Cum_nimis_absurdum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "curso-agricultura-koberwitz-1924",
    "tipo": "hecho",
    "titulo": "Curso de agricultura de Steiner (Koberwitz, 1924)",
@@ -11154,6 +11254,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "dominus-ac-redemptor-1773",
+   "tipo": "hecho",
+   "titulo": "Breve Dominus ac Redemptor (1773)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1773,
+    "texto": "21-7-1773",
+    "fuente": "oficial"
+   },
+   "resumen": "Breve de Clemente XIV que suprime la Compañía de Jesús.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Dominus ac Redemptor («Señor y Redentor») es un breve apostólico (no una bula) promulgado por Clemente XIV el 21 de julio de 1773, por el que se suprimió la Compañía de Jesús.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Dominus ac Redemptor",
+      "url": "https://es.wikipedia.org/wiki/Dominus_ac_Redemptor",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "supresion-jesuitas-1773",
+     "nota": "Ficha del hecho que decreta."
+    },
+    {
+     "id": "restauracion-jesuitas-1814",
+     "nota": "Revocada en 1814."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "donacion-de-constantino",
    "tipo": "hecho",
    "titulo": "La Donación de Constantino",
@@ -11361,6 +11500,41 @@ window.CRONO = {
     ]
    },
    "vista": "politica"
+  },
+  {
+   "id": "dum-diversas-1452",
+   "tipo": "hecho",
+   "titulo": "Bula Dum diversas (1452)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1452,
+    "texto": "18-6-1452",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Nicolás V que autoriza a Alfonso V de Portugal a conquistar a sarracenos y paganos y reducirlos a esclavitud.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Dum Diversas fue emitida el 18 de junio de 1452 por Nicolás V y dirigida a Alfonso V de Portugal: le autorizaba a conquistar sarracenos y paganos y a consignarlos a esclavitud indefinida. Algunos la consideran el inicio de la trata de esclavos de África occidental. Los historiadores la ven como respuesta a la amenaza de los sarracenos, con la conversión de los esclavizados como objetivo declarado. Calixto III la reiteró en 1456 (Etsi cuncti), Sixto IV en 1481 y León X en 1514.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Dum Diversas",
+      "url": "https://es.wikipedia.org/wiki/Dum_Diversas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "romanus-pontifex-1455",
+     "nota": "Continuación un par de años después."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "ecat-rossi",
@@ -13915,6 +14089,41 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "logias",
+   "vista": "religion"
+  },
+  {
+   "id": "exsurge-domine-1520",
+   "tipo": "hecho",
+   "titulo": "Bula Exsurge Domine (1520)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1520,
+    "texto": "15-6-1520",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de León X: primera respuesta de la jerarquía católica a las tesis de Lutero.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Exsurge Domine fue publicada el 15 de junio de 1520 por León X como primera respuesta de la jerarquía católica a Lutero, sobre todo a lo que se oponía al papado. A inicios de 1520 el papa creó tres comisiones presididas por el cardenal Cayetano; sobre los análisis de las universidades de Colonia y Lovaina se redactó un esquema de errores respetando en lo posible las palabras del propio Lutero. La bula no condena toda su doctrina hasta entonces, pero le exige retractarse.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Exsurge Domine",
+      "url": "https://es.wikipedia.org/wiki/Exsurge_Domine",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "reforma-protestante-1517",
+     "nota": "Respuesta papal a la Reforma."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "religion"
   },
   {
@@ -18763,6 +18972,76 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "inter-caetera-1493",
+   "tipo": "hecho",
+   "titulo": "Bula Inter caetera (1493)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1493,
+    "texto": "4-5-1493 (probablemente redactada en junio)",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Alejandro VI que fija un meridiano: al oeste, las tierras halladas y por hallar son de Castilla y Aragón.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La bula menor Inter caetera II fue otorgada por Alejandro VI en 1493 a favor de Fernando e Isabel. Lleva fecha del 4 de mayo, aunque se cree redactada en junio. Coincide en gran parte con el breve Inter caetera del 3 de mayo, probablemente juzgado insuficiente por los Reyes Católicos. Su novedad fue definir un meridiano al oeste del cual todas las tierras «halladas y por hallar» pertenecerían a Castilla y Aragón (el breve solo daba las descubiertas por castellanos). No menciona a Portugal.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Bula menor Inter caetera de 1493",
+      "url": "https://es.wikipedia.org/wiki/Bula_menor_Inter_caetera_de_1493",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "romanus-pontifex-1455",
+     "nota": "Precedente portugués."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
+   "id": "inter-gravissimas-1582",
+   "tipo": "hecho",
+   "titulo": "Bula Inter gravissimas (1582)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1582,
+    "texto": "24-2-1582",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Gregorio XIII que reforma el calendario juliano y da origen al gregoriano.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Inter gravissimas fue emitida por Gregorio XIII el 24 de febrero de 1582. Escrita en latín, reformó el calendario juliano; la reforma se considera un calendario nuevo, el gregoriano, hoy usado en casi todos los países. Entre los cristianos ortodoxos, cuyos ciclos litúrgicos no la aplicaron, se conoce como «estilo nuevo».",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Inter gravissimas",
+      "url": "https://en.wikipedia.org/wiki/Inter_gravissimas",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "calendario-gregoriano-gregorio-xiii",
+     "nota": "Ficha del calendario que instituye."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "intervencion-orden-del-templo-1677",
    "tipo": "hecho",
    "titulo": "Intervención de la Orden del Templo por el rey de Francia (1677 = 1307)",
@@ -20043,6 +20322,36 @@ window.CRONO = {
     ]
    },
    "vista": "politica"
+  },
+  {
+   "id": "laudabiliter-1155",
+   "tipo": "hecho",
+   "titulo": "Bula Laudabiliter (1155)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1155,
+    "texto": "1155 (presunta)",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula atribuida a Adriano IV que reconocería a Enrique II de Inglaterra el señorío sobre Irlanda; su autenticidad se discute.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La bula Laudabiliter fue presuntamente promulgada por Adriano IV en 1155 para reconocer a Enrique II de Inglaterra el señorío sobre Irlanda, lo que en la práctica equivalía a autorizar la invasión normanda de Irlanda. El adverbio «presuntamente» de la fuente refleja que su autenticidad y alcance son discutidos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Laudabiliter",
+      "url": "https://es.wikipedia.org/wiki/Laudabiliter",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "laudate-deum-2023",
@@ -28354,6 +28663,36 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "regnans-in-excelsis-1570",
+   "tipo": "hecho",
+   "titulo": "Bula Regnans in excelsis (1570)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1570,
+    "texto": "25-2-1570",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pío V que excomulga a Isabel I de Inglaterra y libera a sus súbditos de la obediencia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Regnans in Excelsis fue emitida por Pío V el 25 de febrero de 1570. Excomulgaba a Isabel I de Inglaterra, la declaraba hereje, liberaba a sus súbditos del juramento de lealtad y excomulgaba a quien obedeciera sus órdenes. Entre los agravios citados: haber apartado al Consejo Real de nobles ingleses, perseguido a los católicos y abolido ritos de la Iglesia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Regnans in Excelsis",
+      "url": "https://en.wikipedia.org/wiki/Regnans_in_Excelsis",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "regresion-hipnotica",
    "tipo": "hecho",
    "titulo": "Regresión hipnótica y «vidas pasadas»",
@@ -29526,6 +29865,45 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "romanus-pontifex-1455",
+   "tipo": "hecho",
+   "titulo": "Bula Romanus Pontifex (1455)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1455,
+    "texto": "8-1-1455",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Nicolás V que reconoce a Portugal la propiedad exclusiva de lo conquistado desde Bojador hacia el sur.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Romanus Pontifex fue otorgada por Nicolás V a Alfonso V de Portugal el 8 de enero de 1455. Reconocía a Portugal la propiedad exclusiva de islas, tierras, puertos y mares conquistados desde los cabos de Bojador y Nam por toda Guinea y más allá, el derecho a seguir conquistando contra musulmanes y paganos y el de comerciar con sus habitantes, salvo productos prohibidos a los infieles (herramientas de hierro, madera, cuerdas, barcos y armaduras). La confirmó Calixto III en 1456.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Romanus Pontifex",
+      "url": "https://es.wikipedia.org/wiki/Romanus_Pontifex",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "dum-diversas-1452",
+     "nota": "Antecedente directo."
+    },
+    {
+     "id": "inter-caetera-1493",
+     "nota": "El reparto se extiende a Castilla en 1493."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "rosacruces",
@@ -31543,6 +31921,45 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "sublimis-deus-1537",
+   "tipo": "hecho",
+   "titulo": "Bula Sublimis Deus (1537)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1537,
+    "texto": "2-6-1537",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pablo III que reconoce la libertad de los indígenas de las Indias y prohíbe esclavizarlos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Sublimis Deus (o Veritas ipsa) fue promulgada por Pablo III el 2 de junio de 1537. Establecía el derecho a la libertad de los indígenas de las Indias, prohibía someterlos a esclavitud y consideraba conveniente predicarles la doctrina cristiana. Sirvió de apoyo a los misioneros que defendían los derechos de los indígenas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Sublimis Deus",
+      "url": "https://es.wikipedia.org/wiki/Sublimis_Deus",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "pablo-iii",
+     "nota": "Papa que la promulgó."
+    },
+    {
+     "id": "inter-caetera-1493",
+     "nota": "Visión distinta de los indígenas, medio siglo después."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "sucesion-fibonacci",
    "tipo": "hecho",
    "titulo": "Sucesión de Fibonacci",
@@ -33547,6 +33964,41 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "unam-sanctam-1302",
+   "tipo": "hecho",
+   "titulo": "Bula Unam sanctam (1302)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1302,
+    "texto": "18-11-1302",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Bonifacio VIII, de las declaraciones más fuertes de supremacía espiritual del papado.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Unam sanctam es una bula promulgada por Bonifacio VIII el 18 de noviembre de 1302, que los historiadores consideran una de las declaraciones de supremacía espiritual más fuertes jamás hechas por el papado. El original se ha perdido; se conoce una versión del texto en los registros de Bonifacio VIII de los Archivos Vaticanos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Unam sanctam",
+      "url": "https://es.wikipedia.org/wiki/Unam_sanctam",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "clericis-laicos-1296",
+     "nota": "Misma disputa de Bonifacio VIII con el poder civil."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "unesco-fundacion-1946",
    "tipo": "hecho",
    "titulo": "Fundación de la UNESCO (1946) y su primer director, Julian Huxley",
@@ -34744,6 +35196,36 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "vix-pervenit-1745",
+   "tipo": "hecho",
+   "titulo": "Encíclica Vix pervenit (1745)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1745,
+    "texto": "1-11-1745",
+    "fuente": "oficial"
+   },
+   "resumen": "Encíclica de Benedicto XIV que condena el cobro de interés en los préstamos como usura.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Vix pervenit («Sobre la usura y otros beneficios deshonestos») es una encíclica (no una bula) promulgada por Benedicto XIV el 1 de noviembre de 1745, dirigida a los obispos de Italia, que condena como usura el cobro de interés en préstamos. Se considera no ex cátedra. Recoge enseñanzas de concilios ecuménicos y de la escolástica, que no veía el dinero como productivo, cada vez más en conflicto con el capitalismo. La Congregación para la Doctrina de la Fe la aplicó a toda la Iglesia el 29-7-1836, con Gregorio XVI.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Vix pervenit",
+      "url": "https://es.wikipedia.org/wiki/Vix_pervenit",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "volksempfaenger-1933",
    "tipo": "hecho",
    "titulo": "El Volksempfänger, la radio del pueblo (1933)",
@@ -34860,6 +35342,41 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "tratados-y-escritos",
+   "vista": "religion"
+  },
+  {
+   "id": "vox-in-excelso-1312",
+   "tipo": "hecho",
+   "titulo": "Bula Vox in excelso (1312)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1312,
+    "texto": "22-3-1312",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Clemente V que disuelve formalmente la Orden del Temple.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Vox in excelso es una bula emitida por Clemente V el 22 de marzo de 1312 que disolvía formalmente la Orden de los Caballeros Templarios, retirándoles el apoyo papal y revocando los mandatos que les habían dado los papas de los siglos XII y XIII.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Vox in excelso",
+      "url": "https://es.wikipedia.org/wiki/Vox_in_excelso",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "templarios-banca-siglo-xii",
+     "nota": "Orden disuelta por la bula."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "vista": "religion"
   },
   {
