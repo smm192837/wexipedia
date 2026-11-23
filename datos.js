@@ -1043,6 +1043,41 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "ad-abolendam-1184",
+   "tipo": "hecho",
+   "titulo": "Bula Ad abolendam (1184)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1184,
+    "texto": "4-11-1184",
+    "fuente": "oficial"
+   },
+   "resumen": "Decretal y bula de Lucio III que fija medidas para extirpar la herejía; precede a la cruzada albigense y a las inquisiciones.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Ad abolendam fue un decretal y bula de Lucio III, escrita en Verona y emitida el 4 de noviembre de 1184, después de que el Concilio de Verona resolviera diferencias de jurisdicción entre el papado y el emperador Federico I. Prescribe medidas para erradicar la herejía y dio impulso a los esfuerzos que desembocaron en la cruzada albigense y en las inquisiciones.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Ad abolendam",
+      "url": "https://en.wikipedia.org/wiki/Ad_abolendam",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "ad-extirpanda-1252",
+     "nota": "Mismo camino: la persecución de la herejía."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "ad-extirpanda-1252",
    "tipo": "hecho",
    "titulo": "Bula Ad extirpanda (1252)",
@@ -10524,6 +10559,45 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "decet-romanum-pontificem-1521",
+   "tipo": "hecho",
+   "titulo": "Bula Decet Romanum Pontificem (1521)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1521,
+    "texto": "3-1-1521",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de León X que excomulga a Martín Lutero.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Decet Romanum Pontificem («Satisface al Pontífice Romano») es la bula que excomulgó a Lutero. León X la emitió el 3 de enero de 1521 para hacer efectiva la excomunión con que ya se le había amenazado en Exsurge Domine, al negarse Lutero a abjurar. Él había quemado su copia de Exsurge Domine el 10 de diciembre de 1520 en Wittenberg. A finales del siglo XX los luteranos pidieron levantar la excomunión; la Curia respondió que lo habitual es levantarla solo a personas vivas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Decet Romanum Pontificem",
+      "url": "https://es.wikipedia.org/wiki/Decet_Romanum_Pontificem",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "exsurge-domine-1520",
+     "nota": "Amenaza previa."
+    },
+    {
+     "id": "reforma-protestante-1517",
+     "nota": "Contexto de la Reforma."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "declaracion-balfour",
    "tipo": "hecho",
    "titulo": "La Declaración Balfour",
@@ -11579,6 +11653,45 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "ecclesiam-a-jesu-christo-1821",
+   "tipo": "hecho",
+   "titulo": "Bula Ecclesiam a Jesu Christo (1821)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1821,
+    "texto": "13-9-1821",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pío VII contra las sociedades secretas, sobre todo los carbonarios; establece la excomunión de los masones.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Ecclesiam a Jesu Christo fue promulgada por Pío VII el 13 de septiembre de 1821 contra las sociedades secretas opuestas a la Iglesia, sobre todo los carbonarios. Establecía que los masones debían ser excomulgados por el secreto bajo juramento de su sociedad y sus conspiraciones contra la Iglesia y el Estado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Ecclesiam a Jesu Christo",
+      "url": "https://en.wikipedia.org/wiki/Ecclesiam_a_Jesu_Christo",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "providas-romanorum-1751",
+     "nota": "Se apoya en ella."
+    },
+    {
+     "id": "masoneria-especulativa",
+     "nota": "Asociación que condena."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "educacion-jesuita-lideres-eeuu",
@@ -13320,6 +13433,36 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "execrabilis-1460",
+   "tipo": "hecho",
+   "titulo": "Bula Execrabilis (1460)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1460,
+    "texto": "18-1-1460",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pío II que condena el conciliarismo: no se puede apelar una decisión del papa a un concilio.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Execrabilis es una bula emitida por Pío II el 18 de enero de 1460 que condena el conciliarismo. Su nombre es la palabra inicial del texto latino, que calificaba de «execrable» todo intento de apelar una decisión autorizada de un papa ante un concilio.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Execrabilis",
+      "url": "https://en.wikipedia.org/wiki/Execrabilis",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "expansion-fluvial-imperio-romano-x-xii",
@@ -17926,6 +18069,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "humanum-genus-1884",
+   "tipo": "hecho",
+   "titulo": "Encíclica Humanum genus (1884)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1884,
+    "texto": "20-4-1884",
+    "fuente": "oficial"
+   },
+   "resumen": "Encíclica de León XIII que condena la masonería y sus principios (naturalismo, soberanía popular, separación Iglesia-Estado).",
+   "segun": [],
+   "oficial": {
+    "resumen": "Humanum genus («Género humano») es la decimocuarta encíclica de León XIII (no una bula), promulgada el 20 de abril de 1884. Condena la masonería y los principios ideológicos en que se apoya, en especial el naturalismo y su idea de la soberanía popular y de la separación de Iglesia y Estado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Humanum genus",
+      "url": "https://es.wikipedia.org/wiki/Humanum_genus",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "masoneria-especulativa",
+     "nota": "Asociación que condena."
+    },
+    {
+     "id": "rerum-novarum-1891",
+     "nota": "Mismo pontificado de León XIII."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "hundimiento-del-maine-1898",
    "tipo": "hecho",
    "titulo": "Hundimiento del USS Maine (15-2-1898)",
@@ -18533,6 +18715,41 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "in-eminenti-apostolatus-1738",
+   "tipo": "hecho",
+   "titulo": "Bula In eminenti apostolatus specula (1738)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1738,
+    "texto": "28-4-1738",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Clemente XII, primer documento papal que condena a los masones con excomunión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "In eminenti apostolatus specula fue emitida por Clemente XII el 28 de abril de 1738 y prohíbe a los católicos afiliarse a asociaciones masónicas. Es el primer documento de un pontífice que condena a los francmasones con la excomunión. Nació del aumento de miembros de asociaciones que defendían ideas que la Iglesia consideraba peligrosas; una figura que inquietaba a la Curia era el anticuario prusiano Philipp von Stosch, que presumía de ser masón y miembro de una logia de Florencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): In eminenti apostolatus specula",
+      "url": "https://es.wikipedia.org/wiki/In_eminenti_apostolatus_specula",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "masoneria-especulativa",
+     "nota": "Asociación que condena."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "incendio-nido-del-aguila",
@@ -22455,6 +22672,41 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "mirari-vos-1832",
+   "tipo": "hecho",
+   "titulo": "Encíclica Mirari vos (1832)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1832,
+    "texto": "15-8-1832",
+    "fuente": "oficial"
+   },
+   "resumen": "Encíclica de Gregorio XVI que condena el liberalismo y prohíbe esas ideas a los católicos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Mirari vos es una encíclica (no una bula) de Gregorio XVI publicada el 15 de agosto de 1832. Condena toda forma de liberalismo como pecado y lo prohíbe a los católicos. Parte del indiferentismo religioso, base de muchos errores según el papa, y condena la libertad de conciencia, de culto y de prensa y la separación de Iglesia y Estado, como frutos de ese indiferentismo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Mirari vos",
+      "url": "https://es.wikipedia.org/wiki/Mirari_vos",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "infalibilidad-papal-1870",
+     "nota": "Marco posterior del papado del siglo XIX."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "modelo-negocio-farmaceutico-clientes-recurrentes",
    "tipo": "hecho",
    "titulo": "El modelo de negocio farmacéutico: síntomas, patentes y clientes recurrentes",
@@ -24828,6 +25080,45 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
+  },
+  {
+   "id": "omne-datum-optimum-1139",
+   "tipo": "hecho",
+   "titulo": "Bula Omne datum optimum (1139)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1139,
+    "texto": "29-3-1139",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Inocencio II que oficializa la Orden del Temple y la hace responder solo ante el papa.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Omne datum optimum fue promulgada por Inocencio II el 29 de marzo de 1139 para oficializar la creación de la Orden del Temple. Reconocía su regla, les concedía el botín ganado a los sarracenos en Tierra Santa, los liberaba de pagar diezmos a los obispados y les hacía responder de sus actos solo ante el papa. Su nombre son las primeras palabras de la Epístola de Santiago 1,17. Con las bulas Milites Templi y Militia Dei forma la base de los privilegios de la orden.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Omne datum optimum",
+      "url": "https://es.wikipedia.org/wiki/Omne_datum_optimum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "templarios-banca-siglo-xii",
+     "nota": "Orden a la que da existencia oficial."
+    },
+    {
+     "id": "vox-in-excelso-1312",
+     "nota": "Disolución de la orden 173 años después."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "oms-definicion-pandemia-2013",
@@ -28217,6 +28508,45 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "providas-romanorum-1751",
+   "tipo": "hecho",
+   "titulo": "Bula Providas Romanorum (1751)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1751,
+    "texto": "18-3-1751",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Benedicto XIV que reitera la condena de la masonería y confirma la de 1738.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Providas Romanorum fue promulgada por Benedicto XIV el 18 de marzo de 1751. Condenaba la masonería por su supuesto naturalismo, la exigencia de juramentos, el secreto, el indiferentismo religioso y una posible amenaza para la Iglesia y el Estado. Confirma y cita completa la constitución In eminenti apostolatus de Clemente XII (1738) y prohíbe a los católicos buscar ser miembros de cualquier grupo masónico. A su vez, Pío VII se apoyó en ella y en la de 1738 en Ecclesiam a Jesu Christo (1821).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Providas Romanorum",
+      "url": "https://en.wikipedia.org/wiki/Providas_Romanorum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "in-eminenti-apostolatus-1738",
+     "nota": "Constitución que confirma."
+    },
+    {
+     "id": "masoneria-especulativa",
+     "nota": "Asociación que condena."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "prueba-trinity-1945",
    "tipo": "hecho",
    "titulo": "Prueba Trinity (16-7-1945)",
@@ -28992,6 +29322,41 @@ window.CRONO = {
     ]
    },
    "vista": "ciencia"
+  },
+  {
+   "id": "rerum-novarum-1891",
+   "tipo": "hecho",
+   "titulo": "Encíclica Rerum novarum (1891)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1891,
+    "texto": "15-5-1891",
+    "fuente": "oficial"
+   },
+   "resumen": "Primera encíclica social de la Iglesia: apoya los sindicatos y la propiedad privada ante la condición de los obreros.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Rerum novarum («De las cosas nuevas») es la trigésima octava encíclica de León XIII (no una bula) y la primera encíclica social de la Iglesia católica. Se publicó el 15 de mayo de 1891 con el título De Conditione Opificum («Sobre la situación de los obreros»), como carta abierta a los obispos sobre las condiciones de las clases trabajadoras. Apoya el derecho a formar uniones o sindicatos y reafirma el derecho a la propiedad privada; trata las relaciones entre gobierno, empresas, trabajadores e Iglesia y propone una organización socioeconómica que luego se llamaría distributismo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Rerum novarum",
+      "url": "https://es.wikipedia.org/wiki/Rerum_novarum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "humanum-genus-1884",
+     "nota": "Mismo pontificado de León XIII."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "resorts-international-intertel",
@@ -31604,6 +31969,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "sollicitudo-omnium-ecclesiarum-1814",
+   "tipo": "hecho",
+   "titulo": "Bula Sollicitudo omnium ecclesiarum (1814)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1814,
+    "texto": "7-8-1814",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Pío VII que restablece la Compañía de Jesús.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Sollicitudo omnium ecclesiarum («El cuidado de todas las Iglesias») fue emitida el 7 de agosto de 1814 por Pío VII y restablecía la Compañía de Jesús tras su supresión por Dominus ac Redemptor (1773). La orden había seguido existiendo en algunos lugares: Pío VII había aprobado antes, con el breve Catholicae Fidei (7-3-1801), su existencia en Rusia, y en 1804 se restableció en Nápoles y Sicilia a petición de Fernando I.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Sollicitudo omnium ecclesiarum",
+      "url": "https://es.wikipedia.org/wiki/Sollicitudo_omnium_ecclesiarum",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "restauracion-jesuitas-1814",
+     "nota": "Ficha del hecho que decreta."
+    },
+    {
+     "id": "dominus-ac-redemptor-1773",
+     "nota": "Revoca esta supresión."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
+  },
+  {
    "id": "ss-modelo-jesuita",
    "tipo": "hecho",
    "titulo": "La SS y el modelo jesuita",
@@ -32081,6 +32485,36 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "summis-desiderantes-1484",
+   "tipo": "hecho",
+   "titulo": "Bula Summis desiderantes affectibus (1484)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1484,
+    "texto": "5-12-1484",
+    "fuente": "oficial"
+   },
+   "resumen": "Bula de Inocencio VIII sobre la brujería.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Summis desiderantes affectibus («desear con fervor supremo») es una bula papal relativa a la brujería emitida por Inocencio VIII el 5 de diciembre de 1484.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Summis desiderantes affectibus",
+      "url": "https://es.wikipedia.org/wiki/Summis_desiderantes_affectibus",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "supresion-jesuitas-1773",
@@ -34195,6 +34629,36 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "unigenitus-1713",
+   "tipo": "hecho",
+   "titulo": "Bula Unigenitus (1713)",
+   "carril": "religion",
+   "naturaleza": "tratados-y-escritos",
+   "temas": [],
+   "fecha": {
+    "desde": 1713,
+    "texto": "1713",
+    "fuente": "oficial"
+   },
+   "resumen": "Constitución apostólica en forma de bula de Clemente XI que condena 101 proposiciones de Quesnel y abre la fase final de la controversia jansenista en Francia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Unigenitus («Hijo unigénito de Dios») es una constitución apostólica en forma de bula promulgada por Clemente XI en 1713. Abrió la fase final de la controversia jansenista en Francia y condenó 101 proposiciones de Pascasio Quesnel.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Unigenitus",
+      "url": "https://es.wikipedia.org/wiki/Unigenitus",
+      "consultado": "2026-11-23"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "religion"
   },
   {
    "id": "union-de-rusia-1318",
