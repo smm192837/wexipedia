@@ -2975,7 +2975,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "s. V a.C."
    },
-   "resumen": "Leucipo y Demócrito: todo son átomos y vacío.",
+   "resumen": "Teoría filosófica surgida en la Grecia del siglo V a. C. según la cual el universo está formado por combinaciones de partículas indivisibles, los átomos, y vacío.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -2987,7 +2987,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leucipo y Demócrito (siglo V a. C.) suelen considerarse los primeros atomistas griegos: la realidad serían átomos indivisibles e infinitos moviéndose en un vacío infinito. Del primero se sabe poco; casi todo llega por Aristóteles y otros. Los átomos son eternos y no proceden de nada anterior; Aristóteles criticó que no diera razón de por qué hay movimiento.",
+    "resumen": "Qué es: el atomismo es una teoría filosófica que apareció en la Antigua Grecia en el siglo V a. C. y también en la India, quizá mucho antes. Sostiene que el universo se compone de combinaciones de pequeñas partículas indivisibles llamadas átomos (del griego átomon, «que no se puede cortar»). Leucipo y Demócrito (siglo V a. C.) suelen considerarse los primeros atomistas griegos: la realidad serían átomos indivisibles e infinitos moviéndose en un vacío infinito. Del primero se sabe poco; casi todo llega por Aristóteles y otros. Los átomos son eternos y no proceden de nada anterior; Aristóteles criticó que no diera razón de por qué hay movimiento.",
     "fuentes": [
      {
       "titulo": "Stanford Encyclopedia of Philosophy: Leucippus",
@@ -2998,6 +2998,11 @@ window.CRONO = {
       "titulo": "Stanford Encyclopedia of Philosophy: Ancient Atomism",
       "url": "https://plato.stanford.edu/archives/sum2006/entries/atomism-ancient/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Atomismo",
+      "url": "https://es.wikipedia.org/wiki/Atomismo",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -9430,7 +9435,7 @@ window.CRONO = {
     "desde": 1927,
     "fuente": "oficial"
    },
-   "resumen": "Congreso de Bruselas sobre electrones y fotones que reunió a los padres de la física cuántica.",
+   "resumen": "Quinto congreso Solvay, celebrado en Bruselas en 1927 sobre electrones y fotones, con los grandes físicos de la época.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -9450,7 +9455,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El V Congreso Solvay se celebró en Bruselas del 24 al 29 de octubre de 1927, presidido por Lorentz, sobre «Electrones y fotones». Reunió a Einstein, Bohr, Curie, Planck, Heisenberg, Schrödinger o Dirac, y se recuerda por el comienzo del debate entre Einstein y Bohr sobre la mecánica cuántica. Las fuentes no recogen que allí se discutiera ni se votara el éter: la física lo había ido dejando desde la relatividad especial (1905), aunque Dayton Miller defendía en esos años resultados a su favor que nadie logró reproducir.",
+    "resumen": "Qué es: los congresos Solvay son una serie de conferencias científicas celebradas desde 1911, que reúnen a los mayores científicos del momento y trataron problemas abiertos de la física y de la química. Los pagó el mecenazgo del químico e industrial belga Ernest Solvay. Se celebran cada tres años. El V Congreso Solvay se celebró en Bruselas del 24 al 29 de octubre de 1927, presidido por Lorentz, sobre «Electrones y fotones». Reunió a Einstein, Bohr, Curie, Planck, Heisenberg, Schrödinger o Dirac, y se recuerda por el comienzo del debate entre Einstein y Bohr sobre la mecánica cuántica. Las fuentes no recogen que allí se discutiera ni se votara el éter: la física lo había ido dejando desde la relatividad especial (1905), aunque Dayton Miller defendía en esos años resultados a su favor que nadie logró reproducir.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Solvay Conference",
@@ -9471,6 +9476,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Luminiferous aether",
       "url": "https://en.wikipedia.org/wiki/Luminiferous_aether",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Congreso Solvay",
+      "url": "https://es.wikipedia.org/wiki/Congreso_Solvay",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -13583,7 +13593,7 @@ window.CRONO = {
    "naturaleza": "ciencia",
    "temas": [],
    "fecha": null,
-   "resumen": "Energía que según la física cuántica persiste en el vacío.",
+   "resumen": "En física, la energía más baja que puede tener un sistema cuántico: la energía de su estado fundamental. En la teoría cuántica de campos equivale a la energía del vacío.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -13631,7 +13641,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Es la energía mínima de un sistema cuántico: los átomos siguen vibrando incluso en el cero absoluto, y por eso el helio no se congela a presión normal. En el vacío, sus fluctuaciones explican efectos medibles como el de Casimir (predicho en 1948, confirmado en 1997), y algunos físicos hablan de una especie de vuelta del éter, compatible con la relatividad. La teoría le da una densidad unas 10¹²⁰ veces mayor de lo que admiten las observaciones: es el «problema de la constante cosmológica», sin resolver. Nadie ha logrado sacar de ella energía útil, cosa que los físicos equiparan al movimiento perpetuo; la estabilidad del átomo la explica la mecánica cuántica desde 1926, y la idea de Puthoff de que el electrón se sostiene absorbiendo energía del vacío es una hipótesis no demostrada.",
+    "resumen": "Qué es: la energía del punto cero es la energía más baja que puede poseer un sistema mecánico-cuántico, la de su estado fundamental. La propusieron Einstein y Otto Stern en 1913, con el nombre de «energía residual». Todos los sistemas cuánticos la tienen; en la teoría cuántica de campos es sinónimo de la energía del vacío. Es la energía mínima de un sistema cuántico: los átomos siguen vibrando incluso en el cero absoluto, y por eso el helio no se congela a presión normal. En el vacío, sus fluctuaciones explican efectos medibles como el de Casimir (predicho en 1948, confirmado en 1997), y algunos físicos hablan de una especie de vuelta del éter, compatible con la relatividad. La teoría le da una densidad unas 10¹²⁰ veces mayor de lo que admiten las observaciones: es el «problema de la constante cosmológica», sin resolver. Nadie ha logrado sacar de ella energía útil, cosa que los físicos equiparan al movimiento perpetuo; la estabilidad del átomo la explica la mecánica cuántica desde 1926, y la idea de Puthoff de que el electrón se sostiene absorbiendo energía del vacío es una hipótesis no demostrada.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Zero-point energy",
@@ -13647,6 +13657,11 @@ window.CRONO = {
       "titulo": "P. Yam, «Exploiting Zero-Point Energy», Scientific American, dic. 1997 (copia)",
       "url": "https://www.bazaarmodel.net/Onderwerpen/Zero-Point-energy",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Energía del punto cero",
+      "url": "https://es.wikipedia.org/wiki/Energ%C3%ADa_del_punto_cero",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -14683,7 +14698,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "hacia 1967 (Nobel en 1977)"
    },
-   "resumen": "Sistemas abiertos lejos del equilibrio que se autoorganizan en estructuras nuevas.",
+   "resumen": "Estructuras ordenadas que aparecen por sí solas en sistemas abiertos muy alejados del equilibrio; concepto de Ilya Prigogine, Nobel de Química.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -14712,7 +14727,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Concepto de Ilya Prigogine, Nobel de Química en 1977 «por sus contribuciones a la termodinámica del no equilibrio, en particular la teoría de las estructuras disipativas»: en sistemas abiertos lejos del equilibrio puede surgir orden de forma espontánea. Su aplicación a la psique y al trauma es del autor, no de Prigogine.",
+    "resumen": "Qué es: las estructuras disipativas son estructuras coherentes y autoorganizadas que aparecen en sistemas alejados del equilibrio. El concepto es de Ilya Prigogine, que recibió el Nobel de Química por extender la termodinámica a esos sistemas, que solo pueden existir en conjunción con su entorno. Muestran que la disipación de energía y materia, que suele asociarse a pérdida y desorden, puede ser fuente de orden. Concepto de Ilya Prigogine, Nobel de Química en 1977 «por sus contribuciones a la termodinámica del no equilibrio, en particular la teoría de las estructuras disipativas»: en sistemas abiertos lejos del equilibrio puede surgir orden de forma espontánea. Su aplicación a la psique y al trauma es del autor, no de Prigogine.",
     "fuentes": [
      {
       "titulo": "Nobel Prize: Ilya Prigogine, Chemistry 1977",
@@ -14723,6 +14738,11 @@ window.CRONO = {
       "titulo": "Physics Today (2004): Ilya Prigogine, obituario",
       "url": "https://physicstoday.aip.org/obituaries/ilya-prigogine",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Estructura disipativa",
+      "url": "https://es.wikipedia.org/wiki/Estructura_disipativa",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -15231,7 +15251,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1887
    },
-   "resumen": "Intento de detectar el movimiento de la Tierra respecto al éter.",
+   "resumen": "Experimento de 1887 de Michelson y Morley para medir el movimiento de la Tierra respecto al éter, y su resultado fue base experimental de la relatividad.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -15262,7 +15282,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1887 Michelson y Morley intentaron medir la velocidad de la Tierra respecto al éter comparando haces de luz en distintas direcciones: esperaban un desplazamiento de unas 0,4 franjas y hallaron 0,01, un resultado nulo. No cerró el debate de golpe: Dayton Miller anunció en los años 20 resultados positivos, que otros no pudieron reproducir y que un análisis posterior atribuyó a cambios de temperatura. La relatividad especial (1905) explicó el resultado sin necesidad de éter. La velocidad de la luz, unos 300.000 km/s, ya se había medido antes por otros métodos (Fizeau en 1849, Foucault en 1862 y el propio Michelson en 1879).",
+    "resumen": "Qué es: fue un intento de medir el movimiento de la Tierra respecto al éter, el supuesto medio portador de la luz. Lo realizaron entre abril y julio de 1887 los estadounidenses Albert A. Michelson (Nobel de Física 1907) y Edward Morley, en la actual Universidad Case de la Reserva Occidental (Cleveland), y se publicó en noviembre. Su resultado fue luego la base experimental de la teoría de la relatividad. En 1887 Michelson y Morley intentaron medir la velocidad de la Tierra respecto al éter comparando haces de luz en distintas direcciones: esperaban un desplazamiento de unas 0,4 franjas y hallaron 0,01, un resultado nulo. No cerró el debate de golpe: Dayton Miller anunció en los años 20 resultados positivos, que otros no pudieron reproducir y que un análisis posterior atribuyó a cambios de temperatura. La relatividad especial (1905) explicó el resultado sin necesidad de éter. La velocidad de la luz, unos 300.000 km/s, ya se había medido antes por otros métodos (Fizeau en 1849, Foucault en 1862 y el propio Michelson en 1879).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Luminiferous aether",
@@ -15278,6 +15298,11 @@ window.CRONO = {
       "titulo": "APS News: July 1849, Fizeau publishes results of speed of light experiment",
       "url": "https://www.aps.org/apsnews/2010/07/fizeau-speed-of-light-experiment",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Experimento de Michelson y Morley",
+      "url": "https://es.wikipedia.org/wiki/Experimento_de_Michelson_y_Morley",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -16755,7 +16780,7 @@ window.CRONO = {
     "desde": 1989,
     "fuente": "oficial"
    },
-   "resumen": "Anuncio de fusión nuclear a temperatura ambiente por electrólisis con paladio.",
+   "resumen": "Reacción nuclear de fusión producida a temperaturas y presiones cercanas a las ambientales; Fleischmann y Pons anunciaron haberla logrado por electrólisis con paladio.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -16802,7 +16827,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fleischmann y Pons la anunciaron en una rueda de prensa el 23-3-1989. Otros laboratorios no lograron reproducirla y un panel federal de EE. UU. señaló numerosos problemas en pocos meses; una segunda revisión del Departamento de Energía (2004) llegó a conclusiones parecidas. Sigue investigándose de forma minoritaria.",
+    "resumen": "Qué es: «fusión fría» es el nombre genérico de cualquier reacción nuclear de fusión que ocurra a temperaturas y presiones cercanas a las ordinarias, muy inferiores a los millones de grados que exigen las reacciones termonucleares, y con equipos baratos y poco consumo eléctrico. El término suele reservarse a la fractofusión, en la que moléculas de deuterio se fusionan dentro de la red cristalina de un cristal. Fleischmann y Pons la anunciaron en una rueda de prensa el 23-3-1989. Otros laboratorios no lograron reproducirla y un panel federal de EE. UU. señaló numerosos problemas en pocos meses; una segunda revisión del Departamento de Energía (2004) llegó a conclusiones parecidas. Sigue investigándose de forma minoritaria.",
     "fuentes": [
      {
       "titulo": "Time: Cold fusion (1989)",
@@ -16813,6 +16838,11 @@ window.CRONO = {
       "titulo": "Physics Today (1989): Cold fusion",
       "url": "https://aip.brightspotcdn.com/PTO.v42.i12.43_1.online.pdf",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Fusión fría",
+      "url": "https://es.wikipedia.org/wiki/Fusi%C3%B3n_fr%C3%ADa",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -20647,7 +20677,7 @@ window.CRONO = {
     "desde": 1910,
     "fuente": "oficial"
    },
-   "resumen": "Informe sobre la educación médica en EE. UU. y Canadá.",
+   "resumen": "Libro de 1910 de Abraham Flexner, financiado por la Fundación Carnegie, que pidió endurecer los requisitos de las escuelas de medicina de EE. UU. y Canadá y atenerse a la ciencia convencional.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -20697,7 +20727,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lo encargó en 1908 el Consejo de Educación Médica de la Asociación Médica Estadounidense a la Fundación Carnegie para el Avance de la Enseñanza, cuyo presidente, Henry Pritchett, eligió a Abraham Flexner; se publicó en 1910. Entre 1910 y 1935 cerraron o se fusionaron más de la mitad de las escuelas de medicina de EE. UU., entre ellas cinco de las siete para estudiantes negros y muchas de homeopatía y medicina ecléctica, y la enseñanza se orientó a la ciencia de laboratorio. John D. Rockefeller y su General Education Board financiaron después la reforma, con Flexner al frente de su programa médico desde 1913. Flexner era educador y no médico, y su informe es un estudio de extensión de libro (no de 22 páginas). Las escuelas de medicina de EE. UU. pasaron de 160 en 1904 a 85 en 1920 y a 66 en 1935, cifras compatibles con las del autor; las fuentes consultadas no hablan de «dialéctica hegeliana» ni de que el informe sea causa directa de los problemas de salud actuales, y sí de críticas por su efecto en las escuelas de mujeres y de estudiantes negros.",
+    "resumen": "Qué es: el Informe Flexner es un libro sobre educación médica en Estados Unidos y Canadá, escrito por Abraham Flexner y publicado en 1910 bajo el auspicio de la Fundación Carnegie (Boletín n.º 4). Pidió a las escuelas de medicina normas de admisión y graduación más altas y que se atuvieran estrictamente a los protocolos de la ciencia convencional en la enseñanza y la investigación. Muchos aspectos de la medicina norteamericana actual parten de él. Lo encargó en 1908 el Consejo de Educación Médica de la Asociación Médica Estadounidense a la Fundación Carnegie para el Avance de la Enseñanza, cuyo presidente, Henry Pritchett, eligió a Abraham Flexner; se publicó en 1910. Entre 1910 y 1935 cerraron o se fusionaron más de la mitad de las escuelas de medicina de EE. UU., entre ellas cinco de las siete para estudiantes negros y muchas de homeopatía y medicina ecléctica, y la enseñanza se orientó a la ciencia de laboratorio. John D. Rockefeller y su General Education Board financiaron después la reforma, con Flexner al frente de su programa médico desde 1913. Flexner era educador y no médico, y su informe es un estudio de extensión de libro (no de 22 páginas). Las escuelas de medicina de EE. UU. pasaron de 160 en 1904 a 85 en 1920 y a 66 en 1935, cifras compatibles con las del autor; las fuentes consultadas no hablan de «dialéctica hegeliana» ni de que el informe sea causa directa de los problemas de salud actuales, y sí de críticas por su efecto en las escuelas de mujeres y de estudiantes negros.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Flexner Report",
@@ -20708,6 +20738,11 @@ window.CRONO = {
       "titulo": "Philanthropy Roundtable: Legacy of Learning (Flexner y el General Education Board)",
       "url": "https://www.philanthropyroundtable.org/magazine/legacy-of-learning/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Informe Flexner",
+      "url": "https://es.wikipedia.org/wiki/Informe_Flexner",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -20853,7 +20888,7 @@ window.CRONO = {
     "desde": 1947,
     "fuente": "oficial"
    },
-   "resumen": "Instituto británico de ciencias sociales aplicadas.",
+   "resumen": "Organización británica sin ánimo de lucro que aplica las ciencias sociales a problemas actuales; nació de la Clínica Tavistock en 1946-1947 y tiene sede en Londres.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -20881,7 +20916,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Clínica Tavistock nació en 1920 y el Tavistock Institute of Human Relations en 1947. En la guerra, su director John Rawlings Rees fue psiquiatra consultor del ejército británico y su equipo creó los métodos de selección de oficiales (War Office Selection Boards, 1942); la propia clínica perdió sus edificios en los bombardeos de Londres. Su historia no recoge estudios del «punto de quiebra» de la población durante el Blitz. Barrio Sésamo (Sesame Street) lo creó en 1969 el Children's Television Workshop de EE. UU.; no consta ningún papel del Tavistock.",
+    "resumen": "Qué es: el Instituto Tavistock de Relaciones Humanas (TIHR) es una organización británica sin fines de lucro que aplica las ciencias sociales a cuestiones y problemas contemporáneos. Se inició en 1946 a partir de la Clínica Tavistock y se constituyó como entidad separada en septiembre de 1947. Edita la revista «Human Relations» y tiene su sede en Shoreditch, Londres. La Clínica Tavistock nació en 1920 y el Tavistock Institute of Human Relations en 1947. En la guerra, su director John Rawlings Rees fue psiquiatra consultor del ejército británico y su equipo creó los métodos de selección de oficiales (War Office Selection Boards, 1942); la propia clínica perdió sus edificios en los bombardeos de Londres. Su historia no recoge estudios del «punto de quiebra» de la población durante el Blitz. Barrio Sésamo (Sesame Street) lo creó en 1969 el Children's Television Workshop de EE. UU.; no consta ningún papel del Tavistock.",
     "fuentes": [
      {
       "titulo": "Tavistock and Portman: nuestra historia",
@@ -20900,6 +20935,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Sesame Workshop",
       "url": "https://en.wikipedia.org/wiki/Sesame_Workshop"
+     },
+     {
+      "titulo": "Wikipedia (es): Instituto Tavistock",
+      "url": "https://es.wikipedia.org/wiki/Instituto_Tavistock",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -21265,7 +21305,7 @@ window.CRONO = {
     "texto": "desde 2007",
     "fuente": "oficial"
    },
-   "resumen": "Reactor experimental internacional de fusión por confinamiento magnético.",
+   "resumen": "Reactor experimental internacional de fusión que se construye en Cadarache (Francia) para producir un plasma de fusión con diez veces más potencia térmica que la necesaria para calentarlo.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -21277,7 +21317,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Reactor experimental de fusión que se construye junto a Cadarache (Francia). El acuerdo se firmó en 2006 y la organización nació en 2007; las obras empezaron en 2010. Tras varios retrasos, el inicio de operación está previsto para 2034 y el de deuterio-tritio para 2039. Su objetivo es demostrar una ganancia de energía diez veces mayor que la aportada al plasma, no producir electricidad.",
+    "resumen": "Qué es: el ITER (International Thermonuclear Experimental Reactor) es un experimento científico a gran escala, liderado por la Unión Europea, que intenta producir un plasma de fusión con diez veces más potencia térmica que la necesaria para calentarlo. Se construye en Cadarache (Francia) y lo gestiona Euratom. Reactor experimental de fusión que se construye junto a Cadarache (Francia). El acuerdo se firmó en 2006 y la organización nació en 2007; las obras empezaron en 2010. Tras varios retrasos, el inicio de operación está previsto para 2034 y el de deuterio-tritio para 2039. Su objetivo es demostrar una ganancia de energía diez veces mayor que la aportada al plasma, no producir electricidad.",
     "fuentes": [
      {
       "titulo": "IPP Max Planck: hitos de ITER",
@@ -21288,6 +21328,11 @@ window.CRONO = {
       "titulo": "Physics World: ITER no operará hasta 2034",
       "url": "https://physicsworld.com/?p=115383",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): ITER",
+      "url": "https://es.wikipedia.org/wiki/ITER",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -26311,7 +26356,7 @@ window.CRONO = {
     "desde": 1888,
     "fuente": "oficial"
    },
-   "resumen": "Sociedad estadounidense de divulgación geográfica y científica.",
+   "resumen": "Una de las mayores organizaciones del mundo de educación y ciencia; empezó divulgando geografía y hoy abarca también arqueología, ciencias naturales, culturas, historia y conservación.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -26332,7 +26377,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La National Geographic Society nació en Washington el 13 de enero de 1888, cuando 33 exploradores y científicos se reunieron en el Cosmos Club para fundar una sociedad que aumentara y difundiera el saber geográfico. Su revista apareció en octubre de ese año. Hoy sus medios los publica National Geographic Partners, empresa conjunta con Disney. Sobre el efecto de sus documentales en la idea de la naturaleza como competencia no hay una versión oficial: es una interpretación del autor. Sin base hallada para que los Rothschild controlaran la revista.",
+    "resumen": "Qué es: la National Geographic Society es una de las organizaciones internacionales más grandes del mundo en educación y ciencia. Nació para avanzar en el conocimiento de la geografía y del mundo para el público general; sus intereses incluyen hoy la geografía, la arqueología, las ciencias naturales, el estudio de las culturas, la historia y la conservación del medio ambiente y del patrimonio histórico. La National Geographic Society nació en Washington el 13 de enero de 1888, cuando 33 exploradores y científicos se reunieron en el Cosmos Club para fundar una sociedad que aumentara y difundiera el saber geográfico. Su revista apareció en octubre de ese año. Hoy sus medios los publica National Geographic Partners, empresa conjunta con Disney. Sobre el efecto de sus documentales en la idea de la naturaleza como competencia no hay una versión oficial: es una interpretación del autor. Sin base hallada para que los Rothschild controlaran la revista.",
     "fuentes": [
      {
       "titulo": "Wikipedia: National Geographic Society",
@@ -26343,6 +26388,11 @@ window.CRONO = {
       "titulo": "Britannica: National Geographic Society",
       "url": "https://www.britannica.com/print/article/404873",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): National Geographic Society",
+      "url": "https://es.wikipedia.org/wiki/National_Geographic_Society",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -29350,7 +29400,7 @@ window.CRONO = {
     "desde": 1859,
     "fuente": "oficial"
    },
-   "resumen": "Libro de Darwin sobre la evolución por selección natural.",
+   "resumen": "Libro de Charles Darwin publicado el 24 de noviembre de 1859 que expone la evolución por selección natural; es el fundamento de la biología evolutiva.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -29370,7 +29420,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Se publicó el 24 de noviembre de 1859 con el título completo «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida». En la portada, Darwin figura como miembro de las sociedades Real, Geológica y Linneana; antes había estudiado en Edimburgo y Cambridge y había sido el naturalista del viaje del Beagle, que zarpó en 1831. No era sobrino de Spencer: sus abuelos eran el médico Erasmus Darwin y Josiah Wedgwood, fundador de la fábrica de porcelana, y Spencer nació en 1820, once años después que él.",
+    "resumen": "Qué es: «El origen de las especies» (On the Origin of Species) es un libro de Charles Darwin publicado el 24 de noviembre de 1859, considerado uno de los trabajos precursores de la literatura científica y el fundamento de la teoría de la biología evolutiva. Su título completo de la primera edición fue «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida»; en la sexta edición de 1872 se acortó. Se publicó el 24 de noviembre de 1859 con el título completo «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida». En la portada, Darwin figura como miembro de las sociedades Real, Geológica y Linneana; antes había estudiado en Edimburgo y Cambridge y había sido el naturalista del viaje del Beagle, que zarpó en 1831. No era sobrino de Spencer: sus abuelos eran el médico Erasmus Darwin y Josiah Wedgwood, fundador de la fábrica de porcelana, y Spencer nació en 1820, once años después que él.",
     "fuentes": [
      {
       "titulo": "National Library of Medicine (NIH): Darwin's life",
@@ -29391,6 +29441,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Herbert Spencer",
       "url": "https://en.wikipedia.org/wiki/Herbert_Spencer",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): El origen de las especies",
+      "url": "https://es.wikipedia.org/wiki/El_origen_de_las_especies",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -29747,7 +29802,7 @@ window.CRONO = {
     "hasta": 2023,
     "fuente": "oficial"
    },
-   "resumen": "La pandemia por el coronavirus SARS-CoV-2.",
+   "resumen": "La COVID-19 es la enfermedad infecciosa causada por el virus SARS-CoV-2; la OMS declaró la pandemia el 11 de marzo de 2020.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -29848,7 +29903,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OMS declaró la pandemia el 11-3-2020. Los CDC y la FDA describen la PCR de SARS-CoV-2 como prueba diseñada para detectar el virus; la afirmación de que no distingue el virus es falsa. El CDC retiró en 2021 el panel PCR original y lo sustituyó por uno multiplex que también detecta gripe.",
+    "resumen": "Qué es: la COVID-19 es una enfermedad infecciosa causada por el SARS-CoV-2. Produce fiebre, tos, dificultad respiratoria, dolor muscular y fatiga; en los casos graves, neumonía, síndrome de dificultad respiratoria aguda, sepsis y choque circulatorio. Según Wikipedia, hasta 2024 habían muerto 6.881.955 personas. La OMS declaró la pandemia el 11-3-2020. Los CDC y la FDA describen la PCR de SARS-CoV-2 como prueba diseñada para detectar el virus; la afirmación de que no distingue el virus es falsa. El CDC retiró en 2021 el panel PCR original y lo sustituyó por uno multiplex que también detecta gripe.",
     "fuentes": [
      {
       "titulo": "OMS: cronología COVID-19",
@@ -29859,6 +29914,11 @@ window.CRONO = {
       "titulo": "CDC: Lab alert, retirada del panel 2019-nCoV RT-PCR",
       "url": "https://www.cdc.gov/csels/dls/locs/2021/07-21-2021-lab-alert-cdc-diagnostic-pcr-panel.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): COVID-19",
+      "url": "https://es.wikipedia.org/wiki/COVID-19",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -30951,7 +31011,7 @@ window.CRONO = {
     "desde": 1884,
     "fuente": "oficial"
    },
-   "resumen": "Cuatro criterios para atribuir una enfermedad a un microbio; el autor dice que se invalidan.",
+   "resumen": "Cuatro criterios formulados por Robert Koch en 1884 para atribuir una enfermedad a un microorganismo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -30963,7 +31023,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los criterios para establecer que un microbio causa una enfermedad se asocian a Robert Koch. Según una revisión histórica, Friedrich Loeffler los fijó por escrito en 1884 y Koch no los llamó «postulados»; Koch publicó su versión en 1890. Hoy se usan como guía histórica, con límites conocidos (virus, portadores sanos), no como regla estricta.",
+    "resumen": "Qué es: los postulados de Koch (o de Henle-Koch) son una lista de requisitos muy estrictos, formulada por Robert Koch en 1884 para establecer la causa de la tuberculosis y redefinida por él en 1890, para validar la relación entre un microorganismo y una enfermedad. Se aplicaron a otras enfermedades y se modificaron a lo largo del siglo XX según el conocimiento. Los criterios para establecer que un microbio causa una enfermedad se asocian a Robert Koch. Según una revisión histórica, Friedrich Loeffler los fijó por escrito en 1884 y Koch no los llamó «postulados»; Koch publicó su versión en 1890. Hoy se usan como guía histórica, con límites conocidos (virus, portadores sanos), no como regla estricta.",
     "fuentes": [
      {
       "titulo": "Britannica: Koch's postulates",
@@ -30979,6 +31039,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Koch's postulates",
       "url": "https://www.wikipedia.org/wiki/Koch_postulate",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Postulados de Koch",
+      "url": "https://es.wikipedia.org/wiki/Postulados_de_Koch",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -32196,7 +32261,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1905
    },
-   "resumen": "Einstein publica la relatividad especial.",
+   "resumen": "Teoría de la física que Einstein publicó en 1905: la velocidad de la luz en el vacío es la misma en todos los sistemas de referencia inerciales, y las leyes de la física son las mismas en todos ellos.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -32208,7 +32273,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Einstein formuló la relatividad especial en 1905. Britannica explica que el experimento de Michelson y Morley no detectó el efecto esperado del éter sobre la velocidad de la luz y que la explicación llegó con la teoría de Einstein, que prescinde del éter. Los historiadores discuten cuánto pesó ese experimento en el camino de Einstein: él apenas lo menciona, y Lorentz y Poincaré aportaron piezas previas.",
+    "resumen": "Qué es: teoría de la física publicada por Albert Einstein en 1905. Parte de la observación de que la velocidad de la luz en el vacío es igual en todos los sistemas de referencia inerciales y de extraer todas las consecuencias del principio de relatividad de Galileo, según el cual un experimento se desarrolla igual en cualquier sistema inercial. Se llama «especial» porque solo se aplica cuando la curvatura del espacio-tiempo producida por la gravedad es despreciable. Einstein formuló la relatividad especial en 1905. Britannica explica que el experimento de Michelson y Morley no detectó el efecto esperado del éter sobre la velocidad de la luz y que la explicación llegó con la teoría de Einstein, que prescinde del éter. Los historiadores discuten cuánto pesó ese experimento en el camino de Einstein: él apenas lo menciona, y Lorentz y Poincaré aportaron piezas previas.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: relativity",
@@ -32219,6 +32284,11 @@ window.CRONO = {
       "titulo": "MacTutor (Univ. St Andrews): Special relativity",
       "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Special_relativity.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Teoría de la relatividad especial",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_de_la_relatividad_especial",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -32790,7 +32860,7 @@ window.CRONO = {
     "desde": 1869,
     "fuente": "oficial"
    },
-   "resumen": "Revista científica británica, hoy una de las más influyentes.",
+   "resumen": "Revista científica británica fundada por el astrónomo Joseph Norman Lockyer, cuyo primer número salió el 4 de noviembre de 1869; hoy es de las más prestigiosas del mundo.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -32811,7 +32881,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Revista científica semanal fundada por el astrónomo Norman Lockyer y el editor Alexander Macmillan; su primer número salió el 4-11-1869. Nació como foro divulgativo para un público amplio. Miembros del X Club la apoyaron, aunque Lockyer no dejó que el círculo de Darwin dominara sus debates. Nature se fundó el 4-11-1869 por Norman Lockyer y la editorial Macmillan; no se ha hallado propiedad de los Rothschild.",
+    "resumen": "Qué es: Nature es una de las revistas científicas más prestigiosas del mundo. La fundó el astrónomo británico Joseph Norman Lockyer y su primer número se publicó el 4 de noviembre de 1869. Revista científica semanal fundada por el astrónomo Norman Lockyer y el editor Alexander Macmillan; su primer número salió el 4-11-1869. Nació como foro divulgativo para un público amplio. Miembros del X Club la apoyaron, aunque Lockyer no dejó que el círculo de Darwin dominara sus debates. Nature se fundó el 4-11-1869 por Norman Lockyer y la editorial Macmillan; no se ha hallado propiedad de los Rothschild.",
     "fuentes": [
      {
       "titulo": "Nature (1939): «On November 4, 1869…»",
@@ -32827,6 +32897,11 @@ window.CRONO = {
       "titulo": "Nature: historia",
       "url": "https://www.nature.com/articles/d41586-019-01813-3",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Nature",
+      "url": "https://es.wikipedia.org/wiki/Nature",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -35573,7 +35648,7 @@ window.CRONO = {
     "desde": 1202,
     "fuente": "oficial"
    },
-   "resumen": "La sucesión en la que cada número es la suma de los dos anteriores.",
+   "resumen": "Sucesión de números (0, 1, 1, 2, 3, 5, 8, 13…) en la que cada uno es la suma de los dos anteriores; la describió en Europa Leonardo de Pisa (Fibonacci) en el siglo XIII.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -35593,7 +35668,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fibonacci la difundió en Europa en su «Liber Abaci» (1202), pero ya la conocían matemáticos indios: Virahanka (entre los siglos VI y VIII), Gopala (antes de 1135) y Hemachandra (hacia 1150). La relación con la espiral áurea y la naturaleza es matemática; llamarla «espiral del tiempo» y ver en el término 12 un «salto de octava» es lectura del autor.",
+    "resumen": "Qué es: la sucesión de Fibonacci es 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…; empieza con dos números y cada término es la suma de los dos anteriores. La describió en Europa el matemático italiano Leonardo de Pisa (Fibonacci), del siglo XIII. Tiene aplicaciones en informática, matemática y teoría de juegos, y aparece en algunas configuraciones biológicas. Fibonacci la difundió en Europa en su «Liber Abaci» (1202), pero ya la conocían matemáticos indios: Virahanka (entre los siglos VI y VIII), Gopala (antes de 1135) y Hemachandra (hacia 1150). La relación con la espiral áurea y la naturaleza es matemática; llamarla «espiral del tiempo» y ver en el término 12 un «salto de octava» es lectura del autor.",
     "fuentes": [
      {
       "titulo": "Fibonacci sequence (Wikipedia, resultado de búsqueda)",
@@ -35604,6 +35679,11 @@ window.CRONO = {
       "titulo": "P. Singh (1985), Historia Mathematica: The so-called Fibonacci numbers in ancient and medieval India (resumen)",
       "url": "https://new-savanna.blogspot.com/2018/11/virahanka-fibonacci-numbers.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Sucesión de Fibonacci",
+      "url": "https://es.wikipedia.org/wiki/Sucesi%C3%B3n_de_Fibonacci",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -36219,7 +36299,7 @@ window.CRONO = {
     "texto": "1839–1858",
     "fuente": "oficial"
    },
-   "resumen": "La célula como unidad de todos los seres vivos (Schwann, Schleiden, Virchow).",
+   "resumen": "Teoría de mediados del siglo XIX según la cual todos los seres vivos están formados por células, que son su unidad básica, y toda célula procede de otra célula.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -36240,7 +36320,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen.",
+    "resumen": "Qué es: la teoría celular se formuló por primera vez a mediados del siglo XIX y dice que los organismos vivos están formados por células, unidad estructural básica de todos ellos, y que todas las células proceden de células preexistentes. Sus tres principios: todos los organismos se componen de una o más células; la célula es la unidad básica de estructura y organización; y las células surgen de células preexistentes. Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen.",
     "fuentes": [
      {
       "titulo": "Spektrum, Lexikon der Biologie: Zelltheorie",
@@ -36256,6 +36336,11 @@ window.CRONO = {
       "titulo": "Instituto Nacional del Cáncer de EE. UU.: Metastatic Cancer: When Cancer Spreads",
       "url": "https://cancer.gov/types/metastatic-cancer",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Teoría celular",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_celular",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -37052,7 +37137,7 @@ window.CRONO = {
     "desde": 1947,
     "fuente": "oficial"
    },
-   "resumen": "Dispositivo semiconductor que sustituyó a las válvulas de vacío.",
+   "resumen": "Componente semiconductor que controla el paso de corriente entre dos contactos mediante un tercero y sirve de amplificador o interruptor; sustituyó a las válvulas de vacío.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -37064,7 +37149,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Bardeen y Brattain hicieron funcionar en los Bell Labs el primer transistor, de contacto puntual, el 16 de diciembre de 1947, y lo mostraron a la dirección el 23. Shockley concibió en enero de 1948 el transistor bipolar de unión, que se fabricó en serie desde principios de los años 50. A finales de esa década los transistores bipolares habían sustituido casi del todo a las válvulas en los ordenadores. Sobre efectos «sobreunitarios» de las válvulas no hay versión oficial (ver «Máquinas sobreunitarias»).",
+    "resumen": "Qué es: un transistor es un componente semiconductor con al menos tres terminales que restringe o permite el flujo de corriente entre dos contactos según la presencia o ausencia de corriente en un tercero. Su nombre viene de «transfer resistor». Puede usarse como amplificador, porque una corriente pequeña en el terminal de control deja pasar una muy grande entre los otros dos. Bardeen y Brattain hicieron funcionar en los Bell Labs el primer transistor, de contacto puntual, el 16 de diciembre de 1947, y lo mostraron a la dirección el 23. Shockley concibió en enero de 1948 el transistor bipolar de unión, que se fabricó en serie desde principios de los años 50. A finales de esa década los transistores bipolares habían sustituido casi del todo a las válvulas en los ordenadores. Sobre efectos «sobreunitarios» de las válvulas no hay versión oficial (ver «Máquinas sobreunitarias»).",
     "fuentes": [
      {
       "titulo": "Britannica: Transistor — Innovation at Bell Labs",
@@ -37075,6 +37160,11 @@ window.CRONO = {
       "titulo": "Computer History Museum: Who Invented the Transistor?",
       "url": "https://computerhistory.org/blog/who-invented-the-transistor/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Transistor",
+      "url": "https://es.wikipedia.org/wiki/Transistor",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -65515,7 +65605,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "oficial"
    },
-   "resumen": "Las especies aparecen y desaparecen del registro fósil por grandes catástrofes.",
+   "resumen": "Teoría según la cual la Tierra se formó en gran parte por eventos violentos y repentinos, frente al uniformitarismo, que defiende cambios lentos y graduales.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -65527,7 +65617,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Cuvier demostró en 1812 («Recherches sur les ossemens fossiles») que la extinción es un hecho y la explicó por «revoluciones» o catástrofes sucesivas. Rechazaba la evolución y la transformación de las especies. El catastrofismo cedió ante la geología de cambios lentos, aunque las extinciones masivas han devuelto interés a su obra. La idea de que una especie nueva surja en el embrión de otra no la sostenía Cuvier ni la acepta la ciencia.",
+    "resumen": "Qué es: el catastrofismo fue una teoría científica que sostenía que la Tierra se había formado en gran medida por eventos violentos, repentinos y de corta duración, posiblemente en todo el mundo. Se oponía al uniformitarismo (gradualismo), para el cual los cambios eran lentos e incrementales, como la erosión, y «el presente es la clave del pasado». Cuvier demostró en 1812 («Recherches sur les ossemens fossiles») que la extinción es un hecho y la explicó por «revoluciones» o catástrofes sucesivas. Rechazaba la evolución y la transformación de las especies. El catastrofismo cedió ante la geología de cambios lentos, aunque las extinciones masivas han devuelto interés a su obra. La idea de que una especie nueva surja en el embrión de otra no la sostenía Cuvier ni la acepta la ciencia.",
     "fuentes": [
      {
       "titulo": "Britannica: Georges Cuvier",
@@ -65538,6 +65628,11 @@ window.CRONO = {
       "titulo": "Linda Hall Library: Cuvier, Recherches (1812)",
       "url": "https://www.lindahall.org/experience/digital-exhibitions/the-grandeur-of-life/section-vi/42-cuvier-georges-1769-1832",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Catastrofismo",
+      "url": "https://es.wikipedia.org/wiki/Catastrofismo",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -66518,7 +66613,7 @@ window.CRONO = {
     "texto": "segunda mitad del s. XIX",
     "fuente": "oficial"
    },
-   "resumen": "Aplicación de la «lucha por la existencia» a la sociedad y la economía.",
+   "resumen": "Conjunto de ideas, de carácter pseudocientífico, que aplican a la sociedad y la economía conceptos de la evolución biológica como la selección natural y la «supervivencia del más apto»; se asocia sobre todo a Herbert Spencer.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -66538,7 +66633,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Spencer publicó sus primeras ideas sobre la evolución de la sociedad en «Social Statics» (1851), ocho años antes del «Origen» de Darwin, y acuñó en 1864 la expresión «supervivencia del más apto», que Darwin adoptó después. El darwinismo social sostiene que quien triunfa lo merece y quien fracasa también; se usó para justificar el imperialismo y hoy se considera un mal uso de la teoría de Darwin, aunque los historiadores discuten cuánto debe a Spencer. La eugenesia la impulsó Francis Galton, nieto, como Darwin, de Erasmus Darwin. Que Darwin construyera su teoría para justificar el libre mercado es una tesis del autor, no la versión aceptada.",
+    "resumen": "Qué es: darwinismo social designa un conjunto heterogéneo de ideas y corrientes pseudocientíficas que han intentado aplicar a los fenómenos sociales, políticos y económicos conceptos de la teoría de la evolución biológica, en particular la selección natural y la «supervivencia del más apto». Se asocia sobre todo con las ideas de Herbert Spencer y con reinterpretaciones posteriores de la teoría evolutiva. Spencer publicó sus primeras ideas sobre la evolución de la sociedad en «Social Statics» (1851), ocho años antes del «Origen» de Darwin, y acuñó en 1864 la expresión «supervivencia del más apto», que Darwin adoptó después. El darwinismo social sostiene que quien triunfa lo merece y quien fracasa también; se usó para justificar el imperialismo y hoy se considera un mal uso de la teoría de Darwin, aunque los historiadores discuten cuánto debe a Spencer. La eugenesia la impulsó Francis Galton, nieto, como Darwin, de Erasmus Darwin. Que Darwin construyera su teoría para justificar el libre mercado es una tesis del autor, no la versión aceptada.",
     "fuentes": [
      {
       "titulo": "Smithsonian: The Complicated Legacy of Herbert Spencer",
@@ -66554,6 +66649,11 @@ window.CRONO = {
       "titulo": "B. Stableford, entrada «Darwin» (Taylor & Francis)",
       "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9780203943588-7/-brian-stableford",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Darwinismo social",
+      "url": "https://es.wikipedia.org/wiki/Darwinismo_social",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -67422,7 +67522,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "s. XVII – 1905"
    },
-   "resumen": "Medio hipotético por el que viajaría la luz.",
+   "resumen": "Medio invisible que los físicos supusieron lleno el espacio para que la luz, concebida como onda, pudiera propagarse en el vacío; la física actual lo abandonó.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -67469,7 +67569,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fue el medio que la física supuso entre los siglos XVII y XIX para que la luz se propagara como una onda (Huygens, Young, Fresnel); Maxwell creyó en él y lo modeló de forma mecánica. Tras los resultados nulos de experimentos como el de Michelson-Morley, la relatividad especial (1905) explicó los mismos hechos sin éter y se abandonó; no consta ninguna decisión sobre él en 1927. Einstein dijo en 1920 que la relatividad no obliga a negar el éter, siempre que no se le atribuya movimiento, y hoy las fluctuaciones del vacío cuántico se describen a veces como una especie de vuelta del éter.",
+    "resumen": "Qué es: el éter luminífero («portador de luz») fue el medio postulado para explicar cómo la luz, que se entendía como onda, se propaga por el espacio vacío, algo que las ondas no deberían poder hacer. Suponer un espacio lleno de éter daba el medio que exigían las teorías ondulatorias de la luz. Su hipótesis fue muy debatida porque requería un material invisible e infinito sin interacción con los objetos. Fue el medio que la física supuso entre los siglos XVII y XIX para que la luz se propagara como una onda (Huygens, Young, Fresnel); Maxwell creyó en él y lo modeló de forma mecánica. Tras los resultados nulos de experimentos como el de Michelson-Morley, la relatividad especial (1905) explicó los mismos hechos sin éter y se abandonó; no consta ninguna decisión sobre él en 1927. Einstein dijo en 1920 que la relatividad no obliga a negar el éter, siempre que no se le atribuya movimiento, y hoy las fluctuaciones del vacío cuántico se describen a veces como una especie de vuelta del éter.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Luminiferous aether",
@@ -67480,6 +67580,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Zero-point energy",
       "url": "https://en.wikipedia.org/wiki/Zero-point_energy",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Éter (física)",
+      "url": "https://es.wikipedia.org/wiki/%C3%89ter_(f%C3%ADsica)",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -68822,7 +68927,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "escrita en sus dos años en Italia (sin año)",
-   "resumen": "Obra de Goethe que ve en todos los órganos de la planta variaciones de una misma hoja.",
+   "resumen": "Obra botánica de Goethe (1790) que busca explicar todas las partes de la planta como transformaciones de un mismo órgano; lo hace cofundador de la morfología comparada.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -68850,12 +68955,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "«Versuch die Metamorphose der Pflanzen zu erklären» se publicó en 1790, tras el viaje de Goethe a Italia (1786-1788). Sostiene que todas las partes de la planta son variaciones de la hoja y se considera un antecedente de la morfología vegetal. Los cuatro elementos asignados a las partes de la planta no figuran en la obra de Goethe, sino en la tradición biodinámica posterior.",
+    "resumen": "Qué es: «Intento de explicar la metamorfosis de las plantas» es una obra de botánica escrita por Goethe en 1790. Por ella se considera a Goethe cofundador de la morfología comparada. Veintisiete años después volvió a escribirla como una serie de artículos de morfología titulados «Metamorfosis de las plantas». «Versuch die Metamorphose der Pflanzen zu erklären» se publicó en 1790, tras el viaje de Goethe a Italia (1786-1788). Sostiene que todas las partes de la planta son variaciones de la hoja y se considera un antecedente de la morfología vegetal. Los cuatro elementos asignados a las partes de la planta no figuran en la obra de Goethe, sino en la tradición biodinámica posterior.",
     "fuentes": [
      {
       "titulo": "Linda Hall Library: Johann Wolfgang von Goethe",
       "url": "https://www.lindahall.org/about/news/scientist-of-the-day/johann-wolfgang-von-goethe",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Intento de explicar la metamorfosis de las plantas",
+      "url": "https://es.wikipedia.org/wiki/Intento_de_explicar_la_metamorfosis_de_las_plantas",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -69154,7 +69264,7 @@ window.CRONO = {
     "texto": "años 20 – 1955",
     "fuente": "oficial"
    },
-   "resumen": "Esfera del pensamiento humano que, según Teilhard, envuelve la Tierra.",
+   "resumen": "Conjunto de los seres inteligentes con el medio en que viven, según Vladímir Vernadski; Teilhard de Chardin la entiende como la envoltura del pensamiento humano sobre la Tierra.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69166,7 +69276,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Teilhard de Chardin, jesuita y paleontólogo, describió la noosfera como una capa de pensamiento humano que envuelve la Tierra. «El fenómeno humano», escrito en los años 20 y 30, se publicó en 1955, tras su muerte; la orden le había prohibido publicarlo. En 1962 el Santo Oficio emitió un aviso (monitum) contra la aceptación acrítica de sus ideas.",
+    "resumen": "Qué es: la noosfera (del griego noos, «inteligencia») es, según Vladímir Vernadski, el conjunto de los seres vivos dotados de inteligencia. El diccionario de la Real Academia Española la define como el conjunto de los seres inteligentes con el medio en que viven. Teilhard de Chardin, jesuita y paleontólogo, describió la noosfera como una capa de pensamiento humano que envuelve la Tierra. «El fenómeno humano», escrito en los años 20 y 30, se publicó en 1955, tras su muerte; la orden le había prohibido publicarlo. En 1962 el Santo Oficio emitió un aviso (monitum) contra la aceptación acrítica de sus ideas.",
     "fuentes": [
      {
       "titulo": "Britannica: Pierre Teilhard de Chardin",
@@ -69177,6 +69287,11 @@ window.CRONO = {
       "titulo": "EWTN: Monitum del Santo Oficio (1962)",
       "url": "https://www.ewtn.com/catholicism/library/monitum-on-the-writings-of-fr-teilhard-de-chardin-sj-2144",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Noosfera",
+      "url": "https://es.wikipedia.org/wiki/Noosfera",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -69382,7 +69497,7 @@ window.CRONO = {
     "politica-economia"
    ],
    "fecha": null,
-   "resumen": "Teoría que reescribe la cronología histórica.",
+   "resumen": "Teoría del matemático ruso Anatoli Fomenko que sostiene que la cronología histórica convencional es errónea y pretende reescribir la historia del mundo; los historiadores la consideran pseudohistoria.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -69442,7 +69557,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El matemático ruso Anatoli Fomenko sostiene que la historia antigua es mucho más corta de lo aceptado y que gran parte de lo atribuido a Roma, Grecia o Egipto ocurrió en la Edad Media. Historiadores, arqueólogos y científicos la rechazan, y se la considera pseudohistoria: contradice la datación por radiocarbono y la dendrocronología y sus cálculos astronómicos se han refutado con los mismos métodos. Esto no pone en duda la trayectoria de Fomenko como matemático.",
+    "resumen": "Qué es: la nueva cronología es una teoría pseudohistórica asociada al matemático ruso Anatoli Fomenko y a colegas como Gleb Nosovski. Usan matemática aplicada, astrofísica y otras ciencias para afirmar que la cronología histórica convencional es fundamentalmente errónea e intentan reescribir la historia mundial. Continúa las ideas del astrónomo ruso Nikolai Morózov y quizá tiene origen en las del erudito francés Jean Hardouin. El matemático ruso Anatoli Fomenko sostiene que la historia antigua es mucho más corta de lo aceptado y que gran parte de lo atribuido a Roma, Grecia o Egipto ocurrió en la Edad Media. Historiadores, arqueólogos y científicos la rechazan, y se la considera pseudohistoria: contradice la datación por radiocarbono y la dendrocronología y sus cálculos astronómicos se han refutado con los mismos métodos. Esto no pone en duda la trayectoria de Fomenko como matemático.",
     "fuentes": [
      {
       "titulo": "New chronology (Fomenko) (Wikipedia, resultado de búsqueda)",
@@ -69458,6 +69573,11 @@ window.CRONO = {
       "titulo": "Jason Colavito: What's behind the attempt to impose a «New Chronology»",
       "url": "https://www.jasoncolavito.com/who-lost-the-middle-ages.html",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Nueva cronología",
+      "url": "https://es.wikipedia.org/wiki/Nueva_cronolog%C3%ADa",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -69748,7 +69868,7 @@ window.CRONO = {
     "texto": "1916 – años 90",
     "fuente": "oficial"
    },
-   "resumen": "Idea de que los microbios cambian de forma a lo largo de un ciclo según el medio.",
+   "resumen": "Capacidad de algunos microorganismos de cambiar de forma o de modo de reproducción según el ambiente; para Enderlein y Naessens, los microbios cambian de forma a lo largo de un ciclo según el medio.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69778,7 +69898,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El pleomorfismo de Béchamp y Enderlein («Bakterien-Cyklogenie», 1925) sostenía que los microbios cambian de forma en un ciclo. Se impuso el monomorfismo de Pasteur, Koch y Virchow: cada bacteria procede de otra igual. Hoy se acepta solo un pleomorfismo limitado (por ejemplo, Helicobacter pylori). Las hipótesis de Enderlein se consideran refutadas.",
+    "resumen": "Qué es: en microbiología el pleomorfismo es la capacidad de algunos microorganismos de alterar su forma, sus funciones biológicas o su modo de reproducción según las condiciones del ambiente; se ha observado, por ejemplo, en la familia Deinococcaceae. La definición moderna habla de variación de la morfología o de los métodos funcionales de la célula, no de un cambio de estos caracteres como se creía antes. El pleomorfismo de Béchamp y Enderlein («Bakterien-Cyklogenie», 1925) sostenía que los microbios cambian de forma en un ciclo. Se impuso el monomorfismo de Pasteur, Koch y Virchow: cada bacteria procede de otra igual. Hoy se acepta solo un pleomorfismo limitado (por ejemplo, Helicobacter pylori). Las hipótesis de Enderlein se consideran refutadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pleomorphism (microbiology)",
@@ -69789,6 +69909,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Günther Enderlein",
       "url": "https://en.wikipedia.org/wiki/G%C3%BCnther_Enderlein",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Pleomorfismo (microbiología)",
+      "url": "https://es.wikipedia.org/wiki/Pleomorfismo_(microbiolog%C3%ADa)",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -69838,7 +69963,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "c. 800–500 a.C. (primeras Upanishads)"
    },
-   "resumen": "Concepto indio de aliento o energía vital.",
+   "resumen": "Palabra sánscrita que significa «aliento» y designa en el hinduismo la fuerza o energía vital que impregna la realidad.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -69850,7 +69975,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Prana es una palabra sánscrita que significa aliento y principio vital. Aparece en las Upanishads y en los textos védicos, que distinguen cinco «aires» vitales. Hay conceptos parecidos en otras tradiciones (pneuma, chi, maná), pero no son idénticos entre sí. La física actual no postula un éter como medio de la luz (véase relatividad especial) ni reconoce una energía vital medible; identificar prana con el éter es una propuesta del autor.",
+    "resumen": "Qué es: en el hinduismo, prana (prāna) es una palabra sánscrita que significa «aliento» o «aire inspirado» y representa la fuerza o energía vital, que impregna la realidad en todos los niveles, incluidos los objetos inanimados. Se parece al pneuma griego. Prana es una palabra sánscrita que significa aliento y principio vital. Aparece en las Upanishads y en los textos védicos, que distinguen cinco «aires» vitales. Hay conceptos parecidos en otras tradiciones (pneuma, chi, maná), pero no son idénticos entre sí. La física actual no postula un éter como medio de la luz (véase relatividad especial) ni reconoce una energía vital medible; identificar prana con el éter es una propuesta del autor.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: prana",
@@ -69861,6 +69986,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: relativity",
       "url": "https://www.britannica.com/science/relativity",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Prana",
+      "url": "https://es.wikipedia.org/wiki/Prana",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -72182,7 +72312,7 @@ window.CRONO = {
     "texto": "ss. XVI–XIX",
     "fuente": "oficial"
    },
-   "resumen": "Los seres vivos se rigen por un principio vital distinto de las leyes físico-químicas.",
+   "resumen": "Corriente que sostiene que los seres vivos tienen una fuerza o impulso vital que los distingue de lo inanimado y no responde a las leyes físico-químicas generales.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -72194,7 +72324,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El vitalismo médico sostenía que lo vivo se rige por un principio vital que no se reduce a la física. Su forma más conocida fue la de la facultad de Montpellier en la segunda mitad del s. XVIII (Bordeu, Barthez); entre sus antecedentes se cita a Paracelso. Montpellier rivalizaba con la escuela de París, más mecanicista, que acabó imponiéndose. En el s. XIX el vitalismo médico decayó ante la medicina experimental (Claude Bernard) y quedó como idea filosófica (Bergson).",
+    "resumen": "Qué es: el vitalismo es una corriente filosófica que pone la vida en el centro de toda reflexión. Rechaza el mecanicismo científico y el racionalismo puro y sostiene que los seres vivos poseen una fuerza o impulso vital que los diferencia de las cosas inanimadas y no está sujeta a las leyes fisicoquímicas generales. A ese impulso se le suele llamar «élan vital», término acuñado por Henri Bergson en 1907. El vitalismo médico sostenía que lo vivo se rige por un principio vital que no se reduce a la física. Su forma más conocida fue la de la facultad de Montpellier en la segunda mitad del s. XVIII (Bordeu, Barthez); entre sus antecedentes se cita a Paracelso. Montpellier rivalizaba con la escuela de París, más mecanicista, que acabó imponiéndose. En el s. XIX el vitalismo médico decayó ante la medicina experimental (Claude Bernard) y quedó como idea filosófica (Bergson).",
     "fuentes": [
      {
       "titulo": "História, Ciências, Saúde – Manguinhos (SciELO): vitalismo francés del s. XVIII",
@@ -72205,6 +72335,11 @@ window.CRONO = {
       "titulo": "S. Normandin, Visions of Vitalism (tesis, McGill, 2005)",
       "url": "https://escholarship.mcgill.ca/downloads/rx913v05r",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Vitalismo",
+      "url": "https://es.wikipedia.org/wiki/Vitalismo",
+      "consultado": "2026-11-24"
      }
     ]
    },
