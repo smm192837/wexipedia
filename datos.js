@@ -3982,7 +3982,7 @@ window.CRONO = {
     "desde": 1901,
     "fuente": "oficial"
    },
-   "resumen": "Acumulador alcalino muy duradero patentado por Edison.",
+   "resumen": "Batería recargable con óxido-hidróxido de níquel en las placas positivas, hierro en las negativas y electrolito de hidróxido de potasio; muy robusta y duradera. Edison la patentó en 1901.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -3994,12 +3994,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La inventó el sueco Waldemar Jungner (1899); Edison la patentó en EE. UU. en 1901 y la fabricó entre 1903 y 1972. Es muy resistente y duradera, pero tiene poca energía por kilo, carga lenta y fabricación cara, y por eso la desplazaron otras baterías. Aún la producen empresas nuevas en varios países.",
+    "resumen": "Qué es: la batería de níquel-hierro (NiFe) es una batería recargable con óxido de níquel (III)-hidróxido en las placas positivas y hierro en las negativas, con un electrolito de hidróxido de potasio. Los materiales activos van en tubos de acero niquelados o bolsas perforadas. Es muy robusta, tolera sobrecargas, descargas profundas y cortocircuitos, y puede durar muchísimo. La inventó el sueco Waldemar Jungner (1899); Edison la patentó en EE. UU. en 1901 y la fabricó entre 1903 y 1972. Es muy resistente y duradera, pero tiene poca energía por kilo, carga lenta y fabricación cara, y por eso la desplazaron otras baterías. Aún la producen empresas nuevas en varios países.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nickel–iron battery",
       "url": "https://en.wikipedia.org/wiki/Nickel%E2%80%93iron_battery",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Batería de níquel-hierro",
+      "url": "https://es.wikipedia.org/wiki/Bater%C3%ADa_de_n%C3%ADquel-hierro",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -4025,7 +4030,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1898
    },
-   "resumen": "Bayer comercializó heroína como medicina; el autor liga opio y fentanilo con servicios de inteligencia.",
+   "resumen": "La heroína es un opioide derivado de la morfina y de la adormidera; Bayer la vendió como medicina en 1898, y el autor la relaciona con el opio y el fentanilo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4037,7 +4042,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Bayer comercializó la heroína entre 1898 y 1913 como antitusivo y analgésico, presentándola como un sustituto de la morfina sin riesgo de adicción, hasta que se impuso la evidencia de que creaba dependencia. El opio fue una mercancía central del comercio británico con China en el siglo XIX, origen de las guerras del Opio. No consta que la CIA o el MI6 introdujeran fentanilo.",
+    "resumen": "Qué es: la heroína (diacetilmorfina o diamorfina) es un opioide con propiedades analgésicas, usado menos a menudo como supresor de la tos y antidiarreico. Por sus efectos eufóricos se emplea como droga recreativa semisintética. Deriva de la morfina y se origina en la adormidera, de la que se extrae el opio; su uso frecuente produce tolerancia y fuerte dependencia física. Bayer comercializó la heroína entre 1898 y 1913 como antitusivo y analgésico, presentándola como un sustituto de la morfina sin riesgo de adicción, hasta que se impuso la evidencia de que creaba dependencia. El opio fue una mercancía central del comercio británico con China en el siglo XIX, origen de las guerras del Opio. No consta que la CIA o el MI6 introdujeran fentanilo.",
     "fuentes": [
      {
       "titulo": "DEA Museum: frasco de heroína de Bayer (1898)",
@@ -4048,6 +4053,11 @@ window.CRONO = {
       "titulo": "Sneader, «The discovery of heroin», The Lancet (1998)",
       "url": "https://www.sciencedirect.com/sdfe/pdf/download/eid/1-s2.0-S0140673698071153/first-page-pdf",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Heroína",
+      "url": "https://es.wikipedia.org/wiki/Hero%C3%ADna",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -4253,7 +4263,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Emisión muy débil de luz por los seres vivos.",
+   "resumen": "Emisión muy débil y espontánea de fotones por los seres vivos, sin reacción enzimática específica; el autor la relaciona con un «cuerpo de luz».",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -4265,7 +4275,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los seres vivos emiten fotones de intensidad muy baja, que en general se atribuyen al metabolismo oxidativo. La emisión está bien establecida experimentalmente, pero no hay pruebas fiables de que sirva como sistema de comunicación del cuerpo ni de que sea coherente; el «biocampo» y el «cuerpo de luz» no son conceptos científicos aceptados.",
+    "resumen": "Qué es: un biofotón (del griego bio, «vida», y foto, «luz») es un fotón de origen biológico que no resulta de una reacción enzimática específica. Es una quimioluminiscencia de origen biológico que se distingue de la bioluminiscencia por la ausencia de mecanismo enzimático y por su intensidad ultradébil (ultra-weak photon emission). Los seres vivos emiten fotones de intensidad muy baja, que en general se atribuyen al metabolismo oxidativo. La emisión está bien establecida experimentalmente, pero no hay pruebas fiables de que sirva como sistema de comunicación del cuerpo ni de que sea coherente; el «biocampo» y el «cuerpo de luz» no son conceptos científicos aceptados.",
     "fuentes": [
      {
       "titulo": "Mould et al., Frontiers in Physiology (2024): Ultra weak photon emission, a brief review",
@@ -4276,6 +4286,11 @@ window.CRONO = {
       "titulo": "Cifra et al.: Biophotons, coherence and photocount statistics, a critical review",
       "url": "https://arxiv.org/pdf/1502.07316",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Biofotón",
+      "url": "https://es.wikipedia.org/wiki/Biof%C3%B3ton",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -11669,7 +11684,7 @@ window.CRONO = {
     "hasta": 1877,
     "fuente": "oficial"
    },
-   "resumen": "Debate en Londres sobre si la vida puede surgir de materia inerte.",
+   "resumen": "Debate de Londres entre Bastian y Tyndall sobre si la vida puede surgir de materia inerte (generación espontánea), una hipótesis hoy abandonada.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -11681,7 +11696,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En los años 1870 Henry Charlton Bastian defendió la generación espontánea; Tyndall, Huxley y Pasteur se le opusieron. El hallazgo de las esporas resistentes al calor (Tyndall, 1877) explicó parte de sus resultados. Algunos historiadores señalan que el desenlace también dependió del poder del grupo de Huxley y Tyndall en la Royal Society.",
+    "resumen": "Qué es: la generación espontánea es una hipótesis obsoleta sobre el origen de la vida, según la cual ciertas formas de vida, animales y vegetales, surgían de forma espontánea a partir de materia orgánica, inorgánica o ambas. Nunca se obtuvo por método científico: se llegó a esa conclusión por evidencia visual. Fue una creencia muy arraigada desde la Antigüedad; la describió Aristóteles y la admitieron pensadores de los siglos XVI y XVII. En los años 1870 Henry Charlton Bastian defendió la generación espontánea; Tyndall, Huxley y Pasteur se le opusieron. El hallazgo de las esporas resistentes al calor (Tyndall, 1877) explicó parte de sus resultados. Algunos historiadores señalan que el desenlace también dependió del poder del grupo de Huxley y Tyndall en la Royal Society.",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Bastian, Henry Charlton",
@@ -11692,6 +11707,11 @@ window.CRONO = {
       "titulo": "The Spectator, 26-5-1877",
       "url": "https://archive.spectator.co.uk/article/26th-may-1877/3/at-the-last-meeting-of-the-royal-society-professor",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Generación espontánea",
+      "url": "https://es.wikipedia.org/wiki/Generaci%C3%B3n_espont%C3%A1nea",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -12884,7 +12904,7 @@ window.CRONO = {
     "desde": 1952,
     "fuente": "oficial"
    },
-   "resumen": "La Asociación Estadounidense de Psiquiatría publica el primer DSM.",
+   "resumen": "Sistema de clasificación de los trastornos mentales editado por la Asociación Estadounidense de Psiquiatría; la ficha trata de su primer manual.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -12896,7 +12916,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El DSM es el manual de la Asociación Estadounidense de Psiquiatría (desde 1952) que define los trastornos mentales y sus criterios diagnósticos. Estudios han documentado vínculos económicos de sus panelistas con la industria farmacéutica: en el DSM-IV, todos los miembros de dos paneles (psicóticos y del estado de ánimo); en el DSM-5-TR, cerca del 60 % de 92 médicos recibió pagos de la industria. Ninguna de las fuentes consultadas dice que el manual indique qué fármacos usar.",
+    "resumen": "Qué es: el Manual diagnóstico y estadístico de los trastornos mentales (DSM) lo edita la Asociación Estadounidense de Psiquiatría (APA). Es un sistema de clasificación de los trastornos mentales que da descripciones de las categorías diagnósticas para que clínicos e investigadores de las ciencias de la salud puedan diagnosticar, estudiar e intercambiar información sobre ellos. El DSM es el manual de la Asociación Estadounidense de Psiquiatría (desde 1952) que define los trastornos mentales y sus criterios diagnósticos. Estudios han documentado vínculos económicos de sus panelistas con la industria farmacéutica: en el DSM-IV, todos los miembros de dos paneles (psicóticos y del estado de ánimo); en el DSM-5-TR, cerca del 60 % de 92 médicos recibió pagos de la industria. Ninguna de las fuentes consultadas dice que el manual indique qué fármacos usar.",
     "fuentes": [
      {
       "titulo": "Cosgrove et al. (2006): Financial ties between DSM-IV panel members and the pharmaceutical industry",
@@ -12907,6 +12927,11 @@ window.CRONO = {
       "titulo": "Prescrire International (2024): DSM, still riddled with conflicts of interest",
       "url": "https://english.prescrire.org/en/81/168/69236/0/2024/ArchiveNewsDetails.aspx?page=1",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Manual diagnóstico y estadístico de los trastornos mentales",
+      "url": "https://es.wikipedia.org/wiki/Manual_diagn%C3%B3stico_y_estad%C3%ADstico_de_los_trastornos_mentales",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -16281,7 +16306,7 @@ window.CRONO = {
     "desde": 1787,
     "fuente": "oficial"
    },
-   "resumen": "Chladni hace visibles las vibraciones de una placa con arena.",
+   "resumen": "Patrones que forma una sustancia granulada (arena) sobre una superficie plana cuando esta vibra en un modo propio; Chladni los hizo visibles.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -16293,7 +16318,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Ernst Chladni publicó sus figuras en 1787 (Entdeckungen über die Theorie des Klanges), con un arco de violín sobre una placa cubierta de arena. Robert Hooke había observado patrones parecidos con harina el 8-7-1680 y los presentó a la Royal Society; Galileo, según algunas fuentes, ya había visto patrones en una placa de latón. La lectura de las figuras como «el tiempo dando forma al éter» es del autor.",
+    "resumen": "Qué es: las figuras de Chladni son los patrones que forma una sustancia granulada sobre una superficie plana que vibra en un modo propio. Cuando una onda mecánica se propaga por un objeto extendido, las condiciones de contorno pueden inducir la resonancia de algunos componentes en frecuencia de la perturbación, y el granulado dibuja el resultado. Ernst Chladni publicó sus figuras en 1787 (Entdeckungen über die Theorie des Klanges), con un arco de violín sobre una placa cubierta de arena. Robert Hooke había observado patrones parecidos con harina el 8-7-1680 y los presentó a la Royal Society; Galileo, según algunas fuentes, ya había visto patrones en una placa de latón. La lectura de las figuras como «el tiempo dando forma al éter» es del autor.",
     "fuentes": [
      {
       "titulo": "Ernst Chladni (Wikipedia, resultado de búsqueda)",
@@ -16304,6 +16329,11 @@ window.CRONO = {
       "titulo": "Futility Closet: Chladni Figures",
       "url": "https://www.futilitycloset.com/2013/10/27/chladni-figures/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Figuras de Chladni",
+      "url": "https://es.wikipedia.org/wiki/Figuras_de_Chladni",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -19468,7 +19498,7 @@ window.CRONO = {
     "hasta": 1804,
     "fuente": "oficial"
    },
-   "resumen": "Gran enciclopedia de historia natural del conde de Buffon.",
+   "resumen": "Obra en 44 volúmenes del conde de Buffon (el primero de 1749) con la que quiso reunir todo el saber humano sobre el mundo natural.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -19480,7 +19510,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La «Historia natural, general y particular» empezó a publicarse en 1749. Buffon sacó 36 volúmenes hasta 1789 (murió en 1788) y Lacépède añadió 8 más hasta 1804: 44 en total. La fecha que da el autor (hacia 1750) es la del comienzo.",
+    "resumen": "Qué es: Georges-Louis Leclerc, conde de Buffon (1707-1788), fue un naturalista, botánico, biólogo, cosmólogo, matemático y escritor francés. En 1749 se publicó el primer volumen de su «Histoire naturelle», en 44 volúmenes (los ocho últimos salieron entre 1789 y 1804, tras su muerte), con la que pretendió compendiar todo el saber humano sobre el mundo natural. Influyó en la enciclopedia de Diderot. La «Historia natural, general y particular» empezó a publicarse en 1749. Buffon sacó 36 volúmenes hasta 1789 (murió en 1788) y Lacépède añadió 8 más hasta 1804: 44 en total. La fecha que da el autor (hacia 1750) es la del comienzo.",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Comte de Buffon",
@@ -19491,6 +19521,11 @@ window.CRONO = {
       "titulo": "Linda Hall Library: Buffon",
       "url": "https://www.lindahall.org/about/news/scientist-of-the-day/georges-louis-leclerc-comte-de-buffon/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Georges-Louis Leclerc de Buffon",
+      "url": "https://es.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -21594,7 +21629,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "1790 y 1798",
-   "resumen": "Jenner prueba con pus de vaca contra la viruela; el autor lo acusa de dañar a su hijo y a otros.",
+   "resumen": "Edward Jenner (1749-1823), médico inglés, descubrió la vacuna contra la viruela, la primera del mundo; el autor lo critica.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -21606,7 +21641,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1796 Edward Jenner inoculó a James Phipps con viruela bovina y comprobó que le protegía de la viruela; publicó el método en 1798. Es el origen de la vacunación (la palabra aparece en 1800). La viruela se declaró erradicada en 1980. Las fuentes enciclopédicas no recogen daños de la vacuna a su hijo ni a otras personas; sí registran que su hijo mayor murió de tuberculosis.",
+    "resumen": "Qué es: Edward Jenner fue un médico y científico inglés, pionero del concepto de vacuna y descubridor de la vacuna contra la viruela, la primera del mundo. «Vacuna» y «vacunación» vienen de «variolae vaccinae» (pústulas de la vaca), término que él ideó para la viruela bovina y que usó en 1798 en el título de su «Investigación sobre las Variolae vaccinae». En 1796 Edward Jenner inoculó a James Phipps con viruela bovina y comprobó que le protegía de la viruela; publicó el método en 1798. Es el origen de la vacunación (la palabra aparece en 1800). La viruela se declaró erradicada en 1980. Las fuentes enciclopédicas no recogen daños de la vacuna a su hijo ni a otras personas; sí registran que su hijo mayor murió de tuberculosis.",
     "fuentes": [
      {
       "titulo": "EBSCO: First Widespread Smallpox Inoculations",
@@ -21617,6 +21652,11 @@ window.CRONO = {
       "titulo": "Britannica: Edward Jenner",
       "url": "https://www.britannica.com/biography/Edward-Jenner",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Edward Jenner",
+      "url": "https://es.wikipedia.org/wiki/Edward_Jenner",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -22837,7 +22877,7 @@ window.CRONO = {
     "desde": 1892,
     "fuente": "oficial"
    },
-   "resumen": "Steinmetz formuló la ley empírica de las pérdidas por histéresis magnética.",
+   "resumen": "Charles Proteus Steinmetz, ingeniero eléctrico alemán, formuló una ley empírica de las pérdidas por histéresis magnética, útil para diseñar mejores aparatos eléctricos.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -22849,12 +22889,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Steinmetz presentó su ley de la histéresis en 1892 ante el American Institute of Electrical Engineers: permitió calcular de antemano las pérdidas por magnetismo en las máquinas eléctricas. Entró en General Electric en 1893 y siguió allí toda su vida; no trabajó para Westinghouse. Las fuentes no relacionan su ley con el éter.",
+    "resumen": "Qué es: Charles Proteus Steinmetz (1865-1923) fue un matemático e ingeniero eléctrico alemán, profesor en el Union College. Fomentó el desarrollo de la corriente alterna, que hizo posible la expansión de la industria eléctrica en Estados Unidos, y formuló teorías matemáticas para los ingenieros. Sus descubrimientos sobre la histéresis permitieron diseñar mejores equipos eléctricos. Steinmetz presentó su ley de la histéresis en 1892 ante el American Institute of Electrical Engineers: permitió calcular de antemano las pérdidas por magnetismo en las máquinas eléctricas. Entró en General Electric en 1893 y siguió allí toda su vida; no trabajó para Westinghouse. Las fuentes no relacionan su ley con el éter.",
     "fuentes": [
      {
       "titulo": "Britannica: Charles Proteus Steinmetz",
       "url": "https://www.britannica.com/print/article/565056",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Charles Proteus Steinmetz",
+      "url": "https://es.wikipedia.org/wiki/Charles_Proteus_Steinmetz",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -23997,7 +24042,7 @@ window.CRONO = {
     "desde": 1945,
     "fuente": "oficial"
    },
-   "resumen": "Bebés bien alimentados enfermaban y morían sin contacto afectivo.",
+   "resumen": "Observación del psicoanalista René Spitz: los bebés sin estímulos afectivos, sobre todo aislados de sus madres, morían mucho más en los primeros meses de vida; lo llamó hospitalismo.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -24009,7 +24054,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1945 el psicoanalista René Spitz publicó que los bebés criados en instituciones sin cuidado materno sufrían un grave deterioro e incluso morían, aunque estuvieran alimentados; lo llamó «hospitalismo» (en 1946 describió la «depresión anaclítica»). El término es anterior (1897). Después Bowlby desarrolló la teoría del apego.",
+    "resumen": "Qué es: el hospitalismo de Spitz es un concepto del psicoanalista René Spitz, discípulo de Freud, de comienzos del siglo XX. Spitz observó que la mortalidad en los primeros meses de vida era mucho más alta entre los neonatos que carecían de estímulos benignos, sobre todo cuando en las maternidades se los aislaba de sus madres y quedaban al cargo de enfermeras sustitutas. En 1945 el psicoanalista René Spitz publicó que los bebés criados en instituciones sin cuidado materno sufrían un grave deterioro e incluso morían, aunque estuvieran alimentados; lo llamó «hospitalismo» (en 1946 describió la «depresión anaclítica»). El término es anterior (1897). Después Bowlby desarrolló la teoría del apego.",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Hospitalism",
@@ -24020,6 +24065,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Hospitalism",
       "url": "https://en.wikipedia.org/wiki/Hospitalism",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Hospitalismo",
+      "url": "https://es.wikipedia.org/wiki/Hospitalismo",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -31541,7 +31591,7 @@ window.CRONO = {
     "texto": "16 de julio de 1945",
     "fuente": "oficial"
    },
-   "resumen": "Primera detonación atómica; para el autor y Kenneth Grant, un ritual para canalizar entidades.",
+   "resumen": "Primera explosión de un arma nuclear, realizada por Estados Unidos el 16 de julio de 1945 con una bomba de plutonio; para el autor y Kenneth Grant, un ritual.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -31553,7 +31603,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 16-7-1945, en Alamogordo (Nuevo México), EE. UU. detonó la primera bomba atómica dentro del Proyecto Manhattan. Que fuera un rito para canalizar entidades es una interpretación de ocultistas posteriores (Kenneth Grant), no un hecho.",
+    "resumen": "Qué es: la prueba Trinity fue la primera explosión de un arma nuclear hecha por el ser humano. La realizó Estados Unidos el 16 de julio de 1945, durante la Segunda Guerra Mundial, con una bomba de plutonio como la que se lanzó después sobre Nagasaki. La fisión nuclear la habían explicado antes Lise Meitner y Otto Robert Frisch. El 16-7-1945, en Alamogordo (Nuevo México), EE. UU. detonó la primera bomba atómica dentro del Proyecto Manhattan. Que fuera un rito para canalizar entidades es una interpretación de ocultistas posteriores (Kenneth Grant), no un hecho.",
     "fuentes": [
      {
       "titulo": "Britannica: Trinity test",
@@ -31564,6 +31614,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Trinity (nuclear test)",
       "url": "https://en.wikipedia.org/wiki/Trinity_(nuclear_test)",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Prueba Trinity",
+      "url": "https://es.wikipedia.org/wiki/Prueba_Trinity",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -34933,7 +34988,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1913
    },
-   "resumen": "Origen de la organización estadounidense de lucha contra el cáncer y críticas a su papel.",
+   "resumen": "Organización voluntaria de salud estadounidense dedicada a eliminar el cáncer, fundada en 1913 y con sede en Atlanta.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -34946,7 +35001,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La American Society for the Control of Cancer se fundó el 22 de mayo de 1913 en Nueva York por diez médicos y cinco laicos o empresarios, y adoptó el nombre actual en 1944. John D. Rockefeller Jr. aportó los primeros fondos, pero no consta como fundador. La parte sobre una lista de «métodos no probados» con esos criterios y sobre la FDA no se ha podido contrastar en las fuentes consultadas.",
+    "resumen": "Qué es: la Sociedad Estadounidense contra el Cáncer (ACS) es una organización voluntaria de salud dedicada a eliminar el cáncer. Se estableció en 1913, tiene su sede central en Atlanta (Georgia), se organiza en seis regiones con voluntarios médicos y laicos y publica revistas científicas revisadas por pares, como «Cancer» y «CA: A Cancer Journal for Clinicians». La American Society for the Control of Cancer se fundó el 22 de mayo de 1913 en Nueva York por diez médicos y cinco laicos o empresarios, y adoptó el nombre actual en 1944. John D. Rockefeller Jr. aportó los primeros fondos, pero no consta como fundador. La parte sobre una lista de «métodos no probados» con esos criterios y sobre la FDA no se ha podido contrastar en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "American Cancer Society: Our History",
@@ -34957,6 +35012,11 @@ window.CRONO = {
       "titulo": "Philanthropy Roundtable: American Cancer Society",
       "url": "https://www.philanthropyroundtable.org/almanac/american-cancer-society/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): American Cancer Society",
+      "url": "https://es.wikipedia.org/wiki/American_Cancer_Society",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -38487,7 +38547,7 @@ window.CRONO = {
     "desde": 1222,
     "fuente": "oficial"
    },
-   "resumen": "Universidad de la República de Venecia.",
+   "resumen": "Universidad italiana fundada en 1222, la segunda más antigua de Italia, con sede principal en el Palacio Bo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38499,7 +38559,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Universidad de Estudios de Padua es una de las más importantes de Italia y, fundada en 1222, la segunda más antigua del país; su sede principal está en el Palacio Bo. En 2003 tenía cerca de 65 000 estudiantes. Dependía de Venecia desde 1405 y era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey.",
+    "resumen": "Qué es: la Universidad de Padua está entre las más importantes de Italia y entre las más antiguas del mundo (la segunda de Italia). Se fundó en 1222, tenía hacia 2003 unos 65.000 estudiantes y su sede principal está en el Palacio Bo. La Universidad de Estudios de Padua es una de las más importantes de Italia y, fundada en 1222, la segunda más antigua del país; su sede principal está en el Palacio Bo. En 2003 tenía cerca de 65 000 estudiantes. Dependía de Venecia desde 1405 y era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Universidad de Padua",
@@ -39277,7 +39337,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1863
    },
-   "resumen": "Tónico de vino y coca de Angelo Mariani, popular entre artistas.",
+   "resumen": "Bebida de vino de Burdeos con extracto de hoja de coca que creó Angelo Mariani en 1863 y presentó como medicinal.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -39289,7 +39349,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El químico corso Angelo Mariani lanzó en 1863 el Vin Mariani, un vino tónico de Burdeos macerado con hoja de coca que se vendió con éxito en Europa y Estados Unidos y se presentó como remedio casi universal. Su publicidad reunió elogios de artistas e intelectuales y de los papas León XIII y Pío X, que lo tomaron con asiduidad.",
+    "resumen": "Qué es: el Vin Mariani era una bebida que contenía vino de Burdeos y extractos de hoja de coca. Lo creó en 1863 Angelo Mariani, inspirado en el «elixir de coca Lorini» de 1860, y lo promovió atribuyéndole muchas propiedades terapéuticas. Fue muy popular entre artistas e intelectuales europeos, y los papas Pío X y León XIII fueron especialmente entusiastas del tónico. El químico corso Angelo Mariani lanzó en 1863 el Vin Mariani, un vino tónico de Burdeos macerado con hoja de coca que se vendió con éxito en Europa y Estados Unidos y se presentó como remedio casi universal. Su publicidad reunió elogios de artistas e intelectuales y de los papas León XIII y Pío X, que lo tomaron con asiduidad.",
     "fuentes": [
      {
       "titulo": "Vin Mariani (Wikipedia en español)",
@@ -40292,7 +40352,7 @@ window.CRONO = {
     "texto": "1864 – 1892/1893",
     "fuente": "oficial"
    },
-   "resumen": "Club de científicos londinenses que impulsó el naturalismo y el darwinismo.",
+   "resumen": "Círculo de nueve hombres que defendían la selección natural y el liberalismo académico en la Inglaterra victoriana; Huxley lo inició en noviembre de 1864 y se reunió hasta 1893.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -40304,7 +40364,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Club científico de cena fundado en Londres en noviembre de 1864 por nueve miembros: Hooker, Huxley, Tyndall, Lubbock, Spottiswoode, Frankland, Busk, Hirst y Spencer. Defendieron a Darwin, pero Darwin no fue miembro. Promovieron la revista Nature. Malthus había muerto en 1834, treinta años antes.",
+    "resumen": "Qué es: el X Club fue un círculo social de nueve hombres que apoyaban las teorías de la selección natural y el liberalismo académico en la Inglaterra victoriana. Thomas Henry Huxley lo inició y convocó el primer encuentro el 3 de noviembre de 1864. Se reunía en Londres una vez al mes, salvo julio, agosto y septiembre, de noviembre de 1864 a marzo de 1893, y se cree que sus miembros influyeron mucho en el pensamiento científico. Club científico de cena fundado en Londres en noviembre de 1864 por nueve miembros: Hooker, Huxley, Tyndall, Lubbock, Spottiswoode, Frankland, Busk, Hirst y Spencer. Defendieron a Darwin, pero Darwin no fue miembro. Promovieron la revista Nature. Malthus había muerto en 1834, treinta años antes.",
     "fuentes": [
      {
       "titulo": "Britannica: X Club",
@@ -40315,6 +40375,11 @@ window.CRONO = {
       "titulo": "Hektoen International: The X Club",
       "url": "https://hekint.org/2020/01/08/the-x-club/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): X Club",
+      "url": "https://es.wikipedia.org/wiki/X_Club",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -65015,7 +65080,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Práctica antigua precursora de la química.",
+   "resumen": "Antigua práctica protocientífica y disciplina filosófica que combina química, metalurgia, física, medicina, astrología y misticismo; se practicó hasta el siglo XVIII.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -65035,7 +65100,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La alquimia fue una práctica de la Antigüedad y el Medievo —del Egipto helenístico al mundo islámico y a la Europa del siglo XII— centrada en la transmutación de los metales, que dejó procedimientos y sustancias como los ácidos minerales y el alcohol. Se la considera un antecedente de la química moderna, y su búsqueda de remedios alimentó también la medicina premoderna; la medicina actual se construyó sobre la fisiología y la experimentación modernas.",
+    "resumen": "Qué es: en la historia de la ciencia, la alquimia (del árabe al-khīmiyā) es una antigua práctica protocientífica y una disciplina filosófica que combina elementos de la química, la metalurgia, la física, la medicina, la astrología, el misticismo y el arte. Se practicó en Mesopotamia, el Antiguo Egipto, Persia, la India, China, Grecia y Roma, el mundo islámico y Europa hasta el siglo XVIII. La alquimia fue una práctica de la Antigüedad y el Medievo —del Egipto helenístico al mundo islámico y a la Europa del siglo XII— centrada en la transmutación de los metales, que dejó procedimientos y sustancias como los ácidos minerales y el alcohol. Se la considera un antecedente de la química moderna, y su búsqueda de remedios alimentó también la medicina premoderna; la medicina actual se construyó sobre la fisiología y la experimentación modernas.",
     "fuentes": [
      {
       "titulo": "Britannica, «History of alchemy»",
@@ -65046,6 +65111,11 @@ window.CRONO = {
       "titulo": "Science History Institute: alquimia, materia y medicina",
       "url": "https://www.sciencehistory.org/about/press/science-history-institutes-new-permanent-exhibition-showcases-paintings-and-rare-books-on-alchemy/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Alquimia",
+      "url": "https://es.wikipedia.org/wiki/Alquimia",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -68079,7 +68149,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 5
    },
-   "resumen": "Hidrógeno disociado en átomos al que se atribuyen aplicaciones industriales y energéticas.",
+   "resumen": "Hidrógeno formado por átomos sueltos (H), no por moléculas (H2); existe de forma transitoria, y se le atribuyen aplicaciones industriales.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -68116,7 +68186,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El hidrógeno atómico es una especie real que se obtiene disociando el hidrógeno molecular, por ejemplo con un arco eléctrico o un filamento caliente. Langmuir lo estudió hacia 1912-1915 y de ahí surgió la soldadura de hidrógeno atómico, que alcanza 3.400-4.000 °C; también se usa para limpiar superficies. La recombinación devuelve como mucho la energía gastada en disociar, no más, y las aplicaciones de transmutación, descontaminación nuclear o salud que se le atribuyen no tienen respaldo científico aceptado.",
+    "resumen": "Qué es: el hidrógeno atómico (o hidrógeno naciente) es un átomo individual de hidrógeno que no está unido a otro como en la molécula normal de hidrógeno (H2). Se escribe H, por contraste con el H2 habitual. Se dice que existe de forma transitoria, pero lo bastante para afectar a las reacciones químicas. El hidrógeno atómico es una especie real que se obtiene disociando el hidrógeno molecular, por ejemplo con un arco eléctrico o un filamento caliente. Langmuir lo estudió hacia 1912-1915 y de ahí surgió la soldadura de hidrógeno atómico, que alcanza 3.400-4.000 °C; también se usa para limpiar superficies. La recombinación devuelve como mucho la energía gastada en disociar, no más, y las aplicaciones de transmutación, descontaminación nuclear o salud que se le atribuyen no tienen respaldo científico aceptado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Atomic hydrogen welding",
@@ -68127,6 +68197,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Irving Langmuir",
       "url": "https://en.wikipedia.org/wiki/Irving_Langmuir",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (es): Hidrógeno naciente",
+      "url": "https://es.wikipedia.org/wiki/Hidr%C3%B3geno_naciente",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -71303,7 +71378,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1906 (Nobel a Ramón y Cajal y Golgi)"
    },
-   "resumen": "Descripción de las divisiones del sistema nervioso y de la sinapsis, con epígrafe de Ramón y Cajal.",
+   "resumen": "El sistema nervioso es el conjunto de neuronas y células gliales que conducen señales eléctricas y llevan la información de un lugar a otro del organismo; la ficha recoge sus divisiones y la sinapsis.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -71316,7 +71391,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Descripción estándar de la anatomía: el sistema nervioso se divide en central (encéfalo y médula) y periférico; el periférico en somático y autónomo, y este en simpático, parasimpático y entérico. La sinapsis química es el mecanismo dominante, aunque existen sinapsis eléctricas.",
+    "resumen": "Qué es: el sistema nervioso es un conjunto de células especializadas en conducir señales eléctricas, formado por neuronas y células gliales. Las neuronas reciben, procesan y transmiten la información, que así viaja de un lugar a otro del organismo. La mayoría de los animales pluricelulares lo tienen, con funciones básicas parecidas pero de muy distinta complejidad; solo carecen de él los animales sin tejidos y órganos bien diferenciados. Descripción estándar de la anatomía: el sistema nervioso se divide en central (encéfalo y médula) y periférico; el periférico en somático y autónomo, y este en simpático, parasimpático y entérico. La sinapsis química es el mecanismo dominante, aunque existen sinapsis eléctricas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nervous system",
@@ -71327,6 +71402,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Autonomic nervous system",
       "url": "https://en.wikipedia.org/wiki/Autonomic_nervous_system",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Sistema nervioso",
+      "url": "https://es.wikipedia.org/wiki/Sistema_nervioso",
+      "consultado": "2026-11-24"
      }
     ]
    },
