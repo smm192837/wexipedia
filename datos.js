@@ -1219,6 +1219,44 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "admonitio-generalis-789",
+   "tipo": "hecho",
+   "titulo": "Admonitio generalis (789)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 789,
+    "fuente": "oficial"
+   },
+   "resumen": "Capitular de Carlomagno de 789 que reforma la educación y la Iglesia dentro del reino franco.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Admonitio generalis es una colección de legislación, conocida como capitular, emitida por Carlomagno en 789. Cubre la reforma educativa y eclesiástica dentro del reino franco.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Admonitio generalis",
+      "url": "https://es.wikipedia.org/wiki/Admonitio_generalis",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "agenda-2030",
    "tipo": "hecho",
    "titulo": "Agenda 2030 de la ONU",
@@ -3783,6 +3821,44 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "barcelona-franca-801",
+   "tipo": "hecho",
+   "titulo": "Barcelona pasa a los francos (801)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 801,
+    "fuente": "oficial"
+   },
+   "resumen": "Luis, hijo de Carlomagno, tomó Barcelona en 801 tras dos años de asedio, origen de la Marca Hispánica.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En 797 Barcelona cayó ante los francos cuando su gobernador Zeid, rebelde contra Córdoba, se la entregó a Carlomagno. Las autoridades omeyas la reconquistaron en 799, y Luis, hijo de Carlomagno, la asedió durante dos años, pasando allí el invierno de 800 a 801, hasta su rendición. Después los francos ocuparon Tarragona (809) y Tortosa (811); el emir Alhakén I reconoció estas conquistas en 812. En 785 las tropas de Luis ya habían tomado Gerona de forma permanente.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Posterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "basilea-ginebra-eje-segun-nocera",
    "tipo": "hecho",
    "titulo": "El eje Basilea–Ginebra",
@@ -5568,6 +5644,44 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "campana-roncesvalles-778",
+   "tipo": "hecho",
+   "titulo": "Campaña de Carlomagno en Hispania y Roncesvalles (778)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 778,
+    "fuente": "oficial"
+   },
+   "resumen": "Carlomagno cruzó los Pirineos para ayudar a gobernantes musulmanes rivales de Abderramán I; no tomó Zaragoza y se retiró por el paso de Roncesvalles.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Según el historiador musulmán Ibn al-Athir, en la dieta de Paderborn de 777 acudieron a Carlomagno gobernantes musulmanes de Zaragoza, Gerona, Barcelona y Huesca que buscaban su ayuda frente a Abderramán I de Córdoba. En 778 los ejércitos francos cruzaron los Pirineos, recibieron el homenaje de los gobernantes aliados y se reunieron ante Zaragoza, que no cayó. Carlomagno decidió retirarse por los Pirineos (el paso de Roncesvalles).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "canal-troncos-schauberger",
    "tipo": "hecho",
    "titulo": "Canal de troncos con agua fría de Schauberger",
@@ -5610,6 +5724,44 @@ window.CRONO = {
     ]
    },
    "vista": "ciencia"
+  },
+  {
+   "id": "capitulare-de-villis-reforma-monetaria",
+   "tipo": "hecho",
+   "titulo": "Capitulare de villis y libra carolingia (802)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 802,
+    "fuente": "oficial"
+   },
+   "resumen": "Carlomagno impulsó la libra de plata y el denario como moneda, y en 802 el capitulare de villis fijó normas de contabilidad de ingresos y gastos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Siguiendo las reformas de su padre, Carlomagno abandonó el sistema basado en el sou de oro, en parte por la escasez de oro, y con Offa de Mercia impulsó un sistema de plata. La libra carolingia equivalía a 20 sous o 240 denarios; solo el denario era moneda real y la libra y el sou eran unidades de cuenta. El capitulare de villis (802) estableció normas para registrar todos los ingresos y gastos públicos. También limitó el poder de los condes y creó los missi dominici para vigilarlos. La usura fue prohibida y en 814 una capitular prohibió a los judíos prestar dinero. Tras su muerte la moneda se degradó.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Posterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "carbonari",
@@ -5670,6 +5822,44 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
+   "id": "carlomagno-rey-de-los-francos-768",
+   "tipo": "hecho",
+   "titulo": "Carlomagno, rey de los francos (768)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 768,
+    "fuente": "oficial"
+   },
+   "resumen": "Tras la muerte de Pipino el Breve (24-9-768), Carlomagno fue investido rey en Noyon el 9-10-768 y compartió el reino con su hermano Carlomán.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Pipino el Breve murió el 24 de septiembre de 768 y el reino franco se dividió entre sus hijos Carlomagno y Carlomán. El 9 de octubre, tras el funeral, Carlomagno fue investido rey en Noyon y Carlomán en Soissons. Carlomagno recibió las regiones exteriores del reino (Neustria, el oeste de Aquitania y el norte de Austrasia). Reinaron juntos hasta la muerte de Carlomán el 5-12-771.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9449,6 +9639,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "conquista-reino-lombardo-774",
+   "tipo": "hecho",
+   "titulo": "Conquista del reino lombardo por Carlomagno (774)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 773,
+    "hasta": 774,
+    "fuente": "oficial"
+   },
+   "resumen": "Carlomagno derrotó al rey lombardo Desiderio, tomó Pavía en el verano de 774 y se ciñó la Corona de Hierro; fue también patricio de los romanos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El papa Adriano I pidió ayuda a Carlomagno frente al rey lombardo Desiderio, que había tomado ciudades pontificias. El asedio de Pavía se prolongó hasta la primavera de 774; el 2 de abril Carlomagno visitó al papa en Roma y confirmó las cesiones de territorios de su padre, y Adriano le concedió el título de patricio de los romanos. Los lombardos se rindieron en verano, Desiderio fue enviado a la abadía de Corbie y Carlomagno se ciñó la Corona de Hierro, convirtiéndose en rey de los lombardos y en el señor más poderoso de Italia. En 776 sofocó una rebelión de los duques de Friuli y Spoleto.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "consejo-de-las-americas-1963",
    "tipo": "hecho",
    "titulo": "Council of the Americas (1963)",
@@ -12261,6 +12490,44 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "divisio-regnorum-806",
+   "tipo": "hecho",
+   "titulo": "Divisio regnorum (806)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 806,
+    "fuente": "oficial"
+   },
+   "resumen": "En 806 Carlomagno dispuso repartir el imperio entre sus tres hijos; las muertes de Pipino (810) y Carlos (811) lo dejaron sin efecto.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En 806 Carlomagno hizo las primeras previsiones para dividir el imperio a su muerte: Carlos el Joven recibiría Austrasia, Neustria, Sajonia, Borgoña y Turingia; Pipino, Italia, Baviera y Suabia; y Luis, Aquitania, la Marca Hispánica y Provenza. No mencionaba los títulos imperiales. Las muertes de Pipino (810) y de Carlos (811) obligaron a rehacer el reparto, y en 813 coronó coemperador a Luis, el único hijo superviviente.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Posterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
    "vista": "politica"
   },
   {
@@ -18903,6 +19170,45 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerras-sajonas-772-804",
+   "tipo": "hecho",
+   "titulo": "Guerras sajonas de Carlomagno (772-804)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 772,
+    "hasta": 804,
+    "fuente": "oficial"
+   },
+   "resumen": "Treinta años de campañas para someter y cristianizar Sajonia, con revueltas de Widukind y deportaciones; la última rebelión fue en 804.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Carlomagno guerreó unos treinta años contra los sajones, repartidos en Westfalia, Ostfalia, Angria y Nordalbingia. La primera campaña, en 772, destruyó el irminsul, un pilar sagrado cercano a Paderborn. Hubo revueltas en 776, en 778 y en 782 (con el duque Widukind) y de nuevo en 793-794 y 796. En 780 se decretó pena de muerte para quienes no se bautizaran, no celebraran las fiestas cristianas o incineraran a sus muertos. La última revuelta, en 804, acabó con el traslado forzoso de 10.000 familias sajonas. La conversión se impuso con la fuerza cuando se consideró necesario.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "guerras-yugoslavas",
    "tipo": "hecho",
    "titulo": "Guerras yugoslavas (1991-2001)",
@@ -23989,6 +24295,49 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "matanza-de-verden-782",
+   "tipo": "hecho",
+   "titulo": "Matanza de Verden (782)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 782,
+    "fuente": "oficial"
+   },
+   "resumen": "En 782 Carlomagno habría ordenado decapitar a unos 4.500 sajones capturados cerca de Verden, en la Baja Sajonia, por practicar el paganismo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En 782, cerca de la actual Verden (Baja Sajonia), fueron decapitados en torno a 4.500 líderes sajones que se habían bautizado, al menos oficialmente, pero habían vuelto a practicar el paganismo. Se atribuye la orden a Carlomagno, durante las guerras sajonas. Se dijo que el río Aller bajó rojo de sangre. Según Wikipedia, el efecto fue que los sajones perdieron virtualmente todo su liderazgo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Masacre de Verden",
+      "url": "https://es.wikipedia.org/wiki/Masacre_de_Verden",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
+  },
+  {
    "id": "mayer-aprendiz-oppenheim-1757",
    "tipo": "hecho",
    "titulo": "Mayer Rothschild, aprendiz en la banca Oppenheim (1757–1763)",
@@ -25351,6 +25700,44 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "muerte-de-carlomagno-814",
+   "tipo": "hecho",
+   "titulo": "Muerte de Carlomagno (814)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 814,
+    "fuente": "oficial"
+   },
+   "resumen": "Carlomagno murió en Aquisgrán el 28-1-814 y fue enterrado ese mismo día; le sucedió su hijo Ludovico Pío, coronado coemperador en 813.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En 813 Carlomagno coronó con sus propias manos a su único hijo superviviente, Ludovico Pío, como coemperador. En enero de 814 enfermó de pleuresía y murió el 28 de enero en Aquisgrán, donde fue sepultado en la catedral el mismo día. Le sucedió Ludovico. Su imperio permaneció unido una sola generación más; la historiografía sitúa en el reparto entre los hijos de Ludovico el origen de la Francia y la Alemania modernas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Posterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
    "vista": "politica"
   },
   {
@@ -34749,6 +35136,45 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "vista": "religion"
+  },
+  {
+   "id": "sometimiento-baviera-788-794",
+   "tipo": "hecho",
+   "titulo": "Sometimiento de Baviera por Carlomagno (788-794)",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 788,
+    "hasta": 794,
+    "fuente": "oficial"
+   },
+   "resumen": "Carlomagno depuso al duque Tasilón III de Baviera en 788 y en el sínodo de Fráncfort de 794 lo obligó a renunciar a sus derechos y a los de su familia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En 788 Carlomagno acusó al duque Tasilón III de Baviera de pactar con los ávaros y de romper su promesa de fidelidad. Tasilón fue juzgado y condenado a muerte, pero Carlomagno lo indultó, lo hizo rapar y lo recluyó en el monasterio de Jumièges. En 794, en el sínodo de Fráncfort, Tasilón renunció a sus derechos y a los de su familia, los agilolfingos, sobre Baviera. Baviera, como Sajonia, fue dividida en condados por los francos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "carlomagno",
+     "nota": "Hito de su vida."
+    },
+    {
+     "id": "coronacion-carlomagno-800",
+     "nota": "Hito anterior a la coronación imperial."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "naturaleza": "gobiernos",
+   "vista": "politica"
   },
   {
    "id": "ss-modelo-jesuita",
