@@ -37227,11 +37227,27 @@ window.CRONO = {
     {
      "id": "lascaris-comneno-habsburgo",
      "nota": ""
+    },
+    {
+     "id": "templarios-aragon-montesa",
+     "nota": "Montesa, heredera del Temple en Aragón."
+    },
+    {
+     "id": "ordenes-espuela-de-oro-y-cristo-1725",
+     "nota": "Las mismas órdenes en otra ficha del autor."
+    },
+    {
+     "id": "orden-constantiniana",
+     "nota": "Orden Constantiniana de San Jorge."
+    },
+    {
+     "id": "185-anos-extra-calendario-gregoriano-1725",
+     "nota": "Origen de la diferencia de 185 años entre las fechas del autor y las oficiales."
     }
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "El Tratado de Tordesillas se firmó el 7 de junio de 1494 entre Castilla-Aragón y Portugal y repartió entre ambos las tierras descubiertas fuera de Europa con una línea al oeste de las islas de Cabo Verde; no hay fuente que lo date en 1679. Las órdenes de Montesa (1317), de Cristo (1319) y la Espuela de Oro, así como su relación con el Temple, no se han contrastado en esta pasada.",
+    "resumen": "El Tratado de Tordesillas se firmó el 7 de junio de 1494 entre los Reyes Católicos y Juan II de Portugal: fijó una línea a 370 leguas al oeste de las islas de Cabo Verde para repartir las zonas de navegación y conquista del Atlántico. La fecha de 1679 que da el autor no figura en ninguna fuente de historia convencional: está 185 años desplazada respecto a la oficial. Es la datación de la «Nueva Cronología» que usa el autor (en sus fechas entre paréntesis todo se desplaza 185 años o un múltiplo; así, 1687 en vez de 1317 y 1689 en vez de 1319 son 370 años), tesis que no acepta la historiografía académica. Las órdenes que cita son anteriores al tratado en unos 175 años, así que no pueden «surgir» de él. Montesa la fundó Jaime II de Aragón en 1317, y la de Cristo se creó en Portugal en 1319, con el visto bueno del papa Juan XXII, para recibir los bienes del Temple (suprimido en 1314); ambas se consideran sucesoras del Temple en sus reinos, aunque con matices: la de Cristo quedó ligada a la Corona portuguesa y abandonó la regla templaria. La Espuela de Oro y la Constantiniana de San Jorge dicen remontarse al emperador Constantino, un origen que la propia Wikipedia llama leyenda; la Constantiniana fue reconocida por el papa Julio III en 1550. Que sean «herederas imperiales» del Temple, o que la Espuela de Oro «refleje» a la Constantiniana, es una interpretación del autor y no consta en estas fuentes.",
     "fuentes": [
      {
       "titulo": "New World Encyclopedia: Treaty of Tordesillas",
@@ -37242,6 +37258,31 @@ window.CRONO = {
       "titulo": "World History Encyclopedia: Treaty of Tordesillas",
       "url": "https://www.worldhistory.org/Treaty_of_Tordesillas/",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden de Montesa",
+      "url": "https://es.wikipedia.org/wiki/Orden_de_Montesa",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden de Cristo",
+      "url": "https://es.wikipedia.org/wiki/Orden_de_Cristo",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden de la Espuela de Oro",
+      "url": "https://es.wikipedia.org/wiki/Orden_de_la_Espuela_de_Oro",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Sagrada Orden Militar Constantiniana de San Jorge",
+      "url": "https://es.wikipedia.org/wiki/Sagrada_Orden_Militar_Constantiniana_de_San_Jorge",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Tratado de Tordesillas",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Tordesillas",
+      "consultado": "2026-11-24"
      }
     ]
    },
