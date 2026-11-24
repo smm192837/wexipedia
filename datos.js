@@ -15167,7 +15167,7 @@ window.CRONO = {
     "texto": "1801 (luz); 1961 (electrones)",
     "fuente": "oficial"
    },
-   "resumen": "Muestra el comportamiento ondulatorio de la luz y de las partículas.",
+   "resumen": "Experimento en el que se lanza luz (o electrones, átomos, moléculas) contra una placa con dos rendijas paralelas y se mira qué llega a una pantalla detrás. Aparecen franjas claras y oscuras, como las de las olas, aunque cada partícula llega a la pantalla como un punto; si se mide por qué rendija pasa, las franjas desaparecen. A eso se le llama dualidad onda-partícula.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -15187,7 +15187,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thomas Young lo describió en 1801 con luz, como prueba de que la luz es una onda. Con electrones lo hizo por primera vez Claus Jönsson, en Tubinga, en 1961. La mecánica cuántica lo explica sin éter. La interpretación de onda piloto (De Broglie-Bohm) existe, pero es minoritaria.",
+    "resumen": "Qué es: se ilumina con luz coherente (por ejemplo un láser) una placa con dos rendijas paralelas y se observa la pantalla de detrás. Si la luz fuera solo un chorro de partículas clásicas, se esperarían dos manchas, una por rendija; lo que aparece es una serie de franjas claras y oscuras, un patrón de interferencia, propio de las ondas: las ondas de las dos rendijas se suman en unos puntos y se anulan en otros. Pero la luz siempre se absorbe en la pantalla en puntos concretos, como partículas, y el patrón se forma poco a poco por la densidad de esos impactos. Si se coloca un detector para saber por qué rendija pasa cada partícula, cada una pasa por una sola y el patrón de franjas desaparece. Eso es lo que se llama dualidad onda-partícula. Feynman dijo que contiene «el corazón de la mecánica cuántica». Historia: Thomas Young lo describió en 1801 con luz, como prueba de que la luz es una onda. En 1927 Davisson y Germer, y G. P. Thomson por su parte, mostraron que los electrones se comportan también como ondas. Con electrones y dos rendijas lo hizo por primera vez Claus Jönsson, en Tubinga, en 1961. Después se hizo con átomos y con moléculas de unos 2.000 átomos. Explicación: la mecánica cuántica lo explica sin éter. La interpretación de onda piloto (De Broglie-Bohm) existe, pero es minoritaria.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Double-slit experiment",
