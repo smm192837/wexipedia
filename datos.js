@@ -9511,6 +9511,14 @@ window.CRONO = {
     {
      "id": "nikola-tesla",
      "nota": "Artur Sala menciona a Nikola Tesla en este episodio."
+    },
+    {
+     "id": "albert-einstein",
+     "nota": "Entre los físicos que se reunieron."
+    },
+    {
+     "id": "max-planck",
+     "nota": "Entre los físicos que se reunieron."
     }
    ],
    "estado": "aprobado",
@@ -13716,6 +13724,10 @@ window.CRONO = {
     {
      "id": "energia-radiante-tesla",
      "nota": "El autor la ve como base de la «energía libre»."
+    },
+    {
+     "id": "albert-einstein",
+     "nota": "Con Otto Stern propuso el concepto en 1913."
     }
    ],
    "estado": "aprobado",
@@ -15260,6 +15272,10 @@ window.CRONO = {
     {
      "id": "eter-luminifero",
      "nota": "Según Artur Sala, con un éter debajo el experimento se explica sin dualidad onda-partícula."
+    },
+    {
+     "id": "richard-feynman",
+     "nota": "Dijo que el experimento contiene «el corazón de la mecánica cuántica»."
     }
    ],
    "estado": "aprobado",
@@ -15339,6 +15355,14 @@ window.CRONO = {
     {
      "id": "relatividad-especial",
      "nota": "La relatividad prescinde del éter."
+    },
+    {
+     "id": "albert-michelson",
+     "nota": "Físico estadounidense, Nobel de Física 1907, que hizo el experimento."
+    },
+    {
+     "id": "edward-morley",
+     "nota": "Colaborador de Michelson en 1887."
     }
    ],
    "estado": "aprobado",
@@ -29507,6 +29531,10 @@ window.CRONO = {
     {
      "id": "darwinismo-social",
      "nota": "Según Artur Sala, el libro de Darwin dio forma científica al darwinismo social."
+    },
+    {
+     "id": "x-club",
+     "nota": "Círculo que defendió sus teorías."
     }
    ],
    "estado": "aprobado",
@@ -32351,6 +32379,18 @@ window.CRONO = {
     {
      "id": "einstein-eter-leiden",
      "nota": "Según el autor, Einstein rectificó después con la relatividad general."
+    },
+    {
+     "id": "albert-einstein",
+     "nota": "La publicó en 1905."
+    },
+    {
+     "id": "experimento-michelson-morley",
+     "nota": "Su resultado fue base experimental de la teoría."
+    },
+    {
+     "id": "eter-luminifero",
+     "nota": "Medio al que la teoría dejó sin función."
     }
    ],
    "estado": "aprobado",
@@ -40399,6 +40439,10 @@ window.CRONO = {
     {
      "id": "revista-nature",
      "nota": "Miembros del X Club apoyaron la fundación de Nature (versión oficial)."
+    },
+    {
+     "id": "thomas-henry-huxley",
+     "nota": "Inició el club y convocó el primer encuentro el 3-11-1864."
     }
    ],
    "estado": "aprobado",
@@ -65124,6 +65168,10 @@ window.CRONO = {
     {
      "id": "culto-asclepio-incubacion",
      "nota": ""
+    },
+    {
+     "id": "alquimia-y-astrologia-ciencias-hermanas",
+     "nota": "Relación con la astrología."
     }
    ],
    "estado": "borrador",
@@ -66739,6 +66787,10 @@ window.CRONO = {
     {
      "id": "x-club",
      "nota": "Según Artur Sala, el X Club reunía a los defensores del darwinismo social."
+    },
+    {
+     "id": "charles-darwin",
+     "nota": "De su teoría de la evolución toma los conceptos."
     }
    ],
    "estado": "aprobado",
@@ -67670,6 +67722,18 @@ window.CRONO = {
     {
      "id": "teoria-tres-ejes-realidad",
      "nota": "En su teoría, la materia es éter ordenado por la fuerza del tiempo."
+    },
+    {
+     "id": "experimento-michelson-morley",
+     "nota": "Intento de medir el movimiento de la Tierra respecto al éter, en 1887."
+    },
+    {
+     "id": "relatividad-especial",
+     "nota": "Teoría de Einstein de 1905."
+    },
+    {
+     "id": "albert-einstein",
+     "nota": "Autor de la relatividad especial (1905)."
     }
    ],
    "estado": "aprobado",
@@ -69664,6 +69728,18 @@ window.CRONO = {
     {
      "id": "cronologia-escaligero-petavio",
      "nota": ""
+    },
+    {
+     "id": "anatoli-fomenko",
+     "nota": "Matemático ruso al que se asocia."
+    },
+    {
+     "id": "jean-hardouin",
+     "nota": "Erudito francés en cuyas ideas podría tener origen."
+    },
+    {
+     "id": "joseph-scaliger",
+     "nota": "Autor de una de las bases de la cronología convencional."
     }
    ],
    "estado": "aprobado",
