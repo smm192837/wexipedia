@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-23",
+ "generado": "2026-11-24",
  "publica": false,
  "carriles": [
   {
@@ -1120,12 +1120,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Acuerdos Generales de Préstamo (GAB) se firmaron en 1962 entre diez países industrializados para dotar de recursos al FMI en caso de necesidad; el NAB (Nuevos Acuerdos de Préstamo) lo amplió en 1998 y los GAB se mantienen como línea secundaria. Que su efecto sea endeudar y colocar corporaciones no forma parte de la versión académica. Pendiente de contrastar (Nocera dice 1995 para el NAB; fecha por comprobar).",
+    "resumen": "Los Acuerdos Generales de Préstamo (GAB) se firmaron en 1962 entre diez países industrializados para dotar de recursos al FMI en caso de necesidad; el NAB (Nuevos Acuerdos de Préstamo) lo amplió después (1998 según el FMI) y los GAB se mantienen como línea secundaria. Que su efecto sea endeudar y colocar corporaciones no forma parte de la versión académica. Los GAB se ampliaron en 1983 (de unos 6.000 a 17.000 millones de DEG). Nocera sitúa el NAB en 1995; el año 1998 del FMI no se ha vuelto a comprobar.",
     "fuentes": [
      {
       "titulo": "FMI: acuerdos de préstamo",
       "url": "https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/16/20/The-General-Arrangements-to-Borrow",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Group of Ten (IMF)",
+      "url": "https://en.wikipedia.org/wiki/Group_of_Ten_(IMF)",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -3801,7 +3806,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por Francia en 1798 y se unió a Suiza en 1815 tras la derrota de Napoleón. La vinculación con los Estados Papales como centro de poder oculto no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por la Francia revolucionaria en 1798, la tomaron tropas austriacas en 1813 y se sumó a la Confederación Helvética en 1815. La vinculación con los Estados Papales como centro de poder oculto no forma parte de la versión académica. Solo se ha comprobado lo de Ginebra; las fechas de Basilea (374, 1529, 1897) quedan sin comprobar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Basilea",
@@ -7103,12 +7108,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida. Pendiente de contrastar.",
+    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida. Herodes el Grande murió en 4 a. C., por lo que el censo de Quirinio (6 d. C., según Flavio Josefo) no cuadra con él. Las fechas de los censos de Augusto de 28 a. C., 8 a. C. y 14 d. C. no se han vuelto a comprobar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Censo de Quirinio",
       "url": "https://es.wikipedia.org/wiki/Censo_de_Quirinio",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Publio Sulpicio Quirinio (cónsul 12 a. C.)",
+      "url": "https://es.wikipedia.org/wiki/Publio_Sulpicio_Quirinio_(cónsul_12_a._C.)",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -9038,7 +9048,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1313, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Pendiente de contrastar.",
+    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1312, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Vienne se celebró en 1311-1312; el reconocimiento como ecuménicos de los concilios medievales de Occidente fue posterior.",
     "fuentes": [
      {
       "titulo": "Britannica: ecumenical council",
@@ -9049,6 +9059,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Edicto de Tesalónica",
       "url": "https://es.wikipedia.org/wiki/Edicto_de_Tesal%C3%B3nica",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Concilio ecuménico",
+      "url": "https://es.wikipedia.org/wiki/Concilio_ecuménico",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Ecumenical council",
+      "url": "https://en.wikipedia.org/wiki/Ecumenical_council",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -9450,12 +9470,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Council of the Americas lo fundó en 1963 David Rockefeller como asociación de empresas con intereses en América Latina; reúne a ejecutivos y gobernantes en conferencias. Que sea un instrumento de control global es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "El Council of the Americas lo fundó en 1963 David Rockefeller como Business Group for Latin America, a petición del presidente Kennedy, para que las empresas contrarrestaran la influencia de Fidel Castro en la región; reúne a ejecutivos y gobernantes en conferencias. Que sea un instrumento de control global es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Americas Society / Council of the Americas",
       "url": "https://en.wikipedia.org/wiki/Americas_Society/Council_of_the_Americas",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Council of the Americas",
+      "url": "https://en.wikipedia.org/wiki/Council_of_the_Americas",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -10063,12 +10088,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "León III coronó emperador a Carlomagno en Roma el 25-12-800. Su genealogía de origen galorromano (los Arnulfing) y la conexión con los Flavios son discutibles. La lectura de continuidad del imperio romano es compartida, con matices, por la historiografía; la subordinación de los monarcas al papa es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "León III coronó emperador a Carlomagno en Roma el 25-12-800. Su genealogía de origen galorromano (los Arnulfing) y la conexión con los Flavios son discutibles. La lectura de continuidad del imperio romano es compartida, con matices, por la historiografía; la subordinación de los monarcas al papa es tesis de Nocera. La coronación el 25-12-800 consta en Wikipedia (es); la genealogía de Arnoaldo, Tonantius Ferreolus y los Flavios no se ha comprobado.",
     "fuentes": [
      {
       "titulo": "Britannica: Charlemagne",
       "url": "https://www.britannica.com/biography/Charlemagne",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -16782,12 +16812,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global lanzada por China en 2015. Su papel de pieza de un control mundial es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global presentada por el presidente de State Grid Corporation of China, Liu Zhenya, el 12-11-2015 y apoyada por Xi Jinping. Su papel de pieza de un control mundial es tesis de Nocera. La constitución de GEIDCO en 2016 no se ha vuelto a comprobar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: GEIDCO",
       "url": "https://en.wikipedia.org/wiki/Global_Energy_Interconnection_Development_and_Cooperation_Organization",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Global Energy Interconnection",
+      "url": "https://en.wikipedia.org/wiki/Global_Energy_Interconnection",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -28753,7 +28788,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Consejo de Cooperación Aduanera empezó a funcionar en 1952 en Bruselas y tomó el nombre de Organización Mundial de Aduanas en 1994. Sus programas de apoyo a los Objetivos de Desarrollo Sostenible son públicos; su papel de control global es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "El Consejo de Cooperación Aduanera empezó a funcionar en 1952 en Bruselas y tomó el nombre de Organización Mundial de Aduanas en 1994. Sus programas de apoyo a los Objetivos de Desarrollo Sostenible son públicos; su papel de control global es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Mundial de Aduanas",
@@ -30252,12 +30287,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El IMEMO se creó en 1956 dentro de la Academia de Ciencias de la URSS y hoy lleva el nombre de Yevgueni Primakov; es un instituto de investigación sobre economía y política internacional. La equiparación con Chatham House como brazo de lobby es de Nocera. Pendiente de contrastar.",
+    "resumen": "El IMEMO se creó en 1956 como sucesor del Instituto de Economía y Política Mundiales (1925-1948), dentro de la Academia de Ciencias de la URSS y hoy lleva el nombre de Yevgueni Primakov; es un instituto de investigación sobre economía y política internacional. La equiparación con Chatham House como brazo de lobby es de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: IMEMO",
       "url": "https://en.wikipedia.org/wiki/Primakov_Institute_of_World_Economy_and_International_Relations",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Institute of World Economy and International Relations",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_World_Economy_and_International_Relations",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -36130,12 +36170,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1277 María de Antioquía cedió sus derechos al trono de Jerusalén a Carlos de Anjou; los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. Pendiente de contrastar.",
+    "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. La cadena posterior hasta la Corona española no se ha comprobado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Título de rey de Jerusalén",
       "url": "https://es.wikipedia.org/wiki/T%C3%ADtulo_de_rey_de_Jerusal%C3%A9n",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Reino de Jerusalén",
+      "url": "https://es.wikipedia.org/wiki/Reino_de_Jerusalén",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -37691,12 +37736,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Unión Interparlamentaria se fundó en 1889 en París por Frédéric Passy y William Randal Cremer; hoy tiene sede en Ginebra y reúne a los parlamentos nacionales. Que sea el origen de un plan globalista no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "La Unión Interparlamentaria se fundó en 1889 en París por Frédéric Passy y William Randal Cremer; hoy tiene sede en Ginebra y reúne a los parlamentos nacionales. Que sea el origen de un plan globalista no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "IPU: historia",
       "url": "https://www.ipu.org/about-us/about-ipu/history",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Unión Interparlamentaria",
+      "url": "https://es.wikipedia.org/wiki/Unión_Interparlamentaria",
+      "consultado": "2026-11-24"
      }
     ]
    },
