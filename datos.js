@@ -16881,7 +16881,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: «fusión fría» es el nombre genérico de cualquier reacción nuclear de fusión que ocurra a temperaturas y presiones cercanas a las ordinarias, muy inferiores a los millones de grados que exigen las reacciones termonucleares, y con equipos baratos y poco consumo eléctrico. El término suele reservarse a la fractofusión, en la que moléculas de deuterio se fusionan dentro de la red cristalina de un cristal. Fleischmann y Pons la anunciaron en una rueda de prensa el 23-3-1989. Otros laboratorios no lograron reproducirla y un panel federal de EE. UU. señaló numerosos problemas en pocos meses; una segunda revisión del Departamento de Energía (2004) llegó a conclusiones parecidas. Sigue investigándose de forma minoritaria. Contexto: en 1989 Pons y Fleischmann anunciaron haber obtenido cantidades significativas de energía mediante fusión fría. Otros investigadores no pudieron replicar el experimento, y se considera que los resultados fueron errores experimentales. Entre los mecanismos propuestos están la fractofusión (deuterio o tritio atrapado en un material, normalmente paladio), la fusión catalizada por muones y la fusión en burbujas inducida por sonoluminiscencia.",
+    "resumen": "Qué es: «fusión fría» es el nombre genérico de cualquier reacción nuclear de fusión que ocurra a temperaturas y presiones cercanas a las ordinarias, muy inferiores a los millones de grados que exigen las reacciones termonucleares, y con equipos baratos y poco consumo eléctrico. El término suele reservarse a la fractofusión, en la que moléculas de deuterio se fusionan dentro de la red cristalina de un cristal. Fleischmann y Pons la anunciaron en una rueda de prensa el 23-3-1989. Otros laboratorios no lograron reproducirla y un panel federal de EE. UU. señaló numerosos problemas en pocos meses; una segunda revisión del Departamento de Energía (2004) llegó a conclusiones parecidas. Sigue investigándose de forma minoritaria. Contexto: en 1989 Pons y Fleischmann anunciaron haber obtenido cantidades significativas de energía mediante fusión fría. Otros investigadores no pudieron replicar el experimento, y se considera que los resultados fueron errores experimentales. Entre los mecanismos propuestos están la fractofusión (deuterio o tritio atrapado en un material, normalmente paladio), la fusión catalizada por muones y la fusión en burbujas inducida por sonoluminiscencia. Época y lugar: el anuncio de 1989 llegó en los últimos años de la Guerra Fría (1945-1991), el enfrentamiento entre el bloque occidental, liderado por Estados Unidos, y el oriental, liderado por la Unión Soviética.",
     "fuentes": [
      {
       "titulo": "Time: Cold fusion (1989)",
@@ -16896,6 +16896,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Fusión fría",
       "url": "https://es.wikipedia.org/wiki/Fusi%C3%B3n_fr%C3%ADa",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra Fría",
+      "url": "https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa",
       "consultado": "2026-11-24"
      }
     ]
@@ -20786,7 +20791,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Informe Flexner es un libro sobre educación médica en Estados Unidos y Canadá, escrito por Abraham Flexner y publicado en 1910 bajo el auspicio de la Fundación Carnegie (Boletín n.º 4). Pidió a las escuelas de medicina normas de admisión y graduación más altas y que se atuvieran estrictamente a los protocolos de la ciencia convencional en la enseñanza y la investigación. Muchos aspectos de la medicina norteamericana actual parten de él. Lo encargó en 1908 el Consejo de Educación Médica de la Asociación Médica Estadounidense a la Fundación Carnegie para el Avance de la Enseñanza, cuyo presidente, Henry Pritchett, eligió a Abraham Flexner; se publicó en 1910. Entre 1910 y 1935 cerraron o se fusionaron más de la mitad de las escuelas de medicina de EE. UU., entre ellas cinco de las siete para estudiantes negros y muchas de homeopatía y medicina ecléctica, y la enseñanza se orientó a la ciencia de laboratorio. John D. Rockefeller y su General Education Board financiaron después la reforma, con Flexner al frente de su programa médico desde 1913. Flexner era educador y no médico, y su informe es un estudio de extensión de libro (no de 22 páginas). Las escuelas de medicina de EE. UU. pasaron de 160 en 1904 a 85 en 1920 y a 66 en 1935, cifras compatibles con las del autor; las fuentes consultadas no hablan de «dialéctica hegeliana» ni de que el informe sea causa directa de los problemas de salud actuales, y sí de críticas por su efecto en las escuelas de mujeres y de estudiantes negros. Contexto: muchas escuelas de medicina de Estados Unidos no alcanzaron el criterio del informe y, tras su publicación, se fusionaron o cerraron; también cerraron colegios de electroterapia. El informe concluyó que había demasiadas facultades de medicina y que muchos médicos se formaban de forma inadecuada. Una consecuencia fue la consolidación de la formación universitaria de calidad en salud.",
+    "resumen": "Qué es: el Informe Flexner es un libro sobre educación médica en Estados Unidos y Canadá, escrito por Abraham Flexner y publicado en 1910 bajo el auspicio de la Fundación Carnegie (Boletín n.º 4). Pidió a las escuelas de medicina normas de admisión y graduación más altas y que se atuvieran estrictamente a los protocolos de la ciencia convencional en la enseñanza y la investigación. Muchos aspectos de la medicina norteamericana actual parten de él. Lo encargó en 1908 el Consejo de Educación Médica de la Asociación Médica Estadounidense a la Fundación Carnegie para el Avance de la Enseñanza, cuyo presidente, Henry Pritchett, eligió a Abraham Flexner; se publicó en 1910. Entre 1910 y 1935 cerraron o se fusionaron más de la mitad de las escuelas de medicina de EE. UU., entre ellas cinco de las siete para estudiantes negros y muchas de homeopatía y medicina ecléctica, y la enseñanza se orientó a la ciencia de laboratorio. John D. Rockefeller y su General Education Board financiaron después la reforma, con Flexner al frente de su programa médico desde 1913. Flexner era educador y no médico, y su informe es un estudio de extensión de libro (no de 22 páginas). Las escuelas de medicina de EE. UU. pasaron de 160 en 1904 a 85 en 1920 y a 66 en 1935, cifras compatibles con las del autor; las fuentes consultadas no hablan de «dialéctica hegeliana» ni de que el informe sea causa directa de los problemas de salud actuales, y sí de críticas por su efecto en las escuelas de mujeres y de estudiantes negros. Contexto: muchas escuelas de medicina de Estados Unidos no alcanzaron el criterio del informe y, tras su publicación, se fusionaron o cerraron; también cerraron colegios de electroterapia. El informe concluyó que había demasiadas facultades de medicina y que muchos médicos se formaban de forma inadecuada. Una consecuencia fue la consolidación de la formación universitaria de calidad en salud. Época y lugar: Estados Unidos, durante la era progresista (de la década de 1890 a la de 1920), un período de activismo social y reforma política contra los problemas de la industrialización, la urbanización, la inmigración y la corrupción.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Flexner Report",
@@ -20801,6 +20806,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Informe Flexner",
       "url": "https://es.wikipedia.org/wiki/Informe_Flexner",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Era progresista",
+      "url": "https://es.wikipedia.org/wiki/Era_progresista",
       "consultado": "2026-11-24"
      }
     ]
@@ -21665,7 +21675,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: Edward Jenner fue un médico y científico inglés, pionero del concepto de vacuna y descubridor de la vacuna contra la viruela, la primera del mundo. «Vacuna» y «vacunación» vienen de «variolae vaccinae» (pústulas de la vaca), término que él ideó para la viruela bovina y que usó en 1798 en el título de su «Investigación sobre las Variolae vaccinae». En 1796 Edward Jenner inoculó a James Phipps con viruela bovina y comprobó que le protegía de la viruela; publicó el método en 1798. Es el origen de la vacunación (la palabra aparece en 1800). La viruela se declaró erradicada en 1980. Las fuentes enciclopédicas no recogen daños de la vacuna a su hijo ni a otras personas; sí registran que su hijo mayor murió de tuberculosis. Contexto: en tiempos de Jenner la inoculación ya era común pero muy arriesgada: Lady Mary Wortley Montagu había importado la variolación a Gran Bretaña en 1721 tras verla en Constantinopla. En 1768 el médico John Fewster notó que haber pasado la viruela vacuna daba inmunidad frente a la viruela, y el agricultor Benjamin Jesty, de Dorset, fue vacunado con éxito hacia 1774, antes que Jenner.",
+    "resumen": "Qué es: Edward Jenner fue un médico y científico inglés, pionero del concepto de vacuna y descubridor de la vacuna contra la viruela, la primera del mundo. «Vacuna» y «vacunación» vienen de «variolae vaccinae» (pústulas de la vaca), término que él ideó para la viruela bovina y que usó en 1798 en el título de su «Investigación sobre las Variolae vaccinae». En 1796 Edward Jenner inoculó a James Phipps con viruela bovina y comprobó que le protegía de la viruela; publicó el método en 1798. Es el origen de la vacunación (la palabra aparece en 1800). La viruela se declaró erradicada en 1980. Las fuentes enciclopédicas no recogen daños de la vacuna a su hijo ni a otras personas; sí registran que su hijo mayor murió de tuberculosis. Contexto: en tiempos de Jenner la inoculación ya era común pero muy arriesgada: Lady Mary Wortley Montagu había importado la variolación a Gran Bretaña en 1721 tras verla en Constantinopla. En 1768 el médico John Fewster notó que haber pasado la viruela vacuna daba inmunidad frente a la viruela, y el agricultor Benjamin Jesty, de Dorset, fue vacunado con éxito hacia 1774, antes que Jenner. Época y lugar: Gran Bretaña, durante el reinado de Jorge III (1760-1820), de la casa de Hannover.",
     "fuentes": [
      {
       "titulo": "EBSCO: First Widespread Smallpox Inoculations",
@@ -21680,6 +21690,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Edward Jenner",
       "url": "https://es.wikipedia.org/wiki/Edward_Jenner",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Jorge III del Reino Unido",
+      "url": "https://es.wikipedia.org/wiki/Jorge_III_del_Reino_Unido",
       "consultado": "2026-11-24"
      }
     ]
@@ -29494,7 +29509,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: «El origen de las especies» (On the Origin of Species) es un libro de Charles Darwin publicado el 24 de noviembre de 1859, considerado uno de los trabajos precursores de la literatura científica y el fundamento de la teoría de la biología evolutiva. Su título completo de la primera edición fue «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida»; en la sexta edición de 1872 se acortó. Se publicó el 24 de noviembre de 1859 con el título completo «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida». En la portada, Darwin figura como miembro de las sociedades Real, Geológica y Linneana; antes había estudiado en Edimburgo y Cambridge y había sido el naturalista del viaje del Beagle, que zarpó en 1831. No era sobrino de Spencer: sus abuelos eran el médico Erasmus Darwin y Josiah Wedgwood, fundador de la fábrica de porcelana, y Spencer nació en 1820, once años después que él. Contexto: en ediciones posteriores del libro Darwin trazó las ideas evolutivas hasta Aristóteles. Antes, los padres de la Iglesia y los eruditos medievales interpretaban el Génesis de forma alegórica, estaba muy extendida la idea de una naturaleza inestable y de la generación espontánea de la vida, y la Reforma protestante inspiró una lectura literal de la Biblia que chocaba con la nueva ciencia.",
+    "resumen": "Qué es: «El origen de las especies» (On the Origin of Species) es un libro de Charles Darwin publicado el 24 de noviembre de 1859, considerado uno de los trabajos precursores de la literatura científica y el fundamento de la teoría de la biología evolutiva. Su título completo de la primera edición fue «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida»; en la sexta edición de 1872 se acortó. Se publicó el 24 de noviembre de 1859 con el título completo «Sobre el origen de las especies por medio de la selección natural, o la preservación de las razas favorecidas en la lucha por la vida». En la portada, Darwin figura como miembro de las sociedades Real, Geológica y Linneana; antes había estudiado en Edimburgo y Cambridge y había sido el naturalista del viaje del Beagle, que zarpó en 1831. No era sobrino de Spencer: sus abuelos eran el médico Erasmus Darwin y Josiah Wedgwood, fundador de la fábrica de porcelana, y Spencer nació en 1820, once años después que él. Contexto: en ediciones posteriores del libro Darwin trazó las ideas evolutivas hasta Aristóteles. Antes, los padres de la Iglesia y los eruditos medievales interpretaban el Génesis de forma alegórica, estaba muy extendida la idea de una naturaleza inestable y de la generación espontánea de la vida, y la Reforma protestante inspiró una lectura literal de la Biblia que chocaba con la nueva ciencia. Época y lugar: Reino Unido, época victoriana, el reinado de Victoria (20-6-1837 a 22-1-1901), que siguió a la época georgiana (1714-1837).",
     "fuentes": [
      {
       "titulo": "National Library of Medicine (NIH): Darwin's life",
@@ -29519,6 +29534,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): El origen de las especies",
       "url": "https://es.wikipedia.org/wiki/El_origen_de_las_especies",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Época victoriana",
+      "url": "https://es.wikipedia.org/wiki/%C3%89poca_victoriana",
       "consultado": "2026-11-24"
      }
     ]
@@ -31050,7 +31070,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el positivismo sostiene que el conocimiento genuino se limita a lo real, perceptible por los sentidos y verificable, o a lo verdadero por definición (lógica y matemáticas). Se presenta como alternativa tanto al empirismo como al racionalismo y, en el siglo XIX, se opuso a las visiones escolásticas y metafísicas. Comte expuso el positivismo en los seis volúmenes del «Curso de filosofía positiva» (1830–1842): el conocimiento pasa por tres estados (teológico, metafísico y positivo) y debe basarse en hechos observables. Es un texto fundador de la sociología. Contexto: Auguste Comte expuso el positivismo en el «Curso de filosofía positiva» (1830-1842), seguido en 1844 por «Una visión general del positivismo». Los tres primeros volúmenes del Curso trataban de las ciencias físicas ya existentes y los dos últimos anunciaban el advenimiento de las ciencias sociales. Comte propuso una «ley de los tres estados» por la que la sociedad pasa en su búsqueda de la verdad.",
+    "resumen": "Qué es: el positivismo sostiene que el conocimiento genuino se limita a lo real, perceptible por los sentidos y verificable, o a lo verdadero por definición (lógica y matemáticas). Se presenta como alternativa tanto al empirismo como al racionalismo y, en el siglo XIX, se opuso a las visiones escolásticas y metafísicas. Comte expuso el positivismo en los seis volúmenes del «Curso de filosofía positiva» (1830–1842): el conocimiento pasa por tres estados (teológico, metafísico y positivo) y debe basarse en hechos observables. Es un texto fundador de la sociología. Contexto: Auguste Comte expuso el positivismo en el «Curso de filosofía positiva» (1830-1842), seguido en 1844 por «Una visión general del positivismo». Los tres primeros volúmenes del Curso trataban de las ciencias físicas ya existentes y los dos últimos anunciaban el advenimiento de las ciencias sociales. Comte propuso una «ley de los tres estados» por la que la sociedad pasa en su búsqueda de la verdad. Época y lugar: Francia, durante la Monarquía de Julio (1830-1848), entre la Revolución de 1830 y la de 1848; el «Curso de filosofía positiva» se publicó entre 1830 y 1842.",
     "fuentes": [
      {
       "titulo": "Britannica: The Positive Philosophy of Auguste Comte",
@@ -31060,6 +31080,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Positivismo",
       "url": "https://es.wikipedia.org/wiki/Positivismo",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Monarquía de Julio",
+      "url": "https://es.wikipedia.org/wiki/Monarqu%C3%ADa_de_Julio",
       "consultado": "2026-11-24"
      }
     ]
@@ -31101,7 +31126,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: los postulados de Koch (o de Henle-Koch) son una lista de requisitos muy estrictos, formulada por Robert Koch en 1884 para establecer la causa de la tuberculosis y redefinida por él en 1890, para validar la relación entre un microorganismo y una enfermedad. Se aplicaron a otras enfermedades y se modificaron a lo largo del siglo XX según el conocimiento. Los criterios para establecer que un microbio causa una enfermedad se asocian a Robert Koch. Según una revisión histórica, Friedrich Loeffler los fijó por escrito en 1884 y Koch no los llamó «postulados»; Koch publicó su versión en 1890. Hoy se usan como guía histórica, con límites conocidos (virus, portadores sanos), no como regla estricta. Contexto: Koch los formuló a partir de sus experimentos con Bacillus anthracis (carbunco). Inyectó sangre de un ratón enfermo en uno sano y repitió el paso una veintena de veces; luego cultivó la bacteria en caldos nutritivos y comprobó que, tras muchas transferencias, seguía causando la enfermedad. Se aplicaron al carbunco y luego se generalizaron a otras enfermedades infecciosas.",
+    "resumen": "Qué es: los postulados de Koch (o de Henle-Koch) son una lista de requisitos muy estrictos, formulada por Robert Koch en 1884 para establecer la causa de la tuberculosis y redefinida por él en 1890, para validar la relación entre un microorganismo y una enfermedad. Se aplicaron a otras enfermedades y se modificaron a lo largo del siglo XX según el conocimiento. Los criterios para establecer que un microbio causa una enfermedad se asocian a Robert Koch. Según una revisión histórica, Friedrich Loeffler los fijó por escrito en 1884 y Koch no los llamó «postulados»; Koch publicó su versión en 1890. Hoy se usan como guía histórica, con límites conocidos (virus, portadores sanos), no como regla estricta. Contexto: Koch los formuló a partir de sus experimentos con Bacillus anthracis (carbunco). Inyectó sangre de un ratón enfermo en uno sano y repitió el paso una veintena de veces; luego cultivó la bacteria en caldos nutritivos y comprobó que, tras muchas transferencias, seguía causando la enfermedad. Se aplicaron al carbunco y luego se generalizaron a otras enfermedades infecciosas. Época y lugar: Imperio alemán (1871-1918), nacido de la unificación dirigida por Bismarck con Guillermo I como emperador.",
     "fuentes": [
      {
       "titulo": "Britannica: Koch's postulates",
@@ -31121,6 +31146,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Postulados de Koch",
       "url": "https://es.wikipedia.org/wiki/Postulados_de_Koch",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio alemán",
+      "url": "https://es.wikipedia.org/wiki/Imperio_alem%C3%A1n",
       "consultado": "2026-11-24"
      }
     ]
@@ -31631,7 +31661,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la prueba Trinity fue la primera explosión de un arma nuclear hecha por el ser humano. La realizó Estados Unidos el 16 de julio de 1945, durante la Segunda Guerra Mundial, con una bomba de plutonio como la que se lanzó después sobre Nagasaki. La fisión nuclear la habían explicado antes Lise Meitner y Otto Robert Frisch. El 16-7-1945, en Alamogordo (Nuevo México), EE. UU. detonó la primera bomba atómica dentro del Proyecto Manhattan. Que fuera un rito para canalizar entidades es una interpretación de ocultistas posteriores (Kenneth Grant), no un hecho.",
+    "resumen": "Qué es: la prueba Trinity fue la primera explosión de un arma nuclear hecha por el ser humano. La realizó Estados Unidos el 16 de julio de 1945, durante la Segunda Guerra Mundial, con una bomba de plutonio como la que se lanzó después sobre Nagasaki. La fisión nuclear la habían explicado antes Lise Meitner y Otto Robert Frisch. El 16-7-1945, en Alamogordo (Nuevo México), EE. UU. detonó la primera bomba atómica dentro del Proyecto Manhattan. Que fuera un rito para canalizar entidades es una interpretación de ocultistas posteriores (Kenneth Grant), no un hecho. Época y lugar: Estados Unidos, durante la Segunda Guerra Mundial, dentro del Proyecto Manhattan (1942-1946), dirigido por el mayor general Leslie Groves, con Robert Oppenheimer como director del Laboratorio de Los Álamos.",
     "fuentes": [
      {
       "titulo": "Britannica: Trinity test",
@@ -31646,6 +31676,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Prueba Trinity",
       "url": "https://es.wikipedia.org/wiki/Prueba_Trinity",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Proyecto Manhattan",
+      "url": "https://es.wikipedia.org/wiki/Proyecto_Manhattan",
       "consultado": "2026-11-24"
      }
     ]
@@ -32976,7 +33011,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: Nature es una de las revistas científicas más prestigiosas del mundo. La fundó el astrónomo británico Joseph Norman Lockyer y su primer número se publicó el 4 de noviembre de 1869. Revista científica semanal fundada por el astrónomo Norman Lockyer y el editor Alexander Macmillan; su primer número salió el 4-11-1869. Nació como foro divulgativo para un público amplio. Miembros del X Club la apoyaron, aunque Lockyer no dejó que el círculo de Darwin dominara sus debates. Nature se fundó el 4-11-1869 por Norman Lockyer y la editorial Macmillan; no se ha hallado propiedad de los Rothschild. Contexto: la editorial publica también otras revistas con el nombre Nature, como Nature Neuroscience o Nature Methods. Según Wikipedia, su factor de impacto era de 49,962 en 2022, y rechaza en torno al 95 % de los artículos que recibe para revisión por pares. Para la mayoría de los científicos, publicar en ella es una marca de prestigio.",
+    "resumen": "Qué es: Nature es una de las revistas científicas más prestigiosas del mundo. La fundó el astrónomo británico Joseph Norman Lockyer y su primer número se publicó el 4 de noviembre de 1869. Revista científica semanal fundada por el astrónomo Norman Lockyer y el editor Alexander Macmillan; su primer número salió el 4-11-1869. Nació como foro divulgativo para un público amplio. Miembros del X Club la apoyaron, aunque Lockyer no dejó que el círculo de Darwin dominara sus debates. Nature se fundó el 4-11-1869 por Norman Lockyer y la editorial Macmillan; no se ha hallado propiedad de los Rothschild. Contexto: la editorial publica también otras revistas con el nombre Nature, como Nature Neuroscience o Nature Methods. Según Wikipedia, su factor de impacto era de 49,962 en 2022, y rechaza en torno al 95 % de los artículos que recibe para revisión por pares. Para la mayoría de los científicos, publicar en ella es una marca de prestigio. Época y lugar: Reino Unido, época victoriana, el reinado de Victoria (20-6-1837 a 22-1-1901), que siguió a la época georgiana (1714-1837).",
     "fuentes": [
      {
       "titulo": "Nature (1939): «On November 4, 1869…»",
@@ -32996,6 +33031,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Nature",
       "url": "https://es.wikipedia.org/wiki/Nature",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Época victoriana",
+      "url": "https://es.wikipedia.org/wiki/%C3%89poca_victoriana",
       "consultado": "2026-11-24"
      }
     ]
@@ -36420,7 +36460,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la teoría celular se formuló por primera vez a mediados del siglo XIX y dice que los organismos vivos están formados por células, unidad estructural básica de todos ellos, y que todas las células proceden de células preexistentes. Sus tres principios: todos los organismos se componen de una o más células; la célula es la unidad básica de estructura y organización; y las células surgen de células preexistentes. Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen. Contexto: según Wikipedia, a comienzos del siglo XVII Marcello Malpighi investigó la organización de las plantas y describió pequeñas estructuras que luego se llamaron «cellulae», por la propuesta de Hooke. Se discutió si la célula era un ser real o una cavidad; después se estableció que lo observado era la pared celular y que la célula era completa y compleja.",
+    "resumen": "Qué es: la teoría celular se formuló por primera vez a mediados del siglo XIX y dice que los organismos vivos están formados por células, unidad estructural básica de todos ellos, y que todas las células proceden de células preexistentes. Sus tres principios: todos los organismos se componen de una o más células; la célula es la unidad básica de estructura y organización; y las células surgen de células preexistentes. Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen. Contexto: según Wikipedia, a comienzos del siglo XVII Marcello Malpighi investigó la organización de las plantas y describió pequeñas estructuras que luego se llamaron «cellulae», por la propuesta de Hooke. Se discutió si la célula era un ser real o una cavidad; después se estableció que lo observado era la pared celular y que la célula era completa y compleja. Época y lugar: los Estados alemanes de la Confederación Germánica (1815-1866), bajo la presidencia de Austria, donde trabajaron Schleiden, Schwann y Virchow.",
     "fuentes": [
      {
       "titulo": "Spektrum, Lexikon der Biologie: Zelltheorie",
@@ -36440,6 +36480,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Teoría celular",
       "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_celular",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Confederación Germánica",
+      "url": "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Germ%C3%A1nica",
       "consultado": "2026-11-24"
      }
     ]
@@ -37467,7 +37512,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: el Tratado de Tordesillas es un acuerdo firmado el 7 de junio de 1494 en Tordesillas (Castilla) entre los Reyes Católicos, Isabel y Fernando, y el rey Juan II de Portugal. Repartió las zonas de navegación y conquista del Atlántico y del Nuevo Mundo mediante una línea a 370 leguas (unos 2.062 km) al oeste de las islas de Cabo Verde: lo situado al oeste sería de Castilla y lo del este, de Portugal. Garantizaba a Portugal su ruta del cabo de Buena Esperanza y a Castilla las Antillas recién descubiertas. Sustituyó al Tratado de Alcáçovas de 1479 y la UNESCO lo declaró Memoria del Mundo en 2007. Sobre la fecha del autor: 1679 no figura en ninguna fuente de historia convencional. Está 185 años desplazada respecto a la oficial (1494). Es la datación de la «Nueva Cronología» que usa el autor, que no acepta la historiografía académica; sus fechas entre paréntesis salen de desplazar 185 años o un múltiplo (por eso 1687 y 1689 son 370 años más que 1317 y 1319). Sobre las órdenes: son unos 175 años anteriores al tratado, así que no pueden surgir de él. Montesa la fundó Jaime II de Aragón en 1317. La de Cristo se creó en Portugal en 1319, con la aprobación del papa Juan XXII, para recibir los bienes del Temple (suprimido en 1314); se considera su sucesora, aunque quedó ligada a la Corona portuguesa y abandonó la regla templaria. La Espuela de Oro y la Constantiniana de San Jorge dicen remontarse a Constantino, origen que la propia Wikipedia llama leyenda; la Constantiniana fue reconocida por el papa Julio III en 1550. Que sean «herederas imperiales» del Temple, o que la Espuela de Oro «refleje» a la Constantiniana, es una interpretación del autor y no consta en estas fuentes.",
+    "resumen": "Qué es: el Tratado de Tordesillas es un acuerdo firmado el 7 de junio de 1494 en Tordesillas (Castilla) entre los Reyes Católicos, Isabel y Fernando, y el rey Juan II de Portugal. Repartió las zonas de navegación y conquista del Atlántico y del Nuevo Mundo mediante una línea a 370 leguas (unos 2.062 km) al oeste de las islas de Cabo Verde: lo situado al oeste sería de Castilla y lo del este, de Portugal. Garantizaba a Portugal su ruta del cabo de Buena Esperanza y a Castilla las Antillas recién descubiertas. Sustituyó al Tratado de Alcáçovas de 1479 y la UNESCO lo declaró Memoria del Mundo en 2007. Sobre la fecha del autor: 1679 no figura en ninguna fuente de historia convencional. Está 185 años desplazada respecto a la oficial (1494). Es la datación de la «Nueva Cronología» que usa el autor, que no acepta la historiografía académica; sus fechas entre paréntesis salen de desplazar 185 años o un múltiplo (por eso 1687 y 1689 son 370 años más que 1317 y 1319). Sobre las órdenes: son unos 175 años anteriores al tratado, así que no pueden surgir de él. Montesa la fundó Jaime II de Aragón en 1317. La de Cristo se creó en Portugal en 1319, con la aprobación del papa Juan XXII, para recibir los bienes del Temple (suprimido en 1314); se considera su sucesora, aunque quedó ligada a la Corona portuguesa y abandonó la regla templaria. La Espuela de Oro y la Constantiniana de San Jorge dicen remontarse a Constantino, origen que la propia Wikipedia llama leyenda; la Constantiniana fue reconocida por el papa Julio III en 1550. Que sean «herederas imperiales» del Temple, o que la Espuela de Oro «refleje» a la Constantiniana, es una interpretación del autor y no consta en estas fuentes. Época y lugar: Castilla, Aragón y Portugal, en la Era de los Descubrimientos (principios del siglo XV a principios del XVII); en Castilla y Aragón reinaban Isabel (desde 1474) y Fernando, los Reyes Católicos, y en Portugal Juan II.",
     "fuentes": [
      {
       "titulo": "New World Encyclopedia: Treaty of Tordesillas",
@@ -37502,6 +37547,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Tratado de Tordesillas",
       "url": "https://es.wikipedia.org/wiki/Tratado_de_Tordesillas",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Reyes Católicos",
+      "url": "https://es.wikipedia.org/wiki/Reyes_Cat%C3%B3licos",
       "consultado": "2026-11-24"
      }
     ]
@@ -40404,7 +40454,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el X Club fue un círculo social de nueve hombres que apoyaban las teorías de la selección natural y el liberalismo académico en la Inglaterra victoriana. Thomas Henry Huxley lo inició y convocó el primer encuentro el 3 de noviembre de 1864. Se reunía en Londres una vez al mes, salvo julio, agosto y septiembre, de noviembre de 1864 a marzo de 1893, y se cree que sus miembros influyeron mucho en el pensamiento científico. Club científico de cena fundado en Londres en noviembre de 1864 por nueve miembros: Hooker, Huxley, Tyndall, Lubbock, Spottiswoode, Frankland, Busk, Hirst y Spencer. Defendieron a Darwin, pero Darwin no fue miembro. Promovieron la revista Nature. Malthus había muerto en 1834, treinta años antes.",
+    "resumen": "Qué es: el X Club fue un círculo social de nueve hombres que apoyaban las teorías de la selección natural y el liberalismo académico en la Inglaterra victoriana. Thomas Henry Huxley lo inició y convocó el primer encuentro el 3 de noviembre de 1864. Se reunía en Londres una vez al mes, salvo julio, agosto y septiembre, de noviembre de 1864 a marzo de 1893, y se cree que sus miembros influyeron mucho en el pensamiento científico. Club científico de cena fundado en Londres en noviembre de 1864 por nueve miembros: Hooker, Huxley, Tyndall, Lubbock, Spottiswoode, Frankland, Busk, Hirst y Spencer. Defendieron a Darwin, pero Darwin no fue miembro. Promovieron la revista Nature. Malthus había muerto en 1834, treinta años antes. Época y lugar: Reino Unido, época victoriana, el reinado de Victoria (20-6-1837 a 22-1-1901), que siguió a la época georgiana (1714-1837).",
     "fuentes": [
      {
       "titulo": "Britannica: X Club",
@@ -40419,6 +40469,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): X Club",
       "url": "https://es.wikipedia.org/wiki/X_Club",
+      "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Época victoriana",
+      "url": "https://es.wikipedia.org/wiki/%C3%89poca_victoriana",
       "consultado": "2026-11-24"
      }
     ]
