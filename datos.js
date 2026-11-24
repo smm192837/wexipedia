@@ -52670,6 +52670,47 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "joseph-de-la-vega",
+   "tipo": "persona",
+   "titulo": "Joseph de la Vega",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1650,
+    "hasta": 1692,
+    "aprox": true,
+    "margen": 2,
+    "texto": "hacia 1650 – 13 de noviembre de 1692",
+    "fuente": "oficial"
+   },
+   "resumen": "Mercader y escritor sefardí (José Penso de la Vega), autor de «Confusión de Confusiones» (1688), el primer estudio de la Bolsa de Ámsterdam.",
+   "segun": [],
+   "oficial": {
+    "resumen": "José o Joseph Penso de la Vega fue un mercader y escritor judío sefardí que vivió en varias ciudades de Europa occidental y murió en Ámsterdam el 13 de noviembre de 1692. Nació hacia 1650 en una familia de judíos hispano-portugueses; se ignora su lugar de nacimiento (se barajan Córdoba y Ámsterdam). Su padre, converso de Espejo (Córdoba), volvió abiertamente al judaísmo tras salir de las cárceles de la Inquisición. Comerció con diamantes y finanzas y escribió filosofía moral y poesía, pero es conocido por «Confusión de Confusiones» (1688), escrita en español, que describe la Bolsa de Ámsterdam y a sus accionistas: opciones, operaciones a plazo, compras con margen y maniobras alcistas y bajistas. Se considera el primer estudio sobre ese mercado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Joseph de la Vega",
+      "url": "https://en.wikipedia.org/wiki/Joseph_de_la_Vega",
+      "consultado": "2026-11-24"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "east-india-company-1600",
+     "nota": "Las acciones de la Compañía de las Indias Orientales holandesa eran el centro de la Bolsa que describe; la ficha es de la compañía inglesa, de la misma época."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "Mismo lugar y época: la plaza financiera de Ámsterdam."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "vista": "politica"
+  },
+  {
    "id": "joseph-goebbels",
    "tipo": "persona",
    "titulo": "Joseph Goebbels",
