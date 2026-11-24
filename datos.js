@@ -2206,7 +2206,7 @@ window.CRONO = {
     "desde": 1969,
     "fuente": "oficial"
    },
-   "resumen": "La red de la agencia ARPA (luego DARPA).",
+   "resumen": "ARPANET fue la red de ordenadores creada por encargo del Departamento de Defensa de EE. UU. para comunicar instituciones académicas y estatales; fue la base de internet.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -2218,7 +2218,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "ARPANET la creó ARPA (hoy DARPA), agencia del Departamento de Defensa de EE. UU. fundada en 1958; el primer mensaje se envió el 29 de octubre de 1969 entre UCLA y el Instituto de Investigación de Stanford. No hay vínculo documentado con la familia Bush.",
+    "resumen": "Qué es: ARPANET (Advanced Research Projects Agency Network) fue una red de computadoras creada por encargo del Departamento de Defensa de EE. UU. para comunicar instituciones académicas y estatales. Su primer nodo estuvo en UCLA y fue la espina dorsal de internet hasta que se desmanteló, el 28-2-1990, tras la transición a los protocolos TCP/IP que empezó en 1983. ARPANET la creó ARPA (hoy DARPA), agencia del Departamento de Defensa de EE. UU. fundada en 1958; el primer mensaje se envió el 29 de octubre de 1969 entre UCLA y el Instituto de Investigación de Stanford. No hay vínculo documentado con la familia Bush.",
     "fuentes": [
      {
       "titulo": "El Derecho: 50 años de la primera conexión de ARPANET",
@@ -7581,7 +7581,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "un siglo y pico después de Chladni",
-   "resumen": "Hans Jenny estudia las formas que crea el sonido y lo llama cimática.",
+   "resumen": "La cimática estudia los patrones que forma la vibración o el sonido en polvos, pastas o líquidos; el nombre lo puso el médico suizo Hans Jenny.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -7601,12 +7601,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hans Jenny, médico y científico suizo, estudió cómo el sonido forma patrones en polvos y líquidos con un oscilador, y llamó cimática a este campo. Su obra «Kymatik» es de 1967. Los patrones se explican con la física clásica de las ondas; la lectura como «geometría sagrada» generadora de materia es del autor.",
+    "resumen": "Qué es: en los experimentos de cimática se hace vibrar una placa, diafragma o membrana cubierta por una capa fina de partículas, pasta o líquido; aparecen zonas de máximo y mínimo desplazamiento, con patrones que cambian según la geometría de la placa y la frecuencia. Hans Jenny (1904-1972) llamó cimática (del griego kyma, «ola») a este campo. Hans Jenny, médico y científico suizo, estudió cómo el sonido forma patrones en polvos y líquidos con un oscilador, y llamó cimática a este campo. Su obra «Kymatik» es de 1967. Los patrones se explican con la física clásica de las ondas; la lectura como «geometría sagrada» generadora de materia es del autor.",
     "fuentes": [
      {
       "titulo": "Cymatics (Wikipedia, resultado de búsqueda)",
       "url": "https://www.wikipedia.com/wiki/Cymatics",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Cimática",
+      "url": "https://es.wikipedia.org/wiki/Cim%C3%A1tica",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -13218,7 +13223,7 @@ window.CRONO = {
     "desde": 1948,
     "fuente": "oficial"
    },
-   "resumen": "Dos placas metálicas muy próximas en el vacío se atraen.",
+   "resumen": "Fuerza de atracción que aparece entre dos placas metálicas muy próximas en el vacío, sin carga ni gravedad: la física la atribuye al vacío cuántico.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -13241,7 +13246,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fuerza de atracción entre dos placas metálicas sin carga, muy próximas en el vacío. La predijo Hendrik Casimir en 1948; Lamoreaux la midió en 1997 con un error de menos del 5 %. La física la explica con la energía del punto cero del campo electromagnético cuantizado, sin éter.",
+    "resumen": "Qué es: dos objetos metálicos muy próximos en el vacío se atraen con una fuerza medible que no es gravitatoria. La teoría cuántica de campos la explica porque entre las placas solo caben ciertas vibraciones del vacío cuántico y fuera caben más; ese desequilibrio crea una presión que las junta. Fuerza de atracción entre dos placas metálicas sin carga, muy próximas en el vacío. La predijo Hendrik Casimir en 1948; Lamoreaux la midió en 1997 con un error de menos del 5 %. La física la explica con la energía del punto cero del campo electromagnético cuantizado, sin éter.",
     "fuentes": [
      {
       "titulo": "Physics World: Physicists solve Casimir conundrum",
@@ -13252,6 +13257,11 @@ window.CRONO = {
       "titulo": "Physics Today (2021): Science and technology of the Casimir effect",
       "url": "https://physicstoday.aip.org/features/science-and-technology-of-the-casimir-effect",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Efecto Casimir",
+      "url": "https://es.wikipedia.org/wiki/Efecto_Casimir",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -19480,7 +19490,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "No da fecha",
-   "resumen": "Hallazgo de fósiles de Homo erectus en Zhoukoudian; Guerra lo llama engaño de Chardin.",
+   "resumen": "El hombre de Pekín (Homo erectus pekinensis) es una subespecie de Homo erectus hallada en Zhoukoudian, cerca de Pekín; Guerra lo llama engaño de Chardin.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -19492,7 +19502,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El hombre de Pekín (Homo erectus pekinensis) es un hallazgo auténtico de Zhoukoudian: el primer cráneo se halló en 1929 y Teilhard de Chardin participó en las excavaciones. Los fósiles originales se perdieron en 1941-45; se conservan moldes.",
+    "resumen": "Qué es: subespecie de Homo erectus propia de China, de entre 780.000 y 230.000 años (Pleistoceno medio). Sus restos aparecieron en una cueva de Zhoukoudian, al suroeste de Pekín, entre 1921 y 1937, y en su día se consideró el primer «eslabón perdido». Los restos se perdieron en 1941, durante la guerra sino-japonesa, y hoy se conservan réplicas, fotografías y descripciones. El hombre de Pekín (Homo erectus pekinensis) es un hallazgo auténtico de Zhoukoudian: el primer cráneo se halló en 1929 y Teilhard de Chardin participó en las excavaciones. Los fósiles originales se perdieron en 1941-45; se conservan moldes.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Peking Man",
@@ -19503,6 +19513,11 @@ window.CRONO = {
       "titulo": "Britannica: Peking man",
       "url": "https://www.britannica.com/topic/Peking-man",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Homo erectus pekinensis",
+      "url": "https://es.wikipedia.org/wiki/Hombre_de_Pek%C3%ADn",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -19527,7 +19542,7 @@ window.CRONO = {
     "desde": 1796,
     "fuente": "oficial"
    },
-   "resumen": "Sistema terapéutico de Hahnemann basado en «lo similar cura lo similar» y en diluciones extremas.",
+   "resumen": "Sistema de medicina alternativa creado por Samuel Hahnemann en 1796 que defiende que «lo similar cura lo similar» y usa diluciones extremas; los estudios no muestran que funcione.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -19574,7 +19589,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Samuel Hahnemann (1755–1843) expuso sus principios en 1796. En 2015 el NHMRC de Australia revisó 57 revisiones sistemáticas (176 estudios) y concluyó que no hay ninguna enfermedad para la que haya pruebas fiables de que la homeopatía funcione; lo mismo dijo la Cámara de los Comunes británica en 2010.",
+    "resumen": "Qué es: sistema de medicina alternativa creado en 1796 por Samuel Hahnemann, basado en que una sustancia que causa los síntomas de una enfermedad en personas sanas curaría lo similar en personas enfermas. Los preparados se hacen por diluciones sucesivas en alcohol o agua. Wikipedia la considera una pseudociencia: los estudios a gran escala no la hallan más eficaz que un placebo. Samuel Hahnemann (1755–1843) expuso sus principios en 1796. En 2015 el NHMRC de Australia revisó 57 revisiones sistemáticas (176 estudios) y concluyó que no hay ninguna enfermedad para la que haya pruebas fiables de que la homeopatía funcione; lo mismo dijo la Cámara de los Comunes británica en 2010.",
     "fuentes": [
      {
       "titulo": "NHMRC: Evidence on the effectiveness of homeopathy (2015)",
@@ -19585,6 +19600,11 @@ window.CRONO = {
       "titulo": "BMJ blog, P. Glasziou: Still no evidence for homeopathy",
       "url": "https://blogs.bmj.com/bmj/2016/02/16/paul-glasziou-still-no-evidence-for-homeopathy/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Homeopatía",
+      "url": "https://es.wikipedia.org/wiki/Homeopat%C3%ADa",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -22003,7 +22023,7 @@ window.CRONO = {
     "texto": "hace más de 2.500 años"
    },
    "fecha_autor": "hace más de 2.500 años",
-   "resumen": "Texto ético de los médicos que el autor critica por invocar a dioses paganos.",
+   "resumen": "Compromiso ético de los médicos atribuido a Hipócrates, que invoca a dioses griegos y que el autor critica por eso.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -22015,12 +22035,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El juramento hipocrático es un código ético atribuido a Hipócrates, de hacia 400 a.C., y recoge la invocación a Apolo y Asclepio. Se discute si lo escribió Hipócrates o una escuela posterior. Hoy se juran fórmulas modernizadas, que no son el texto original.",
+    "resumen": "Qué es: compromiso ético del ámbito de la medicina que orienta al médico en su profesión. En su forma original regula las obligaciones hacia el maestro y su familia, los discípulos, los colegas y los pacientes. Desde el siglo XIX se generalizó jurar un texto modernizado, distinto según el tiempo y el lugar. El juramento hipocrático es un código ético atribuido a Hipócrates, de hacia 400 a.C., y recoge la invocación a Apolo y Asclepio. Se discute si lo escribió Hipócrates o una escuela posterior. Hoy se juran fórmulas modernizadas, que no son el texto original.",
     "fuentes": [
      {
       "titulo": "Britannica: Hippocratic oath",
       "url": "https://www.britannica.com/topic/Hippocratic-oath",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Juramento hipocrático",
+      "url": "https://es.wikipedia.org/wiki/Juramento_hipocr%C3%A1tico",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -30875,7 +30900,7 @@ window.CRONO = {
     "hasta": 1842,
     "fuente": "oficial"
    },
-   "resumen": "Solo vale el conocimiento basado en hechos observables.",
+   "resumen": "Corriente filosófica según la cual solo es conocimiento válido el que se apoya en hechos observables; la formuló Auguste Comte a partir de 1830.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -30887,12 +30912,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Comte expuso el positivismo en los seis volúmenes del «Curso de filosofía positiva» (1830–1842): el conocimiento pasa por tres estados (teológico, metafísico y positivo) y debe basarse en hechos observables. Es un texto fundador de la sociología.",
+    "resumen": "Qué es: el positivismo sostiene que el conocimiento genuino se limita a lo real, perceptible por los sentidos y verificable, o a lo verdadero por definición (lógica y matemáticas). Se presenta como alternativa tanto al empirismo como al racionalismo y, en el siglo XIX, se opuso a las visiones escolásticas y metafísicas. Comte expuso el positivismo en los seis volúmenes del «Curso de filosofía positiva» (1830–1842): el conocimiento pasa por tres estados (teológico, metafísico y positivo) y debe basarse en hechos observables. Es un texto fundador de la sociología.",
     "fuentes": [
      {
       "titulo": "Britannica: The Positive Philosophy of Auguste Comte",
       "url": "https://www.britannica.com/topic/The-Positive-Philosophy-of-Auguste-Comte",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Positivismo",
+      "url": "https://es.wikipedia.org/wiki/Positivismo",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -33412,7 +33442,7 @@ window.CRONO = {
     "desde": 1660,
     "fuente": "oficial"
    },
-   "resumen": "Academia científica británica.",
+   "resumen": "Sociedad científica británica, la más antigua del Reino Unido, fundada en Londres en 1660 y con carta real desde 1662.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -33448,7 +33478,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fundada en Londres en 1660 y con carta real desde 1662, se inspiró en el programa de Bacon. Francesco Zorzi (Giorgi), fraile veneciano muerto en 1540, influyó en el hermetismo inglés del siglo XVI según la historiadora Frances Yates; su vínculo con la Royal Society es una interpretación, no un hecho documentado.",
+    "resumen": "Qué es: la Royal Society (Real Sociedad de Londres para el Avance de la Ciencia Natural) es la sociedad científica más antigua del Reino Unido y, según la Enciclopedia Británica, la sociedad científica nacional más antigua del mundo. Es una institución privada e independiente que hace las veces de academia nacional de ciencias. Aunque se suele fechar su fundación en 1662, antes ya existía un grupo de científicos que se reunía con cierta periodicidad. Fundada en Londres en 1660 y con carta real desde 1662, se inspiró en el programa de Bacon. Francesco Zorzi (Giorgi), fraile veneciano muerto en 1540, influyó en el hermetismo inglés del siglo XVI según la historiadora Frances Yates; su vínculo con la Royal Society es una interpretación, no un hecho documentado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Royal Society",
@@ -65747,7 +65777,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "sin fecha",
-   "resumen": "El autor dice que de las reacciones del ciclo de Krebs solo tres están confirmadas y que el balance de ATP no cuadra.",
+   "resumen": "El ciclo de Krebs es la ruta de reacciones químicas con la que las células obtienen energía del alimento; el autor dice que solo tres de sus reacciones están confirmadas y que el balance de ATP no cuadra.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -65760,7 +65790,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hans Krebs describió el ciclo en 1937 y recibió el Nobel de Medicina en 1953; todas sus reacciones y enzimas están caracterizadas. El rendimiento de ATP por glucosa se estima hoy en unos 30–32.",
+    "resumen": "Qué es: el ciclo de Krebs (ciclo del ácido cítrico) es una ruta metabólica, una sucesión de reacciones químicas que forma parte de la respiración celular de las células aerobias. Oxida el acetil-CoA procedente de glúcidos, lípidos y proteínas hasta dióxido de carbono y libera energía química en forma de ATP, y en las células eucariotas ocurre en la matriz de la mitocondria. Hans Krebs describió el ciclo en 1937 y recibió el Nobel de Medicina en 1953; todas sus reacciones y enzimas están caracterizadas. El rendimiento de ATP por glucosa se estima hoy en unos 30–32.",
     "fuentes": [
      {
       "titulo": "New World Encyclopedia: Krebs cycle",
@@ -65771,6 +65801,11 @@ window.CRONO = {
       "titulo": "Krebs cycle (resumen de rendimiento)",
       "url": "https://gauravtiwari.org/krebs-cycle/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (es): Ciclo de Krebs",
+      "url": "https://es.wikipedia.org/wiki/Ciclo_de_Krebs",
+      "consultado": "2026-11-24"
      }
     ]
    },
@@ -67532,7 +67567,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "sin fecha",
-   "resumen": "El autor toma la fijación de nitrógeno por bacterias, frente al gasto del proceso Haber-Bosch, como prueba de una energía del éter, y recuerda el enigma de Béchamp.",
+   "resumen": "La fijación de nitrógeno convierte el nitrógeno del aire en amoniaco, que sirve de fertilizante; la hace la industria (Haber-Bosch) y también ciertas bacterias. El autor lo toma como prueba de una energía del éter.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -67545,7 +67580,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El proceso Haber-Bosch (hacia 1910) consume entre el 1 y el 2 % de la energía mundial; las bacterias fijan nitrógeno con la nitrogenasa, que también requiere mucha energía (16 ATP por molécula de nitrógeno) y se explica por la bioquímica.",
+    "resumen": "Qué es: el nitrógeno es el 78,1 % del aire, pero como molécula (N2) es muy estable y casi inerte; fijarlo es convertirlo en amoniaco, que al oxidarse forma nitritos y nitratos, esenciales para el ácido nítrico y los fertilizantes. El proceso de Haber-Bosch lo logró a escala industrial a comienzos del siglo XX con altas presiones. El proceso Haber-Bosch (hacia 1910) consume entre el 1 y el 2 % de la energía mundial; las bacterias fijan nitrógeno con la nitrogenasa, que también requiere mucha energía (16 ATP por molécula de nitrógeno) y se explica por la bioquímica.",
     "fuentes": [
      {
       "titulo": "Chemistry World: A fixation with nitrogen",
@@ -67556,6 +67591,11 @@ window.CRONO = {
       "titulo": "Threatt y Rees (2022), FEBS Letters",
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10100503/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (es): Proceso de Haber",
+      "url": "https://es.wikipedia.org/wiki/Proceso_de_Haber",
+      "consultado": "2026-11-24"
      }
     ]
    },
