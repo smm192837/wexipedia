@@ -10237,6 +10237,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Antoine Béchamp",
       "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Antoine Béchamp",
+      "url": "https://es.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -10293,6 +10298,38 @@ window.CRONO = {
      "atribuida_a": "Louis Pasteur",
      "verificacion": "sin-comprobar",
      "fuente": "El vídeo la da como un hecho, sin obra ni testigo; no consta en las fuentes consultadas (otra versión de la misma frase, sobre Bernard, ya está registrada arriba)"
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Quién era Béchamp",
+     "nivel": "hecho",
+     "texto": "Pierre Jacques Antoine Béchamp (1816-1908) nació en Bassing, en Lorena, hijo de un molinero, y vivió en Bucarest de los 7 a los 18 años con un tío que trabajaba en la oficina del embajador de Francia. Se formó en la Universidad de Estrasburgo: doctor en ciencias en 1853 y en medicina en 1856, con una farmacia en la ciudad. En 1854 fue nombrado profesor de química en Estrasburgo, una cátedra que antes había ocupado Louis Pasteur (que había nacido en 1822: no eran maestro y alumno, sino colegas; Béchamp dedicó su tesis de 1853 a Pasteur). En 1856 pasó a la Universidad de Montpellier, donde estuvo hasta 1876, y después fue decano de la Facultad Católica de Medicina de Lille. Terminó en París, con un pequeño laboratorio en la Sorbona, y murió a los 91 años.\n\nNo fue un perdedor de la química. Desarrolló la reducción de Béchamp, un método barato de obtener anilina que permitió a William Perkin iniciar la industria de los colorantes sintéticos. Sintetizó el ácido arsenílico, el primer fármaco organoarsenical, de cuya familia salió el Atoxyl y a partir del cual Paul Ehrlich sintetizaría la arsfenamina, el primer medicamento quimioterapéutico. Y se le reconoce el descubrimiento de la zimasa, la mezcla de enzimas de la fermentación alcohólica, que el alemán Buchner logró aislar unos treinta años después."
+    },
+    {
+     "titulo": "Las tres disputas",
+     "nivel": "hecho",
+     "texto": "La rivalidad con Pasteur tuvo tres frentes sucesivos. El primero fue la fermentación: quién atribuyó antes a los microorganismos el origen de la fermentación. El segundo fue la pebrina, una enfermedad del gusano de seda causada por microorganismos que arruinaba la sericultura francesa. Pasteur la estudió de 1865 a 1870 por encargo del Gobierno y a petición de su maestro J.-B. Dumas; Béchamp también trabajó en ella. El tercero, y el de más alcance, fue la validez de la teoría de los gérmenes de la enfermedad.\n\nLa disputa fue amarga en lo personal. En Lille, Béchamp llegó a proponer que las obras de Pasteur entraran en el Índice de libros prohibidos de la Iglesia católica. Se retiró en 1886, metido en la polémica, y el historiador Gerald Geison (1995), que estudió los cuadernos privados de Pasteur, concluyó que Pasteur trató muy mal a Béchamp, pero no que lo plagiara en un sentido significativo. Al morir Béchamp, un breve obituario del British Medical Journal dijo que su nombre estaba asociado a controversias de prioridad cuyo recuerdo no hacía bien a nadie."
+    },
+    {
+     "titulo": "Las ideas de Béchamp: microzimas y pleomorfismo",
+     "nivel": "hecho",
+     "texto": "Béchamp sostenía que las «granulaciones moleculares» halladas en los líquidos biológicos eran las unidades elementales de la vida. Las llamó microzimas, «pequeñas enzimas», y afirmó que producían las enzimas necesarias para construir las células y que, en condiciones favorables, podían evolucionar a bacterias. De ahí salía su posición en dos debates de su tiempo: se oponía al monomorfismo (que cada microbio mantiene siempre su forma y su especie) y defendía el pleomorfismo, la capacidad de algunos microorganismos de cambiar de aspecto según el medio.\n\nTambién negaba que las bacterias invadieran a un animal sano y le causaran la enfermedad. Para él, eran las condiciones desfavorables del ambiente y del huésped las que desestabilizaban las microzimas del propio organismo, que descomponían entonces el tejido y producían bacterias patógenas. Es la idea que se ha resumido como «el terreno» frente al «germen». Afirmaba además que toda materia orgánica protegida de los gérmenes atmosféricos se altera y fermenta por los agentes que lleva dentro.\n\nEsa propuesta, la teoría microzimiana, no ganó aceptación. La teoría celular y la teoría de los gérmenes se impusieron y las teorías granulares fueron perdiendo presencia. Hoy la mantienen pequeños grupos, sobre todo en la medicina alternativa y entre quienes trabajan con microscopía de campo oscuro."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Artur Sala la considera la controversia más importante de la ciencia moderna, porque sobre ella se construyó la medicina. Según él, Pasteur se apropió de los descubrimientos de Béchamp, que trabajaba con su propio dinero mientras Pasteur tenía el apoyo de Napoleón III; Béchamp, dice, respondió siempre con educación. Añade que todo lo que aparece en la lápida de Pasteur lo descubrió Béchamp, aunque también que sin Pasteur no habría existido el paradigma de los antibióticos. Vuelve a ella en su libro 2, «El verdadero origen de la vida», junto a la obra de Reich, y cita el libro de James Strick sobre el debate victoriano de la generación espontánea: según él, los experimentos del cuello de cisne tuvieron trampas y la historia falseó datos para enterrar la teoría contraria. Para Sala, la raíz de los grandes relatos médicos recientes no está en el informe Flexner ni en la posguerra, sino en esta disputa dentro de la ciencia victoriana.\n\nNacho López Cabanas cuenta que Béchamp, con azúcar de caña en recipientes sellados (1854-1857), mostró que el aire llevaba organismos vivos que fermentaban el azúcar, seis años antes que Pasteur, y que con tiza natural halló las microzimas, a las que presenta como la semilla de la vida.\n\nJorge Guerra dice que el trabajo de Béchamp demostró que la enfermedad causa los gérmenes y no al revés, mientras que Pasteur, contemporáneo y antiguo alumno suyo, anunció lo contrario, y que uno quedó olvidado y el otro es el padre de la medicina moderna. Para Guerra la teoría de Pasteur encantó a la industria farmacéutica emergente porque, si los gérmenes son invasores, se pueden vender armas para matarlos; con Béchamp bastaría restablecer el equilibrio y aportar los gérmenes naturales que faltan.\n\nRubén (NDM) presenta a Pasteur como químico y empresario, no médico, que apuntaló una teoría germinal que califica de falsa y se enriqueció patentando productos; recoge la tesis de Béchamp, según la cual la enfermedad vuelve patógenos a los microbios, y dice que Pasteur lo plagió. Afirma también que la industria química financió la teoría microbiana y que se probaron vacunas en niños de orfanatos y en víctimas de guerra.\n\nTodo esto son tesis con su nombre. Entre los hechos que sí constan en la ficha está que Pasteur, a diferencia de lo que dice Guerra, no fue alumno de Béchamp, y que la supuesta «confesión» de Pasteur al morir no figura en las fuentes consultadas."
+    },
+    {
+     "titulo": "El libro que sostiene la acusación de plagio",
+     "nivel": "hecho",
+     "texto": "La acusación de que Pasteur plagió y suprimió el trabajo de Béchamp se apoya sobre todo en el libro de Ethel Douglas Hume «Béchamp o Pasteur: un capítulo perdido en la historia de la biología». Wikipedia en español lo fecha en 1920; la ficha propia del libro da 1923 (con segunda edición en 1932) y recoge que Nature lo reseñó en 1924 como un intento de resucitar las microzimas al servicio de ideas contra las vacunas. Quienes defienden hoy las ideas de Béchamp, incluidos partidarios de teorías alternativas del cáncer, acusan a Pasteur y a la Academia de Ciencias de Francia de plagiar y luego suprimir su obra, y rechazan la teoría de los gérmenes de Pasteur. Es la fuente de casi todo lo que se sabe de la controversia fuera de la academia."
+    },
+    {
+     "titulo": "Qué sigue abierto",
+     "nivel": "hipotesis",
+     "texto": "La medicina actual se basa en la teoría de los gérmenes y la historia académica no recoge un plagio significativo. Pero la pregunta de fondo, qué papel tiene el organismo y qué papel el microbio en la enfermedad, no es una cuestión de quién se adelantó: es la que separa hoy a la teoría de los gérmenes de la teoría del terreno, y la ficha de `teoria-del-terreno` la desarrolla.\n\nDos lecturas de los hechos son compatibles con lo comprobado. En una, Béchamp acertó en cosas concretas, la zimasa y las enzimas, pero se equivocó en que las microzimas fueran el origen de toda la vida. En la otra, se descartó injustamente una línea entera de trabajo. Esta ficha no decide: sigue la regla de seguir el dinero y el poder, que muestra quién financió y apoyó a cada uno (Pasteur con encargos del Gobierno y el respaldo de Napoleón III, según Sala; Béchamp con su dinero), y deja lo demás abierto. Es una hipótesis de Nexus sobre el estado de la cuestión, no un dato."
     }
    ],
    "vista": "ciencia"
@@ -15298,6 +15335,11 @@ window.CRONO = {
       "titulo": "Physics World: The double-slit experiment",
       "url": "https://physicsworld.com/a/the-double-slit-experiment/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Experimento de la doble rendija",
+      "url": "https://es.wikipedia.org/wiki/Experimento_de_la_doble_rendija",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -15313,6 +15355,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Cómo se hace y qué se ve",
+     "nivel": "hecho",
+     "texto": "En la versión básica se ilumina con una luz coherente, por ejemplo un láser, una placa con dos rendijas paralelas y se observa una pantalla detrás. Si la luz fuera solo un chorro de partículas clásicas, aparecerían dos franjas, una frente a cada rendija. Lo que aparece es una serie de bandas brillantes y oscuras: un patrón de interferencia. Las ondas que salen de cada rendija se suman donde llegan en fase (bandas brillantes) y se anulan donde llegan en oposición de fase (bandas oscuras).\n\nLa geometría es sencilla. Con rendijas separadas una distancia d y luz de longitud de onda λ, los máximos aparecen en los ángulos que cumplen d·senθ = nλ, y la separación entre franjas a una distancia z de las rendijas es aproximadamente zλ/d. Con un ejemplo de la fuente: rendijas a 0,5 mm, láser de 0,6 μm y pantalla a 1 m, las franjas quedan a unos 1,2 mm una de otra. Si se tapa una rendija, la figura de interferencia desaparece y queda una sola mancha ancha; con las dos abiertas no se obtiene la suma de las dos manchas, sino franjas."
+    },
+    {
+     "titulo": "De Young a las moléculas gigantes",
+     "nivel": "hecho",
+     "texto": "Thomas Young lo hizo con luz en 1801, en la Royal Society, y lo entendió como la prueba de que la luz es una onda y no un chorro de corpúsculos, como defendía la tradición de Newton frente a la de Hooke y Huygens. En su montaje original un haz estrecho se dividía con una tarjeta de unos 0,2 mm de ancho.\n\nLa historia cambia con la física del siglo XX. En 1927 Davisson y Germer mostraron que los electrones también se comportan como ondas. La doble rendija con electrones, tal como se presenta hoy, la hizo Claus Jönsson en 1961. En 1974 un grupo italiano dirigido por Pier Giorgio Merli lo consiguió electrón a electrón, y en 1989 un equipo japonés de Hitachi, dirigido por Akira Tonomura, lo repitió de forma concluyente. Después vinieron los átomos y las moléculas: el fulereno C60 en 2001, dos moléculas de 430 átomos en 2011 y moléculas de hasta 2000 átomos en 2019 (la mayor masa total citada es de unas 25.000 unidades de masa atómica). En 2018 un grupo de Milán, dirigido por Marco Giammarchi, lo logró con positrones, la antimateria del electrón, con un interferómetro de tipo Talbot-Lau.\n\nCada partícula llega a la pantalla como un punto. El patrón no está en ningún impacto concreto sino en la densidad de impactos que se va acumulando: tras unos pocos puntos parece ruido, tras miles se dibujan las franjas. Esa es la parte que no se puede explicar con la mecánica clásica: dónde cae cada partícula es inherentemente probabilístico."
+    },
+    {
+     "titulo": "Mirar por qué rendija pasa",
+     "nivel": "hecho",
+     "texto": "Si se coloca un detector en las rendijas para saber por cuál pasa cada partícula, cada una se detecta en una sola rendija, como una partícula clásica, y el patrón de franjas desaparece. Es el principio de complementariedad: se puede observar un comportamiento de onda o uno de partícula, pero no los dos a la vez. Como experimento mental ya estaba en los debates de Bohr y Einstein; las realizaciones viables llegaron en la década de 1970, porque detectar un fotón suele destruirlo.\n\nNo es una cuestión de todo o nada. Un experimento de 1987 mostró que se puede obtener información parcial sobre el camino sin destruir la interferencia por completo: cuanto menos se perturba la partícula, más se conserva el patrón, aunque degradado.\n\nEl interferómetro de Mach-Zehnder es la versión reducida de lo mismo: en vez de una pantalla extendida hay solo dos caminos y dos detectores. Con los dos caminos libres, el fotón llega siempre a un detector concreto; si se bloquea un camino, o se detecta que el fotón pasó por él, los dos detectores se activan con probabilidad 1/2. De ahí se concluye que, entre los divisores de haz, el fotón no va por un camino o por el otro: está en una superposición de ambos."
+    },
+    {
+     "titulo": "Elección retardada y borrador cuántico",
+     "nivel": "hecho",
+     "texto": "Los experimentos de elección retardada de Wheeler muestran que se puede decidir si se extrae la información de «qué camino» después de que la partícula haya pasado por las rendijas, y que el resultado parece modificar con efecto retroactivo lo que ocurrió allí. Los experimentos del borrador cuántico muestran que si esa información se borra, o se hace inaccesible de forma permanente, el patrón de interferencia vuelve.\n\nUna versión casera, descrita en Scientific American, usa polarizadores: si se coloca uno delante de cada rendija, con los ejes perpendiculares entre sí, la interferencia desaparece, porque la polarización marca por qué rendija pasó la luz. Un tercer polarizador a 45° delante del detector borra esa marca y las franjas reaparecen. Con luz corriente esto también lo explica la teoría de ondas clásica; con pares de fotones entrelazados ya no hay explicación clásica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Artur Sala sostiene que la dualidad onda-partícula es una interpretación «catastrófica» de este experimento y que con un éter por debajo se explica de forma sencilla, igual que el efecto túnel, como defiende el físico Paco Vinagre. Cita como apoyo unos experimentos de 2014 con bolas de silicona sobre un soporte: según él, el éter, al tocar el soporte, generaría a la vez la onda y la partícula. Dice que esos trabajos, que conoció por Paco Vinagre, le resolvieron la extrañeza de la doble rendija. Añade que el pensamiento afecta a la materia, pero que eso no tiene que ver con la cuántica, y que la «conciencia cuántica» es una idea que atribuye a Deepak Chopra.\n\nEs su lectura, no una conclusión de la física aceptada. Que esos experimentos expliquen el caso cuántico es la parte que esta ficha no da por resuelta. Esta ficha no decide entre las dos: expone la tesis con su nombre y deja al lado la versión oficial."
+    },
+    {
+     "titulo": "Qué se sabe y qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay un acuerdo muy amplio sobre lo que predice la mecánica cuántica y sobre que las medidas lo confirman: franjas con muchas partículas, ninguna con detector en las rendijas, borrado de la información que devuelve las franjas. Feynman dijo que el experimento contiene «el único misterio» de la mecánica cuántica.\n\nLo que no está cerrado es qué significa. La lectura habitual habla de dualidad y de superposición; existe la interpretación de onda piloto de De Broglie y Bohm, minoritaria; y los autores de esta ficha proponen un éter. Desde esta ficha, la posición de Nexus es dejarlo abierto: no hay un experimento que, con la información reunida aquí, decida entre ellas, y se prefiere el «no se sabe» a llenarlo con una teoría, sea la oficial o la de enfrente. Es una hipótesis de Nexus sobre el estado de la cuestión, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -15400,6 +15474,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "El problema: una luz que necesita un medio",
+     "nivel": "hecho",
+     "texto": "En el siglo XIX se razonaba por analogía: las olas necesitan agua y el sonido necesita aire, así que la luz, que es una onda, tendría que viajar por algún medio. Como la luz cruza el vacío, se supuso que el vacío estaba lleno de ese medio, el éter luminífero, con una combinación de propiedades muy inusual: como la luz va tan rápido y los cuerpos materiales lo atravesaban sin rozamiento ni arrastre aparentes, había que pensar en un medio que reuniera las dos cosas. Averiguar sus propiedades era una prioridad de la física de la época.\n\nLa Tierra orbita al Sol a unos 30 km/s. De ahí salían dos hipótesis: que el éter estuviera quieto y la Tierra lo arrastrara solo en parte (Fresnel, 1818) o que la Tierra lo arrastrara por completo (Stokes, 1844). Maxwell (1865) reconoció que la luz es electromagnética, pero sus ecuaciones se seguían leyendo como las de ondas en un éter de estado de movimiento desconocido. Se prefirió la idea de Fresnel de un éter casi estacionario, porque parecía apoyada por el experimento de Fizeau (1851) y por la aberración de la luz de las estrellas.\n\nSi el éter estaba quieto, la Tierra tendría que atravesarlo y debería notarse un «viento de éter» que variaría con la hora del día y la estación. Pero la velocidad de la Tierra es de una centésima del uno por ciento de la de la luz, y no se podía medir la velocidad de la luz con esa precisión (Fizeau y Foucault llegaban quizá al 5 %). Los experimentos de primer orden, proporcionales a v/c, dieron resultados negativos, que el coeficiente de arrastre de Fresnel explicaba. Maxwell señaló en 1878 que solo un aparato capaz de medir efectos de segundo orden, proporcionales a v²/c², tendría esperanza de detectar la deriva del éter."
+    },
+    {
+     "titulo": "El ensayo de 1881 y su error",
+     "nivel": "hecho",
+     "texto": "Michelson tenía la idea del aparato. En 1877, enseñando en la Academia Naval de Annapolis, había hecho sus primeras medidas de la velocidad de la luz en una demostración de clase; en 1881, ya fuera del servicio activo en la marina y estudiando en Alemania, usó un prototipo. Su interferómetro dividía un haz con un espejo semiplateado en dos rayos perpendiculares, los reflejaba al final de dos brazos largos y los volvía a juntar para ver un patrón de franjas. Si la Tierra atravesaba un éter, el rayo paralelo al viento tardaría más en ir y volver que el perpendicular, y el patrón se desplazaría.\n\nEsperaba un desplazamiento de 0,04 franjas y la mayor desviación media que midió fue de 0,018, casi siempre menos. Concluyó que la hipótesis de Fresnel de un éter estacionario había de rechazarse, y por tanto que valía la de Stokes. Pero Alfred Potier, y luego Lorentz, le indicaron que se había equivocado en un cálculo: el desplazamiento esperado era de solo 0,02 franjas. El aparato tenía errores experimentales demasiado grandes para concluir nada sobre el viento de éter. Sirvió para demostrar que el método era viable."
+    },
+    {
+     "titulo": "Cleveland, 1887",
+     "nivel": "hecho",
+     "texto": "En 1885 Michelson, profesor de física en la Escuela Case de Ciencias Aplicadas, empezó a colaborar con Edward Morley, profesor de química en la Universidad de la Reserva Occidental, que compartía campus con Case en Cleveland. Ese septiembre Michelson sufrió una crisis de salud mental, de la que se recuperó en octubre; Morley la atribuyó a su trabajo muy intenso preparando los experimentos. En 1886 confirmaron el coeficiente de arrastre de Fresnel, lo que se tomó como respaldo al éter estacionario y alimentó sus esperanzas.\n\nDespués construyeron una versión mejorada del aparato, con precisión más que suficiente para el efecto esperado. Las observaciones se hicieron en varios periodos concentrados entre abril y julio de 1887, en el sótano del dormitorio Adelbert de la Universidad de la Reserva Occidental. La luz se reflejaba una y otra vez en los brazos hasta recorrer unos 11 metros, con lo que la deriva esperada subía a unas 0,4 franjas. Para aislar el aparato de vibraciones y de cambios térmicos se montó en un sótano con muros de piedra, sobre un gran bloque de arenisca de unos 30,5 cm de espesor y 152,4 cm de lado que flotaba en una cubeta circular de mercurio. Estimaron que serían detectables efectos de unas 0,01 franjas. Para las medidas usaron luz blanca, que da un patrón más fácil de seguir con el ojo; la luz casi monocromática servía solo para colocar el equipo.\n\nResultado: no hallaron una diferencia significativa entre la velocidad de la luz en la dirección del movimiento y la perpendicular. El experimento se publicó en noviembre de 1887."
+    },
+    {
+     "titulo": "Lo que vino después",
+     "nivel": "hecho",
+     "texto": "Se considera la primera evidencia sólida contra las teorías de un éter estacionario, y abrió una línea de trabajo que desembocó en la relatividad especial, que descarta el movimiento respecto de un éter. Einstein dijo que sin ese experimento, que había puesto a los físicos en una situación muy embarazosa, nadie habría visto la relatividad como una salida a medias.\n\nExperimentos de este tipo se han repetido con más sensibilidad: entre 1902 y 1905, en los años 20 y, en 2009, con una cavidad óptica que confirmó la ausencia de viento de éter con una precisión de 10⁻¹⁷. Junto con los ensayos de Ives-Stilwell y de Kennedy-Thorndike, forman uno de los tres tipos de prueba fundamentales de la relatividad especial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Artur Sala sostiene que presentar este experimento como el triunfo que acabó con el éter es rotundamente falso: el debate siguió vivo hasta 1927, y el éter que buscaban Michelson y Morley no era el de la tradición. Para él, junto a la disputa entre Béchamp y Pasteur, es una de las dos controversias clave de la ciencia. Compara las dos jornadas y cuatro horas de medidas de 1887 con las más de 10.000 horas de Dayton Miller.\n\nNacho López Cabanas añade que el experimento descartó solo un éter estático, porque estaba diseñado para detectarlo, y que un éter dinámico seguiría siendo posible. Observa además que de él salió la velocidad de la luz de 300.000 km/s. La versión oficial de la ficha, en cambio, recuerda que esa velocidad ya se conocía por otros métodos antes de 1887 (Fizeau en 1849, Foucault en 1862 y el propio Michelson en 1879).\n\nAmbas son tesis con su nombre. La respuesta de la física a los resultados de Miller está en la ficha de su experimento."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo comprobado es el resultado nulo de 1887 y que cada repetición posterior, con mucha más sensibilidad, ha dado también un resultado nulo. Lo que se discute es qué se descarta con eso. La lectura habitual es que no hace falta ningún éter para explicar la luz; los autores de esta ficha dicen que solo se descarta un tipo de éter, el estático.\n\nLa posición de Nexus es no tomar partido con lo que hay en la ficha: son dos lecturas de un mismo dato, y decidir entre ellas pide separar qué propiedades se atribuyen exactamente al éter «dinámico» y qué medida las pondría a prueba. Es una hipótesis de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {

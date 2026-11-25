@@ -242,6 +242,13 @@ button, input, select { font: inherit; color: inherit; }
 .ficha h2 { margin: 0; font-family: var(--f-lectura); font-weight: 600; font-size: 30px; line-height: 1.12; text-wrap: balance; letter-spacing: -0.01em; }
 .fecha { font-family: var(--f-num); font-size: 13px; color: var(--tenue); margin-top: 6px; }
 .lead { font-family: var(--f-lectura); font-size: 18px; line-height: 1.5; margin: 0; max-width: 62ch; }
+/* «En detalle» (2026-11-25): documentación larga de la ficha, por secciones; cada una con su nivel */
+.detalle { max-width: 72ch; border-top: 2px solid var(--tinta); padding-top: 10px; }
+.detalle h3 { margin: 0 0 8px; font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--tenue); font-weight: 600; }
+.det-sec { margin: 0 0 18px; }
+.det-sec h4 { margin: 0 0 6px; font: 600 15px/1.3 var(--f-ui); }
+.det-sec h4 .pill { margin-left: 8px; font-weight: 500; }
+.det-sec p { margin: 0 0 9px; font-family: var(--f-lectura); font-size: 15.5px; line-height: 1.6; }
 .cols { display: grid; gap: 16px; }
 @container (min-width: 500px) { .cols { grid-template-columns: 1fr 1fr; } }
 .col h3, .bloque h3 { margin: 0 0 8px; font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--tenue); font-weight: 600; }
@@ -802,6 +809,14 @@ function oficialTarjeta(f) {
   const fs = (of.fuentes || []).map(x => x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.titulo)}</a>` : esc(x.titulo)).join(" · ");
   const conFuente = !!(of.fuentes || []).length;
   return `<details class="tj-o${conFuente ? "" : " sinfuente"}"><summary>Versión oficial${conFuente ? " ✓" : " · sin fuente"}</summary><p>${esc(of.resumen)}</p>${fs ? `<span class="tj-of">Fuente: ${fs}</span>` : `<span class="tj-of sin">Pendiente de documentar: no se publica así.</span>`}</details>`;
+}
+// «En detalle» (2026-11-25): secciones largas de la ficha; el texto se parte en párrafos por líneas en blanco.
+// Cada sección dice su nivel: hecho comprobado, tesis de un autor o hipótesis de Nexus / tema abierto.
+const NIVEL_DET = { hecho: "Hecho comprobado", tesis: "Tesis de un autor", hipotesis: "Hipótesis de Nexus / tema abierto" };
+function detalleHTML(f) {
+  const d = f.detalle;
+  if (!Array.isArray(d) || !d.length) return "";
+  return `<section class="detalle"><h3>En detalle</h3>${d.map(s => `<div class="det-sec"><h4>${esc(s.titulo || "")}${NIVEL_DET[s.nivel] ? `<span class="pill">${NIVEL_DET[s.nivel]}</span>` : ""}</h4>${String(s.texto || "").split(/\n\s*\n/).map(p => `<p>${esc(p.trim())}</p>`).join("")}</div>`).join("")}</section>`;
 }
 // Sello de coincidencia (REGLAS §2.5) y aviso de discrepancia (§2.3)
 function coincidencias(f) {
@@ -1839,6 +1854,7 @@ function abrirFicha(f) {
       <button type="button" class="cerrar" id="cerrar">Cerrar</button></div>
     <div><h2>${esc(f.titulo)}</h2><div class="fecha">${esc(fmtFecha(f, persona, f.vivo))}${f.fecha?.margen ? ` (± ${f.fecha.margen} años)` : ""}${f.fecha?.fuente === "oficial" ? " · fecha de la versión oficial" : ""}</div>${f.fecha_autor ? `<div class="fautor">Fecha que da el autor: ${esc(f.fecha_autor)}</div>` : ""}</div>
     <p class="lead">${esc(f.resumen)}</p>
+    ${detalleHTML(f)}
     <div class="cols">
       <section class="col"><h3>Según los autores</h3>${discrepan(f) ? `<div class="discrepa grande">Estos autores discrepan: se muestran todas las versiones, sin elegir ganador.</div><div class="disputa">${segunHTML}</div>` : segunHTML}</section>
       <section class="col"><h3>Versión oficial ${of && of.resumen ? (ofFuente ? `<span class="pill of-ok">con fuente</span>` : `<span class="pill of-sin">sin fuente</span>`) : ""}</h3>${oficialHTML}</section>
