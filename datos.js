@@ -1289,7 +1289,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica.",
+    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica. El papa Francisco habló ante la Asamblea General la mañana del 25-9-2015, antes de que se adoptara la Agenda por aclamación; Obama aparece en el archivo de la ONU con un discurso fechado el 27-9-2015, en la misma cumbre.",
     "fuentes": [
      {
       "titulo": "ONU: Agenda 2030",
@@ -1300,6 +1300,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Transforming our world: the 2030 Agenda for Sustainable Development",
       "url": "https://en.wikipedia.org/wiki/Transforming_our_world:_the_2030_Agenda_for_Sustainable_Development",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "ONU: Cumbre de Desarrollo Sostenible 2015",
+      "url": "https://sustainabledevelopment.un.org/post2015/summit",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "IISD: informe diario del 25-9-2015",
+      "url": "https://enb.iisd.org/events/un-sustainable-development-summit-2015/daily-report-25-september-2015",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -3907,7 +3917,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por la Francia revolucionaria en 1798, la tomaron tropas austriacas en 1813 y se sumó a la Confederación Helvética en 1815. La vinculación con los Estados Papales como centro de poder oculto no forma parte de la versión académica. Solo se ha comprobado lo de Ginebra; las fechas de Basilea (374, 1529, 1897) quedan sin comprobar.",
+    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por la Francia revolucionaria en 1798, la tomaron tropas austriacas en 1813 y se sumó a la Confederación Helvética en 1815. La vinculación con los Estados Papales como centro de poder oculto no forma parte de la versión académica. Las fechas de Basilea están comprobadas: el nombre aparece por escrito en 374 (visita del emperador Valentiniano I, según Amiano Marcelino), la Reforma se introdujo en 1529 con Ecolampadio y el Primer Congreso Sionista, convocado por Herzl, fue en 1897. Lo de Ginebra ya estaba comprobado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Basilea",
@@ -3918,6 +3928,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Ginebra",
       "url": "https://es.wikipedia.org/wiki/Ginebra",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Historisches Lexikon der Schweiz: Basilea",
+      "url": "https://hls-dhs-dss.ch/de/articles/007478/2017-05-30/",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Basilea: historia (bs.ch)",
+      "url": "https://www.bs.ch/en/schwerpunkte/portrait/heart-europe/history-basel",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -22909,7 +22929,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial. Wikipedia atribuye la tesis de que la ley convirtió a EE. UU. en una corporación a un malentendido del término «corporación municipal». La definición de 28 U.S.C. § 3002 sirve solo a efectos de la ley de cobro de deudas federales; no se ha abierto aquí. La tesis no forma parte de la versión académica.",
+    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial. Wikipedia atribuye la tesis de que la ley convirtió a EE. UU. en una corporación a un malentendido del término «corporación municipal». La definición de 28 U.S.C. § 3002 sirve solo a efectos de la ley de cobro de deudas federales; no se ha abierto aquí. La tesis no forma parte de la versión académica. Según una sentencia del Tribunal Supremo y otras fuentes, el gobierno territorial de 1871 duró poco: se derogó en 1874 y lo sustituyó en 1875 un gobierno permanente (Britannica atribuye la forma de corporación municipal con tres comisionados a la ley de 1878).",
     "fuentes": [
      {
       "titulo": "Cornell Law: 28 U.S.C. § 3002 (definiciones)",
@@ -22920,6 +22940,16 @@ window.CRONO = {
       "titulo": "Wikipedia: District of Columbia Organic Act of 1871",
       "url": "https://en.wikipedia.org/wiki/District_of_Columbia_Organic_Act_of_1871",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Ley Orgánica del Distrito de Columbia de 1871",
+      "url": "https://en.wikipedia.org/wiki/District_of_Columbia_Organic_Act_of_1871",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Britannica: Washington D. C., gobierno",
+      "url": "https://www.britannica.com/place/Washington-DC/Government",
+      "consultado": "2026-11-25"
      }
     ]
    },
