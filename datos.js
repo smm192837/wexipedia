@@ -3001,9 +3001,56 @@ window.CRONO = {
       "titulo": "Wikipedia: 7 July 2005 London bombings",
       "url": "https://en.wikipedia.org/wiki/7_July_2005_London_bombings",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Atentados del 7 de julio de 2005 en Londres",
+      "url": "https://es.wikipedia.org/wiki/Atentados_del_7_de_julio_de_2005_en_Londres",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "Los atentados del 7 de julio de 2005 fueron cuatro explosiones coordinadas en el transporte público de Londres durante la hora punta de la mañana: tres en trenes del metro y una en un autobús de dos plantas. Fue el ataque más mortífero en Londres desde la Segunda Guerra Mundial y el peor atentado en el Reino Unido desde Lockerbie.\n\nLo reivindicó Al Qaeda y lo perpetraron cuatro terroristas suicidas que viajaron desde Leeds. Murieron 52 personas además de los cuatro atacantes, y hubo unos 700 heridos."
+    },
+    {
+     "titulo": "Las cuatro explosiones",
+     "nivel": "hecho",
+     "texto": "A las 08:50 explotaron tres bombas en el metro con unos cincuenta segundos de diferencia: en el tren 204 de la Circle Line entre Liverpool Street y Aldgate, en el tren 216 de la Circle Line en Edgware Road y en el tren 311 de la Piccadilly Line entre King's Cross y Russell Square. Las bombas iban en el suelo de los vagones y se detonaron con temporizadores.\n\nA las 09:47 explotó la cuarta en el autobús número 30, en la plaza Tavistock, cuando el vehículo había desviado su ruta por los cierres del metro y recogía a gente evacuada. La explosión arrancó el techo de la planta superior. Cada bomba llevaba unos 4,5 kg de explosivo, peróxido de acetona casero. En la Piccadilly, un túnel profundo y estrecho, la onda se concentró y causó más daño."
+    },
+    {
+     "titulo": "Las víctimas",
+     "nivel": "hecho",
+     "texto": "Murieron 56 personas: 52 víctimas y los cuatro terroristas. De los 700 heridos, unos 350 tuvieron que ser hospitalizados y 22 estaban en estado crítico. Varios médicos del edificio de la Asociación Médica Británica, junto a la explosión del autobús, atendieron a los heridos en el acto.\n\nLa primera hipótesis oficial fue una sobretensión eléctrica en la red del metro. Algunos indicios apuntan a que se dijo a propósito para evitar el pánico y permitir una evacuación segura, mientras las autoridades ya sabían que era un atentado."
+    },
+    {
+     "titulo": "Los autores",
+     "nivel": "hecho",
+     "texto": "Los cuatro terroristas eran Hasib Hussain (18 años, el autobús), Jamal Lindsay (Piccadilly), Mohamed Sadique Khan (Edgware Road) y Shehzad Tanweer (Aldgate). Tres eran de Leeds y el cuarto residía en Aylesbury; las autoridades los consideraban «cleanskins», sin antecedentes conocidos.\n\nEl 7 de julio viajaron en coche de Leeds a Luton y de allí en tren a Londres; las cámaras los grabaron llegando a King's Cross hacia las 8:30. Se encontraron pertenencias suyas en los lugares de las explosiones, lo que llevó a la fábrica de bombas de Leeds, donde aparecieron cantidades importantes de explosivo. También había explosivos en un vehículo en la estación de Luton. Un profesor egipcio, Magdi el-Nashar, arrendatario de la casa de Leeds, fue detenido y absuelto."
+    },
+    {
+     "titulo": "La investigación y las dudas",
+     "nivel": "hecho",
+     "texto": "La policía revisó unas 2.500 muestras de cámaras de circuito cerrado y pruebas forenses. La versión de los cuatro suicidas se impuso, pero quedaron cabos sueltos: no está claro por qué llevaban documentación que permitió encontrar la fábrica, ni por qué compraron billetes de vuelta, lo que sugiere que quizá pensaban sobrevivir o que fueron engañados sobre la naturaleza de los dispositivos.\n\nTampoco está claro el mecanismo del autobús: no se sabe si fue un suicida, un temporizador o una detonación accidental. Un testigo, Bruce Lait, declaró que la bomba parecía estar bajo el tren y que no recordaba a nadie ni ninguna mochila donde estaba el artefacto. La policía desmintió los informes sobre dos bombas sin explotar."
+    },
+    {
+     "titulo": "La reacción",
+     "nivel": "hecho",
+     "texto": "El comisionado de la Policía Metropolitana, Ian Blair, habló dos horas después de «probablemente un gran ataque terrorista». La BBC y otras cadenas emitieron información continua y registraron un pico de tráfico histórico: bbc.co.uk llegó a 11 Gb/s a mediodía y sirvió unos 5,5 terabytes. Muchos programas y películas se cancelaron o sustituyeron.\n\nEl partido de extrema derecha BNP usó imágenes del autobús destruido en un folleto contra la inmigración y fue acusado de agitar el odio racial. Fuera del Reino Unido se recordó la tolerancia británica con militantes islamistas que actuaban en el exterior, hasta el punto de que a Londres se la llamaba «Londonistan»."
+    },
+    {
+     "titulo": "Las comparaciones",
+     "nivel": "hecho",
+     "texto": "El ataque fue el más mortífero en Londres desde un cohete V-2 que mató a 131 personas en Stepney el 27 de marzo de 1945, y el segundo atentado más mortífero del Reino Unido tras el vuelo 103 de Pan Am sobre Lockerbie (270 muertos). En el metro de Londres superó a los accidentes de Moorgate (1975, 43 muertos) y al incendio de King's Cross (1987, 31).\n\nFue el ataque más mortífero en un transporte público desde el 11-M de Madrid (193 muertos), y según la fuente, el primer atentado suicida llevado a cabo en Europa. El 21 de julio de 2005 hubo otro intento fallido de atentado en Londres, y en esos días la policía mató por error a Jean Charles de Menezes, confundido con un sospechoso."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el mecanismo exacto del autobús y el grado de coordinación real: los temporizadores del metro, la detonación manual o automática de Tavistock y el papel de posibles cómplices, algunos de los cuales siguen sin localizarse. También el alcance de la red de apoyo en Leeds y Luton y si hubo financiación exterior.\n\nPara seguir el dinero harían falta los informes del Comité de Inteligencia y Seguridad, las cuentas de los viajes y la financiación de los cuatro, y los papeles de la investigación policial, que esta ficha no ha consultado. Tampoco se ha leído la parte del artículo sobre las alertas de seguridad previas ni las reacciones oficiales completas."
+    }
+   ],
    "conexiones": [
     {
      "id": "instituto-tavistock",
@@ -3054,9 +3101,71 @@ window.CRONO = {
       "titulo": "Britannica: Madrid train bombings of 2004",
       "url": "https://www.britannica.com/event/Madrid-train-bombings-of-2004",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia: Atentados del 11 de marzo de 2004",
+      "url": "https://es.wikipedia.org/wiki/Atentados_del_11_de_marzo_de_2004",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "Los atentados del 11 de marzo de 2004 fueron diez explosiones simultáneas en cuatro trenes de Cercanías de Madrid durante la hora punta de la mañana, tres días antes de las elecciones generales. Fue el mayor atentado de la historia de España: murieron 193 personas y hubo 1.857 heridos.\n\nLos trenes salían de Alcalá de Henares hacia Atocha; las bombas iban en mochilas con Goma-2 ECO. El atentado se atribuyó primero a ETA y después a una célula yihadista, lo que desencadenó una crisis política e informativa que marcó la legislatura y las elecciones del 14 de marzo."
+    },
+    {
+     "titulo": "Los trenes y las bombas",
+     "nivel": "hecho",
+     "texto": "Las explosiones se produjeron entre las 07:36 y las 07:40 en la línea que une Alcalá de Henares y Atocha. En el tren 21431, parado en la vía 2 de Atocha, estallaron tres bombas y una cuarta fue explosionada por los TEDAX; en el 21435, en El Pozo, dos; en el 21713, en Santa Eugenia, una; y en el 17305, a 800 metros de Atocha, cuatro.\n\nLas bombas eran mochilas con Goma-2 ECO, un explosivo de cantera, metralla, detonador y un teléfono móvil como temporizador, manipulado para que la alarma activase el detonador. Una de ellas hizo un recorrido involuntario entre IFEMA y varias comisarías antes de ser examinada, y fue la que permitió establecer las primeras hipótesis firmes. Los TEDAX vieron que el explosivo era blanco, no rojo como el Titadyn que usaba ETA."
+    },
+    {
+     "titulo": "Las víctimas",
+     "nivel": "hecho",
+     "texto": "El 23 de marzo la cifra oficial era de 190 muertos, rebajada desde los 202 iniciales por una mejor identificación de los restos; el recuento definitivo de heridos fue de 1.857. En 2014 murió otra víctima tras diez años en coma, con lo que el total quedó en 193.\n\nEl 3 de abril murió el subinspector del GEO Francisco Javier Torronteras en el asalto al piso de Leganés. Su ataúd fue profanado después. El 10 de mayo murió un recién nacido, Nicolás Jiménez Morán, a las 48 horas de nacer, por las heridas de su madre."
+    },
+    {
+     "titulo": "Las amenazas previas",
+     "nivel": "hecho",
+     "texto": "El atentado no llegó sin avisos. En diciembre de 2001, en Karachi, se tomó la decisión de atentar en España; en febrero de 2002 se ratificó en Estambul y la aprobó Al Qaeda a finales de 2003. La red del 11-M estaba conectada con la dirección de Al Qaeda en Pakistán a través de Amer Azizi.\n\nEl 18 de octubre de 2003 bin Laden amenazó expresamente a España por su apoyo a las guerras de Irak y Afganistán. El CNI envió al Gobierno un informe titulado Evaluación de la amenaza del terrorismo islámico el 27 de octubre y una nota sobre el yihadista Lamari el 6 de noviembre; la Policía avisó el 28 de noviembre de que España era «un objetivo declarado de Al Qaeda». La Guardia Civil había avisado en marzo de 2003 de que el apoyo a la guerra de Irak aumentaba el riesgo."
+    },
+    {
+     "titulo": "Los autores y la trama",
+     "nivel": "hecho",
+     "texto": "La célula estaba formada por islamistas radicales, varios de ellos marroquíes, con Allekema Lamari en el núcleo de coordinación junto a Abdelmajid Bouchard y Mohamed Afalah. La investigación se apoyó en la mochila de Vallecas, en la furgoneta Renault Kangoo de Alcalá de Henares y en los teléfonos manipulados.\n\nEl 3 de abril la policía rodeó a varios miembros en Leganés. Los terroristas se atrincheraron en un piso de la calle Carmen Martín Gaite y, al verse acorralados, hicieron estallar el piso cuando el GEO iniciaba el asalto: murieron los siete terroristas que quedaban y el agente Torronteras."
+    },
+    {
+     "titulo": "La discusión sobre la autoría",
+     "nivel": "hecho",
+     "texto": "Las primeras declaraciones atribuyeron el atentado a ETA. El ministro del Interior, Ángel Acebes, lo dijo el mismo día 11 y el presidente Aznar llamó a los directores de periódicos para comunicarles que, según fuentes policiales, era ETA. La ministra de Asuntos Exteriores envió un telegrama a la ONU y a las embajadas pidiendo confirmar la autoría de ETA, y el Consejo de Seguridad condenó a ETA ese mismo día.\n\nPero a las 15:00 los TEDAX ya habían informado de que el explosivo era blanco, de que ETA no había avisado y de que la furgoneta no tenía la matrícula doblada. El 11-M por la noche la Cadena SER habló de un terrorista suicida y el 13 de marzo apareció un vídeo en el que Al Qaeda reivindicaba el atentado. Aun así, Acebes insistió en que la línea prioritaria era ETA. El partido que gobernaba había valorado ese mismo día: «Si ha sido ETA, barremos; si han sido los islamistas, gana el PSOE»."
+    },
+    {
+     "titulo": "Las elecciones del 14-M",
+     "nivel": "hecho",
+     "texto": "Los atentados dieron un vuelco a las elecciones. Las encuestas de la semana anterior daban ganador al PP, con entre el 59 % y el 70 % de los encuestados creyendo que vencería; el PSOE ganó con siete puntos de diferencia, un 12 % más de lo previsto, la mayor desviación entre encuestas y resultado que se recordaba.\n\nUn análisis posterior estimó el efecto en la activación de 1.700.000 votantes movidos por el atentado y el clima posterior, la abstención de 300.000 y la conversión del voto de 1.100.000. El 64 % de los encuestados después del 14-M creía que el PSOE no habría ganado sin los atentados."
+    },
+    {
+     "titulo": "Las consecuencias políticas y sociales",
+     "nivel": "hecho",
+     "texto": "En Estados Unidos y el Reino Unido, atentados similares unieron a la sociedad en torno a sus instituciones; en España el 11-M coincidió con el máximo de tensión social y política de la segunda legislatura de Aznar. Los expertos en terrorismo lo atribuyen a la mala gestión de la crisis, y el «agrupamiento tras la bandera» no se produjo.\n\nEl Pacto Antiterrorista entre PP y PSOE, que prohibía expresamente el uso electoralista de los atentados, quedó roto de hecho. El PSOE acusó al PP de mentir y manipular, y el PP acusó al PSOE de instigar las manifestaciones contra sus sedes. Las víctimas se organizaron: la Asociación 11-M Afectados del Terrorismo, presidida por Pilar Manjón, insistió en la responsabilidad del Gobierno por haber implicado a España en la guerra de Irak."
+    },
+    {
+     "titulo": "El dinero de las víctimas",
+     "nivel": "hecho",
+     "texto": "Se creó una Oficina de Atención a las Víctimas. A fecha de 2011, el Ministerio del Interior había indemnizado a más de 3.500 afectados por unos 314 millones de euros, y había concedido 449 tarjetas de residencia a víctimas y 451 a familiares, de las 2.590 solicitudes. La Comisaría General de Extranjería recibió 1.209 solicitudes de nacionalidad hasta el 1 de mayo de 2004.\n\nLos mercados reaccionaron con caídas del 2-3 % en las principales bolsas europeas y del 1,6 % en el Dow Jones; las acciones de aviación y turismo fueron las más castigadas."
+    },
+    {
+     "titulo": "Las teorías de la conspiración",
+     "nivel": "hecho",
+     "texto": "La discusión sobre la autoría, los fallos de coordinación y las irregularidades de la investigación alimentaron teorías de la conspiración que duraron diez años. El diario El Mundo publicó la reivindicación de Al Qaeda el 12 de marzo y, sin embargo, desarrolló y apoyó esas teorías; en 2009 su director presentó el libro Titadyn, que contradecía las sentencias.\n\nLas sentencias de la Audiencia Nacional (2007) y del Tribunal Supremo (2008) dieron por probado que en los trenes explotó Goma-2 ECO, con restos de nitroglicerina compatibles, y que el cartucho de la furgoneta era el mismo que se entregó a los peritos. En el veinte aniversario, el comisario general de Información, la fiscal y el presidente de la Sala desmontaron las irregularidades alegadas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el detalle completo de la trama: quién financió y ordenó, qué papel tuvo la dirección de Al Qaeda en Pakistán y cuántos colaboradores quedaron sin identificar. También el alcance real del efecto electoral, que se estima pero no se puede medir con precisión, y las responsabilidades políticas de la gestión informativa, que la Comisión Parlamentaria documentó pero no cerró del todo.\n\nEl rastro del dinero de los terroristas —la compra de explosivos, los teléfonos, los viajes— está en el sumario, que esta ficha no ha consultado. Tampoco las actas completas de la Comisión de Investigación del Congreso ni las sentencias, que aquí se resumen de segunda mano."
+    }
+   ],
    "conexiones": [
     {
      "id": "atentados-11s",
@@ -11777,9 +11886,66 @@ window.CRONO = {
       "titulo": "Wikipedia: Compañía de los Bardi",
       "url": "https://es.wikipedia.org/wiki/Bardi",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia: Crisis del siglo XIV",
+      "url": "https://es.wikipedia.org/wiki/Crisis_del_siglo_XIV",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La crisis del siglo XIV es el nombre que da la historiografía a un periodo de crisis general en Europa y el Mediterráneo, al final de la Edad Media, que se prolongó hasta la recuperación de la población, la economía y la cultura del Renacimiento. Se la considera un factor determinante en la transición de la Edad Media a la Edad Moderna.\n\nLa Gran Hambruna de 1315-1317 y la Peste Negra de 1347-1351 redujeron la población europea a la mitad o más, coincidiendo con el final del periodo cálido medieval y el comienzo de la Pequeña Edad del Hielo. Europa no recuperó los niveles de población de 1300 hasta 1500."
+    },
+    {
+     "titulo": "El clima y la Gran Hambruna",
+     "nivel": "hecho",
+     "texto": "El «óptimo medieval», que había permitido cultivar viñas en Inglaterra y colonizar Groenlandia, terminó. Las temperaturas bajaron, las cosechas se hicieron más inseguras y la ley de rendimientos decrecientes empezó a notarse: el crecimiento de la población desde el año 1000 había empujado a roturar tierras marginales, y las mejoras técnicas no avanzaban al mismo ritmo.\n\nLa Gran Hambruna de 1315-1317 abrió el siglo. Las malas cosechas debilitaron físicamente a la población y prepararon el terreno para que la peste de 1348 fuera una catástrofe. Hay investigadores que buscan el mismo patrón en otros lugares, como la civilización jemer de Angkor, cuyo auge y declive se ha atribuido a variaciones de El Niño y a la sobreexplotación del medio."
+    },
+    {
+     "titulo": "La peste negra",
+     "nivel": "hecho",
+     "texto": "La peste bubónica llegó en 1348 y las epidemias se repitieron cíclicamente durante los decenios siguientes. La población de Europa se redujo en no menos de un tercio. Fue el golpe demográfico más fuerte de la historia europea y el que más contribuyó a cambiar las relaciones sociales: con menos brazos, la tierra dejó de ser el único factor escaso y el trabajo pasó a valer más.\n\nEl ciclo de epidemias caracterizó todo un siglo. Donde antes había una población abundante y barata, quedó una población reducida que podía negociar mejores condiciones."
+    },
+    {
+     "titulo": "La economía: rentas, salarios y capital",
+     "nivel": "hecho",
+     "texto": "La crisis no fue negativa para todos. Los supervivientes acumularon capital inesperado en forma de herencias, que a veces se invirtió en empresas comerciales. Los precios de los productos sufrieron tensiones nunca vistas de oferta y demanda, y la percepción de las relaciones económicas cambió: los salarios crecían mientras las rentas feudales se volvían inseguras, lo que obligó a los señores a decisiones difíciles.\n\nAl principio muchos señores fueron más comprensivos con sus siervos, que a veces lograron imponer una nueva relación y liberarse de la servidumbre. Después, tras rebeliones campesinas fracasadas y duramente reprimidas, en algunas zonas se impuso una nueva refeudalización o un cambio de estrategia productiva: el paso de la agricultura a la ganadería, con la expansión de la Mesta. El negocio de la lana creó alianzas entre señores ganaderos, mercaderes y artesanos de paños que provocaron verdaderas guerras comerciales."
+    },
+    {
+     "titulo": "La sociedad: los que suben y los que bajan",
+     "nivel": "hecho",
+     "texto": "Solo los nobles con más capacidad —demostrada muchas veces despojando a los más débiles— se convirtieron en una gran aristocracia, mientras la pequeña nobleza se empobrecía y buscaba ingresos en la administración de las monarquías o en la Iglesia. En el clero se abrió un abismo entre el alto clero y los curas pobres y los frailes vagabundos.\n\nEn las ciudades pasó algo parecido: la alta burguesía se separó de la baja, y se abrió paso una idea antes inaudita, que la condición social dependiera más de la capacidad económica que del origen familiar. Frente al mundo medieval de los tres órdenes, basado en la tierra, emergió un mundo de ciudades basado en el comercio; los centros de poder se desplazaron hacia los burgos."
+    },
+    {
+     "titulo": "La guerra y los ejércitos profesionales",
+     "nivel": "hecho",
+     "texto": "La crisis trajo un recrudecimiento de los conflictos militares, con la guerra de los Cien Años (1337-1453) como gran escenario, frente al clima de relativa seguridad que se percibía desde el final de las invasiones altomedievales. A la vez creció el poder de los reyes en Europa Occidental, que superaron el concepto de monarquía feudal y avanzaron hacia las monarquías autoritarias.\n\nEn los campos de batalla el caballero feudal empezó a ser superado por nuevas técnicas: el arco largo inglés, que barrió a los franceses en Agincourt (1415), y la pica de la infantería mercenaria suiza. Reaparecieron los primeros ejércitos profesionales, formados por soldados unidos a su señor por la paga y no por el vasallaje."
+    },
+    {
+     "titulo": "La crisis religiosa e intelectual",
+     "nivel": "hecho",
+     "texto": "La piedad se volvió extrema: flagelantes, danzas de la muerte y mística. La ortodoxia religiosa entró en crisis con el Cisma de Occidente y con movimientos calificados de heréticos —husitas, lolardos, fraticelli—, que anunciaban la Reforma del siglo XVI. La escolástica se cuestionó desde dentro, con Guillermo de Ockham y Duns Scoto, y el arte gótico puro evolucionó al flamígero.\n\nEn Italia surgieron las condiciones intelectuales del Prerrenacimiento, con Petrarca, Boccaccio y Giotto. La mentalidad teocéntrica fue dando paso a una antropocéntrica, un proceso que culminaría en el humanismo del siglo XV."
+    },
+    {
+     "titulo": "Las excepciones: Europa Central",
+     "nivel": "hecho",
+     "texto": "Mientras Inglaterra, Francia, Nápoles, el Sacro Imperio, Castilla y Aragón estaban sumidos en la crisis, Europa Central prosperaba. Hungría se fortaleció con Carlos I y Luis I, que reformaron la economía y los impuestos y explotaron el oro y la plata; el reino no sufrió las calamidades de la peste negra.\n\nBohemia, con Juan I, se convirtió en centro cultural, y bajo Carlos de Luxemburgo se creó la universidad de Praga. Polonia se estabilizó con Vladislao I y Casimiro III restauró sus fronteras. La crisis, por tanto, no fue general: tuvo geografías muy distintas."
+    },
+    {
+     "titulo": "La recuperación del siglo XV",
+     "nivel": "hecho",
+     "texto": "A partir del siglo XV, con menos guerras y epidemias, la población volvió a crecer. Con más gente hubo más demanda de productos agrícolas y más mano de obra, y la producción subió con mejoras del arado y del riego y con tierras abandonadas que se volvieron a poner en cultivo.\n\nCrecieron las manufacturas y el comercio. Apareció una forma nueva de producción, el trabajo rural domiciliado: los comerciantes daban materias primas y créditos a los campesinos, que fabricaban en sus aldeas y vendían a los comerciantes para que estos lo llevaran a las ciudades. La mejora de los caminos y de los medios de pago impulsó los intercambios."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto si la crisis del siglo XIV fue una crisis general o una suma de crisis con ritmos distintos: la fuente compara el caso europeo con el de Angkor y deja la puerta abierta a causas climáticas globales, pero no lo cierra. Tampoco hay acuerdo sobre cuánto pesó cada factor —clima, peste, guerra, estructura agraria— ni sobre el alcance real de la «refeudalización» posterior.\n\nEl dinero merece un rastro más fino: la quiebra de las grandes bancas florentinas de la década de 1340, que la versión oficial de la ficha recoge con los impagos de Eduardo III, no la desarrolla este artículo. Para seguir el dinero harían falta las cuentas de los Bardi y los Peruzzi y los registros de la deuda real inglesa, que aquí no se han consultado. Tampoco se han leído las obras de la bibliografía (Hilton, Romano y Tenenti, Huizinga)."
+    }
+   ],
    "citas": [
     {
      "resumen": "Venecia, sin industria salvo la naval, fue el gran éxito comercial de la Edad Media y dominó el Mediterráneo",
@@ -19911,10 +20077,78 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "Wikipedia: Invasión rusa de Ucrania",
-      "url": "https://es.wikipedia.org/wiki/Invasión_rusa_de_Ucrania"
+      "url": "https://es.wikipedia.org/wiki/Invasión_rusa_de_Ucrania",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Guerra ruso-ucraniana",
+      "url": "https://es.wikipedia.org/wiki/Guerra_ruso-ucraniana",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Russo-Ukrainian war",
+      "url": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La guerra ruso-ucraniana, también llamada guerra de Ucrania, empezó en febrero de 2014 con la ocupación y anexión rusa de Crimea y con la guerra del Dombás, y se convirtió en una invasión a gran escala el 24 de febrero de 2022. Es el mayor conflicto militar convencional en Europa desde la Segunda Guerra Mundial.\n\nLa cifra exacta de muertos se desconoce: se estima que hasta principios de 2026 había causado más de 25.000 civiles ucranianos muertos y más de 200.000 soldados entre ambos bandos. Ha provocado la mayor crisis de refugiados del continente desde la Segunda Guerra Mundial: más de 7,3 millones de ucranianos han salido del país y más de 7,1 millones se han desplazado internamente."
+    },
+    {
+     "titulo": "Los antecedentes: de 1991 a la Revolución Naranja",
+     "nivel": "hecho",
+     "texto": "Tras la disolución de la URSS en 1991, Ucrania y Rusia mantuvieron vínculos. En 1994 Ucrania firmó el Tratado de No Proliferación y renunció al armamento nuclear soviético a cambio del Memorando de Budapest, por el que Rusia, el Reino Unido y Estados Unidos se comprometían a respetar su integridad territorial. En 1997 Rusia firmó el Acta Fundacional OTAN-Rusia y en 1999 el Charter for European Security, que reconocía a cada Estado el derecho a elegir sus alianzas.\n\nVarios países del antiguo bloque del Este entraron en la OTAN. En 2005 Putin dijo que respetaría la decisión de Ucrania si quería entrar, y años después sostuvo que Occidente había roto promesas al ampliar la OTAN, aunque no consta ningún acuerdo en ese sentido. En 2004 la Revolución Naranja, tras una elección marcada por el envenenamiento de Yushchenko y el fraude, anuló el resultado y llevó a la presidencia al candidato prooccidental."
+    },
+    {
+     "titulo": "Euromaidán y Crimea (2013-2014)",
+     "nivel": "hecho",
+     "texto": "En 2013 el parlamento ucraniano aprobó cerrar un acuerdo de libre comercio con la Unión Europea. El Kremlin presionó para que no se firmara, con embargos a productos ucranianos y amenazas, y en noviembre Yanukovych se retiró de la firma. Eso desató el Euromaidán, una ola de protestas contra la injerencia rusa y la corrupción.\n\nLas protestas se convirtieron en la Revolución de la Dignidad: el 18-20 de febrero de 2014 murieron más de cien manifestantes, la mayoría por disparos de la unidad especial Berkut; Yanukovych huyó y el parlamento lo destituyó. Poco después, tropas rusas sin distintivos ocuparon Crimea y en marzo Rusia la anexionó tras un referéndum considerado ilegítimo. En abril, milicianos apoyados por Rusia tomaron ciudades del Dombás y proclamaron las repúblicas de Donetsk y Lugansk."
+    },
+    {
+     "titulo": "La guerra del Dombás (2014-2021)",
+     "nivel": "hecho",
+     "texto": "Rusia apoyó a los separatistas con sus propias tropas, tanques y artillería, e impidió que Ucrania recuperara el territorio. El Tribunal Penal Internacional consideró que había un conflicto armado internacional con Rusia y el Tribunal Europeo de Derechos Humanos dictaminó que Rusia controlaba las repúblicas autoproclamadas desde 2014.\n\nEn febrero de 2015 se firmaron los acuerdos de Minsk II, que nunca se cumplieron del todo. La guerra del Dombás se volvió un conflicto estático, parecido a la guerra de trincheras: los altos el fuego se rompían una y otra vez, pero el frente no se movía. Solo en 2021 la OSCE registró más de 90.000 violaciones del alto el fuego."
+    },
+    {
+     "titulo": "El preludio de la invasión",
+     "nivel": "hecho",
+     "texto": "Desde marzo de 2021 Rusia concentró tropas junto a la frontera ucraniana, y desde octubre amplió el despliegue en Rusia y Bielorrusia mientras decía que eran maniobras. En diciembre de 2021 Estados Unidos hizo pública inteligencia sobre los planes de invasión, con listas de objetivos. Rusia exigió a la OTAN que dejara de actuar en Europa del Este y que prohibiera para siempre el ingreso de Ucrania; la OTAN respondió que Rusia no tenía derecho a vetar a un país vecino.\n\nEl 21 de febrero de 2022 Putin reconoció las repúblicas de Donetsk y Lugansk y envió tropas; al día siguiente el Consejo de la Federación le autorizó el uso de la fuerza fuera de Rusia. En la madrugada del 24 anunció una «operación militar especial» para «desmilitarizar y desnazificar» Ucrania, una acusación rechazada por los historiadores del nazismo y el Holocausto."
+    },
+    {
+     "titulo": "La invasión de 2022",
+     "nivel": "hecho",
+     "texto": "La invasión empezó con ataques de misiles en todo el país y una ofensiva terrestre en varios frentes: desde Bielorrusia hacia Kiev, desde Crimea hacia el sur y desde Lugansk y Donetsk hacia Járkov. Zelenski declaró la ley marcial y la movilización general de los hombres de 18 a 60 años.\n\nEn el norte, la resistencia ucraniana paró el avance y en abril Rusia se retiró de la región de Kiev. En el sur tomó Jersón en marzo y Mariúpol en mayo, tras el asedio de la acería de Azovstal. La guerra provocó la mayor crisis de refugiados en Europa desde las guerras yugoslavas: la ONU habló de más de un millón de refugiados en la primera semana y de más de 7,4 millones en septiembre."
+    },
+    {
+     "titulo": "2022-2023: contraofensivas y guerra de desgaste",
+     "nivel": "hecho",
+     "texto": "Ucrania lanzó contraofensivas en el sur en agosto de 2022 y en el noreste en septiembre, y recuperó la mayor parte de la provincia de Járkov. El 30 de septiembre Rusia anunció la anexión de cuatro provincias parcialmente ocupadas, no reconocida internacionalmente, y Putin ordenó una movilización de 300.000 reservistas; las entradas de un solo sentido para salir del país se agotaron.\n\nEn noviembre Ucrania recuperó la ciudad de Jersón y las fuerzas rusas se retiraron a la orilla oriental del Dniéper. En febrero de 2023 Rusia movilizó a unos 200.000 soldados para una nueva ofensiva en el Dombás. La contraofensiva ucraniana de junio de 2023 no logró sus objetivos, y en esos meses se produjo la rebelión del grupo mercenario Wagner. En agosto de 2023 la cifra de soldados rusos y ucranianos muertos o heridos se acercaba a 500.000; la ONU contaba más de 10.000 civiles muertos en noviembre."
+    },
+    {
+     "titulo": "2024-2026: Kursk, Corea del Norte y drones",
+     "nivel": "hecho",
+     "texto": "Entre diciembre de 2023 y mayo de 2024 Rusia aumentó los ataques con drones y misiles, y Ucrania empezó a golpear con drones de largo alcance la industria petrolera y armamentística rusa, lo que provocó una crisis de combustible en Rusia. En agosto de 2024 las fuerzas ucranianas entraron en la provincia rusa de Kursk y llegaron a controlar unos 350 km².\n\nEn octubre de 2024 se confirmó el despliegue de tropas norcoreanas en Kursk: el Pentágono habló de 10.000 soldados y en abril de 2025 Rusia reconoció su participación y dijo haber recuperado la región. Los drones se volvieron decisivos: en 2025 causaban el 70 % de las bajas en el campo de batalla. En julio de 2026 Zelenski sustituyó al jefe del ejército, Syrskyi, por Drapatyi, en medio de protestas, y en noviembre de 2026 drones navales ucranianos hundieron la corbeta rusa Merkury y atacaron un carguero en Bengasi."
+    },
+    {
+     "titulo": "El dinero: recursos, gas y sanciones",
+     "nivel": "hecho",
+     "texto": "El control de los recursos naturales se considera un motivo de la anexión de Crimea y del sureste. Ucrania tiene las segundas reservas de gas natural, carbón y titanio de Europa, grandes reservas de hierro y uranio, y se le atribuyen los mayores yacimientos recuperables de tierras raras de Europa y uno de los mayores de litio. Es el «granero de Europa», uno de los mayores exportadores de trigo y maíz. El valor total de sus materias primas se estima en más de 26 billones de dólares, y el del litio y las tierras raras en 11,5 billones.\n\nUnos 80 % del petróleo, el gas y el carbón ucranianos están en la región del Dombás-Dniéper; un estudio del centro canadiense SecDev calculó en al menos 12,4 billones de dólares los recursos que Rusia tomó en el Dombás. Antes de 2014 Ucrania era la principal ruta de tránsito del gas ruso a Europa, con unos 3.000 millones de dólares anuales en tarifas. Las sanciones occidentales afectaron a la economía rusa y a la mundial, más de mil empresas abandonaron Rusia y Bielorrusia, y las economías asiáticas reforzaron su comercio de petróleo, carbón y gas con Rusia a bajo precio. En septiembre de 2022 hubo explosiones en los gasoductos Nord Stream, calificadas de sabotaje por Suecia y Dinamarca, sin autores identificados."
+    },
+    {
+     "titulo": "La respuesta internacional",
+     "nivel": "hecho",
+     "texto": "La invasión fue condenada por buena parte de la comunidad internacional. La Asamblea General de la ONU aprobó la resolución ES-11/1 exigiendo la retirada rusa; la Corte Internacional de Justicia ordenó a Rusia suspender las operaciones al no encontrar pruebas de las acusaciones de genocidio en el Dombás, y el Consejo de Europa expulsó al país. La Unión Europea y Estados Unidos impusieron sanciones y dieron ayuda humanitaria, económica y militar a Ucrania.\n\nLa Corte Penal Internacional abrió una investigación por crímenes de guerra, crímenes contra la humanidad y genocidio, y en marzo de 2023 emitió una orden de arresto contra Putin. Rusia se ha negado repetidamente a un alto el fuego."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el número real de muertos y heridos: las cifras van de los más de 10.000 civiles que contaba la ONU en noviembre de 2023 a los más de 25.000 civiles y 200.000 soldados que estima la fuente para principios de 2026, y las bajas militares se calculan por estimaciones de servicios de inteligencia. Tampoco hay acuerdo sobre el peso de la ampliación de la OTAN, del Euromaidán o del control de recursos en el origen del conflicto.\n\nEl rastro del dinero exige más detalle: qué sanciones se aplicaron y cuáles se esquivaron, cuánto petróleo y gas ruso siguió comprando cada país, qué contratos se firmaron sobre el litio y las tierras raras ucranianas y quién financió la reconstrucción. Esta ficha lo resume con las cifras de la fuente, pero no ha consultado los datos de aduanas, los paquetes de sanciones ni los contratos de explotación."
+    }
+   ],
    "conexiones": [],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
