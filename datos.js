@@ -5934,6 +5934,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Cambridge Analytica",
       "url": "https://en.wikipedia.org/wiki/Cambridge_Analytica",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Cambridge Analytica",
+      "url": "https://es.wikipedia.org/wiki/Cambridge_Analytica",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -5946,6 +5951,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "Cambridge Analytica (CA) fue una compañía privada británica que combinaba la minería y el análisis de datos con la comunicación estratégica para procesos electorales. Se creó en 2013 como rama de la casa matriz Strategic Communication Laboratories (SCL), un grupo de contratistas gubernamentales y militares con más de veinticinco años, para participar en la política estadounidense. Según la fuente, se creó con una inversión de quince millones de dólares del republicano Robert Mercer y de Steve Bannon, y la familia de Mercer, un administrador estadounidense de fondos de cobertura que respalda causas conservadoras, es en parte propietaria. Tenía oficinas en Londres, Nueva York y Washington D. C. Contrató a investigadores de la Universidad de Cambridge, de donde sale el nombre. En 2014 estuvo implicada en 44 campañas políticas estadounidenses."
+    },
+    {
+     "titulo": "Qué decía hacer",
+     "nivel": "hecho",
+     "texto": "En su sitio web la empresa decía combinar la psicología del comportamiento con una metodología de investigación estadísticamente sólida, para dar una imagen completa del comportamiento del consumidor. Recopilaba datos de votantes de fuentes como datos demográficos, comportamiento de consumo, actividad en internet y otras fuentes públicas y privadas, usaba técnicas de segmentación de audiencia y análisis psicográficos y decía usar la escala OCEAN de rasgos de personalidad. Con lo que llamaba «microtargeting de comportamiento» afirmaba poder predecir las «necesidades» de las personas y cómo cambian. Se describía como no partidista, con clientes que incluían gobiernos y ONG, empresas y clientes políticos de distintas ideologías, y con la misión de provocar un cambio de comportamiento impulsado por el análisis de datos.\n\nExpertos como Eitan Hersh, autor de «Hackeando al electorado», y Sandra Matz cuestionan las afirmaciones de CA sobre la eficacia de sus métodos para llegar a los votantes."
+    },
+    {
+     "titulo": "Campañas en que trabajó",
+     "nivel": "hecho",
+     "texto": "En 2015 se reveló que CA era la empresa de análisis de datos de la campaña presidencial de Ted Cruz, y en 2016, tras el fracaso de Cruz, trabajó para la de Donald Trump. El Parlamento británico supo, por exempleados, que la empresa había trabajado con el PRO y Mauricio Macri en 2015, y que SCL Group, nombre legal de CA, elaboró una campaña anti-kirchnerista en mayo de 2015, cuando Macri y Daniel Scioli se disputaban la presidencia de Argentina. También influyó, según la fuente, en la campaña de la retirada del Reino Unido de la Unión Europea. Su papel en esas campañas generó controversias y la empresa se enfrenta a investigaciones criminales en ambos países."
+    },
+    {
+     "titulo": "El escándalo de Facebook (2018)",
+     "nivel": "hecho",
+     "texto": "El 17 de marzo de 2018, The New York Times, The Guardian y The Observer denunciaron que la empresa explotaba la información personal de usuarios de Facebook, obtenida por un investigador externo que decía hacerlo con fines académicos. Se acusa a la consultora de haber obtenido datos de millones de usuarios, contra las políticas de uso de la red social, y de haberlos usado para crear anuncios políticos en las elecciones presidenciales estadounidenses de 2016. The Guardian informó de que Facebook conocía la violación de seguridad desde hacía dos años y no hizo nada para proteger a sus usuarios. Al darse a conocer las acusaciones, Facebook le prohibió anunciarse en su plataforma. Ese mismo día las acciones de Facebook cayeron un 6,77 %, hasta 172,56 dólares, en el Nasdaq, con unas pérdidas de seis mil millones de dólares para su fundador, Mark Zuckerberg.\n\nEl uso indebido de los datos de unos cincuenta millones de usuarios de Facebook lo reveló Christopher Wylie, un exempleado de la empresa, experto en informática, que dijo que la empresa había creado una maquinaria para manipular las decisiones de los votantes. En marzo de 2018 la empresa se vio envuelta en un escándalo tras revelar un exempleado algunas de sus prácticas, y pasó a Emerdata Ltd."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado son las acusaciones de la prensa y de un exempleado, y que los expertos dudan de que los métodos tuvieran la eficacia que la empresa decía. No consta en esta fuente si hubo condenas, qué decisiones judiciales hubo en cada país, ni cuánto influyó realmente en el resultado de unas elecciones. Siguiendo la regla de seguir el dinero y el poder, el dato claro es quién financió (Mercer, Bannon) y para quién trabajó (campañas de Cruz y de Trump); qué efecto tuvo en el voto queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -12470,6 +12502,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Proceso de Reorganización Nacional",
       "url": "https://es.wikipedia.org/wiki/Proceso_de_Reorganización_Nacional",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Proceso de Reorganización Nacional",
+      "url": "https://es.wikipedia.org/wiki/Proceso_de_Reorganizaci%C3%B3n_Nacional",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -12477,6 +12514,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Proceso de Reorganización Nacional (PRN) fue una dictadura cívico-militar que gobernó Argentina desde el golpe de Estado del 24 de marzo de 1976 hasta la entrega del poder a un gobierno elegido por los ciudadanos el 10 de diciembre de 1983. Adoptó la forma de un Estado burocrático-autoritario y se caracterizó por establecer un plan sistemático de terrorismo de Estado, que incluyó asesinatos, secuestros, torturas, desapariciones forzadas y robo de bebés con ocultamiento de su identidad. El golpe lo ejecutaron las Fuerzas Armadas con el apoyo de sectores civiles socialmente conservadores, sobre todo del empresariado y de la Iglesia católica. Derrocó a todas las autoridades constitucionales, nacionales y provinciales, incluida la presidenta justicialista María Estela Martínez de Perón, e impuso una Junta Militar de los tres comandantes de las Fuerzas Armadas, que dictó normas de jerarquía supraconstitucional y nombró a un militar con la suma de los poderes ejecutivo y legislativo, con el título de «presidente», y a cinco civiles en la Corte Suprema."
+    },
+    {
+     "titulo": "Objetivos declarados y debate económico",
+     "nivel": "hecho",
+     "texto": "Los objetivos declarados fueron combatir la «corrupción», la «demagogia» y la «subversión» y ubicar a Argentina en el «mundo occidental y cristiano». Sobre la ideología de su programa económico hay discrepancias: algunos autores la califican de gradualista y desarrollista, e incluso se estatizaron empresas como CIAE, el Grupo Greco (con decenas de bodegas y empresas financieras en Mendoza) o Austral Líneas Aéreas, y otros de neoliberal, sin consenso claro. En su libro «Joe», el ministro de Economía Martínez de Hoz se declara gradualista por no haber podido aplicar políticas más neoliberales o de shock, debido a la intensa guerrilla que ponía en peligro la paz social, y Videla también describió la gestión económica como condicionada por la guerrilla."
+    },
+    {
+     "titulo": "Terrorismo de Estado y apoyos",
+     "nivel": "hecho",
+     "texto": "La dictadura impuso una política de violación sistemática de los derechos humanos, en línea con la doctrina de la seguridad nacional elaborada por varios gobiernos de Estados Unidos y articulada en el continente a través del Plan Cóndor, dirigida contra la parte de la población acusada de ser «peronista», «populista», «izquierdista», «zurda» o «subversiva». Produjo miles de desapariciones, asesinatos, torturas, violaciones, apropiación de menores y exilios forzosos, que se han calificado judicialmente como genocidio. Contó con el apoyo o la tolerancia de los principales medios de comunicación privados y grupos económicos, de la Iglesia católica y de la mayor parte de los países democráticos del mundo."
+    },
+    {
+     "titulo": "Antes del golpe",
+     "nivel": "hecho",
+     "texto": "La participación de empresarios civiles y de algunos medios de comunicación en los grupos golpistas era muy anterior a 1976. Celedonio Pereda, de la Sociedad Rural Argentina, denunciaba al Gobierno constitucional como «sovietizante»; Juan Alemann proponía desde las páginas del Argentinisches Tageblatt una política de desaparición de personas; y José Alfredo Martínez de Hoz colaboró con las fuerzas paramilitares cuando instalaron un centro clandestino de detención en la empresa siderúrgica Acindar, donde fueron torturados y asesinados varios militantes sindicales, durante el «Operativo Serpiente Colorada del Paraná». La Santa Sede había designado poco antes como nuncio en Argentina a Pío Laghi, a quien se señala como miembro de la logia anticomunista Propaganda Due, a la que también pertenecía el almirante Emilio Eduardo Massera, comandante general de la Armada y una de las cabezas de los golpistas. La organización parapolicial Triple A, creada en 1973, siguió operando y tejiendo lazos con los sectores que preparaban el golpe, y muchos de sus miembros fueron designados por la dictadura en posiciones estratégicas de la represión.\n\nEn mayo de 1975, el general Jorge Rafael Videla pergeñó una maniobra que provocó el reemplazo del comandante general del Ejército, Leandro Anaya, por el teniente general Alberto Numa Laplane, que duró en el cargo apenas cien días."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "El 10 de diciembre de 1983 la dictadura, debilitada por la derrota en la guerra de las Malvinas contra el Reino Unido, un año y medio antes, se vio obligada a entregar el poder sin condiciones a un gobierno elegido libremente. Ese día, después establecido como Día de la Restauración de la Democracia, asumió el presidente Raúl Alfonsín junto con las dos cámaras del Congreso, los gobernadores y legislaturas de las 22 provincias de entonces y las autoridades municipales democráticas. La Corte Suprema dictatorial había cesado dos días antes, y la nueva, designada por Alfonsín con acuerdo del Senado, asumió el 23 de diciembre."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, la fuente da varios nombres y empresas (Sociedad Rural, Acindar, Martínez de Hoz) y afirma el apoyo de grupos económicos, pero qué parte tuvo cada uno en las decisiones y en el reparto de beneficios no consta en esta fuente, y las afirmaciones sobre la pertenencia de Laghi y Massera a la logia P2 se presentan en ella como señaladas, no como establecidas. Todo eso queda como tema abierto, no como dato: hace falta fuentes específicas para cada persona y empresa."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -12568,6 +12637,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Dictadura militar (Chile)",
       "url": "https://es.wikipedia.org/wiki/Dictadura_militar_(Chile)",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Dictadura militar de Chile",
+      "url": "https://es.wikipedia.org/wiki/Dictadura_militar_de_Chile",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -12575,6 +12649,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La dictadura militar de Chile abarca desde el 11 de septiembre de 1973 hasta el 11 de marzo de 1990. Empezó con el golpe de Estado que derrocó al presidente socialista Salvador Allende, y las fuerzas armadas y de orden establecieron una Junta Militar de Gobierno presidida por el comandante en jefe del Ejército, Augusto Pinochet, que fue el líder de la dictadura durante toda su duración. El resto de la Junta, en sus primeros años, la formaron José Toribio Merino (Armada), Gustavo Leigh (Fuerza Aérea) y César Mendoza (Carabineros). Aunque al principio era netamente militar, con los años se incorporaron colaboradores civiles. El régimen tuvo un modelo autoritario basado en principios de extrema derecha: anticomunismo, prohibición legal de los partidos políticos (hasta 1987), prohibición de los sindicatos, limitación de la libertad de expresión y disolución del Congreso Nacional, sustituido por la Junta."
+    },
+    {
+     "titulo": "El golpe y quién lo apoyó desde fuera",
+     "nivel": "hecho",
+     "texto": "El golpe lo llevaron a cabo la Armada, la Fuerza Aérea, Carabineros y el Ejército. Tropas y aviones atacaron el Palacio de La Moneda, y Allende se suicidó cuando los militares entraban en el edificio. Allende había asumido en 1970 como el primer político de orientación marxista del mundo en llegar al poder por elecciones generales en un Estado de derecho. Su gobierno, marcadamente reformista, produjo una creciente polarización política y una dura crisis económica que desembocó en una fuerte convulsión social, y poco antes del golpe el Congreso presentó contra él una acusación constitucional. Chile era hasta entonces una de las democracias más estables de América Latina.\n\nLa posibilidad de un golpe existió incluso antes de su elección. Según la fuente, el gobierno de Estados Unidos, con el presidente Richard Nixon y su secretario de Estado Henry Kissinger, influyó decisivamente en los grupos opositores a Allende, financiando y apoyando activamente las condiciones para el golpe. Entre esas acciones están el asesinato del general René Schneider y el Tanquetazo, una sublevación militar del 29 de junio de 1973."
+    },
+    {
+     "titulo": "Violaciones de derechos humanos",
+     "nivel": "hecho",
+     "texto": "El régimen cometió violaciones sistemáticas de los derechos humanos. Se registraron al menos 28.259 víctimas de prisión política y tortura, 2.298 ejecutados y 1.460 detenidos desaparecidos (1.092 desaparecidos tras su detención, más 377 ejecutados políticos sin entrega del cuerpo). La medida sancionadora que afectó a más opositores fue el exilio político: más de 200.000 personas en total, entre expulsados y autoexiliados, con sus familias, el mayor movimiento emigratorio de la historia del país."
+    },
+    {
+     "titulo": "La transformación económica y social",
+     "nivel": "hecho",
+     "texto": "Durante este periodo Chile vivió una profunda transformación económica, social y cultural. En lo económico, hubo un cambio radical de orientación del papel del Estado, de un rol productor e interventor a uno subsidiario, inspirado en las doctrinas económicas neoliberales. En lo social, significó el dominio sin contrapeso de los sectores empresariales, un aumento sostenido de la desigualdad de ingresos y más precariedad e inestabilidad laboral de los asalariados. En lo cultural, dio lugar al llamado «apagón cultural», con represión y censura de manifestaciones consideradas contrarias a la línea oficial."
+    },
+    {
+     "titulo": "La constitución de 1980 y el final",
+     "nivel": "hecho",
+     "texto": "En 1980, tras un plebiscito irregular, celebrado sin registros electorales porque se habían destruido en julio de 1974, se aprobó una nueva constitución en la que Pinochet reafirmó su cargo de presidente de la República mientras la Junta se limitaba al poder legislativo. El texto estableció disposiciones que acabaron permitiendo el retorno a la democracia tras el plebiscito del 5 de octubre de 1988, en el que el pueblo chileno denegó a Pinochet un nuevo mandato. Se celebraron elecciones presidenciales democráticas al año siguiente, y la dictadura acabó el 11 de marzo de 1990, con la entrega del mando de Pinochet al nuevo presidente, Patricio Aylwin, que inició el periodo conocido como transición a la democracia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, hay tres hechos que van juntos en la fuente: el apoyo de Estados Unidos a la oposición a Allende, el cambio radical de modelo económico con un dominio sin contrapeso de los sectores empresariales, y el aumento sostenido de la desigualdad. La fuente no establece quién diseñó el modelo, qué empresas se beneficiaron, ni qué relación causal hubo entre el golpe y ese modelo; lo deja como tema abierto, a documentar con fuentes específicas. Es una hipótesis de Nexus sobre lo que habría que investigar, no un dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -12606,6 +12712,28 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La dictadura de Primo de Rivera fue el régimen político de España desde el golpe de Estado del capitán general de Cataluña, Miguel Primo de Rivera, el 13 de septiembre de 1923, hasta su dimisión el 28 de enero de 1930, cuando lo sustituyó la «dictablanda» del general Dámaso Berenguer. Se la ha considerado «el primer ensayo de institucionalización consciente del nacionalismo español autoritario», cuyo instrumento fue el Ejército, fuertemente corporativo y militarista. Se ha discutido su relación con el fascismo, que solo un año antes había llegado al poder en Italia. José Luis Rodríguez Jiménez opina que el régimen tenía poco que ver con el fascismo y enlaza mejor con varios regímenes dictatoriales de Europa oriental (Metaxas en Grecia, Stojadinović en Yugoslavia, Piłsudski en Polonia y Horthy en Hungría), pero advierte de que sí fue de los primeros europeos en adoptar rasgos del fascismo, sobre todo el intento de crear un partido único, y de que algunos ministros y propagandistas, admiradores de Mussolini, usaban un discurso próximo al fascismo."
+    },
+    {
+     "titulo": "El Ejército en la política",
+     "nivel": "hecho",
+     "texto": "Desde el «Desastre de 1898» se produjo en la vida política española una creciente intervención del Ejército, que se presentó como intérprete de la «voluntad popular» y defensor del «interés nacional» por encima de la política de partidos. Dos momentos clave fueron los hechos del ¡Cu-Cut! de 1905, cuando oficiales de la guarnición de Barcelona asaltaron la redacción y los talleres de esa publicación satírica catalanista y los del periódico La Veu de Catalunya por una viñeta sobre los militares, lo que condujo a la Ley de Jurisdicciones de 1906, y la crisis de 1917, con protagonismo de las Juntas de Defensa, formadas solo por militares.\n\nSegún José Luis Gómez-Navarro, entre los jefes y oficiales se había extendido desde principios del siglo XX, y de forma creciente desde la Primera Guerra Mundial, un antiparlamentarismo y un rechazo de la política, y se consolidó en el ejército la defensa de valores como el orden, la jerarquía, la disciplina y la autoridad, y de su papel de garante de la continuidad del sistema social y político: la monarquía."
+    },
+    {
+     "titulo": "La «guerra social» de 1918-1923",
+     "nivel": "hecho",
+     "texto": "Tras la crisis de 1917 estalló una grave crisis social en Cataluña y en el campo andaluz: una auténtica «guerra social», con atentados anarquistas y pistoleros a sueldo de los patronos en Cataluña, y tres años de movilizaciones de jornaleros en Andalucía, el «trienio bolchevique» (1918-1920), con huelgas respondidas con extraordinaria dureza por patronos y autoridades, ocupación de fincas desalojadas por la Guardia Civil y el ejército, sabotajes y atentados. La CNT y el PSOE-UGT no se incorporaron al movimiento comunista, pero la Revolución de Octubre actuó en España como un mito movilizador que conmocionó durante años al obrerismo.\n\nEn Cataluña el conflicto empezó en febrero de 1919 con la huelga de «la Canadiense», la empresa Barcelona Traction, Light and Power, que suministraba electricidad a Barcelona: la ciudad se quedó sin luz, sin agua y sin tranvías. El gobierno liberal del conde de Romanones optó por negociar, con el decreto de las ocho horas y un nuevo sistema de seguros sociales, pero tuvo que ceder a la presión de la patronal, que exigía mano dura y encontró apoyo en el capitán general Joaquín Milans del Bosch y en Alfonso XIII. El conflicto degeneró en una «guerra social» con Barcelona como escenario principal, con la violencia de los pistoleros de la patronal respondida por atentados de los grupos de acción anarquistas. El gobierno conservador de Eduardo Dato nombró gobernador civil al general Severiano Martínez Anido, que endureció la represión contra la CNT con un régimen de terror y la ley de fugas: algunos detenidos eran ejecutados sobre la marcha."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fuente que he leído llega hasta los antecedentes; faltan el golpe de 1923, la actuación del régimen y su caída, que quedan para documentar. Siguiendo la regla de seguir el dinero y el poder, el dato que ya se ve es que la patronal presionó para que el gobierno endureciera la respuesta y encontró apoyo en el capitán general y en el rey. Qué parte tuvo cada grupo económico en el golpe de 1923 no consta aquí: queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -14876,6 +15004,28 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Estado Novo fue la dictadura autoritaria y corporativista que gobernó Portugal sin interrupción durante 41 años, de 1933 a 1974, hasta que la Revolución de los Claveles y el periodo turbulento posterior llevaron al país a la democracia. Junto con el periodo previo, la Dictadura Nacional (1926-1933), se denomina también Segunda República portuguesa; se le conoce además como salazarismo, por el protagonismo de António de Oliveira Salazar, presidente del Consejo de Ministros de 1932 a 1968. Fue la dictadura más duradera del siglo XX en Europa occidental: con la Dictadura Nacional, cuarenta y ocho años."
+    },
+    {
+     "titulo": "Cómo era el régimen",
+     "nivel": "hecho",
+     "texto": "Fue un régimen autoritario, corporativista, conservador, tradicionalista, colonialista, nacionalista y de «tercera posición», antiliberal, antiparlamentario y anticomunista, instituido bajo la dirección de Salazar, un tradicionalista católico muy influido por Charles Maurras y por las encíclicas de León XIII, sobre todo la Rerum novarum, y por la Doctrina Social de la Iglesia. Se apoyaba en la censura, la propaganda, las organizaciones juveniles (Mocidade Portuguesa) y paramilitares (Legión Portuguesa), el culto al jefe y la religión católica. Tenía como lema «Deus, Pátria e Família», idéntico al lema franquista. La fuente lo compara con los regímenes de Franco, Mussolini y Hitler por su Estado corporativo, pero señala que suele considerarse que no fue un régimen fascista convencional, porque no tuvo un movimiento fascista de masas autónomo y porque Salazar apreciaba el tradicionalismo católico y desconfiaba del carácter modernista de los fascismos.\n\nLa voluntad de Salazar era la fuente última de las decisiones y la oposición política estaba severamente prohibida. Había una Asamblea Nacional (con funciones legislativas) y una Cámara Corporativa (meramente consultiva), pero solo representaban a los sectores que apoyaban al régimen, organizados en la União Nacional, el partido único fundado por Salazar en 1931, que Marcelo Caetano convirtió en Acción Nacional Popular. La unanimidad era la norma. El Gobierno controlaba el ejecutivo y el legislativo (podía dictar decretos-ley que se imponían a las leyes de la Asamblea) y el presidente del Consejo de Ministros concentraba los poderes; el presidente de la República tenía funciones meramente ceremoniales y, aunque formalmente podía nombrar y sustituir al presidente del Consejo, Salazar cuidó de que el cargo lo ocupara siempre un partidario de la União Nacional."
+    },
+    {
+     "titulo": "Culto, Iglesia y censura",
+     "nivel": "hecho",
+     "texto": "El culto al líder era central, con Salazar como figura principal y después, sin gran éxito, Caetano. Se le representaba como un jefe paternal, de maneras tranquilas, austero y eremita, «casado con la Nación»; como no era militar sino un político académico, podía mostrarse sin las poses militaristas de Franco, Mussolini o Hitler. Aunque Salazar no promovía un culto a su persona, permitía que sus subordinados lo llamaran «Ungido de Dios», «Salvador de la Patria» o «Redentor de la Nación».\n\nEl régimen se asoció a la Iglesia católica por el Concordato de 1940 (revisado en 1975 y sustituido por el de 2004), que le daba vastos privilegios a cambio de su firme apoyo político, algo parecido al tradicionalismo de la España franquista. Un servicio de censura previa controlaba las publicaciones, las emisiones de radio y televisión, nacionales y extranjeras, y prohibía toda crítica a la doctrina del Estado Novo y defendía «la moral y las buenas costumbres». Se apoyaba además en la propaganda política, con el Secretariado de Propaganda Nacional."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente que he leído cubre la definición y las características, pero no la historia año a año ni el final: faltan la guerra colonial, la política económica y la Revolución de los Claveles de 1974, que quedan por documentar. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué grupos económicos sostuvieron el corporativismo y qué hicieron las colonias por la economía portuguesa. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -23024,6 +23174,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fueron",
+     "nivel": "hecho",
+     "texto": "Las Juventudes Hitlerianas (Hitlerjugend, HJ) las estableció el NSDAP en 1926 para crear un nuevo sistema de adiestramiento de los jóvenes alemanes, con entrenamiento militar y formación en la ideología nazi. Su motivación básica era entrenar a futuros ciudadanos del Reich y soldados que sirvieran fielmente a la Alemania nazi cuando fueran adultos. Sus principios eran el nazismo, el racismo, el nacionalismo, la actividad física, el entrenamiento militar, la camaradería, la vida al aire libre, la invocación a la sangre y el honor. El entrenamiento físico y militar se consideraba tan importante como la educación académica y científica: en los campamentos los jóvenes aprendían a usar armas, desarrollaban fuerza física y se educaban en el amor a la naturaleza. El uniforme era una camisa marrón claro y un pantalón corto marrón, parecido al de los scouts."
+    },
+    {
+     "titulo": "Cómo nacieron",
+     "nivel": "hecho",
+     "texto": "Nacieron del Jugendbund der NSDAP, fundado en marzo de 1922, con la primera reunión en mayo y la afiliación reservada a varones de catorce a dieciocho años, supervisado por las SA y dirigido al principio por Adolf Lenk. Se hundió tras el Putsch fallido de 1923 y durante el encarcelamiento de Hitler. Se fundaron numerosos grupos juveniles locales para llenar el hueco; en 1926 el Grossdeutsche Jugendbewegung de Kurt Gruber se renombró Hitler Jugend, con Gruber como líder, pronto sustituido por Franz von Pfeffer.\n\nEn 1928 se añadió una sección para varones de diez a catorce años (que en 1931 pasó a llamarse Deutsches Jungvolk), y una sección femenina para jóvenes de catorce a dieciocho años, el Bund Deutscher Mädel (BDM) desde 1930, y otra para muchachas más jóvenes en 1931. En 1931 se creó el cargo de Reichsjugendführer y Baldur von Schirach tomó el control de las Juventudes. Se independizaron de las SA en mayo de 1932, pero el Gobierno de Weimar ilegalizó a ambos grupos en junio del mismo año."
+    },
+    {
+     "titulo": "De organización a obligación",
+     "nivel": "hecho",
+     "texto": "Tras la llegada de los nazis al poder otros grupos juveniles de derechas fueron absorbidos por las HJ, y desde el 1 de diciembre de 1936, con el servicio obligatorio juvenil (Jugenddienstpflicht), todos los demás grupos juveniles se abolieron y sus miembros pasaron a las HJ. La pertenencia fue obligatoria para los jóvenes de más de 17 años desde 1939 y para todos los niños desde los diez años a partir de 1941. En 1940 Arthur Axmann sustituyó a Schirach como líder. Las cifras que da la fuente: unos 107.956 miembros semanas antes de que Hitler llegara al poder en 1933, más de 2,3 millones ese mismo año, 600.000 más el 18 de febrero de 1934 al incorporar a las Juventudes Evangélicas, unos siete millones en 1938, 1,7 millones más al año siguiente, y ocho millones en 1940, la última cifra fiable. (La fuente da también cifras de 1923 a 1930, de 1.000 a 25.000 miembros, que no cuadran con una fundación en 1926: es una discrepancia interna de la fuente.)\n\nCon el avance de la guerra, las HJ hicieron el trabajo de los hombres alistados en las fuerzas armadas: defensa antiaérea, limpieza de ruinas y reconstrucción de instalaciones bombardeadas. Los de mayor edad pasaron pronto a los ejércitos, sobre todo a las Waffen-SS, y fueron la fuente de tropas de la 12.ª División Panzer SS Hitlerjugend, al mando de Kurt Meyer. Desde agosto de 1944, cuando soviéticos y estadounidenses invadían Alemania, se alistó a miembros cada vez más jóvenes en la Wehrmacht."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos son la organización, las cifras y el paso de la afiliación voluntaria a la obligatoria. Lo que esta fuente no recoge es el final de la organización ni su disolución tras 1945, ni el efecto a largo plazo sobre quienes pasaron por ella. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financiaba la organización: no consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -31050,6 +31222,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "El Partido Comunista de China (PCCh) es el partido fundador y gobernante de la República Popular China, y el miembro mayor del Frente Unido de China. Con una afiliación de casi 100 millones, es una de las mayores organizaciones políticas del mundo, considerado el segundo partido político más grande. Se fundó en 1921, y su congreso fundacional se celebró del 23 al 31 de julio. En español se usan «Partido Comunista de China» y «Partido Comunista Chino»; las publicaciones en español de la propia República Popular usan siempre la primera."
+    },
+    {
+     "titulo": "Orígenes",
+     "nivel": "hecho",
+     "texto": "En 1912 la dinastía Qing había sido derrocada y nació la República de China, cuyos primeros años se caracterizaron por las luchas internas de la era de los señores de la guerra y la sumisión del país a Occidente y al Imperio japonés. El PCCh reivindica sus orígenes en el Movimiento del Cuatro de Mayo de 1919, una oleada de protestas contra la creciente influencia japonesa, en la que ideologías occidentales radicales como el marxismo y el anarquismo ganaron terreno entre los intelectuales. Chen Duxiu y Li Dazhao estuvieron entre los primeros intelectuales destacados que apoyaron públicamente el leninismo y la revolución mundial y vieron en la Revolución de Octubre un ejemplo a seguir. En 1920 el Partido Comunista de la Unión Soviética designó a Grigori Voitinsky para difundir las ideas marxistas en China y Japón, y Shanghái se convirtió en la sede del Komintern en el Lejano Oriente. Ni Li ni Chen pudieron asistir al primer congreso, pero Chen fue el primer secretario general.\n\nEn el contexto de la guerra civil rusa, los bolcheviques buscaban aliados en Oriente contra Japón, la principal fuerza anticomunista de la región: además de fomentar el PCCh, entablaron relaciones con el Kuomintang (KMT), el partido de Sun Yat-sen, el hombre detrás de la Revolución de Xinhai de 1911. El 6 de octubre de 1923 el Komintern envió a Mijaíl Borodin a Cantón. El Comité Central del partido, Stalin y el Komintern esperaban que los comunistas acabaran siendo la fuerza dominante dentro del KMT."
+    },
+    {
+     "titulo": "Guerra civil, Larga Marcha y 1949",
+     "nivel": "hecho",
+     "texto": "Inicialmente el PCCh mantuvo una alianza con el KMT, que estaba en el poder, pero en 1927 el ejército del KMT, liderado por Chiang Kai-shek, cambió su postura e inició una campaña de exterminio contra los comunistas, con lo que empezó la guerra civil china (1927-1937 y 1945-1949). El PCCh creó el Ejército Popular de Liberación y sobrevivió con una dramática retirada de miles de kilómetros hacia el interior, la Larga Marcha, que llevó a Mao Zedong al liderazgo del partido. En 1937 el PCCh y el KMT se aliaron para resistir la invasión del Imperio japonés, lo que dio origen a la segunda guerra sino-japonesa (1937-1945). Tras la derrota de Japón en 1945 se reanudó la guerra civil y venció el PCCh en 1949. En septiembre de 1949, la Conferencia Consultiva Política del Pueblo Chino proclamó la fundación de la República Popular China bajo el control del PCCh, y Mao fue elegido presidente."
+    },
+    {
+     "titulo": "De Mao a Deng y Xi",
+     "nivel": "hecho",
+     "texto": "Mao fue, con altibajos, el líder predominante del partido y de China en las décadas de 1950, 1960 y 1970. Bajo su liderazgo China consolidó su unidad territorial, con excepción de Taiwán, recuperó los enclaves coloniales y semicoloniales, con excepción de Hong Kong y Macao, puso fin al llamado «siglo de la humillación» y obtuvo el reconocimiento de las Naciones Unidas en 1971. Zhou Enlai fue otro líder de gran relevancia en esas décadas, caracterizadas por intensas campañas de reformas económicas e ideológicas como el Movimiento antiderechista, el Gran Salto Adelante o la Revolución Cultural, que llevó al poder a la llamada Banda de los Cuatro.\n\nTras la muerte de Mao en 1976 y la derogación de la Revolución Cultural, el partido dio, bajo la influencia de Deng Xiaoping, un notable giro ideológico para reformar radicalmente la economía y desarrollar un modelo de «socialismo de mercado» (socialismo con características chinas), que se ha mantenido desde entonces, ha convertido a China en la segunda economía del mundo y ha mejorado considerablemente las condiciones de vida de la población. Esa orientación la han mantenido sus sucesivos secretarios generales y presidentes: Jiang Zemin (1993-2002), Hu Jintao (2002-2012) y Xi Jinping (desde 2012)."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado es el recorrido institucional. Siguiendo la regla de seguir el dinero y el poder, esta fuente no recoge las cifras de las campañas de Mao (Gran Salto Adelante, Revolución Cultural) ni cuánto dinero y apoyo exterior, soviético y de otras fuentes, recibió el partido en cada etapa; queda como tema abierto a documentar con fuentes específicas, no como dato. El éxito económico del «socialismo con características chinas» es un hecho que la fuente afirma, pero cómo se financió y quién se benefició tampoco consta aquí."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -33936,6 +34135,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Revolución cubana",
       "url": "https://es.wikipedia.org/wiki/Revolución_cubana",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Revolución cubana",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_cubana",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -33948,6 +34152,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La Revolución cubana fue un movimiento revolucionario nacionalista de izquierda liderado por el guerrillero Fidel Castro, el Movimiento 26 de Julio y sus aliados contra la dictadura militar de Fulgencio Batista. Empezó el 26 de julio de 1953 con el asalto al cuartel Moncada y continuó de forma esporádica hasta que los rebeldes derrotaron a Batista el 31 de diciembre de 1958 y sustituyeron su gobierno. El 26 de julio se celebra en Cuba como el Día de la Revolución. El Movimiento 26 de Julio se reformó después siguiendo líneas marxista-leninistas y se convirtió en el Partido Comunista de Cuba en octubre de 1965. Fue la primera revolución comunista del continente americano."
+    },
+    {
+     "titulo": "Antecedentes: de Martí a la enmienda Platt",
+     "nivel": "hecho",
+     "texto": "Tras las tendencias reformistas y autonomistas de pensadores criollos como José de la Luz y Caballero y Félix Varela, se llegó a la conclusión de que solo la independencia podía reivindicar a la población. Pese a las advertencias de autonomistas cubanos y de políticos españoles como Sagasta y Martínez Campos sobre la utilidad de la autonomía, el gobierno de Cánovas del Castillo siguió una política empecinada y burocrática de extorsión y extremismo con la isla. Fracasada la guerra de los Diez Años (1868-1878), el pensamiento revolucionario tomó forma con José Martí, que creó en Nueva York el Partido Revolucionario Cubano; la «Guerra Necesaria» empezó el 24 de febrero de 1895.\n\nMartí había advertido del peligro de Estados Unidos para Cuba y América Latina; cayó en combate el 19 de mayo de 1895, y Antonio Maceo el 7 de diciembre de 1896. En 1898, con la guerra ganándola los insurrectos, el presidente William McKinley ordenó la intervención estadounidense, lo que aceleró la derrota de España. El Congreso de EE. UU. aprobó la enmienda Teller, que declaraba su «desinterés sobre Cuba», pero Washington se apresuró a establecer su dominio con la enmienda Platt, que impuso a la naciente constitución cubana: le daba el derecho a permanecer en Cuba, se apoderó de la base naval de Guantánamo y creó las bases legales y económicas para la isla, mientras impedía a los patriotas cubanos gozar de la independencia que les correspondía.\n\nEntre los antecedentes generales de la revolución, la fuente cita la influencia de la Revolución de Octubre de 1917, que creó partidos socialistas y comunistas por todo el subcontinente, y el acercamiento a la Unión Soviética, que sumados a la presión de las capas oprimidas influyeron en el camino socialista que tomó la revolución."
+    },
+    {
+     "titulo": "Después de 1959",
+     "nivel": "hecho",
+     "texto": "La revolución tuvo fuertes repercusiones nacionales e internacionales. Transformó las relaciones entre Estados Unidos y Cuba, aunque en la década de 2010 cobraron impulso los esfuerzos por mejorarlas, el llamado deshielo cubano. Inmediatamente después, el gobierno de Castro inició un programa de nacionalización, centralización de la prensa y consolidación política que transformó la economía y la sociedad civil de Cuba. La revolución inició también una era de intervención cubana en conflictos extranjeros de África, América Latina, el sudeste asiático y Oriente Próximo. En los seis años siguientes a 1959 hubo varias rebeliones, sobre todo en las montañas del Escambray, que el gobierno derrotó.\n\nEl sistema político instaurado, que organizaciones como Amnistía Internacional consideran autoritario y restrictivo, se ha mantenido en el poder pese a las sanciones de los países alineados con Estados Unidos y a la caída del bloque socialista. Sus detractores lo acusan de violar derechos como la libertad de expresión y la de circulación."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos que constan explican por qué la revolución se leyó en clave de soberanía frente a Estados Unidos, empezando por la enmienda Platt y Guantánamo. Siguiendo la regla de seguir el dinero y el poder, esta fuente no recoge qué intereses económicos estadounidenses y cubanos tenía la isla antes de 1959 ni qué se nacionalizó y a quién; queda como tema abierto a documentar con fuente específica, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -35349,6 +35575,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fueron",
+     "nivel": "hecho",
+     "texto": "Las Schutzstaffel («escuadrón de protección», SS) fueron una organización paramilitar, policial, política, penitenciaria y de seguridad al servicio de Adolf Hitler y del Partido Nacionalsocialista (NSDAP) en la Alemania nazi y, durante la Segunda Guerra Mundial, en toda la Europa ocupada. Bajo la dirección de Heinrich Himmler (1929-1945) pasaron de ser una pequeña milicia política a uno de los organismos más poderosos de la Alemania nazi: la principal agencia de seguridad, vigilancia masiva y terrorismo de Estado dentro de Alemania y de los territorios ocupados. Sus dos grupos principales eran la Allgemeine SS, responsable de ejecutar la política racial y que actuaba como policía general, y las Waffen-SS, tropas de combate dentro de las fuerzas armadas alemanas. Un tercer grupo, las SS-Totenkopfverbände, dirigía los campos de concentración y exterminio. Otras ramas eran la Gestapo (policía secreta) y el Sicherheitsdienst (servicio de inteligencia)."
+    },
+    {
+     "titulo": "Orígenes (1923-1929)",
+     "nivel": "hecho",
+     "texto": "En 1923 el Partido Nazi creó en Múnich una pequeña unidad de guardia voluntaria, la Saal-Schutz («seguridad de salón»), para proteger sus reuniones. Ese año Hitler ordenó formar también una pequeña unidad de guardaespaldas para su servicio personal, separada de la «masa sospechosa» del partido, que incluía a la Sturmabteilung (SA), en la que no confiaba. Se llamó Stabswache, estaba formada por ocho hombres, comandados por Julius Schreck y Joseph Berchtold, y tomó como modelo la Marinebrigade Ehrhardt, un Freikorps de la época. En mayo de 1923 se renombró Stoßtrupp-Hitler. Tras el Putsch de la Cervecería de 1923 se desarticuló.\n\nEn 1925 Hitler ordenó a Schreck organizar una nueva unidad de guardaespaldas, el Schutzkommando, que ese año se amplió a organización nacional y se renombró sucesivamente hasta quedar como Schutzstaffel. Oficialmente, las SS marcaron su fundación el 9 de noviembre de 1925, segundo aniversario del Putsch. Schreck fue su primer jefe, desde marzo de 1925; Joseph Berchtold le sucedió el 15 de abril de 1926 y cambió el título a Reichsführer-SS; y el 1 de marzo de 1927 el cargo pasó a Erhard Heiden, que impuso un código de disciplina más estricto que el de las SA. Entre 1925 y 1929 las SS se consideraban un pequeño batallón de las SA y, salvo en Múnich, no lograron mantener el impulso de afiliación, que bajó de 1.000 a 280 miembros mientras las SA seguían creciendo."
+    },
+    {
+     "titulo": "Crímenes y empresas",
+     "nivel": "hecho",
+     "texto": "Las SS fueron la principal organización encargada de ejecutar la «solución final» de la judería europea en el Holocausto, y las responsables del asesinato de millones de personas de minorías étnicas europeas: judíos, eslavos y gitanos. Los miembros de todas sus ramas cometieron crímenes de guerra y de lesa humanidad durante la Segunda Guerra Mundial. Las SS estuvieron además implicadas en empresas comerciales y explotaron a los internos de los campos de concentración como trabajadores esclavos.\n\nTras la derrota de la Alemania nazi, las SS y el NSDAP fueron procesados en los juicios de Núremberg como organizaciones criminales. Ernst Kaltenbrunner, el oficial de más alto rango de las SS superviviente, fue declarado culpable de crímenes de lesa humanidad por ese tribunal y ahorcado en 1946."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente leída para esta ficha llega solo hasta la entrada de Himmler y el resumen general; no cubre la evolución de 1929 a 1945 ni el detalle de las empresas comerciales de las SS. Siguiendo la regla de seguir el dinero y el poder, queda por documentar qué empresas se beneficiaron del trabajo esclavo de los campos y quiénes eran sus propietarios y financiadores: no consta aquí y queda como tema abierto, a tratar con fuentes específicas, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
