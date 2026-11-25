@@ -306,6 +306,17 @@ window.CRONO = {
      "fecha": "2026-11-20",
      "duracion": "12:33 (transcripción)",
      "resumen": "Monólogo de Jorge Guerra sobre el origen de la psicología moderna y su uso como control social: Brentano como semilla, Freud y el psicoanálisis, Tavistock y Bernays. Sostiene que estos cuatro aparatos construyen el «diván» donde se nos analiza y se nos aplica la terapia, y cierra llamando a derribar los esquemas mentales inyectados. Procesado en cinco fichas: las cuatro estaciones y la tesis de las «cuatro cárceles»."
+    },
+    {
+     "id": "jesuita-inspiro-revolucion-francesa",
+     "titulo": "El jesuita que inspiró la Revolución Francesa (transcripción)",
+     "tipo": "video",
+     "referencia": "Vídeo del canal de Jorge Guerra (título leído en YouTube el 2026-11-25); fecha de publicación no consta. Transcripción en .txt aportada por smiguel1 el 2026-11-25.",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "estado": "procesada",
+     "fecha": "2026-11-25",
+     "duracion": "no consta (transcripción .txt, sin tiempos)",
+     "resumen": "Monólogo de Jorge Guerra que comenta, con hipótesis propias, un trabajo de la historiadora Florence Gauthier sobre Juan de Mariana como inspirador de las ideas de la Revolución Francesa: el nombre «Marianne», el derecho natural de Salamanca y la soberanía del pueblo frente a Bodin. Añade que ningún jesuita actuaría sin el visto bueno del general, relaciona a Mariana con Sarpi y la banca central veneciana, y repasa a Enrique IV, la supresión de 1773, los Illuminati, Mably, Montesquieu y Robespierre. Concluye que la Revolución fue el golpe de la nobleza negra veneciana para crear repúblicas con banca central y que los jesuitas jugaban «a dos caras»."
     }
    ]
   },
@@ -9202,6 +9213,22 @@ window.CRONO = {
      "url": null,
      "resumen": "Nocera presenta a los jesuitas como una orden militar de alto nivel en la estructura global, fundada según él en 1534 con Pablo III (Farnese) y restaurada en 1814; afirma que desde 1942 operan con ONG de ayuda y que controlan el adoctrinamiento educativo y la UNESCO.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P3 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Tesis del autor: un jesuita es un soldado con lealtad total al general de la orden, el «Papa Negro»; ninguno daría un paso contrario a Roma sin su beneplácito.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P9 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Conclusión del autor: los jesuitas jugaban a destronar reyes dependientes del papado, de ahí las expulsiones, para entregar sus dominios a la nobleza negra veneciana.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -14475,6 +14502,30 @@ window.CRONO = {
      "ubicacion": "min. 54:34",
      "url": "https://www.youtube.com/watch?v=UDWUUrEbiYc&t=3274s",
      "resumen": "Su influencia llegó a John Law, Quesnay y Adam Smith y, sobre todo, al Banco de Ámsterdam.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P1 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a Florence Gauthier), el derecho natural de las Declaraciones de 1789 y 1793 remonta a la Escuela de Salamanca, que renovó su definición y permitió la filosofía moderna del derecho natural.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P1 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a Gauthier), la escuela elaboró la idea de una sociedad basada en derechos y libertades a raíz de la conquista de América.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P9 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Opinión del autor: la escuela aportó mucho conocimiento, pero los jesuitas jugaban a otro juego, el de las dos caras.",
      "contradice": []
     }
    ],
@@ -21431,6 +21482,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
      "resumen": "Dice que deriva de los alumbrados españoles, muy anteriores.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P5 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, tres años después de la supresión de 1773, en 1776, los jesuitas continuaron su labor con los Illuminati de Baviera.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -24332,6 +24391,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=KIdt_RtP-q8&t=3883s",
      "resumen": "Guerra sostiene que la leyenda negra antiespañola nació en Venecia, contra el reino de Aragón y por el control del Mediterráneo, mucho antes de la conquista de América.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P8 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Tesis del autor: las familias venecianas tenían como principal enemigo al Reino de Aragón, y de ahí vendría el origen de la leyenda negra contra España.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -25482,6 +25549,62 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "marianne-simbolo-republica",
+   "tipo": "hecho",
+   "titulo": "Marianne, símbolo de la República Francesa",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1792,
+    "hasta": 1792,
+    "aprox": true,
+    "texto": "hacia 1792 (el nombre se populariza durante la Revolución)",
+    "fuente": "oficial"
+   },
+   "resumen": "Figura alegórica de la República Francesa; se discute de dónde viene su nombre.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P1 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a la historiadora Florence Gauthier), el nombre con que se designa a la República francesa procede del jesuita Juan de Mariana.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P7 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, los adversarios de la República usaban «marianos» como término despectivo, según un historiador que cita (la transcripción dice «Emil Apolis»; sin comprobar).",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Marianne es la figura alegórica y uno de los símbolos nacionales de la República Francesa; con gorro frigio, encarna sus valores. La Wikipedia en español dice que su nombre derivaría del jesuita Juan de Mariana: los contrarrevolucionarios llamaban «marianos» a los revolucionarios y estos adoptaron el nombre, que se popularizó hacia 1792 (una canción en occitano sobre Marianne fue muy popular en otoño de ese año). Los orígenes de la imagen, en cambio, se sitúan en obras de Daumier (1848) y Rude (monarquía de Julio).",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Marianne",
+      "url": "https://es.wikipedia.org/wiki/Marianne",
+      "consultado": "2026-11-25"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "juan-de-mariana",
+     "nota": ""
+    },
+    {
+     "id": "revolucion-francesa-1789",
+     "nota": ""
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "marx-gymnasium-treveris-1830",
@@ -34633,6 +34756,22 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
      "resumen": "Dice que fuentes financieras ligadas a los jesuitas ayudaron a derribar la monarquía y llevaron a Napoleón al poder.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P1 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a Gauthier), el término «derecho natural» de las Declaraciones de 1789 y 1793 resume la teoría de las revoluciones.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P8 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Tesis del autor: la Revolución fue el golpe definitivo de la nobleza negra para quitar el poder a los reinos dependientes de Roma y convertirlos en repúblicas con banca central, manejadas con préstamos y dinero deuda, según el modelo veneciano de Sarpi.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -37577,6 +37716,14 @@ window.CRONO = {
      "ubicacion": "línea 1",
      "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
      "resumen": "Cuenta que se refugiaron en Prusia y Rusia, donde se ignoraron las órdenes del papa.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P5 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, por sus actividades antimonárquicas los jesuitas fueron expulsados de varios reinos católicos y la presión de los monarcas llevó al papa a suprimirlos en 1773.",
      "contradice": []
     }
    ],
@@ -45306,6 +45453,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=HuhndZUq20Q&t=3269s",
      "resumen": "Según el autor, el Imperio español de Carlos V, con su águila bicéfala, pertenecía a los mismos grupos de poder que el angloimperio.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P3 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (con la historiadora Gauthier), Carlos I de España y V de Alemania fue el último gran defensor de la monarquía universal católica, a la que se opone la propuesta de Mariana.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -47655,6 +47810,14 @@ window.CRONO = {
      "ubicacion": "min. 19:13",
      "url": "https://www.youtube.com/watch?v=UDWUUrEbiYc&t=1153s",
      "resumen": "Según el autor, Enrique de Navarra tenía como asesor a Duplessis-Mornay, de la red de Sarpi.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P5 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, Enrique IV, de familia protestante y casado con María de Médici, se convirtió al catolicismo en 1595 y tomó un confesor jesuita; así entraron los jesuitas en Francia y sus ideas con ellos. Atribuye a esa solución el asesinato del rey. Las fechas del autor difieren de la versión oficial.",
      "contradice": []
     }
    ],
@@ -52508,6 +52671,14 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=k1Hu1RZCK-0",
      "resumen": "Lo presenta como un militar español, fundador de una organización militar, no como un religioso.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P8 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Tesis del autor (remite a otros vídeos de su canal): la Compañía trabajó para la nobleza negra veneciana desde que la familia Contarini gestionó la presentación del proyecto de Loyola al papa; los Borgia, de Aragón, lo financiaron.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -53961,6 +54132,48 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "jean-bodin",
+   "tipo": "persona",
+   "titulo": "Jean Bodin",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1530,
+    "hasta": 1596,
+    "fuente": "oficial"
+   },
+   "resumen": "Jurista y pensador político francés, teórico de la soberanía y del absolutismo.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P4 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a Gauthier), Juan de Mariana se opone a Bodin, teórico del poder real absoluto y del derecho divino, por ver en su obra una justificación de la tiranía. La transcripción escribe «Jean Baudet».",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Jean Bodin (Angers, 1530 – Laon, 1596), intelectual francés de filosofía, derecho, ciencia política y economía. Con Los seis libros de la República estableció pronto el concepto de soberanía y las bases teóricas de la monarquía absoluta; se le cuenta entre los fundadores del absolutismo francés.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Jean Bodin",
+      "url": "https://es.wikipedia.org/wiki/Jean_Bodin",
+      "consultado": "2026-11-25"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "juan-de-mariana",
+     "nota": ""
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
   },
   {
    "id": "jean-christophe-napoleon",
@@ -55431,6 +55644,38 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=UDWUUrEbiYc&t=3321s",
      "resumen": "Según la historiadora Florence Gauthier, el nombre «Marianne» de la Revolución Francesa, culmen del modelo veneciano de banca central privatizada, vendría de la inspiración de sus tratados.",
      "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P2 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, Mariana nació en 1535, entró en la Compañía en 1554, estudió en España, Italia y Francia y es uno de los grandes exponentes del derecho natural de Salamanca; su teoría confía el poder a un monarca y distingue al buen rey del tirano.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P4 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor (siguiendo a la historiadora Florence Gauthier), Mariana sostiene que la soberanía pertenece al pueblo y está por encima del rey, y se opone a Jean Bodin, defensor del poder real absoluto.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P3 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Tesis del autor, no de la historiadora: ningún jesuita habría dado un paso contrario a Roma sin el visto bueno del general de la orden, así que las ideas de Mariana contaron con ese aval.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P9 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Conclusión del autor: Mariana fue pieza fundamental, lo supiera o no, de un juego de los jesuitas para desplazar a reyes dependientes del papado en favor de la nobleza negra veneciana.",
+     "contradice": []
     }
    ],
    "oficial": {
@@ -55454,6 +55699,18 @@ window.CRONO = {
     },
     {
      "id": "compania-de-jesus",
+     "nota": ""
+    },
+    {
+     "id": "marianne-simbolo-republica",
+     "nota": ""
+    },
+    {
+     "id": "jean-bodin",
+     "nota": ""
+    },
+    {
+     "id": "mably",
      "nota": ""
     }
    ],
@@ -57399,6 +57656,57 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "mably",
+   "tipo": "persona",
+   "titulo": "Gabriel Bonnot de Mably",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1709,
+    "hasta": 1785,
+    "fuente": "oficial"
+   },
+   "resumen": "Filósofo francés, autor de De los derechos y deberes del ciudadano.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P6 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, Mably reabrió en Francia la reflexión sobre la ciudadanía con De los derechos y deberes del ciudadano (escrito en 1758, publicado tras su muerte a principios de 1789), cuyo preámbulo resumiría las tesis de Juan de Mariana.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Gabriel Bonnot de Mably (Grenoble, 14-3-1709 – París, 2-4-1785), filósofo francés, hermanastro de Condillac y precursor del socialismo utópico. Criticó la desigualdad y la propiedad privada. Su Des droits et des devoirs du citoyen, escrito en 1758, se publicó tras su muerte.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Gabriel Bonnot de Mably",
+      "url": "https://es.wikipedia.org/wiki/Gabriel_Bonnot_de_Mably",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Gabriel Bonnot de Mably",
+      "url": "https://en.wikipedia.org/wiki/Gabriel_Bonnot_de_Mably",
+      "consultado": "2026-11-25"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "juan-de-mariana",
+     "nota": ""
+    },
+    {
+     "id": "revolucion-francesa-1789",
+     "nota": ""
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "macrobio",
    "tipo": "persona",
    "titulo": "Macrobio",
@@ -58930,6 +59238,59 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "montesquieu",
+   "tipo": "persona",
+   "titulo": "Montesquieu",
+   "carril": "politica-economia",
+   "temas": [],
+   "fecha": {
+    "desde": 1689,
+    "hasta": 1755,
+    "fuente": "oficial"
+   },
+   "resumen": "Jurista y filósofo político francés, autor de Sobre el espíritu de las leyes.",
+   "segun": [
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P6 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, en 1748 Montesquieu definió el derecho a la existencia diciendo que la limosna a un hombre desnudo no sustituye las obligaciones del Estado, que debe a todos una subsistencia asegurada; lo presenta como el mismo proyecto de la Escuela de Salamanca.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Charles Louis de Secondat, barón de Montesquieu (Castillo de la Brède, 18-1-1689 – París, 10-2-1755), jurista y filósofo político. Su obra principal, Sobre el espíritu de las leyes, se publicó anónima en Ginebra en 1748 y destaca por la teoría de la separación de poderes.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Montesquieu",
+      "url": "https://es.wikipedia.org/wiki/Montesquieu",
+      "consultado": "2026-11-25"
+     }
+    ]
+   },
+   "citas": [
+    {
+     "resumen": "La limosna a un hombre desnudo en la calle no cumple las obligaciones del Estado, que debe una subsistencia asegurada a todos",
+     "atribuida_a": "Montesquieu",
+     "verificacion": "sin-comprobar",
+     "fuente": "El autor la sitúa en 1748 sin dar la obra; falta localizarla en Sobre el espíritu de las leyes."
+    }
+   ],
+   "conexiones": [
+    {
+     "id": "revolucion-francesa-1789",
+     "nota": ""
+    },
+    {
+     "id": "escuela-de-salamanca",
+     "nota": ""
+    }
+   ],
+   "estado": "borrador",
+   "vista": "politica"
+  },
+  {
    "id": "morris-fishbein",
    "tipo": "persona",
    "titulo": "Morris Fishbein",
@@ -60187,6 +60548,14 @@ window.CRONO = {
      "ubicacion": "min. 52:36",
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=3156s",
      "resumen": "Jorge Guerra presenta a Sarpi como el que extendió por Europa el empirismo, la idea de que solo existe lo demostrable: trató con Francis Bacon e influyó en Hobbes y en Adam Smith, que dejó escrita su admiración por él.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P4 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Hipótesis del autor: los escritos de Juan de Mariana corren en paralelo con el movimiento veneciano de los «Giovanni», liderado por Sarpi, cuya política habría impuesto la banca central y un modelo financiero origen de organismos como el FMI.",
      "contradice": []
     }
    ],
@@ -62833,6 +63202,14 @@ window.CRONO = {
      "ubicacion": "línea 1",
      "url": "https://www.youtube.com/watch?v=G5krK3-SyEs",
      "resumen": "Afirma que pasa por jesuita y que no es casual.",
+     "contradice": []
+    },
+    {
+     "autor": "jorge-guerra",
+     "obra": "jesuita-inspiro-revolucion-francesa",
+     "ubicacion": "P6 (sin minutos; transcripción .txt)",
+     "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
+     "resumen": "Según el autor, Robespierre fue un continuador de la filosofía del derecho natural moderno y retomó ideas de Juan de Mariana, que entonces se debatían ampliamente.",
      "contradice": []
     }
    ],
