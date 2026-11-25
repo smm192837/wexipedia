@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-24",
+ "generado": "2026-11-25",
  "publica": false,
  "carriles": [
   {
@@ -709,7 +709,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "El calendario gregoriano lo promulgó el papa Gregorio XIII en 1582 (bula Inter gravissimas): se saltaron 10 días (al jueves 4 de octubre siguió el viernes 15) para corregir la deriva del calendario juliano desde el concilio de Nicea (325). No consta en las fuentes consultadas ningún añadido de 185 años a la historia en 1725 ni un proyecto imperial del Arca de Salomón; es tesis del autor (Nueva Cronología).",
+    "resumen": "Qué es: una tesis de la cronología alternativa según la cual se habrían añadido 185 años a la historia hacia 1725, ligados al proyecto del calendario gregoriano; la versión oficial es la reforma de 1582. El calendario gregoriano lo promulgó el papa Gregorio XIII en 1582 (bula Inter gravissimas): se saltaron 10 días (al jueves 4 de octubre siguió el viernes 15) para corregir la deriva del calendario juliano desde el concilio de Nicea (325). No consta en las fuentes consultadas ningún añadido de 185 años a la historia en 1725 ni un proyecto imperial del Arca de Salomón; es tesis del autor (Nueva Cronología).",
     "fuentes": [
      {
       "titulo": "Britannica: Ten Days That Vanished",
@@ -763,7 +763,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La Compañía de Jesús se aprobó en 1540 y los siglos XVII y XVIII están ampliamente documentados; las fuentes consultadas sobre la reforma del calendario (1582) no recogen la eliminación de 186 años. Es tesis del autor, sin respaldo académico en lo consultado.",
+    "resumen": "Qué es: una tesis de la cronología alternativa según la cual se habrían eliminado 186 años de los siglos XVII y XVIII tras crear a los jesuitas. La Compañía de Jesús se aprobó en 1540 y los siglos XVII y XVIII están ampliamente documentados; las fuentes consultadas sobre la reforma del calendario (1582) no recogen la eliminación de 186 años. Es tesis del autor, sin respaldo académico en lo consultado.",
     "fuentes": [
      {
       "titulo": "Britannica: Ten Days That Vanished",
@@ -924,7 +924,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». La cifra de 1830 no la he contrastado.",
+    "resumen": "Qué es: la fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». La cifra de 1830 no la he contrastado.",
     "fuentes": [
      {
       "titulo": "Dartmouth: The St. Petersburg Academy",
@@ -1381,7 +1381,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Los dispositivos de «dinamización» de Marcel Violet (campo magnético y condensador aislado con cera de abeja conectado a electrodos) solo se describen en páginas divulgativas y de venta. No hay evidencia científica fiable de que el agua pueda «energetizarse» ni de que el método tenga efectos terapéuticos; los químicos que lo han revisado lo consideran pseudociencia. No se ha encontrado respaldo para remisiones de cáncer.",
+    "resumen": "Qué es: un sistema de Marcel Violet con un imán, un electrodo y un condensador aislado con cera de abeja, que según Artur Sala daría energía a cualquier agua. Los dispositivos de «dinamización» de Marcel Violet (campo magnético y condensador aislado con cera de abeja conectado a electrodos) solo se describen en páginas divulgativas y de venta. No hay evidencia científica fiable de que el agua pueda «energetizarse» ni de que el método tenga efectos terapéuticos; los químicos que lo han revisado lo consideran pseudociencia. No se ha encontrado respaldo para remisiones de cáncer.",
     "fuentes": [
      {
       "titulo": "Stephen Lower (chem1): Energized water",
@@ -1570,7 +1570,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Almagesto es el tratado astronómico que Claudio Ptolomeo escribió en Alejandría en el siglo II: contiene el catálogo estelar más completo de la Antigüedad y la exposición del modelo geocéntrico. Los manuscritos griegos llegaron a Italia en el Renacimiento, sobre todo tras la caída de Constantinopla (1453), y la biblioteca medicea Laurenciana, proyectada por Miguel Ángel para Clemente VII, abrió al público en 1571.",
+    "resumen": "Qué es: el traslado a Italia del Almagesto, el tratado de astronomía de Ptolomeo, que un autor fecha mucho más tarde que la versión oficial. El Almagesto es el tratado astronómico que Claudio Ptolomeo escribió en Alejandría en el siglo II: contiene el catálogo estelar más completo de la Antigüedad y la exposición del modelo geocéntrico. Los manuscritos griegos llegaron a Italia en el Renacimiento, sobre todo tras la caída de Constantinopla (1453), y la biblioteca medicea Laurenciana, proyectada por Miguel Ángel para Clemente VII, abrió al público en 1571.",
     "fuentes": [
      {
       "titulo": "Almagesto (datos de autoridad de la Biblioteca Nacional de España)",
@@ -1791,7 +1791,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Teilhard y Julian Huxley se escribían desde hacia 1944 y se conocieron en París en 1946; Huxley escribió la introducción de la edición inglesa de «El fenómeno humano» (1959, publicado antes en francés en 1955, tras la muerte de Teilhard, el 10-4-1955). La obra de Thomas H. Huxley «Evidence as to Man's Place in Nature» es de 1863, no de 1904 como dice el autor. No se ha comprobado la carta de 1941 ni el homenaje de Teilhard de 1949.",
+    "resumen": "Qué es: la correspondencia y amistad entre el jesuita Pierre Teilhard de Chardin y el biólogo Julian Huxley. Teilhard y Julian Huxley se escribían desde hacia 1944 y se conocieron en París en 1946; Huxley escribió la introducción de la edición inglesa de «El fenómeno humano» (1959, publicado antes en francés en 1955, tras la muerte de Teilhard, el 10-4-1955). La obra de Thomas H. Huxley «Evidence as to Man's Place in Nature» es de 1863, no de 1904 como dice el autor. No se ha comprobado la carta de 1941 ni el homenaje de Teilhard de 1949.",
     "fuentes": [
      {
       "titulo": "Teilhard Association (RU): Teilhard the Jesuit and Huxley the agnostic",
@@ -2046,7 +2046,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El siglo XVIII fue decisivo para la apertura de bibliotecas y archivos públicos en Europa: la Real Biblioteca Pública española nació en 1711-1712 por iniciativa de Felipe V y el Archivo General de Indias se creó en 1785 para reunir la documentación americana. Otras instituciones de la misma lista son anteriores a esa centuria, como el archivo de Simancas, por lo que no todos los fondos citados se fundaron en el Setecientos.",
+    "resumen": "Qué es: el nacimiento de archivos y bibliotecas públicas en la Europa del siglo XVIII, que un autor presenta como obra de los imperios. El siglo XVIII fue decisivo para la apertura de bibliotecas y archivos públicos en Europa: la Real Biblioteca Pública española nació en 1711-1712 por iniciativa de Felipe V y el Archivo General de Indias se creó en 1785 para reunir la documentación americana. Otras instituciones de la misma lista son anteriores a esa centuria, como el archivo de Simancas, por lo que no todos los fondos citados se fundaron en el Setecientos.",
     "fuentes": [
      {
       "titulo": "Historia de la Biblioteca Nacional de España",
@@ -2115,7 +2115,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Mae-Wan Ho (1941-2016) describió en sus propios artículos y libros («The Rainbow and the Worm») que una larva de mosca vista con microscopio de luz polarizada mostraba colores de interferencia, y de ahí dedujo un organismo «cristal líquido» y agua celular cristalina coherente. Es una tesis minoritaria y propia de la autora; no he hallado en las fuentes abiertas consultadas una validación independiente, y la birrefringencia de los tejidos ordenados no demuestra por sí sola coherencia cuántica.",
+    "resumen": "Qué es: una observación de Mae-Wan Ho con un microscopio de luz polarizada, en la que ve colores en una larva de mosca; Artur Sala la usa para defender que el agua de la célula es cristalina. Mae-Wan Ho (1941-2016) describió en sus propios artículos y libros («The Rainbow and the Worm») que una larva de mosca vista con microscopio de luz polarizada mostraba colores de interferencia, y de ahí dedujo un organismo «cristal líquido» y agua celular cristalina coherente. Es una tesis minoritaria y propia de la autora; no he hallado en las fuentes abiertas consultadas una validación independiente, y la birrefringencia de los tejidos ordenados no demuestra por sí sola coherencia cuántica.",
     "fuentes": [
      {
       "titulo": "Mae-Wan Ho: Water is the means, medium and message of life",
@@ -4178,7 +4178,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Biblioteca de Alejandría, ligada al Mouseion, se formó en el siglo III a. C. bajo los Ptolomeos y desapareció en la Antigüedad entre incendios, saqueos y abandono; no hay constancia de que sus fondos se trasladaran a París. Joseph Justus Scaliger (1540-1609) fue un filólogo y cronólogo francés que trabajó sobre textos antiguos en Leiden, sin relación con esos fondos.",
+    "resumen": "Qué es: una tesis de un autor según la cual los fondos de la Biblioteca de Alejandría pasaron a Joseph Scaliger, en París; la versión oficial dice que desapareció en la Antigüedad. La Biblioteca de Alejandría, ligada al Mouseion, se formó en el siglo III a. C. bajo los Ptolomeos y desapareció en la Antigüedad entre incendios, saqueos y abandono; no hay constancia de que sus fondos se trasladaran a París. Joseph Justus Scaliger (1540-1609) fue un filólogo y cronólogo francés que trabajó sobre textos antiguos en Leiden, sin relación con esos fondos.",
     "fuentes": [
      {
       "titulo": "El incendio de la Biblioteca de Alejandría por los árabes: una historia falsificada",
@@ -4234,7 +4234,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado; la parte de Antonio Toledo y el duque de Alba no la he contrastado.",
+    "resumen": "Qué es: el destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo. Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado; la parte de Antonio Toledo y el duque de Alba no la he contrastado.",
     "fuentes": [
      {
       "titulo": "Klaus Wagner: Pasado, presente y futuro de la Biblioteca Colombina",
@@ -4360,7 +4360,7 @@ window.CRONO = {
      "obra": "la-voz-de-arthur-31-reich",
      "ubicacion": "min. 13:02",
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=782s",
-     "resumen": "En Noruega Reich trabajó con tres conjuntos de microscopios Reichert (uno en campo claro, dos en campo oscuro) y publicó «Los experimentos con biones sobre el origen de la vida»; en el libro aparecen cinco preparados (1, 2, 3, 6 y 8), y existieron otros que no dieron esos resultados. Según el autor, concluyó que la unidad de vida no es la célula sino una diminuta partícula browniana capaz de autoorganizarse.",
+     "resumen": "En Noruega Reich usó un equipo de tres microscopios Reichert, uno de campo claro y dos de campo oscuro, y publicó «Los experimentos con biones sobre el origen de la vida»; en el libro aparecen cinco preparados (1, 2, 3, 6 y 8), y existieron otros que no dieron esos resultados. Según el autor, concluyó que la unidad de vida no es la célula sino una diminuta partícula browniana capaz de autoorganizarse.",
      "contradice": []
     },
     {
@@ -4389,7 +4389,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base. Entre 1934 y 1939 Reich realizó los «experimentos con biones», que publicó como «Die Bione» en Oslo en febrero de 1938 (edición inglesa en 1979, «The Bion Experiments on the Origin of Life»): examinó protozoos y otras muestras y observó vesículas azules luminosas que llamó biones, una forma de vida rudimentaria entre lo vivo y lo no vivo.",
+    "resumen": "Qué es: los «biones», unas vesículas que Wilhelm Reich afirmó ver al microscopio en materia en descomposición, y que para él mostraban cómo surge la vida. Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base. Entre 1934 y 1939 Reich realizó los «experimentos con biones», que publicó como «Die Bione» en Oslo en febrero de 1938 (edición inglesa en 1979, «The Bion Experiments on the Origin of Life»): examinó protozoos y otras muestras y observó vesículas azules luminosas que llamó biones, una forma de vida rudimentaria entre lo vivo y lo no vivo.",
     "fuentes": [
      {
       "titulo": "Wilhelm Reich Museum: The Bion Experiments",
@@ -4466,7 +4466,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón». Escribió que había hallado bacilos T en tejido canceroso en descomposición y que, inyectados en ratones, provocaban inflamación y cáncer; concluyó que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas sufren una «degeneración biónica». La comunidad científica considera la teoría del orgón una pseudociencia.",
+    "resumen": "Qué es: un libro de Wilhelm Reich de 1948 con sus investigaciones sobre el cáncer. Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón». Escribió que había hallado bacilos T en tejido canceroso en descomposición y que, inyectados en ratones, provocaban inflamación y cáncer; concluyó que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas sufren una «degeneración biónica». La comunidad científica considera la teoría del orgón una pseudociencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -4803,7 +4803,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Próspero de Bofarull (Reus, 1777-1859), director del Archivo de la Corona de Aragón, publicó «Los condes de Barcelona vindicados» en 1836 (dos tomos), no en 1838. La historiografía lo sitúa en el Romanticismo catalán. Que parte de la historia de los reyes de España sea ficticia es lectura del autor.",
+    "resumen": "Qué es: el libro «Los condes de Barcelona vindicados» de Próspero de Bofarull, director del Archivo de la Corona de Aragón. Próspero de Bofarull (Reus, 1777-1859), director del Archivo de la Corona de Aragón, publicó «Los condes de Barcelona vindicados» en 1836 (dos tomos), no en 1838. La historiografía lo sitúa en el Romanticismo catalán. Que parte de la historia de los reyes de España sea ficticia es lectura del autor.",
     "fuentes": [
      {
       "titulo": "MedCat: Los condes de Barcelona vindicados (1836)",
@@ -5606,7 +5606,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La bula «Inter gravissimas» de Gregorio XIII (24 de febrero de 1582) reformó el calendario juliano para corregir su desfase; el proyecto lo desarrolló el astrónomo calabrés Luigi Lilio y lo completó el jesuita Christopher Clavius. Se quitaron diez días en octubre de 1582 y lo adoptaron primero los países católicos (Italia, España, Portugal, Polonia). Las fuentes consultadas no mencionan a la Universidad de Salamanca ni a los Alba, ni describen el calendario como un engaño.",
+    "resumen": "Qué es: la reforma del calendario que promulgó el papa Gregorio XIII en 1582 para corregir el desfase del calendario juliano. La bula «Inter gravissimas» de Gregorio XIII (24 de febrero de 1582) reformó el calendario juliano para corregir su desfase; el proyecto lo desarrolló el astrónomo calabrés Luigi Lilio y lo completó el jesuita Christopher Clavius. Se quitaron diez días en octubre de 1582 y lo adoptaron primero los países católicos (Italia, España, Portugal, Polonia). Las fuentes consultadas no mencionan a la Universidad de Salamanca ni a los Alba, ni describen el calendario como un engaño.",
     "fuentes": [
      {
       "titulo": "Britannica: Ten Days That Vanished",
@@ -5734,7 +5734,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "El canal de troncos de Steyrling se construyó en 1922 para el príncipe Adolf de Schaumburg-Lippe (el autor habla de «conde»).",
+    "resumen": "Qué es: un canal de agua construido en 1922 en Steyrling para transportar troncos, diseñado por Viktor Schauberger. El canal de troncos de Steyrling se construyó en 1922 para el príncipe Adolf de Schaumburg-Lippe (el autor habla de «conde»).",
     "fuentes": [
      {
       "titulo": "Schauberger, canal de troncos de Steyrling",
@@ -7269,7 +7269,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Stanley Meyer (1940–1998) afirmaba que un coche podía funcionar con agua. En 1996 un tribunal de Ohio, tras el examen de tres peritos, concluyó que su célula era una electrólisis corriente y que había cometido «fraude grave y descarado». Murió de repente en 1998. Un tribunal de Ohio dictaminó en 1996 «fraude grosero y flagrante»; el forense atribuyó la muerte (1998) a un aneurisma cerebral. La tesis del envenenamiento es una teoría conspirativa.",
+    "resumen": "Qué es: un aparato con el que Stanley Meyer decía que un coche podía funcionar con agua. Stanley Meyer (1940–1998) afirmaba que un coche podía funcionar con agua. En 1996 un tribunal de Ohio, tras el examen de tres peritos, concluyó que su célula era una electrólisis corriente y que había cometido «fraude grave y descarado». Murió de repente en 1998. Un tribunal de Ohio dictaminó en 1996 «fraude grosero y flagrante»; el forense atribuyó la muerte (1998) a un aneurisma cerebral. La tesis del envenenamiento es una teoría conspirativa.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Water fuel cell",
@@ -7388,52 +7388,6 @@ window.CRONO = {
    "estado": "aprobado",
    "naturaleza": "ocultismo",
    "vista": "religion"
-  },
-  {
-   "id": "cfr-1921",
-   "tipo": "hecho",
-   "titulo": "Council on Foreign Relations (1921)",
-   "carril": "politica-economia",
-   "naturaleza": "gobiernos",
-   "temas": [],
-   "fecha": {
-    "desde": 1921
-   },
-   "resumen": "Think tank de Nueva York; Nocera lo describe como un círculo de poder con miembros corporativos y presidentes.",
-   "segun": [
-    {
-     "autor": "giuseppe-nocera",
-     "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 3, sección «CFR»",
-     "url": null,
-     "resumen": "Nocera dice que se creó en 1921, un año después de la RIIA (Chatham House), con sede en Nueva York y Washington; su lista de miembros corporativos coincide en un 90 % con la de empresas de la City; cita al presidente Richard Haass en 2017: «un Orden Mundial 2.0» basado en la «obligación soberana»; afirma que presidentes de distintos países se reúnen con el CFR.",
-     "contradice": []
-    }
-   ],
-   "oficial": {
-    "resumen": "El Council on Foreign Relations se fundó en 1921 en Nueva York como think tank sobre política exterior y publica la revista Foreign Affairs. Que sea un círculo oculto de poder no forma parte de la versión académica.",
-    "fuentes": [
-     {
-      "titulo": "CFR: acerca de",
-      "url": "https://www.cfr.org/about",
-      "consultado": "2026-11-23"
-     },
-     {
-      "titulo": "Wikipedia (en): Council on Foreign Relations",
-      "url": "https://en.wikipedia.org/wiki/Council_on_Foreign_Relations",
-      "consultado": "2026-11-23"
-     }
-    ]
-   },
-   "citas": [],
-   "conexiones": [
-    {
-     "id": "consejo-relaciones-exteriores",
-     "nota": "Posible duplicado: ya existe una ficha del CFR. Revisar."
-    }
-   ],
-   "estado": "borrador",
-   "vista": "politica"
   },
   {
    "id": "checa-policia-secreta-sovietica",
@@ -7672,7 +7626,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "William Harvey, formado en Padua con Fabricio de Aquapendente, describió la circulación completa de la sangre en «De motu cordis» (1628). Antes, Ibn al-Nafis (siglo XIII), Miguel Servet (1553) y Realdo Colombo habían descrito la circulación pulmonar, y Fabricio las válvulas venosas (1603). En los repasos históricos consultados no figura Paolo Sarpi entre los precursores.",
+    "resumen": "Qué es: la publicación de «De motu cordis» (1628), el tratado en que William Harvey describe cómo la sangre circula por todo el cuerpo impulsada por el corazón. William Harvey, formado en Padua con Fabricio de Aquapendente, describió la circulación completa de la sangre en «De motu cordis» (1628). Antes, Ibn al-Nafis (siglo XIII), Miguel Servet (1553) y Realdo Colombo habían descrito la circulación pulmonar, y Fabricio las válvulas venosas (1603). En los repasos históricos consultados no figura Paolo Sarpi entre los precursores.",
     "fuentes": [
      {
       "titulo": "NLM: historia de la circulación de la sangre (Harvey)",
@@ -7726,7 +7680,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La llamada «cirugía psíquica» se considera un fraude basado en trucos de manos; la Comisión Federal de Comercio de EE. UU. la calificó en 1975 de «engaño total» y la Sociedad Americana del Cáncer no halló beneficio objetivo y desaconseja acudir a ella, porque puede apartar de un tratamiento médico real. Pachita (Oaxaca, m. 1979) figura en informes de parapsicología como cirujana psíquica muy conocida en los años 60, sin verificación independiente de sus operaciones.",
+    "resumen": "Qué es: las operaciones de la sanadora mexicana Doña Pachita, que cuenta el investigador Jacobo Grinberg y que la versión oficial considera trucos. La llamada «cirugía psíquica» se considera un fraude basado en trucos de manos; la Comisión Federal de Comercio de EE. UU. la calificó en 1975 de «engaño total» y la Sociedad Americana del Cáncer no halló beneficio objetivo y desaconseja acudir a ella, porque puede apartar de un tratamiento médico real. Pachita (Oaxaca, m. 1979) figura en informes de parapsicología como cirujana psíquica muy conocida en los años 60, sin verificación independiente de sus operaciones.",
     "fuentes": [
      {
       "titulo": "Psychic surgery (resumen enciclopédico, con FTC 1975 y ACS 1990)",
@@ -8217,7 +8171,7 @@ window.CRONO = {
    "resumen": "Libro maya de Chichén Itzá con tablas de calendario, eclipses y Venus; la biblioteca de Dresde lo compró en 1739 a un particular de Viena.",
    "segun": [],
    "oficial": {
-    "resumen": "El Códice de Dresde es un libro maya originario de la región de Chichén Itzá (México), del siglo XIII (hacia 1200-1250); se cree que copia un texto original de trescientos o cuatrocientos años antes. Contiene registros astronómicos avanzados: tablas calendáricas, de eclipses, de ciclos solares y lunares y del ciclo de Venus, además de información astrológica ligada a deidades. Tiene 39 hojas escritas por ambos lados y 3,56 metros de largo. En 1739 lo compró Johann Christian Götze, director de la Biblioteca Real de Dresde, a un propietario privado de Viena; no se sabe cómo llegó a Viena, y se cree que pudo haberlo enviado Hernán Cortés en 1519 al rey Carlos I.",
+    "resumen": "Qué es: un libro maya con tablas de calendario, eclipses y Venus, que se guarda en la biblioteca de Dresde. El Códice de Dresde es un libro maya originario de la región de Chichén Itzá (México), del siglo XIII (hacia 1200-1250); se cree que copia un texto original de trescientos o cuatrocientos años antes. Contiene registros astronómicos avanzados: tablas calendáricas, de eclipses, de ciclos solares y lunares y del ciclo de Venus, además de información astrológica ligada a deidades. Tiene 39 hojas escritas por ambos lados y 3,56 metros de largo. En 1739 lo compró Johann Christian Götze, director de la Biblioteca Real de Dresde, a un propietario privado de Viena; no se sabe cómo llegó a Viena, y se cree que pudo haberlo enviado Hernán Cortés en 1519 al rey Carlos I.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Códice de Dresde",
@@ -8273,7 +8227,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El informe del Ejército de EE. UU. de 1978 menciona a Kervran y Komaki como investigadores recientes de las transmutaciones biológicas, sin validar su hipótesis; la comunidad científica no las acepta.",
+    "resumen": "Qué es: el trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. El informe del Ejército de EE. UU. de 1978 menciona a Kervran y Komaki como investigadores recientes de las transmutaciones biológicas, sin validar su hipótesis; la comunidad científica no las acepta.",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -8315,7 +8269,7 @@ window.CRONO = {
    "resumen": "Colegio universitario jesuita de Worcester (Massachusetts), fundado en 1843; el primer college católico de Nueva Inglaterra.",
    "segun": [],
    "oficial": {
-    "resumen": "El College of the Holy Cross es un colegio universitario privado de artes liberales de Worcester, Massachusetts, fundado en 1843 por Benedict Joseph Fenwick bajo los auspicios de la Compañía de Jesús. Fue el primer college católico de Nueva Inglaterra y está entre las instituciones católicas de educación superior más antiguas de Estados Unidos.",
+    "resumen": "Qué es: un colegio universitario jesuita de Worcester, en Massachusetts, fundado en 1843. El College of the Holy Cross es un colegio universitario privado de artes liberales de Worcester, Massachusetts, fundado en 1843 por Benedict Joseph Fenwick bajo los auspicios de la Compañía de Jesús. Fue el primer college católico de Nueva Inglaterra y está entre las instituciones católicas de educación superior más antiguas de Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): College of the Holy Cross",
@@ -8553,7 +8507,7 @@ window.CRONO = {
      "obra": "pistas-2026-11-20",
      "ubicacion": "nota de captura, pistas por investigar",
      "url": null,
-     "resumen": "Pista de SMiguel1: buscar fuente sobre la película de Zapruder, la Comisión Warren y la comisión de la Cámara de 1979; controversia abierta.",
+     "resumen": "Pista de SMiguel1: buscar fuente sobre la película de Zapruder, la Comisión Warren y la investigación posterior de la Cámara (1979), un caso que sigue abierto.",
      "contradice": []
     }
    ],
@@ -9423,7 +9377,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado.",
+    "resumen": "Qué es: un congreso de astrología celebrado en Vigo en junio de 2016, con el tema «El saber cosmológico». El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado.",
     "fuentes": [
      {
       "titulo": "Programa del 33.º Congreso Ibérico de Astrología, Vigo 2016 (astro3z)",
@@ -9594,7 +9548,7 @@ window.CRONO = {
      "obra": "entrevista-sala-amigos-de-magna-ciencia",
      "ubicacion": "min. 1:02:46–1:03:51",
      "url": null,
-     "resumen": "Según Trallero, en 2020 se cerró un ciclo de 200 años de conjunciones de Júpiter y Saturno en signos de tierra y se abrió otro en aire; lo asocia al paso de la industrialización a lo digital y a la inteligencia artificial, aunque dice que aún no se ve qué forma tomará.",
+     "resumen": "Según Trallero, 2020 cerró dos siglos de conjunciones de Júpiter y Saturno en signos de tierra y abrió otra serie en aire; lo asocia al paso de la industrialización a lo digital y a la inteligencia artificial, aunque dice que aún no se ve qué forma tomará.",
      "contradice": []
     }
    ],
@@ -9611,7 +9565,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "Una gran conjunción es la conjunción de Júpiter y Saturno, cuando ambos planetas se ven más cerca en el cielo; ocurre aproximadamente cada 20 años, cuando Júpiter adelanta a Saturno. La más reciente fue el 21 de diciembre de 2020, con los planetas separados 6 minutos de arco, la menor distancia entre ellos desde 1623. La siguiente será el 4 de noviembre de 2040.",
+    "resumen": "Qué es: la conjunción de Júpiter y Saturno del 21 de diciembre de 2020, el momento en que ambos planetas se ven más cerca en el cielo, que ocurre más o menos cada 20 años. Una gran conjunción es la conjunción de Júpiter y Saturno, cuando ambos planetas se ven más cerca en el cielo; ocurre aproximadamente cada 20 años, cuando Júpiter adelanta a Saturno. La más reciente fue el 21 de diciembre de 2020, con los planetas separados 6 minutos de arco, la menor distancia entre ellos desde 1623. La siguiente será el 4 de noviembre de 2040.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Great conjunction (en)",
@@ -9758,7 +9712,7 @@ window.CRONO = {
      "nota": "Citado por Nocera."
     },
     {
-     "id": "cfr-1921",
+     "id": "consejo-relaciones-exteriores",
      "nota": "Misma visita de Bolsonaro."
     }
    ],
@@ -9900,13 +9854,9 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": {
-    "desde": 1920,
-    "hasta": 1929,
-    "aprox": true,
-    "texto": "década de 1920",
-    "fuente": "autor"
+    "desde": 1921
    },
-   "resumen": "Según el autor, decide la política exterior de EE. UU.",
+   "resumen": "Según Jorge Guerra, decide la política exterior de EE. UU.; Giuseppe Nocera lo describe como un círculo de poder con miembros corporativos y presidentes.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -9914,6 +9864,14 @@ window.CRONO = {
      "ubicacion": "min. 23:57",
      "url": "https://www.youtube.com/watch?v=O6Kqwoe0LBQ&t=1437s",
      "resumen": "Allí se define la política exterior estadounidense con pensadores y economistas formados en universidades jesuitas.",
+     "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, sección «CFR»",
+     "url": null,
+     "resumen": "Nocera dice que se creó en 1921, un año después de la RIIA (Chatham House), con sede en Nueva York y Washington; su lista de miembros corporativos coincide en un 90 % con la de empresas de la City; cita al presidente Richard Haass en 2017: «un Orden Mundial 2.0» basado en la «obligación soberana»; afirma que presidentes de distintos países se reúnen con el CFR.",
      "contradice": []
     }
    ],
@@ -9937,7 +9895,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "aprobado",
+   "estado": "borrador",
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -10198,7 +10156,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Rivalidad entre los dos químicos por la prioridad en la fermentación, la enfermedad del gusano de seda y, después, la teoría de los gérmenes. El historiador Gerald Geison (1995), que estudió los cuadernos de Pasteur, concluyó que Pasteur trató muy mal a Béchamp, pero no que lo plagiara en un sentido significativo. La medicina actual se basa en la teoría de los gérmenes. Béchamp (n. 1816) y Pasteur (n. 1822) no fueron maestro y alumno: coincidieron como colegas en Estrasburgo, donde Béchamp ocupó en 1854 una cátedra que había tenido Pasteur, y Béchamp dedicó su tesis de 1853 a Pasteur. La «confesión» de Pasteur al morir no consta en las fuentes consultadas.",
+    "resumen": "Qué es: la disputa entre dos químicos franceses del siglo XIX, Antoine Béchamp y Louis Pasteur, sobre qué causa la fermentación y de dónde salen los microbios; de fondo, el «terreno» frente al «germen». Rivalidad entre los dos químicos por la prioridad en la fermentación, la enfermedad del gusano de seda y, después, la teoría de los gérmenes. El historiador Gerald Geison (1995), que estudió los cuadernos de Pasteur, concluyó que Pasteur trató muy mal a Béchamp, pero no que lo plagiara en un sentido significativo. La medicina actual se basa en la teoría de los gérmenes. Béchamp (n. 1816) y Pasteur (n. 1822) no fueron maestro y alumno: coincidieron como colegas en Estrasburgo, donde Béchamp ocupó en 1854 una cátedra que había tenido Pasteur, y Béchamp dedicó su tesis de 1853 a Pasteur. La «confesión» de Pasteur al morir no consta en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: E. Douglas Hume (cita a Geison 1995, p. 275)",
@@ -10727,7 +10685,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Según el NCI el cáncer es una enfermedad genética: cambios en genes (oncogenes, supresores tumorales, reparación del ADN) que descontrolan el crecimiento celular. El libro de Cowan (Chelsea Green, 2019) sostiene que la teoría de los oncogenes es incompleta y atribuye la causa al agua estructurada celular; no hay ensayos que lo respalden.",
+    "resumen": "Qué es: un libro de Thomas Cowan sobre el cáncer, que Artur Sala usa para defender que se debe a una desorganización de la célula. Según el NCI el cáncer es una enfermedad genética: cambios en genes (oncogenes, supresores tumorales, reparación del ADN) que descontrolan el crecimiento celular. El libro de Cowan (Chelsea Green, 2019) sostiene que la teoría de los oncogenes es incompleta y atribuye la causa al agua estructurada celular; no hay ensayos que lo respalden.",
     "fuentes": [
      {
       "titulo": "Instituto Nacional del Cáncer (EE. UU.): ¿Qué es el cáncer?",
@@ -11316,7 +11274,7 @@ window.CRONO = {
    "resumen": "Organismo público español de investigación, creado por ley el 24-11-1939 como heredero material de la Junta para Ampliación de Estudios.",
    "segun": [],
    "oficial": {
-    "resumen": "El CSIC es un organismo público español de investigación, adscrito al Ministerio de Ciencia, Innovación y Universidades. Su ley fundacional es del 24 de noviembre de 1939 y lo hizo heredero material, no intelectual, de la Junta para Ampliación de Estudios e Investigaciones Científicas (1907-1939). Tiene 121 institutos y tres centros nacionales; con datos de 2009, generaba cerca del 20 % de la producción científica española. Su logotipo es «El árbol de la ciencia» de Ramon Llull.",
+    "resumen": "Qué es: el Consejo Superior de Investigaciones Científicas, organismo público español de investigación creado por ley en 1939. El CSIC es un organismo público español de investigación, adscrito al Ministerio de Ciencia, Innovación y Universidades. Su ley fundacional es del 24 de noviembre de 1939 y lo hizo heredero material, no intelectual, de la Junta para Ampliación de Estudios e Investigaciones Científicas (1907-1939). Tiene 121 institutos y tres centros nacionales; con datos de 2009, generaba cerca del 20 % de la producción científica española. Su logotipo es «El árbol de la ciencia» de Ramon Llull.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Consejo Superior de Investigaciones Científicas",
@@ -11367,7 +11325,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Louis Pasteur Vallery-Radot, nieto de Pasteur, donó sus archivos (191 volúmenes, 152 cuadernos) a la Biblioteca Nacional de Francia en 1964. Geison los estudió y en 1995 mostró diferencias entre lo que Pasteur publicaba y lo que anotaba (vacunas del carbunco y de la rabia). Las fuentes consultadas no recogen ninguna nota de Pasteur que dé la razón a Béchamp; el propio autor dice no haber visto la prueba.",
+    "resumen": "Qué es: los cuadernos de laboratorio privados de Pasteur, que su familia guardó y donó a la Biblioteca Nacional de Francia, y que permiten comparar lo que anotaba con lo que publicaba. Louis Pasteur Vallery-Radot, nieto de Pasteur, donó sus archivos (191 volúmenes, 152 cuadernos) a la Biblioteca Nacional de Francia en 1964. Geison los estudió y en 1995 mostró diferencias entre lo que Pasteur publicaba y lo que anotaba (vacunas del carbunco y de la rabia). Las fuentes consultadas no recogen ninguna nota de Pasteur que dé la razón a Béchamp; el propio autor dice no haber visto la prueba.",
     "fuentes": [
      {
       "titulo": "BnF: Bibliografía del bicentenario de Pasteur (2022)",
@@ -11557,7 +11515,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Steiner impartió el Curso de agricultura en ocho conferencias del 7 al 16 de junio de 1924 en Koberwitz (hoy Kobierzyce, Polonia), invitado por el conde Carl von Keyserlingk, ante unos 111 asistentes. Fue su único curso sobre agricultura y de él nació la agricultura biodinámica. Las revisiones científicas concluyen que los ensayos controlados sobre los preparados biodinámicos son pocos y de calidad desigual, sin evidencia de que mejoren suelo o cultivo respecto a la agricultura orgánica.",
+    "resumen": "Qué es: un ciclo de ocho conferencias de Rudolf Steiner en junio de 1924 que dio origen a la agricultura biodinámica. Steiner impartió el Curso de agricultura en ocho conferencias del 7 al 16 de junio de 1924 en Koberwitz (hoy Kobierzyce, Polonia), invitado por el conde Carl von Keyserlingk, ante unos 111 asistentes. Fue su único curso sobre agricultura y de él nació la agricultura biodinámica. Las revisiones científicas concluyen que los ensayos controlados sobre los preparados biodinámicos son pocos y de calidad desigual, sin evidencia de que mejoren suelo o cultivo respecto a la agricultura orgánica.",
     "fuentes": [
      {
       "titulo": "J. Paull (2011): Biodynamic Agriculture: the journey from Koberwitz",
@@ -11644,7 +11602,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Artur Sala puso en marcha en 2022 un programa de formación anual en Plural 21, presentado como «universidad» o «Pluriversidad», con cursos de física, química, biología, geología y botánica aplicada a la homeopatía y la espagiria. En el proyecto colaboran Ana María Oliva, Almudena, Alejandro Moreno, Pedro Cano, Rocío Lapuente y Naira, según el propio autor. La información procede del autor y de la web de Plural 21, que difunde sus actividades y el canal «La pluriversidad»: no hay una versión oficial independiente.",
+    "resumen": "Qué es: un programa de cursos anuales que Artur Sala imparte desde 2022 en Plural 21. Artur Sala puso en marcha en 2022 un programa de formación anual en Plural 21, presentado como «universidad» o «Pluriversidad», con cursos de física, química, biología, geología y botánica aplicada a la homeopatía y la espagiria. En el proyecto colaboran Ana María Oliva, Almudena, Alejandro Moreno, Pedro Cano, Rocío Lapuente y Naira, según el propio autor. La información procede del autor y de la web de Plural 21, que difunde sus actividades y el canal «La pluriversidad»: no hay una versión oficial independiente.",
     "fuentes": [
      {
       "titulo": "Artur Sala: Curso Anual Ciencia Rigurosa",
@@ -12270,7 +12228,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Catalina II compró en 1765 la biblioteca de Diderot por 15.000 libras y lo nombró bibliotecario vitalicio; Diderot viajó a San Petersburgo en 1773. La biblioteca de Voltaire la compró a su sobrina en diciembre de 1778, tras su muerte, por 30.000 rublos. Las fechas del autor (1773-1774) no coinciden: 1765 y 1778 son las académicas.",
+    "resumen": "Qué es: la venta de las bibliotecas de Diderot y Voltaire a la emperatriz rusa Catalina II. Catalina II compró en 1765 la biblioteca de Diderot por 15.000 libras y lo nombró bibliotecario vitalicio; Diderot viajó a San Petersburgo en 1773. La biblioteca de Voltaire la compró a su sobrina en diciembre de 1778, tras su muerte, por 30.000 rublos. Las fechas del autor (1773-1774) no coinciden: 1765 y 1778 son las académicas.",
     "fuentes": [
      {
       "titulo": "Britannica: Denis Diderot",
@@ -12369,7 +12327,7 @@ window.CRONO = {
    "estado": "borrador",
    "fecha_autor": "2014 (según Sala, de memoria)",
    "oficial": {
-    "resumen": "Ensayo de Sergio Trallero publicado en 2014 por Liber Factory (ISBN 978-84-9949-557-6), según el catálogo de Open Library.",
+    "resumen": "Qué es: un ensayo de Sergio Trallero de 2014 sobre esoterismo, astrología y alquimia. Ensayo de Sergio Trallero publicado en 2014 por Liber Factory (ISBN 978-84-9949-557-6), según el catálogo de Open Library.",
     "fuentes": [
      {
       "titulo": "Open Library: obras de Sergio Trallero",
@@ -13129,7 +13087,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Energy Catalyzer (E-Cat) es un supuesto reactor de fusión fría presentado por Andrea Rossi en 2011, con el apoyo de Sergio Focardi. Según sus promotores, calentaba hidrógeno y lo infundía en polvo de níquel, transmutándolo en cobre y produciendo calor excesivo. No ha sido validado de forma independiente, la comunidad científica lo considera no demostrado y la solicitud de patente internacional recibió un informe desfavorable en 2011.",
+    "resumen": "Qué es: el Energy Catalyzer (E-Cat), un aparato que Andrea Rossi presentó en 2011 como un reactor de fusión fría que generaba energía a partir de hidrógeno y metales. El Energy Catalyzer (E-Cat) es un supuesto reactor de fusión fría presentado por Andrea Rossi en 2011, con el apoyo de Sergio Focardi. Según sus promotores, calentaba hidrógeno y lo infundía en polvo de níquel, transmutándolo en cobre y produciendo calor excesivo. No ha sido validado de forma independiente, la comunidad científica lo considera no demostrado y la solicitud de patente internacional recibió un informe desfavorable en 2011.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Energy Catalyzer",
@@ -13395,7 +13353,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En su discurso de Leiden «El éter y la teoría de la relatividad» (1920), Einstein dijo que, según la relatividad general, el espacio tiene cualidades físicas y que en ese sentido existe un éter, sin el cual el espacio es impensable. Añadió enseguida que ese éter no puede pensarse como un medio ponderable hecho de partes ni se le puede aplicar la idea de movimiento: no recuperó el éter luminífero del siglo XIX. Los historiadores de la física lo leen como una manera de hablar de las propiedades del espacio-tiempo.",
+    "resumen": "Qué es: una conferencia de Einstein en Leiden (1920) sobre si la relatividad general deja sitio a algún tipo de éter. En su discurso de Leiden «El éter y la teoría de la relatividad» (1920), Einstein dijo que, según la relatividad general, el espacio tiene cualidades físicas y que en ese sentido existe un éter, sin el cual el espacio es impensable. Añadió enseguida que ese éter no puede pensarse como un medio ponderable hecho de partes ni se le puede aplicar la idea de movimiento: no recuperó el éter luminífero del siglo XIX. Los historiadores de la física lo leen como una manera de hablar de las propiedades del espacio-tiempo.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -13770,7 +13728,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 5-11-1901 Tesla obtuvo la patente US 685.957, «Aparato para la utilización de energía radiante»: una placa expuesta a la radiación del Sol carga un condensador, y Tesla lo explica con partículas de materia electrizadas que emite el Sol. No consta una verificación experimental de que sea una fuente de «energía libre» o de «electricidad fría».",
+    "resumen": "Qué es: una patente de Nikola Tesla (1901) para un aparato que carga un condensador con la radiación del Sol, a la que él llamaba «energía radiante». El 5-11-1901 Tesla obtuvo la patente US 685.957, «Aparato para la utilización de energía radiante»: una placa expuesta a la radiación del Sol carga un condensador, y Tesla lo explica con partículas de materia electrizadas que emite el Sol. No consta una verificación experimental de que sea una fuente de «energía libre» o de «electricidad fría».",
     "fuentes": [
      {
       "titulo": "Patente US 685.957 (Google Patents)",
@@ -13887,7 +13845,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La epidemia de 2014–2016 en Guinea, Liberia y Sierra Leona fue la mayor de la historia: unos 28.600 casos y 11.300 muertes según la OMS. No hubo vacunación masiva: la vacuna rVSV-ZEBOV (Ervebo, de Merck) se probó en un ensayo en Guinea en 2015 y no se autorizó hasta 2019 (UE en noviembre, EE. UU. en diciembre).",
+    "resumen": "Qué es: el brote de ébola de 2014–2016 en África occidental; la ficha recoge la tesis de un autor sobre su origen y la compara con lo documentado. La epidemia de 2014–2016 en Guinea, Liberia y Sierra Leona fue la mayor de la historia: unos 28.600 casos y 11.300 muertes según la OMS. No hubo vacunación masiva: la vacuna rVSV-ZEBOV (Ervebo, de Merck) se probó en un ensayo en Guinea en 2015 y no se autorizó hasta 2019 (UE en noviembre, EE. UU. en diciembre).",
     "fuentes": [
      {
       "titulo": "OMS: Enfermedad por el virus del Ebola",
@@ -14108,7 +14066,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La llamada Escuela de Traductores de Toledo trabajó en los siglos XII y XIII (Gerardo de Cremona, c. 1114-1187, tradujo allí el Almagesto de Ptolomeo hacia 1175, tras la toma de Toledo por Alfonso VI en 1085); los especialistas niegan que fuera una institución formal. Situarla en el siglo XVI y bajo los Alba contradice esa cronología; es tesis del autor.",
+    "resumen": "Qué es: la Escuela de Traductores de Toledo, que según la versión oficial trabajó en los siglos XII y XIII y que un autor sitúa en el XVI. La llamada Escuela de Traductores de Toledo trabajó en los siglos XII y XIII (Gerardo de Cremona, c. 1114-1187, tradujo allí el Almagesto de Ptolomeo hacia 1175, tras la toma de Toledo por Alfonso VI en 1085); los especialistas niegan que fuera una institución formal. Situarla en el siglo XVI y bajo los Alba contradice esa cronología; es tesis del autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Toledo School of Translators",
@@ -14357,7 +14315,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Según la OMS, la esquizofrenia es un trastorno mental grave. Los antipsicóticos, junto con el apoyo psicosocial, son el tratamiento de referencia y reducen las recaídas. Abandonar la medicación sin supervisión médica aumenta el riesgo de recaída. Existen enfoques alternativos con poca medicación (como Soteria o Diálogo Abierto), pero con evidencia limitada. La guía mhGAP de la OMS recomienda ofrecer antipsicóticos orales junto con intervenciones psicosociales y mantenerlos al menos 7–12 meses tras un primer episodio en remisión, retirándolos con supervisión; una revisión de relapso (Neura, 2022) halla que el riesgo de recaída y de reingreso es mayor tras suspender los antipsicóticos, aunque la medicación continua tiene efectos adversos (aumento de peso, trastornos del movimiento, sedación). La tesis de que medicar crónicamente genere la esquizofrenia no tiene respaldo en estas fuentes.",
+    "resumen": "Qué es: el debate sobre si la esquizofrenia debe tratarse con antipsicóticos o con enfoques de poca medicación. Según la OMS, la esquizofrenia es un trastorno mental grave. Los antipsicóticos, junto con el apoyo psicosocial, son el tratamiento de referencia y reducen las recaídas. Abandonar la medicación sin supervisión médica aumenta el riesgo de recaída. Existen enfoques alternativos con poca medicación (como Soteria o Diálogo Abierto), pero con evidencia limitada. La guía mhGAP de la OMS recomienda ofrecer antipsicóticos orales junto con intervenciones psicosociales y mantenerlos al menos 7–12 meses tras un primer episodio en remisión, retirándolos con supervisión; una revisión de relapso (Neura, 2022) halla que el riesgo de recaída y de reingreso es mayor tras suspender los antipsicóticos, aunque la medicación continua tiene efectos adversos (aumento de peso, trastornos del movimiento, sedación). La tesis de que medicar crónicamente genere la esquizofrenia no tiene respaldo en estas fuentes.",
     "fuentes": [
      {
       "titulo": "OMS — Esquizofrenia, nota descriptiva",
@@ -14824,7 +14782,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y con conclusión condicional («si existen» esas transmutaciones). No es un experimento secreto ni una confirmación experimental.",
+    "resumen": "Qué es: el Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki. El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y con conclusión condicional («si existen» esas transmutaciones). No es un experimento secreto ni una confirmación experimental.",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -14914,7 +14872,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Evento 201 fue un ejercicio de mesa de 3,5 horas celebrado el 18-10-2019 en Nueva York por el Centro de Seguridad Sanitaria de Johns Hopkins con el Foro Económico Mundial y la Fundación Gates; simulaba un coronavirus zoonótico ficticio con 65 millones de muertes a los 18 meses. Johns Hopkins aclaró en 2020 que no era una predicción y que el virus del ejercicio no se parecía al nuevo coronavirus.",
+    "resumen": "Qué es: una simulación en mesa de una pandemia ficticia, celebrada el 18 de octubre de 2019, para ensayar la respuesta de gobiernos y empresas. El Evento 201 fue un ejercicio de mesa de 3,5 horas celebrado el 18-10-2019 en Nueva York por el Centro de Seguridad Sanitaria de Johns Hopkins con el Foro Económico Mundial y la Fundación Gates; simulaba un coronavirus zoonótico ficticio con 65 millones de muertes a los 18 meses. Johns Hopkins aclaró en 2020 que no era una predicción y que el virus del ejercicio no se parecía al nuevo coronavirus.",
     "fuentes": [
      {
       "titulo": "Johns Hopkins CHS: Event 201",
@@ -15149,7 +15107,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alain Aspect cerró una laguna importante de los experimentos sobre las desigualdades de Bell (en 1982) y compartió el Nobel de Física 2022 con Clauser y Zeilinger «por experimentos con fotones entrelazados que establecen la violación de las desigualdades de Bell». Los resultados descartan teorías de variables ocultas locales, pero la física aceptada no interpreta el entrelazamiento como transmisión de información más rápida que la luz.",
+    "resumen": "Qué es: una serie de experimentos de Alain Aspect (años 80) con pares de fotones entrelazados, que ponen a prueba si lo que mide uno depende de lo que se mida en el otro (desigualdades de Bell). Alain Aspect cerró una laguna importante de los experimentos sobre las desigualdades de Bell (en 1982) y compartió el Nobel de Física 2022 con Clauser y Zeilinger «por experimentos con fotones entrelazados que establecen la violación de las desigualdades de Bell». Los resultados descartan teorías de variables ocultas locales, pero la física aceptada no interpreta el entrelazamiento como transmisión de información más rápida que la luz.",
     "fuentes": [
      {
       "titulo": "Nobel Prize: comunicado de Física 2022",
@@ -15198,7 +15156,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "David Latimer plantó en 1960 una tradescantia en una garrafa de vidrio de 10 galones, la regó por última vez en 1972 y la selló. La planta sobrevive por un ciclo cerrado de fotosíntesis y descomposición: su masa procede del CO₂ y del agua, no de materia creada.",
+    "resumen": "Qué es: un jardín cerrado en una garrafa de vidrio, plantado por David Latimer en 1960, que sigue vivo sin que se le añada nada desde 1972. David Latimer plantó en 1960 una tradescantia en una garrafa de vidrio de 10 galones, la regó por última vez en 1972 y la selló. La planta sobrevive por un ciclo cerrado de fotosíntesis y descomposición: su masa procede del CO₂ y del agua, no de materia creada.",
     "fuentes": [
      {
       "titulo": "Snopes: bottle garden 1960",
@@ -15392,7 +15350,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dayton Miller realizó en 1925 y 1926, sobre todo en el observatorio de Mount Wilson (California), millones de lecturas con un interferómetro muy sensible y creyó medir una deriva del éter de unos 8-10 km/s, dependiente del tiempo sideral. Sus resultados no se han reproducido y el análisis de Shankland (1955) los atribuyó a errores sistemáticos, principalmente gradientes de temperatura. Hoy se consideran compatibles con un resultado nulo, y la relatividad especial no necesita el éter.",
+    "resumen": "Qué es: una larga serie de mediciones con un interferómetro, hechas por Dayton Miller en los años 20, para detectar el movimiento de la Tierra respecto al éter. Dayton Miller realizó en 1925 y 1926, sobre todo en el observatorio de Mount Wilson (California), millones de lecturas con un interferómetro muy sensible y creyó medir una deriva del éter de unos 8-10 km/s, dependiente del tiempo sideral. Sus resultados no se han reproducido y el análisis de Shankland (1955) los atribuyó a errores sistemáticos, principalmente gradientes de temperatura. Hoy se consideran compatibles con un resultado nulo, y la relatividad especial no necesita el éter.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dayton Miller",
@@ -15461,7 +15419,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "John B. Watson y su alumna Rosalie Rayner lo realizaron en la Universidad Johns Hopkins y lo publicaron en el Journal of Experimental Psychology en febrero de 1920. Hoy se critica por tener un solo sujeto y ningún control, porque el informe muestra poca evidencia de una fobia real y de que el miedo se generalizara, y por su falta de ética. No se ha replicado.",
+    "resumen": "Qué es: un experimento de psicología de 1920 en el que se condicionó el miedo a una rata blanca en un bebé al unirla a un ruido fuerte. John B. Watson y su alumna Rosalie Rayner lo realizaron en la Universidad Johns Hopkins y lo publicaron en el Journal of Experimental Psychology en febrero de 1920. Hoy se critica por tener un solo sujeto y ningún control, porque el informe muestra poca evidencia de una fobia real y de que el miedo se generalizara, y por su falta de ética. No se ha replicado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Little Albert experiment",
@@ -15517,7 +15475,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En las fuentes consultadas no consta una versión oficial específica del «experimento XX». Lo oficial sobre el conjunto: Reich expuso su teoría del cáncer en «La biopatía del cáncer» (1948), con partículas que llamó bacilos T y bions PA, y la comunidad científica considera la teoría del orgón una pseudociencia.",
+    "resumen": "Qué es: un experimento de Wilhelm Reich de 1944 con el preparado número 20, que Artur Sala presenta como prueba de que las partículas se acumulan según su potencial orgónico. En las fuentes consultadas no consta una versión oficial específica del «experimento XX». Lo oficial sobre el conjunto: Reich expuso su teoría del cáncer en «La biopatía del cáncer» (1948), con partículas que llamó bacilos T y bions PA, y la comunidad científica considera la teoría del orgón una pseudociencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -15583,7 +15541,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El informe del Ejército de EE. UU. de 1978 recoge que Baranger publicó en 1960 sus resultados sobre calcio y fósforo en semillas germinadas, sin hallar la causa; la comunidad científica no ha aceptado una transmutación.",
+    "resumen": "Qué es: unos experimentos de Pierre Baranger con semillas germinadas, en las que dijo encontrar más sodio, potasio y calcio del que había al principio. El informe del Ejército de EE. UU. de 1978 recoge que Baranger publicó en 1960 sus resultados sobre calcio y fósforo en semillas germinadas, sin hallar la causa; la comunidad científica no ha aceptado una transmutación.",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -15625,7 +15583,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En noviembre y diciembre de 1918, un equipo de la Marina y del Servicio de Salud Pública de EE. UU. (Rosenau, Keegan, Goldberger y Lake) intentó transmitir la gripe a más de 60 voluntarios de Boston con secreciones de enfermos y exposición directa, sin lograrlo; otros ensayos de la época tampoco lo consiguieron. Esos fracasos reflejan los límites del método, no que la gripe no fuera contagiosa: el virus se aisló en 1933 y la pandemia de 1918 se transmitió de persona a persona.",
+    "resumen": "Qué es: unos experimentos de 1918 en Boston en los que se intentó contagiar la gripe a voluntarios sanos con secreciones de enfermos. En noviembre y diciembre de 1918, un equipo de la Marina y del Servicio de Salud Pública de EE. UU. (Rosenau, Keegan, Goldberger y Lake) intentó transmitir la gripe a más de 60 voluntarios de Boston con secreciones de enfermos y exposición directa, sin lograrlo; otros ensayos de la época tampoco lo consiguieron. Esos fracasos reflejan los límites del método, no que la gripe no fuera contagiosa: el virus se aisló en 1933 y la pandemia de 1918 se transmitió de persona a persona.",
     "fuentes": [
      {
       "titulo": "Rosenau et al., «Experiments upon volunteers...» (1921), Influenza Encyclopedia",
@@ -16497,7 +16455,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OMS se financia con cuotas de sus 194 Estados miembros y con contribuciones voluntarias; estas últimas son ya en torno al 80 % de su presupuesto (en 2014: 2.002 millones de dólares voluntarios frente a 492 millones de cuotas). La Fundación Gates es desde hace años uno de sus mayores donantes: unos 256 millones de dólares en 2014 y el 9,5 % de los ingresos entre 2010 y 2023, según un análisis en BMJ Global Health; es el segundo financiador tras EE. UU. Los 185 millones de 2015, las cifras de la OPS y el programa de Cobertura Universal no se han contrastado en esta pasada, y las fuentes consultadas no dicen que la mayor parte venga de la industria farmacéutica.",
+    "resumen": "La OMS se financia con cuotas de sus 194 Estados miembros y con contribuciones voluntarias; estas últimas son ya en torno al 80 % de su presupuesto (en 2014: 2.002 millones de dólares voluntarios frente a 492 millones de cuotas). La Fundación Gates es desde hace años uno de sus mayores donantes: unos 256 millones de dólares en 2014 y el 9,5 % de los ingresos entre 2010 y 2023, según un análisis en BMJ Global Health; es el segundo financiador tras EE. UU. Sobre la OPS (oficina regional de la OMS para las Américas): según una investigación de Reuters del 19-10-2012, en 2012 aceptó 50.000 dólares de Coca-Cola y 150.000 de Nestlé y de Unilever (coincide con lo que cita el autor); en esa fuente no consta Pepsi. La OMS discrepó por los conflictos de interés y la OPS respondió que el sector privado no intervenía en sus decisiones. Los 185 millones de 2015 y el programa de Cobertura Universal siguen sin contrastar, y las fuentes consultadas no dicen que la mayor parte venga de la industria farmacéutica.",
     "fuentes": [
      {
       "titulo": "KEI: WHO donors in 2014 (informe financiero de la OMS)",
@@ -16508,6 +16466,11 @@ window.CRONO = {
       "titulo": "CIDRAP: WHO too reliant on funding from donor organizations (BMJ Global Health)",
       "url": "https://www.cidrap.umn.edu/public-health/who-too-reliant-funding-donor-organizations-paper-argues",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Reuters (19-10-2012), recogido por KFF: PAHO y su «alianza» con la industria de alimentos y bebidas",
+      "url": "https://www.kff.org/f2be4cc/",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -16621,7 +16584,7 @@ window.CRONO = {
    "resumen": "El bibliotecario de Dresde Ernst Förstemann descifró entre 1880 y 1900 la sección de calendario del Códice de Dresde y los numerales mayas.",
    "segun": [],
    "oficial": {
-    "resumen": "Entre 1880 y 1900, el bibliotecario de Dresde Ernst Wilhelm Förstemann logró descifrar la sección del calendario del Códice de Dresde, incluidos los numerales mayas que usa. Esos números forman un sistema vigesimal (de base 20) con tres símbolos: el cero (en forma de concha), el uno (un punto) y el cinco.",
+    "resumen": "Qué es: el trabajo del bibliotecario Ernst Förstemann, entre 1880 y 1900, para descifrar la parte de calendario del Códice de Dresde y el sistema de números mayas. Entre 1880 y 1900, el bibliotecario de Dresde Ernst Wilhelm Förstemann logró descifrar la sección del calendario del Códice de Dresde, incluidos los numerales mayas que usa. Esos números forman un sistema vigesimal (de base 20) con tres símbolos: el cero (en forma de concha), el uno (un punto) y el cinco.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Códice de Dresde",
@@ -17225,7 +17188,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lester Hendershot (1898–1961) presentó en 1928 un «motor sin combustible» que, según él, sacaba energía del campo magnético terrestre; la prensa se hizo eco y militares como el mayor Lanphier lo vieron funcionar. Un crítico atribuyó su marcha a una pila escondida, su propio socio negó que funcionara sin combustible y en 1935 Hendershot reconoció que usaba una pequeña batería y que solo daba potencias mínimas. Nunca se demostró que funcionara sin una fuente de energía.",
+    "resumen": "Qué es: un aparato que Lester Hendershot presentó en 1928 como un motor sin combustible. Lester Hendershot (1898–1961) presentó en 1928 un «motor sin combustible» que, según él, sacaba energía del campo magnético terrestre; la prensa se hizo eco y militares como el mayor Lanphier lo vieron funcionar. Un crítico atribuyó su marcha a una pila escondida, su propio socio negó que funcionara sin combustible y en 1935 Hendershot reconoció que usaba una pequeña batería y que solo daba potencias mínimas. Nunca se demostró que funcionara sin una fuente de energía.",
     "fuentes": [
      {
       "titulo": "Kook Science: Lester Hendershot (recopila la prensa de 1928–1935)",
@@ -17289,7 +17252,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Universidad católica y jesuita de Washington D. C., fundada en 1789 por John Carroll; es la institución jesuita de educación superior más antigua de Estados Unidos. John J. DeGioia fue su 48.º presidente entre 2001 y 2024, y Joel Hellman dirige la Escuela de Servicio Exterior Edmund A. Walsh desde 2015. No hay constancia de que la universidad sea sede de los Caballeros de Malta ni de que su presidente pertenezca a esa orden.",
+    "resumen": "Qué es: una universidad católica de los jesuitas en Washington, fundada en 1789. Universidad católica y jesuita de Washington D. C., fundada en 1789 por John Carroll; es la institución jesuita de educación superior más antigua de Estados Unidos. John J. DeGioia fue su 48.º presidente entre 2001 y 2024, y Joel Hellman dirige la Escuela de Servicio Exterior Edmund A. Walsh desde 2015. No hay constancia de que la universidad sea sede de los Caballeros de Malta ni de que su presidente pertenezca a esa orden.",
     "fuentes": [
      {
       "titulo": "Portal de Archivos Españoles: Georgetown University",
@@ -17594,7 +17557,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "«Tartaria» (o Tartary) fue un término amplio de la literatura y la cartografía de Europa occidental para designar gran parte del Asia septentrional y central, no un estado único: Siberia era la Gran Tartaria, Crimea la Pequeña Tartaria, Manchuria la Tartaria china. La primera edición de la Británica (1771) sí tiene una entrada «Tartary» que la presenta como un vasto país del norte de Asia, lindante con Siberia. El término fue perdiendo uso a medida que la geografía mejoró, aunque siguió empleándose en el siglo XIX; las teorías de un imperio borrado de la historia se consideran pseudohistoria. No se ha comprobado la referencia al volumen 3 de 1781 (p. 877) ni la del Diccionario Geográfico de 1795.",
+    "resumen": "Qué es: la «Gran Tartaria», un nombre que los mapas y enciclopedias europeas daban a gran parte del norte y centro de Asia; un autor lo usa para defender un imperio olvidado. «Tartaria» (o Tartary) fue un término amplio de la literatura y la cartografía de Europa occidental para designar gran parte del Asia septentrional y central, no un estado único: Siberia era la Gran Tartaria, Crimea la Pequeña Tartaria, Manchuria la Tartaria china. La primera edición de la Británica (1771) sí tiene una entrada «Tartary» que la presenta como un vasto país del norte de Asia, lindante con Siberia. El término fue perdiendo uso a medida que la geografía mejoró, aunque siguió empleándose en el siglo XIX; las teorías de un imperio borrado de la historia se consideran pseudohistoria. No se ha comprobado la referencia al volumen 3 de 1781 (p. 877) ni la del Diccionario Geográfico de 1795.",
     "fuentes": [
      {
       "titulo": "Tartary (Wikipedia, resultado de búsqueda)",
@@ -19451,7 +19414,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La hipótesis del tiempo fantasma la formuló Heribert Illig en 1991 (y Hans-Ulrich Niemitz la apoyó en 1995): sostiene que los años 614-911 son una invención, con una supuesta conspiración de Otto III y el papa Silvestre II para situarse en el año 1000. Los historiadores la rechazan: la contradicen calendarios de otras regiones y los eclipses anteriores al 600, que encajan con la cronología habitual. El año 1986 que da el autor no coincide con las fuentes consultadas.",
+    "resumen": "Qué es: la hipótesis de Heribert Illig y Hans-Ulrich Niemitz de que faltan unos 300 años de historia en la Alta Edad Media. La hipótesis del tiempo fantasma la formuló Heribert Illig en 1991 (y Hans-Ulrich Niemitz la apoyó en 1995): sostiene que los años 614-911 son una invención, con una supuesta conspiración de Otto III y el papa Silvestre II para situarse en el año 1000. Los historiadores la rechazan: la contradicen calendarios de otras regiones y los eclipses anteriores al 600, que encajan con la cronología habitual. El año 1986 que da el autor no coincide con las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Phantom time conspiracy theory (Wikipedia, resultado de búsqueda)",
@@ -19740,7 +19703,7 @@ window.CRONO = {
    "resumen": "Programa marco de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros.",
    "segun": [],
    "oficial": {
-    "resumen": "Horizonte 2020 fue el mayor programa de investigación e innovación de la Unión Europea, con un presupuesto de casi 80.000 millones de euros para 2014-2020 y el objetivo de asegurar la competitividad global de Europa. Precede a Horizonte Europa (2021-2027).",
+    "resumen": "Qué es: el programa de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros. Horizonte 2020 fue el mayor programa de investigación e innovación de la Unión Europea, con un presupuesto de casi 80.000 millones de euros para 2014-2020 y el objetivo de asegurar la competitividad global de Europa. Precede a Horizonte Europa (2021-2027).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Horizonte 2020",
@@ -20294,7 +20257,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "PAX Scientific fue fundada por Jay Harman en 1997 y PAX Water Technologies en 2006; sus mezcladores se promocionan con ahorro energético por su flujo en vórtice. Son datos del fabricante.",
+    "resumen": "Qué es: un mezclador con forma de vórtice, diseñado por Jay Harman y vendido por PAX Scientific, que según Artur Sala aplica ideas de Schauberger. PAX Scientific fue fundada por Jay Harman en 1997 y PAX Water Technologies en 2006; sus mezcladores se promocionan con ahorro energético por su flujo en vórtice. Son datos del fabricante.",
     "fuentes": [
      {
       "titulo": "PAX Scientific, caso de estudio (Biomimicry)",
@@ -21334,7 +21297,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Instituto Massimiliano Massimo es un colegio jesuita de Roma fundado en 1873 y llamado así por el príncipe Massimiliano Massimo, que cedió el terreno. Por sus aulas pasaron alumnos como Mario Draghi. Como centro educativo de la Compañía de Jesús no tiene función política, y no consta que la familia Massimo lo dirija ni que haya dirigido una «facción» de la orden.",
+    "resumen": "Qué es: un colegio jesuita de Roma, fundado en 1873. El Instituto Massimiliano Massimo es un colegio jesuita de Roma fundado en 1873 y llamado así por el príncipe Massimiliano Massimo, que cedió el terreno. Por sus aulas pasaron alumnos como Mario Draghi. Como centro educativo de la Compañía de Jesús no tiene función política, y no consta que la familia Massimo lo dirija ni que haya dirigido una «facción» de la orden.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Istituto Massimiliano Massimo",
@@ -22365,7 +22328,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 3-11-1958 Kozyrev observó el cráter lunar Alphonsus y registró en su espectro bandas de carbono que interpretó como una emisión de gas del interior lunar. Es una observación «discutida»: un informe de la NASA la calificó de poco convincente, y las misiones lunares no han hallado pruebas. No consta como un «descubrimiento» de actividad volcánica admitido.",
+    "resumen": "Qué es: una observación del astrónomo Nikolái Kozyrev, el 3 de noviembre de 1958, del cráter Alphonsus, donde creyó ver gas saliendo del interior de la Luna. El 3-11-1958 Kozyrev observó el cráter lunar Alphonsus y registró en su espectro bandas de carbono que interpretó como una emisión de gas del interior lunar. Es una observación «discutida»: un informe de la NASA la calificó de poco convincente, y las misiones lunares no han hallado pruebas. No consta como un «descubrimiento» de actividad volcánica admitido.",
     "fuentes": [
      {
       "titulo": "Britannica: Nikolay Aleksandrovich Kozyrev",
@@ -22827,7 +22790,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Antoine Lavoisier (1743–1794) formuló en su «Tratado elemental de química» (1789) la conservación de la masa en las reacciones químicas, que desbancó la teoría del flogisto; la ley vale también para los seres vivos, cuya respiración Lavoisier describió como combustión lenta.",
+    "resumen": "Qué es: el principio, formulado por Lavoisier en 1789, de que en una reacción química la masa total no cambia: lo que se gasta en un lado aparece en otro. Antoine Lavoisier (1743–1794) formuló en su «Tratado elemental de química» (1789) la conservación de la masa en las reacciones químicas, que desbancó la teoría del flogisto; la ley vale también para los seres vivos, cuya respiración Lavoisier describió como combustión lenta.",
     "fuentes": [
      {
       "titulo": "New World Encyclopedia: Antoine Lavoisier",
@@ -23087,7 +23050,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "«Béchamp or Pasteur? A Lost Chapter in the History of Biology» se publicó en 1923 (2.ª edición, 1932), basado en manuscritos de Montague Leverson. Nature lo reseñó en 1924 como un intento de resucitar las microzimas al servicio de ideas contra las vacunas. El otro libro es «Pasteur: Plagiarist, Imposter», de R. B. Pearson (1942). La fecha que da el autor (1926) no coincide.",
+    "resumen": "Qué es: un libro de 1923 que sostiene que Pasteur se apropió del trabajo de Béchamp, y que es la base de casi todo lo que se cuenta de la controversia fuera de la academia. «Béchamp or Pasteur? A Lost Chapter in the History of Biology» se publicó en 1923 (2.ª edición, 1932), basado en manuscritos de Montague Leverson. Nature lo reseñó en 1924 como un intento de resucitar las microzimas al servicio de ideas contra las vacunas. El otro libro es «Pasteur: Plagiarist, Imposter», de R. B. Pearson (1942). La fecha que da el autor (1926) no coincide.",
     "fuentes": [
      {
       "titulo": "Nature 113, 121 (1924): reseña",
@@ -23632,7 +23595,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "Ensayo de Sergio Trallero publicado en 2017 por CreateSpace Independent Publishing Platform (ISBN 978-1-5452-2635-3), según el catálogo de Open Library.",
+    "resumen": "Qué es: un ensayo de Sergio Trallero de 2017 sobre astrología aplicada y psicológica. Ensayo de Sergio Trallero publicado en 2017 por CreateSpace Independent Publishing Platform (ISBN 978-1-5452-2635-3), según el catálogo de Open Library.",
     "fuentes": [
      {
       "titulo": "Open Library: obras de Sergio Trallero",
@@ -23874,7 +23837,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Magna Ciencia es una obra de Artur Sala publicada por la editorial Cauac; el primer volumen, dedicado al éter y a las transmutaciones nucleares, apareció en 2018, y le siguieron un addendum y nuevos volúmenes. Según el propio autor y la presentación en Plural 21, la obra está organizada por temas y no por autores. El contenido y el alcance de la obra los expone su autor: no hay una versión oficial independiente sobre ella.",
+    "resumen": "Qué es: una obra de Artur Sala en varios tomos, publicada por la editorial Cauac desde 2018 y organizada por temas. Magna Ciencia es una obra de Artur Sala publicada por la editorial Cauac; el primer volumen, dedicado al éter y a las transmutaciones nucleares, apareció en 2018, y le siguieron un addendum y nuevos volúmenes. Según el propio autor y la presentación en Plural 21, la obra está organizada por temas y no por autores. El contenido y el alcance de la obra los expone su autor: no hay una versión oficial independiente sobre ella.",
     "fuentes": [
      {
       "titulo": "Artur Sala: Libros",
@@ -24054,7 +24017,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: «Tartaria» fue un topónimo occidental para el interior de Asia que aparece en mapas desde el siglo XIII hasta el XIX; en el atlas de Ortelius (1570) representa de forma vaga el antiguo imperio mongol, y la Biblioteca del Congreso señala que ningún gran kan gobernaba ya tanta extensión. Era una etiqueta cartográfica, no un estado. No he contrastado con fuente propia la California como isla ni el vacío del noroeste americano.",
+    "resumen": "Qué es: unos mapas antiguos que dejan en blanco el noroeste de América y dibujan California como una isla, que un autor interpreta como señal de Tartaria. Versión oficial: «Tartaria» fue un topónimo occidental para el interior de Asia que aparece en mapas desde el siglo XIII hasta el XIX; en el atlas de Ortelius (1570) representa de forma vaga el antiguo imperio mongol, y la Biblioteca del Congreso señala que ningún gran kan gobernaba ya tanta extensión. Era una etiqueta cartográfica, no un estado. No he contrastado con fuente propia la California como isla ni el vacío del noroeste americano.",
     "fuentes": [
      {
       "titulo": "Tracking Tartary on Western Maps, Library of Congress",
@@ -24630,7 +24593,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Kozyrev expuso su «mecánica causal», en la que el tiempo es una fuerza activa, en 1958. Físicos soviéticos destacados (Artsimovich, Kapitsa, Tamm) la criticaron severamente y no forma parte de la física aceptada. La física oficial explica la energía del Sol por fusión nuclear.",
+    "resumen": "Qué es: la teoría de Nikolái Kozyrev, de 1958, según la cual el tiempo es una fuerza activa. Kozyrev expuso su «mecánica causal», en la que el tiempo es una fuerza activa, en 1958. Físicos soviéticos destacados (Artsimovich, Kapitsa, Tamm) la criticaron severamente y no forma parte de la física aceptada. La física oficial explica la energía del Sol por fusión nuclear.",
     "fuentes": [
      {
       "titulo": "Memoria sobre la obra de Kozyrev (rmi.tsu.ge, vol. 12)",
@@ -24822,7 +24785,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La Pax Romana designa el periodo de unos dos siglos de estabilidad y hegemonía romana que se suele datar entre el 27 a. C., con el acceso de Augusto, y el 180 d. C., con la muerte de Marco Aurelio. No hay evidencia documental ni arqueológica de que se hayan añadido mil años ficticios a la cronología ni de que el cómputo histórico se alterara en 1650. La Nueva cronología de Fomenko, de la que procede esa hipótesis, es rechazada por la comunidad académica por sus métodos y sus conclusiones.",
+    "resumen": "Qué es: una tesis de un autor según la cual se añadieron mil años ficticios de paz romana a la historia; la Pax Romana oficial dura unos dos siglos. La Pax Romana designa el periodo de unos dos siglos de estabilidad y hegemonía romana que se suele datar entre el 27 a. C., con el acceso de Augusto, y el 180 d. C., con la muerte de Marco Aurelio. No hay evidencia documental ni arqueológica de que se hayan añadido mil años ficticios a la cronología ni de que el cómputo histórico se alterara en 1650. La Nueva cronología de Fomenko, de la que procede esa hipótesis, es rechazada por la comunidad académica por sus métodos y sus conclusiones.",
     "fuentes": [
      {
       "titulo": "National Geographic: Was de Pax Romana echt zo'n vredige tijd?",
@@ -25063,7 +25026,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Robert J. Moon (1911–1989), físico del Laboratorio Metalúrgico de Chicago en el Proyecto Manhattan, propuso en 1986 un modelo del núcleo con protones en los vértices de sólidos platónicos anidados. Lo difundieron sobre todo publicaciones de la Fusion Energy Foundation y no figura entre los modelos nucleares estándar.",
+    "resumen": "Qué es: un modelo del núcleo atómico de Robert Moon (1986), con protones en los vértices de sólidos geométricos regulares encajados unos dentro de otros. Robert J. Moon (1911–1989), físico del Laboratorio Metalúrgico de Chicago en el Proyecto Manhattan, propuso en 1986 un modelo del núcleo con protones en los vértices de sólidos platónicos anidados. Lo difundieron sobre todo publicaciones de la Fusion Energy Foundation y no figura entre los modelos nucleares estándar.",
     "fuentes": [
      {
       "titulo": "Robert J. Moon, National Museum of Nuclear Science & History",
@@ -25287,7 +25250,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 2009 el equipo de Montagnier (Nobel 2008) publicó que diluciones de ADN de algunas bacterias y virus emiten señales electromagnéticas de baja frecuencia. Según ellos, la emisión necesita un fondo de unos 7 Hz (natural, como la resonancia Schumann, o artificial) y desaparece si se aísla con una jaula de mu-metal. Los experimentos eran con ADN diluido, no con medicamentos homeopáticos, y no se han reproducido de forma independiente.",
+    "resumen": "Qué es: un experimento publicado en 2009 por el equipo de Luc Montagnier, que dijo que diluciones de ADN emiten señales electromagnéticas. En 2009 el equipo de Montagnier (Nobel 2008) publicó que diluciones de ADN de algunas bacterias y virus emiten señales electromagnéticas de baja frecuencia. Según ellos, la emisión necesita un fondo de unos 7 Hz (natural, como la resonancia Schumann, o artificial) y desaparece si se aísla con una jaula de mu-metal. Los experimentos eran con ADN diluido, no con medicamentos homeopáticos, y no se han reproducido de forma independiente.",
     "fuentes": [
      {
       "titulo": "Montagnier et al., Transduction of DNA information through water and electromagnetic waves (arXiv 1501.01620)",
@@ -25478,7 +25441,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Morris Fishbein (1889–1976), médico por Rush Medical College (1912), fue editor del Journal of the American Medical Association de 1924 a 1949 o 1950 y portavoz de la AMA, no su director. Trabajó solo unos meses como médico residente (dos años de formación clínica según otras fuentes) y desde el JAMA persiguió lo que consideraba curanderismo; en 1938 la AMA fue condenada por violar la ley antimonopolio y multada, y él fue absuelto. Las fuentes consultadas no recogen pagos bajo mesa ni un mandato de 40 años (fueron unos 25 como editor jefe).",
+    "resumen": "Qué es: el cargo de Morris Fishbein como editor de la revista de la Asociación Médica Americana (JAMA) desde 1924, y su campaña contra lo que llamaba curanderismo. Morris Fishbein (1889–1976), médico por Rush Medical College (1912), fue editor del Journal of the American Medical Association de 1924 a 1949 o 1950 y portavoz de la AMA, no su director. Trabajó solo unos meses como médico residente (dos años de formación clínica según otras fuentes) y desde el JAMA persiguió lo que consideraba curanderismo; en 1938 la AMA fue condenada por violar la ley antimonopolio y multada, y él fue absuelto. Las fuentes consultadas no recogen pagos bajo mesa ni un mandato de 40 años (fueron unos 25 como editor jefe).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Morris Fishbein",
@@ -26531,7 +26494,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "«The Nature of the Chemical Bond» de Linus Pauling se publicó en 1939 y trata de enlace, resonancia y electronegatividad; en las fuentes consultadas no consta que describa dos estados del agua ni anticipe el «agua EZ» de Pollack, cuya hipótesis de una fase estructurada es criticada por químicos.",
+    "resumen": "Qué es: un libro de Linus Pauling (1939) sobre cómo se unen los átomos en las moléculas; la ficha comprueba si dice lo que le atribuye un autor. «The Nature of the Chemical Bond» de Linus Pauling se publicó en 1939 y trata de enlace, resonancia y electronegatividad; en las fuentes consultadas no consta que describa dos estados del agua ni anticipe el «agua EZ» de Pollack, cuya hipótesis de una fase estructurada es criticada por químicos.",
     "fuentes": [
      {
       "titulo": "Science History: Linus Pauling",
@@ -27356,7 +27319,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En la Europa moderna el latín fue cediendo terreno ante las lenguas vernáculas en la administración, la justicia y la enseñanza, y los Estados favorecieron su estandarización mediante gramáticas, diccionarios y academias. Desde finales del siglo XVIII la lengua pasó a ser un elemento central de la identidad nacional y de la política estatal, utilizada también como instrumento de cohesión y de exclusión.",
+    "resumen": "Qué es: una tesis de un autor según la cual las lenguas europeas modernas se impusieron para romper la unidad de un imperio anterior. En la Europa moderna el latín fue cediendo terreno ante las lenguas vernáculas en la administración, la justicia y la enseñanza, y los Estados favorecieron su estandarización mediante gramáticas, diccionarios y academias. Desde finales del siglo XVIII la lengua pasó a ser un elemento central de la identidad nacional y de la política estatal, utilizada también como instrumento de cohesión y de exclusión.",
     "fuentes": [
      {
       "titulo": "Languages and Literacy (The Oxford Handbook of Early Modern European History, 1350-1750)",
@@ -27817,7 +27780,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En junio de 2013 la OMS publicó la guía provisional «Pandemic Influenza Risk Management», que sustituye a la de 2009: pasa de seis a cuatro fases globales (interpandémica, alerta, pandemia y transición), define la pandemia como periodo de propagación global de gripe humana por un nuevo subtipo e incorpora la valoración de la gravedad. Antes se declaraba cuando había brotes comunitarios en al menos dos regiones de la OMS y en dos países de una región, así que la descripción del autor es en parte correcta; la OMS dijo que cambiaba el sistema tras las críticas a su gestión de la gripe A de 2009. Es una guía sobre la gripe, no un protocolo general para cualquier enfermedad.",
+    "resumen": "Qué es: una guía de la OMS de junio de 2013 que cambia cómo se describen las fases de una pandemia de gripe. En junio de 2013 la OMS publicó la guía provisional «Pandemic Influenza Risk Management», que sustituye a la de 2009: pasa de seis a cuatro fases globales (interpandémica, alerta, pandemia y transición), define la pandemia como periodo de propagación global de gripe humana por un nuevo subtipo e incorpora la valoración de la gravedad. Antes se declaraba cuando había brotes comunitarios en al menos dos regiones de la OMS y en dos países de una región, así que la descripción del autor es en parte correcta; la OMS dijo que cambiaba el sistema tras las críticas a su gestión de la gripe A de 2009. Es una guía sobre la gripe, no un protocolo general para cualquier enfermedad.",
     "fuentes": [
      {
       "titulo": "KFF: WHO publishes new plan on how to alert the world about possible flu pandemics (2013)",
@@ -27951,7 +27914,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OMS sí promueve la integración de la medicina tradicional y complementaria: su Estrategia sobre Medicina Tradicional 2014–2023 apoya a los países en políticas, regulación y normas de formación en prácticas como la acupuntura, y la CIE-11 (2019) incluye un capítulo suplementario con trastornos de la medicina tradicional china. Lo que dice el autor, que se muestra contraria, no coincide con lo que consta en estas fuentes, aunque la OMS pide evidencia de seguridad y eficacia. La acusación de persecución no se ha contrastado.",
+    "resumen": "Qué es: la Estrategia de la OMS sobre Medicina Tradicional 2014–2023, un plan para integrar la medicina tradicional y complementaria en los sistemas de salud. La OMS sí promueve la integración de la medicina tradicional y complementaria: su Estrategia sobre Medicina Tradicional 2014–2023 apoya a los países en políticas, regulación y normas de formación en prácticas como la acupuntura, y la CIE-11 (2019) incluye un capítulo suplementario con trastornos de la medicina tradicional china. Lo que dice el autor, que se muestra contraria, no coincide con lo que consta en estas fuentes, aunque la OMS pide evidencia de seguridad y eficacia. La acusación de persecución no se ha contrastado.",
     "fuentes": [
      {
       "titulo": "OMS: Estrategia sobre medicina tradicional 2014–2023",
@@ -28003,7 +27966,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 2010 el comité de salud de la Asamblea Parlamentaria del Consejo de Europa denunció «graves deficiencias» de transparencia en la gestión de la gripe A y la posible influencia de la industria; la OMS y los fabricantes lo negaron y expertos en salud pública lo rechazaron. La OMS declaró la pandemia de H1N1 el 11-6-2009; resultó menos grave de lo temido y varios países quedaron con excedentes de vacunas. En 2013 la OMS simplificó su sistema de alertas tras las críticas. Sobre el ébola (2014–2016) y el zika no se ha contrastado la acusación de inflar el pánico para vender reservas.",
+    "resumen": "Qué es: las críticas a cómo la OMS gestionó la gripe A, el ébola y el zika, y la sospecha de que las farmacéuticas se beneficiaron. En 2010 el comité de salud de la Asamblea Parlamentaria del Consejo de Europa denunció «graves deficiencias» de transparencia en la gestión de la gripe A y la posible influencia de la industria; la OMS y los fabricantes lo negaron y expertos en salud pública lo rechazaron. La OMS declaró la pandemia de H1N1 el 11-6-2009; resultó menos grave de lo temido y varios países quedaron con excedentes de vacunas. En 2013 la OMS simplificó su sistema de alertas tras las críticas. Sobre el ébola (2014–2016) y el zika no se ha contrastado la acusación de inflar el pánico para vender reservas.",
     "fuentes": [
      {
       "titulo": "Consejo de Europa (PACE): Swine flu, unjustified scare, waste of public money",
@@ -29849,7 +29812,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El caso es real: en agosto de 1991 el neurocirujano Robert Spetzler la operó en el Barrow Neurological Institute (Phoenix) con parada cardíaca por hipotermia. Los críticos sostienen que el tiempo «plano» suele exagerarse y que la experiencia ocurrió con anestesia general y cerebro aún activo, horas antes del paro. El anestesiólogo G. M. Woerlee atribuye lo percibido a conciencia bajo anestesia. En el estudio AWARE (Parnia) ningún paciente identificó las imágenes ocultas. Las cifras de temperatura varían según las fuentes: el autor da 10 °C y otra fuente unos 15,6 °C.",
+    "resumen": "Qué es: el caso de Pam Reynolds, operada en 1991 con la actividad cerebral detenida, que después contó lo ocurrido en el quirófano; se cita como prueba de percepción sin cerebro. El caso es real: en agosto de 1991 el neurocirujano Robert Spetzler la operó en el Barrow Neurological Institute (Phoenix) con parada cardíaca por hipotermia. Los críticos sostienen que el tiempo «plano» suele exagerarse y que la experiencia ocurrió con anestesia general y cerebro aún activo, horas antes del paro. El anestesiólogo G. M. Woerlee atribuye lo percibido a conciencia bajo anestesia. En el estudio AWARE (Parnia) ningún paciente identificó las imágenes ocultas. Las cifras de temperatura varían según las fuentes: el autor da 10 °C y otra fuente unos 15,6 °C.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pam Reynolds case",
@@ -30153,7 +30116,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La URSS financió durante décadas investigación sobre fenómenos psíquicos, que llamó «psicotrónica», coordinada en los años 60 a 80 por la Academia de Ciencias y después por el Comité Estatal de Ciencia y Técnica, con participación de Defensa y el KGB; un repaso de 2013 estima su coste en cientos de millones de dólares. Vlail Kaznachéyev dirigió en Novosibirsk el Instituto de Medicina Clínica y Experimental, donde su grupo hizo entre los años 60 y 80 muchos experimentos sobre una posible comunicación no química entre cultivos de células; los intentos de confirmar efectos de este tipo han dado resultados dispares. Las fuentes consultadas no recogen una carrera universitaria de parapsicología ni pruebas de que las leyes físicas cambien con el tiempo.",
+    "resumen": "Qué es: la investigación soviética sobre fenómenos psíquicos, a la que la URSS llamó «psicotrónica». La URSS financió durante décadas investigación sobre fenómenos psíquicos, que llamó «psicotrónica», coordinada en los años 60 a 80 por la Academia de Ciencias y después por el Comité Estatal de Ciencia y Técnica, con participación de Defensa y el KGB; un repaso de 2013 estima su coste en cientos de millones de dólares. Vlail Kaznachéyev dirigió en Novosibirsk el Instituto de Medicina Clínica y Experimental, donde su grupo hizo entre los años 60 y 80 muchos experimentos sobre una posible comunicación no química entre cultivos de células; los intentos de confirmar efectos de este tipo han dado resultados dispares. Las fuentes consultadas no recogen una carrera universitaria de parapsicología ni pruebas de que las leyes físicas cambien con el tiempo.",
     "fuentes": [
      {
       "titulo": "S. Kernbach, Unconventional research in USSR and Russia (arXiv, 2013)",
@@ -30392,7 +30355,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pasteur estudió la pebrina de 1865 a 1870 por encargo del Gobierno, a petición de su maestro J.-B. Dumas; según Fabre, al empezar no había tenido nunca un capullo en la mano. Hoy se sabe que la causa es un parásito microscópico (Nosema bombycis); Pasteur propuso diagnosticar con microscopio y criar solo de mariposas sanas, y sus métodos se adoptaron en Italia, Austria o Japón. Según los historiadores Ferreira y Martins (1996), Béchamp defendió antes que nadie que era un parásito, Pasteur lo negó durante meses y después cambió de idea sin reconocérselo. La creosota que recomendó Béchamp no se confirmó ni se aplicó de forma general.",
+    "resumen": "Qué es: la pebrina, una enfermedad del gusano de seda que arruinaba la sericultura francesa y que Pasteur estudió de 1865 a 1870 por encargo del Gobierno. Pasteur estudió la pebrina de 1865 a 1870 por encargo del Gobierno, a petición de su maestro J.-B. Dumas; según Fabre, al empezar no había tenido nunca un capullo en la mano. Hoy se sabe que la causa es un parásito microscópico (Nosema bombycis); Pasteur propuso diagnosticar con microscopio y criar solo de mariposas sanas, y sus métodos se adoptaron en Italia, Austria o Japón. Según los historiadores Ferreira y Martins (1996), Béchamp defendió antes que nadie que era un parásito, Pasteur lo negó durante meses y después cambió de idea sin reconocérselo. La creosota que recomendó Béchamp no se confirmó ni se aplicó de forma general.",
     "fuentes": [
      {
       "titulo": "D. Raichvarg, «Silkworm, science worm», Comptes Rendus Biologies 345 (2022)",
@@ -30448,7 +30411,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La patente estadounidense 787.412, «Art of transmitting electrical energy through the natural mediums», fue solicitada por Nikola Tesla el 16 de mayo de 1900 y concedida el 18 de abril de 1905. Describe la producción de ondas estacionarias en la Tierra y menciona una velocidad media de propagación de unos 471.240 km/s (aproximadamente 1,57 veces la velocidad de la luz), un valor teórico del propio Tesla, no una medida experimental. La patente no demuestra ondas electromagnéticas longitudinales ni transmisión de energía sin pérdidas.",
+    "resumen": "Qué es: la patente estadounidense 787.412 de Nikola Tesla (1905), que describe cómo transmitir energía eléctrica a través de la Tierra. La patente estadounidense 787.412, «Art of transmitting electrical energy through the natural mediums», fue solicitada por Nikola Tesla el 16 de mayo de 1900 y concedida el 18 de abril de 1905. Describe la producción de ondas estacionarias en la Tierra y menciona una velocidad media de propagación de unos 471.240 km/s (aproximadamente 1,57 veces la velocidad de la luz), un valor teórico del propio Tesla, no una medida experimental. La patente no demuestra ondas electromagnéticas longitudinales ni transmisión de energía sin pérdidas.",
     "fuentes": [
      {
       "titulo": "Google Patents: US787412A, Art of transmitting electrical energy through the natural mediums",
@@ -30510,7 +30473,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La primera escuela Waldorf abrió el 7 de septiembre de 1919 en Stuttgart por iniciativa de Emil Molt, director de la fábrica de cigarrillos Waldorf-Astoria, con unos 256 alumnos en ocho cursos (191 de familias de la fábrica). Steiner fue su consejero pedagógico. En las escuelas Waldorf se retrasa la enseñanza formal de lectura y escritura hasta cerca de los 7 años, algo que la investigación pedagógica discute.",
+    "resumen": "Qué es: la primera escuela Waldorf, abierta en Stuttgart en 1919 por iniciativa del director de la fábrica Waldorf-Astoria, con Rudolf Steiner al frente de su pedagogía. La primera escuela Waldorf abrió el 7 de septiembre de 1919 en Stuttgart por iniciativa de Emil Molt, director de la fábrica de cigarrillos Waldorf-Astoria, con unos 256 alumnos en ocho cursos (191 de familias de la fábrica). Steiner fue su consejero pedagógico. En las escuelas Waldorf se retrasa la enseñanza formal de lectura y escritura hasta cerca de los 7 años, algo que la investigación pedagógica discute.",
     "fuentes": [
      {
       "titulo": "Wikipedia: History of Waldorf schools",
@@ -30757,7 +30720,7 @@ window.CRONO = {
    "resumen": "Sociedad de honor académica estadounidense fundada el 5-12-1776 en el College of William and Mary; la primera con nombre de letras griegas.",
    "segun": [],
    "oficial": {
-    "resumen": "Phi Beta Kappa es una sociedad de honor académica de Estados Unidos que busca promover la excelencia en las humanidades y las ciencias e integrar a los mejores estudiantes de las universidades líderes. Fue fundada el 5 de diciembre de 1776 en el College of William and Mary, como la primera hermandad colegial con nombre de letras griegas. Según Wikipedia, han sido miembros 17 presidentes de Estados Unidos.",
+    "resumen": "Qué es: una sociedad de honor académica estadounidense fundada en 1776. Phi Beta Kappa es una sociedad de honor académica de Estados Unidos que busca promover la excelencia en las humanidades y las ciencias e integrar a los mejores estudiantes de las universidades líderes. Fue fundada el 5 de diciembre de 1776 en el College of William and Mary, como la primera hermandad colegial con nombre de letras griegas. Según Wikipedia, han sido miembros 17 presidentes de Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Phi Beta Kappa",
@@ -31018,7 +30981,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Plural-21 es una asociación cultural de Barcelona, «Asociación para el cuidado de la vida en un planeta vivo». Según su propia web, su precedente fue C.O.B.R.A. (Centro Orientativo de Bio-regeneración Aplicada), fundado en 1990, y Plural-21 se constituyó en 1999; su cofundador y presidente fue Lluís Botinas. Se financia con cuotas y actividades y declara no aceptar comisiones ni subvenciones; su lema es «Vida, Verdad, Libertad, Identidad». Los datos de funcionamiento y lema proceden de la propia asociación y de su presentador en la charla: no hay una versión oficial independiente.",
+    "resumen": "Qué es: una asociación cultural de Barcelona que organiza cursos y actividades, donde da clases Artur Sala. Plural-21 es una asociación cultural de Barcelona, «Asociación para el cuidado de la vida en un planeta vivo». Según su propia web, su precedente fue C.O.B.R.A. (Centro Orientativo de Bio-regeneración Aplicada), fundado en 1990, y Plural-21 se constituyó en 1999; su cofundador y presidente fue Lluís Botinas. Se financia con cuotas y actividades y declara no aceptar comisiones ni subvenciones; su lema es «Vida, Verdad, Libertad, Identidad». Los datos de funcionamiento y lema proceden de la propia asociación y de su presentador en la charla: no hay una versión oficial independiente.",
     "fuentes": [
      {
       "titulo": "Plural-21: web oficial",
@@ -31192,7 +31155,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Grinberg-Zylberbaum y su equipo publicaron en 1994, en Physics Essays 7, el artículo «La paradoja de Einstein-Podolsky-Rosen en el cerebro: el potencial transferido». Se han intentado réplicas con resultados dispares: algunas informan un efecto y otro intento, con aislamiento riguroso, no encontró ninguno. No forma parte de la neurociencia aceptada. Grinberg desapareció en México en diciembre de 1994.",
+    "resumen": "Qué es: un experimento de Jacobo Grinberg publicado en 1994 en el que el cerebro de una persona aislada parece responder al estímulo aplicado a otra. Grinberg-Zylberbaum y su equipo publicaron en 1994, en Physics Essays 7, el artículo «La paradoja de Einstein-Podolsky-Rosen en el cerebro: el potencial transferido». Se han intentado réplicas con resultados dispares: algunas informan un efecto y otro intento, con aislamiento riguroso, no encontró ninguno. No forma parte de la neurociencia aceptada. Grinberg desapareció en México en diciembre de 1994.",
     "fuentes": [
      {
       "titulo": "Society for Psychical Research: Jacobo Grinberg-Zylberbaum",
@@ -31580,7 +31543,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S. V. Adamenko, con V. I. Vysotskii) publicó entre 2003 y 2004 preimpresiones sobre transmutación en blancos comprimidos por haces de electrones y las presentó en un taller de la Universidad de Bonn en febrero de 2004. La física no ha aceptado esos resultados como transmutación nuclear confirmada y no consta que otros laboratorios los hayan reproducido de forma independiente. Lo que estas fuentes describen es compresión con haces de electrones, no un cóctel de levaduras (MCT); el autor mezcla además a miembros de líneas de trabajo distintas.",
+    "resumen": "Qué es: un laboratorio privado de Kiev, Proton-21, que dijo haber logrado transmutar metales con aceleradores de electrones. El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S. V. Adamenko, con V. I. Vysotskii) publicó entre 2003 y 2004 preimpresiones sobre transmutación en blancos comprimidos por haces de electrones y las presentó en un taller de la Universidad de Bonn en febrero de 2004. La física no ha aceptado esos resultados como transmutación nuclear confirmada y no consta que otros laboratorios los hayan reproducido de forma independiente. Lo que estas fuentes describen es compresión con haces de electrones, no un cóctel de levaduras (MCT); el autor mezcla además a miembros de líneas de trabajo distintas.",
     "fuentes": [
      {
       "titulo": "Adamenko y Adamenko (2003), arXiv nucl-ex/0307011",
@@ -31764,12 +31727,12 @@ window.CRONO = {
      "obra": "la-voz-de-arthur-31-reich",
      "ubicacion": "min. 0:49",
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=49s",
-     "resumen": "Según el autor, la obra de Reich fue quemada primero por los comunistas, después por los nazis (por ser judío y por «La psicología de masas del fascismo») y finalmente, en 1956, por el gobierno de EE. UU., país donde llevaba 16 años exiliado, que ordenó la quema de toda su obra.",
+     "resumen": "Según el autor, la obra de Reich ardió primero por mano de los comunistas, luego de los nazis (por ser judío y por «La psicología de masas del fascismo») y por último, en 1956, por orden del gobierno de EE. UU., país donde llevaba 16 años exiliado, que mandó destruir toda su obra.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS. El 23 de agosto de 1956 se quemaron seis toneladas de libros, revistas y papeles de Reich en el incinerador de Gansevoort, en Nueva York, entre ellos «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo».",
+    "resumen": "Qué es: la destrucción de publicaciones de Wilhelm Reich, primero por los nazis en 1933 y después por orden judicial en Estados Unidos en 1956. Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS. El 23 de agosto de 1956 se quemaron seis toneladas de libros, revistas y papeles de Reich en el incinerador de Gansevoort, en Nueva York, entre ellos «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo».",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Wilhelm Reich Trial, 1956",
@@ -31812,7 +31775,7 @@ window.CRONO = {
    "resumen": "Plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita.",
    "segun": [],
    "oficial": {
-    "resumen": "La «Ratio atque Institutio Studiorum Societatis Iesu», o Ratio Studiorum, fue el documento que normalizó en 1599 el sistema de educación jesuita, de influencia mundial. Un comité redactó un borrador de prueba en 1586, enviado a las provincias para comentarios de los profesores, y con esa experiencia se hizo en Roma el documento oficial de 1599.",
+    "resumen": "Qué es: el plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita. La «Ratio atque Institutio Studiorum Societatis Iesu», o Ratio Studiorum, fue el documento que normalizó en 1599 el sistema de educación jesuita, de influencia mundial. Un comité redactó un borrador de prueba en 1586, enviado a las provincias para comentarios de los profesores, y con esa experiencia se hizo en Roma el documento oficial de 1599.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Ratio Studiorum",
@@ -32203,7 +32166,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La hipnosis se usa como apoyo en algunas terapias. La psicología académica advierte de que los recuerdos obtenidos bajo hipnosis pueden ser falsos: en un estudio presentado ante la Asociación Estadounidense de Psicología (1997), entre el 28 % y el 44 % de los participantes desarrollaron recuerdos falsos. No hay pruebas científicas de las vidas pasadas, y la regresión a vidas pasadas se considera pseudocientífica; las memorias que aparecen contienen errores históricos que proceden de la cultura popular.",
+    "resumen": "Qué es: el uso de la hipnosis para revivir recuerdos traumáticos o supuestas vidas anteriores. La hipnosis se usa como apoyo en algunas terapias. La psicología académica advierte de que los recuerdos obtenidos bajo hipnosis pueden ser falsos: en un estudio presentado ante la Asociación Estadounidense de Psicología (1997), entre el 28 % y el 44 % de los participantes desarrollaron recuerdos falsos. No hay pruebas científicas de las vidas pasadas, y la regresión a vidas pasadas se considera pseudocientífica; las memorias que aparecen contienen errores históricos que proceden de la cultura popular.",
     "fuentes": [
      {
       "titulo": "Ohio State University (1997): People may form false memories during hypnosis",
@@ -32461,7 +32424,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Viktor Schauberger (1885-1958) diseñó el «Repulsator» y el «Repulsine», máquinas de implosión; las fuentes que los describen son de divulgación y no hay validación científica ni demostración independiente de su funcionamiento. No he encontrado respaldo de que la CIA retuviera un aparato.",
+    "resumen": "Qué es: una máquina de Viktor Schauberger, el «Repulsine», que Artur Sala presenta como un aparato antigravitatorio con agua implosionada. Viktor Schauberger (1885-1958) diseñó el «Repulsator» y el «Repulsine», máquinas de implosión; las fuentes que los describen son de divulgación y no hay validación científica ni demostración independiente de su funcionamiento. No he encontrado respaldo de que la CIA retuviera un aparato.",
     "fuentes": [
      {
       "titulo": "Envisioning: Vortex Implosion (nivel de madurez 2/9)",
@@ -32682,7 +32645,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Pollack publicó el 24-9-2024 un artículo que plantea como hipótesis que el sistema respiratorio aporta electrones, además de oxígeno. No es consenso médico: la respiración suministra oxígeno a la cadena respiratoria mitocondrial. El autor da 2023.",
+    "resumen": "Qué es: un artículo de Gerald Pollack de 2024 que plantea que los pulmones aportan electrones, además de oxígeno. Pollack publicó el 24-9-2024 un artículo que plantea como hipótesis que el sistema respiratorio aporta electrones, además de oxígeno. No es consenso médico: la respiración suministra oxígeno a la cadena respiratoria mitocondrial. El autor da 2023.",
     "fuentes": [
      {
       "titulo": "Pollack Lab: Is it oxygen, or electrons…?",
@@ -32958,7 +32921,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La aceleración secular de la Luna se estudia con eclipses antiguos (Morrison, Stephenson, Newton) y con ocultaciones modernas; esos análisis dan valores del orden de −30″/siglo², y existe literatura previa y posterior al 1972 (Morrison presentó resultados en 1971-72). La reunión de la Royal Society de 1972 la cita el propio Fomenko, pero que dejara «incoherencias» en el siglo X no figura en las fuentes consultadas.",
+    "resumen": "Qué es: una reunión de la Royal Society de Londres en 1972 sobre la aceleración de la Luna, que un autor cuenta como un debate sin solución. La aceleración secular de la Luna se estudia con eclipses antiguos (Morrison, Stephenson, Newton) y con ocultaciones modernas; esos análisis dan valores del orden de −30″/siglo², y existe literatura previa y posterior al 1972 (Morrison presentó resultados en 1971-72). La reunión de la Royal Society de 1972 la cita el propio Fomenko, pero que dejara «incoherencias» en el siglo X no figura en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Morrison: The secular accelerations of the Moon (1972)",
@@ -33383,7 +33346,7 @@ window.CRONO = {
    "citas": [],
    "conexiones": [
     {
-     "id": "cfr-1921",
+     "id": "consejo-relaciones-exteriores",
      "nota": "Homólogo estadounidense, según Nocera."
     },
     {
@@ -33618,7 +33581,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La piedra de Rosetta la hallaron soldados franceses en julio de 1799; por el Tratado de Alejandría (1801) las antigüedades reunidas por los franceses, entre ellas la piedra, pasaron a los británicos; llegó a Inglaterra en febrero de 1802 y está en el Museo Británico desde 1802. Coincide con el autor en el fondo; la calificación de «confiscación» o «botín de guerra» es disputada (Egipto la reclama).",
+    "resumen": "Qué es: el paso de la piedra de Rosetta, hallada por soldados franceses en 1799, a manos británicas tras el Tratado de Alejandría de 1801. La piedra de Rosetta la hallaron soldados franceses en julio de 1799; por el Tratado de Alejandría (1801) las antigüedades reunidas por los franceses, entre ellas la piedra, pasaron a los británicos; llegó a Inglaterra en febrero de 1802 y está en el Museo Británico desde 1802. Coincide con el autor en el fondo; la calificación de «confiscación» o «botín de guerra» es disputada (Egipto la reclama).",
     "fuentes": [
      {
       "titulo": "Linda Hall Library: The Rosetta Stone",
@@ -33739,7 +33702,7 @@ window.CRONO = {
      "obra": "la-voz-de-arthur-31-reich",
      "ubicacion": "min. 5:29",
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=329s",
-     "resumen": "Reich cortó con la sociedad psicoanalítica y fundó su propia visión, la vegetoterapia caracteroanalítica, con diferencias clave respecto a Freud, que lo tuvo por su alumno más importante; la relación acabó muy mal.",
+     "resumen": "Reich se separó de la sociedad psicoanalítica y desarrolló su propia visión, la vegetoterapia caracteroanalítica, con diferencias clave respecto a Freud, que lo tuvo por su alumno más importante; la relación acabó muy mal.",
      "contradice": []
     },
     {
@@ -33768,7 +33731,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica internacional cancelaba su contrato para publicar «Análisis del carácter». En noviembre de 1933 fue excluido del Partido Comunista danés, sin haber ingresado nunca, por su defensa de la sexualidad adolescente y por «La psicología de masas del fascismo». Se trasladó a Oslo en 1934. La expulsión formal de la asociación psicoanalítica no consta en las fuentes consultadas.",
+    "resumen": "Qué es: el distanciamiento de Wilhelm Reich de Freud y de la sociedad psicoanalítica en los años 30, y su paso a un método propio, la vegetoterapia caracteroanalítica. Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica internacional cancelaba su contrato para publicar «Análisis del carácter». En noviembre de 1933 fue excluido del Partido Comunista danés, sin haber ingresado nunca, por su defensa de la sexualidad adolescente y por «La psicología de masas del fascismo». Se trasladó a Oslo en 1934. La expulsión formal de la asociación psicoanalítica no consta en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -35038,7 +35001,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Un ensayo aleatorizado de 2025 en PNAS Nexus (467 adultos) bloqueó el internet móvil durante dos semanas, sin quitar llamadas ni mensajes: el uso de pantalla bajó de unos 314 a unos 161 minutos al día y mejoraron la atención sostenida, la salud mental y el bienestar, un efecto de atención comparable al de unos diez años de declive por edad. No se ha localizado la cifra del 25 % ni un estudio sobre cambiar a un móvil antiguo; la «adicción al móvil» no es un diagnóstico oficial, aunque se estudia el uso problemático.",
+    "resumen": "Qué es: el debate sobre si usar el smartphone afecta a la atención y al bienestar, con un ensayo aleatorizado de 2025 como dato principal. Un ensayo aleatorizado de 2025 en PNAS Nexus (467 adultos) bloqueó el internet móvil durante dos semanas, sin quitar llamadas ni mensajes: el uso de pantalla bajó de unos 314 a unos 161 minutos al día y mejoraron la atención sostenida, la salud mental y el bienestar, un efecto de atención comparable al de unos diez años de declive por edad. No se ha localizado la cifra del 25 % ni un estudio sobre cambiar a un móvil antiguo; la «adicción al móvil» no es un diagnóstico oficial, aunque se estudia el uso problemático.",
     "fuentes": [
      {
       "titulo": "PNAS Nexus (2025): Blocking mobile internet on smartphones improves sustained attention, mental health, and subjective well-being",
@@ -35638,7 +35601,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Steiner editó los escritos científicos de Goethe para la edición Kürschner (desde 1882-83) y en 1888 fue invitado a Weimar como editor; a partir del 30 de septiembre de 1890 colaboró en el recién fundado archivo Goethe-Schiller y en la edición de Weimar (Sophienausgabe), hasta 1896-1897. Fue colaborador y editor, no director.",
+    "resumen": "Qué es: el trabajo de Rudolf Steiner en Weimar, editando los escritos científicos de Goethe y colaborando en el archivo que guardaba su legado. Steiner editó los escritos científicos de Goethe para la edición Kürschner (desde 1882-83) y en 1888 fue invitado a Weimar como editor; a partir del 30 de septiembre de 1890 colaboró en el recién fundado archivo Goethe-Schiller y en la edición de Weimar (Sophienausgabe), hasta 1896-1897. Fue colaborador y editor, no director.",
     "fuentes": [
      {
       "titulo": "Goetheanum: Rudolf Steiner (Goethe y Schiller Archives)",
@@ -35707,7 +35670,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "James E. Strick, historiador de la ciencia en Franklin & Marshall College y luego presidente del Wilhelm Reich Trust, estudió los cuadernos de laboratorio de Reich de los experimentos con biones de 1935-1939 en Noruega, y en 2015 Harvard University Press publicó su libro «Wilhelm Reich, Biologist». Strick escribió que la narrativa dominante desde la muerte de Reich es que no merece la pena mirar con más detalle su ciencia porque no hubo ciencia legítima; la comunidad científica considera pseudociencia la teoría del orgón.",
+    "resumen": "Qué es: un libro del historiador James Strick, publicado por Harvard University Press en 2015, que analiza los experimentos de Wilhelm Reich con los biones. James E. Strick, historiador de la ciencia en Franklin & Marshall College y luego presidente del Wilhelm Reich Trust, estudió los cuadernos de laboratorio de Reich de los experimentos con biones de 1935-1939 en Noruega, y en 2015 Harvard University Press publicó su libro «Wilhelm Reich, Biologist». Strick escribió que la narrativa dominante desde la muerte de Reich es que no merece la pena mirar con más detalle su ciencia porque no hubo ciencia legítima; la comunidad científica considera pseudociencia la teoría del orgón.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -36808,7 +36771,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Tyndall describió en 1877 la esterilización fraccionada (calentamientos breves repetidos), el primer método eficaz contra las esporas bacterianas resistentes al calor. Sus trabajos fueron decisivos contra la generación espontánea y para la bacteriología.",
+    "resumen": "Qué es: un método de esterilización por calentamientos breves repetidos, descrito por John Tyndall en 1877, que elimina también las esporas. Tyndall describió en 1877 la esterilización fraccionada (calentamientos breves repetidos), el primer método eficaz contra las esporas bacterianas resistentes al calor. Sus trabajos fueron decisivos contra la generación espontánea y para la bacteriología.",
     "fuentes": [
      {
       "titulo": "Historyofmedicine.com (Garrison-Morton): Tyndall, 1877",
@@ -36906,7 +36869,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La obra existe y su autor es Guennadi (Kharamoos) Tiundeshev, docente de la Universidad Estatal de Jakasia, que sostiene en ella que Batú Kan fue el fundador del Estado ruso. La historiografía académica considera que Batú, nieto de Gengis Kan, consolidó el ulus de Jochi, conocido como Horda de Oro, un Estado mongol que dominó los principados rusos, mientras que el Estado ruso se formó a partir del principado de Moscú entre los siglos XIV y XVI.",
+    "resumen": "Qué es: un libro de 2018 de Kharamoos Tjundeshev que sostiene que Batú Kan, nieto de Gengis Kan, fundó el Estado ruso en 1240. La obra existe y su autor es Guennadi (Kharamoos) Tiundeshev, docente de la Universidad Estatal de Jakasia, que sostiene en ella que Batú Kan fue el fundador del Estado ruso. La historiografía académica considera que Batú, nieto de Gengis Kan, consolidó el ulus de Jochi, conocido como Horda de Oro, un Estado mongol que dominó los principados rusos, mientras que el Estado ruso se formó a partir del principado de Moscú entre los siglos XIV y XVI.",
     "fuentes": [
      {
       "titulo": "Putin, heredero de los Grandes Kanes mongoles (AsiaNews, sobre el libro de Tjundeshev)",
@@ -37182,7 +37145,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Luc Montagnier (Nobel 2008) y su equipo publicaron en 2009 y 2015 que el ADN emite señales electromagnéticas en disoluciones muy diluidas y que se podrían «transmitir» y reproducir en otra agua. Ninguna investigación independiente lo ha confirmado y se considera una afirmación pseudocientífica, en la línea de la «memoria del agua» de Benveniste (1988); no hay mecanismo plausible. Que baste programar agua para sustituir fármacos o la homeopatía no tiene respaldo.",
+    "resumen": "Qué es: la idea, atribuida a Luc Montagnier, de que el agua puede registrar la información de una sustancia mediante frecuencias electromagnéticas y transmitirla a distancia. Luc Montagnier (Nobel 2008) y su equipo publicaron en 2009 y 2015 que el ADN emite señales electromagnéticas en disoluciones muy diluidas y que se podrían «transmitir» y reproducir en otra agua. Ninguna investigación independiente lo ha confirmado y se considera una afirmación pseudocientífica, en la línea de la «memoria del agua» de Benveniste (1988); no hay mecanismo plausible. Que baste programar agua para sustituir fármacos o la homeopatía no tiene respaldo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: DNA teleportation",
@@ -37236,7 +37199,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp. 13-17), donde expone la idea de que la especie humana trascienda sus límites. El término ya se había usado antes en otros contextos.",
+    "resumen": "Qué es: el origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp. 13-17), donde expone la idea de que la especie humana trascienda sus límites. El término ya se había usado antes en otros contextos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Transhumanism",
@@ -37659,7 +37622,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La quimioterapia y la radiación dañan también células sanas de crecimiento rápido, como las sanguíneas, y pueden causar efectos secundarios graves, como neutropenia, y a veces un segundo cáncer años después; los médicos sopesan esos riesgos con el beneficio. James Watson criticó la «guerra contra el cáncer» (2013, en Open Biology) por la falta de curas para el cáncer metastásico y por el conservadurismo de la investigación, pero no la calificó de «fraude completo». Las afirmaciones sobre la cirugía, el coste medio por paciente y la ausencia de agentes no tóxicos aprobados no se han contrastado con fuente sanitaria en esta pasada. Cobertura oficial: la Sociedad Canadiense del Cáncer y la ACS reconocen que la radioterapia y la quimioterapia pueden tener efectos carcinógenos y causar segundos cánceres (leucemia, mama, pulmón, tiroides), con riesgo ligado a la dosis, la edad y la combinación; aun así son tratamientos de eficacia demostrada, y la supervivencia a 5 años de todos los cánceres juntos llegó al 70 % (ACS 2026). La afirmación sobre la cirugía, el gasto de 110.000 millones y que la FDA no apruebe nada no tóxico o sin patente no se han contrastado.",
+    "resumen": "Qué es: la crítica de un autor a los tratamientos oficiales del cáncer, la quimioterapia y la radiación, por sus efectos tóxicos y su negocio. La quimioterapia y la radiación dañan también células sanas de crecimiento rápido, como las sanguíneas, y pueden causar efectos secundarios graves, como neutropenia, y a veces un segundo cáncer años después; los médicos sopesan esos riesgos con el beneficio. James Watson criticó la «guerra contra el cáncer» (2013, en Open Biology) por la falta de curas para el cáncer metastásico y por el conservadurismo de la investigación, pero no la calificó de «fraude completo». Las afirmaciones sobre la cirugía, el coste medio por paciente y la ausencia de agentes no tóxicos aprobados no se han contrastado con fuente sanitaria en esta pasada. Cobertura oficial: la Sociedad Canadiense del Cáncer y la ACS reconocen que la radioterapia y la quimioterapia pueden tener efectos carcinógenos y causar segundos cánceres (leucemia, mama, pulmón, tiroides), con riesgo ligado a la dosis, la edad y la combinación; aun así son tratamientos de eficacia demostrada, y la supervivencia a 5 años de todos los cánceres juntos llegó al 70 % (ACS 2026). La afirmación sobre la cirugía, el gasto de 110.000 millones y que la FDA no apruebe nada no tóxico o sin patente no se han contrastado.",
     "fuentes": [
      {
       "titulo": "KidsHealth (Nemours): Chemotherapy & Radiation Side Effects",
@@ -37870,7 +37833,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Tucídides (II.28) registra un eclipse solar en el verano del primer año de la guerra del Peloponeso, identificado con el eclipse anular del 3 de agosto del 431 a. C.; los astrónomos lo toman como fiable. Que Newton contactara con Fomenko en 1973 y que la datación esté en duda es relato del autor, sin respaldo en las fuentes consultadas.",
+    "resumen": "Qué es: los eclipses que cita el historiador Tucídides en su relato de la guerra del Peloponeso, que sirven para fechar esa guerra con cálculo astronómico. Tucídides (II.28) registra un eclipse solar en el verano del primer año de la guerra del Peloponeso, identificado con el eclipse anular del 3 de agosto del 431 a. C.; los astrónomos lo toman como fiable. Que Newton contactara con Fomenko en 1973 y que la datación esté en duda es relato del autor, sin respaldo en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Classical Quarterly: Thucydides on the Third of August, 431 B.C.",
@@ -38604,7 +38567,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Bilbao y San Sebastián, fundada en 1886; la universidad privada más antigua de España.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad de Deusto es una universidad privada regida por la Compañía de Jesús, con campus en Bilbao y San Sebastián. Fue fundada en 1886 por la Compañía como Universidad de la Iglesia de Deusto, para dotar al País Vasco de un centro universitario propio en plena expansión industrial. Es la universidad privada más antigua de España. Su Universidad Comercial empezó en 1916.",
+    "resumen": "Qué es: una universidad privada de los jesuitas, con campus en Bilbao y San Sebastián, fundada en 1886. La Universidad de Deusto es una universidad privada regida por la Compañía de Jesús, con campus en Bilbao y San Sebastián. Fue fundada en 1886 por la Compañía como Universidad de la Iglesia de Deusto, para dotar al País Vasco de un centro universitario propio en plena expansión industrial. Es la universidad privada más antigua de España. Su Universidad Comercial empezó en 1916.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad de Deusto",
@@ -38686,7 +38649,7 @@ window.CRONO = {
    "resumen": "Universidad pública de Salamanca, la más antigua de España en funcionamiento: estudio general de 1218 y título de universidad en 1252.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad de Salamanca es una universidad pública española, la más antigua en funcionamiento de España y del mundo hispánico y la cuarta de Europa. Nació de escuelas catedralicias documentadas desde 1174. Alfonso IX de León instituyó el estudio general en 1218; la cédula real de Alfonso X de 9 de noviembre de 1252 le dio el título de universidad, ratificado en 1255 por Alejandro IV con la «licentia ubique docendi».",
+    "resumen": "Qué es: una universidad pública española, la más antigua en funcionamiento del país, nacida de un estudio general de 1218. La Universidad de Salamanca es una universidad pública española, la más antigua en funcionamiento de España y del mundo hispánico y la cuarta de Europa. Nació de escuelas catedralicias documentadas desde 1174. Alfonso IX de León instituyó el estudio general en 1218; la cédula real de Alfonso X de 9 de noviembre de 1252 le dio el título de universidad, ratificado en 1255 por Alejandro IV con la «licentia ubique docendi».",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad de Salamanca",
@@ -38724,7 +38687,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Nueva York, fundada en 1841 como St. John's College.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad Fordham es una universidad de investigación jesuita de Nueva York, fundada en 1841 como St. John's College por el obispo coadjutor John Hughes y puesta poco después al cuidado de la Compañía de Jesús. Es la universidad católica y jesuita más antigua del noreste de Estados Unidos. Desde 1969 la gobierna una junta laica independiente de la Iglesia, aunque todos sus presidentes entre 1846 y 2022 fueron sacerdotes jesuitas.",
+    "resumen": "Qué es: una universidad jesuita de Nueva York, fundada en 1841 como St. John's College. La Universidad Fordham es una universidad de investigación jesuita de Nueva York, fundada en 1841 como St. John's College por el obispo coadjutor John Hughes y puesta poco después al cuidado de la Compañía de Jesús. Es la universidad católica y jesuita más antigua del noreste de Estados Unidos. Desde 1969 la gobierna una junta laica independiente de la Iglesia, aunque todos sus presidentes entre 1846 y 2022 fueron sacerdotes jesuitas.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Fordham University",
@@ -38762,7 +38725,7 @@ window.CRONO = {
    "resumen": "Universidad privada de Cambridge (Massachusetts), fundada el 28-10-1636; la más antigua de Estados Unidos.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad Harvard es una universidad privada de investigación de la Ivy League, en Cambridge (Massachusetts), fundada el 28 de octubre de 1636 y llamada así por su primer benefactor, el clérigo inglés John Harvard. Es la institución de educación superior más antigua de Estados Unidos.",
+    "resumen": "Qué es: una universidad privada de Cambridge, en Massachusetts, fundada en 1636, la más antigua de Estados Unidos. La Universidad Harvard es una universidad privada de investigación de la Ivy League, en Cambridge (Massachusetts), fundada el 28 de octubre de 1636 y llamada así por su primer benefactor, el clérigo inglés John Harvard. Es la institución de educación superior más antigua de Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Harvard",
@@ -38796,7 +38759,7 @@ window.CRONO = {
    "resumen": "Universidad privada de Baltimore, fundada el 22-2-1876; considerada la primera universidad de investigación de Estados Unidos.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad Johns Hopkins es una universidad privada de Baltimore (Maryland), fundada el 22 de febrero de 1876. Según Wikipedia fue la primera universidad dedicada a la investigación en Estados Unidos.",
+    "resumen": "Qué es: una universidad privada de Baltimore, fundada en 1876, considerada la primera universidad de investigación de Estados Unidos. La Universidad Johns Hopkins es una universidad privada de Baltimore (Maryland), fundada el 22 de febrero de 1876. Según Wikipedia fue la primera universidad dedicada a la investigación en Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Johns Hopkins",
@@ -38830,7 +38793,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Madrid, nacida en 1890 como seminario pontificio de Comillas; sus facultades se conocen como ICAI e ICADE.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad Pontificia Comillas es una universidad privada española dirigida por la Compañía de Jesús, con sede en Madrid. Nació el 16 de diciembre de 1890 como seminario pontificio en Comillas (Cantabria), erigido por León XIII mediante el breve «Sempiternam Dominici Gregis» y costeado por el marqués de Comillas. Sus facultades se conocen como ICAI (ingeniería), ICADE (Instituto Católico de Administración y Dirección de Empresas) y CIHS. Según Wikipedia, en 2021 el 17 % de los directivos de las empresas del IBEX 35 habían estudiado en ella.",
+    "resumen": "Qué es: una universidad privada de los jesuitas en Madrid, nacida en 1890 como seminario pontificio en Comillas. La Universidad Pontificia Comillas es una universidad privada española dirigida por la Compañía de Jesús, con sede en Madrid. Nació el 16 de diciembre de 1890 como seminario pontificio en Comillas (Cantabria), erigido por León XIII mediante el breve «Sempiternam Dominici Gregis» y costeado por el marqués de Comillas. Sus facultades se conocen como ICAI (ingeniería), ICADE (Instituto Católico de Administración y Dirección de Empresas) y CIHS. Según Wikipedia, en 2021 el 17 % de los directivos de las empresas del IBEX 35 habían estudiado en ella.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Pontificia Comillas",
@@ -38868,7 +38831,7 @@ window.CRONO = {
    "resumen": "Universidad privada de New Haven (Connecticut), fundada en 1701; es de la Ivy League.",
    "segun": [],
    "oficial": {
-    "resumen": "La Universidad Yale es una universidad privada de New Haven, Connecticut, fundada en 1701 y miembro de la Ivy League. Es la tercera institución de educación superior más antigua de Estados Unidos y uno de los nueve «colleges» coloniales con carta real del monarca británico anterior a la Revolución de las Trece Colonias.",
+    "resumen": "Qué es: una universidad privada de New Haven, en Connecticut, fundada en 1701 y miembro de la Ivy League. La Universidad Yale es una universidad privada de New Haven, Connecticut, fundada en 1701 y miembro de la Ivy League. Es la tercera institución de educación superior más antigua de Estados Unidos y uno de los nueve «colleges» coloniales con carta real del monarca británico anterior a la Revolución de las Trece Colonias.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Yale",
@@ -39125,7 +39088,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Las vacunas se autorizan tras ensayos clínicos y se vigilan después. El Comité Asesor Mundial sobre Seguridad de las Vacunas de la OMS (GACVS) revisó en 2025, con 31 estudios, que no hay relación causal entre vacunas y autismo, incluidas las que llevan tiomersal o adyuvantes de aluminio, ya concluido en 2002, 2004 y 2012. La OMS calcula que la vacunación infantil ha salvado al menos 154 millones de vidas en 50 años. Las vacunas pueden tener efectos secundarios, que se vigilan.",
+    "resumen": "Qué es: la tesis de que las vacunas son inútiles y dañinas, y de que las enfermedades cayeron por la higiene, frente a lo que dicen los organismos sanitarios. Las vacunas se autorizan tras ensayos clínicos y se vigilan después. El Comité Asesor Mundial sobre Seguridad de las Vacunas de la OMS (GACVS) revisó en 2025, con 31 estudios, que no hay relación causal entre vacunas y autismo, incluidas las que llevan tiomersal o adyuvantes de aluminio, ya concluido en 2002, 2004 y 2012. La OMS calcula que la vacunación infantil ha salvado al menos 154 millones de vidas en 50 años. Las vacunas pueden tener efectos secundarios, que se vigilan.",
     "fuentes": [
      {
       "titulo": "OMS: análisis del GACVS sobre vacunas y autismo (11-12-2025)",
@@ -39180,7 +39143,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Christoph Wilhelm Hufeland practicó y defendió en Weimar la inoculación de la viruela (variolización) desde 1781 y describió la epidemia de 1788. La historiografía no atribuye esas epidemias a la variolización: la viruela era endémica, los brotes se sucedían hubiera o no inoculación y no hay pruebas de que la inoculación aumentara la mortalidad global.",
+    "resumen": "Qué es: unas epidemias de viruela ocurridas en ciudades alemanas (Weimar, Hamburgo y Berlín) que un autor atribuye a la variolación, la inoculación de viruela. Christoph Wilhelm Hufeland practicó y defendió en Weimar la inoculación de la viruela (variolización) desde 1781 y describió la epidemia de 1788. La historiografía no atribuye esas epidemias a la variolización: la viruela era endémica, los brotes se sucedían hubiera o no inoculación y no hay pruebas de que la inoculación aumentara la mortalidad global.",
     "fuentes": [
      {
       "titulo": "Edwardes, «A concise history of small-pox and vaccination in Europe» (1902), Wellcome Collection",
@@ -39227,7 +39190,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lady Mary Wortley Montagu conoció la variolación en Turquía (1716-1718) e hizo inocular a su hijo en 1718; la difundió en Inglaterra tras la epidemia de 1721. La variolación reducía mucho la mortalidad frente a la viruela natural (se citan cifras de 1-2 % frente a cerca de 30 %), pero tenía riesgos. No consta la cifra de muertes que da el autor.",
+    "resumen": "Qué es: la llegada a Inglaterra de la variolación, la inoculación de viruela, que Lady Mary Wortley Montagu conoció en Turquía y aplicó a su hijo en 1718. Lady Mary Wortley Montagu conoció la variolación en Turquía (1716-1718) e hizo inocular a su hijo en 1718; la difundió en Inglaterra tras la epidemia de 1721. La variolación reducía mucho la mortalidad frente a la viruela natural (se citan cifras de 1-2 % frente a cerca de 30 %), pero tenía riesgos. No consta la cifra de muertes que da el autor.",
     "fuentes": [
      {
       "titulo": "EBSCO: First Widespread Smallpox Inoculations",
@@ -39336,7 +39299,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El relato procede del estudio de Kenneth Ring y Sharon Cooper sobre 31 personas ciegas, 14 de ellas ciegas de nacimiento, publicado en el Journal of Near-Death Studies (1997) y en el libro Mindsight (1999), que los propios autores publicaron por su cuenta. Son testimonios retrospectivos, y se han propuesto explicaciones alternativas, como la reconstrucción del recuerdo a partir de pistas auditivas o táctiles. En las fuentes consultadas no consta una comprobación independiente de lo percibido. Crítica: Ring y Cooper reconocen en su propio artículo de 1997 que la psicóloga escéptica Susan Blackmore revisó la evidencia previa y concluyó que ninguna resistía el examen; y Batthyány (JNDS, 2015), investigador del campo, señala que la primera edición de «Mindsight» tuvo que llevar pegada una advertencia pidiendo ignorar un caso, y que la evidencia son sobre todo relatos anecdóticos y a veces ambiguos. La crítica de Blackmore se cita aquí de segunda mano, a través de ese artículo.",
+    "resumen": "Qué es: el relato de una mujer ciega de nacimiento que, en una experiencia cercana a la muerte, habría «visto» imágenes acordes con la realidad. El relato procede del estudio de Kenneth Ring y Sharon Cooper sobre 31 personas ciegas, 14 de ellas ciegas de nacimiento, publicado en el Journal of Near-Death Studies (1997) y en el libro Mindsight (1999), que los propios autores publicaron por su cuenta. Son testimonios retrospectivos, y se han propuesto explicaciones alternativas, como la reconstrucción del recuerdo a partir de pistas auditivas o táctiles. En las fuentes consultadas no consta una comprobación independiente de lo percibido. Crítica: Ring y Cooper reconocen en su propio artículo de 1997 que la psicóloga escéptica Susan Blackmore revisó la evidencia previa y concluyó que ninguna resistía el examen; y Batthyány (JNDS, 2015), investigador del campo, señala que la primera edición de «Mindsight» tuvo que llevar pegada una advertencia pidiendo ignorar un caso, y que la evidencia son sobre todo relatos anecdóticos y a veces ambiguos. La crítica de Blackmore se cita aquí de segunda mano, a través de ese artículo.",
     "fuentes": [
      {
       "titulo": "Enciclopedia de Psi (SPR): Kenneth Ring",
@@ -39643,7 +39606,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "La crio-microscopía electrónica fotografía los virus en estado hidratado (vitrificado), no secos; el método de muestra seca no es el único.",
+    "resumen": "Qué es: una afirmación de Artur Sala según la cual los virus se observan secos, sin agua, y por eso no se ve nada de su actividad. La crio-microscopía electrónica fotografía los virus en estado hidratado (vitrificado), no secos; el método de muestra seca no es el único.",
     "fuentes": [
      {
       "titulo": "PLOS Pathogens 2016, crio-EM de virus",
@@ -39684,7 +39647,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Bill Gates visitó en noviembre de 2014 los laboratorios del centro ENEA de Frascati, que trabaja en reacciones nucleares de baja energía; la agencia informó de colaboraciones con EE. UU. Gates preside TerraPower, que desarrolla reactores nucleares de fisión de nueva generación.",
+    "resumen": "Qué es: la visita de Bill Gates, en noviembre de 2014, a los laboratorios de ENEA en Frascati, un centro que investiga reacciones nucleares de baja energía. Bill Gates visitó en noviembre de 2014 los laboratorios del centro ENEA de Frascati, que trabaja en reacciones nucleares de baja energía; la agencia informó de colaboraciones con EE. UU. Gates preside TerraPower, que desarrolla reactores nucleares de fisión de nueva generación.",
     "fuentes": [
      {
       "titulo": "ENEA (comunicado en italiano, 12-11-2014)",
@@ -64612,7 +64575,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Propuesta filosófico-espiritual del autor, sin equivalente académico. La Gran Obra procede de la alquimia. La idea de pasar de la heteronomía a la autonomía recuerda a la ética de Kant, pero en Kant la autonomía es que la razón se dé a sí misma la ley moral, no un ascenso espiritual por los reinos de la naturaleza.",
+    "resumen": "Qué es: una propuesta filosófica de Nacho López Cabanas según la cual el ser humano se integra en el universo actuando de acuerdo con el orden natural. Propuesta filosófico-espiritual del autor, sin equivalente académico. La Gran Obra procede de la alquimia. La idea de pasar de la heteronomía a la autonomía recuerda a la ética de Kant, pero en Kant la autonomía es que la razón se dé a sí misma la ley moral, no un ascenso espiritual por los reinos de la naturaleza.",
     "fuentes": [
      {
       "titulo": "Stanford Encyclopedia of Philosophy: Autonomy in Moral and Political Philosophy",
@@ -64670,7 +64633,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El pH de la sangre se mantiene entre 7,35 y 7,45 gracias sobre todo a pulmones y riñones, y la dieta no lo modifica en personas sanas. El cáncer se debe a mutaciones; las zonas ácidas que rodean a los tumores son una consecuencia de su metabolismo, no su causa. La hipótesis de que alcalinizar el cuerpo previene o cura el cáncer carece de evidencia.",
+    "resumen": "Qué es: la tesis de un autor de que los residuos ácidos mal eliminados acidifican el organismo y que así una célula sin oxígeno se vuelve cancerosa. El pH de la sangre se mantiene entre 7,35 y 7,45 gracias sobre todo a pulmones y riñones, y la dieta no lo modifica en personas sanas. El cáncer se debe a mutaciones; las zonas ácidas que rodean a los tumores son una consecuencia de su metabolismo, no su causa. La hipótesis de que alcalinizar el cuerpo previene o cura el cáncer carece de evidencia.",
     "fuentes": [
      {
       "titulo": "PolitiFact, «Viral meme on cancer and acidity connection gets a lot wrong» (2019)",
@@ -64720,7 +64683,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lili Kolisko, con Steiner como guía, hizo en los años 1920 ensayos con trigo y diluciones potenciadas (publicados en 1923 como «Nachweis der Wirksamkeit kleinster Entitäten») y desarrolló la «dinamólisis capilar» (imágenes ascendentes de sales metálicas). Los intentos de repetirlos no confirmaron el efecto: investigadores de la propia antroposofía concluyen que la técnica no puede estandarizarse ni hacerse con controles, y en 1939 otros hallaron resultados negativos. Eugen Kolisko (1893-1939) fue médico y profesor de la primera escuela Waldorf.",
+    "resumen": "Qué es: el uso de diluciones muy potenciadas, como en homeopatía, para el crecimiento de las plantas, con ensayos de Lili Kolisko guiados por Steiner en los años 20. Lili Kolisko, con Steiner como guía, hizo en los años 1920 ensayos con trigo y diluciones potenciadas (publicados en 1923 como «Nachweis der Wirksamkeit kleinster Entitäten») y desarrolló la «dinamólisis capilar» (imágenes ascendentes de sales metálicas). Los intentos de repetirlos no confirmaron el efecto: investigadores de la propia antroposofía concluyen que la técnica no puede estandarizarse ni hacerse con controles, y en 1939 otros hallaron resultados negativos. Eugen Kolisko (1893-1939) fue médico y profesor de la primera escuela Waldorf.",
     "fuentes": [
      {
       "titulo": "Záveský (2002), Elemente der Naturwissenschaft 77",
@@ -64792,7 +64755,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La física del agua no acepta que el agua líquida conserve una estructura que guarde información: la red de enlaces de hidrógeno se reorganiza en picosegundos, y ese es el argumento principal contra la «memoria del agua». En esta búsqueda no se encontró ninguna fuente independiente sobre el trabajo de Esther del Río, sobre los clatratos de 37 moléculas en el cuerpo ni sobre un producto «agua cristal-líquido» con respaldo clínico.",
+    "resumen": "Qué es: la idea, que un autor atribuye a la doctora Esther del Río, de que el agua del cuerpo es un cristal líquido que guarda y transmite información. La física del agua no acepta que el agua líquida conserve una estructura que guarde información: la red de enlaces de hidrógeno se reorganiza en picosegundos, y ese es el argumento principal contra la «memoria del agua». En esta búsqueda no se encontró ninguna fuente independiente sobre el trabajo de Esther del Río, sobre los clatratos de 37 moléculas en el cuerpo ni sobre un producto «agua cristal-líquido» con respaldo clínico.",
     "fuentes": [
      {
       "titulo": "Martin Chaplin, Water Structure and Science: «Memory of water»",
@@ -64853,7 +64816,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "El NIH (NCCIH) dice que la acupuntura puede ayudar en algunos dolores crónicos; no hay evidencia científica de meridianos ni de qi.",
+    "resumen": "Qué es: la propuesta de Artur Sala de que el agua estructurada al interactuar con el colágeno explicaría los meridianos de la acupuntura. El NIH (NCCIH) dice que la acupuntura puede ayudar en algunos dolores crónicos; no hay evidencia científica de meridianos ni de qi.",
     "fuentes": [
      {
       "titulo": "NCCIH: acupuntura",
@@ -64965,7 +64928,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Pollack describió en 2003 una zona de exclusión junto a superficies hidrófilas; muchos resultados se han reproducido, pero la tesis de una nueva fase estructurada del agua no es aceptada: hay explicaciones alternativas (difusioforesis) y críticas. Su libro «The Fourth Phase of Water» (2013) no está revisado por pares.",
+    "resumen": "Qué es (según Artur Sala, que sigue a Gerald Pollack): el «agua estructurada EZ», una zona de exclusión junto a superficies en la que el agua formaría una capa cargada, un «cuarto estado» que explicaría la célula y la vida. Versión oficial: Pollack describió en 2003 una zona de exclusión junto a superficies hidrófilas; muchos resultados se han reproducido, pero la tesis de una nueva fase estructurada del agua no es aceptada: hay explicaciones alternativas (difusioforesis) y críticas. Su libro «The Fourth Phase of Water» (2013) no está revisado por pares.",
     "fuentes": [
      {
       "titulo": "Elton et al., Exclusion zone phenomena in water: a critical review (PMC7404113)",
@@ -65028,7 +64991,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "La «genética ondulatoria» de Piotr Gariaev (genoma como biocomputador de ondas, reprogramable con lenguaje) se publicó en revistas de periferia (CASYS 2001) y no tiene respaldo experimental independiente; una revisión filosófica reciente la considera incompatible con estándares físicos verificados. No he encontrado fuente fiable sobre las circunstancias de su muerte.",
+    "resumen": "Qué es: la «genética ondulatoria» de Piotr Gariaev, que Artur Sala resume como la idea de que el genoma funciona como un biocomputador de ondas que se puede reprogramar con palabras. La «genética ondulatoria» de Piotr Gariaev (genoma como biocomputador de ondas, reprogramable con lenguaje) se publicó en revistas de periferia (CASYS 2001) y no tiene respaldo experimental independiente; una revisión filosófica reciente la considera incompatible con estándares físicos verificados. No he encontrado fuente fiable sobre las circunstancias de su muerte.",
     "fuentes": [
      {
       "titulo": "Gariaev et al.: The DNA-wave Biocomputer (CASYS, 2001)",
@@ -65145,7 +65108,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Almagesto es el manual astronómico que Claudio Ptolomeo redactó en Alejandría hacia el año 150 d. C., conocido entonces como Mathematike Syntaxis, que expone un cosmos geocéntrico y un catálogo de 1.022 estrellas. Se tradujo al árabe entre los siglos VIII y IX y al latín por Gerardo de Cremona en el siglo XII, y fue la obra de referencia de la astronomía europea hasta comienzos del siglo XVII.",
+    "resumen": "Qué es: una tesis de un autor según la cual el Almagesto, el tratado de astronomía de Ptolomeo, se creó y manipuló siglos después de la fecha oficial. El Almagesto es el manual astronómico que Claudio Ptolomeo redactó en Alejandría hacia el año 150 d. C., conocido entonces como Mathematike Syntaxis, que expone un cosmos geocéntrico y un catálogo de 1.022 estrellas. Se tradujo al árabe entre los siglos VIII y IX y al latín por Gerardo de Cremona en el siglo XII, y fue la obra de referencia de la astronomía europea hasta comienzos del siglo XVII.",
     "fuentes": [
      {
       "titulo": "Almagest (Encyclopaedia Britannica)",
@@ -65254,7 +65217,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La alquimia es una antigua práctica protocientífica y disciplina filosófica que combinaba química, metalurgia, medicina, astrología y misticismo; se practicó en Mesopotamia, Egipto, Persia, India, China, Grecia, Roma y el mundo islámico, y en Europa hasta el siglo XVIII. La alquimia occidental estuvo muy ligada al hermetismo, y dio origen a la química moderna.",
+    "resumen": "Qué es: la tesis de Sergio Trallero de que astrología y alquimia forman una sola ciencia sagrada hermética. La alquimia es una antigua práctica protocientífica y disciplina filosófica que combinaba química, metalurgia, medicina, astrología y misticismo; se practicó en Mesopotamia, Egipto, Persia, India, China, Grecia, Roma y el mundo islámico, y en Europa hasta el siglo XVIII. La alquimia occidental estuvo muy ligada al hermetismo, y dio origen a la química moderna.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Alquimia",
@@ -65315,7 +65278,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La astrología no tiene base científica: no se ha demostrado que las posiciones planetarias influyan en los acontecimientos humanos. Las conjunciones citadas son hechos astronómicos, no causas de la guerra.",
+    "resumen": "Qué es: una lectura astrológica de las fechas de la guerra de 2026 con Irán, basada en conjunciones de Marte, Urano, Saturno y Neptuno. La astrología no tiene base científica: no se ha demostrado que las posiciones planetarias influyan en los acontecimientos humanos. Las conjunciones citadas son hechos astronómicos, no causas de la guerra.",
     "fuentes": [
      {
       "titulo": "NASA Science",
@@ -65388,7 +65351,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "La astrología, en su acepción más amplia, es un conjunto de tradiciones y creencias que sostienen que es posible reconocer o construir un significado de los eventos celestes y de las constelaciones, basándose en la interpretación de su correlación con los sucesos terrenales. Este paralelismo se utiliza como método de adivinación y de inferencia del carácter de las personas.",
+    "resumen": "Qué es: el término de Sergio Trallero para una astrología entendida como ciencia cosmológica sagrada, unida a alquimia, numerología y cábala. La astrología, en su acepción más amplia, es un conjunto de tradiciones y creencias que sostienen que es posible reconocer o construir un significado de los eventos celestes y de las constelaciones, basándose en la interpretación de su correlación con los sucesos terrenales. Este paralelismo se utiliza como método de adivinación y de inferencia del carácter de las personas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Astrología",
@@ -65461,7 +65424,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "La agricultura biodinámica la formuló Rudolf Steiner en los años veinte (1924) y exige nueve preparados. La revisión de Chalker-Scott (2013) halla poca ciencia sólida tras los preparados, mientras revisiones de la propia comunidad biodinámica (Brock 2019) ven efectos sobre suelos y calidad; las «altas diluciones dinamizadas» siguen siendo muy controvertidas y sin mecanismo aceptado. Las fuerzas formativas lunares y el protocolo levógiro/dextrógiro son doctrina antroposófica.",
+    "resumen": "Qué es: la agricultura biodinámica, formulada por Rudolf Steiner en 1924, que usa preparados basados en agua dinamizada y en las fuerzas de la Luna y del zodiaco. La agricultura biodinámica la formuló Rudolf Steiner en los años veinte (1924) y exige nueve preparados. La revisión de Chalker-Scott (2013) halla poca ciencia sólida tras los preparados, mientras revisiones de la propia comunidad biodinámica (Brock 2019) ven efectos sobre suelos y calidad; las «altas diluciones dinamizadas» siguen siendo muy controvertidas y sin mecanismo aceptado. Las fuerzas formativas lunares y el protocolo levógiro/dextrógiro son doctrina antroposófica.",
     "fuentes": [
      {
       "titulo": "Chalker-Scott: The Science Behind Biodynamic Preparations (2013)",
@@ -65503,7 +65466,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La bomba de sodio-potasio (Na⁺/K⁺-ATPasa) es una enzima de transporte activo presente en la membrana de todas las células animales; usa la energía del ATP. Por cada molécula de ATP exporta tres iones de sodio e importa dos de potasio, de modo que hay una exportación neta de una carga positiva por ciclo, y la concentración extracelular de sodio es unas cinco veces la intracelular. Fue descubierta en 1957 por Jens Skou (Nobel de Química 1997).",
+    "resumen": "Qué es: una propuesta de Panos Pappas según la cual la bomba sodio-potasio de la célula sería una transmutación de sodio en potasio. La bomba de sodio-potasio (Na⁺/K⁺-ATPasa) es una enzima de transporte activo presente en la membrana de todas las células animales; usa la energía del ATP. Por cada molécula de ATP exporta tres iones de sodio e importa dos de potasio, de modo que hay una exportación neta de una carga positiva por ciclo, y la concentración extracelular de sodio es unas cinco veces la intracelular. Fue descubierta en 1957 por Jens Skou (Nobel de Química 1997).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sodium–potassium pump",
@@ -65576,7 +65539,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La siembra según la Luna es una práctica antigua. Maria Thun (1922-2012) comenzó en los años 1950 ensayos con rábanos y plantó según la posición de la Luna en el zodiaco; publica su calendario anual de siembra desde 1963 (continuado por su hijo Matthias). Pruebas controladas (por ejemplo, de la revista Which?) no han demostrado beneficios claros, y las revisiones científicas no encuentran evidencia de efecto de los ritmos lunares sobre el crecimiento. El calendario asigna raíz-tierra, hoja-agua, flor-aire y fruto-fuego.",
+    "resumen": "Qué es: un calendario que fija los días para sembrar, cultivar y cosechar según la Luna y las constelaciones, como el de Maria Thun. La siembra según la Luna es una práctica antigua. Maria Thun (1922-2012) comenzó en los años 1950 ensayos con rábanos y plantó según la posición de la Luna en el zodiaco; publica su calendario anual de siembra desde 1963 (continuado por su hijo Matthias). Pruebas controladas (por ejemplo, de la revista Which?) no han demostrado beneficios claros, y las revisiones científicas no encuentran evidencia de efecto de los ritmos lunares sobre el crecimiento. El calendario asigna raíz-tierra, hoja-agua, flor-aire y fruto-fuego.",
     "fuentes": [
      {
       "titulo": "Irish Times: Biodynamic gardening: sound sense or plain silly?",
@@ -65642,7 +65605,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El calendario babilónico era lunisolar: doce meses lunares de 29 o 30 días que comenzaban con la primera aparición de la luna creciente, con un mes intercalar que se añadía para mantener la correspondencia con el año solar. Desde el siglo V a. C. la intercalación se reguló mediante un ciclo de 19 años y 235 meses, y ese saber astronómico y aritmético lo cultivaban y transmitían los sacerdotes de los templos, que lo dejaron por escrito en tablillas de arcilla.",
+    "resumen": "Qué es: el cómputo del tiempo por sacerdotes y sacerdotisas, que según un autor ya hacían un cálculo aritmético del calendario en Babilonia en el segundo milenio a. C. El calendario babilónico era lunisolar: doce meses lunares de 29 o 30 días que comenzaban con la primera aparición de la luna creciente, con un mes intercalar que se añadía para mantener la correspondencia con el año solar. Desde el siglo V a. C. la intercalación se reguló mediante un ciclo de 19 años y 235 meses, y ese saber astronómico y aritmético lo cultivaban y transmitían los sacerdotes de los templos, que lo dejaron por escrito en tablillas de arcilla.",
     "fuentes": [
      {
       "titulo": "How did the Babylonian 19-year lunisolar cycle work? | Britannica",
@@ -65689,7 +65652,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Sheldrake propuso la resonancia mórfica en «Una nueva ciencia de la vida» (1981). Las ratas proceden de experimentos de William McDougall en Harvard (años 20 en adelante), repetidos en Edimburgo y Melbourne; en Melbourne también mejoró la línea de ratas no entrenadas, sin explicación clara. La comunidad científica no acepta la hipótesis por falta de efectos replicados de forma independiente.",
+    "resumen": "Qué es: la hipótesis de Rupert Sheldrake, de 1981, de que la forma y el comportamiento se transmiten por resonancia con lo que ya existió. Sheldrake propuso la resonancia mórfica en «Una nueva ciencia de la vida» (1981). Las ratas proceden de experimentos de William McDougall en Harvard (años 20 en adelante), repetidos en Edimburgo y Melbourne; en Melbourne también mejoró la línea de ratas no entrenadas, sin explicación clara. La comunidad científica no acepta la hipótesis por falta de efectos replicados de forma independiente.",
     "fuentes": [
      {
       "titulo": "The Spectator (1981): reseña de A New Science of Life",
@@ -65742,7 +65705,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El término «castellanización» designa en la historiografía el proceso de centralización política y administrativa de la Monarquía hispánica —en particular los Decretos de Nueva Planta borbónicos— y la construcción de un relato nacional español articulado en torno a Castilla a lo largo de los siglos XVIII y XIX. La investigación sobre las historias de España del Ochocientos muestra que esa identificación castellana fue una elaboración historiográfica, revisada y matizada por los especialistas, y no el fruto de una ocultación. Las versiones que atribuyen la invención de Castilla, de Aragón o del reino de Granada a poderes bizantinos o a las casas de Alba y Anjou carecen de respaldo documental.",
+    "resumen": "Qué es: la tesis de un autor de que la historia de Cataluña se castellanizó en los siglos XVIII y XIX; en historiografía, el término designa la centralización de la monarquía hispánica. El término «castellanización» designa en la historiografía el proceso de centralización política y administrativa de la Monarquía hispánica —en particular los Decretos de Nueva Planta borbónicos— y la construcción de un relato nacional español articulado en torno a Castilla a lo largo de los siglos XVIII y XIX. La investigación sobre las historias de España del Ochocientos muestra que esa identificación castellana fue una elaboración historiográfica, revisada y matizada por los especialistas, y no el fruto de una ocultación. Las versiones que atribuyen la invención de Castilla, de Aragón o del reino de Granada a poderes bizantinos o a las casas de Alba y Anjou carecen de respaldo documental.",
     "fuentes": [
      {
       "titulo": "Castilla en la primera historiografía nacional española, 1833-1900 (Alcores)",
@@ -65849,7 +65812,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La celuloterapia o terapia de células frescas la desarrolló el médico suizo Paul Niehans (1882-1971) a partir de 1931. Consiste en inyectar células animales, a menudo de órganos de oveja o de fetos, con la idea de que regeneran el órgano enfermo, una eficacia que no ha sido demostrada. Los organismos sanitarios no la reconocen como tratamiento y puede provocar reacciones inmunitarias graves; en varios países no está autorizada. Niehans trató al papa Pío XII en 1954.",
+    "resumen": "Qué es: un tratamiento alternativo, desarrollado por Paul Niehans desde 1931, que inyecta células de órganos animales para regenerar el órgano correspondiente. La celuloterapia o terapia de células frescas la desarrolló el médico suizo Paul Niehans (1882-1971) a partir de 1931. Consiste en inyectar células animales, a menudo de órganos de oveja o de fetos, con la idea de que regeneran el órgano enfermo, una eficacia que no ha sido demostrada. Los organismos sanitarios no la reconocen como tratamiento y puede provocar reacciones inmunitarias graves; en varios países no está autorizada. Niehans trató al papa Pío XII en 1954.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Paul Niehans",
@@ -65954,7 +65917,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "El agua tiene su máxima densidad hacia 4 °C, dato aceptado. Que la cubierta forestal regula el caudal y el calentamiento de los ríos es coherente con la hidrología, pero las atribuciones de Schauberger (las truchas, la savia en vórtice, el agua que «busca» 4 °C) proceden de sus propios escritos y de divulgadores, sin validación científica independiente en las fuentes consultadas.",
+    "resumen": "Qué es: la explicación de Viktor Schauberger, según Artur Sala, de que el agua busca los 4 °C y de que talar el bosque la calienta y daña el río. El agua tiene su máxima densidad hacia 4 °C, dato aceptado. Que la cubierta forestal regula el caudal y el calentamiento de los ríos es coherente con la hidrología, pero las atribuciones de Schauberger (las truchas, la savia en vórtice, el agua que «busca» 4 °C) proceden de sus propios escritos y de divulgadores, sin validación científica independiente en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Chaplin (LSBU): Water anomalies",
@@ -66005,7 +65968,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última. Los cuatro yugas duran 1 728 000, 1 296 000, 864 000 y 432 000 años (el Kali Yuga, el último, 432 000). En Hesíodo («Trabajos y días», vv. 106-202), la humanidad pasa por cinco edades, desde una raza de oro que vive como los dioses hasta la de hierro; el mito de las edades del hombre es la versión griega de la idea.",
+    "resumen": "Qué es: el marco de las cuatro edades (oro, plata, bronce y hierro), que en el hinduismo son los yugas y el último es el Kali Yuga; Sergio Trallero lo usa para leer la historia. En el hinduismo, un yuga es cada una de las cuatro eras en que se divide un mahayuga o «gran era». El Kali Yuga es la última. Los cuatro yugas duran 1 728 000, 1 296 000, 864 000 y 432 000 años (el Kali Yuga, el último, 432 000). En Hesíodo («Trabajos y días», vv. 106-202), la humanidad pasa por cinco edades, desde una raza de oro que vive como los dioses hasta la de hierro; el mito de las edades del hombre es la versión griega de la idea.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Yuga",
@@ -66135,7 +66098,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La «sinarquía» es un concepto formulado por Alexandre Saint-Yves d'Alveydre (1842-1909) para designar un gobierno colegiado en el que el poder se reparte entre cámaras de enseñanza, justicia y economía; no designa una conspiración oculta, aunque el término se haya usado después en sentido peyorativo. La crítica filosófica a la técnica como sistema que reduce la realidad a «existencia disponible» (Gestell) procede de Martin Heidegger, y la oposición entre lo cualitativo y lo cuantitativo, de René Guénon. La tesis de una «civilización mundial del no ser» es una interpretación filosófica, no una afirmación verificable empíricamente.",
+    "resumen": "Qué es: una tesis filosófica según la cual, tras 1945, la tecnociencia queda impulsada por un complejo militar industrial. La «sinarquía» es un concepto formulado por Alexandre Saint-Yves d'Alveydre (1842-1909) para designar un gobierno colegiado en el que el poder se reparte entre cámaras de enseñanza, justicia y economía; no designa una conspiración oculta, aunque el término se haya usado después en sentido peyorativo. La crítica filosófica a la técnica como sistema que reduce la realidad a «existencia disponible» (Gestell) procede de Martin Heidegger, y la oposición entre lo cualitativo y lo cuantitativo, de René Guénon. La tesis de una «civilización mundial del no ser» es una interpretación filosófica, no una afirmación verificable empíricamente.",
     "fuentes": [
      {
       "titulo": "synarchie | Dictionnaire de l'Académie française",
@@ -66183,7 +66146,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La variabilidad de la frecuencia cardíaca y la respiración coherente cuentan con estudios favorables para reducir estrés y ansiedad. La anticipación cardíaca de acontecimientos futuros y la sanación por campos entre personas no tienen respaldo sólido.",
+    "resumen": "Qué es: la idea de que la coherencia cardíaca, una respiración que regula el pulso, potencia la intuición y la sanación. La variabilidad de la frecuencia cardíaca y la respiración coherente cuentan con estudios favorables para reducir estrés y ansiedad. La anticipación cardíaca de acontecimientos futuros y la sanación por campos entre personas no tienen respaldo sólido.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Heart rate variability",
@@ -66229,7 +66192,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay una versión oficial sobre la infiltración de la MI5 en la Sociedad Teosófica ni sobre una «contrainiciación» dirigida desde servicios secretos; lo que sí consta es que la noción de contra-iniciación pertenece a la obra de René Guénon y a la escuela tradicionalista, donde designa una desviación o inversión de la iniciación auténtica. Guénon consideraba a la teosofía una corriente pseudo-iniciática, y esa idea la desarrollaron después autores tradicionalistas como Evola. La Sociedad Teosófica, fundada en 1875 por Helena Blavatsky y Henry Olcott, fue un movimiento esotérico de alcance internacional.",
+    "resumen": "Qué es: el nombre que da un autor a la infiltración de las escuelas espirituales tradicionales para desviarlas desde dentro. No hay una versión oficial sobre la infiltración de la MI5 en la Sociedad Teosófica ni sobre una «contrainiciación» dirigida desde servicios secretos; lo que sí consta es que la noción de contra-iniciación pertenece a la obra de René Guénon y a la escuela tradicionalista, donde designa una desviación o inversión de la iniciación auténtica. Guénon consideraba a la teosofía una corriente pseudo-iniciática, y esa idea la desarrollaron después autores tradicionalistas como Evola. La Sociedad Teosófica, fundada en 1875 por Helena Blavatsky y Henry Olcott, fue un movimiento esotérico de alcance internacional.",
     "fuentes": [
      {
       "titulo": "Wikipedia: René Guénon",
@@ -66277,7 +66240,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El corazón secreta hormonas y tiene una red neuronal intrínseca, y su campo magnético es mayor que el cerebral, pero es débil y no se ha demostrado que actúe a metros ni que dirija el cerebro. El factor natriurético atrial se atribuye sobre todo a Adolfo de Bold (1981), con aportaciones de Cantin y Genest.",
+    "resumen": "Qué es: la tesis, ligada al instituto HeartMath, de que el corazón manda más información al cerebro que la que recibe y tiene un campo muy potente. El corazón secreta hormonas y tiene una red neuronal intrínseca, y su campo magnético es mayor que el cerebral, pero es débil y no se ha demostrado que actúe a metros ni que dirija el cerebro. El factor natriurético atrial se atribuye sobre todo a Adolfo de Bold (1981), con aportaciones de Cantin y Genest.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Atrial natriuretic peptide",
@@ -66363,7 +66326,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Francisco Torrent-Guasp describió la banda miocárdica ventricular enrollada en doble hélice; su modelo explica la succión ventricular por contracción de la banda, no por agua estructurada, y sigue debatido frente al modelo clásico del corazón como bomba. Murió súbitamente en Madrid en 2005 tras dar una conferencia de clausura en una reunión de electrofisiología, no en Valencia tras presentar su modelo. La idea de agua EZ como motor de la circulación no tiene respaldo.",
+    "resumen": "Qué es: la propuesta de Artur Sala de que el corazón no es una bomba sino un estructurador del agua, apoyada en el modelo helicoidal de Torrent-Guasp. Francisco Torrent-Guasp describió la banda miocárdica ventricular enrollada en doble hélice; su modelo explica la succión ventricular por contracción de la banda, no por agua estructurada, y sigue debatido frente al modelo clásico del corazón como bomba. Murió súbitamente en Madrid en 2005 tras dar una conferencia de clausura en una reunión de electrofisiología, no en Valencia tras presentar su modelo. La idea de agua EZ como motor de la circulación no tiene respaldo.",
     "fuentes": [
      {
       "titulo": "Rev Esp Cardiol: In memoriam Torrent-Guasp (2005)",
@@ -66408,7 +66371,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El corrimiento al rojo es el aumento de la longitud de onda de la radiación; en cosmología, el corrimiento cosmológico se interpreta como efecto de la expansión del universo y sirve para estimar distancias mediante la ley de Hubble. Las objeciones de Arp —corrimiento intrínseco y asociaciones entre galaxias y cuásares— no han sido aceptadas: la mayoría de esas asociaciones se explican por proyección y lentes gravitatorias, y el corrimiento cosmológico está respaldado por pruebas independientes. La explicación por un éter más compactado es una propuesta del autor de la charla, no de Arp.",
+    "resumen": "Qué es: la lectura de Halton Arp del corrimiento al rojo de la luz de las galaxias, que lo separa de la distancia y de la expansión del universo. El corrimiento al rojo es el aumento de la longitud de onda de la radiación; en cosmología, el corrimiento cosmológico se interpreta como efecto de la expansión del universo y sirve para estimar distancias mediante la ley de Hubble. Las objeciones de Arp —corrimiento intrínseco y asociaciones entre galaxias y cuásares— no han sido aceptadas: la mayoría de esas asociaciones se explican por proyección y lentes gravitatorias, y el corrimiento cosmológico está respaldado por pruebas independientes. La explicación por un éter más compactado es una propuesta del autor de la charla, no de Arp.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Redshift",
@@ -66469,7 +66432,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pfeiffer y Erika Sabarth desarrollaron hacia 1925 la cristalización con cloruro de cobre (un extracto se mezcla con cloruro de cobre y se evapora; el patrón de cristales se interpreta por comparación con muestras conocidas) y la cromatografía circular. En 1939 Pfeiffer y Miley dijeron que con unas 1000 pruebas la cristalización de sangre tenía un 83 % de acierto para detectar cáncer. Un autor del propio campo concluye en 2004 que la validez predictiva del método debe establecerse con estudios prospectivos, y una revisión de 2021 lo sitúa entre los tests de patrones en fluidos secos menos consolidados. Ambos métodos requieren mucha práctica para «leerlos».",
+    "resumen": "Qué es: dos métodos de Ehrenfried Pfeiffer, la cristalización con cloruro de cobre y la cromatografía circular, para evaluar suelos, alimentos y sangre. Pfeiffer y Erika Sabarth desarrollaron hacia 1925 la cristalización con cloruro de cobre (un extracto se mezcla con cloruro de cobre y se evapora; el patrón de cristales se interpreta por comparación con muestras conocidas) y la cromatografía circular. En 1939 Pfeiffer y Miley dijeron que con unas 1000 pruebas la cristalización de sangre tenía un 83 % de acierto para detectar cáncer. Un autor del propio campo concluye en 2004 que la validez predictiva del método debe establecerse con estudios prospectivos, y una revisión de 2021 lo sitúa entre los tests de patrones en fluidos secos menos consolidados. Ambos métodos requieren mucha práctica para «leerlos».",
     "fuentes": [
      {
       "titulo": "Wikipedia: Ehrenfried Pfeiffer",
@@ -66574,7 +66537,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Escalígero publicó De emendatione temporum en 1583 y Petavio De doctrina temporum en 1627; unificaron las cronologías antiguas con datos astronómicos (eclipses) y fuentes de varias culturas. Su trabajo se ha revisado y confirmado con métodos posteriores, como el radiocarbono y la dendrocronología.",
+    "resumen": "Qué es: la cronología histórica que fijaron Joseph Scaliger (1583) y Denis Petau (1627), base de las fechas que se enseñan hoy. Escalígero publicó De emendatione temporum en 1583 y Petavio De doctrina temporum en 1627; unificaron las cronologías antiguas con datos astronómicos (eclipses) y fuentes de varias culturas. Su trabajo se ha revisado y confirmado con métodos posteriores, como el radiocarbono y la dendrocronología.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Joseph Justus Scaliger",
@@ -66617,7 +66580,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay una doctrina de las «cuatro cárceles mentales» en Freud. La cadena Brentano → Freud → Tavistock → Bernays es una tesis de Jorge Guerra: Brentano fue profesor de Freud; Bernays, su doble sobrino, trabajó en la Committee on Public Information y escribió Propaganda (1928); Tavistock se fundó en 1947; MKUltra fue un programa de la CIA (1953-1973), no de Tavistock. La ingeniería del consentimiento y la propaganda están documentadas; la cadena como plan único, no.",
+    "resumen": "Qué es: una tesis de Jorge Guerra según la cual Brentano, Freud, Tavistock y Bernays construyeron paso a paso un «diván» donde se nos analiza. No hay una doctrina de las «cuatro cárceles mentales» en Freud. La cadena Brentano → Freud → Tavistock → Bernays es una tesis de Jorge Guerra: Brentano fue profesor de Freud; Bernays, su doble sobrino, trabajó en la Committee on Public Information y escribió Propaganda (1928); Tavistock se fundó en 1947; MKUltra fue un programa de la CIA (1953-1973), no de Tavistock. La ingeniería del consentimiento y la propaganda están documentadas; la cadena como plan único, no.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Tavistock Institute",
@@ -66685,7 +66648,7 @@ window.CRONO = {
    "resumen": "Sistema mesoamericano que cuenta los días desde el 11 de agosto de 3114 a. C.; su gran ciclo de 13 baktunes acabó el 21 de diciembre de 2012.",
    "segun": [],
    "oficial": {
-    "resumen": "La Cuenta Larga es un sistema calendárico de Mesoamérica que identifica los días contándolos desde el 11 de agosto de 3114 a. C. (calendario gregoriano; 6 de septiembre en el juliano), con numeración vigesimal. A diferencia del calendario de 365 días, no repite ningún día. El ciclo de 13 baktunes, que empezó el día 13.0.0.0.0 (4 ajau, 8 cumkú), terminó el 21 de diciembre de 2012 d. C., tras 5125,36 años solares (5200 tunes de 360 días, 1 872 000 días); después se reinició el ciclo. La inscripción en Cuenta Larga inequívocamente maya más antigua es la Estela 46 de El Palmar (México), del 5 de septiembre de 179 d. C., seguida de la Estela 29 de Tikal (292 d. C.); inscripciones epiolmecas, como la Estela 2 de Chiapa de Corzo, son más de 300 años anteriores a la de Tikal. La correlación con nuestro calendario más aceptada es la de Goodman, Martínez y Thompson (GMT), que iguala el 0.0.0.0.0 al día juliano 584 283, es decir, al 11 de agosto de 3114 a. C.",
+    "resumen": "Qué es: un sistema de calendario mesoamericano que cuenta los días desde el 11 de agosto de 3114 a. C. La Cuenta Larga es un sistema calendárico de Mesoamérica que identifica los días contándolos desde el 11 de agosto de 3114 a. C. (calendario gregoriano; 6 de septiembre en el juliano), con numeración vigesimal. A diferencia del calendario de 365 días, no repite ningún día. El ciclo de 13 baktunes, que empezó el día 13.0.0.0.0 (4 ajau, 8 cumkú), terminó el 21 de diciembre de 2012 d. C., tras 5125,36 años solares (5200 tunes de 360 días, 1 872 000 días); después se reinició el ciclo. La inscripción en Cuenta Larga inequívocamente maya más antigua es la Estela 46 de El Palmar (México), del 5 de septiembre de 179 d. C., seguida de la Estela 29 de Tikal (292 d. C.); inscripciones epiolmecas, como la Estela 2 de Chiapa de Corzo, son más de 300 años anteriores a la de Tikal. La correlación con nuestro calendario más aceptada es la de Goodman, Martínez y Thompson (GMT), que iguala el 0.0.0.0.0 al día juliano 584 283, es decir, al 11 de agosto de 3114 a. C.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Cuenta larga",
@@ -66892,7 +66855,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El orgón es un concepto pseudocientífico descrito como una energía esotérica o fuerza vital universal hipotética. Lo propuso Wilhelm Reich en los años treinta (acuñó el término «energía orgónica», de orgasmo y organismo, durante sus años en Oslo) y lo desarrolló después su alumno Charles Kelley. Reich fundó hacia 1942 el Orgone Institute en EE. UU. para investigarlo. La comunidad científica rechaza la teoría del orgón como pseudociencia.",
+    "resumen": "Qué es: el «orgón», una energía que Wilhelm Reich dijo descubrir en 1942, y que se considera un concepto pseudocientífico. El orgón es un concepto pseudocientífico descrito como una energía esotérica o fuerza vital universal hipotética. Lo propuso Wilhelm Reich en los años treinta (acuñó el término «energía orgónica», de orgasmo y organismo, durante sus años en Oslo) y lo desarrolló después su alumno Charles Kelley. Reich fundó hacia 1942 el Orgone Institute en EE. UU. para investigarlo. La comunidad científica rechaza la teoría del orgón como pseudociencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Orgone",
@@ -66983,7 +66946,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Arani, Bono, Del Giudice y Preparata publicaron en 1995 un modelo de electrodinámica cuántica con dominios coherentes en agua. La teoría no está aceptada de forma general.",
+    "resumen": "Qué es: un modelo de 1995 de Del Giudice y Preparata según el cual el agua forma dominios coherentes de moléculas. Arani, Bono, Del Giudice y Preparata publicaron en 1995 un modelo de electrodinámica cuántica con dominios coherentes en agua. La teoría no está aceptada de forma general.",
     "fuentes": [
      {
       "titulo": "Preparata, Entropy 2014, 16(9)",
@@ -67020,7 +66983,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El dualismo moderno de mente y materia, con dos sustancias, una que piensa y otra que ocupa espacio, procede de Descartes (1596–1650) y sus «Meditaciones»: es del s. XVII, no del XVIII. Hume no era dualista: sustituyó la mente cartesiana por un «haz» de percepciones. La entrada de referencia sobre el dualismo no cuenta a Kant entre sus defensores.",
+    "resumen": "Qué es: la separación del mundo en una sustancia material y otra pensante, que procede de Descartes en el siglo XVII. El dualismo moderno de mente y materia, con dos sustancias, una que piensa y otra que ocupa espacio, procede de Descartes (1596–1650) y sus «Meditaciones»: es del s. XVII, no del XVIII. Hume no era dualista: sustituyó la mente cartesiana por un «haz» de percepciones. La entrada de referencia sobre el dualismo no cuenta a Kant entre sus defensores.",
     "fuentes": [
      {
       "titulo": "Stanford Encyclopedia of Philosophy: Dualism",
@@ -67076,7 +67039,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Edad Media es el periodo de la historia europea comprendido entre la desaparición del Imperio romano de Occidente (siglo V) y el Renacimiento (siglos XIII-XV según las regiones); el nombre lo acuñaron los humanistas italianos con intención despectiva, como un milenio de tinieblas entre la Antigüedad y su propia época. La historiografía actual rechaza esa imagen: las catedrales góticas, las universidades, la escolástica, el derecho, la cartografía y la ciencia medievales muestran una civilización dinámica y creativa. El «oscurantismo» medieval es, por tanto, un prejuicio heredado del Renacimiento y de la polémica confesional, no una descripción histórica.",
+    "resumen": "Qué es: la tesis de un autor de que la imagen de una Edad Media oscura es falsa, porque en ella se construyeron ciudades, megalitos y catedrales. La Edad Media es el periodo de la historia europea comprendido entre la desaparición del Imperio romano de Occidente (siglo V) y el Renacimiento (siglos XIII-XV según las regiones); el nombre lo acuñaron los humanistas italianos con intención despectiva, como un milenio de tinieblas entre la Antigüedad y su propia época. La historiografía actual rechaza esa imagen: las catedrales góticas, las universidades, la escolástica, el derecho, la cartografía y la ciencia medievales muestran una civilización dinámica y creativa. El «oscurantismo» medieval es, por tanto, un prejuicio heredado del Renacimiento y de la polémica confesional, no una descripción histórica.",
     "fuentes": [
      {
       "titulo": "Middle Ages | Britannica",
@@ -67126,7 +67089,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El efecto Marte es una supuesta correlación estadística entre la excelencia deportiva y la posición del planeta Marte respecto al horizonte en el momento y lugar de nacimiento. Lo propuso el psicólogo francés Michel Gauquelin en L'influence des astres (1955): según él, un número estadísticamente significativo de campeones nació poco después de que Marte saliera o culminara. Su trabajo lo aceptó el psicólogo Hans Eysenck entre otros, pero los intentos posteriores de validarlo y replicarlo dieron resultados desiguales, sobre todo por desacuerdos sobre la selección y el análisis de los datos; trabajos posteriores lo explican por sesgo de selección. El Comité Para belga lo replicó en 1967, pero retuvo ocho años los resultados y alegó «errores demográficos». El efecto sigue siendo controvertido.",
+    "resumen": "Qué es: la supuesta correlación entre los campeones deportivos y la posición de Marte al nacer, propuesta por Michel Gauquelin. El efecto Marte es una supuesta correlación estadística entre la excelencia deportiva y la posición del planeta Marte respecto al horizonte en el momento y lugar de nacimiento. Lo propuso el psicólogo francés Michel Gauquelin en L'influence des astres (1955): según él, un número estadísticamente significativo de campeones nació poco después de que Marte saliera o culminara. Su trabajo lo aceptó el psicólogo Hans Eysenck entre otros, pero los intentos posteriores de validarlo y replicarlo dieron resultados desiguales, sobre todo por desacuerdos sobre la selección y el análisis de los datos; trabajos posteriores lo explican por sesgo de selección. El Comité Para belga lo replicó en 1967, pero retuvo ocho años los resultados y alegó «errores demográficos». El efecto sigue siendo controvertido.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mars effect (en)",
@@ -67166,12 +67129,12 @@ window.CRONO = {
      "obra": "la-voz-de-arthur-31-reich",
      "ubicacion": "min. 26:22",
      "url": "https://www.youtube.com/watch?v=FYyzxF9F_Zk&t=1582s",
-     "resumen": "El autor menciona el efecto Warburg: la célula tumoral tiene un problema metabólico, de fermentación; dice que hay mucha desinformación sobre el tema y que Reich, conocedor del efecto, vio en el crecimiento tumoral caótico un crecimiento entrópico.",
+     "resumen": "El autor menciona el efecto Warburg: un fallo en el metabolismo de la célula tumoral, ligado a la fermentación; dice que hay mucha desinformación sobre el tema y que Reich, conocedor del efecto, vio en el crecimiento tumoral caótico un crecimiento entrópico.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "En oncología, el efecto Warburg es la observación de que la mayoría de los cánceres obtienen energía por glucólisis aeróbica y fermentación láctica, en lugar de usar los mecanismos de las células no cancerosas. Lo publicó Otto Heinrich Warburg, premio Nobel de Fisiología en 1931 por descubrir la naturaleza y el modo de acción de la enzima respiratoria; hacia los años veinte su grupo concluyó que la falta de glucosa y de oxígeno en las células tumorales altera su metabolismo. El mayor consumo de glucosa de los tumores es la base de su detección con PET. La existencia del efecto ha alimentado la idea errónea de que el cáncer se trata reduciendo azúcares e hidratos de carbono.",
+    "resumen": "Qué es: la observación de Otto Warburg de que las células tumorales obtienen energía por fermentación aunque tengan oxígeno. En oncología, el efecto Warburg es la observación de que la mayoría de los cánceres obtienen energía por glucólisis aeróbica y fermentación láctica, en lugar de usar los mecanismos de las células no cancerosas. Lo publicó Otto Heinrich Warburg, premio Nobel de Fisiología en 1931 por descubrir la naturaleza y el modo de acción de la enzima respiratoria; hacia los años veinte su grupo concluyó que la falta de glucosa y de oxígeno en las células tumorales altera su metabolismo. El mayor consumo de glucosa de los tumores es la base de su detección con PET. La existencia del efecto ha alimentado la idea errónea de que el cáncer se trata reduciendo azúcares e hidratos de carbono.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Warburg effect (oncology)",
@@ -67216,7 +67179,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La tensegridad (término de Buckminster Fuller) es un modelo real en arquitectura y se estudia en biomecánica celular. Los meridianos de la acupuntura no tienen correlato anatómico demostrado y que las meninges sean meridianos o las magnetitas sean chakras es una tesis del autor.",
+    "resumen": "Qué es: la tesis de un autor de que las meninges serían los meridianos de la acupuntura y el cuerpo una estructura de tensegridad. La tensegridad (término de Buckminster Fuller) es un modelo real en arquitectura y se estudia en biomecánica celular. Los meridianos de la acupuntura no tienen correlato anatómico demostrado y que las meninges sean meridianos o las magnetitas sean chakras es una tesis del autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Tensegrity",
@@ -67293,7 +67256,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay evidencia aceptada de una «electricidad longitudinal» distinta de la electromagnética ni de ondas electromagnéticas longitudinales en el vacío: las ecuaciones de Maxwell describen ondas transversales y la luz se comporta como tal. Las patentes de Tesla de 1892-1905 existen y describen transmisión de energía mediante ondas estacionarias en la Tierra, pero no demuestran una forma distinta de electricidad ni velocidades superlumínicas. El litigio de 1919 no fue de la RCA contra Tesla: la demanda de la Marconi Wireless Telegraph Co. contra el Gobierno de EE. UU. se resolvió en 1943 (320 U.S. 1) y versaba sobre patentes de radio, no sobre ondas longitudinales.",
+    "resumen": "Qué es: una supuesta forma de electricidad que, según sus defensores, atraviesa la materia y se propaga por la Tierra. No hay evidencia aceptada de una «electricidad longitudinal» distinta de la electromagnética ni de ondas electromagnéticas longitudinales en el vacío: las ecuaciones de Maxwell describen ondas transversales y la luz se comporta como tal. Las patentes de Tesla de 1892-1905 existen y describen transmisión de energía mediante ondas estacionarias en la Tierra, pero no demuestran una forma distinta de electricidad ni velocidades superlumínicas. El litigio de 1919 no fue de la RCA contra Tesla: la demanda de la Marconi Wireless Telegraph Co. contra el Gobierno de EE. UU. se resolvió en 1943 (320 U.S. 1) y versaba sobre patentes de radio, no sobre ondas longitudinales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nikola Tesla",
@@ -67385,7 +67348,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El empirismo es la corriente filosófica que funda el conocimiento en la experiencia; sus grandes representantes son Bacon, Locke, Berkeley y Hume. El método científico moderno combina observación, hipótesis, matemáticas y experimento (Galileo, Kepler, Newton) y ha producido descubrimientos verificables. Sarpi tuvo ideas empiristas en sus Pensieri, pero los historiadores de la filosofía no lo consideran fundador del empirismo ni del capitalismo. El planteamiento del documental coincide en parte con escritos del movimiento de Lyndon LaRouche (por ejemplo, de Webster Tarpley). Las dos frases que el documental atribuye a Sarpi no se han localizado en sus Pensieri.",
+    "resumen": "Qué es: la corriente filosófica que funda el conocimiento en la experiencia, con Bacon, Locke, Berkeley y Hume; la ficha recoge la tesis de que el método científico moderno nació para frenar la ciencia. El empirismo es la corriente filosófica que funda el conocimiento en la experiencia; sus grandes representantes son Bacon, Locke, Berkeley y Hume. El método científico moderno combina observación, hipótesis, matemáticas y experimento (Galileo, Kepler, Newton) y ha producido descubrimientos verificables. Sarpi tuvo ideas empiristas en sus Pensieri, pero los historiadores de la filosofía no lo consideran fundador del empirismo ni del capitalismo. El planteamiento del documental coincide en parte con escritos del movimiento de Lyndon LaRouche (por ejemplo, de Webster Tarpley). Las dos frases que el documental atribuye a Sarpi no se han localizado en sus Pensieri.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Empirismo",
@@ -67507,7 +67470,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En su etapa filosófica Steiner se doctoró en 1891 (Rostock) y publicó «La filosofía de la libertad» en 1894; defendía que no hay límites al conocimiento humano y criticaba la limitación kantiana del conocimiento a los fenómenos. Su pensamiento sigue el método de observación de Goethe. La filosofía académica no lo cuenta entre las corrientes principales.",
+    "resumen": "Qué es: la crítica de Rudolf Steiner a Kant, que defiende que el pensamiento llega a lo real y no solo a los fenómenos; la desarrolló en «La filosofía de la libertad» (1894). En su etapa filosófica Steiner se doctoró en 1891 (Rostock) y publicó «La filosofía de la libertad» en 1894; defendía que no hay límites al conocimiento humano y criticaba la limitación kantiana del conocimiento a los fenómenos. Su pensamiento sigue el método de observación de Goethe. La filosofía académica no lo cuenta entre las corrientes principales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Rudolf Steiner",
@@ -67576,7 +67539,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La terapia asistida con psicodélicos (psilocibina, MDMA) tiene interés clínico real pero sigue siendo experimental: la certeza de la evidencia es baja o muy baja según revisiones recientes y conlleva riesgos psiquiátricos. Los recuerdos de vidas pasadas obtenidos con hipnosis se consideran recuerdos falsos. No consta prueba objetiva de los viajes astrales. Seguridad: un metaanálisis en JAMA Psychiatry (2024) revisó los efectos adversos de psicodélicos clásicos y pide vigilancia mejorada; una revisión en npj/Neuropsychopharmacology señala que la evidencia sobre MDMA es de baja calidad y con alto riesgo de sesgo, con más eventos adversos que placebo (16 % frente a 5 % en fase 3); los riesgos agudos son sobre todo psiquiátricos y se recomienda supervisión. Para los viajes astrales, la experiencia oceánica y las vidas pasadas no se han encontrado en las fuentes consultadas pruebas verificables; la ciencia los trata como experiencias subjetivas.",
+    "resumen": "Qué es: los estados de conciencia, provocados por ejemplo con psicodélicos, que según un autor permiten revivir y sanar la experiencia traumática raíz. La terapia asistida con psicodélicos (psilocibina, MDMA) tiene interés clínico real pero sigue siendo experimental: la certeza de la evidencia es baja o muy baja según revisiones recientes y conlleva riesgos psiquiátricos. Los recuerdos de vidas pasadas obtenidos con hipnosis se consideran recuerdos falsos. No consta prueba objetiva de los viajes astrales. Seguridad: un metaanálisis en JAMA Psychiatry (2024) revisó los efectos adversos de psicodélicos clásicos y pide vigilancia mejorada; una revisión en npj/Neuropsychopharmacology señala que la evidencia sobre MDMA es de baja calidad y con alto riesgo de sesgo, con más eventos adversos que placebo (16 % frente a 5 % en fase 3); los riesgos agudos son sobre todo psiquiátricos y se recomienda supervisión. Para los viajes astrales, la experiencia oceánica y las vidas pasadas no se han encontrado en las fuentes consultadas pruebas verificables; la ciencia los trata como experiencias subjetivas.",
     "fuentes": [
      {
       "titulo": "Revisión: Psychedelic-assisted therapy (PMC)",
@@ -67658,7 +67621,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El estrés materno y sus hormonas, como el cortisol, que cruza en parte la placenta, se asocian con diferencias en el desarrollo neurológico y emocional del niño, y los primeros años son un periodo clave del desarrollo. Que el feto o el parto generen «nudos de tiempo» que registra el alma no está demostrado: es una tesis del autor.",
+    "resumen": "Qué es: la tesis de un autor de que la vida intrauterina, el parto y la infancia hasta los seis años son las etapas en que más se forman los complejos. El estrés materno y sus hormonas, como el cortisol, que cruza en parte la placenta, se asocian con diferencias en el desarrollo neurológico y emocional del niño, y los primeros años son un periodo clave del desarrollo. Que el feto o el parto generen «nudos de tiempo» que registra el alma no está demostrado: es una tesis del autor.",
     "fuentes": [
      {
       "titulo": "Wadhwa et al. (2015): Prenatal stress, development, health and disease risk (PMC)",
@@ -67816,7 +67779,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los meridianos de la medicina tradicional china no tienen una base anatómica demostrada. Langevin y Yandow (2002) hallaron que cerca del 80 % de los puntos de acupuntura coincidían con planos de tejido conjuntivo en cortes postmortem, y hay revisiones que apoyan la hipótesis de la fascia, pero otras publicaciones la critican y no está establecida. Que la tensión de la fascia cause enfermedad o que cada meridiano corresponda a una emoción no está demostrado.",
+    "resumen": "Qué es: la propuesta de un autor de que las defensas psicológicas se somatizan como tensiones de la fascia, que él identifica con los meridianos. Los meridianos de la medicina tradicional china no tienen una base anatómica demostrada. Langevin y Yandow (2002) hallaron que cerca del 80 % de los puntos de acupuntura coincidían con planos de tejido conjuntivo en cortes postmortem, y hay revisiones que apoyan la hipótesis de la fascia, pero otras publicaciones la critican y no está establecida. Que la tensión de la fascia cause enfermedad o que cada meridiano corresponda a una emoción no está demostrado.",
     "fuentes": [
      {
       "titulo": "Langevin y Yandow, «Relationship of Acupuncture Points and Meridians to Connective Tissue Planes», Anat Rec 2002",
@@ -67934,7 +67897,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia. Tiene raíces en el neoplatonismo renacentista (Ficino, Pico della Mirandola) y el término lo acuñó Agostino Steuco (1497-1548), que lo usó en el título de su tratado De perenni philosophia (1540); Trallero lo atribuye a Leibniz, y la versión oficial no lo recoge así.",
+    "resumen": "Qué es: la corriente que sostiene que las tradiciones espirituales del mundo comparten un núcleo universal. La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia. Tiene raíces en el neoplatonismo renacentista (Ficino, Pico della Mirandola) y el término lo acuñó Agostino Steuco (1497-1548), que lo usó en el título de su tratado De perenni philosophia (1540); Trallero lo atribuye a Leibniz, y la versión oficial no lo recoge así.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Filosofía perenne",
@@ -67991,7 +67954,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Pávlov y el condicionamiento operante son conceptos reales de la psicología del aprendizaje, y el experimento de Watson y Rayner (1920) es un estudio real y muy citado. Que así se formen los «complejos subconscientes» es una aplicación propia del autor, sin validación empírica.",
+    "resumen": "Qué es: la tesis de un autor de que los complejos subconscientes nacen por condicionamiento o por mensajes recibidos, sobre todo en la infancia. Pávlov y el condicionamiento operante son conceptos reales de la psicología del aprendizaje, y el experimento de Watson y Rayner (1920) es un estudio real y muy citado. Que así se formen los «complejos subconscientes» es una aplicación propia del autor, sin validación empírica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Little Albert experiment",
@@ -68048,7 +68011,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Grounding: hay estudios pequeños y de calidad metodológica baja que describen mejoras en sueño y dolor, sin conclusiones firmes. Agua alcalina: una revisión sistemática de 2016 (BMJ Open) no halló evidencia de que la acidez de la dieta o del agua cause o trate el cáncer, y el pH sanguíneo está estrictamente regulado. Fotosíntesis de la melanina: en la búsqueda solo se hallaron publicaciones y una patente del propio Solís Herrera (US 8.455.145), sin validación independiente localizada. No se consultó fuente sobre los iones negativos ni sobre el éter, la electricidad fría de Tesla o el orgón.",
+    "resumen": "Qué es: la propuesta de un autor que liga los cinco elementos de la medicina china con fuentes de electrones libres: tierra, agua alcalina, sol, iones negativos y éter. Grounding: hay estudios pequeños y de calidad metodológica baja que describen mejoras en sueño y dolor, sin conclusiones firmes. Agua alcalina: una revisión sistemática de 2016 (BMJ Open) no halló evidencia de que la acidez de la dieta o del agua cause o trate el cáncer, y el pH sanguíneo está estrictamente regulado. Fotosíntesis de la melanina: en la búsqueda solo se hallaron publicaciones y una patente del propio Solís Herrera (US 8.455.145), sin validación independiente localizada. No se consultó fuente sobre los iones negativos ni sobre el éter, la electricidad fría de Tesla o el orgón.",
     "fuentes": [
      {
       "titulo": "Chevalier et al., «Earthing: health implications…», J Environ Public Health 2012",
@@ -68120,7 +68083,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La historia de la ciencia describe el paso de la filosofía natural aristotélica a la ciencia moderna como un proceso gradual y complejo, desarrollado sobre todo entre los siglos XVI y XVII, no como un triunfo súbito en tres momentos. La sustitución de las causas finales aristotélicas por explicaciones mecánicas y cuantitativas se asocia a la revolución científica, con Copérnico, Galileo, Descartes y Newton. La separación cartesiana entre mente y materia y la consolidación del positivismo en el siglo XIX son episodios relevantes, pero los historiadores no los presentan como una secuencia única que explique por sí sola el abandono de una «ciencia sagrada».",
+    "resumen": "Qué es: la tesis de que la ciencia sagrada se abandonó en tres etapas: la lógica de Aristóteles, la separación de Descartes y el positivismo del siglo XIX. La historia de la ciencia describe el paso de la filosofía natural aristotélica a la ciencia moderna como un proceso gradual y complejo, desarrollado sobre todo entre los siglos XVI y XVII, no como un triunfo súbito en tres momentos. La sustitución de las causas finales aristotélicas por explicaciones mecánicas y cuantitativas se asocia a la revolución científica, con Copérnico, Galileo, Descartes y Newton. La separación cartesiana entre mente y materia y la consolidación del positivismo en el siglo XIX son episodios relevantes, pero los historiadores no los presentan como una secuencia única que explique por sí sola el abandono de una «ciencia sagrada».",
     "fuentes": [
      {
       "titulo": "Britannica: Scientific Revolution",
@@ -68176,7 +68139,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La lateralización de ciertas funciones (lenguaje a la izquierda en la mayoría) es real, pero los estudios de neuroimagen no apoyan que las personas sean «de cerebro izquierdo o derecho». Las diferencias de sexo en el cuerpo calloso son pequeñas y discutidas, y la cifra del 10 % no tiene fuente.",
+    "resumen": "Qué es: la tesis de un autor de que la educación refuerza el hemisferio izquierdo y de que sincronizar ambos hemisferios crearía conexiones físicas entre ellos. La lateralización de ciertas funciones (lenguaje a la izquierda en la mayoría) es real, pero los estudios de neuroimagen no apoyan que las personas sean «de cerebro izquierdo o derecho». Las diferencias de sexo en el cuerpo calloso son pequeñas y discutidas, y la cifra del 10 % no tiene fuente.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Lateralization of brain function",
@@ -68363,7 +68326,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Se atribuye a David Hudson, agricultor de Arizona, el hallazgo (década de 1970) de unos «elementos monoatómicos reordenados» (ORMES/ORMUS), que patentó a finales de los años 80. La divulgación científica los considera una pseudociencia sin pruebas de las propiedades que se les atribuyen.",
+    "resumen": "Qué es: la distinción que hace un autor entre el polvo blanco de David Hudson y el «Hormus» de Ziegler, que sería solo un fertilizante marino. Se atribuye a David Hudson, agricultor de Arizona, el hallazgo (década de 1970) de unos «elementos monoatómicos reordenados» (ORMES/ORMUS), que patentó a finales de los años 80. La divulgación científica los considera una pseudociencia sin pruebas de las propiedades que se les atribuyen.",
     "fuentes": [
      {
       "titulo": "Science-Based Medicine: ORMUS",
@@ -68407,7 +68370,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La lengua ibérica se escribió entre los siglos V a. C. y I d. C. con tres sistemas propios —nororiental, suroriental y grecoibérico—; su signario se descifró fonéticamente en la década de 1920 (Manuel Gómez-Moreno), pero la lengua sigue sin comprenderse. Los iberos dejaron miles de inscripciones breves sobre plomo, cerámica, moneda y piedra, y su religión se conoce sobre todo por santuarios, exvotos y representaciones, con divinidades y cultos de ámbito local.",
+    "resumen": "Qué es: la lengua y la espiritualidad de los iberos, un pueblo prerromano de la península; un autor sostiene que no existe un estudio informatizado de su lengua. La lengua ibérica se escribió entre los siglos V a. C. y I d. C. con tres sistemas propios —nororiental, suroriental y grecoibérico—; su signario se descifró fonéticamente en la década de 1920 (Manuel Gómez-Moreno), pero la lengua sigue sin comprenderse. Los iberos dejaron miles de inscripciones breves sobre plomo, cerámica, moneda y piedra, y su religión se conoce sobre todo por santuarios, exvotos y representaciones, con divinidades y cultos de ámbito local.",
     "fuentes": [
      {
       "titulo": "Iberian writing and language (J. Velaza, Oxford Academic)",
@@ -68496,7 +68459,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No hay pruebas sólidas de que las «limpiezas» con infusiones eliminen toxinas: el hígado y los riñones ya cumplen esa función. Algunas hierbas pueden interactuar con medicamentos o dañar el hígado, y beber agua de mar en ayunas añade una carga de sodio que puede deshidratar y resultar peligrosa.",
+    "resumen": "Qué es: unas pautas de infusiones por ciclos para «limpiar» el hígado y los riñones, más agua de mar para el intestino. No hay pruebas sólidas de que las «limpiezas» con infusiones eliminen toxinas: el hígado y los riñones ya cumplen esa función. Algunas hierbas pueden interactuar con medicamentos o dañar el hígado, y beber agua de mar en ayunas añade una carga de sodio que puede deshidratar y resultar peligrosa.",
     "fuentes": [
      {
       "titulo": "NCCIH (NIH), «Detoxes and Cleanses: What You Need To Know»",
@@ -68551,7 +68514,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los orígenes caldeos y babilonios de la astrología son reales: hay tablillas cuneiformes y registros astronómicos desde el segundo milenio a. C. y en el mundo griego y romano «caldeo» pasó a significar astrólogo o adivino. Las fuentes consultadas no hablan de un linaje de magos que gobierne en secreto ni de una religión oculta de las élites; es una hipótesis del autor, que él presenta como sospecha.",
+    "resumen": "Qué es: la tesis de un autor de que los magos caldeos transmitieron en secreto un conocimiento antiguo para mantener el poder. Los orígenes caldeos y babilonios de la astrología son reales: hay tablillas cuneiformes y registros astronómicos desde el segundo milenio a. C. y en el mundo griego y romano «caldeo» pasó a significar astrólogo o adivino. Las fuentes consultadas no hablan de un linaje de magos que gobierne en secreto ni de una religión oculta de las élites; es una hipótesis del autor, que él presenta como sospecha.",
     "fuentes": [
      {
       "titulo": "Jones (2000): The horoscope casters, Archaeology Odyssey (NYU)",
@@ -68599,7 +68562,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Theatrum Orbis Terrarum de Abraham Ortelius se publicó en Amberes el 20 de mayo de 1570 y está considerado el primer atlas moderno: 53 mapas uniformes con texto, reeditados en numerosas lenguas y ediciones. En la imprenta de los siglos XVI y XVII la cifra «1» se grababa con frecuencia como un trazo vertical largo, parecido a una «I» o una «J», de modo que las fechas de los mapas (1570, 1574, 1598, 1610) son años de la era cristiana y no cifras de 570, 574, 598 o 610. No hay testimonio documental de que esas letras abreviaran el nombre de Jesús en la datación.",
+    "resumen": "Qué es: una tesis de un autor sobre unos mapas de los siglos XVI y XVII, según la cual la cifra que precede a las fechas sería una «I» o «J» de Iesus y no un «1». El Theatrum Orbis Terrarum de Abraham Ortelius se publicó en Amberes el 20 de mayo de 1570 y está considerado el primer atlas moderno: 53 mapas uniformes con texto, reeditados en numerosas lenguas y ediciones. En la imprenta de los siglos XVI y XVII la cifra «1» se grababa con frecuencia como un trazo vertical largo, parecido a una «I» o una «J», de modo que las fechas de los mapas (1570, 1574, 1598, 1610) son años de la era cristiana y no cifras de 570, 574, 598 o 610. No hay testimonio documental de que esas letras abreviaran el nombre de Jesús en la datación.",
     "fuentes": [
      {
       "titulo": "Theatrum Orbis Terrarum, 1570 (Library of Congress)",
@@ -68669,7 +68632,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Una máquina que dé más energía de la que recibe violaría el primer o el segundo principio de la termodinámica, y por eso la física la considera imposible; las que toman energía de una fuente externa no son de movimiento perpetuo y se paran cuando esa fuente se agota. Ningún aparato ha logrado sacar energía útil del vacío, y la comunidad científica considera pseudociencia esos intentos. La idea de que Heaviside y Lorentz recortaron las ecuaciones de Maxwell para ocultar esa energía procede de Tom Bearden; sus afirmaciones sobre la energía del vacío las criticó, entre otros, Martin Gardner.",
+    "resumen": "Qué es (según Artur Sala, que cita a Tom Bearden): aparatos que darían más energía de la que reciben, sacándola del punto cero o del éter mediante descargas bruscas en condensadores y bobinas. Versión oficial: Una máquina que dé más energía de la que recibe violaría el primer o el segundo principio de la termodinámica, y por eso la física la considera imposible; las que toman energía de una fuente externa no son de movimiento perpetuo y se paran cuando esa fuente se agota. Ningún aparato ha logrado sacar energía útil del vacío, y la comunidad científica considera pseudociencia esos intentos. La idea de que Heaviside y Lorentz recortaron las ecuaciones de Maxwell para ocultar esa energía procede de Tom Bearden; sus afirmaciones sobre la energía del vacío las criticó, entre otros, Martin Gardner.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Perpetual motion",
@@ -68752,7 +68715,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Las mareas las producen la gravedad de la Luna y el Sol (NOAA; Newton, 1687). La relación de la Luna con la poda o los cultivos no tiene base científica aceptada.",
+    "resumen": "Qué es: la idea que defiende Artur Sala de que las mareas y los ríos varían con la Luna, y la recomendación de no podar con luna ascendente. Las mareas las producen la gravedad de la Luna y el Sol (NOAA; Newton, 1687). La relación de la Luna con la poda o los cultivos no tiene base científica aceptada.",
     "fuentes": [
      {
       "titulo": "NOAA: mareas",
@@ -68832,7 +68795,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La matriz extracelular (colágeno, glicoproteínas y proteoglicanos) y el citoesqueleto son reales y se estudian en biología. El «sistema de regulación de base» de Pischinger y la «matriz viviente» de Oschman se usan sobre todo en medicina alternativa y complementaria. Que exista un continuo que conduzca señales hasta el ADN y que los traumas emocionales causen enfermedades crónicas a través de la sustancia P no está demostrado. En esta búsqueda no se encontró fuente sobre la afirmación de Heine ni sobre el trabajo de Coffey.",
+    "resumen": "Qué es: la tesis de un autor de que el tejido conjuntivo forma un continuo que llega hasta el ADN, a partir de la «matriz viviente» de James Oschman. La matriz extracelular (colágeno, glicoproteínas y proteoglicanos) y el citoesqueleto son reales y se estudian en biología. El «sistema de regulación de base» de Pischinger y la «matriz viviente» de Oschman se usan sobre todo en medicina alternativa y complementaria. Que exista un continuo que conduzca señales hasta el ADN y que los traumas emocionales causen enfermedades crónicas a través de la sustancia P no está demostrado. En esta búsqueda no se encontró fuente sobre la afirmación de Heine ni sobre el trabajo de Coffey.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Extracellular matrix",
@@ -68902,7 +68865,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La medicina antroposófica se fundó en los años 1920 por Steiner e Ita Wegman: curso para médicos en 1920-1921, clínica de Arlesheim (1921), empresa Weleda y libro conjunto de 1925. Se practica como complemento de la medicina convencional. Las revisiones sistemáticas concluyen que la evidencia de beneficio clínico es escasa o poco consistente (por ejemplo, en dolor crónico; en cáncer con muérdago/Iscador, limitada a calidad de vida subjetiva) y la oncología la considera una terapia no probada; su sección médica en el Goetheanum alega que los ensayos aleatorizados no se adaptan bien a sus terapias.",
+    "resumen": "Qué es: la medicina fundada en los años 20 por Rudolf Steiner e Ita Wegman, que amplía la medicina convencional con la antroposofía. La medicina antroposófica se fundó en los años 1920 por Steiner e Ita Wegman: curso para médicos en 1920-1921, clínica de Arlesheim (1921), empresa Weleda y libro conjunto de 1925. Se practica como complemento de la medicina convencional. Las revisiones sistemáticas concluyen que la evidencia de beneficio clínico es escasa o poco consistente (por ejemplo, en dolor crónico; en cáncer con muérdago/Iscador, limitada a calidad de vida subjetiva) y la oncología la considera una terapia no probada; su sección médica en el Goetheanum alega que los ensayos aleatorizados no se adaptan bien a sus terapias.",
     "fuentes": [
      {
       "titulo": "Ploesser y Martin (2023, J. Integr. Complement. Med.): revisión sistemática en dolor crónico",
@@ -68990,7 +68953,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La «memoria del agua» no está aceptada por la ciencia. En 1988 Benveniste publicó en Nature que diluciones extremas de un anticuerpo seguían activando basófilos; una investigación supervisada por la propia revista (Maddox, Randi y Stewart) no logró reproducirlo en pruebas ciegas y otros grupos tampoco. Se considera que los enlaces de hidrógeno del agua líquida se reorganizan en picosegundos, sin margen para guardar información. De los cristales de Emoto se hizo un experimento doble ciego que sus autores presentan como positivo, con un efecto muy pequeño en la valoración estética de las fotos, y un seguimiento triple ciego que no lo confirmó. En esta búsqueda no se consultó ninguna fuente sobre la radiónica de Rae ni el cuarzo de Vogel, ni sobre Dankachov o Schweitzer.",
+    "resumen": "Qué es: la hipótesis de que el agua conserva la información de lo que ha estado disuelto en ella, que Jacques Benveniste defendió en 1988 y que sostienen otros autores para explicar la homeopatía. La «memoria del agua» no está aceptada por la ciencia. En 1988 Benveniste publicó en Nature que diluciones extremas de un anticuerpo seguían activando basófilos; una investigación supervisada por la propia revista (Maddox, Randi y Stewart) no logró reproducirlo en pruebas ciegas y otros grupos tampoco. Se considera que los enlaces de hidrógeno del agua líquida se reorganizan en picosegundos, sin margen para guardar información. De los cristales de Emoto se hizo un experimento doble ciego que sus autores presentan como positivo, con un efecto muy pequeño en la valoración estética de las fotos, y un seguimiento triple ciego que no lo confirmó. En esta búsqueda no se consultó ninguna fuente sobre la radiónica de Rae ni el cuarzo de Vogel, ni sobre Dankachov o Schweitzer.",
     "fuentes": [
      {
       "titulo": "Nature, Philip Ball, «The memory of water» (2004)",
@@ -69065,7 +69028,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El estudio de Langevin y Yandow (Anatomical Record, 2002) existe y halló una coincidencia cercana al 80 % entre puntos de acupuntura y planos de tejido conjuntivo en cortes postmortem. Muestra una correspondencia anatómica, no la existencia de meridianos, de qi ni de conducción de electrones; otras publicaciones critican su interpretación y la hipótesis no está establecida. La evidencia clínica de la acupuntura es mixta y su mecanismo no está establecido.",
+    "resumen": "Qué es: el estudio de Langevin y Yandow (2002), que halló una coincidencia cercana al 80 % entre puntos de acupuntura y planos de tejido conjuntivo, y que un autor lee como prueba de los meridianos. El estudio de Langevin y Yandow (Anatomical Record, 2002) existe y halló una coincidencia cercana al 80 % entre puntos de acupuntura y planos de tejido conjuntivo en cortes postmortem. Muestra una correspondencia anatómica, no la existencia de meridianos, de qi ni de conducción de electrones; otras publicaciones critican su interpretación y la hipótesis no está establecida. La evidencia clínica de la acupuntura es mixta y su mecanismo no está establecido.",
     "fuentes": [
      {
       "titulo": "Langevin y Yandow, «Relationship of Acupuncture Points and Meridians to Connective Tissue Planes», Anat Rec 2002",
@@ -69211,7 +69174,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La microbiota y el tejido linfoide intestinal (cerca del 70 % de las células inmunes) son reales. No hay evidencia de capas de heces adheridas al colon ni de beneficio de las limpiezas de colon, que pueden provocar deshidratación, desequilibrio electrolítico o perforaciones.",
+    "resumen": "Qué es: la tesis de un autor de que un intestino sucio convierte en parásitos a los microbios simbiontes y de que hacen falta limpiezas profundas del colon. La microbiota y el tejido linfoide intestinal (cerca del 70 % de las células inmunes) son reales. No hay evidencia de capas de heces adheridas al colon ni de beneficio de las limpiezas de colon, que pueden provocar deshidratación, desequilibrio electrolítico o perforaciones.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Human microbiome",
@@ -69264,7 +69227,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Béchamp llamó «microzymas» a unas granulaciones que veía en los líquidos biológicos; el nombre aparece en sus comunicaciones a la Academia de Ciencias hacia 1866–1867 y la teoría completa, en «Les Microzymas» (1883). Sostenía que eran la unidad básica de la vida, capaces de formar células y de convertirse en bacterias. Sus tesis fueron siempre muy minoritarias: la biología actual no reconoce las microzimas, la célula sigue siendo la unidad básica de la vida y hoy solo las mantienen pequeños grupos, sobre todo de medicina alternativa.",
+    "resumen": "Qué es: las «microzimas», unas partículas menores que la célula que Antoine Béchamp proponía como causa de la fermentación y como base de las células. Béchamp llamó «microzymas» a unas granulaciones que veía en los líquidos biológicos; el nombre aparece en sus comunicaciones a la Academia de Ciencias hacia 1866–1867 y la teoría completa, en «Les Microzymas» (1883). Sostenía que eran la unidad básica de la vida, capaces de formar células y de convertirse en bacterias. Sus tesis fueron siempre muy minoritarias: la biología actual no reconoce las microzimas, la célula sigue siendo la unidad básica de la vida y hoy solo las mantienen pequeños grupos, sobre todo de medicina alternativa.",
     "fuentes": [
      {
       "titulo": "Techno-Science: Antoine Béchamp",
@@ -69316,7 +69279,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El MMS es una disolución de clorito de sodio que, al mezclarse con un ácido, produce dióxido de cloro, un blanqueador de uso industrial. No está aprobado para consumo humano y no hay pruebas de que elimine metales pesados ni de que cure enfermedad alguna; las autoridades sanitarias han documentado vómitos, diarrea intensa, deshidratación y lesiones potencialmente mortales en quienes lo beben.",
+    "resumen": "Qué es: el MMS, una disolución de clorito de sodio que produce dióxido de cloro y que un libro de Kalcker propone tomar para eliminar metales pesados. El MMS es una disolución de clorito de sodio que, al mezclarse con un ácido, produce dióxido de cloro, un blanqueador de uso industrial. No está aprobado para consumo humano y no hay pruebas de que elimine metales pesados ni de que cure enfermedad alguna; las autoridades sanitarias han documentado vómitos, diarrea intensa, deshidratación y lesiones potencialmente mortales en quienes lo beben.",
     "fuentes": [
      {
       "titulo": "FDA: advertencia sobre la Solución Mineral Milagro (MMS)",
@@ -69365,7 +69328,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Subrahmanyan Chandrasekhar (1910–1995) calculó en 1930 el límite de masa de las enanas blancas y recibió el Nobel de Física en 1983; el astrónomo Arthur Eddington lo rechazó públicamente en 1935 y con los años se demostró que Chandrasekhar tenía razón. No consta que Einstein lo avalara.",
+    "resumen": "Qué es: el modelo de física estelar que sigue a Chandrasekhar, que un autor llama «modelo caliente» y quiere sustituir por transmutaciones a baja temperatura. Subrahmanyan Chandrasekhar (1910–1995) calculó en 1930 el límite de masa de las enanas blancas y recibió el Nobel de Física en 1983; el astrónomo Arthur Eddington lo rechazó públicamente en 1935 y con los años se demostró que Chandrasekhar tenía razón. No consta que Einstein lo avalara.",
     "fuentes": [
      {
       "titulo": "Britannica: Subrahmanyan Chandrasekhar",
@@ -69424,7 +69387,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Formación submarina frente a la isla de Yonaguni (Japón), descubierta en torno a 1986-1987. El geólogo Masaaki Kimura defiende que es artificial; la mayoría de los geólogos, como Robert Schoch, la considera una formación natural de arenisca fracturada por terremotos y erosión. En la última glaciación el nivel del mar era más bajo y la zona quedó en seco.",
+    "resumen": "Qué es: una formación submarina frente a la isla japonesa de Yonaguni, que unos creen artificial y la mayoría de geólogos considera natural. Formación submarina frente a la isla de Yonaguni (Japón), descubierta en torno a 1986-1987. El geólogo Masaaki Kimura defiende que es artificial; la mayoría de los geólogos, como Robert Schoch, la considera una formación natural de arenisca fracturada por terremotos y erosión. En la última glaciación el nivel del mar era más bajo y la zona quedó en seco.",
     "fuentes": [
      {
       "titulo": "Yonaguni Monument (Wikipedia, resultado de búsqueda)",
@@ -69537,7 +69500,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "«Nudo de tiempo», «átomo raíz», «cadena raíz» y «carácter negativo» son términos propios del autor, sin validación empírica publicada. Se apoyan en ideas reales: el complejo de Jung, surgido de sus pruebas de asociación de palabras en el Burghölzli hacia 1900-1908, y los mecanismos de defensa de Freud y de Anna Freud (1936). La base empírica de estos es desigual: hay apoyo para varios mecanismos, pero escaso para la represión de recuerdos. La coraza muscular es un concepto de Wilhelm Reich, cuya teoría general no acepta la ciencia.",
+    "resumen": "Qué es: un término del autor para una experiencia intolerable que queda encapsulada en el subconsciente y genera un complejo automático. «Nudo de tiempo», «átomo raíz», «cadena raíz» y «carácter negativo» son términos propios del autor, sin validación empírica publicada. Se apoyan en ideas reales: el complejo de Jung, surgido de sus pruebas de asociación de palabras en el Burghölzli hacia 1900-1908, y los mecanismos de defensa de Freud y de Anna Freud (1936). La base empírica de estos es desigual: hay apoyo para varios mecanismos, pero escaso para la represión de recuerdos. La coraza muscular es un concepto de Wilhelm Reich, cuya teoría general no acepta la ciencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Complex (psychology)",
@@ -69660,7 +69623,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Mae-Wan Ho murió el 24 de marzo de 2016, no en 2018. Su instituto (ISIS) figura entre las organizaciones cuestionadas por promover ideas sin respaldo científico sobre agua y homeopatía. Pollack (agua EZ) ha reproducido en parte observaciones de zonas de exclusión, pero su explicación estructural es criticada; que la fusión fría se explique por el agua no figura en las fuentes consultadas.",
+    "resumen": "Qué es: la propuesta de Artur Sala de que un grupo de físicos ha formado una ciencia del agua que debería estudiarse como disciplina propia. Mae-Wan Ho murió el 24 de marzo de 2016, no en 2018. Su instituto (ISIS) figura entre las organizaciones cuestionadas por promover ideas sin respaldo científico sobre agua y homeopatía. Pollack (agua EZ) ha reproducido en parte observaciones de zonas de exclusión, pero su explicación estructural es criticada; que la fusión fría se explique por el agua no figura en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Mae-Wan Ho",
@@ -69835,7 +69798,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "La nigredo es un concepto alquímico: la primera de tres fases, previa a la albedo y la rubedo, en la transmutación de la materia. Se asocia a la putrefacción y a la disolución de la materia prima para generar otra superior. Muchos alquimistas creían que, como primer paso hacia la piedra filosofal, todos los ingredientes debían purificarse y cocerse hasta formar una materia negra uniforme.",
+    "resumen": "Qué es: las tres fases de la Gran Obra de la alquimia, la nigredo (negro), la albedo (blanco) y la rubedo (rojo), que Sergio Trallero asocia a Saturno, la Luna y el Sol. La nigredo es un concepto alquímico: la primera de tres fases, previa a la albedo y la rubedo, en la transmutación de la materia. Se asocia a la putrefacción y a la disolución de la materia prima para generar otra superior. Muchos alquimistas creían que, como primer paso hacia la piedra filosofal, todos los ingredientes debían purificarse y cocerse hasta formar una materia negra uniforme.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nigredo",
@@ -69889,7 +69852,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "La idea de que el agua de mar equivale al plasma sanguíneo viene de René Quinton (1904). No hay evidencia científica sólida de beneficios de beber agua de mar y sí riesgos (deshidratación, exceso de sodio, daño cardiovascular y renal); las autoridades sanitarias catalanas lo desaconsejan. Que actúe por su «energía» en lugar de por su química no tiene respaldo.",
+    "resumen": "Qué es: la idea de Artur Sala de que los oligoelementos del agua de mar actúan más por su energía que por su química. La idea de que el agua de mar equivale al plasma sanguíneo viene de René Quinton (1904). No hay evidencia científica sólida de beneficios de beber agua de mar y sí riesgos (deshidratación, exceso de sodio, daño cardiovascular y renal); las autoridades sanitarias catalanas lo desaconsejan. Que actúe por su «energía» en lugar de por su química no tiene respaldo.",
     "fuentes": [
      {
       "titulo": "ARA: Por qué no deberíamos beber agua de mar",
@@ -69935,7 +69898,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Las «ondas» o campos de torsión son un conjunto de propuestas pseudocientíficas difundidas sobre todo en la Unión Soviética desde los años ochenta, asociadas a A. Akimov y G. Shipov, que la física no acepta. Nikolai Kozyrev (1908-1983) fue un astrofísico soviético represaliado que propuso una «teoría del tiempo» y experimentos sobre la causalidad; una comisión de la Academia de Ciencias de la URSS los consideró carentes de base y no se han replicado. La idea de que la entropía y la negentropía giran en sentidos opuestos, o de que las ondas de torsión explican la telepatía, no tiene respaldo científico.",
+    "resumen": "Qué es: unas supuestas ondas asociadas a la teoría del tiempo de Nikolái Kozyrev, que la física no reconoce. Las «ondas» o campos de torsión son un conjunto de propuestas pseudocientíficas difundidas sobre todo en la Unión Soviética desde los años ochenta, asociadas a A. Akimov y G. Shipov, que la física no acepta. Nikolai Kozyrev (1908-1983) fue un astrofísico soviético represaliado que propuso una «teoría del tiempo» y experimentos sobre la causalidad; una comisión de la Academia de Ciencias de la URSS los consideró carentes de base y no se han replicado. La idea de que la entropía y la negentropía giran en sentidos opuestos, o de que las ondas de torsión explican la telepatía, no tiene respaldo científico.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nikolai Aleksandrovich Kozyrev",
@@ -69983,7 +69946,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La psiconeuroinmunología es una disciplina real: el sistema nervioso, el endocrino y el inmune se comunican mediante hormonas, neuropéptidos y citocinas. La tesis de que cada péptido corresponde a una emoción concreta, de que reprimir emociones cause enfermedad o de que la voluntad controle el sistema inmune es una extrapolación sin demostración sólida.",
+    "resumen": "Qué es: la tesis de un autor de que cada péptido es la expresión bioquímica de una emoción, a partir de la psiconeuroinmunología. La psiconeuroinmunología es una disciplina real: el sistema nervioso, el endocrino y el inmune se comunican mediante hormonas, neuropéptidos y citocinas. La tesis de que cada péptido corresponde a una emoción concreta, de que reprimir emociones cause enfermedad o de que la voluntad controle el sistema inmune es una extrapolación sin demostración sólida.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Psychoneuroimmunology",
@@ -70037,7 +70000,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La piedra filosofal es una sustancia alquímica legendaria a la que se atribuía el poder de convertir metales básicos como el plomo en oro o plata y, a veces, de dar un elixir de vida e inmortalidad. Fue durante siglos el objetivo más codiciado de la alquimia y símbolo de perfección e iluminación; su búsqueda se llamó Opus magnum, la «Gran Obra».",
+    "resumen": "Qué es: una sustancia legendaria de la alquimia a la que se atribuía el poder de convertir metales bajos en oro o plata; Sergio Trallero la entiende como el alma iluminada. La piedra filosofal es una sustancia alquímica legendaria a la que se atribuía el poder de convertir metales básicos como el plomo en oro o plata y, a veces, de dar un elixir de vida e inmortalidad. Fue durante siglos el objetivo más codiciado de la alquimia y símbolo de perfección e iluminación; su búsqueda se llamó Opus magnum, la «Gran Obra».",
     "fuentes": [
      {
       "titulo": "Wikipedia: Piedra filosofal",
@@ -70290,7 +70253,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La crítica radical a la cronología convencional tiene precedentes documentados en los siglos XVII y XVIII: Isaac Newton, en The Chronology of Ancient Kingdoms Amended (1728), acortó las cronologías antiguas, y el jesuita Jean Hardouin (1646-1729) sostuvo que casi todos los textos clásicos eran falsificaciones medievales. En los siglos XIX y XX continuaron esa línea Edwin Johnson, Nikolái Morózov y, ya en la actualidad, Anatoli Foménko, cuya «nueva cronología» reduce la historia antigua a un duplicado de la medieval y es rechazada por la historiografía académica como pseudociencia. La atribución de una crítica semejante a un profesor salmantino del siglo XVI llamado Alonso de Ercilla no tiene respaldo documental: el Ercilla conocido es el poeta de La Araucana.",
+    "resumen": "Qué es: los autores anteriores a Fomenko que ya criticaron la cronología convencional, como Isaac Newton en 1728, y un supuesto precursor del siglo XVI que la ficha no encuentra. La crítica radical a la cronología convencional tiene precedentes documentados en los siglos XVII y XVIII: Isaac Newton, en The Chronology of Ancient Kingdoms Amended (1728), acortó las cronologías antiguas, y el jesuita Jean Hardouin (1646-1729) sostuvo que casi todos los textos clásicos eran falsificaciones medievales. En los siglos XIX y XX continuaron esa línea Edwin Johnson, Nikolái Morózov y, ya en la actualidad, Anatoli Foménko, cuya «nueva cronología» reduce la historia antigua a un duplicado de la medieval y es rechazada por la historiografía académica como pseudociencia. La atribución de una crítica semejante a un profesor salmantino del siglo XVI llamado Alonso de Ercilla no tiene respaldo documental: el Ercilla conocido es el poeta de La Araucana.",
     "fuentes": [
      {
       "titulo": "New Chronology (Fomenko) - Wikipedia",
@@ -70386,7 +70349,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Louis-Nicolas Vauquelin analizó en 1799 la cáscara de huevo de gallinas, y el informe del Ejército de EE. UU. de 1978 recoge que Prout (1822) y Baranger (1960) hicieron observaciones parecidas; ninguna se considera prueba de transmutación. La versión oficial lo explica por el calcio que las gallinas toman del suelo, de las piedrecillas y del hueso medular. Albrecht von Herzeele (1821-1884) hizo cientos de experimentos entre 1875 y 1883; la ciencia no acepta la transmutación biológica. «Preuss», citado por Hauschka, no está identificado. Lawes y Gilbert iniciaron en Rothamsted (1843) experimentos sobre el efecto de abonos minerales en cultivos; sus resultados describen la absorción de nutrientes del suelo y de los abonos, no una creación de materia.",
+    "resumen": "Qué es: los experimentadores del siglo XIX, como Vauquelin o Herzeele, que según un autor vieron crecer la masa mineral de seres vivos. Louis-Nicolas Vauquelin analizó en 1799 la cáscara de huevo de gallinas, y el informe del Ejército de EE. UU. de 1978 recoge que Prout (1822) y Baranger (1960) hicieron observaciones parecidas; ninguna se considera prueba de transmutación. La versión oficial lo explica por el calcio que las gallinas toman del suelo, de las piedrecillas y del hueso medular. Albrecht von Herzeele (1821-1884) hizo cientos de experimentos entre 1875 y 1883; la ciencia no acepta la transmutación biológica. «Preuss», citado por Hauschka, no está identificado. Lawes y Gilbert iniciaron en Rothamsted (1843) experimentos sobre el efecto de abonos minerales en cultivos; sus resultados describen la absorción de nutrientes del suelo y de los abonos, no una creación de materia.",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -70515,7 +70478,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La «programación predictiva» es una teoría de la conspiración, formulada por Alan Watt y difundida por autores como Alex Jones o David Icke, que sostiene que el cine y la televisión condicionan al público para aceptar acontecimientos planeados de antemano. No tiene respaldo académico: los parecidos que se le atribuyen con el 11S (el carné de Neo, el piloto de «The Lone Gunmen» o episodios de «Los Simpson») se explican por la coincidencia y por la selección retrospectiva de los casos que encajan.",
+    "resumen": "Qué es: la teoría de que el cine y la televisión condicionan al público anunciando sucesos futuros; un autor la aplica a obras de 1968 a 2001 que habrían anunciado el 11S. La «programación predictiva» es una teoría de la conspiración, formulada por Alan Watt y difundida por autores como Alex Jones o David Icke, que sostiene que el cine y la televisión condicionan al público para aceptar acontecimientos planeados de antemano. No tiene respaldo académico: los parecidos que se le atribuyen con el 11S (el carné de Neo, el piloto de «The Lone Gunmen» o episodios de «Los Simpson») se explican por la coincidencia y por la selección retrospectiva de los casos que encajan.",
     "fuentes": [
      {
       "titulo": "Conspiracy Theorists Think A24's 'Civil War' Is Actually 'Programming' Americans For Civil War (Vice)",
@@ -70584,7 +70547,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "El catálogo de Martin Chaplin (London South Bank University) recoge unas 70-74 anomalías del agua, no más de 200, y todas se atribuyen sobre todo al enlace de hidrógeno. El agua líquida puede sobreenfriarse bajo 0 °C. Que el agua caliente se congele antes que la fría (efecto Mpemba) es un fenómeno discutido: hay experimentos a favor en condiciones muy concretas y otros que dudan de su existencia.",
+    "resumen": "Qué es: el conjunto de comportamientos del agua que se apartan de lo habitual en otros líquidos; la ficha contrasta la cifra que da un autor con el catálogo de Martin Chaplin. El catálogo de Martin Chaplin (London South Bank University) recoge unas 70-74 anomalías del agua, no más de 200, y todas se atribuyen sobre todo al enlace de hidrógeno. El agua líquida puede sobreenfriarse bajo 0 °C. Que el agua caliente se congele antes que la fría (efecto Mpemba) es un fenómeno discutido: hay experimentos a favor en condiciones muy concretas y otros que dudan de su existencia.",
     "fuentes": [
      {
       "titulo": "Chaplin (LSBU): Water anomalies",
@@ -70716,7 +70679,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Modelo personal del autor sin validación empírica publicada. La neurociencia y la psicología académicas consideran la mente un producto de la actividad cerebral. La telepatía no está demostrada y la parapsicología se considera mayoritariamente pseudociencia; no hay prueba de curaciones a distancia por el pensamiento.",
+    "resumen": "Qué es (según el autor, Nacho López Cabanas): un modelo psicológico propio que quiere integrar lo útil de otras escuelas; sostiene que el cerebro nace de la mente y que la mente es la fuerza del tiempo cargada de información. Versión oficial: Modelo personal del autor sin validación empírica publicada. La neurociencia y la psicología académicas consideran la mente un producto de la actividad cerebral. La telepatía no está demostrada y la parapsicología se considera mayoritariamente pseudociencia; no hay prueba de curaciones a distancia por el pensamiento.",
     "fuentes": [
      {
       "titulo": "Alcock (2020): Parapsychology, the science left behind. La Physique au Canada",
@@ -70793,7 +70756,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El punto omega es, para Teilhard de Chardin, la culminación de la evolución: una convergencia de la consciencia. Lo expone en «El fenómeno humano», escrito entre 1938 y 1940 y publicado en 1955, tras su muerte. La lectura como «pasaje a otra esfera» o «transhumano» es del autor.",
+    "resumen": "Qué es: la idea de Pierre Teilhard de Chardin de que la evolución culmina en una convergencia de la conciencia, que Jorge Guerra lee como acceso a lo transhumano. El punto omega es, para Teilhard de Chardin, la culminación de la evolución: una convergencia de la consciencia. Lo expone en «El fenómeno humano», escrito entre 1938 y 1940 y publicado en 1955, tras su muerte. La lectura como «pasaje a otra esfera» o «transhumano» es del autor.",
     "fuentes": [
      {
       "titulo": "EBSCO Research Starters: Teilhard de Chardin attempts to reconcile religion and evolution",
@@ -70847,7 +70810,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Aristóteles añadió a los cuatro elementos de la Tierra un quinto, propio de los cielos: sin calor, frío, humedad ni sequedad, y con movimiento circular. Los comentaristas posteriores lo llamaron éter o quintaesencia. La alquimia medieval, desde textos del s. XIV atribuidos a Ramon Llull, intentó aislarla para hacer medicinas y elixires, por ejemplo destilando alcohol siete veces. El éter de la física moderna (desde Newton) tomó el nombre, pero tenía poco que ver con el elemento clásico.",
+    "resumen": "Qué es: el quinto elemento de Aristóteles, propio de los cielos y distinto de los cuatro de la Tierra, que después se llamó éter. Aristóteles añadió a los cuatro elementos de la Tierra un quinto, propio de los cielos: sin calor, frío, humedad ni sequedad, y con movimiento circular. Los comentaristas posteriores lo llamaron éter o quintaesencia. La alquimia medieval, desde textos del s. XIV atribuidos a Ramon Llull, intentó aislarla para hacer medicinas y elixires, por ejemplo destilando alcohol siete veces. El éter de la física moderna (desde Newton) tomó el nombre, pero tenía poco que ver con el elemento clásico.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Aether (classical element)",
@@ -70896,7 +70859,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los historiadores de la filosofía reconocen el influjo profundo de Hegel sobre Marx y Engels, y el de Böhme sobre Hegel; algunos autores ven paralelos entre las tres edades de Joaquín de Fiore y la filosofía de la historia hegeliana y marxista. No es una filiación demostrada.",
+    "resumen": "Qué es: la tesis de que Hegel, mentor de Marx, incorporó la profecía de las tres edades de Joaquín de Fiore y la mística de Eckhart y Böhme. Los historiadores de la filosofía reconocen el influjo profundo de Hegel sobre Marx y Engels, y el de Böhme sobre Hegel; algunos autores ven paralelos entre las tres edades de Joaquín de Fiore y la filosofía de la historia hegeliana y marxista. No es una filiación demostrada.",
     "fuentes": [
      {
       "titulo": "Britannica: Political philosophy (Marx y Engels)",
@@ -70953,7 +70916,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Metáfora del budismo Huayan (China, siglos VI–VIII), basada en el Avatamsaka Sutra. Las palabras atribuidas al jefe Seattle no son suyas: las escribió el guionista Ted Perry en 1971 para la película «Home».",
+    "resumen": "Qué es: Metáfora del budismo Huayan (China, siglos VI–VIII), basada en el Avatamsaka Sutra. Las palabras atribuidas al jefe Seattle no son suyas: las escribió el guionista Ted Perry en 1971 para la película «Home».",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -71014,7 +70977,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El hierro está presente en los tejidos, pero en la búsqueda realizada no se encontró evidencia de una red extracelular que forme chakras o meridianos ni fuente independiente sobre el ECOR. El ejemplo de las palomas está en revisión: un estudio de Treiber et al. (Nature, 2012) halló que las células ricas en hierro del pico no son neuronas magnetosensibles sino macrófagos, con el hierro en forma de depósitos normales (ferrihidrita); un trabajo posterior propone otra hipótesis en el hígado, discutida por otros expertos.",
+    "resumen": "Qué es: la tesis de un autor de que una red extracelular de magnetita genera campos magnéticos y es la base física de los chakras. El hierro está presente en los tejidos, pero en la búsqueda realizada no se encontró evidencia de una red extracelular que forme chakras o meridianos ni fuente independiente sobre el ECOR. El ejemplo de las palomas está en revisión: un estudio de Treiber et al. (Nature, 2012) halló que las células ricas en hierro del pico no son neuronas magnetosensibles sino macrófagos, con el hierro en forma de depósitos normales (ferrihidrita); un trabajo posterior propone otra hipótesis en el hígado, discutida por otros expertos.",
     "fuentes": [
      {
       "titulo": "Treiber et al., Nature 484 (2012): «Clusters of iron-rich cells in the upper beak of pigeons are macrophages not magnetosensitive neurons»",
@@ -71068,7 +71031,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En el hinduismo vedántico, Sat-Chit-Ananda («ser, consciencia, dicha») describe la naturaleza de Brahman, la realidad absoluta. Britannica recoge que ananda, la dicha, es un atributo del Brahman en las Upanishads, en especial en la Taittiriya.",
+    "resumen": "Qué es: una expresión del Vedanta que describe lo absoluto, el Brahman, como ser, conciencia y dicha. En el hinduismo vedántico, Sat-Chit-Ananda («ser, consciencia, dicha») describe la naturaleza de Brahman, la realidad absoluta. Britannica recoge que ananda, la dicha, es un atributo del Brahman en las Upanishads, en especial en la Taittiriya.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: ananda",
@@ -71180,7 +71143,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El sistema nervioso entérico es real, con cientos de millones de neuronas, y casi toda la serotonina del cuerpo se sintetiza en el intestino, pero esa serotonina no cruza la barrera hematoencefálica. Lo de las benzodiacepinas endógenas intestinales no está consolidado.",
+    "resumen": "Qué es: la idea de que el intestino tiene su propio sistema nervioso, el sistema nervioso entérico, y funciona como un «segundo cerebro». El sistema nervioso entérico es real, con cientos de millones de neuronas, y casi toda la serotonina del cuerpo se sintetiza en el intestino, pero esa serotonina no cruza la barrera hematoencefálica. Lo de las benzodiacepinas endógenas intestinales no está consolidado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Enteric nervous system",
@@ -71237,7 +71200,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Iconografía del shivaísmo: Shiva danzando en un aro de fuego, con el damaru (tambor en forma de reloj de arena, el sonido de la creación) y el fuego de la destrucción. Los bronces más conocidos son de la dinastía Chola (sur de la India, siglos X al XIII). La danza simboliza la creación, la conservación y la destrucción del universo.",
+    "resumen": "Qué es: Iconografía del shivaísmo: Shiva danzando en un aro de fuego, con el damaru (tambor en forma de reloj de arena, el sonido de la creación) y el fuego de la destrucción. Los bronces más conocidos son de la dinastía Chola (sur de la India, siglos X al XIII). La danza simboliza la creación, la conservación y la destrucción del universo.",
     "fuentes": [
      {
       "titulo": "Google Arts & Culture: Shiva Nataraja",
@@ -71297,7 +71260,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "En los escritos alquímicos aparecen los siete planetas clásicos y los siete metales de la Antigüedad que se les correspondían, junto con los dioses romanos asociados a esos astros. El planeta clásico es un astro visible a simple vista que se mueve sobre el fondo de estrellas fijas: Sol, Luna, Venus, Júpiter, Mercurio, Marte y Saturno.",
+    "resumen": "Qué es: la correspondencia alquímica entre los siete planetas clásicos y siete metales, como el plomo con Saturno y el oro con el Sol. En los escritos alquímicos aparecen los siete planetas clásicos y los siete metales de la Antigüedad que se les correspondían, junto con los dioses romanos asociados a esos astros. El planeta clásico es un astro visible a simple vista que se mueve sobre el fondo de estrellas fijas: Sol, Luna, Venus, Júpiter, Mercurio, Marte y Saturno.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Alchemy (en)",
@@ -71351,7 +71314,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Contraste parcial. El símbolo «Hunab Ku» con forma de yin-yang cuadrado no es maya antiguo: lo popularizó José Argüelles en 1987 (The Mayan Factor), a partir de un diseño de manto azteca; el término Hunab Ku, «Dios único», es colonial y se usó para el Dios cristiano. No hay obra maya antigua que muestre ese símbolo. Para el yin-yang, el sello de Salomón, las esvásticas y el uróboros no se ha contrastado en esta pasada que representen «dos vórtices del tiempo»: es una lectura del autor, sin respaldo científico conocido.",
+    "resumen": "Qué es: la lectura de un autor de varios símbolos antiguos como dos giros opuestos. Contraste parcial. El símbolo «Hunab Ku» con forma de yin-yang cuadrado no es maya antiguo: lo popularizó José Argüelles en 1987 (The Mayan Factor), a partir de un diseño de manto azteca; el término Hunab Ku, «Dios único», es colonial y se usó para el Dios cristiano. No hay obra maya antigua que muestre ese símbolo. Para el yin-yang, el sello de Salomón, las esvásticas y el uróboros no se ha contrastado en esta pasada que representen «dos vórtices del tiempo»: es una lectura del autor, sin respaldo científico conocido.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Hunab Ku",
@@ -71449,7 +71412,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Burr (Yale) y Becker estudiaron potenciales bioeléctricos reales en embriones, tejidos y regeneración, y la bioelectricidad del desarrollo es hoy un campo activo. Pero la teoría del «campo L» de Burr (un campo eléctrico que organiza la forma) no es aceptada por la mayoría de los científicos, y no se ha demostrado un sistema de colágeno paralelo al nervioso ni que explique la acupuntura.",
+    "resumen": "Qué es: la tesis de un autor de que existe un sistema bioeléctrico de colágeno y cristales líquidos, paralelo al nervioso, que respaldaría la acupuntura. Burr (Yale) y Becker estudiaron potenciales bioeléctricos reales en embriones, tejidos y regeneración, y la bioelectricidad del desarrollo es hoy un campo activo. Pero la teoría del «campo L» de Burr (un campo eléctrico que organiza la forma) no es aceptada por la mayoría de los científicos, y no se ha demostrado un sistema de colágeno paralelo al nervioso ni que explique la acupuntura.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Harold Saxton Burr",
@@ -71593,7 +71556,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "La era astrológica, en astrología, es un periodo de tiempo que se corresponde con el desplazamiento en 30 grados de arco del eje terrestre debido al fenómeno de la precesión de los equinoccios, equivalentes a un mes del año platónico o ciclo equinoccial, es decir el período que tarda la precesión de la Tierra en dar una vuelta completa de 360° lo que ocurre en aproximadamente 25920 años.",
+    "resumen": "Qué es: la idea de las eras zodiacales (Piscis, Acuario…), que Sergio Trallero considera moderna y no tradicional. La era astrológica, en astrología, es un periodo de tiempo que se corresponde con el desplazamiento en 30 grados de arco del eje terrestre debido al fenómeno de la precesión de los equinoccios, equivalentes a un mes del año platónico o ciclo equinoccial, es decir el período que tarda la precesión de la Tierra en dar una vuelta completa de 360° lo que ocurre en aproximadamente 25920 años.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Era astrológica",
@@ -71628,7 +71591,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La idea de ciclos de siete años viene de la antigua división de la vida en «heptómadas»; en Steiner sirve de base de la pedagogía Waldorf. La psicología del desarrollo actual apenas la usa fuera de los círculos Waldorf y sus etapas (Piaget y otros) son distintas; su relación con los planetas no forma parte de ninguna teoría científica reconocida.",
+    "resumen": "Qué es: los ciclos de siete años del desarrollo humano que Rudolf Steiner asocia con los cuerpos físico, etérico y astral y con los planetas. La idea de ciclos de siete años viene de la antigua división de la vida en «heptómadas»; en Steiner sirve de base de la pedagogía Waldorf. La psicología del desarrollo actual apenas la usa fuera de los círculos Waldorf y sus etapas (Piaget y otros) son distintas; su relación con los planetas no forma parte de ninguna teoría científica reconocida.",
     "fuentes": [
      {
       "titulo": "Revista Lingwistyka (UMCS): Waldorf y los periodos de siete años",
@@ -71687,7 +71650,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Teoría de los colores (Zur Farbenlehre) de Goethe se publicó en 1810 y es una obra sobre la percepción del color que se aparta de la óptica de Newton. Goethe describió fenómenos como las sombras de color y defendió que el color surge del encuentro entre la luz y la oscuridad. La obra tuvo gran influencia en el arte y la estética, pero la física no acepta su explicación del color: las sombras de color se explican por adaptación y contraste, sin necesidad de una componente longitudinal de la luz.",
+    "resumen": "Qué es: una obra de Goethe de 1810 sobre cómo percibimos el color, que se aparta de la óptica de Newton. La Teoría de los colores (Zur Farbenlehre) de Goethe se publicó en 1810 y es una obra sobre la percepción del color que se aparta de la óptica de Newton. Goethe describió fenómenos como las sombras de color y defendió que el color surge del encuentro entre la luz y la oscuridad. La obra tuvo gran influencia en el arte y la estética, pero la física no acepta su explicación del color: las sombras de color se explican por adaptación y contraste, sin necesidad de una componente longitudinal de la luz.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Theory of Colours (Goethe)",
@@ -71743,7 +71706,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La teoría microbiana sostiene que ciertas enfermedades las causa la invasión del cuerpo por microorganismos; la establecieron Pasteur, Lister y Koch, que en los años 1880 identificó los microbios de la tuberculosis y del cólera, y hace mucho que se da por probada. En el ejemplo que pone el autor, la OMS explica que la tuberculosis la causa una bacteria, Mycobacterium tuberculosis, y que se cura con antibióticos; alrededor de un tercio de la población mundial tiene la infección latente, pero solo un 10 % de esas personas llega a enfermar, así que el microbio es necesario, aunque no basta. La teoría del terreno de Béchamp, para la que el microbio es consecuencia y no causa, se considera descartada, aunque la medicina sí reconoce que el estado del cuerpo influye en quién enferma. Que la industria farmacéutica dependa del triunfo de Pasteur, como dice Jorge Guerra, es una interpretación del autor.",
+    "resumen": "Qué es: la idea de que la enfermedad depende del estado del organismo (el terreno) y no del microbio, frente a la teoría de los gérmenes. La teoría microbiana sostiene que ciertas enfermedades las causa la invasión del cuerpo por microorganismos; la establecieron Pasteur, Lister y Koch, que en los años 1880 identificó los microbios de la tuberculosis y del cólera, y hace mucho que se da por probada. En el ejemplo que pone el autor, la OMS explica que la tuberculosis la causa una bacteria, Mycobacterium tuberculosis, y que se cura con antibióticos; alrededor de un tercio de la población mundial tiene la infección latente, pero solo un 10 % de esas personas llega a enfermar, así que el microbio es necesario, aunque no basta. La teoría del terreno de Béchamp, para la que el microbio es consecuencia y no causa, se considera descartada, aunque la medicina sí reconoce que el estado del cuerpo influye en quién enferma. Que la industria farmacéutica dependa del triunfo de Pasteur, como dice Jorge Guerra, es una interpretación del autor.",
     "fuentes": [
      {
       "titulo": "OMS Europa: Tuberculosis (ficha técnica, 2025)",
@@ -71859,7 +71822,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Hipótesis personal sin publicar en revistas científicas. La física actual reconoce cuatro interacciones fundamentales (gravitatoria, electromagnética, fuerte y débil) y no trata el tiempo como una fuerza. Algunos científicos han planteado una quinta fuerza, pero siguen siendo hipótesis especulativas, distintas de la propuesta del autor.",
+    "resumen": "Qué es (según el autor, Nacho López Cabanas): una teoría propia en la que todo se organiza en trinidades (dos opuestos y un centro) y el tiempo es una fuerza en espiral que ordena el éter y da lugar a la materia. Versión oficial: Hipótesis personal sin publicar en revistas científicas. La física actual reconoce cuatro interacciones fundamentales (gravitatoria, electromagnética, fuerte y débil) y no trata el tiempo como una fuerza. Algunos científicos han planteado una quinta fuerza, pero siguen siendo hipótesis especulativas, distintas de la propuesta del autor.",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: fundamental interaction",
@@ -71949,7 +71912,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La terapia craneosacral es una práctica de medicina alternativa derivada de la osteopatía craneal de Sutherland. Las suturas del cráneo se fusionan en el adulto y las revisiones sistemáticas no hallan evidencia fiable de beneficio ni de que el «pulso craneal» exista de forma medible.",
+    "resumen": "Qué es: una terapia alternativa derivada de la osteopatía craneal, que según un autor mueve con un toque suave una energía, el «Aliento de Vida», que impulsa el líquido cefalorraquídeo. La terapia craneosacral es una práctica de medicina alternativa derivada de la osteopatía craneal de Sutherland. Las suturas del cráneo se fusionan en el adulto y las revisiones sistemáticas no hallan evidencia fiable de beneficio ni de que el «pulso craneal» exista de forma medible.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Craniosacral therapy",
@@ -72052,7 +72015,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los libros de Kervran empiezan con «Transmutations biologiques» (1962). La ciencia actual no admite que se transmute un elemento en otro dentro de un ser vivo y considera su teoría desacreditada; estudios en condiciones controladas no observaron transmutación y la avena sí contiene calcio. Se le concedió en 1993 un Ig Nobel.",
+    "resumen": "Qué es: la teoría de Louis Kervran, desde 1962, de que los seres vivos transmutan unos elementos en otros a baja temperatura. Los libros de Kervran empiezan con «Transmutations biologiques» (1962). La ciencia actual no admite que se transmute un elemento en otro dentro de un ser vivo y considera su teoría desacreditada; estudios en condiciones controladas no observaron transmutación y la avena sí contiene calcio. Se le concedió en 1993 un Ig Nobel.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Corentin Louis Kervran",
@@ -72108,7 +72071,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "«Preuves en géologie et physique de transmutations à faible énergie» (Kervran, 1973) no ha sido aceptado por la geología. El calor interno de la Tierra se atribuye a la desintegración radiactiva y al calor residual de formación.",
+    "resumen": "Qué es: la aplicación de Louis Kervran de su teoría de la transmutación a la geología, en un libro de 1973. «Preuves en géologie et physique de transmutations à faible énergie» (Kervran, 1973) no ha sido aceptado por la geología. El calor interno de la Tierra se atribuye a la desintegración radiactiva y al calor residual de formación.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Corentin Louis Kervran",
@@ -72152,7 +72115,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Es un modelo propio del autor que aplica las estructuras disipativas de Prigogine a la psique. La psiquiatría explica psicosis y neurosis por factores genéticos, del desarrollo y ambientales, sin que se haya demostrado un mecanismo de umbral energético crítico.",
+    "resumen": "Qué es: un modelo del autor según el cual el trauma aparece cuando la carga energética de una experiencia es intolerable. Es un modelo propio del autor que aplica las estructuras disipativas de Prigogine a la psique. La psiquiatría explica psicosis y neurosis por factores genéticos, del desarrollo y ambientales, sin que se haya demostrado un mecanismo de umbral energético crítico.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Psychological trauma",
@@ -72218,7 +72181,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La teúrgia («obra divina») fue la práctica ritual del neoplatonismo tardío, ligada sobre todo a Jámblico (hacia el 300 d. C.); buscaba elevar el alma hasta unirla con lo divino, y Jámblico la distinguía de la hechicería. Los teúrgos practicaban también la astrología. El reparto en tres ciencias por esferas (astrología arriba, alquimia abajo, teúrgia para actuar) no aparece así en las fuentes de referencia consultadas.",
+    "resumen": "Qué es: una propuesta de tres ciencias iniciáticas: la de lo grande, la de lo pequeño y la de cómo interactúan. La teúrgia («obra divina») fue la práctica ritual del neoplatonismo tardío, ligada sobre todo a Jámblico (hacia el 300 d. C.); buscaba elevar el alma hasta unirla con lo divino, y Jámblico la distinguía de la hechicería. Los teúrgos practicaban también la astrología. El reparto en tres ciencias por esferas (astrología arriba, alquimia abajo, teúrgia para actuar) no aparece así en las fuentes de referencia consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Theurgy",
@@ -72290,7 +72253,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "Paracelso adoptó la idea de que los medicamentos se componen de tres principios, la tria prima: azufre (lo combustible), mercurio (lo fluido y cambiante) y sal (lo sólido y permanente). La primera mención del modelo está en el Opus paramirum, hacia 1530. Para él, en una madera que arde, lo que se quema es el azufre, el humo es el mercurio y la ceniza es la sal.",
+    "resumen": "Qué es: los tres principios de la alquimia de Paracelso, azufre, mercurio y sal, que Sergio Trallero asocia al Sol, la Luna y el Ascendente. Paracelso adoptó la idea de que los medicamentos se componen de tres principios, la tria prima: azufre (lo combustible), mercurio (lo fluido y cambiante) y sal (lo sólido y permanente). La primera mención del modelo está en el Opus paramirum, hacia 1530. Para él, en una madera que arde, lo que se quema es el azufre, el humo es el mercurio y la ceniza es la sal.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Paracelsus (en)",
@@ -72322,7 +72285,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La medicina actual admite que los factores psicológicos influyen en muchas enfermedades (el estrés agrava cuadros inflamatorios o autoinmunes, por ejemplo) y que existen trastornos de síntomas físicos sin causa orgánica, como el trastorno de conversión. Pero no sostiene que la mayoría de las enfermedades sean somatizaciones de una «alma»: las enfermedades tienen causas biológicas, infecciosas, genéticas y ambientales demostradas, y el modelo vigente es biopsicosocial, que combina factores biológicos, psicológicos y sociales.",
+    "resumen": "Qué es: un modelo del autor en tres niveles, espíritu, alma y cuerpo, según el cual la mayoría de enfermedades serían somatizaciones de desarmonías del alma. La medicina actual admite que los factores psicológicos influyen en muchas enfermedades (el estrés agrava cuadros inflamatorios o autoinmunes, por ejemplo) y que existen trastornos de síntomas físicos sin causa orgánica, como el trastorno de conversión. Pero no sostiene que la mayoría de las enfermedades sean somatizaciones de una «alma»: las enfermedades tienen causas biológicas, infecciosas, genéticas y ambientales demostradas, y el modelo vigente es biopsicosocial, que combina factores biológicos, psicológicos y sociales.",
     "fuentes": [
      {
       "titulo": "Frontiers in Psychiatry (2019), modelo de cuatro grupos de interacción mente-cuerpo",
@@ -72372,7 +72335,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El tsimtsum («contracción») es una doctrina de la cábala lurianica, de Isaac Luria (1534–1572), que enseñó en Safed en el siglo XVI: Dios se contrae para dejar espacio a la creación. Es uno de los tres conceptos de su sistema, junto con la ruptura de las vasijas y la restauración.",
+    "resumen": "Qué es: El tsimtsum («contracción») es una doctrina de la cábala lurianica, de Isaac Luria (1534–1572), que enseñó en Safed en el siglo XVI: Dios se contrae para dejar espacio a la creación. Es uno de los tres conceptos de su sistema, junto con la ruptura de las vasijas y la restauración.",
     "fuentes": [
      {
       "titulo": "Britannica: Isaac ben Solomon Luria",
@@ -72425,7 +72388,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La exposición gradual a lo temido es un tratamiento con respaldo para las fobias (un metaanálisis de 33 ensayos aleatorizados halló superior el tratamiento basado en exposición), y cortar la exposición en el pico del miedo puede reforzar la fobia. La mecánica de «nudos de tiempo» y complejos es propia del autor. Ante fobias o traumas importantes, lo indicado es acudir a un profesional.",
+    "resumen": "Qué es: el método de un autor para debilitar los complejos, observándolos como testigo y usando la voluntad. La exposición gradual a lo temido es un tratamiento con respaldo para las fobias (un metaanálisis de 33 ensayos aleatorizados halló superior el tratamiento basado en exposición), y cortar la exposición en el pico del miedo puede reforzar la fobia. La mecánica de «nudos de tiempo» y complejos es propia del autor. Ante fobias o traumas importantes, lo indicado es acudir a un profesional.",
     "fuentes": [
      {
       "titulo": "Wolitzky-Taylor et al. (2008): Psychological approaches in the treatment of specific phobias, metaanálisis (PubMed)",
@@ -72498,7 +72461,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "No hay una versión oficial sobre esto; lo que sí consta es que los cuatro textos existen y hablan de una creación por la palabra: Génesis 1 («dijo Dios: hágase la luz»), el prólogo del Evangelio de Juan («en el principio era el Verbo»), los Brahmanas védicos (Prajapati y Vac, la Palabra) y el Popol Vuh. La frase védica procede del Tandya Maha Brahmana (20.14.2), que nombra al «Señor» (Prajapati), no a Brahma. La lectura como onda física es del autor.",
+    "resumen": "Qué es: la idea, presente en varios textos sagrados, de que la creación nace de la palabra o el verbo. No hay una versión oficial sobre esto; lo que sí consta es que los cuatro textos existen y hablan de una creación por la palabra: Génesis 1 («dijo Dios: hágase la luz»), el prólogo del Evangelio de Juan («en el principio era el Verbo»), los Brahmanas védicos (Prajapati y Vac, la Palabra) y el Popol Vuh. La frase védica procede del Tandya Maha Brahmana (20.14.2), que nombra al «Señor» (Prajapati), no a Brahma. La lectura como onda física es del autor.",
     "fuentes": [
      {
       "titulo": "World Scripture (1991), p. 99: Tandya Maha Brahmana 20.14.2",
@@ -72608,7 +72571,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "El zodiaco o zodíaco es una región del cielo en forma de cinturón o banda de la esfera celeste que se extiende aproximadamente 8° al norte y al sur de la eclíptica, que es la trayectoria aparente del Sol a través de la esfera celeste a lo largo del año. Los caminos orbitales de la Luna y los planetas principales están dentro del cinturón del zodíaco.",
+    "resumen": "Qué es: la diferencia entre el zodiaco sideral, fijado a las estrellas, y el tropical, fijado a las estaciones; Sergio Trallero sostiene que la astrología original era sideral. El zodiaco o zodíaco es una región del cielo en forma de cinturón o banda de la esfera celeste que se extiende aproximadamente 8° al norte y al sur de la eclíptica, que es la trayectoria aparente del Sol a través de la esfera celeste a lo largo del año. Los caminos orbitales de la Luna y los planetas principales están dentro del cinturón del zodíaco.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Zodiaco",
