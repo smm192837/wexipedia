@@ -2388,9 +2388,56 @@ window.CRONO = {
       "titulo": "Wikipedia: Comité Selecto de la Cámara de EE. UU. sobre Asesinatos (en)",
       "url": "https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_Assassinations",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Asesinato de John F. Kennedy",
+      "url": "https://es.wikipedia.org/wiki/Asesinato_de_John_F._Kennedy",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El asesinato de John F. Kennedy, presidente número 35 de Estados Unidos, ocurrió el viernes 22 de noviembre de 1963 a las 12:30 (hora del centro, 18:30 UTC) en la plaza Dealey de Dallas, Texas. Kennedy fue herido de muerte por disparos mientras iba en el coche presidencial, y murió en el hospital Parkland a las 13:00.\n\nFue el cuarto presidente estadounidense asesinado en el cargo, después de Lincoln, Garfield y McKinley, y el octavo y último que murió en el cargo. Tres investigaciones oficiales concluyeron que el autor fue Lee Harvey Oswald, empleado del almacén de libros escolares; una dijo que actuó solo y otra sugirió que hubo al menos otra persona."
+    },
+    {
+     "titulo": "El recorrido y los disparos",
+     "nivel": "hecho",
+     "texto": "El Air Force One aterrizó en Dallas a las 11:40 y la comitiva subió a un Lincoln Continental descapotable, el SS-100-X. A las 12:30 el coche entró en la plaza Dealey, con seis minutos de retraso, y al girar de la calle Houston a Elm redujo la velocidad frente al almacén de libros escolares.\n\nLa Comisión Warren concluyó que se hicieron tres disparos: el primero no dio en el coche, el segundo entró por la espalda de Kennedy y salió por su garganta, hiriendo también al gobernador Connally, y el tercero, 4,8 segundos después del primero, le destrozó la cabeza. El arma, según la investigación, fue un fusil de cerrojo Carcano M91/38 italiano con mira telescópica. Abraham Zapruder filmó el momento y su película fue prueba en la investigación."
+    },
+    {
+     "titulo": "Los heridos y la muerte",
+     "nivel": "hecho",
+     "texto": "El gobernador de Texas, John Connally, fue herido grave y sobrevivió; su esposa lo recostó y eso, al parecer, le salvó de un neumotórax mayor. El espectador James Tague, a 82 metros, recibió una herida leve en la cara por un rebote. Kennedy fue llevado al hospital Parkland, donde los doctores le practicaron una traqueotomía por la herida del cuello sin poder reanimarlo: tenía una evisceración de masa encefálica.\n\nLa autopsia se hizo en el Hospital Naval de Bethesda, con tres médicos de la Armada y treinta oficiales como testigos. Varias fotos y radiografías desaparecieron de los informes oficiales. El funeral fue el 25 de noviembre: el féretro estuvo expuesto en la Casa Blanca y en el Capitolio, y asistieron representantes de 90 países, incluida la Unión Soviética. Fue enterrado en Arlington."
+    },
+    {
+     "titulo": "Oswald y Ruby",
+     "nivel": "hecho",
+     "texto": "Lee Harvey Oswald fue detenido ochenta minutos después del asesinato del policía J.D. Tippit, y esa tarde fue acusado de las dos muertes. Siempre negó haber disparado al presidente. Nunca fue juzgado: dos días después, cuando lo trasladaban, el gánster de Dallas Jack Ruby le disparó y lo mató.\n\nRuby tenía conexiones con la mafia y con políticos, según la Comisión Warren. Su muerte cerró la posibilidad de un juicio con contradicción y dejó el caso abierto a la especulación."
+    },
+    {
+     "titulo": "Las investigaciones oficiales",
+     "nivel": "hecho",
+     "texto": "La policía de Dallas recogió las pruebas y, a las 22:30 del mismo día, envió el material al FBI. El FBI entregó su informe el 9 de diciembre de 1963, solo diecisiete días después: tres disparos, el primero a Kennedy, el segundo a Connally y el tercero a la cabeza, todos de Oswald.\n\nLa Comisión Warren se creó el 29 de noviembre de 1963 y publicó su informe en septiembre de 1964, tras diez meses: no encontró pruebas persuasivas de conspiración interna o exterior y concluyó que Oswald actuó solo. En 1976 se creó el Comité Selecto de la Cámara sobre Asesinatos (HSCA), que en 1979 concluyó que Kennedy fue «probablemente» asesinado como resultado de una conspiración, que hubo cuatro disparos y que un segundo tirador disparó desde el montículo de hierba y falló. El comité criticó con dureza al FBI, la CIA y la propia Comisión Warren, y al Servicio Secreto por su protección."
+    },
+    {
+     "titulo": "Las teorías",
+     "nivel": "hecho",
+     "texto": "El asesinato sigue siendo objeto de especulación y de teorías conspirativas. Se ha estudiado repetidamente la posibilidad de que Oswald fuera un agente de la CIA, a partir de las revelaciones de Victor Marchetti. En 1967 el fiscal de Nueva Orleans Jim Garrison abrió su propia investigación, que Oliver Stone llevó al cine en 1991.\n\nEn 1994 James Files se autoinculpó de haber disparado desde el montículo de hierba. E. Howard Hunt, miembro de la CIA, habría confesado en su lecho de muerte, según su hijo, que Lyndon B. Johnson fue el autor intelectual; la viuda y otros hijos lo desmintieron y sugirieron que se manipuló su lucidez para obtener dinero, y el material fue considerado no concluyente por el Los Angeles Times."
+    },
+    {
+     "titulo": "La «maldición de Tecumseh»",
+     "nivel": "hecho",
+     "texto": "Los presidentes elegidos en años terminados en cero murieron en el cargo con una coincidencia llamativa: Harrison (1840), Lincoln (1860), Garfield (1880), McKinley (1900), Harding (1920), Roosevelt (1940) y Kennedy (1960). La serie se rompió con Reagan, elegido en 1980, que sobrevivió a un disparo en 1981.\n\nDespués de Kennedy se han creado muchas comparaciones falsas con el asesinato de Lincoln. El asesinato fue uno de los cuatro magnicidios que marcaron los años sesenta en Estados Unidos, junto a los de Malcolm X (1965), Martin Luther King (abril de 1968) y Robert F. Kennedy (junio de 1968)."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto, y es el centro del caso, si Oswald actuó solo. La Comisión Warren dijo que sí; el HSCA dijo que probablemente hubo conspiración y un segundo tirador. Las pruebas físicas —el número de disparos, la trayectoria de la «bala mágica», las fotos y radiografías desaparecidas— siguen discutiéndose, y la documentación se ha desclasificado por entregas: la ARRB trabajaba en 1998.\n\nPara seguir el dinero y el poder harían falta los papeles de la CIA y del FBI sobre Oswald, sus viajes y su financiación, y los del entorno de Ruby, que esta ficha resume de segunda mano. Tampoco se ha leído el informe completo de la Comisión Warren ni el del HSCA."
+    }
+   ],
    "conexiones": [
     {
      "id": "memorando-cia-1967",
@@ -5411,13 +5458,11 @@ window.CRONO = {
    "tipo": "hecho",
    "titulo": "Bombardeo de Dresde",
    "carril": "politica-economia",
-   "naturaleza": "conflictos-belicos",
    "temas": [],
    "fecha": {
     "desde": 1945,
     "fuente": "oficial"
    },
-   "fecha_autor": "Cuando prácticamente ya había terminado la II Guerra Mundial",
    "resumen": "El bombardeo de Dresde por la RAF y la fuerza aérea de EE. UU. se produjo entre el 13 y el 15 de febrero de 1945. Una comisión de historiadores nombrada por la ciudad concluyó en 2010 que murieron hasta 25.000 personas; las estimaciones anteriores llegaban a 135.000 y fueron rebajadas en parte por usos propagandísticos.",
    "segun": [
     {
@@ -5429,14 +5474,6 @@ window.CRONO = {
      "contradice": []
     }
    ],
-   "citas": [],
-   "conexiones": [
-    {
-     "id": "winston-churchill",
-     "nota": ""
-    }
-   ],
-   "estado": "aprobado",
    "oficial": {
     "resumen": "El bombardeo de Dresde por la RAF y la fuerza aérea de EE. UU. se produjo entre el 13 y el 15 de febrero de 1945. Una comisión de historiadores nombrada por la ciudad concluyó en 2010 que murieron hasta 25.000 personas; las estimaciones anteriores llegaban a 135.000 y fueron rebajadas en parte por usos propagandísticos. Si el ataque estaba justificado militarmente sigue discutido. No se ha comprobado en esta pasada que Churchill lo ordenara personalmente ni su papel de ministro de Colonias en el Mandato de Palestina.",
     "fuentes": [
@@ -5454,9 +5491,76 @@ window.CRONO = {
       "titulo": "NBC News: el informe rebaja la cifra de muertos",
       "url": "https://www.nbcnews.com/id/wbna26977893",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia: Bombardeo de Dresde",
+      "url": "https://es.wikipedia.org/wiki/Bombardeo_de_Dresde",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El bombardeo de Dresde fue una serie de ataques aéreos aliados sobre la ciudad alemana entre el 13 y el 15 de febrero de 1945, en los últimos meses de la Segunda Guerra Mundial. La RAF británica atacó de noche, en dos oleadas, y la aviación estadounidense de día, el 14 y el 15. La ciudad volvió a ser bombardeada el 2 de marzo y el 17 de abril de 1945.\n\nEl centro histórico ardió casi por completo en una tormenta de fuego. Las cifras de muertos fueron durante décadas un campo de batalla político; la comisión de historiadores encargada por el Ayuntamiento en 2005 concluyó en 2010 que fueron entre 18.000 y 25.000, con un mínimo documentado de 22.700."
+    },
+    {
+     "titulo": "Por qué se eligió Dresde",
+     "nivel": "hecho",
+     "texto": "A principios de 1945 los aliados buscaban un golpe decisivo: los soviéticos habían llegado al Óder y preparaban el asalto a Berlín, y millones de refugiados huían del este hacia Alemania central. La RAF reabrió en enero la operación Thunderclap, que se había archivado en agosto de 1944, y Dresde, con Berlín, Chemnitz y Leipzig, quedó como objetivo de primer orden.\n\nEn la Conferencia de Yalta (4-11 de febrero), a petición soviética, se acordaron nuevos ataques aéreos en la zona oriental para cortar un nudo de comunicaciones y un centro productivo en la retaguardia del frente del Este, impedir la reubicación de tropas y evitar contraataques que frenasen el avance del Ejército Rojo."
+    },
+    {
+     "titulo": "La ciudad",
+     "nivel": "hecho",
+     "texto": "Dresde tenía 642.143 habitantes al empezar la guerra y era la séptima ciudad del país. En la primavera de 1944 era, con Breslau, la última gran ciudad alemana sin bombardeos: según la RAF, el área urbana más grande que aún no había sufrido las bombas. En febrero de 1945 estaba atestada con unos 200.000 refugiados y miles de soldados heridos.\n\nEra el tercer nudo ferroviario del Reich, con talleres de la Deutsche Reichsbahn, y albergaba 127 fábricas y talleres medianos o grandes que abastecían al ejército, según un informe del alto mando alemán; la USAF contaba al menos 110 empresas como «objetivo militar legítimo». Las zonas industriales de la periferia, sin embargo, no fueron bombardeadas: la mayor parte de la capacidad industrial quedó fuera del ataque."
+    },
+    {
+     "titulo": "La noche del 13 al 14",
+     "nivel": "hecho",
+     "texto": "La primera oleada despegó a las 17:20 del 13 de febrero: 254 Lancasters con 500 toneladas de explosivo y 375 de incendiario, guiados por pathfinders que marcaron el estadio Heinz-Steyer. A las 22:03 se iluminó el centro con bengalas de magnesio —los «árboles de Navidad»— y a las 22:14 cayó la primera bomba. En ocho minutos la RAF incendió unas tres cuartas partes de la Altstadt.\n\nA la 01:05 sonaron otra vez las alarmas y a la 01:23 llegó la segunda oleada, 529 Lancasters, que lanzaron 650.000 bombas incendiarias —1.500 toneladas— sobre una ciudad ya en llamas: el incendio se veía a 100 kilómetros y la columna de humo llegaba a 4.600 metros. Las dos oleadas, separadas por tres horas, buscaban que la segunda matase a los equipos de rescate. Los incendios se unieron en una tormenta de fuego que fundió el vidrio y el metal y succionó a personas y objetos."
+    },
+    {
+     "titulo": "El día 14 y el 15",
+     "nivel": "hecho",
+     "texto": "El 14 de febrero, de 12:17 a 12:31, 316 B-17 estadounidenses lanzaron 1.800 bombas explosivas y 136.800 incendiarias usando el radar H2X, con poca precisión: algunas naves bombardearon Brux, Pilsen y Praga, que recibió 153 toneladas. El 15 de febrero, entre 11:51 y 12:10, otros 211 B-17 lanzaron 460 toneladas.\n\nLa Frauenkirche, que había ardido, se desplomó a las 10:15 del 15 de febrero. También se destruyeron la Ópera Semper, el Palacio de Dresde, la Sophienkirche y el Zwinger. La ciudad volvió a ser atacada el 2 de marzo y el 17 de abril de 1945; este último ataque inutilizó definitivamente el tráfico ferroviario."
+    },
+    {
+     "titulo": "El balance material",
+     "nivel": "hecho",
+     "texto": "La Altstadt ardió casi entera y barrios como Seevorstadt, Johannstadt y el este de Südvorstadt quedaron en gran parte destrozados. De 222.000 viviendas, entre 60.000 y 75.000 quedaron totalmente destruidas hasta mayo de 1945, 18.000 gravemente dañadas y 81.000 con daños menores. El 70 % del tejido industrial quedó destruido, aunque los ataques nocturnos no apuntaban a las fábricas.\n\nLa circulación quedó paralizada: el 75 % de las catenarias destruidas, 1.100 cráteres contabilizados y todos los puentes sobre el Elba afectados. Solo seis fábricas de la ciudad podían seguir produciendo en marzo. El centro llegó a tener 4.000 habitantes."
+    },
+    {
+     "titulo": "Las víctimas y la guerra de cifras",
+     "nivel": "hecho",
+     "texto": "Las primeras cifras fueron propaganda: se habló de 100.000, 200.000, 275.000, 350.000-400.000 o incluso 500.000 muertos. El primer documento oficial con números concretos, un informe policial del 22 de marzo de 1945, daba 18.375 muertos, 2.212 heridos graves y 13.718 leves, y estimaba el total en «unos 25.000». El Tagesbefehl 47 citaba 20.204 cadáveres recuperados.\n\nDurante años circuló una versión de ese informe con un cero de más en todas las cifras; el original apareció en 1966 en el Archivo de Coblenza, y David Irving, que lo había usado, reconoció el error. En 2005 el Ayuntamiento encargó una comisión independiente a Rolf-Dieter Müller. En 2008-2010 concluyó que las víctimas fueron entre 18.000 y 25.000, con un mínimo documentado de 22.700 tras el hallazgo de nuevos papeles. La comisión descartó que hubiera cuerpos volatilizados: ni en febrero de 1945 se alcanzó la temperatura para hacer desaparecer un cadáver."
+    },
+    {
+     "titulo": "La propaganda de Goebbels",
+     "nivel": "hecho",
+     "texto": "El régimen nazi explotó el ataque. El 16 de febrero el Ministerio de Propaganda publicó que Dresde no tenía industria militar y era una ciudad cultural, y el 25 de febrero un panfleto con fotos de dos niños abrasados titulado «Dresde - Masacre de refugiados» afirmaba que habían muerto 200.000 personas. Frederick Taylor sostiene que el ministerio filtró a la prensa neutral extractos del informe oficial con un cero de más, 202.040.\n\nLa campaña funcionó: el parlamentario laborista Richard Stokes citó en la Cámara de los Comunes información de la agencia alemana de prensa y contribuyó al cambio de opinión británico sobre los bombardeos de ciudades. La manipulación de las cifras está, según Taylor, en el origen de parte de la indignación posterior."
+    },
+    {
+     "titulo": "El debate",
+     "nivel": "hecho",
+     "texto": "La discusión sigue abierta entre quienes ven un objetivo militar legítimo —nudo ferroviario, industria de guerra, apoyo a la ofensiva soviética— y quienes lo consideran un bombardeo de terror contra civiles. En el Reino Unido la destrucción de Dresde fue la primera vez que la población cuestionó seriamente los métodos aliados; una nota de Associated Press habló de «bombardeos de terror» y el asunto llegó al Parlamento.\n\nChurchill se distanció de los area bombings: en el telegrama que envió a los jefes del Estado Mayor el 28 de marzo de 1945 dijo que seguir destruyendo zonas residenciales era contrario a los intereses británicos de posguerra. El mariscal de la RAF Arthur Harris le contestó defendiendo el bombardeo de ciudades."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierta la cifra exacta de muertos: la horquilla académica es 18.000-25.000, pero el registro civil de la época se perdió y las cifras de refugiados y soldados son imprecisas. También sigue el debate sobre la intención: cuánto pesó el objetivo militar y cuánto la voluntad de quebrar la moral, y qué sabían los mandos aliados de la presencia de refugiados.\n\nPara seguir el dinero y el poder harían falta los papeles de la RAF y del VIII Comando sobre la selección de blancos, las actas de Yalta y la correspondencia entre Churchill y Harris, que esta ficha resume de segunda mano. Tampoco se ha leído la bibliografía citada (Taylor, Hastings, Müller)."
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "winston-churchill",
+     "nota": ""
+    }
+   ],
+   "estado": "aprobado",
+   "naturaleza": "conflictos-belicos",
+   "fecha_autor": "Cuando prácticamente ya había terminado la II Guerra Mundial",
    "vista": "politica"
   },
   {
@@ -36153,9 +36257,66 @@ window.CRONO = {
       "titulo": "Britannica: Iranian Revolution",
       "url": "https://www.britannica.com/event/Iranian-Revolution",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Revolución iraní",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_iran%C3%AD",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Revolución iraní, también llamada Revolución islámica, fue el proceso de movilizaciones que en 1979 derribó la dinastía Pahlaví y depuso al sah Mohammad Reza Pahleví, que tenía el apoyo del Reino Unido y de Estados Unidos. La lideró desde el exilio el ayatolá Jomeini y acabó con la instauración de la república islámica que sigue vigente.\n\nLas protestas empezaron en 1977, se intensificaron en enero de 1978 con la unión de grupos laicos y religiosos y, entre agosto y diciembre, las huelgas paralizaron el país. El sah salió de Irán el 16 de enero de 1979 y el régimen cayó el 11 de febrero. El 1 de abril los iraníes votaron en referéndum la república islámica y en diciembre aprobaron una Constitución teocrática en la que Jomeini quedó como «Guía de la Revolución»."
+    },
+    {
+     "titulo": "El antecedente: el petróleo y el golpe de 1953",
+     "nivel": "hecho",
+     "texto": "La raíz de la revolución está, para los investigadores, en el golpe de Estado de 1953. En 1951 el primer ministro Mohammad Mosaddeq nacionalizó el petróleo, con el apoyo de manifestaciones y huelgas. La nacionalización ponía en peligro los intereses británicos, y el MI6 y la CIA organizaron un golpe militar para destituirlo tras una campaña de desestabilización.\n\nDe aquel golpe salió un sha más fuerte y una animadversión duradera hacia el sah, el Reino Unido y Estados Unidos. El recuerdo de 1953 explica por qué la revolución de 1979 tenía un componente antiimperialista tan fuerte y por qué la nacionalización del petróleo fue un símbolo."
+    },
+    {
+     "titulo": "El sha, la SAVAK y la modernización",
+     "nivel": "hecho",
+     "texto": "Reza Shah, padre del último sah, había sustituido las leyes islámicas por leyes occidentales y prohibido la ropa tradicional; en 1935 aplastó una rebelión chií en Mashad. En 1941 fue depuesto y su hijo Mohammad Reza fue puesto por una invasión soviética y británica. Desde entonces el régimen fue autocrático, modernizador y occidentalizante, y se apoyó en la SAVAK, la policía secreta, que llegó a tener 15.000 agentes y a la que se atribuyen desapariciones y torturas.\n\nEl desarrollo económico de los años setenta creó grandes diferencias: el 42 % de los habitantes de Teherán no tenía casa y vivía en barriadas, mientras los cercanos al régimen vivían en palacios. El dinero del petróleo, que se multiplicó con la subida del crudo, no se usó para las promesas sociales, e Irán tenía algunos de los peores indicadores de educación y mortalidad infantil de Oriente Medio."
+    },
+    {
+     "titulo": "Jomeini: de Qom al exilio",
+     "nivel": "hecho",
+     "texto": "Ruhollah Jomeini era un clérigo chiita que enseñaba en la escuela Feiziyah de Qom y rechazaba la injerencia estadounidense. En 1963 lideró la oposición a la «Revolución Blanca» del sah y fue detenido tras llamarle «hombre desgraciado y miserable»; le siguieron tres días de disturbios, con una cifra de muertos que las fuentes antigobernamentales elevan a 15.000 y las oficiales rebajan a 32.\n\nEn noviembre de 1964 fue detenido y exiliado a Turquía; después vivió en Nayaf (Irak) y en París, quince años en total, hasta la revolución. Desde el exilio construyó una red de seguidores y un discurso que unía el rechazo a la corrupción y a la desigualdad con la «tutela de los juristas islámicos» (wilayat faqih)."
+    },
+    {
+     "titulo": "Las protestas de 1977-1978",
+     "nivel": "hecho",
+     "texto": "Los primeros años fueron de cartas y declaraciones: en 1976 cincuenta y tres juristas escribieron al sah contra su interferencia en los tribunales y cuarenta figuras literarias criticaron la censura. En 1977 el insulto de un periódico a los clérigos —presentó a Jomeini como espía británico— desencadenó manifestaciones en Qom, con decenas de muertos según los clérigos.\n\nEn Tabriz la multitud atacó bancos, hoteles de lujo, cines y bares, símbolos occidentales, y se oyó por primera vez «Muerte al sha». En agosto de 1978 el incendio del cine Rex de Abadán mató a unas cuatrocientas personas y los revolucionarios culparon a la SAVAK. La represión y la crisis económica hacían crecer la protesta."
+    },
+    {
+     "titulo": "El Viernes Negro",
+     "nivel": "hecho",
+     "texto": "El 8 de septiembre de 1978 (17 de Shahrivar) el sah declaró la ley marcial y el ejército disparó contra una manifestación en la plaza de Jaleh, con tanques y helicópteros artillados según las fuentes antigubernamentales. Las cifras de muertos van de ochenta a varios cientos; los datos oficiales posteriores hablan de unos 15.000 muertos y heridos ese día.\n\nEl «Viernes Negro» fue el punto de no retorno: aumentó el descontento y abrió el camino a la rebelión general. Después llegaron las huelgas masivas: mercados, universidades, escuelas, instalaciones petroleras, bancos, ministerios, periódicos, hospitales y fábricas se cerraron, y los manifestantes exigieron el regreso de Jomeini."
+    },
+    {
+     "titulo": "La caída del sah",
+     "nivel": "hecho",
+     "texto": "El sah nombró primer ministro a Shapur Bajtiar, que le propuso gobernar si él salía del país. El 16 de enero de 1979 el sah abandonó Irán pilotando su propio avión. Bajtiar canceló la ley marcial, disolvió la SAVAK y permitió el regreso de Jomeini, pero este llamó a continuar la rebelión.\n\nEl 1 de febrero Jomeini volvió a Teherán y tres millones de personas salieron a recibirlo. El 11 de febrero Bajtiar fue expulsado del poder y la revolución triunfó. El régimen real había caído en una lucha callejera en la que participaron grupos guerrilleros y tropas rebeldes."
+    },
+    {
+     "titulo": "La república islámica",
+     "nivel": "hecho",
+     "texto": "El 1 de abril de 1979 los iraníes votaron en referéndum convertirse en república islámica y en diciembre aprobaron una Constitución republicana y teocrática en la que Jomeini se convirtió en «Guía de la Revolución». La revolución sustituyó una monarquía autoritaria favorable a Occidente por una teocracia islamista y antioccidental.\n\nBuena parte de los que habían hecho la revolución —liberales, nacionalistas, izquierdistas— se quedaron fuera del nuevo régimen y fueron reprimidos cuando se quejaron del engaño. La unidad anti-sah se rompió en cuanto el sah se fue."
+    },
+    {
+     "titulo": "El dinero: el petróleo y quién se lo quedó",
+     "nivel": "hecho",
+     "texto": "El petróleo es el hilo económico de todo el proceso. Mosaddeq lo nacionalizó en 1951 y el golpe de 1953 lo devolvió a manos de un consorcio internacional; en los años setenta la subida del precio del crudo multiplicó los ingresos, que el régimen no convirtió en vivienda, educación ni sanidad. La riqueza se concentró en los sectores cercanos al poder y el resto vio cómo el país se modernizaba por fuera sin mejorar por dentro.\n\nLa historiografía económica iraní discute cuánto de la crisis se debió a la mala gestión del dinero del petróleo y cuánto a la inflación y a la corrupción. Lo que sí consta es que la promesa incumplida de repartir la renta del crudo fue uno de los motores de la protesta."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quedan abiertas las cifras de la represión: las estimaciones de muertos del Viernes Negro van de decenas a miles, y las de 1963 también son muy dispares. Tampoco hay acuerdo sobre el peso relativo de los factores —el recuerdo de 1953, la desigualdad, la SAVAK, la crisis económica de mediados de los setenta, el exilio de Jomeini— en el estallido.\n\nPara seguir el dinero harían falta las cuentas de la renta petrolera entre 1973 y 1979, el reparto de los contratos del consorcio y los flujos de armas y créditos occidentales al régimen del sah, que esta ficha no ha consultado. Tampoco se ha leído la bibliografía citada (Kapuscinski)."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -40295,9 +40456,66 @@ window.CRONO = {
       "titulo": "Rusia desclasifica documentos secretos sobre la ocupación de Berlín en 1945 (Europa Press)",
       "url": "https://www.europapress.es/internacional/noticia-rusia-desclasifica-documentos-secretos-ocupacion-berlin-1945-20200503003433.html",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia: Batalla de Berlín",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Berl%C3%ADn",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La batalla de Berlín fue la última gran batalla de la Segunda Guerra Mundial en Europa. Empezó el 16 de abril de 1945 con la gran ofensiva soviética sobre la capital del Tercer Reich y terminó el 2 de mayo, cuando los defensores alemanes rindieron la ciudad al Ejército Rojo.\n\nHitler se suicidó el 30 de abril en el búnker de la Cancillería. Los combates callejeros continuaron en el noroeste, oeste y sudoeste hasta la rendición incondicional de Alemania, el 8 de mayo (9 de mayo en la Unión Soviética)."
+    },
+    {
+     "titulo": "Los antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde la Operación Bagration de agosto de 1944, Rumanía y Bulgaria se habían rendido y Alemania había perdido Budapest y casi toda Hungría. El 12 de enero de 1945 el Ejército Rojo lanzó la ofensiva del Vístula-Óder, avanzó hasta 40 kilómetros al día y el 27 de enero alcanzó Auschwitz. A finales de mes el frente se estabilizó a unos 60 kilómetros al este de Berlín, en el Óder.\n\nEn Yalta los aliados fijaron las esferas de influencia y los soviéticos pidieron que las fuerzas angloestadounidenses quedaran lo más lejos posible de la capital. Aunque la producción armamentística alemana se mantenía, faltaban materias primas, combustible y munición, y Albert Speer, ministro de Armamentos, reconoció que «la guerra estaba perdida»."
+    },
+    {
+     "titulo": "La preparación",
+     "nivel": "hecho",
+     "texto": "El 9 de abril cayó Königsberg y el 2.º Frente Bielorruso de Rokosovski avanzó al Óder. Stalin dispuso que Zhúkov llegara primero a Berlín, con el 1.er Frente Bielorruso, y que Kónev cubriera el sur con el 1.er Frente Ucraniano. Los soviéticos y polacos reunieron 2,5 millones de hombres, 6.250 tanques, 7.500 aviones y 41.600 piezas de artillería.\n\nEnfrente, un millón de soldados alemanes con 1.519 tanques y 9.303 piezas de artillería, con poco combustible. El 20 de marzo Hitler puso al general Gotthard Heinrici al mando del Grupo de Ejércitos Vístula; Heinrici, especialista en guerra defensiva, debilitó otros puntos del Óder, inundó la llanura de Seelow y llevó sus mejores unidades a las alturas, donde la defensa era más fácil."
+    },
+    {
+     "titulo": "La ofensiva del Seelow",
+     "nivel": "hecho",
+     "texto": "A las dos de la mañana del 16 de abril 22.000 cañones soviéticos abrieron fuego. Heinrici había retirado sus tropas y las bajas fueron pocas; la niebla, el humo y el polvo hicieron que los reflectores soviéticos, en vez de cegar a los alemanes, delataran a las formaciones de Zhúkov. Los cañones antiaéreos de la colina diezmaron los tanques.\n\nStalin, molesto, dio permiso a Kónev para tomar Berlín, lo que presionó a Zhúkov, que empleó sus reservas con enormes pérdidas. En la noche del 18 de abril los soviéticos alcanzaron el último cinturón defensivo de Heinrici. El 19, el 9.º Ejército empezó a disgregarse y el LVI Cuerpo Panzer de Weidling retrocedió hacia Berlín."
+    },
+    {
+     "titulo": "El cerco y la calle",
+     "nivel": "hecho",
+     "texto": "El 21 de abril las primeras baterías soviéticas bombardearon la ciudad. Zhúkov rodeó la capital por el noreste y el este y Kónev quebró el flanco norte del Grupo de Ejércitos Centro. Hitler ordenó contraataques imposibles, como el del III Cuerpo SS de Steiner con 10.000 hombres contra una fuerza diez veces mayor; cuando supo que había fracasado, sufrió un colapso nervioso y decidió quedarse en Berlín.\n\nLa defensa quedó en manos de restos de la Wehrmacht y las Waffen-SS, jóvenes de las Juventudes Hitlerianas, ancianos del Volkssturm y policías. Los soviéticos tomaron la periferia desde el 24 de abril, cruzaron el Spree y llegaron al centro. Evitaron las calles anchas, expuestas a emboscadas, y abrieron pasos en las paredes para saltar de edificio en edificio. La población se refugió en sótanos, torres antiaéreas y el metro."
+    },
+    {
+     "titulo": "El Reichstag y la bandera",
+     "nivel": "hecho",
+     "texto": "El 29 de abril el 3.er Ejército de Choque cruzó el puente Moltke. En la madrugada, Hitler firmó su testamento y se casó con Eva Braun. El 30 de abril, tras resolver los problemas de artillería, los soviéticos asaltaron el Reichstag; la resistencia alemana fue feroz y no entraron hasta la noche, en combates habitación por habitación que siguieron hasta el 2 de mayo.\n\nLa famosa foto de los dos soldados plantando la bandera en el techo es una recreación tomada al día siguiente. La bandera ondeó la noche del 30 de abril, pero el edificio no quedó controlado hasta el 2 de mayo."
+    },
+    {
+     "titulo": "El suicidio de Hitler y la rendición",
+     "nivel": "hecho",
+     "texto": "El 30 de abril, tras recibir el informe de que la Cancillería resistiría 48 horas más, Hitler y Eva Braun se suicidaron en el búnker y sus cuerpos fueron rociados con gasolina y quemados en el patio. Magda Goebbels envenenó a sus seis hijos y se suicidó con su marido; al día siguiente lo hicieron los generales Burgdorf y Krebs.\n\nEn la noche del 1 de mayo, varios grupos intentaron huir hacia los estadounidenses; Bormann y Stumpfegger murieron junto a un puente del Spree. El 1 de mayo, a las dos de la madrugada, Krebs fue enviado a negociar con Chuikov, que rechazó cualquier negociación. El 2 de mayo, a las 2:50, el general Weidling ofreció la rendición incondicional de Berlín."
+    },
+    {
+     "titulo": "Las pérdidas",
+     "nivel": "hecho",
+     "texto": "Entre el 16 de abril y el 2 de mayo las tropas soviéticas perdieron 81.116 muertos o desaparecidos, 280.251 heridos, 1.997 tanques y cañones de asalto, 2.108 piezas de artillería y 917 aviones: unos 361.367 soldados entre muertos, heridos y desaparecidos. El 8.º Ejército de la Guardia de Chuikov perdió 28.673 hombres.\n\nLas pérdidas alemanas fueron 458.000 entre muertos y heridos, 479.298 prisioneros, 4.183 tanques y cañones de asalto, 20.675 piezas de artillería y 5.995 aviones, además de unos 20.000 civiles muertos durante los combates."
+    },
+    {
+     "titulo": "Las consecuencias",
+     "nivel": "hecho",
+     "texto": "Conocido el suicidio de Hitler, se sucedieron los suicidios en todo el Reich: más de cien mil personas en los días siguientes, entre ellas 35 generales del Ejército, 6 de la Luftwaffe, 8 almirantes, 13 generales de las Waffen-SS y 11 de los 43 Gauleiter.\n\nDurante el asalto y los días posteriores, tropas soviéticas cometieron violaciones, saqueos y asesinatos, cuya magnitud se discute; la mayoría de las violaciones se produjo entre el 23 de abril y el 8 de mayo. La Stavka había previsto el problema y Kónev ordenó ya en enero reasignar a batallones de castigo a los mandos responsables de saqueos y excesos. La ciudad quedó en ruinas y Alemania, dividida en zonas de ocupación."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quedan abiertas las cifras exactas de civiles muertos y de violaciones, que varían mucho según la fuente, y el reparto de responsabilidades en la violencia de los días de la ocupación. También se discute cuánto pesó la rivalidad entre Zhúkov y Kónev en las bajas soviéticas por fuego amigo.\n\nPara seguir el dinero y el poder harían falta los papeles del reparto de Berlín entre los aliados, el coste de la reconstrucción y el destino del patrimonio saqueado, que esta ficha no ha consultado. Tampoco se ha leído la bibliografía citada (Beevor, Bellamy)."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
