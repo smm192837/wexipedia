@@ -20684,6 +20684,28 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El comercio y el déficit de plata",
+     "nivel": "hecho",
+     "texto": "Las guerras del Opio (o anglo-chinas) fueron dos conflictos del siglo XIX entre China y el Reino Unido, el segundo con la participación de Francia: el primero entre 1839 y 1842 y el segundo de 1856 a 1860. Sus causas fueron los intereses comerciales del contrabando británico de opio y los esfuerzos del gobierno chino por imponer sus leyes a ese comercio. El comercio marítimo directo entre Europa y China empezó en el siglo XVI tras las colonias portuguesas de Goa y Macao, y se aceleró con la conquista española de Filipinas, de modo que el Galeón de Manila llegó a llevar más plata a China que la Ruta de la Seda. China limitó el contacto: solo permitió el comercio por Cantón y con monopolios y trámites rígidos. Como en Gran Bretaña había mucha demanda de té, seda y porcelana y en China poca de mercancías británicas, Londres tenía un gran déficit y pagaba con plata. Para compensarlo empezó en el siglo XVIII a exportar opio de la India británica a China, ilegalmente, y la fuente cita que el modelo ya lo había aplicado la Compañía Neerlandesa de las Indias Orientales. El emperador Daoguang prohibió la venta y el consumo en 1829 por el gran número de adictos."
+    },
+    {
+     "titulo": "El auge del opio",
+     "nivel": "hecho",
+     "texto": "El opio se producía en China desde el siglo XV; se mezclaba con tabaco en un proceso inventado por los españoles, dominado por los neerlandeses en el siglo XVII y generalizado por los británicos en el XVIII. Los británicos lo produjeron a escala desde mediados del XVIII en la India, con un método que aprendieron de los mogoles, y tras invadir Bengala en 1764 vieron ganancias próximas al 400 %. Las exportaciones pasaron de unas 15 toneladas en 1730 a 75 en 1773, en más de 2.000 cajas de 70 kg. La fuente describe un comercio triangular: el opio de la India, Persia y el Imperio otomano iba a China, con él se pagaban porcelana, seda y té, que se vendían en el Reino Unido y en la costa este de Estados Unidos, y con los beneficios se compraba más opio. Según la fuente, en 1865 se creó el banco HSBC para administrar las ganancias del tráfico de opio (afirmación que no he contrastado). El emperador mandó a Lin Zexu combatir el tráfico: este atajó la corrupción de los funcionarios, hizo destruir más de 20.000 cajas de opio y escribió a la reina Victoria pidiendo que respetara las reglas del comercio internacional y no comerciara con sustancias tóxicas (la fuente da 1830 para estos hechos, pero los episodios que cita son de 1839)."
+    },
+    {
+     "titulo": "La escalada y las consecuencias",
+     "nivel": "hecho",
+     "texto": "El gobierno británico acusó a China de destruir mercancías británicas, y se sucedieron incidentes: el 7 de julio de 1839 marineros británicos y estadounidenses causaron altercados en Kowloon, y el 15 de agosto los chinos cortaron los víveres a los británicos; en noviembre dos barcos británicos llegaron a Cantón y hubo un enfrentamiento, que fue el primer episodio bélico, con Charles Elliot al mando del bloqueo. La derrota china en las dos guerras forzó al gobierno a tolerar el comercio de opio. Los británicos impusieron los «Tratados Desiguales», que abrieron varios puertos al comercio exterior y cedieron Hong Kong (Tratado de Nankín); Portugal siguió forzando condiciones y ampliando Macao. Según la fuente, esto contribuyó a la rebelión Taiping, a la de los Bóxers y a la caída de la dinastía Qing en 1912, y se consideran la primera guerra de drogas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo breve de una enciclopedia abierta, con una marca «cita requerida» y con errores de fechas internos, como el 1830 para sucesos de 1839. No cuenta las campañas militares ni el contenido de los tratados con detalle. Siguiendo la regla de seguir el dinero y el poder, queda abierto el papel exacto de la Compañía de las Indias, de casas comerciales como Jardine Matheson y de los banqueros que financiaron el comercio, y la parte que tuvieron los comerciantes estadounidenses. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -31656,6 +31678,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Cómo nació (1947-1949)",
+     "nivel": "hecho",
+     "texto": "La OTAN es una alianza militar regida por el Tratado de Washington, firmado el 4 de abril de 1949, que obliga a sus miembros a defender a cualquiera que sea atacado por una potencia externa. Según la fuente, el contexto era la preocupación occidental por la política expansionista soviética: la ONU no podía mantener la estabilidad porque los vetos soviéticos bloqueaban las propuestas de Estados Unidos en el Consejo de Seguridad, y entre 1947 y 1949 hubo amenazas a Noruega, Grecia, Turquía y Checoslovaquia, el golpe de Praga (febrero de 1948) y el bloqueo de Berlín (junio de 1948 a mayo de 1949). En marzo de 1948 Francia, Bélgica, Países Bajos, Luxemburgo y el Reino Unido firmaron el Tratado de Bruselas (Unión Europea Occidental). Se negoció después una alianza más amplia con Estados Unidos y Canadá, a la que se invitó a Dinamarca, Islandia, Italia, Noruega y Portugal, sobre la base del artículo 51 de la Carta de la ONU. La dificultad principal fue incorporar a Estados Unidos, cuya Constitución impedía una alianza militar en tiempo de paz: el senador Vandenberg promovió la Resolución 239 (11 de junio de 1948), y el Senado hizo constar en el artículo 5 que cada país decidiría libremente las medidas ante una agresión, para conservar la decisión del Congreso. La fuente cita un acuerdo secreto británico llamado Pentagon Paper, con la marca «cita requerida»."
+    },
+    {
+     "titulo": "La Guerra Fría",
+     "nivel": "hecho",
+     "texto": "En sus primeros años la OTAN fue sobre todo una asociación política; la guerra de Corea llevó a crear una estructura militar permanente bajo dirección de Estados Unidos. En 1952 entraron Grecia y Turquía. En 1954 la Unión Soviética propuso unirse y los aliados lo rechazaron; el ingreso de Alemania Occidental el 9 de mayo de 1955 tuvo como respuesta inmediata el Pacto de Varsovia, firmado el 14 de mayo de 1955. En 1958 De Gaulle protestó por el papel hegemónico de Estados Unidos y propuso una dirección tripartita; al no obtenerla, retiró su flota del Mediterráneo (1959), prohibió armas nucleares extranjeras en Francia, probó su bomba (1960) y en 1966 sacó a las fuerzas francesas del mando integrado y ordenó salir a las tropas no francesas, por lo que el cuartel general (SHAPE) se trasladó en 1967 a Bélgica; Francia siguió en la alianza. España firmó el tratado el 30 de mayo de 1982 y, tras un referéndum en 1986 (52,54 % a favor de permanecer), se mantuvo fuera de la estructura militar integrada hasta el 1 de enero de 1999."
+    },
+    {
+     "titulo": "Después de 1989",
+     "nivel": "hecho",
+     "texto": "El Pacto de Varsovia se disolvió el 1 de julio de 1991 y la OTAN reformuló sus objetivos. Su primera operación de ataque fue Fuerza Deliberada en Bosnia (1995) y en 1999 llevó a cabo Fuerza Aliada contra Yugoslavia por Kosovo, de la que se ocupa la ficha de las guerras yugoslavas. En 1999 se incorporaron Polonia, Hungría y la República Checa, y en 2004 Bulgaria, Eslovaquia, Eslovenia, Rumanía y los tres países bálticos. La fuente recoge que George Kennan criticó en 1997 y 1998 la expansión y habla de un incumplimiento de acuerdos entre Baker y Gorbachov (sin dar más detalle en el texto que leí). Tras el 11 de septiembre de 2001 Estados Unidos invocó por primera y única vez el artículo 5; la OTAN lideró desde agosto de 2003 la misión ISAF en Afganistán, y en Irak se limitó a entrenar fuerzas de seguridad, porque Alemania y otros países se negaron a implicar a la alianza en una guerra iniciada por Estados Unidos y el Reino Unido. El artículo 4 (consultas) se ha invocado cuatro veces: tres por Turquía (guerra de Irak y guerra civil siria) y una por Polonia en 2014. Tras la invasión rusa de Ucrania en 2022 entraron Finlandia (abril de 2023) y Suecia (marzo de 2024). Hoy son 32 miembros, con sede en Bruselas."
+    },
+    {
+     "titulo": "Cómo funciona y qué críticas recibe",
+     "nivel": "hecho",
+     "texto": "Está gobernada por el Consejo del Atlántico Norte, formado por los representantes permanentes de cada miembro, que se reúne al menos una vez por semana y decide siempre por unanimidad: no hay votación por mayoría y cada nación conserva su soberanía. Lo preside el secretario general. Hay también una Asamblea Parlamentaria y una estructura militar dirigida por el Comité Militar. En 2017, según la fuente, el gasto militar conjunto de los miembros era el 52 % del mundial; en la cumbre de Newport (2014) se acordó llegar al menos al 2 % del PIB en 2024, y en 2025 se ordenó ampliarlo hasta el 5 %, y España se abstuvo y lo subió solo al 2,1 %. Entre las críticas recogidas están las de los ministros francés y británico durante la intervención en Libia, la de la UNESCO por el bombardeo de la televisión estatal libia, las del gobierno venezolano que dijo que buscaba los recursos naturales libios y las del ruso Lavrov sobre Malí, Siria e Irán. La fuente trata también la cuestión de si el artículo 5 cubre a Ceuta y Melilla, y recoge que en 2026 el secretario general Mark Rutte describió la alianza como «una plataforma para que los Estados Unidos proyecten poder»; no he contrastado esa frase."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo de una enciclopedia abierta con una marca «cita requerida» y pasajes de actualidad que no he comprobado. No he leído la lista de miembros ni los acuerdos con países ajenos. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo se reparte la financiación real (la fuente solo da el porcentaje conjunto del gasto militar), qué industrias de defensa se benefician de las ampliaciones y quién decidió en cada caso las ampliaciones al Este. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -37692,6 +37741,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue y por qué se creó",
+     "nivel": "hecho",
+     "texto": "La Sociedad de las Naciones fue un organismo internacional creado por el Tratado de Versalles el 28 de junio de 1919 para establecer las bases de la paz tras la Primera Guerra Mundial. Se basaba en la seguridad colectiva, el arbitraje de los conflictos y el desarme; su Pacto (los 26 primeros artículos del Tratado) se redactó desde el 18 de enero de 1919 por iniciativa del presidente estadounidense Woodrow Wilson, a partir de uno de sus Catorce Puntos. La primera asamblea fue el 15 de noviembre de 1920 en Ginebra con 42 países, y llegó a tener 57. Surgió de la opinión pública de Francia, el Reino Unido y Estados Unidos, convencida de que una organización mundial evitaría repetir una guerra con millones de muertos, la caída de cuatro imperios y las deudas, y de que los pactos de la diplomacia tradicional, incluidos los secretos, habían fracasado. Tenía dos objetivos: preservar la paz por acción colectiva (con arbitraje y, si hacía falta, sanciones económicas y luego militares) y promover la cooperación económica y social. En las negociaciones, Japón propuso incluir la «igualdad racial» y fue frustrado por Australia y, con menos intensidad, Estados Unidos y el Reino Unido; la fuente recoge la opinión de un historiador japonés de que el interés de Tokio era proteger su posición y no la igualdad universal."
+    },
+    {
+     "titulo": "Éxitos y fracasos",
+     "nivel": "hecho",
+     "texto": "Resolvió pacíficamente algunos conflictos de poca importancia: las islas Åland (1920, para Finlandia), la Alta Silesia (1921, reparto entre Alemania y Polonia), la invasión griega de Bulgaria (1925), la provincia de Mosul (a favor del Reino Unido) y arbitrajes en la guerra del Chaco (1932) y la de Leticia (1938). Tuvo su apogeo entre 1924 y 1929: el Tratado de Locarno (1925), el ingreso de Alemania (1926) y el Pacto Briand-Kellogg (1928). En los conflictos en que las grandes potencias tenían intereses, fracasó: en Vilna (1922) y en el incidente de Corfú (1923) la Conferencia de Embajadores rechazó la solución de la Sociedad por la presión de Mussolini; en 1923 no pudo condenar la ocupación francesa del Ruhr; en 1931, ante la invasión japonesa de Manchuria, la Comisión Lytton propuso la retirada y una autonomía, y Japón salió de la Sociedad en 1933 y convirtió Manchukuo en un Estado satélite; en 1935 las sanciones a Italia por la invasión de Abisinia no incluyeron carbón, petróleo ni acero y se levantaron tras la conquista en 1936. También custodió en Ginebra las cajas del Prado durante la guerra civil española, hasta 1939."
+    },
+    {
+     "titulo": "Territorios administrados y mandatos",
+     "nivel": "hecho",
+     "texto": "El Tratado de Versalles le encomendó la administración temporal de territorios: la cuenca del Sarre, bajo una comisión de cinco miembros durante quince años, tras los cuales más del 90 % votó volver a Alemania (1935), y la ciudad libre de Dánzig, con un Alto Comisionado desde 1920 hasta la invasión alemana de 1939. Los territorios extraeuropeos de los imperios alemán y otomano pasaron a mandatos, supervisados por una Comisión Permanente: los de tipo A (Palestina, Transjordania y Mesopotamia para el Reino Unido; Siria y Líbano para Francia), los de tipo B (Tanganica para los británicos, Ruanda-Urundi para Bélgica, Camerún y Togo divididos entre franceses y británicos) y los de tipo C (el África del Sudoeste alemana para Sudáfrica, Nueva Guinea, Samoa y Nauru para Australia y Nueva Zelanda)."
+    },
+    {
+     "titulo": "Por qué fracasó",
+     "nivel": "hecho",
+     "texto": "La fuente señala varias razones: el Senado de Estados Unidos rechazó el Tratado y el país nunca ingresó; se excluyó a Alemania y Turquía (castigo a los vencidos, tras declararse la «responsabilidad exclusiva» alemana) y durante años a la Unión Soviética (ingresó en 1934 y fue expulsada en 1939); la Sociedad nunca tuvo autoridad para imponer sus resoluciones: Paraguay salió y ganó la guerra del Chaco pese a un fallo favorable a Bolivia; Alemania y Japón la abandonaron en 1933 e Italia en 1937. Francia y el Reino Unido prefirieron una política de apaciguamiento y asuntos como la reocupación alemana de Renania no llegaron a la Sociedad, que en la guerra civil española fue sustituida en parte por el Comité de No Intervención. Se disolvió el 18 de abril de 1946 y, según la fuente, ni siquiera fue mencionada por los redactores de la Carta de la ONU, ya que los vencedores prefirieron crear una organización enteramente nueva."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo de una enciclopedia abierta; no he leído sus apartados sobre estructura, lenguas oficiales y lista de miembros. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financió la Sociedad, qué papel tuvieron los intereses bancarios y petroleros en la forma de las sanciones y los mandatos (por ejemplo el petróleo de Mosul) y cómo se repartió el poder entre Francia y el Reino Unido en sus decisiones. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
