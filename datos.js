@@ -12517,6 +12517,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La dictadura franquista, también llamada régimen franquista o franquismo, fue el periodo de la historia de España en que el general Francisco Franco ejerció la jefatura del Estado, desde el fin de la guerra civil, en 1939, hasta su muerte, en 1975. Por la total identificación de Franco con el régimen se la llama también «era de Franco». Acabada la guerra, el general instauró una dictadura «fascistizada» o régimen semifascista, con una clara influencia de los totalitarismos alemán e italiano en campos como las relaciones laborales, la política económica autárquica, la estética, el uso de símbolos o el partido único. En sus últimos años se acercó más a las dictaduras desarrollistas, aunque siempre conservó rasgos fascistas residuales, con la ausencia de una ideología claramente definida más allá de su proclamado nacionalcatolicismo."
+    },
+    {
+     "titulo": "Un poder personal",
+     "nivel": "hecho",
+     "texto": "El rasgo definitorio del régimen fue que una sola persona, el Generalísimo Franco, acumuló poderes omnímodos como ningún otro gobernante en la historia de España. La Ley de Reorganización de la Administración Central del Estado, que promulgó el propio Franco cuatro meses después del fin de la guerra, atribuyó al Caudillo todos los poderes ejecutivos y legislativos. Según Stanley G. Payne, Franco consideró siempre su mandato como vitalicio, y llegó a decir en privado a un general que no haría la tontería de Primo de Rivera y que no dimitiría hasta el cementerio. Payne añade que a Franco le preocupaban menos las cuestiones ideológicas que a otros dictadores, lo que le permitió ir adoptando programas económicos y discursos políticos distintos, y que su supuesto sentido pragmático es en gran parte un invento de los apologistas del régimen.\n\nSu legitimidad venía, en principio, de su designación por los generales que encabezaron la sublevación como «Generalísimo de las fuerzas nacionales de tierra, mar y aire» y «jefe del Gobierno del Estado español», con «todos los poderes del Nuevo Estado»: personificaba la autoridad del Ejército. Pero enseguida quiso superar la categoría de dictador militar y buscó otras fuentes de legitimación: se propuso como el Caudillo de una España «Una, grande y libre», y se fue forjando una tercera fuente, la de ser un enviado de la Providencia para la «redención» de la nación y de su religión, el catolicismo. Al terminar la guerra, el 1 de abril de 1939, la victoria se convirtió en la fuente última de su autoridad y de su derecho a ejercer el poder de forma vitalicia."
+    },
+    {
+     "titulo": "Los años cuarenta: represión y autarquía",
+     "nivel": "hecho",
+     "texto": "En los años cuarenta la dictadura militar se afianzó con la represión política y económica de los opositores. Unas 485.000 personas habían huido al exilio. Según algunos autores, entre 9.000 y 15.000 de los exiliados españoles acabaron en campos de concentración nazis y sobrevivió la mitad. Otros acabaron en los campos de concentración franquistas: hay estudios que hablan de al menos 367.000 prisioneros y de entre 150 y 188 campos. En noviembre de 1940 había 280.000 hombres y mujeres detenidos en las prisiones del Estado. Parte de la historiografía estima que entre 23.000 y 46.000 personas fueron ejecutadas en la posguerra, y otra, que unas 50.000; el total de asesinados por el régimen por motivos políticos se sitúa entre 130.000 y 140.000.\n\nLa política económica fue autárquica, provocada por la derrota del Eje en la Segunda Guerra Mundial, en la que la dictadura, pese a una política oficial de no beligerancia, tuvo una participación favorable a la Alemania nazi para derrotar a la Unión Soviética, concretada en el envío de la División Azul, una unidad de voluntarios integrada en el ejército alemán en el frente oriental durante dos años. Esa colaboración con el Eje condujo, tras la derrota de las potencias del Eje en 1945, al aislamiento internacional que promovieron los Aliados en el seno de la recién creada ONU."
+    },
+    {
+     "titulo": "De la apertura al final",
+     "nivel": "hecho",
+     "texto": "En los años cincuenta, en el marco de la Guerra Fría, la posición geográfica de España y su dictadura militar acabaron siendo estratégicas para Estados Unidos y sus aliados europeos frente a la Unión Soviética. La alianza con EE. UU. puso fin al aislamiento internacional del régimen y favoreció una paulatina apertura de la economía, que seguía en niveles de desarrollo inferiores a los de las demás economías de Europa occidental. En los años sesenta y principios de los setenta, el desarrollismo económico mejoró de forma notable, aunque desigual, el nivel de vida de la mayoría de la población, y formó una clase media hasta entonces casi inexistente. El nivel de libertad personal y política no aumentó del mismo modo, y empezaron las movilizaciones de oposición de trabajadores y estudiantes.\n\nFranco designó como sucesor en la jefatura del Estado a Juan Carlos de Borbón, a título de príncipe de España. A su muerte, al proclamarse rey, Juan Carlos juró acatar los principios del Movimiento Nacional, destinados a perpetuar el régimen, pero no lo hizo: se apoyó en el entramado institucional franquista para promover la Ley para la Reforma Política, ratificada en referéndum con un 94 % a favor, que inició la transición a la democracia en 1976."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Las cifras de víctimas son estimaciones que varían según la fuente: lo comprobado es el orden de magnitud y que no hay acuerdo sobre cada número. Siguiendo la regla de seguir el dinero y el poder, el hecho de que la alianza con Estados Unidos, durante la Guerra Fría, acabara con el aislamiento del régimen muestra que el poder exterior pesó más que el carácter del régimen. Qué grupos económicos se beneficiaron de la autarquía y del desarrollismo, y cómo se financió la apertura, no consta en esta fuente: queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -20980,6 +21007,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Imperio austrohúngaro",
       "url": "https://es.wikipedia.org/wiki/Imperio_austrohúngaro",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio austrohúngaro",
+      "url": "https://es.wikipedia.org/wiki/Imperio_austroh%C3%BAngaro",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -21000,6 +21032,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Imperio austrohúngaro, Austria-Hungría o la Doble Monarquía fue un Estado europeo creado en 1867 tras la derrota del Imperio austríaco en la guerra austro-prusiana, que llevó al compromiso austrohúngaro. Ese acuerdo equiparó el estatus del Reino de Hungría con el del Imperio austríaco y creó una alianza militar y diplomática entre los dos Estados soberanos bajo el mismo monarca, de la Casa de Habsburgo-Lorena, que recibió los títulos de emperador de Austria y rey de Hungría. Francisco José I reinó de 1867 a 1916, seguido por su sobrino nieto Carlos I hasta 1918. Fue la última fase de la evolución constitucional de la monarquía de los Habsburgo, y se disolvió poco después de que Hungría pusiera fin a la unión con Austria, el 31 de octubre de 1918."
+    },
+    {
+     "titulo": "Cómo estaba organizado",
+     "nivel": "hecho",
+     "texto": "El soberano gobernaba como emperador de Austria el oeste y el norte, la llamada Cisleitania, y como rey de Hungría la Transleitania. Aunque hoy suele describirse como un solo Estado, cada territorio se administraba de forma independiente, con sus propios parlamentos, gobiernos y tribunales, y no hubo ciudadanía común ni bandera nacional. Incluía además Bosnia y Herzegovina, ocupada por Austria desde 1878, que se incorporó a la monarquía como condominio en 1908. Salvo ese territorio, el Imperio de Austria y el Reino de Hungría eran países soberanos separados en el derecho internacional; Austria-Hungría actuó como entidad unificada sobre todo en defensa nacional y relaciones exteriores, incluido el comercio marítimo. Por eso el término «imperio», habitual en español, no se usa en sus idiomas oficiales: solo Cisleitania veía en el monarca a un emperador.\n\nEl nombre oficial era Monarquía austrohúngara, y en relaciones internacionales se usaba Austria-Hungría. Se la conocía por las siglas k. u. k. («imperial y real»). En 1914, en vísperas de la Primera Guerra Mundial, tenía 675.936 km² y 52,8 millones de habitantes, era una de las grandes potencias europeas, destacaba por su prestigio cultural, artístico e intelectual y tenía la cuarta industria de fabricación de máquinas del mundo. Se extendía por territorios de 13 países europeos actuales."
+    },
+    {
+     "titulo": "La guerra y la disolución",
+     "nivel": "hecho",
+     "texto": "Fue una de las Potencias Centrales en la Primera Guerra Mundial, que empezó con la declaración de guerra austrohúngara al Reino de Serbia el 28 de julio de 1914, tras el asesinato del heredero de la corona, el archiduque Francisco Fernando. Tras la derrota surgieron movimientos nacionales que promovieron la disolución del imperio y la formación de Estados nación para los diversos grupos étnicos. Ya estaba disuelto de hecho cuando las autoridades militares firmaron el armisticio de Villa Giusti, o de Padua, el 3 de noviembre de 1918, y la disolución quedó fijada con el Tratado de Saint-Germain-en-Laye.\n\nSu disolución dio origen a Austria alemana, que abolió la nobleza y expulsó al monarca y a los Habsburgo que no quisieron considerarse ciudadanos de la república, el Reino de Hungría, Checoslovaquia, el Estado libre de Fiume y el Estado de los Eslovenos, Croatas y Serbios, mientras algunas regiones se anexionaban a países vecinos. El Reino de Hungría y la Primera República de Austria se trataron como sus sucesores de iure, y las potencias vencedoras reconocieron en 1920, en el Tratado de Trianón, la independencia de la Primera República checoslovaca, la Segunda República polaca y el Estado de eslovenos, croatas y serbios (Yugoslavia), así como la mayoría de las demandas territoriales de Rumania e Italia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado son las fechas, la estructura dual y la disolución. Queda abierto, siguiendo la regla de seguir el dinero y el poder, cómo se financió y quién se benefició del compromiso de 1867 y de la industrialización, y qué papel tuvieron los bancos y la nobleza de ambas mitades. Esta fuente no lo recoge: queda como tema abierto, no como dato. El enlace con las tesis de la cronología alternativa sobre los Habsburgo y el Imperio, que otras fichas recogen, tampoco se trata aquí."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -21025,6 +21079,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Imperio británico",
       "url": "https://es.wikipedia.org/wiki/Imperio_británico",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio británico",
+      "url": "https://es.wikipedia.org/wiki/Imperio_brit%C3%A1nico",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -21037,6 +21096,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Imperio británico comprendió los dominios, colonias, protectorados, mandatos y otros territorios gobernados o administrados por el Reino de Inglaterra y su sucesor, el Reino Unido de Gran Bretaña e Irlanda, entre los siglos XVI y XX. Ha sido el imperio de mayor extensión hasta la fecha. En las primeras décadas del siglo XX abarcaba unos 458 millones de personas y unos 35 millones de km², aproximadamente una cuarta parte de la población mundial y una quinta parte de las tierras emergidas. Su época culminante duró unos cien años, la llamada Pax Britannica (1815-1914), a través de fases de expansión ligadas al comercio, la colonización y la conquista, y el punto de máximo auge se sitúa probablemente entre 1884, con el reparto de África, y 1922, con la independencia de Irlanda."
+    },
+    {
+     "titulo": "Cifras de su impacto",
+     "nivel": "hecho",
+     "texto": "Tuvo el mayor número de colonias de la historia: ciento veinte, por delante de Francia con ochenta. Alrededor de sesenta y cinco países se independizaron del Reino Unido, más que de cualquier otro país, por delante de Francia, con cuarenta. Más del 50 % de las fronteras del mundo se trazaron como resultado del imperialismo británico y francés. Alrededor del 36 % del comercio de esclavos del Atlántico entre 1600 y 1885 lo realizó el Imperio británico, por delante del 30 % de Francia. El imperio extendió la tecnología, el comercio, el inglés y el gobierno británico por casi todo el mundo, y su hegemonía contribuyó al espectacular crecimiento económico del Reino Unido y al peso de sus intereses mundiales. Después de la independencia, muchas antiguas colonias se unieron a la Mancomunidad de Naciones, una asociación libre; quince de ellas, incluido el Reino Unido, conservan un monarca común, hoy Carlos III."
+    },
+    {
+     "titulo": "Los orígenes: Enrique VII y Enrique VIII",
+     "nivel": "hecho",
+     "texto": "El imperio de ultramar, entendido como la exploración y el asentamiento británicos fuera de Europa, empieza con la política marítima de Enrique VII (1485-1509). Al iniciar líneas comerciales para el comercio de la lana, estableció un sistema moderno para la marina mercante inglesa, que favoreció los astilleros y la navegación; esa marina dio las bases de instituciones mercantiles que serían importantes en la aventura imperial, como la Compañía de la Bahía de Massachusetts o la Compañía Británica de las Indias Orientales. Enrique VII ordenó también construir el primer dique seco en Portsmouth y mejoró la pequeña Marina Real. Enrique VIII fundó la marina moderna: triplicó el número de barcos de guerra, construyó los primeros bajeles con armamento pesado de largo alcance, y levantó muelles y faros. Sus innovaciones fueron la base del dominio marítimo inglés en los siglos siguientes."
+    },
+    {
+     "titulo": "La era isabelina",
+     "nivel": "hecho",
+     "texto": "El periodo de Isabel I entre 1577 y 1590 fue de gran esplendor y cimentó los comienzos del imperio. Inglaterra empezó su expansión de ultramar con John Hawkins y luego con Francis Drake, y libró numerosas guerras contra el Imperio español de Felipe II. Drake dio la vuelta al mundo, el tercer hombre en conseguirlo tras Magallanes y Elcano, y en 1579 atracó en el norte de California y reclamó para la Corona lo que llamó Nova Albion, aunque no hubo asentamiento. John Dee, consultor personal de Isabel, fue el primero en usar el término «Imperio británico».\n\nHumphrey Gilbert partió hacia Terranova en 1583 y la declaró colonia británica el 5 de agosto en San Juan; Walter Raleigh organizó la primera colonia de Virginia en 1587, en Roanoke. Ambas duraron poco y se abandonaron por la escasez de alimentos, el clima duro, los naufragios y los encuentros con tribus indígenas hostiles. En 1587 Felipe II empezó a preparar el plan de invasión de Inglaterra, con la Armada Invencible y los tercios de Flandes, mientras Isabel reforzaba su marina."
+    },
+    {
+     "titulo": "Qué queda por documentar",
+     "nivel": "hipotesis",
+     "texto": "La fuente que he leído para esta ficha llega solo hasta los preparativos de 1587: faltan el Primer Imperio tal como lo describe el resto del artículo, el Segundo Imperio, el reparto de África y la descolonización. Quedan sin cubrir en esta ficha y a documentar en una pasada posterior, no como dato. Siguiendo la regla de seguir el dinero y el poder, lo más claro es que las compañías mercantiles (la de las Indias Orientales, la de la Bahía de Massachusetts) fueron instrumentos del imperio desde el principio, y que el comercio de esclavos fue una parte grande del negocio imperial. Es una hipótesis de Nexus sobre lo que habría que ampliar, no un dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -39446,6 +39532,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Unión Soviética",
       "url": "https://es.wikipedia.org/wiki/Unión_Soviética",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Unión Soviética",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Sovi%C3%A9tica",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -39466,6 +39557,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La Unión Soviética, oficialmente Unión de Repúblicas Socialistas Soviéticas (URSS), fue un Estado socialista federal que se extendió por Europa del Este y el norte de Asia. La crearon la RSFS de Rusia, la RSS de Ucrania, la RSS de Bielorrusia y la RSFS de Transcaucasia, y llegó a tener quince repúblicas socialistas soviéticas. Se fundó el 30 de diciembre de 1922, con la firma del Tratado de Creación de la URSS, y se disolvió el 26 de diciembre de 1991. Fue considerada el primer país con un Estado comunista y un sistema socialista, y una superpotencia por su influencia social, política, económica y militar. Al ser una federación, a menudo se aplicó mal el término «Rusia Soviética» a todo el país, cuando solo corresponde a la RSFS de Rusia."
+    },
+    {
+     "titulo": "De la revolución a la fundación",
+     "nivel": "hecho",
+     "texto": "Se suele pensar que la URSS es la sucesora del Imperio ruso, pero pasaron cinco años entre el último gobierno de los zares y la instauración de la Unión Soviética. La actividad revolucionaria moderna en el Imperio ruso empezó con la revuelta decembrista de 1825; la servidumbre se abolió en 1861, pero en términos desfavorables para los campesinos, lo que animó a los revolucionarios. Tras la Revolución de 1905 se creó un parlamento, la Duma imperial, en 1906, y se promulgó la primera constitución del país, pese a la resistencia del zar. Pero la agitación continuó y se agravó durante la Primera Guerra Mundial por el fracaso militar y la escasez de alimentos en las grandes ciudades.\n\nUn levantamiento espontáneo en Petrogrado derrocó al gobierno imperial en marzo de 1917 (Revolución de Febrero): el último zar, Nicolás II, abdicó, en parte por la presión de la guerra. Lo sustituyó el Gobierno provisional ruso, que pretendía una democracia liberal y seguir en la guerra con la Triple Entente, mientras nacían por todo el país los sóviets, asambleas de trabajadores. Los bolcheviques, dirigidos por Lenin, presionaron a favor de una revolución socialista en esas asambleas y en las calles y derrocaron al Gobierno provisional el 7 de noviembre de 1917 (25 de octubre según el calendario juliano), entregando el poder a los sóviets de obreros, soldados y campesinos. Pocas semanas después se convocaron elecciones, y tras la derrota de Lenin en ellas el nuevo gobierno bolchevique disolvió la Asamblea Constituyente pocos meses más tarde. En diciembre de 1917 firmaron un armisticio con las Potencias Centrales; los combates se reanudaron en febrero de 1918 y en marzo los soviéticos abandonaron definitivamente la guerra con el Tratado de Brest-Litovsk. Tras suprimir la Asamblea Constituyente se desencadenó la guerra civil rusa, que ganó el nuevo régimen."
+    },
+    {
+     "titulo": "Stalin, la guerra y la superpotencia",
+     "nivel": "hecho",
+     "texto": "Tras la muerte del primer líder soviético, Lenin, en 1924, Iósif Stalin ganó la lucha por el poder y dirigió el país a través de una industrialización a gran escala, con una economía centralizada y una extrema represión política. En junio de 1941, durante la Segunda Guerra Mundial, la Alemania nazi invadió la Unión Soviética junto a sus aliados, con la que había firmado un pacto de no agresión (el pacto Ribbentrop-Mólotov). Tras cuatro años de guerra brutal, la URSS salió victoriosa como una de las dos superpotencias del mundo, junto con Estados Unidos.\n\nSus límites variaron con el tiempo. Tras sus últimas anexiones durante la guerra, que incluyeron los estados bálticos (Lituania, Letonia y Estonia), el este de Polonia (Ucrania occidental y Bielorrusia occidental) y Besarabia, entre 1945 y la disolución los límites correspondieron aproximadamente a los del extinto Imperio ruso, con la exclusión de Polonia, la mayor parte de Finlandia y Alaska; abarcaba algo más de la séptima parte de la superficie emergida de la Tierra."
+    },
+    {
+     "titulo": "La Guerra Fría y la disolución",
+     "nivel": "hecho",
+     "texto": "La URSS y sus aliados de Europa oriental, el bloque del Este, estuvieron enfrentados en la Guerra Fría a Estados Unidos y sus aliados del bloque occidental, en una larga lucha ideológica y política mundial. Entre 1945 y 1991 la URSS y EE. UU. dominaron la agenda global de política económica, asuntos exteriores, operaciones militares, intercambio cultural, avances científicos, con la exploración espacial, y deportes, incluidos los Juegos Olímpicos. La URSS fue el modelo de referencia para futuros Estados socialistas. A finales de los años ochenta, el último dirigente soviético, Mijaíl Gorbachov, trató de reformar el Estado con la perestroika y la glásnost, pero la Unión Soviética cedió ante los problemas económicos y los disturbios políticos internos y externos, se derrumbó y se disolvió formalmente el 26 de diciembre de 1991 tras el fallido golpe de Estado de agosto. La Federación de Rusia asumió sus derechos y obligaciones."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado son las fechas, la estructura federal y el recorrido político. Siguiendo la regla de seguir el dinero y el poder, queda por documentar en fichas concretas quién financió la revolución de 1917 y a los bolcheviques, el papel de los bancos y las empresas occidentales en la industrialización soviética, y el comercio exterior durante la Guerra Fría. Esta fuente no recoge nada de eso, y lo dejo como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
