@@ -17498,6 +17498,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es y cómo nació",
+     "nivel": "hecho",
+     "texto": "La Fundación Gates (antes Fundación Bill y Melinda Gates) es una fundación privada con sede en Seattle. Bill Gates y Melinda French Gates la crearon en 1994 con el nombre de Fundación William H. Gates; en 1999 se llamó Fundación Bill y Melinda Gates, y en enero de 2000 se fusionó con la Fundación Gates para el Aprendizaje, que amplió su alcance a programas de acceso a tecnología en bibliotecas públicas. Recibió el Premio Príncipe de Asturias de Cooperación Internacional en mayo de 2006. En junio de 2010 Bill Gates y Warren Buffett impulsaron The Giving Pledge, para que personas con grandes fortunas se comprometan a donar al menos la mitad de su patrimonio; ambos reconocieron la influencia de Chuck Feeney y su filosofía de «donar en vida». En 2020 Mark Suzman asumió la dirección ejecutiva. En mayo de 2024 Melinda French Gates anunció su salida (su último día fue el 7 de junio de 2024) y recibió 12.500 millones de dólares para su propia labor filantrópica, y la entidad pasó a llamarse Fundación Gates. En 2025 anunció que prevé cerrar en 2045. Según la OCDE, entre 2013 y 2020 encabezó la lista de entidades filantrópicas privadas por dotación destinada a cooperación y desarrollo (la fuente marca esta frase como «cita requerida»)."
+    },
+    {
+     "titulo": "En qué trabaja y con cuánto dinero",
+     "nivel": "hecho",
+     "texto": "Orienta su actividad en cuatro áreas: salud global, desarrollo global, programas en Estados Unidos y acceso a tecnología. La fuente cita, como ejemplos de financiación, 1.500 millones de dólares para ampliar la vacunación infantil a través de la alianza GAVI, 456 millones para una vacuna contra la malaria mediante PATH, 355 millones a Rotary International para erradicar la polio, 264,5 millones para la Alianza para una Revolución Verde en África (AGRA), 1.370 millones en becas universitarias (incluido el Gates Millennium Scholars Program), 500 millones desembolsados en 2011 al Fondo Mundial contra el sida, la tuberculosis y la malaria, y 66 millones al Programa Mundial de Alimentos. La fuente no fecha todas esas cifras."
+    },
+    {
+     "titulo": "Críticas recogidas por la fuente",
+     "nivel": "hecho",
+     "texto": "Varios investigadores y educadores han señalado que la fundación ignoró la relación entre pobreza y bajo rendimiento escolar y que algunas de sus iniciativas educativas habrían responsabilizado en exceso al profesorado de los resultados del alumnado vulnerable. Se ha apuntado también un posible conflicto de interés en su apoyo al uso de tecnología en la educación, que podría beneficiar a Microsoft y a los propios Gates. Su fondo de inversión gestiona los activos no distribuidos con criterio de rentabilidad, sin subordinarlo necesariamente a los objetivos filantrópicos declarados; en 2007 anunció una revisión de sus criterios de inversión socialmente responsable tras las críticas. En planificación familiar, hasta 2013 Planned Parenthood fue una de las beneficiarias; en 2014 Melinda Gates declaró que no financiaría el aborto y que concentraría los recursos en anticoncepción y planificación familiar, decisión criticada tanto por grupos antiabortistas como por defensores de los derechos reproductivos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo breve de una enciclopedia abierta, con una afirmación marcada «cita requerida» y sin fecha para varias cifras. Según la regla de seguir el dinero y el poder, quedan abiertas cuestiones que este artículo no responde: de dónde viene el capital de la fundación y cómo se invierte con detalle, qué parte de la financiación pública de GAVI, la OMS y otras agencias depende de sus donaciones, y qué intereses comerciales y de influencia política tienen quienes se benefician de sus programas. Las acusaciones que circulan sobre la fundación y las vacunas se tratan en otra ficha (`gates-fundacion-vacunas-acusaciones`) y aquí no se afirman. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -26605,6 +26627,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La Milicia Nacional fue un cuerpo de ciudadanos armados para mantener el orden público y defender el régimen constitucional, establecido por la Constitución de Cádiz de 1812. Fernando VII la abolió en 1814 al restaurar el absolutismo, se restableció en el Trienio Liberal (1820-1823), volvió a abolirse en la Década Ominosa y fue uno de los principales motivos de enfrentamiento en el reinado de Isabel II entre el Partido Moderado, que quería disolverla y sustituirla por un cuerpo profesional (la Guardia Civil), y el Partido Progresista, que defendía mantenerla. La Restauración la abolió definitivamente. Nació cuando se derrumbó el sistema judicial y policial del Antiguo Régimen, y tuvo un doble carácter: espacio de participación ciudadana y a la vez instrumento de orden y seguridad. El historiador Álvaro París la describe como un espacio de orden y de revolución, de control policial y de protesta callejera, que protagonizó motines y los reprimió. Sus antecedentes eran las milicias de «vecinos honrados» medievales, las Milicias Provinciales de los Borbones del siglo XVIII y los cuerpos de voluntarios de la Guerra de la Independencia."
+    },
+    {
+     "titulo": "Cádiz y el Trienio Liberal (1812-1823)",
+     "nivel": "hecho",
+     "texto": "La Constitución de 1812 distinguía las «tropas de continuo servicio» del ejército de las «milicias nacionales» (Título VIII, capítulo II); el reglamento se aprobó en abril de 1814 pero el golpe de mayo la dejó sin aplicación. Los oficiales los elegía la tropa y estaban obligados a servir 30 por cada 1.300 habitantes entre 30 y 50 años. En la España ocupada José I creó una Guardia Cívica similar. Se restauró en abril de 1820 y tuvo un gran desarrollo político y militar; sirvió de baluarte del régimen, con un papel decisivo en la «Jornada del 7 de Julio» de 1822 que hizo fracasar un golpe.\n\nLa cuestión clave que separaba a moderados y exaltados era qué clases sociales podían entrar. Los moderados la limitaban a los «ciudadanos propietarios», porque eran «los que más tienen que perder»: el reglamento de abril de 1820 exigía uniformarse a costa propia, un gasto equivalente, según la fuente, a entre cincuenta y doscientos días de jornal. Los exaltados querían abrirla a las clases populares con suscripciones patrióticas, empréstitos de los ayuntamientos (el de Madrid pidió 400.000 reales) o mecenazgo de liberales ricos. Se probó una «Milicia de la Ley» obligatoria para los hombres de 18 a 40 años sin sueldo, rechazada por parecerse a la conscripción; desde mayo de 1821 fue exclusivamente voluntaria, y el reglamento definitivo del 29 de junio de 1822 simplificó el uniforme, estableció el voto secreto de las compañías para elegir oficiales y permitió que los ayuntamientos pagaran el uniforme a quien no pudiera. Era una fuerza local, financiada y armada por los ayuntamientos por las dificultades de la Hacienda, y con funciones de policía, vigilancia y lucha contra las partidas realistas, a menudo con labores represivas. Los milicianos se alistaban por convicción, pero también por ventajas: exención de quintas, una paga los días de servicio, acceso a empleos públicos y reconocimiento social. Eran también un espacio de aprendizaje político y de «violencia justiciera», como el llamamiento al martillo por la muerte del cura Matías Vinuesa. En 1823, al caer el régimen, quedaron señalados como «negros» y los absolutistas crearon una milicia de signo contrario, los Voluntarios Realistas."
+    },
+    {
+     "titulo": "Isabel II: Guardia Civil frente a milicia (1834-1868)",
+     "nivel": "hecho",
+     "texto": "En 1834 se creó la Milicia Urbana, primero para propietarios y pronto abierta a clases medias y bajas por las necesidades de la guerra carlista. La Milicia Nacional se reinstauró tras el motín de La Granja (1836), los progresistas la hicieron el nexo con sus bases urbanas, y la Constitución de 1837 la mantuvo (art. 77). Los moderados se opusieron a su misma existencia: Alejandro Oliván (1824) decía que habría sido útil solo con propietarios y el marqués de Miraflores sostenía que lo fue mientras estuvo cerrada «a los proletarios y traficantes de empleos y fortuna». En 1844, con Narváez, la disolvieron y crearon la Guardia Civil, cuyo cometido era, según el decreto, «proteger a las personas y a las propiedades»; la milicia desapareció de la Constitución de 1845. Los progresistas la volvieron bandera: en 1854, con Espartero, su proyecto de Constitución la incluía y Ruiz Morales la llamó «ejército del pueblo». Pero en 1856 O'Donnell la disolvió de nuevo alegando que inoculaba «hábitos de disipación y holganza» en las clases trabajadoras e inquietaba a las conservadoras, y hubo resistencia al desarme en algunas localidades."
+    },
+    {
+     "titulo": "Sexenio Democrático y disolución final (1868-1876)",
+     "nivel": "hecho",
+     "texto": "Tras la Revolución Gloriosa de 1868 se restableció con el nombre de «Fuerza ciudadana de los voluntarios de la Libertad», con un decreto firmado por Sagasta y cautelas para que fuera de «propietarios», que no evitaron que en 1872 la milicia de Madrid tuviera un 30 % de jornaleros. La Primera República creó los Voluntarios de la República sobre el reglamento de 1822. El gobierno de Cánovas del Castillo disolvió definitivamente la Milicia Nacional en 1876, aunque algunos comités de voluntarios del Sexenio y organizaciones de apoyo a la Restauración se atribuyeron su herencia. Los partidos republicanos mantuvieron su reivindicación como seña de identidad."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo extenso apoyado en pocos historiadores (Fuentes, París, Ruiz Morales como fuente de época) y no incluye cifras de efectivos por periodo. Siguiendo la regla de seguir el dinero y el poder, el artículo ya apunta el eje: quién pagaba el uniforme, qué clases entraban y quién controlaba la fuerza (ayuntamientos elegidos o jefes políticos del Gobierno). Queda abierto qué propietarios y qué ayuntamientos financiaban las milicias, y qué intereses económicos estaban detrás de la sustitución por la Guardia Civil. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -35038,6 +35087,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Revolución Industrial (o Primera Revolución Industrial) fue el proceso de transformación económica, social y tecnológica que empezó en la segunda mitad del siglo XVIII con la máquina de vapor perfeccionada por James Watt (patentada en 1769) en Gran Bretaña y se extendió décadas después a Europa occidental y la América anglosajona, hasta concluir entre 1820 y 1840 según la fuente. Fue el mayor conjunto de cambios económicos y técnicos desde el Neolítico: de una economía agraria y comercial a una urbana, industrializada y mecanizada. A partir de 1800 la renta per cápita se multiplicó como nunca antes, tras siglos de estancamiento. Empezó en la industria textil y en la extracción y uso del carbón, y se apoyó en ferrocarriles, canales y carreteras. Los historiadores discuten las fechas: lo más aceptado es situar la Primera Revolución Industrial entre finales del XVIII y mediados del XIX, con una transición entre 1840 y 1870, y una Segunda desde mediados del XIX hasta 1914, con motor de combustión interna y electricidad. Hobsbawm la situaba desde la década de 1780, con efectos claros hacia 1830-1840; Ashton, entre 1760 y 1830. También se discute el nombre: Clapham y Crafts sostienen que el cambio fue muy gradual, y que «industrial» queda corto porque hubo cambios agrarios, sociales, energéticos y demográficos."
+    },
+    {
+     "titulo": "Antecedentes y por qué empezó en Gran Bretaña",
+     "nivel": "hecho",
+     "texto": "Desde el siglo XVI crecieron el comercio, la banca y la técnica, pero las epidemias, guerras y hambrunas frenaban la expansión; según Angus Maddison la población de Europa occidental apenas creció entre 1500 y 1800. A partir de mediados del XVIII Europa empezó a distanciarse del resto del mundo. Una Revolución Agrícola británica elevó los rendimientos y liberó mano de obra (sembradora de Jethro Tull, 1701; arado de hierro de Foljambe, hacia 1730; trilladora de Meikle, 1784). Las guerras napoleónicas, al cortar importaciones, empujaron a los gobiernos a fomentar la industria propia. La industrialización llegó por oleadas: Gran Bretaña a finales del XVIII, Bélgica y Francia a principios del XIX, Alemania y Estados Unidos a mediados, Japón desde 1868, y Rusia, Italia y España a finales de siglo.\n\nPara Gran Bretaña la fuente señala factores técnicos (carbón abundante para el vapor y el coque de los altos hornos, que dio más hierro y de mejor calidad); políticos y sociales (instituciones menos absolutistas, monarquía parlamentaria tras la guerra civil y la Revolución Gloriosa de 1688, seguridad jurídica con el Common Law, minorías disidentes emprendedoras, un sistema de patentes muy desarrollado, los cercamientos o «enclosures» y la reducción de las restricciones gremiales) y geoestratégicos (una flota dominante desde Utrecht, 1714, y Trafalgar, 1805, y un imperio colonial del que la India daba algodón y un mercado cautivo)."
+    },
+    {
+     "titulo": "La interpretación de Max Weber",
+     "nivel": "tesis",
+     "texto": "Otra interpretación, de Max Weber, atribuye el cambio de mentalidad a causas morales y religiosas: el protestantismo (Lutero, Calvino) consideraba el trabajo y el esfuerzo un valor fundamental, al contrario que la ética católica, que según Weber lo veía como castigo por el pecado original. Eso explicaría en parte por qué los pioneros fueron países protestantes (Gran Bretaña, Alemania, Países Bajos) y por qué quedaron atrás España, Portugal e Italia. La fuente advierte que esta interpretación sigue siendo muy discutida."
+    },
+    {
+     "titulo": "Población y fábrica textil",
+     "nivel": "hecho",
+     "texto": "La población de Inglaterra y Gales, estable en unos seis millones de 1700 a 1740, subió a 8,3 millones en 1801, 16,8 en 1850 y 30,5 en 1901; la de Europa pasó de cien millones en 1700 a cuatrocientos en 1900. Fue el primer periodo en que crecieron a la vez la población y la renta per cápita. La caída de la mortalidad (higiene, vacunas, alcantarillado, alimentación más regular) estimuló la industria con mano de obra y demanda. Las ciudades de trazado medieval sufrieron hacinamiento, insalubridad y problemas sociales como el alcoholismo.\n\nEl algodón fue el sector líder. Antes del sistema fabril, el hilado y tejido se hacían en las casas, bajo el sistema «putting-out», por contrato con comerciantes que a menudo suministraban la materia prima. A finales del XVII y principios del XVIII el gobierno británico protegió la lana frente al algodón importado de la India. Los inventos clave: la lanzadera volante de John Kay (1733), la máquina de hilar con rodillos de Lewis Paul y John Wyatt (1738-1748), la hiladora «Jenny» de Hargreaves (1764, patentada en 1770; unas 6 libras un modelo de 40 husos en 1792), el «water frame» de Arkwright (1769), la «mule» de Crompton (1779), el telar mecánico de Cartwright (1786) y la desmotadora de algodón de Eli Whitney (1793), que permitió importar algodón barato del sur de Estados Unidos."
+    },
+    {
+     "titulo": "Transportes: ferrocarril y vapor",
+     "nivel": "hecho",
+     "texto": "Sin transportes la industria no habría prosperado. El ferrocarril nació en las minas, con raíles de madera y tracción animal; el Parlamento aprobó en 1801 la primera línea (caballos, Wandsworth-Croydon, unos 13 km). George Stephenson usó el vapor en 1814, y en 1825 se inauguró Stockton-Darlington, con 34 vagones a 16-19 km/h; la línea Mánchester-Liverpool fue pionera en transporte de pasajeros, y el primer correo por tren se envió el 11 de noviembre de 1830. En Gran Bretaña, por el laissez faire, el Estado solo daba licencias, y se gastaron grandes fortunas en conseguir permisos. Bélgica siguió en 1835; Francia, con plan estatal de 1837 y construcción casi en exclusiva privada, con seis grandes compañías en 1857; en Alemania el primer tramo fue Núremberg-Fürth (1835), y la red del Zollverein sirvió a su unión económica; en Estados Unidos los kilómetros pasaron de 65 en 1830 a 4.509 en 1840 y 14.400 en 1850. En España la línea Barcelona-Mataró se inauguró el 28 de octubre de 1848. Entre 1851 y 1901 (la «Railway Age») el tren alcanzó su apogeo: en 1910 se habían construido más de un millón de kilómetros, 380.000 en Estados Unidos y 330.000 en Europa.\n\nEl barco de vapor empezó con Jouffroy d'Abbans y con Fulton (el Clermont en el Hudson); en 1819 el Savannah cruzó el Atlántico en 29 días y en 1838 el Sirius y el Great Western tardaron 16 y 13 días. Entre 1840 y 1860 llegaron la hélice, el condensador, la máquina compound y las calderas de alta presión, pero el velero dominó la mayor parte del siglo: en 1850 el vapor había transportado 750.000 toneladas."
+    },
+    {
+     "titulo": "Comercio y países",
+     "nivel": "hecho",
+     "texto": "El comercio internacional se liberalizó, sobre todo tras el Tratado de Utrecht de 1713, que abrió el comercio inglés con la América española; se acabó con compañías privilegiadas y proteccionismo y se defendió el imperialismo y el fin de los privilegios gremiales; se desamortizaron tierras eclesiásticas, señoriales y comunales para ponerlas en el mercado. Surgió una nueva división internacional del trabajo. La supremacía industrial británica duró hasta hacia 1870 y la financiera y comercial hasta 1914. Francia, Alemania y Bélgica se industrializaron entre 1850 y 1914 (en 1850 apenas había fábrica moderna en el continente salvo en Bélgica); Italia, el Imperio austrohúngaro, España y Rusia, de forma tardía y tímida desde finales del XIX."
+    },
+    {
+     "titulo": "Consecuencias sociales",
+     "nivel": "hecho",
+     "texto": "Nacieron nuevas clases: el proletariado urbano (campesinos que se hicieron obreros) y la burguesía industrial, dueña de los medios de producción. La fuente describe jornadas de más de catorce horas con hombres, mujeres y niños, salarios miserables, falta de vivienda y de higiene y ninguna protección legal frente a los dueños de las fábricas, lo que se llamó la «cuestión social». La burguesía desplazó a la aristocracia terrateniente, y su privilegio se basó en la fortuna y no en el origen; avalada por una doctrina de libertad económica, se enriquecía también pagando salarios bajos. Surgieron respuestas: el sindicalismo, el socialismo utópico, el socialismo científico de Marx, el anarquismo, y la encíclica *Rerum Novarum* de León XIII (1891), primera encíclica social. También se señalan consecuencias ambientales (deterioro del ambiente, explotación de la tierra y de materias primas) y el éxodo rural. La fuente marca como «cita requerida» su reflexión final sobre la inevitabilidad de los desequilibrios de la industrialización."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es una enciclopedia abierta con partes de calidad dispar (el apartado de consecuencias es muy general y tiene una afirmación marcada «cita requerida»). No he leído las secciones sobre carreteras y canales ni el reparto detallado entre sectores. Siguiendo la regla de seguir el dinero y el poder, el artículo apunta quién ganó (la burguesía industrial, los dueños del capital) y quién perdió (el proletariado), pero no cuenta cómo se financió la industrialización: el papel de la banca, de las compañías coloniales, del comercio de esclavos y del algodón del sur de Estados Unidos, la deuda pública británica o los privilegios de las compañías ferroviarias. Tampoco explica por qué la banca inglesa pasó a dominar las finanzas mundiales. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -39775,6 +39866,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es y cómo se compone",
+     "nivel": "hecho",
+     "texto": "El Tribunal Constitucional (TC) es el intérprete supremo de la Constitución de 1978: un órgano constitucional independiente de los demás, único en su orden, con jurisdicción en todo el territorio, que a pesar de su nombre no forma parte del Poder Judicial. Se regula en el Título IX de la Constitución (arts. 159 a 165) y en la Ley Orgánica 2/1979, de 3 de octubre. Lo forman doce magistrados nombrados por el rey: cuatro a propuesta del Congreso y cuatro del Senado (ambos por mayoría de tres quintos; los del Senado salen de candidatos propuestos por las asambleas autonómicas), dos del Gobierno y dos del Consejo General del Poder Judicial. El mandato dura nueve años, con renovación por tercios cada tres, sin reelección salvo que el cargo se haya ocupado menos de tres años. Hay que ser jurista de reconocida competencia con más de quince años de ejercicio. La fuente señala la paradoja: los magistrados son inamovibles y no reciben instrucciones tras su nombramiento, pero su composición depende de los demás poderes, que son quienes los proponen. El cargo es incompatible con mandatos representativos, cargos políticos, direcciones de partidos o sindicatos, carreras judicial y fiscal y cualquier actividad profesional o mercantil. El presidente y el vicepresidente los eligen los propios magistrados cada tres años."
+    },
+    {
+     "titulo": "Qué puede decidir",
+     "nivel": "hecho",
+     "texto": "Tiene en exclusiva la potestad de examinar la constitucionalidad de las normas con rango de ley mediante recursos y cuestiones de inconstitucionalidad; el recurso lo pueden interponer el presidente del Gobierno, el Defensor del Pueblo, cincuenta diputados o senadores y los gobiernos y parlamentos autonómicos. Es además el máximo garante de los derechos fundamentales a través del recurso de amparo (arts. 14 a 29 y la objeción de conciencia del art. 30), que puede presentar cualquier persona con interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal. Resuelve los conflictos de competencias entre el Estado y las comunidades autónomas y entre órganos constitucionales, hace declaraciones previas sobre la constitucionalidad de tratados internacionales y conoce de las impugnaciones del Gobierno contra disposiciones autonómicas (art. 161.2), que suspenden la norma hasta que el tribunal la ratifique o la levante en cinco meses como máximo. Los reglamentos (normas del Gobierno sin fuerza de ley) no pasan por él: los controla la jurisdicción contencioso-administrativa, con el Tribunal Supremo en la cima."
+    },
+    {
+     "titulo": "Relación con el Supremo y valor de sus sentencias",
+     "nivel": "hecho",
+     "texto": "La relación con el Tribunal Supremo no es jerárquica sino de competencias, aunque en la práctica el TC puede anular resoluciones del Supremo y al revés no: la fuente cita la anulación el 19 de febrero de 2008 de una sentencia del Supremo en el caso Urbanor. Sus sentencias se publican en el BOE con los votos particulares, tienen valor de cosa juzgada desde el día siguiente y no se pueden recurrir. Las que declaran inconstitucional una norma con fuerza de ley tienen efectos generales. La fuente recoge un debate entre civilistas y constitucionalistas sobre si su jurisprudencia es fuente del derecho: a favor se dice que actúa como «legislador negativo» y que sus sentencias interpretativas fijan cómo debe entenderse una norma, y que a veces crea reglas (por ejemplo, que los derechos fundamentales rigen también para las personas jurídicas nacionales, sentencia 23/1989). Para la fuente, su capacidad creadora de derecho es lo más controvertido de su función, porque es un «poder constituido». Ante el TC actúa también una Fiscalía propia (desde 1981; entre 1980 y 1981 lo hizo una sección ad hoc de la Fiscalía del Supremo)."
+    },
+    {
+     "titulo": "Un caso notable: 2022",
+     "nivel": "hecho",
+     "texto": "La fuente recoge solo un caso: en 2022 el tribunal bloqueó el proyecto de ley que habría cambiado el Consejo General del Poder Judicial, y el presidente del Gobierno, Pedro Sánchez, lo condenó y dijo que utilizaría «todos los medios necesarios» para resolver la crisis."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta con varias marcas de «cita requerida» o «¿cuál?» y apenas un caso reciente. No trata la historia del tribunal desde 1980 (sus sentencias sobre el Estatut de Cataluña, el aborto, la ley de partidos, etc.), ni los bloqueos de renovación del tribunal. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo han influido los partidos en la elección de los magistrados, que la fuente menciona solo como dependencia formal, y qué efecto real tiene eso en sus decisiones. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -40208,6 +40326,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es y cómo nació",
+     "nivel": "hecho",
+     "texto": "Unicef (Fondo de las Naciones Unidas para la Infancia) es una agencia de la ONU con sede en Nueva York que presta ayuda humanitaria y de desarrollo a niños y madres en países en desarrollo. Se creó en 1946, por decisión unánime de la primera sesión de la Asamblea General, con el nombre de Fondo Internacional de Emergencia de las Naciones Unidas para la Infancia (UNICEF), para dar socorro de emergencia a millones de niños de la Europa de posguerra, Oriente Medio y China víctimas de la Segunda Guerra Mundial. En 1953 se convirtió en organismo permanente del sistema de la ONU, encargado de las necesidades de la infancia y de proteger sus derechos; perdió entonces parte del nombre pero conservó las siglas."
+    },
+    {
+     "titulo": "Cronología",
+     "nivel": "hecho",
+     "texto": "En 1959 la Asamblea General adoptó la Declaración de los Derechos del Niño, precursora de la actual Convención. En 1960 Unicef pasó de organización de asistencia humanitaria a agente de cooperación para el desarrollo, con la educación como herramienta contra la pobreza. Recibió el Premio Nobel de la Paz en 1965 y en 1979, Año Internacional del Niño, fue elegida agencia líder del sistema de la ONU en esta materia. En 1987 publicó el estudio «Ajuste con rostro humano», que abrió un debate mundial sobre cómo proteger a niños y mujeres de los efectos negativos de los ajustes y reformas económicas. En 1989 se aprobó la Convención sobre los Derechos del Niño. De 1990 a 2000, desde la Cumbre Mundial a favor de la Infancia, se elaboró un Plan de Acción Mundial con siete metas principales y veinte de apoyo. En 2000, en la Cumbre del Milenio, 200 jefes de Estado y de Gobierno firmaron la Declaración del Milenio y ocho objetivos para erradicar la pobreza mundial para 2015. Recibió el Premio Príncipe de Asturias de la Concordia en 2006, y en diciembre de 2018 patrocinó la primera vacuna enviada por dron a un bebé. Entre 1954 y 1969 patrocinó en España ocho Centros de Prematuros (Madrid, Bilbao, Valencia, Barcelona, Sevilla, Granada, San Sebastián y Santa Cruz de Tenerife)."
+    },
+    {
+     "titulo": "Qué hace hoy",
+     "nivel": "hecho",
+     "texto": "Trabaja en unos 190 países y territorios con programas de cooperación con los gobiernos y comités nacionales, guiada por la Convención sobre los Derechos del Niño, y se centra en cinco áreas: supervivencia y desarrollo infantil, educación e igualdad de género, infancia y VIH/sida, protección infantil y promoción de políticas y alianzas. Recopila y analiza datos sobre niños, niñas y mujeres, tiene un Centro de Investigaciones (Innocenti) y compra suministros para programas de desarrollo y emergencias. Según la fuente es el mayor proveedor de vacunas para los países en desarrollo. Cifras que da la fuente (de 2011-2013): las muertes de menores de cinco años bajaron de 12 millones en 1990 a algo menos de 6,9 millones en 2011; seguían muriendo unos 19.000 al día por causas evitables; unos 57 millones de niños no estaban escolarizados. Se financia en su totalidad con contribuciones voluntarias de particulares, empresas, fundaciones y gobiernos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta con cifras de 2011-2013 sin actualizar. No he leído sus apartados de proyectos concretos (Ciudades Amigas de la Infancia, Niño Esperanza, embajadores de buena voluntad). Según la regla de seguir el dinero y el poder, queda abierto cuánto aporta cada gobierno, empresa y fundación (la fuente solo dice que es voluntario) y qué influencia tienen los grandes donantes en sus prioridades; tampoco aparece cómo se reparte el gasto entre programas y administración. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
