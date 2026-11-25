@@ -2238,7 +2238,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: ARPANET (Advanced Research Projects Agency Network) fue una red de computadoras creada por encargo del Departamento de Defensa de EE. UU. para comunicar instituciones académicas y estatales. Su primer nodo estuvo en UCLA y fue la espina dorsal de internet hasta que se desmanteló, el 28-2-1990, tras la transición a los protocolos TCP/IP que empezó en 1983. ARPANET la creó ARPA (hoy DARPA), agencia del Departamento de Defensa de EE. UU. fundada en 1958; el primer mensaje se envió el 29 de octubre de 1969 entre UCLA y el Instituto de Investigación de Stanford. No hay vínculo documentado con la familia Bush.",
+    "resumen": "Qué es: ARPANET (Advanced Research Projects Agency Network) fue una red de computadoras creada por encargo del Departamento de Defensa de EE. UU. para comunicar instituciones académicas y estatales. Su primer nodo estuvo en UCLA y fue la espina dorsal de internet hasta que se desmanteló, el 28-2-1990, tras la transición a los protocolos TCP/IP que empezó en 1983. ARPANET la creó ARPA (hoy DARPA), agencia del Departamento de Defensa de EE. UU. fundada en 1958; el primer mensaje se envió el 29 de octubre de 1969 entre UCLA y el Instituto de Investigación de Stanford. No hay vínculo documentado con la familia Bush. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "El Derecho: 50 años de la primera conexión de ARPANET",
@@ -4082,7 +4082,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la heroína (diacetilmorfina o diamorfina) es un opioide con propiedades analgésicas, usado menos a menudo como supresor de la tos y antidiarreico. Por sus efectos eufóricos se emplea como droga recreativa semisintética. Deriva de la morfina y se origina en la adormidera, de la que se extrae el opio; su uso frecuente produce tolerancia y fuerte dependencia física. Bayer comercializó la heroína entre 1898 y 1913 como antitusivo y analgésico, presentándola como un sustituto de la morfina sin riesgo de adicción, hasta que se impuso la evidencia de que creaba dependencia. El opio fue una mercancía central del comercio británico con China en el siglo XIX, origen de las guerras del Opio. No consta que la CIA o el MI6 introdujeran fentanilo.",
+    "resumen": "Qué es: la heroína (diacetilmorfina o diamorfina) es un opioide con propiedades analgésicas, usado menos a menudo como supresor de la tos y antidiarreico. Por sus efectos eufóricos se emplea como droga recreativa semisintética. Deriva de la morfina y se origina en la adormidera, de la que se extrae el opio; su uso frecuente produce tolerancia y fuerte dependencia física. Bayer comercializó la heroína entre 1898 y 1913 como antitusivo y analgésico, presentándola como un sustituto de la morfina sin riesgo de adicción, hasta que se impuso la evidencia de que creaba dependencia. El opio fue una mercancía central del comercio británico con China en el siglo XIX, origen de las guerras del Opio. No consta que la CIA o el MI6 introdujeran fentanilo. Época y lugar: Alemania, en el Imperio alemán (1871-1918).",
     "fuentes": [
      {
       "titulo": "DEA Museum: frasco de heroína de Bayer (1898)",
@@ -4429,7 +4429,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: los «biones», unas vesículas que Wilhelm Reich afirmó ver al microscopio en materia en descomposición, y que para él mostraban cómo surge la vida. Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base. Entre 1934 y 1939 Reich realizó los «experimentos con biones», que publicó como «Die Bione» en Oslo en febrero de 1938 (edición inglesa en 1979, «The Bion Experiments on the Origin of Life»): examinó protozoos y otras muestras y observó vesículas azules luminosas que llamó biones, una forma de vida rudimentaria entre lo vivo y lo no vivo.",
+    "resumen": "Qué es: los «biones», unas vesículas que Wilhelm Reich afirmó ver al microscopio en materia en descomposición, y que para él mostraban cómo surge la vida. Reich hizo en Oslo, entre 1936 y 1939, experimentos sobre el origen de la vida y publicó «Los experimentos con biones» en 1938; Roger du Teil los comunicó con él a la Academia de Ciencias francesa. La ciencia no los aceptó y la teoría del orgón que salió de ellos se considera sin base. Entre 1934 y 1939 Reich realizó los «experimentos con biones», que publicó como «Die Bione» en Oslo en febrero de 1938 (edición inglesa en 1979, «The Bion Experiments on the Origin of Life»): examinó protozoos y otras muestras y observó vesículas azules luminosas que llamó biones, una forma de vida rudimentaria entre lo vivo y lo no vivo. Época y lugar: Oslo (Noruega), en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Wilhelm Reich Museum: The Bion Experiments",
@@ -5646,7 +5646,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la reforma del calendario que promulgó el papa Gregorio XIII en 1582 para corregir el desfase del calendario juliano. La bula «Inter gravissimas» de Gregorio XIII (24 de febrero de 1582) reformó el calendario juliano para corregir su desfase; el proyecto lo desarrolló el astrónomo calabrés Luigi Lilio y lo completó el jesuita Christopher Clavius. Se quitaron diez días en octubre de 1582 y lo adoptaron primero los países católicos (Italia, España, Portugal, Polonia). Las fuentes consultadas no mencionan a la Universidad de Salamanca ni a los Alba, ni describen el calendario como un engaño.",
+    "resumen": "Qué es: la reforma del calendario que promulgó el papa Gregorio XIII en 1582 para corregir el desfase del calendario juliano. La bula «Inter gravissimas» de Gregorio XIII (24 de febrero de 1582) reformó el calendario juliano para corregir su desfase; el proyecto lo desarrolló el astrónomo calabrés Luigi Lilio y lo completó el jesuita Christopher Clavius. Se quitaron diez días en octubre de 1582 y lo adoptaron primero los países católicos (Italia, España, Portugal, Polonia). Las fuentes consultadas no mencionan a la Universidad de Salamanca ni a los Alba, ni describen el calendario como un engaño. Época y lugar: Roma y Europa católica, en la Edad Moderna y la Contrarreforma (1582).",
     "fuentes": [
      {
       "titulo": "Britannica: Ten Days That Vanished",
@@ -7630,7 +7630,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: en los experimentos de cimática se hace vibrar una placa, diafragma o membrana cubierta por una capa fina de partículas, pasta o líquido; aparecen zonas de máximo y mínimo desplazamiento, con patrones que cambian según la geometría de la placa y la frecuencia. Hans Jenny (1904-1972) llamó cimática (del griego kyma, «ola») a este campo. Hans Jenny, médico y científico suizo, estudió cómo el sonido forma patrones en polvos y líquidos con un oscilador, y llamó cimática a este campo. Su obra «Kymatik» es de 1967. Los patrones se explican con la física clásica de las ondas; la lectura como «geometría sagrada» generadora de materia es del autor.",
+    "resumen": "Qué es: en los experimentos de cimática se hace vibrar una placa, diafragma o membrana cubierta por una capa fina de partículas, pasta o líquido; aparecen zonas de máximo y mínimo desplazamiento, con patrones que cambian según la geometría de la placa y la frecuencia. Hans Jenny (1904-1972) llamó cimática (del griego kyma, «ola») a este campo. Hans Jenny, médico y científico suizo, estudió cómo el sonido forma patrones en polvos y líquidos con un oscilador, y llamó cimática a este campo. Su obra «Kymatik» es de 1967. Los patrones se explican con la física clásica de las ondas; la lectura como «geometría sagrada» generadora de materia es del autor. Época y lugar: Suiza, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Cymatics (Wikipedia, resultado de búsqueda)",
@@ -7681,7 +7681,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la publicación de «De motu cordis» (1628), el tratado en que William Harvey describe cómo la sangre circula por todo el cuerpo impulsada por el corazón. William Harvey, formado en Padua con Fabricio de Aquapendente, describió la circulación completa de la sangre en «De motu cordis» (1628). Antes, Ibn al-Nafis (siglo XIII), Miguel Servet (1553) y Realdo Colombo habían descrito la circulación pulmonar, y Fabricio las válvulas venosas (1603). En los repasos históricos consultados no figura Paolo Sarpi entre los precursores.",
+    "resumen": "Qué es: la publicación de «De motu cordis» (1628), el tratado en que William Harvey describe cómo la sangre circula por todo el cuerpo impulsada por el corazón. William Harvey, formado en Padua con Fabricio de Aquapendente, describió la circulación completa de la sangre en «De motu cordis» (1628). Antes, Ibn al-Nafis (siglo XIII), Miguel Servet (1553) y Realdo Colombo habían descrito la circulación pulmonar, y Fabricio las válvulas venosas (1603). En los repasos históricos consultados no figura Paolo Sarpi entre los precursores. Época y lugar: Inglaterra, reinado de Carlos I, en la Edad Moderna (1628).",
     "fuentes": [
      {
       "titulo": "NLM: historia de la circulación de la sangre (Harvey)",
@@ -8324,7 +8324,7 @@ window.CRONO = {
    "resumen": "Colegio universitario jesuita de Worcester (Massachusetts), fundado en 1843; el primer college católico de Nueva Inglaterra.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: un colegio universitario jesuita de Worcester, en Massachusetts, fundado en 1843. El College of the Holy Cross es un colegio universitario privado de artes liberales de Worcester, Massachusetts, fundado en 1843 por Benedict Joseph Fenwick bajo los auspicios de la Compañía de Jesús. Fue el primer college católico de Nueva Inglaterra y está entre las instituciones católicas de educación superior más antiguas de Estados Unidos.",
+    "resumen": "Qué es: un colegio universitario jesuita de Worcester, en Massachusetts, fundado en 1843. El College of the Holy Cross es un colegio universitario privado de artes liberales de Worcester, Massachusetts, fundado en 1843 por Benedict Joseph Fenwick bajo los auspicios de la Compañía de Jesús. Fue el primer college católico de Nueva Inglaterra y está entre las instituciones católicas de educación superior más antiguas de Estados Unidos. Época y lugar: Worcester (Massachusetts, Estados Unidos), a mediados del siglo XIX (1843).",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): College of the Holy Cross",
@@ -9489,7 +9489,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: los congresos Solvay son una serie de conferencias científicas celebradas desde 1911, que reúnen a los mayores científicos del momento y trataron problemas abiertos de la física y de la química. Los pagó el mecenazgo del químico e industrial belga Ernest Solvay. Se celebran cada tres años. El V Congreso Solvay se celebró en Bruselas del 24 al 29 de octubre de 1927, presidido por Lorentz, sobre «Electrones y fotones». Reunió a Einstein, Bohr, Curie, Planck, Heisenberg, Schrödinger o Dirac, y se recuerda por el comienzo del debate entre Einstein y Bohr sobre la mecánica cuántica. Las fuentes no recogen que allí se discutiera ni se votara el éter: la física lo había ido dejando desde la relatividad especial (1905), aunque Dayton Miller defendía en esos años resultados a su favor que nadie logró reproducir. Contexto: el primer congreso fue del 29 de octubre al 4 de noviembre de 1911 en el Hotel Metropole de Bruselas, presidido por Hendrik Lorentz, con el tema «Radiación y cuantos». Asistieron, entre otros, Einstein, Marie Curie, Henri Poincaré, Max Planck y Ernest Rutherford.",
+    "resumen": "Qué es: los congresos Solvay son una serie de conferencias científicas celebradas desde 1911, que reúnen a los mayores científicos del momento y trataron problemas abiertos de la física y de la química. Los pagó el mecenazgo del químico e industrial belga Ernest Solvay. Se celebran cada tres años. El V Congreso Solvay se celebró en Bruselas del 24 al 29 de octubre de 1927, presidido por Lorentz, sobre «Electrones y fotones». Reunió a Einstein, Bohr, Curie, Planck, Heisenberg, Schrödinger o Dirac, y se recuerda por el comienzo del debate entre Einstein y Bohr sobre la mecánica cuántica. Las fuentes no recogen que allí se discutiera ni se votara el éter: la física lo había ido dejando desde la relatividad especial (1905), aunque Dayton Miller defendía en esos años resultados a su favor que nadie logró reproducir. Contexto: el primer congreso fue del 29 de octubre al 4 de noviembre de 1911 en el Hotel Metropole de Bruselas, presidido por Hendrik Lorentz, con el tema «Radiación y cuantos». Asistieron, entre otros, Einstein, Marie Curie, Henri Poincaré, Max Planck y Ernest Rutherford. Época y lugar: Bruselas (Bélgica), en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Solvay Conference",
@@ -11339,7 +11339,7 @@ window.CRONO = {
    "resumen": "Organismo público español de investigación, creado por ley el 24-11-1939 como heredero material de la Junta para Ampliación de Estudios.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: el Consejo Superior de Investigaciones Científicas, organismo público español de investigación creado por ley en 1939. El CSIC es un organismo público español de investigación, adscrito al Ministerio de Ciencia, Innovación y Universidades. Su ley fundacional es del 24 de noviembre de 1939 y lo hizo heredero material, no intelectual, de la Junta para Ampliación de Estudios e Investigaciones Científicas (1907-1939). Tiene 121 institutos y tres centros nacionales; con datos de 2009, generaba cerca del 20 % de la producción científica española. Su logotipo es «El árbol de la ciencia» de Ramon Llull.",
+    "resumen": "Qué es: el Consejo Superior de Investigaciones Científicas, organismo público español de investigación creado por ley en 1939. El CSIC es un organismo público español de investigación, adscrito al Ministerio de Ciencia, Innovación y Universidades. Su ley fundacional es del 24 de noviembre de 1939 y lo hizo heredero material, no intelectual, de la Junta para Ampliación de Estudios e Investigaciones Científicas (1907-1939). Tiene 121 institutos y tres centros nacionales; con datos de 2009, generaba cerca del 20 % de la producción científica española. Su logotipo es «El árbol de la ciencia» de Ramon Llull. Época y lugar: España, al final de la guerra civil y al comienzo del franquismo (1939).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Consejo Superior de Investigaciones Científicas",
@@ -11580,7 +11580,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un ciclo de ocho conferencias de Rudolf Steiner en junio de 1924 que dio origen a la agricultura biodinámica. Steiner impartió el Curso de agricultura en ocho conferencias del 7 al 16 de junio de 1924 en Koberwitz (hoy Kobierzyce, Polonia), invitado por el conde Carl von Keyserlingk, ante unos 111 asistentes. Fue su único curso sobre agricultura y de él nació la agricultura biodinámica. Las revisiones científicas concluyen que los ensayos controlados sobre los preparados biodinámicos son pocos y de calidad desigual, sin evidencia de que mejoren suelo o cultivo respecto a la agricultura orgánica.",
+    "resumen": "Qué es: un ciclo de ocho conferencias de Rudolf Steiner en junio de 1924 que dio origen a la agricultura biodinámica. Steiner impartió el Curso de agricultura en ocho conferencias del 7 al 16 de junio de 1924 en Koberwitz (hoy Kobierzyce, Polonia), invitado por el conde Carl von Keyserlingk, ante unos 111 asistentes. Fue su único curso sobre agricultura y de él nació la agricultura biodinámica. Las revisiones científicas concluyen que los ensayos controlados sobre los preparados biodinámicos son pocos y de calidad desigual, sin evidencia de que mejoren suelo o cultivo respecto a la agricultura orgánica. Época y lugar: Koberwitz (hoy Kobierzyce, Polonia, entonces Alemania), en la República de Weimar (1919-1933).",
     "fuentes": [
      {
       "titulo": "J. Paull (2011): Biodynamic Agriculture: the journey from Koberwitz",
@@ -11727,7 +11727,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la generación espontánea es una hipótesis obsoleta sobre el origen de la vida, según la cual ciertas formas de vida, animales y vegetales, surgían de forma espontánea a partir de materia orgánica, inorgánica o ambas. Nunca se obtuvo por método científico: se llegó a esa conclusión por evidencia visual. Fue una creencia muy arraigada desde la Antigüedad; la describió Aristóteles y la admitieron pensadores de los siglos XVI y XVII. En los años 1870 Henry Charlton Bastian defendió la generación espontánea; Tyndall, Huxley y Pasteur se le opusieron. El hallazgo de las esporas resistentes al calor (Tyndall, 1877) explicó parte de sus resultados. Algunos historiadores señalan que el desenlace también dependió del poder del grupo de Huxley y Tyndall en la Royal Society.",
+    "resumen": "Qué es: la generación espontánea es una hipótesis obsoleta sobre el origen de la vida, según la cual ciertas formas de vida, animales y vegetales, surgían de forma espontánea a partir de materia orgánica, inorgánica o ambas. Nunca se obtuvo por método científico: se llegó a esa conclusión por evidencia visual. Fue una creencia muy arraigada desde la Antigüedad; la describió Aristóteles y la admitieron pensadores de los siglos XVI y XVII. En los años 1870 Henry Charlton Bastian defendió la generación espontánea; Tyndall, Huxley y Pasteur se le opusieron. El hallazgo de las esporas resistentes al calor (Tyndall, 1877) explicó parte de sus resultados. Algunos historiadores señalan que el desenlace también dependió del poder del grupo de Huxley y Tyndall en la Royal Society. Época y lugar: Reino Unido, en la época victoriana (1837-1901).",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Bastian, Henry Charlton",
@@ -12957,7 +12957,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Manual diagnóstico y estadístico de los trastornos mentales (DSM) lo edita la Asociación Estadounidense de Psiquiatría (APA). Es un sistema de clasificación de los trastornos mentales que da descripciones de las categorías diagnósticas para que clínicos e investigadores de las ciencias de la salud puedan diagnosticar, estudiar e intercambiar información sobre ellos. El DSM es el manual de la Asociación Estadounidense de Psiquiatría (desde 1952) que define los trastornos mentales y sus criterios diagnósticos. Estudios han documentado vínculos económicos de sus panelistas con la industria farmacéutica: en el DSM-IV, todos los miembros de dos paneles (psicóticos y del estado de ánimo); en el DSM-5-TR, cerca del 60 % de 92 médicos recibió pagos de la industria. Ninguna de las fuentes consultadas dice que el manual indique qué fármacos usar.",
+    "resumen": "Qué es: el Manual diagnóstico y estadístico de los trastornos mentales (DSM) lo edita la Asociación Estadounidense de Psiquiatría (APA). Es un sistema de clasificación de los trastornos mentales que da descripciones de las categorías diagnósticas para que clínicos e investigadores de las ciencias de la salud puedan diagnosticar, estudiar e intercambiar información sobre ellos. El DSM es el manual de la Asociación Estadounidense de Psiquiatría (desde 1952) que define los trastornos mentales y sus criterios diagnósticos. Estudios han documentado vínculos económicos de sus panelistas con la industria farmacéutica: en el DSM-IV, todos los miembros de dos paneles (psicóticos y del estado de ánimo); en el DSM-5-TR, cerca del 60 % de 92 médicos recibió pagos de la industria. Ninguna de las fuentes consultadas dice que el manual indique qué fármacos usar. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Cosgrove et al. (2006): Financial ties between DSM-IV panel members and the pharmaceutical industry",
@@ -13322,7 +13322,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: dos objetos metálicos muy próximos en el vacío se atraen con una fuerza medible que no es gravitatoria. La teoría cuántica de campos la explica porque entre las placas solo caben ciertas vibraciones del vacío cuántico y fuera caben más; ese desequilibrio crea una presión que las junta. Fuerza de atracción entre dos placas metálicas sin carga, muy próximas en el vacío. La predijo Hendrik Casimir en 1948; Lamoreaux la midió en 1997 con un error de menos del 5 %. La física la explica con la energía del punto cero del campo electromagnético cuantizado, sin éter. Contexto: según Wikipedia, la presencia de metales conductores cambia el valor esperado de la energía del vacío del campo electromagnético, y eso se manifiesta como fuerza entre ellos. La fuerza cae rápidamente con la distancia y solo se mide cuando los objetos están extremadamente próximos; por debajo del micrómetro llega a ser la fuerza dominante entre dos conductores neutros.",
+    "resumen": "Qué es: dos objetos metálicos muy próximos en el vacío se atraen con una fuerza medible que no es gravitatoria. La teoría cuántica de campos la explica porque entre las placas solo caben ciertas vibraciones del vacío cuántico y fuera caben más; ese desequilibrio crea una presión que las junta. Fuerza de atracción entre dos placas metálicas sin carga, muy próximas en el vacío. La predijo Hendrik Casimir en 1948; Lamoreaux la midió en 1997 con un error de menos del 5 %. La física la explica con la energía del punto cero del campo electromagnético cuantizado, sin éter. Contexto: según Wikipedia, la presencia de metales conductores cambia el valor esperado de la energía del vacío del campo electromagnético, y eso se manifiesta como fuerza entre ellos. La fuerza cae rápidamente con la distancia y solo se mide cuando los objetos están extremadamente próximos; por debajo del micrómetro llega a ser la fuerza dominante entre dos conductores neutros. Época y lugar: Países Bajos, en la posguerra (1948).",
     "fuentes": [
      {
       "titulo": "Physics World: Physicists solve Casimir conundrum",
@@ -13428,7 +13428,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una conferencia de Einstein en Leiden (1920) sobre si la relatividad general deja sitio a algún tipo de éter. En su discurso de Leiden «El éter y la teoría de la relatividad» (1920), Einstein dijo que, según la relatividad general, el espacio tiene cualidades físicas y que en ese sentido existe un éter, sin el cual el espacio es impensable. Añadió enseguida que ese éter no puede pensarse como un medio ponderable hecho de partes ni se le puede aplicar la idea de movimiento: no recuperó el éter luminífero del siglo XIX. Los historiadores de la física lo leen como una manera de hablar de las propiedades del espacio-tiempo.",
+    "resumen": "Qué es: una conferencia de Einstein en Leiden (1920) sobre si la relatividad general deja sitio a algún tipo de éter. En su discurso de Leiden «El éter y la teoría de la relatividad» (1920), Einstein dijo que, según la relatividad general, el espacio tiene cualidades físicas y que en ese sentido existe un éter, sin el cual el espacio es impensable. Añadió enseguida que ese éter no puede pensarse como un medio ponderable hecho de partes ni se le puede aplicar la idea de movimiento: no recuperó el éter luminífero del siglo XIX. Los historiadores de la física lo leen como una manera de hablar de las propiedades del espacio-tiempo. Época y lugar: Leiden (Países Bajos), en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
@@ -13803,7 +13803,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una patente de Nikola Tesla (1901) para un aparato que carga un condensador con la radiación del Sol, a la que él llamaba «energía radiante». El 5-11-1901 Tesla obtuvo la patente US 685.957, «Aparato para la utilización de energía radiante»: una placa expuesta a la radiación del Sol carga un condensador, y Tesla lo explica con partículas de materia electrizadas que emite el Sol. No consta una verificación experimental de que sea una fuente de «energía libre» o de «electricidad fría».",
+    "resumen": "Qué es: una patente de Nikola Tesla (1901) para un aparato que carga un condensador con la radiación del Sol, a la que él llamaba «energía radiante». El 5-11-1901 Tesla obtuvo la patente US 685.957, «Aparato para la utilización de energía radiante»: una placa expuesta a la radiación del Sol carga un condensador, y Tesla lo explica con partículas de materia electrizadas que emite el Sol. No consta una verificación experimental de que sea una fuente de «energía libre» o de «electricidad fría». Época y lugar: Estados Unidos, en la segunda revolución industrial (c. 1870-1914).",
     "fuentes": [
      {
       "titulo": "Patente US 685.957 (Google Patents)",
@@ -14797,7 +14797,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: las estructuras disipativas son estructuras coherentes y autoorganizadas que aparecen en sistemas alejados del equilibrio. El concepto es de Ilya Prigogine, que recibió el Nobel de Química por extender la termodinámica a esos sistemas, que solo pueden existir en conjunción con su entorno. Muestran que la disipación de energía y materia, que suele asociarse a pérdida y desorden, puede ser fuente de orden. Concepto de Ilya Prigogine, Nobel de Química en 1977 «por sus contribuciones a la termodinámica del no equilibrio, en particular la teoría de las estructuras disipativas»: en sistemas abiertos lejos del equilibrio puede surgir orden de forma espontánea. Su aplicación a la psique y al trauma es del autor, no de Prigogine.",
+    "resumen": "Qué es: las estructuras disipativas son estructuras coherentes y autoorganizadas que aparecen en sistemas alejados del equilibrio. El concepto es de Ilya Prigogine, que recibió el Nobel de Química por extender la termodinámica a esos sistemas, que solo pueden existir en conjunción con su entorno. Muestran que la disipación de energía y materia, que suele asociarse a pérdida y desorden, puede ser fuente de orden. Concepto de Ilya Prigogine, Nobel de Química en 1977 «por sus contribuciones a la termodinámica del no equilibrio, en particular la teoría de las estructuras disipativas»: en sistemas abiertos lejos del equilibrio puede surgir orden de forma espontánea. Su aplicación a la psique y al trauma es del autor, no de Prigogine. Época y lugar: Bruselas (Bélgica), en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Nobel Prize: Ilya Prigogine, Chemistry 1977",
@@ -14947,7 +14947,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una simulación en mesa de una pandemia ficticia, celebrada el 18 de octubre de 2019, para ensayar la respuesta de gobiernos y empresas. El Evento 201 fue un ejercicio de mesa de 3,5 horas celebrado el 18-10-2019 en Nueva York por el Centro de Seguridad Sanitaria de Johns Hopkins con el Foro Económico Mundial y la Fundación Gates; simulaba un coronavirus zoonótico ficticio con 65 millones de muertes a los 18 meses. Johns Hopkins aclaró en 2020 que no era una predicción y que el virus del ejercicio no se parecía al nuevo coronavirus.",
+    "resumen": "Qué es: una simulación en mesa de una pandemia ficticia, celebrada el 18 de octubre de 2019, para ensayar la respuesta de gobiernos y empresas. El Evento 201 fue un ejercicio de mesa de 3,5 horas celebrado el 18-10-2019 en Nueva York por el Centro de Seguridad Sanitaria de Johns Hopkins con el Foro Económico Mundial y la Fundación Gates; simulaba un coronavirus zoonótico ficticio con 65 millones de muertes a los 18 meses. Johns Hopkins aclaró en 2020 que no era una predicción y que el virus del ejercicio no se parecía al nuevo coronavirus. Época y lugar: Nueva York (Estados Unidos), pocos meses antes de la pandemia de COVID-19.",
     "fuentes": [
      {
       "titulo": "Johns Hopkins CHS: Event 201",
@@ -15182,7 +15182,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una serie de experimentos de Alain Aspect (años 80) con pares de fotones entrelazados, que ponen a prueba si lo que mide uno depende de lo que se mida en el otro (desigualdades de Bell). Alain Aspect cerró una laguna importante de los experimentos sobre las desigualdades de Bell (en 1982) y compartió el Nobel de Física 2022 con Clauser y Zeilinger «por experimentos con fotones entrelazados que establecen la violación de las desigualdades de Bell». Los resultados descartan teorías de variables ocultas locales, pero la física aceptada no interpreta el entrelazamiento como transmisión de información más rápida que la luz.",
+    "resumen": "Qué es: una serie de experimentos de Alain Aspect (años 80) con pares de fotones entrelazados, que ponen a prueba si lo que mide uno depende de lo que se mida en el otro (desigualdades de Bell). Alain Aspect cerró una laguna importante de los experimentos sobre las desigualdades de Bell (en 1982) y compartió el Nobel de Física 2022 con Clauser y Zeilinger «por experimentos con fotones entrelazados que establecen la violación de las desigualdades de Bell». Los resultados descartan teorías de variables ocultas locales, pero la física aceptada no interpreta el entrelazamiento como transmisión de información más rápida que la luz. Época y lugar: Francia, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Nobel Prize: comunicado de Física 2022",
@@ -15356,7 +15356,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: fue un intento de medir el movimiento de la Tierra respecto al éter, el supuesto medio portador de la luz. Lo realizaron entre abril y julio de 1887 los estadounidenses Albert A. Michelson (Nobel de Física 1907) y Edward Morley, en la actual Universidad Case de la Reserva Occidental (Cleveland), y se publicó en noviembre. Su resultado fue luego la base experimental de la teoría de la relatividad. En 1887 Michelson y Morley intentaron medir la velocidad de la Tierra respecto al éter comparando haces de luz en distintas direcciones: esperaban un desplazamiento de unas 0,4 franjas y hallaron 0,01, un resultado nulo. No cerró el debate de golpe: Dayton Miller anunció en los años 20 resultados positivos, que otros no pudieron reproducir y que un análisis posterior atribuyó a cambios de temperatura. La relatividad especial (1905) explicó el resultado sin necesidad de éter. La velocidad de la luz, unos 300.000 km/s, ya se había medido antes por otros métodos (Fizeau en 1849, Foucault en 1862 y el propio Michelson en 1879). Contexto: el experimento comparaba la velocidad de la luz en dos direcciones perpendiculares para detectar el «viento de éter». No encontraron diferencia significativa, y el resultado se considera la primera evidencia sólida contra las teorías del éter. Einstein escribió que, sin ese resultado embarazoso, nadie habría visto la relatividad como una salida.",
+    "resumen": "Qué es: fue un intento de medir el movimiento de la Tierra respecto al éter, el supuesto medio portador de la luz. Lo realizaron entre abril y julio de 1887 los estadounidenses Albert A. Michelson (Nobel de Física 1907) y Edward Morley, en la actual Universidad Case de la Reserva Occidental (Cleveland), y se publicó en noviembre. Su resultado fue luego la base experimental de la teoría de la relatividad. En 1887 Michelson y Morley intentaron medir la velocidad de la Tierra respecto al éter comparando haces de luz en distintas direcciones: esperaban un desplazamiento de unas 0,4 franjas y hallaron 0,01, un resultado nulo. No cerró el debate de golpe: Dayton Miller anunció en los años 20 resultados positivos, que otros no pudieron reproducir y que un análisis posterior atribuyó a cambios de temperatura. La relatividad especial (1905) explicó el resultado sin necesidad de éter. La velocidad de la luz, unos 300.000 km/s, ya se había medido antes por otros métodos (Fizeau en 1849, Foucault en 1862 y el propio Michelson en 1879). Contexto: el experimento comparaba la velocidad de la luz en dos direcciones perpendiculares para detectar el «viento de éter». No encontraron diferencia significativa, y el resultado se considera la primera evidencia sólida contra las teorías del éter. Einstein escribió que, sin ese resultado embarazoso, nadie habría visto la relatividad como una salida. Época y lugar: Cleveland (Estados Unidos), a finales del siglo XIX.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Luminiferous aether",
@@ -15425,7 +15425,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una larga serie de mediciones con un interferómetro, hechas por Dayton Miller en los años 20, para detectar el movimiento de la Tierra respecto al éter. Dayton Miller realizó en 1925 y 1926, sobre todo en el observatorio de Mount Wilson (California), millones de lecturas con un interferómetro muy sensible y creyó medir una deriva del éter de unos 8-10 km/s, dependiente del tiempo sideral. Sus resultados no se han reproducido y el análisis de Shankland (1955) los atribuyó a errores sistemáticos, principalmente gradientes de temperatura. Hoy se consideran compatibles con un resultado nulo, y la relatividad especial no necesita el éter.",
+    "resumen": "Qué es: una larga serie de mediciones con un interferómetro, hechas por Dayton Miller en los años 20, para detectar el movimiento de la Tierra respecto al éter. Dayton Miller realizó en 1925 y 1926, sobre todo en el observatorio de Mount Wilson (California), millones de lecturas con un interferómetro muy sensible y creyó medir una deriva del éter de unos 8-10 km/s, dependiente del tiempo sideral. Sus resultados no se han reproducido y el análisis de Shankland (1955) los atribuyó a errores sistemáticos, principalmente gradientes de temperatura. Hoy se consideran compatibles con un resultado nulo, y la relatividad especial no necesita el éter. Época y lugar: Observatorio de Mount Wilson (California, Estados Unidos), en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Dayton Miller",
@@ -15494,7 +15494,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un experimento de psicología de 1920 en el que se condicionó el miedo a una rata blanca en un bebé al unirla a un ruido fuerte. John B. Watson y su alumna Rosalie Rayner lo realizaron en la Universidad Johns Hopkins y lo publicaron en el Journal of Experimental Psychology en febrero de 1920. Hoy se critica por tener un solo sujeto y ningún control, porque el informe muestra poca evidencia de una fobia real y de que el miedo se generalizara, y por su falta de ética. No se ha replicado.",
+    "resumen": "Qué es: un experimento de psicología de 1920 en el que se condicionó el miedo a una rata blanca en un bebé al unirla a un ruido fuerte. John B. Watson y su alumna Rosalie Rayner lo realizaron en la Universidad Johns Hopkins y lo publicaron en el Journal of Experimental Psychology en febrero de 1920. Hoy se critica por tener un solo sujeto y ningún control, porque el informe muestra poca evidencia de una fobia real y de que el miedo se generalizara, y por su falta de ética. No se ha replicado. Época y lugar: Universidad Johns Hopkins (Baltimore, Estados Unidos), en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Little Albert experiment",
@@ -16375,7 +16375,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: las figuras de Chladni son los patrones que forma una sustancia granulada sobre una superficie plana que vibra en un modo propio. Cuando una onda mecánica se propaga por un objeto extendido, las condiciones de contorno pueden inducir la resonancia de algunos componentes en frecuencia de la perturbación, y el granulado dibuja el resultado. Ernst Chladni publicó sus figuras en 1787 (Entdeckungen über die Theorie des Klanges), con un arco de violín sobre una placa cubierta de arena. Robert Hooke había observado patrones parecidos con harina el 8-7-1680 y los presentó a la Royal Society; Galileo, según algunas fuentes, ya había visto patrones en una placa de latón. La lectura de las figuras como «el tiempo dando forma al éter» es del autor.",
+    "resumen": "Qué es: las figuras de Chladni son los patrones que forma una sustancia granulada sobre una superficie plana que vibra en un modo propio. Cuando una onda mecánica se propaga por un objeto extendido, las condiciones de contorno pueden inducir la resonancia de algunos componentes en frecuencia de la perturbación, y el granulado dibuja el resultado. Ernst Chladni publicó sus figuras en 1787 (Entdeckungen über die Theorie des Klanges), con un arco de violín sobre una placa cubierta de arena. Robert Hooke había observado patrones parecidos con harina el 8-7-1680 y los presentó a la Royal Society; Galileo, según algunas fuentes, ya había visto patrones en una placa de latón. La lectura de las figuras como «el tiempo dando forma al éter» es del autor. Época y lugar: Alemania, en la Ilustración (1787).",
     "fuentes": [
      {
       "titulo": "Ernst Chladni (Wikipedia, resultado de búsqueda)",
@@ -16659,7 +16659,7 @@ window.CRONO = {
    "resumen": "El bibliotecario de Dresde Ernst Förstemann descifró entre 1880 y 1900 la sección de calendario del Códice de Dresde y los numerales mayas.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: el trabajo del bibliotecario Ernst Förstemann, entre 1880 y 1900, para descifrar la parte de calendario del Códice de Dresde y el sistema de números mayas. Entre 1880 y 1900, el bibliotecario de Dresde Ernst Wilhelm Förstemann logró descifrar la sección del calendario del Códice de Dresde, incluidos los numerales mayas que usa. Esos números forman un sistema vigesimal (de base 20) con tres símbolos: el cero (en forma de concha), el uno (un punto) y el cinco.",
+    "resumen": "Qué es: el trabajo del bibliotecario Ernst Förstemann, entre 1880 y 1900, para descifrar la parte de calendario del Códice de Dresde y el sistema de números mayas. Entre 1880 y 1900, el bibliotecario de Dresde Ernst Wilhelm Förstemann logró descifrar la sección del calendario del Códice de Dresde, incluidos los numerales mayas que usa. Esos números forman un sistema vigesimal (de base 20) con tres símbolos: el cero (en forma de concha), el uno (un punto) y el cinco. Época y lugar: Dresde (Alemania), en el Imperio alemán (1871-1918).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Códice de Dresde",
@@ -17337,7 +17337,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una universidad católica de los jesuitas en Washington, fundada en 1789. Universidad católica y jesuita de Washington D. C., fundada en 1789 por John Carroll; es la institución jesuita de educación superior más antigua de Estados Unidos. John J. DeGioia fue su 48.º presidente entre 2001 y 2024, y Joel Hellman dirige la Escuela de Servicio Exterior Edmund A. Walsh desde 2015. No hay constancia de que la universidad sea sede de los Caballeros de Malta ni de que su presidente pertenezca a esa orden.",
+    "resumen": "Qué es: una universidad católica de los jesuitas en Washington, fundada en 1789. Universidad católica y jesuita de Washington D. C., fundada en 1789 por John Carroll; es la institución jesuita de educación superior más antigua de Estados Unidos. John J. DeGioia fue su 48.º presidente entre 2001 y 2024, y Joel Hellman dirige la Escuela de Servicio Exterior Edmund A. Walsh desde 2015. No hay constancia de que la universidad sea sede de los Caballeros de Malta ni de que su presidente pertenezca a esa orden. Época y lugar: Georgetown (Maryland), hoy parte de Washington D. C., en los primeros años de Estados Unidos (1789).",
     "fuentes": [
      {
       "titulo": "Portal de Archivos Españoles: Georgetown University",
@@ -19587,7 +19587,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: Georges-Louis Leclerc, conde de Buffon (1707-1788), fue un naturalista, botánico, biólogo, cosmólogo, matemático y escritor francés. En 1749 se publicó el primer volumen de su «Histoire naturelle», en 44 volúmenes (los ocho últimos salieron entre 1789 y 1804, tras su muerte), con la que pretendió compendiar todo el saber humano sobre el mundo natural. Influyó en la enciclopedia de Diderot. La «Historia natural, general y particular» empezó a publicarse en 1749. Buffon sacó 36 volúmenes hasta 1789 (murió en 1788) y Lacépède añadió 8 más hasta 1804: 44 en total. La fecha que da el autor (hacia 1750) es la del comienzo.",
+    "resumen": "Qué es: Georges-Louis Leclerc, conde de Buffon (1707-1788), fue un naturalista, botánico, biólogo, cosmólogo, matemático y escritor francés. En 1749 se publicó el primer volumen de su «Histoire naturelle», en 44 volúmenes (los ocho últimos salieron entre 1789 y 1804, tras su muerte), con la que pretendió compendiar todo el saber humano sobre el mundo natural. Influyó en la enciclopedia de Diderot. La «Historia natural, general y particular» empezó a publicarse en 1749. Buffon sacó 36 volúmenes hasta 1789 (murió en 1788) y Lacépède añadió 8 más hasta 1804: 44 en total. La fecha que da el autor (hacia 1750) es la del comienzo. Época y lugar: Francia, en la Ilustración (1749).",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Comte de Buffon",
@@ -19644,7 +19644,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: subespecie de Homo erectus propia de China, de entre 780.000 y 230.000 años (Pleistoceno medio). Sus restos aparecieron en una cueva de Zhoukoudian, al suroeste de Pekín, entre 1921 y 1937, y en su día se consideró el primer «eslabón perdido». Los restos se perdieron en 1941, durante la guerra sino-japonesa, y hoy se conservan réplicas, fotografías y descripciones. El hombre de Pekín (Homo erectus pekinensis) es un hallazgo auténtico de Zhoukoudian: el primer cráneo se halló en 1929 y Teilhard de Chardin participó en las excavaciones. Los fósiles originales se perdieron en 1941-45; se conservan moldes.",
+    "resumen": "Qué es: subespecie de Homo erectus propia de China, de entre 780.000 y 230.000 años (Pleistoceno medio). Sus restos aparecieron en una cueva de Zhoukoudian, al suroeste de Pekín, entre 1921 y 1937, y en su día se consideró el primer «eslabón perdido». Los restos se perdieron en 1941, durante la guerra sino-japonesa, y hoy se conservan réplicas, fotografías y descripciones. El hombre de Pekín (Homo erectus pekinensis) es un hallazgo auténtico de Zhoukoudian: el primer cráneo se halló en 1929 y Teilhard de Chardin participó en las excavaciones. Los fósiles originales se perdieron en 1941-45; se conservan moldes. Época y lugar: Zhoukoudian (China), en la República de China (1912-1949).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Peking Man",
@@ -19731,7 +19731,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: sistema de medicina alternativa creado en 1796 por Samuel Hahnemann, basado en que una sustancia que causa los síntomas de una enfermedad en personas sanas curaría lo similar en personas enfermas. Los preparados se hacen por diluciones sucesivas en alcohol o agua. Wikipedia la considera una pseudociencia: los estudios a gran escala no la hallan más eficaz que un placebo. Samuel Hahnemann (1755–1843) expuso sus principios en 1796. En 2015 el NHMRC de Australia revisó 57 revisiones sistemáticas (176 estudios) y concluyó que no hay ninguna enfermedad para la que haya pruebas fiables de que la homeopatía funcione; lo mismo dijo la Cámara de los Comunes británica en 2010. Contexto: los homeópatas afirman que Hipócrates pudo originarla hacia el 400 a. C. al recetar una dosis pequeña de mandrágora contra la manía, y en el siglo XVI Paracelso declaró que pequeñas dosis de lo que enferma al hombre también lo curan. Hahnemann le dio nombre y amplió sus principios a finales del siglo XVIII, en una época en que la medicina dominante, llamada «heroica», usaba sangrías, purgas y mezclas complejas como la triaca veneciana, de 64 sustancias, y a menudo empeoraba los síntomas.",
+    "resumen": "Qué es: sistema de medicina alternativa creado en 1796 por Samuel Hahnemann, basado en que una sustancia que causa los síntomas de una enfermedad en personas sanas curaría lo similar en personas enfermas. Los preparados se hacen por diluciones sucesivas en alcohol o agua. Wikipedia la considera una pseudociencia: los estudios a gran escala no la hallan más eficaz que un placebo. Samuel Hahnemann (1755–1843) expuso sus principios en 1796. En 2015 el NHMRC de Australia revisó 57 revisiones sistemáticas (176 estudios) y concluyó que no hay ninguna enfermedad para la que haya pruebas fiables de que la homeopatía funcione; lo mismo dijo la Cámara de los Comunes británica en 2010. Contexto: los homeópatas afirman que Hipócrates pudo originarla hacia el 400 a. C. al recetar una dosis pequeña de mandrágora contra la manía, y en el siglo XVI Paracelso declaró que pequeñas dosis de lo que enferma al hombre también lo curan. Hahnemann le dio nombre y amplió sus principios a finales del siglo XVIII, en una época en que la medicina dominante, llamada «heroica», usaba sangrías, purgas y mezclas complejas como la triaca veneciana, de 64 sustancias, y a menudo empeoraba los síntomas. Época y lugar: Alemania, en la Ilustración tardía (1796).",
     "fuentes": [
      {
       "titulo": "NHMRC: Evidence on the effectiveness of homeopathy (2015)",
@@ -19788,7 +19788,7 @@ window.CRONO = {
    "resumen": "Programa marco de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: el programa de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros. Horizonte 2020 fue el mayor programa de investigación e innovación de la Unión Europea, con un presupuesto de casi 80.000 millones de euros para 2014-2020 y el objetivo de asegurar la competitividad global de Europa. Precede a Horizonte Europa (2021-2027).",
+    "resumen": "Qué es: el programa de investigación e innovación de la Unión Europea para 2014-2020, con casi 80.000 millones de euros. Horizonte 2020 fue el mayor programa de investigación e innovación de la Unión Europea, con un presupuesto de casi 80.000 millones de euros para 2014-2020 y el objetivo de asegurar la competitividad global de Europa. Precede a Horizonte Europa (2021-2027). Época y lugar: Unión Europea (2014-2020).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Horizonte 2020",
@@ -21033,7 +21033,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Instituto Tavistock de Relaciones Humanas (TIHR) es una organización británica sin fines de lucro que aplica las ciencias sociales a cuestiones y problemas contemporáneos. Se inició en 1946 a partir de la Clínica Tavistock y se constituyó como entidad separada en septiembre de 1947. Edita la revista «Human Relations» y tiene su sede en Shoreditch, Londres. La Clínica Tavistock nació en 1920 y el Tavistock Institute of Human Relations en 1947. En la guerra, su director John Rawlings Rees fue psiquiatra consultor del ejército británico y su equipo creó los métodos de selección de oficiales (War Office Selection Boards, 1942); la propia clínica perdió sus edificios en los bombardeos de Londres. Su historia no recoge estudios del «punto de quiebra» de la población durante el Blitz. Barrio Sésamo (Sesame Street) lo creó en 1969 el Children's Television Workshop de EE. UU.; no consta ningún papel del Tavistock.",
+    "resumen": "Qué es: el Instituto Tavistock de Relaciones Humanas (TIHR) es una organización británica sin fines de lucro que aplica las ciencias sociales a cuestiones y problemas contemporáneos. Se inició en 1946 a partir de la Clínica Tavistock y se constituyó como entidad separada en septiembre de 1947. Edita la revista «Human Relations» y tiene su sede en Shoreditch, Londres. La Clínica Tavistock nació en 1920 y el Tavistock Institute of Human Relations en 1947. En la guerra, su director John Rawlings Rees fue psiquiatra consultor del ejército británico y su equipo creó los métodos de selección de oficiales (War Office Selection Boards, 1942); la propia clínica perdió sus edificios en los bombardeos de Londres. Su historia no recoge estudios del «punto de quiebra» de la población durante el Blitz. Barrio Sésamo (Sesame Street) lo creó en 1969 el Children's Television Workshop de EE. UU.; no consta ningún papel del Tavistock. Época y lugar: Londres (Reino Unido), en la posguerra (1947).",
     "fuentes": [
      {
       "titulo": "Tavistock and Portman: nuestra historia",
@@ -21392,7 +21392,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un colegio jesuita de Roma, fundado en 1873. El Instituto Massimiliano Massimo es un colegio jesuita de Roma fundado en 1873 y llamado así por el príncipe Massimiliano Massimo, que cedió el terreno. Por sus aulas pasaron alumnos como Mario Draghi. Como centro educativo de la Compañía de Jesús no tiene función política, y no consta que la familia Massimo lo dirija ni que haya dirigido una «facción» de la orden.",
+    "resumen": "Qué es: un colegio jesuita de Roma, fundado en 1873. El Instituto Massimiliano Massimo es un colegio jesuita de Roma fundado en 1873 y llamado así por el príncipe Massimiliano Massimo, que cedió el terreno. Por sus aulas pasaron alumnos como Mario Draghi. Como centro educativo de la Compañía de Jesús no tiene función política, y no consta que la familia Massimo lo dirija ni que haya dirigido una «facción» de la orden. Época y lugar: Roma (Italia), en los primeros años del Reino de Italia (1873).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Istituto Massimiliano Massimo",
@@ -22423,7 +22423,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una observación del astrónomo Nikolái Kozyrev, el 3 de noviembre de 1958, del cráter Alphonsus, donde creyó ver gas saliendo del interior de la Luna. El 3-11-1958 Kozyrev observó el cráter lunar Alphonsus y registró en su espectro bandas de carbono que interpretó como una emisión de gas del interior lunar. Es una observación «discutida»: un informe de la NASA la calificó de poco convincente, y las misiones lunares no han hallado pruebas. No consta como un «descubrimiento» de actividad volcánica admitido.",
+    "resumen": "Qué es: una observación del astrónomo Nikolái Kozyrev, el 3 de noviembre de 1958, del cráter Alphonsus, donde creyó ver gas saliendo del interior de la Luna. El 3-11-1958 Kozyrev observó el cráter lunar Alphonsus y registró en su espectro bandas de carbono que interpretó como una emisión de gas del interior lunar. Es una observación «discutida»: un informe de la NASA la calificó de poco convincente, y las misiones lunares no han hallado pruebas. No consta como un «descubrimiento» de actividad volcánica admitido. Época y lugar: Unión Soviética, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Britannica: Nikolay Aleksandrovich Kozyrev",
@@ -22885,7 +22885,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el principio, formulado por Lavoisier en 1789, de que en una reacción química la masa total no cambia: lo que se gasta en un lado aparece en otro. Antoine Lavoisier (1743–1794) formuló en su «Tratado elemental de química» (1789) la conservación de la masa en las reacciones químicas, que desbancó la teoría del flogisto; la ley vale también para los seres vivos, cuya respiración Lavoisier describió como combustión lenta.",
+    "resumen": "Qué es: el principio, formulado por Lavoisier en 1789, de que en una reacción química la masa total no cambia: lo que se gasta en un lado aparece en otro. Antoine Lavoisier (1743–1794) formuló en su «Tratado elemental de química» (1789) la conservación de la masa en las reacciones químicas, que desbancó la teoría del flogisto; la ley vale también para los seres vivos, cuya respiración Lavoisier describió como combustión lenta. Época y lugar: Francia, en la Ilustración tardía y a las puertas de la Revolución Francesa (1789).",
     "fuentes": [
      {
       "titulo": "New World Encyclopedia: Antoine Lavoisier",
@@ -26544,7 +26544,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la National Geographic Society es una de las organizaciones internacionales más grandes del mundo en educación y ciencia. Nació para avanzar en el conocimiento de la geografía y del mundo para el público general; sus intereses incluyen hoy la geografía, la arqueología, las ciencias naturales, el estudio de las culturas, la historia y la conservación del medio ambiente y del patrimonio histórico. La National Geographic Society nació en Washington el 13 de enero de 1888, cuando 33 exploradores y científicos se reunieron en el Cosmos Club para fundar una sociedad que aumentara y difundiera el saber geográfico. Su revista apareció en octubre de ese año. Hoy sus medios los publica National Geographic Partners, empresa conjunta con Disney. Sobre el efecto de sus documentales en la idea de la naturaleza como competencia no hay una versión oficial: es una interpretación del autor. Sin base hallada para que los Rothschild controlaran la revista. Contexto: la sociedad se fundó en Estados Unidos el 27 de enero de 1888, por 33 hombres interesados en incrementar y difundir el conocimiento geográfico. Su primer presidente fue Gardiner Greene Hubbard, y le sucedió en 1898 su yerno Alexander Graham Bell. En septiembre de 2015 se anunció la venta del 73 % a 21st Century Fox, que dio lugar a National Geographic Partners, ya con ánimo de lucro; sus canales de televisión los controla hoy Walt Disney Television.",
+    "resumen": "Qué es: la National Geographic Society es una de las organizaciones internacionales más grandes del mundo en educación y ciencia. Nació para avanzar en el conocimiento de la geografía y del mundo para el público general; sus intereses incluyen hoy la geografía, la arqueología, las ciencias naturales, el estudio de las culturas, la historia y la conservación del medio ambiente y del patrimonio histórico. La National Geographic Society nació en Washington el 13 de enero de 1888, cuando 33 exploradores y científicos se reunieron en el Cosmos Club para fundar una sociedad que aumentara y difundiera el saber geográfico. Su revista apareció en octubre de ese año. Hoy sus medios los publica National Geographic Partners, empresa conjunta con Disney. Sobre el efecto de sus documentales en la idea de la naturaleza como competencia no hay una versión oficial: es una interpretación del autor. Sin base hallada para que los Rothschild controlaran la revista. Contexto: la sociedad se fundó en Estados Unidos el 27 de enero de 1888, por 33 hombres interesados en incrementar y difundir el conocimiento geográfico. Su primer presidente fue Gardiner Greene Hubbard, y le sucedió en 1898 su yerno Alexander Graham Bell. En septiembre de 2015 se anunció la venta del 73 % a 21st Century Fox, que dio lugar a National Geographic Partners, ya con ánimo de lucro; sus canales de televisión los controla hoy Walt Disney Television. Época y lugar: Washington D. C. (Estados Unidos), en la Edad Dorada (1888).",
     "fuentes": [
      {
       "titulo": "Wikipedia: National Geographic Society",
@@ -30551,7 +30551,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la patente estadounidense 787.412 de Nikola Tesla (1905), que describe cómo transmitir energía eléctrica a través de la Tierra. La patente estadounidense 787.412, «Art of transmitting electrical energy through the natural mediums», fue solicitada por Nikola Tesla el 16 de mayo de 1900 y concedida el 18 de abril de 1905. Describe la producción de ondas estacionarias en la Tierra y menciona una velocidad media de propagación de unos 471.240 km/s (aproximadamente 1,57 veces la velocidad de la luz), un valor teórico del propio Tesla, no una medida experimental. La patente no demuestra ondas electromagnéticas longitudinales ni transmisión de energía sin pérdidas.",
+    "resumen": "Qué es: la patente estadounidense 787.412 de Nikola Tesla (1905), que describe cómo transmitir energía eléctrica a través de la Tierra. La patente estadounidense 787.412, «Art of transmitting electrical energy through the natural mediums», fue solicitada por Nikola Tesla el 16 de mayo de 1900 y concedida el 18 de abril de 1905. Describe la producción de ondas estacionarias en la Tierra y menciona una velocidad media de propagación de unos 471.240 km/s (aproximadamente 1,57 veces la velocidad de la luz), un valor teórico del propio Tesla, no una medida experimental. La patente no demuestra ondas electromagnéticas longitudinales ni transmisión de energía sin pérdidas. Época y lugar: Estados Unidos, en la segunda revolución industrial (c. 1870-1914).",
     "fuentes": [
      {
       "titulo": "Google Patents: US787412A, Art of transmitting electrical energy through the natural mediums",
@@ -30613,7 +30613,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la primera escuela Waldorf, abierta en Stuttgart en 1919 por iniciativa del director de la fábrica Waldorf-Astoria, con Rudolf Steiner al frente de su pedagogía. La primera escuela Waldorf abrió el 7 de septiembre de 1919 en Stuttgart por iniciativa de Emil Molt, director de la fábrica de cigarrillos Waldorf-Astoria, con unos 256 alumnos en ocho cursos (191 de familias de la fábrica). Steiner fue su consejero pedagógico. En las escuelas Waldorf se retrasa la enseñanza formal de lectura y escritura hasta cerca de los 7 años, algo que la investigación pedagógica discute.",
+    "resumen": "Qué es: la primera escuela Waldorf, abierta en Stuttgart en 1919 por iniciativa del director de la fábrica Waldorf-Astoria, con Rudolf Steiner al frente de su pedagogía. La primera escuela Waldorf abrió el 7 de septiembre de 1919 en Stuttgart por iniciativa de Emil Molt, director de la fábrica de cigarrillos Waldorf-Astoria, con unos 256 alumnos en ocho cursos (191 de familias de la fábrica). Steiner fue su consejero pedagógico. En las escuelas Waldorf se retrasa la enseñanza formal de lectura y escritura hasta cerca de los 7 años, algo que la investigación pedagógica discute. Época y lugar: Stuttgart (Alemania), en los primeros meses de la República de Weimar (1919-1933).",
     "fuentes": [
      {
       "titulo": "Wikipedia: History of Waldorf schools",
@@ -30860,7 +30860,7 @@ window.CRONO = {
    "resumen": "Sociedad de honor académica estadounidense fundada el 5-12-1776 en el College of William and Mary; la primera con nombre de letras griegas.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una sociedad de honor académica estadounidense fundada en 1776. Phi Beta Kappa es una sociedad de honor académica de Estados Unidos que busca promover la excelencia en las humanidades y las ciencias e integrar a los mejores estudiantes de las universidades líderes. Fue fundada el 5 de diciembre de 1776 en el College of William and Mary, como la primera hermandad colegial con nombre de letras griegas. Según Wikipedia, han sido miembros 17 presidentes de Estados Unidos.",
+    "resumen": "Qué es: una sociedad de honor académica estadounidense fundada en 1776. Phi Beta Kappa es una sociedad de honor académica de Estados Unidos que busca promover la excelencia en las humanidades y las ciencias e integrar a los mejores estudiantes de las universidades líderes. Fue fundada el 5 de diciembre de 1776 en el College of William and Mary, como la primera hermandad colegial con nombre de letras griegas. Según Wikipedia, han sido miembros 17 presidentes de Estados Unidos. Época y lugar: Williamsburg (Virginia), en la Revolución estadounidense (1776).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Phi Beta Kappa",
@@ -31872,7 +31872,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la destrucción de publicaciones de Wilhelm Reich, primero por los nazis en 1933 y después por orden judicial en Estados Unidos en 1956. Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS. El 23 de agosto de 1956 se quemaron seis toneladas de libros, revistas y papeles de Reich en el incinerador de Gansevoort, en Nueva York, entre ellos «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo».",
+    "resumen": "Qué es: la destrucción de publicaciones de Wilhelm Reich, primero por los nazis en 1933 y después por orden judicial en Estados Unidos en 1956. Los nazis incluyeron sus libros en las quemas de 1933. En EE. UU., tras una demanda de la FDA (1954) contra sus acumuladores de orgón, Reich fue condenado en 1956 por desacato, y en 1956 se quemaron unas seis toneladas de sus publicaciones por orden judicial. Murió en prisión en 1957. Las fuentes consultadas no documentan una quema en la URSS. El 23 de agosto de 1956 se quemaron seis toneladas de libros, revistas y papeles de Reich en el incinerador de Gansevoort, en Nueva York, entre ellos «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo». Época y lugar: Alemania nazi (1933) y Estados Unidos en la Guerra Fría (1956).",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Wilhelm Reich Trial, 1956",
@@ -31915,7 +31915,7 @@ window.CRONO = {
    "resumen": "Plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: el plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita. La «Ratio atque Institutio Studiorum Societatis Iesu», o Ratio Studiorum, fue el documento que normalizó en 1599 el sistema de educación jesuita, de influencia mundial. Un comité redactó un borrador de prueba en 1586, enviado a las provincias para comentarios de los profesores, y con esa experiencia se hizo en Roma el documento oficial de 1599.",
+    "resumen": "Qué es: el plan de estudios de la Compañía de Jesús, aprobado en 1599, que unificó la educación jesuita. La «Ratio atque Institutio Studiorum Societatis Iesu», o Ratio Studiorum, fue el documento que normalizó en 1599 el sistema de educación jesuita, de influencia mundial. Un comité redactó un borrador de prueba en 1586, enviado a las provincias para comentarios de los profesores, y con esa experiencia se hizo en Roma el documento oficial de 1599. Época y lugar: Roma y Europa católica, en la Edad Moderna y la Contrarreforma (1599).",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Ratio Studiorum",
@@ -32494,7 +32494,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: teoría de la física publicada por Albert Einstein en 1905. Parte de la observación de que la velocidad de la luz en el vacío es igual en todos los sistemas de referencia inerciales y de extraer todas las consecuencias del principio de relatividad de Galileo, según el cual un experimento se desarrolla igual en cualquier sistema inercial. Se llama «especial» porque solo se aplica cuando la curvatura del espacio-tiempo producida por la gravedad es despreciable. Einstein formuló la relatividad especial en 1905. Britannica explica que el experimento de Michelson y Morley no detectó el efecto esperado del éter sobre la velocidad de la luz y que la explicación llegó con la teoría de Einstein, que prescinde del éter. Los historiadores discuten cuánto pesó ese experimento en el camino de Einstein: él apenas lo menciona, y Lorentz y Poincaré aportaron piezas previas. Contexto: a finales del siglo XIX se creía que la mecánica de Newton, basada en la relatividad de Galileo, valía para todos los observadores. Hendrik Lorentz y, un poco antes, Woldemar Voigt comprobaron que las ecuaciones de Maxwell del electromagnetismo no cumplían las transformaciones de Galileo, y se interpretó que la velocidad de la luz lo era respecto al éter. El experimento de Michelson y Morley mostró que esa velocidad permanecía constante, y Einstein publicó la teoría en 1905.",
+    "resumen": "Qué es: teoría de la física publicada por Albert Einstein en 1905. Parte de la observación de que la velocidad de la luz en el vacío es igual en todos los sistemas de referencia inerciales y de extraer todas las consecuencias del principio de relatividad de Galileo, según el cual un experimento se desarrolla igual en cualquier sistema inercial. Se llama «especial» porque solo se aplica cuando la curvatura del espacio-tiempo producida por la gravedad es despreciable. Einstein formuló la relatividad especial en 1905. Britannica explica que el experimento de Michelson y Morley no detectó el efecto esperado del éter sobre la velocidad de la luz y que la explicación llegó con la teoría de Einstein, que prescinde del éter. Los historiadores discuten cuánto pesó ese experimento en el camino de Einstein: él apenas lo menciona, y Lorentz y Poincaré aportaron piezas previas. Contexto: a finales del siglo XIX se creía que la mecánica de Newton, basada en la relatividad de Galileo, valía para todos los observadores. Hendrik Lorentz y, un poco antes, Woldemar Voigt comprobaron que las ecuaciones de Maxwell del electromagnetismo no cumplían las transformaciones de Galileo, y se interpretó que la velocidad de la luz lo era respecto al éter. El experimento de Michelson y Morley mostró que esa velocidad permanecía constante, y Einstein publicó la teoría en 1905. Época y lugar: Berna (Suiza), a comienzos del siglo XX (1905).",
     "fuentes": [
      {
       "titulo": "Encyclopaedia Britannica: relativity",
@@ -33731,7 +33731,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: el paso de la piedra de Rosetta, hallada por soldados franceses en 1799, a manos británicas tras el Tratado de Alejandría de 1801. La piedra de Rosetta la hallaron soldados franceses en julio de 1799; por el Tratado de Alejandría (1801) las antigüedades reunidas por los franceses, entre ellas la piedra, pasaron a los británicos; llegó a Inglaterra en febrero de 1802 y está en el Museo Británico desde 1802. Coincide con el autor en el fondo; la calificación de «confiscación» o «botín de guerra» es disputada (Egipto la reclama).",
+    "resumen": "Qué es: el paso de la piedra de Rosetta, hallada por soldados franceses en 1799, a manos británicas tras el Tratado de Alejandría de 1801. La piedra de Rosetta la hallaron soldados franceses en julio de 1799; por el Tratado de Alejandría (1801) las antigüedades reunidas por los franceses, entre ellas la piedra, pasaron a los británicos; llegó a Inglaterra en febrero de 1802 y está en el Museo Británico desde 1802. Coincide con el autor en el fondo; la calificación de «confiscación» o «botín de guerra» es disputada (Egipto la reclama). Época y lugar: Egipto y Francia, en la campaña francesa de Egipto (1798-1801).",
     "fuentes": [
      {
       "titulo": "Linda Hall Library: The Rosetta Stone",
@@ -33801,7 +33801,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la Royal Society (Real Sociedad de Londres para el Avance de la Ciencia Natural) es la sociedad científica más antigua del Reino Unido y, según la Enciclopedia Británica, la sociedad científica nacional más antigua del mundo. Es una institución privada e independiente que hace las veces de academia nacional de ciencias. Aunque se suele fechar su fundación en 1662, antes ya existía un grupo de científicos que se reunía con cierta periodicidad. Fundada en Londres en 1660 y con carta real desde 1662, se inspiró en el programa de Bacon. Francesco Zorzi (Giorgi), fraile veneciano muerto en 1540, influyó en el hermetismo inglés del siglo XVI según la historiadora Frances Yates; su vínculo con la Royal Society es una interpretación, no un hecho documentado.",
+    "resumen": "Qué es: la Royal Society (Real Sociedad de Londres para el Avance de la Ciencia Natural) es la sociedad científica más antigua del Reino Unido y, según la Enciclopedia Británica, la sociedad científica nacional más antigua del mundo. Es una institución privada e independiente que hace las veces de academia nacional de ciencias. Aunque se suele fechar su fundación en 1662, antes ya existía un grupo de científicos que se reunía con cierta periodicidad. Fundada en Londres en 1660 y con carta real desde 1662, se inspiró en el programa de Bacon. Francesco Zorzi (Giorgi), fraile veneciano muerto en 1540, influyó en el hermetismo inglés del siglo XVI según la historiadora Frances Yates; su vínculo con la Royal Society es una interpretación, no un hecho documentado. Época y lugar: Londres (Inglaterra), en la Restauración inglesa, bajo Carlos II (1660).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Royal Society",
@@ -35194,7 +35194,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la Sociedad Estadounidense contra el Cáncer (ACS) es una organización voluntaria de salud dedicada a eliminar el cáncer. Se estableció en 1913, tiene su sede central en Atlanta (Georgia), se organiza en seis regiones con voluntarios médicos y laicos y publica revistas científicas revisadas por pares, como «Cancer» y «CA: A Cancer Journal for Clinicians». La American Society for the Control of Cancer se fundó el 22 de mayo de 1913 en Nueva York por diez médicos y cinco laicos o empresarios, y adoptó el nombre actual en 1944. John D. Rockefeller Jr. aportó los primeros fondos, pero no consta como fundador. La parte sobre una lista de «métodos no probados» con esos criterios y sobre la FDA no se ha podido contrastar en las fuentes consultadas.",
+    "resumen": "Qué es: la Sociedad Estadounidense contra el Cáncer (ACS) es una organización voluntaria de salud dedicada a eliminar el cáncer. Se estableció en 1913, tiene su sede central en Atlanta (Georgia), se organiza en seis regiones con voluntarios médicos y laicos y publica revistas científicas revisadas por pares, como «Cancer» y «CA: A Cancer Journal for Clinicians». La American Society for the Control of Cancer se fundó el 22 de mayo de 1913 en Nueva York por diez médicos y cinco laicos o empresarios, y adoptó el nombre actual en 1944. John D. Rockefeller Jr. aportó los primeros fondos, pero no consta como fundador. La parte sobre una lista de «métodos no probados» con esos criterios y sobre la FDA no se ha podido contrastar en las fuentes consultadas. Época y lugar: Nueva York (Estados Unidos), en los años previos a la Primera Guerra Mundial (1913).",
     "fuentes": [
      {
       "titulo": "American Cancer Society: Our History",
@@ -35751,7 +35751,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el trabajo de Rudolf Steiner en Weimar, editando los escritos científicos de Goethe y colaborando en el archivo que guardaba su legado. Steiner editó los escritos científicos de Goethe para la edición Kürschner (desde 1882-83) y en 1888 fue invitado a Weimar como editor; a partir del 30 de septiembre de 1890 colaboró en el recién fundado archivo Goethe-Schiller y en la edición de Weimar (Sophienausgabe), hasta 1896-1897. Fue colaborador y editor, no director.",
+    "resumen": "Qué es: el trabajo de Rudolf Steiner en Weimar, editando los escritos científicos de Goethe y colaborando en el archivo que guardaba su legado. Steiner editó los escritos científicos de Goethe para la edición Kürschner (desde 1882-83) y en 1888 fue invitado a Weimar como editor; a partir del 30 de septiembre de 1890 colaboró en el recién fundado archivo Goethe-Schiller y en la edición de Weimar (Sophienausgabe), hasta 1896-1897. Fue colaborador y editor, no director. Época y lugar: Weimar (Alemania), en el Imperio alemán (1871-1918).",
     "fuentes": [
      {
       "titulo": "Goetheanum: Rudolf Steiner (Goethe y Schiller Archives)",
@@ -35921,7 +35921,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la sucesión de Fibonacci es 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…; empieza con dos números y cada término es la suma de los dos anteriores. La describió en Europa el matemático italiano Leonardo de Pisa (Fibonacci), del siglo XIII. Tiene aplicaciones en informática, matemática y teoría de juegos, y aparece en algunas configuraciones biológicas. Fibonacci la difundió en Europa en su «Liber Abaci» (1202), pero ya la conocían matemáticos indios: Virahanka (entre los siglos VI y VIII), Gopala (antes de 1135) y Hemachandra (hacia 1150). La relación con la espiral áurea y la naturaleza es matemática; llamarla «espiral del tiempo» y ver en el término 12 un «salto de octava» es lectura del autor.",
+    "resumen": "Qué es: la sucesión de Fibonacci es 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144…; empieza con dos números y cada término es la suma de los dos anteriores. La describió en Europa el matemático italiano Leonardo de Pisa (Fibonacci), del siglo XIII. Tiene aplicaciones en informática, matemática y teoría de juegos, y aparece en algunas configuraciones biológicas. Fibonacci la difundió en Europa en su «Liber Abaci» (1202), pero ya la conocían matemáticos indios: Virahanka (entre los siglos VI y VIII), Gopala (antes de 1135) y Hemachandra (hacia 1150). La relación con la espiral áurea y la naturaleza es matemática; llamarla «espiral del tiempo» y ver en el término 12 un «salto de octava» es lectura del autor. Época y lugar: Pisa (Italia), en la Edad Media (1202).",
     "fuentes": [
      {
       "titulo": "Fibonacci sequence (Wikipedia, resultado de búsqueda)",
@@ -36921,7 +36921,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un método de esterilización por calentamientos breves repetidos, descrito por John Tyndall en 1877, que elimina también las esporas. Tyndall describió en 1877 la esterilización fraccionada (calentamientos breves repetidos), el primer método eficaz contra las esporas bacterianas resistentes al calor. Sus trabajos fueron decisivos contra la generación espontánea y para la bacteriología.",
+    "resumen": "Qué es: un método de esterilización por calentamientos breves repetidos, descrito por John Tyndall en 1877, que elimina también las esporas. Tyndall describió en 1877 la esterilización fraccionada (calentamientos breves repetidos), el primer método eficaz contra las esporas bacterianas resistentes al calor. Sus trabajos fueron decisivos contra la generación espontánea y para la bacteriología. Época y lugar: Reino Unido, en la época victoriana (1837-1901).",
     "fuentes": [
      {
       "titulo": "Historyofmedicine.com (Garrison-Morton): Tyndall, 1877",
@@ -37417,7 +37417,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un transistor es un componente semiconductor con al menos tres terminales que restringe o permite el flujo de corriente entre dos contactos según la presencia o ausencia de corriente en un tercero. Su nombre viene de «transfer resistor». Puede usarse como amplificador, porque una corriente pequeña en el terminal de control deja pasar una muy grande entre los otros dos. Bardeen y Brattain hicieron funcionar en los Bell Labs el primer transistor, de contacto puntual, el 16 de diciembre de 1947, y lo mostraron a la dirección el 23. Shockley concibió en enero de 1948 el transistor bipolar de unión, que se fabricó en serie desde principios de los años 50. A finales de esa década los transistores bipolares habían sustituido casi del todo a las válvulas en los ordenadores. Sobre efectos «sobreunitarios» de las válvulas no hay versión oficial (ver «Máquinas sobreunitarias»). Contexto: el físico austrohúngaro Julius Edgar Lilienfeld solicitó en 1925 una patente en Canadá (y otras en Estados Unidos en 1926 y 1928) de un dispositivo que se considera antecesor de los transistores de efecto de campo, pero no publicó artículos ni describió ningún prototipo. En 1934 el alemán Oskar Heil patentó un dispositivo similar en Alemania y Gran Bretaña,.",
+    "resumen": "Qué es: un transistor es un componente semiconductor con al menos tres terminales que restringe o permite el flujo de corriente entre dos contactos según la presencia o ausencia de corriente en un tercero. Su nombre viene de «transfer resistor». Puede usarse como amplificador, porque una corriente pequeña en el terminal de control deja pasar una muy grande entre los otros dos. Bardeen y Brattain hicieron funcionar en los Bell Labs el primer transistor, de contacto puntual, el 16 de diciembre de 1947, y lo mostraron a la dirección el 23. Shockley concibió en enero de 1948 el transistor bipolar de unión, que se fabricó en serie desde principios de los años 50. A finales de esa década los transistores bipolares habían sustituido casi del todo a las válvulas en los ordenadores. Sobre efectos «sobreunitarios» de las válvulas no hay versión oficial (ver «Máquinas sobreunitarias»). Contexto: el físico austrohúngaro Julius Edgar Lilienfeld solicitó en 1925 una patente en Canadá (y otras en Estados Unidos en 1926 y 1928) de un dispositivo que se considera antecesor de los transistores de efecto de campo, pero no publicó artículos ni describió ningún prototipo. En 1934 el alemán Oskar Heil patentó un dispositivo similar en Alemania y Gran Bretaña,. Época y lugar: Laboratorios Bell (Nueva Jersey, Estados Unidos), al comienzo de la Guerra Fría (1947).",
     "fuentes": [
      {
       "titulo": "Britannica: Transistor — Innovation at Bell Labs",
@@ -38003,7 +38003,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: los eclipses que cita el historiador Tucídides en su relato de la guerra del Peloponeso, que sirven para fechar esa guerra con cálculo astronómico. Tucídides (II.28) registra un eclipse solar en el verano del primer año de la guerra del Peloponeso, identificado con el eclipse anular del 3 de agosto del 431 a. C.; los astrónomos lo toman como fiable. Que Newton contactara con Fomenko en 1973 y que la datación esté en duda es relato del autor, sin respaldo en las fuentes consultadas.",
+    "resumen": "Qué es: los eclipses que cita el historiador Tucídides en su relato de la guerra del Peloponeso, que sirven para fechar esa guerra con cálculo astronómico. Tucídides (II.28) registra un eclipse solar en el verano del primer año de la guerra del Peloponeso, identificado con el eclipse anular del 3 de agosto del 431 a. C.; los astrónomos lo toman como fiable. Que Newton contactara con Fomenko en 1973 y que la datación esté en duda es relato del autor, sin respaldo en las fuentes consultadas. Época y lugar: Grecia, en la Edad Antigua (guerra del Peloponeso, 431-404 a. C.).",
     "fuentes": [
      {
       "titulo": "Classical Quarterly: Thucydides on the Third of August, 431 B.C.",
@@ -38737,7 +38737,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Bilbao y San Sebastián, fundada en 1886; la universidad privada más antigua de España.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad privada de los jesuitas, con campus en Bilbao y San Sebastián, fundada en 1886. La Universidad de Deusto es una universidad privada regida por la Compañía de Jesús, con campus en Bilbao y San Sebastián. Fue fundada en 1886 por la Compañía como Universidad de la Iglesia de Deusto, para dotar al País Vasco de un centro universitario propio en plena expansión industrial. Es la universidad privada más antigua de España. Su Universidad Comercial empezó en 1916.",
+    "resumen": "Qué es: una universidad privada de los jesuitas, con campus en Bilbao y San Sebastián, fundada en 1886. La Universidad de Deusto es una universidad privada regida por la Compañía de Jesús, con campus en Bilbao y San Sebastián. Fue fundada en 1886 por la Compañía como Universidad de la Iglesia de Deusto, para dotar al País Vasco de un centro universitario propio en plena expansión industrial. Es la universidad privada más antigua de España. Su Universidad Comercial empezó en 1916. Época y lugar: Bilbao (España), en la Restauración borbónica (1874-1931).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad de Deusto",
@@ -38782,7 +38782,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la Universidad de Padua está entre las más importantes de Italia y entre las más antiguas del mundo (la segunda de Italia). Se fundó en 1222, tenía hacia 2003 unos 65.000 estudiantes y su sede principal está en el Palacio Bo. La Universidad de Estudios de Padua es una de las más importantes de Italia y, fundada en 1222, la segunda más antigua del país; su sede principal está en el Palacio Bo. En 2003 tenía cerca de 65 000 estudiantes. Dependía de Venecia desde 1405 y era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey.",
+    "resumen": "Qué es: la Universidad de Padua está entre las más importantes de Italia y entre las más antiguas del mundo (la segunda de Italia). Se fundó en 1222, tenía hacia 2003 unos 65.000 estudiantes y su sede principal está en el Palacio Bo. La Universidad de Estudios de Padua es una de las más importantes de Italia y, fundada en 1222, la segunda más antigua del país; su sede principal está en el Palacio Bo. En 2003 tenía cerca de 65 000 estudiantes. Dependía de Venecia desde 1405 y era conocida por su tolerancia con estudiantes protestantes; enseñaron en ella Galileo (1592–1610) y Vesalio, y estudió allí William Harvey. Época y lugar: Italia, en la Edad Media (1222).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Universidad de Padua",
@@ -38819,7 +38819,7 @@ window.CRONO = {
    "resumen": "Universidad pública de Salamanca, la más antigua de España en funcionamiento: estudio general de 1218 y título de universidad en 1252.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad pública española, la más antigua en funcionamiento del país, nacida de un estudio general de 1218. La Universidad de Salamanca es una universidad pública española, la más antigua en funcionamiento de España y del mundo hispánico y la cuarta de Europa. Nació de escuelas catedralicias documentadas desde 1174. Alfonso IX de León instituyó el estudio general en 1218; la cédula real de Alfonso X de 9 de noviembre de 1252 le dio el título de universidad, ratificado en 1255 por Alejandro IV con la «licentia ubique docendi».",
+    "resumen": "Qué es: una universidad pública española, la más antigua en funcionamiento del país, nacida de un estudio general de 1218. La Universidad de Salamanca es una universidad pública española, la más antigua en funcionamiento de España y del mundo hispánico y la cuarta de Europa. Nació de escuelas catedralicias documentadas desde 1174. Alfonso IX de León instituyó el estudio general en 1218; la cédula real de Alfonso X de 9 de noviembre de 1252 le dio el título de universidad, ratificado en 1255 por Alejandro IV con la «licentia ubique docendi». Época y lugar: Reino de León, en la Edad Media (1218).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad de Salamanca",
@@ -38857,7 +38857,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Nueva York, fundada en 1841 como St. John's College.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad jesuita de Nueva York, fundada en 1841 como St. John's College. La Universidad Fordham es una universidad de investigación jesuita de Nueva York, fundada en 1841 como St. John's College por el obispo coadjutor John Hughes y puesta poco después al cuidado de la Compañía de Jesús. Es la universidad católica y jesuita más antigua del noreste de Estados Unidos. Desde 1969 la gobierna una junta laica independiente de la Iglesia, aunque todos sus presidentes entre 1846 y 2022 fueron sacerdotes jesuitas.",
+    "resumen": "Qué es: una universidad jesuita de Nueva York, fundada en 1841 como St. John's College. La Universidad Fordham es una universidad de investigación jesuita de Nueva York, fundada en 1841 como St. John's College por el obispo coadjutor John Hughes y puesta poco después al cuidado de la Compañía de Jesús. Es la universidad católica y jesuita más antigua del noreste de Estados Unidos. Desde 1969 la gobierna una junta laica independiente de la Iglesia, aunque todos sus presidentes entre 1846 y 2022 fueron sacerdotes jesuitas. Época y lugar: Nueva York (Estados Unidos), a mediados del siglo XIX (1841).",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Fordham University",
@@ -38895,7 +38895,7 @@ window.CRONO = {
    "resumen": "Universidad privada de Cambridge (Massachusetts), fundada el 28-10-1636; la más antigua de Estados Unidos.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad privada de Cambridge, en Massachusetts, fundada en 1636, la más antigua de Estados Unidos. La Universidad Harvard es una universidad privada de investigación de la Ivy League, en Cambridge (Massachusetts), fundada el 28 de octubre de 1636 y llamada así por su primer benefactor, el clérigo inglés John Harvard. Es la institución de educación superior más antigua de Estados Unidos.",
+    "resumen": "Qué es: una universidad privada de Cambridge, en Massachusetts, fundada en 1636, la más antigua de Estados Unidos. La Universidad Harvard es una universidad privada de investigación de la Ivy League, en Cambridge (Massachusetts), fundada el 28 de octubre de 1636 y llamada así por su primer benefactor, el clérigo inglés John Harvard. Es la institución de educación superior más antigua de Estados Unidos. Época y lugar: Nueva Inglaterra colonial (Massachusetts), en la Edad Moderna (1636).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Harvard",
@@ -38929,7 +38929,7 @@ window.CRONO = {
    "resumen": "Universidad privada de Baltimore, fundada el 22-2-1876; considerada la primera universidad de investigación de Estados Unidos.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad privada de Baltimore, fundada en 1876, considerada la primera universidad de investigación de Estados Unidos. La Universidad Johns Hopkins es una universidad privada de Baltimore (Maryland), fundada el 22 de febrero de 1876. Según Wikipedia fue la primera universidad dedicada a la investigación en Estados Unidos.",
+    "resumen": "Qué es: una universidad privada de Baltimore, fundada en 1876, considerada la primera universidad de investigación de Estados Unidos. La Universidad Johns Hopkins es una universidad privada de Baltimore (Maryland), fundada el 22 de febrero de 1876. Según Wikipedia fue la primera universidad dedicada a la investigación en Estados Unidos. Época y lugar: Baltimore (Estados Unidos), en la Edad Dorada (1876).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Johns Hopkins",
@@ -38963,7 +38963,7 @@ window.CRONO = {
    "resumen": "Universidad jesuita de Madrid, nacida en 1890 como seminario pontificio de Comillas; sus facultades se conocen como ICAI e ICADE.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad privada de los jesuitas en Madrid, nacida en 1890 como seminario pontificio en Comillas. La Universidad Pontificia Comillas es una universidad privada española dirigida por la Compañía de Jesús, con sede en Madrid. Nació el 16 de diciembre de 1890 como seminario pontificio en Comillas (Cantabria), erigido por León XIII mediante el breve «Sempiternam Dominici Gregis» y costeado por el marqués de Comillas. Sus facultades se conocen como ICAI (ingeniería), ICADE (Instituto Católico de Administración y Dirección de Empresas) y CIHS. Según Wikipedia, en 2021 el 17 % de los directivos de las empresas del IBEX 35 habían estudiado en ella.",
+    "resumen": "Qué es: una universidad privada de los jesuitas en Madrid, nacida en 1890 como seminario pontificio en Comillas. La Universidad Pontificia Comillas es una universidad privada española dirigida por la Compañía de Jesús, con sede en Madrid. Nació el 16 de diciembre de 1890 como seminario pontificio en Comillas (Cantabria), erigido por León XIII mediante el breve «Sempiternam Dominici Gregis» y costeado por el marqués de Comillas. Sus facultades se conocen como ICAI (ingeniería), ICADE (Instituto Católico de Administración y Dirección de Empresas) y CIHS. Según Wikipedia, en 2021 el 17 % de los directivos de las empresas del IBEX 35 habían estudiado en ella. Época y lugar: Comillas (Cantabria, España), en la Restauración borbónica (1874-1931).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Pontificia Comillas",
@@ -39001,7 +39001,7 @@ window.CRONO = {
    "resumen": "Universidad privada de New Haven (Connecticut), fundada en 1701; es de la Ivy League.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: una universidad privada de New Haven, en Connecticut, fundada en 1701 y miembro de la Ivy League. La Universidad Yale es una universidad privada de New Haven, Connecticut, fundada en 1701 y miembro de la Ivy League. Es la tercera institución de educación superior más antigua de Estados Unidos y uno de los nueve «colleges» coloniales con carta real del monarca británico anterior a la Revolución de las Trece Colonias.",
+    "resumen": "Qué es: una universidad privada de New Haven, en Connecticut, fundada en 1701 y miembro de la Ivy League. La Universidad Yale es una universidad privada de New Haven, Connecticut, fundada en 1701 y miembro de la Ivy League. Es la tercera institución de educación superior más antigua de Estados Unidos y uno de los nueve «colleges» coloniales con carta real del monarca británico anterior a la Revolución de las Trece Colonias. Época y lugar: Colonia de Connecticut (Norteamérica británica), en la Edad Moderna (1701).",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Universidad Yale",
@@ -39360,7 +39360,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la llegada a Inglaterra de la variolación, la inoculación de viruela, que Lady Mary Wortley Montagu conoció en Turquía y aplicó a su hijo en 1718. Lady Mary Wortley Montagu conoció la variolación en Turquía (1716-1718) e hizo inocular a su hijo en 1718; la difundió en Inglaterra tras la epidemia de 1721. La variolación reducía mucho la mortalidad frente a la viruela natural (se citan cifras de 1-2 % frente a cerca de 30 %), pero tenía riesgos. No consta la cifra de muertes que da el autor.",
+    "resumen": "Qué es: la llegada a Inglaterra de la variolación, la inoculación de viruela, que Lady Mary Wortley Montagu conoció en Turquía y aplicó a su hijo en 1718. Lady Mary Wortley Montagu conoció la variolación en Turquía (1716-1718) e hizo inocular a su hijo en 1718; la difundió en Inglaterra tras la epidemia de 1721. La variolación reducía mucho la mortalidad frente a la viruela natural (se citan cifras de 1-2 % frente a cerca de 30 %), pero tenía riesgos. No consta la cifra de muertes que da el autor. Época y lugar: Imperio otomano e Inglaterra, en la Edad Moderna, bajo el reinado de Jorge I.",
     "fuentes": [
      {
       "titulo": "EBSCO: First Widespread Smallpox Inoculations",
@@ -39572,7 +39572,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Vin Mariani era una bebida que contenía vino de Burdeos y extractos de hoja de coca. Lo creó en 1863 Angelo Mariani, inspirado en el «elixir de coca Lorini» de 1860, y lo promovió atribuyéndole muchas propiedades terapéuticas. Fue muy popular entre artistas e intelectuales europeos, y los papas Pío X y León XIII fueron especialmente entusiastas del tónico. El químico corso Angelo Mariani lanzó en 1863 el Vin Mariani, un vino tónico de Burdeos macerado con hoja de coca que se vendió con éxito en Europa y Estados Unidos y se presentó como remedio casi universal. Su publicidad reunió elogios de artistas e intelectuales y de los papas León XIII y Pío X, que lo tomaron con asiduidad.",
+    "resumen": "Qué es: el Vin Mariani era una bebida que contenía vino de Burdeos y extractos de hoja de coca. Lo creó en 1863 Angelo Mariani, inspirado en el «elixir de coca Lorini» de 1860, y lo promovió atribuyéndole muchas propiedades terapéuticas. Fue muy popular entre artistas e intelectuales europeos, y los papas Pío X y León XIII fueron especialmente entusiastas del tónico. El químico corso Angelo Mariani lanzó en 1863 el Vin Mariani, un vino tónico de Burdeos macerado con hoja de coca que se vendió con éxito en Europa y Estados Unidos y se presentó como remedio casi universal. Su publicidad reunió elogios de artistas e intelectuales y de los papas León XIII y Pío X, que lo tomaron con asiduidad. Época y lugar: Francia, en el Segundo Imperio (1852-1870).",
     "fuentes": [
      {
       "titulo": "Vin Mariani (Wikipedia en español)",
