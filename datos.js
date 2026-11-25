@@ -9227,7 +9227,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P9 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Conclusión del autor: los jesuitas jugaban a destronar reyes dependientes del papado, de ahí las expulsiones, para entregar sus dominios a la nobleza negra veneciana.",
+     "resumen": "Conclusión del autor: los jesuitas, según él, trabajaban para quitar el trono a monarcas ligados al papado (de ahí las expulsiones) y dejar esos dominios en manos de la nobleza negra veneciana.",
      "contradice": []
     }
    ],
@@ -34770,7 +34770,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P8 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Tesis del autor: la Revolución fue el golpe definitivo de la nobleza negra para quitar el poder a los reinos dependientes de Roma y convertirlos en repúblicas con banca central, manejadas con préstamos y dinero deuda, según el modelo veneciano de Sarpi.",
+     "resumen": "Tesis del autor: la Revolución fue la jugada final de la nobleza negra veneciana contra los reinos ligados a Roma: los convertía en repúblicas con banca central y los manejaba con deuda y préstamos, siguiendo el modelo de Sarpi.",
      "contradice": []
     }
    ],
@@ -52677,7 +52677,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P8 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Tesis del autor (remite a otros vídeos de su canal): la Compañía trabajó para la nobleza negra veneciana desde que la familia Contarini gestionó la presentación del proyecto de Loyola al papa; los Borgia, de Aragón, lo financiaron.",
+     "resumen": "Tesis del autor (remite a otros vídeos de su canal): la Compañía sirvió a la nobleza negra veneciana desde que los Contarini lograron presentar el proyecto de Loyola ante el papa; los Borgia, aragoneses, lo financiaron.",
      "contradice": []
     }
    ],
@@ -55650,7 +55650,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P2 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Según el autor, Mariana nació en 1535, entró en la Compañía en 1554, estudió en España, Italia y Francia y es uno de los grandes exponentes del derecho natural de Salamanca; su teoría confía el poder a un monarca y distingue al buen rey del tirano.",
+     "resumen": "Según el autor, Mariana (nacido, dice, en 1535) ingresó en la Compañía en 1554 tras formarse en tres países, y es de los grandes exponentes del derecho natural de Salamanca; su teoría confía el poder a un monarca y distingue al buen rey del tirano.",
      "contradice": []
     },
     {
@@ -59255,7 +59255,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P6 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Según el autor, en 1748 Montesquieu definió el derecho a la existencia diciendo que la limosna a un hombre desnudo no sustituye las obligaciones del Estado, que debe a todos una subsistencia asegurada; lo presenta como el mismo proyecto de la Escuela de Salamanca.",
+     "resumen": "Según el autor, en 1748 Montesquieu fijó el derecho a la existencia al decir que dar limosna en la calle no sustituye el deber del Estado de garantizar a todos la subsistencia; lo presenta como el mismo proyecto de la Escuela de Salamanca.",
      "contradice": []
     }
    ],
@@ -63209,7 +63209,7 @@ window.CRONO = {
      "obra": "jesuita-inspiro-revolucion-francesa",
      "ubicacion": "P6 (sin minutos; transcripción .txt)",
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
-     "resumen": "Según el autor, Robespierre fue un continuador de la filosofía del derecho natural moderno y retomó ideas de Juan de Mariana, que entonces se debatían ampliamente.",
+     "resumen": "Según el autor, Robespierre siguió la línea del derecho natural moderno y recogió ideas de Juan de Mariana, que entonces se discutían mucho.",
      "contradice": []
     }
    ],
