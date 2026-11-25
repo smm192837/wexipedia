@@ -18697,6 +18697,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Corea (25 de junio de 1950 - 27 de julio de 1953), llamada también guerra civil coreana, fue un conflicto armado en la península de Corea entre Corea del Norte (República Popular Democrática de Corea) y Corea del Sur (República de Corea) y sus respectivos aliados. Corea del Norte contaba con el apoyo de la República Popular China y de la Unión Soviética; Corea del Sur, con el del Comando de las Naciones Unidas, liderado por Estados Unidos. Fue la primera gran guerra subsidiaria de la Guerra Fría. Los combates terminaron en 1953 con un armisticio pero sin tratado de paz, lo que dio lugar al actual conflicto coreano, una guerra «congelada»."
+    },
+    {
+     "titulo": "Cómo se llegó: la división de 1945",
+     "nivel": "hecho",
+     "texto": "Desde 1910 Corea era una colonia del Imperio japonés. El 8 de agosto de 1945, dos días después de la bomba de Hiroshima, los soviéticos lanzaron la Operación Tormenta de Agosto, la invasión de Manchukuo, el Estado títere japonés creado en 1932 en China, y poco después sus tropas, ayudadas por soldados de la República Popular de Mongolia, entraron en Corea. El 8 de septiembre desembarcaron los estadounidenses, entonces aliados de los soviéticos, en el sur, para disputar el control. Ninguna de las dos potencias reconoció a la República Popular de Corea, un gobierno instaurado por Tokio para intentar una transición política. Como en Europa, se repartieron el país, dividiéndolo por el paralelo 38, con planes para un futuro Estado independiente. Por los desacuerdos políticos y la influencia de sus aliados, ambas zonas formaron sus propios gobiernos en 1948: Corea del Norte, dirigida por Kim Il Sung en Pionyang, y Corea del Sur, por Syngman Rhee en Seúl. Ambos decían ser el único gobierno legítimo de toda Corea y buscaban unificar el país bajo su mando, con enfrentamientos fronterizos y con disturbios internos en el sur fomentados por grupos comunistas.\n\nEl triunfo de la revolución comunista en China, el 1 de octubre de 1949, alteró por completo el equilibrio geoestratégico del este de Asia. La Unión Soviética venía de vencer a la Alemania nazi, pero también había sufrido reveses, como el fracaso del bloqueo de Berlín o el cisma yugoslavo, apoyaba los movimientos de independencia de las colonias europeas y acababa de obtener la bomba atómica."
+    },
+    {
+     "titulo": "La guerra, año por año",
+     "nivel": "hecho",
+     "texto": "El 25 de junio de 1950 el Ejército Popular de Corea, equipado y entrenado por los soviéticos, invadió el sur. Sin el representante de la Unión Soviética presente, el Consejo de Seguridad de la ONU decidió denunciar el ataque y recomendó a los Estados miembros que repelieran la invasión. Las fuerzas de la ONU las integraban veintiún países, y Estados Unidos aportaba alrededor del 90 % del personal militar. El 28 de junio el ejército del norte capturó Seúl, y a comienzos de agosto el ejército del sur y sus aliados estaban casi derrotados, con solo el perímetro de Pusan en el sureste. El 15 de septiembre las fuerzas de la ONU desembarcaron en Inchon, cerca de Seúl, y cortaron al ejército del norte de sus líneas de suministro; salieron del perímetro el 18, recapturaron Seúl e invadieron Corea del Norte en octubre, capturando Pionyang y avanzando hacia el río Yalu, la frontera con China.\n\nEl 19 de octubre el Ejército Popular de Voluntarios chino cruzó el Yalu y entró en la guerra del lado del norte. Las fuerzas de la ONU se retiraron de Corea del Norte en diciembre, tras dos ofensivas chinas. Las fuerzas comunistas capturaron Seúl de nuevo en enero de 1951, y la perdieron dos meses después ante una contraofensiva de la ONU. Tras una ofensiva china de primavera abortada, las fuerzas de la ONU retomaron el territorio hasta aproximadamente el paralelo 38. Las negociaciones del armisticio empezaron en julio de 1951, pero se alargaron porque los combates se convirtieron en una guerra de desgaste y el norte sufrió graves daños por los bombardeos estadounidenses."
+    },
+    {
+     "titulo": "El armisticio y el coste",
+     "nivel": "hecho",
+     "texto": "El combate terminó el 27 de julio de 1953 con la firma del Acuerdo de Armisticio de Corea, que permitió el intercambio de prisioneros y creó la Zona Desmilitarizada de cuatro kilómetros de ancho a lo largo de la línea del frente, con un área de seguridad conjunta en Panmunjom. El conflicto causó más de un millón de muertes militares y entre dos y tres millones de muertes civiles, lo que la convierte en una de las guerras más sangrientas de la historia. Los presuntos crímenes de guerra incluyen el asesinato en masa de presuntos comunistas por parte de Seúl y la tortura y el hambre de prisioneros de guerra por parte de Pionyang. Corea del Norte se convirtió en uno de los países más bombardeados de la historia y prácticamente todas las principales ciudades de Corea fueron destruidas. Nunca se ha firmado un tratado de paz."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado es el curso de la guerra y el armisticio. Hay una cuestión que la fuente deja sin explicar: por qué faltaba el representante soviético en el Consejo de Seguridad cuando la ONU condenó el ataque. Siguiendo la regla de seguir el dinero y el poder, tampoco consta aquí cuánto costó la guerra a cada potencia, quién la financió ni quién se benefició; queda como tema abierto, a documentar con fuentes específicas, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18927,6 +18954,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de los Cien Años",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Cien_Años",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de los Cien Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Cien_A%C3%B1os",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -18934,6 +18966,28 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de los Cien Años fue un conflicto armado que duró 116 años, del 24 de mayo de 1337 al 19 de octubre de 1453, aunque de forma intermitente. Tuvo como principales contendientes a los reinos de Francia e Inglaterra, con la implicación en algunas etapas del Reino de Navarra y del Ducado de Borgoña, y afectó en menor medida a otros reinos y señoríos europeos. Para algunos historiadores fue la primera gran guerra internacional europea, y posiblemente el conflicto europeo de mayor duración. Era de naturaleza esencialmente feudal: se trataba de resolver quién controlaría las tierras adicionales que los monarcas ingleses habían acumulado en territorios franceses desde 1154, con el ascenso al trono de Inglaterra de Enrique II Plantagenet, conde de Anjou. Terminó con la derrota de Inglaterra y la retirada de sus tropas de tierras francesas, salvo de la ciudad de Calais."
+    },
+    {
+     "titulo": "De dónde viene el nombre",
+     "nivel": "hecho",
+     "texto": "Ya a finales del siglo XIV los contemporáneos percibieron la duración excepcional del conflicto, pero el nombre con que se le conoce surgió mucho después, en el siglo XIX. El medievalista Philippe Contamine buscó las primeras apariciones de la expresión: apareció por primera vez en el «Tableau chronologique de l'Histoire du Moyen Âge» de Chrysanthe Des Michels, publicado en París en 1823; el primer libro de texto que la usó fue el de M. Boreau, de 1839, «L'Histoire de France à l'usage des classes»; y la primera obra que la empleó en el título fue «La guerre de Cent Ans», de Théodore Bachelet, de 1852."
+    },
+    {
+     "titulo": "La Francia de 1328: el reino más poblado de Europa",
+     "nivel": "hecho",
+     "texto": "A comienzos del siglo XIV el Reino de Francia tenía una agricultura floreciente, por sus abundantes ríos y su clima favorable, y una población de entre dieciséis y diecisiete millones de habitantes, la más numerosa de Europa. Tanto el campo como las ciudades mostraban signos de prosperidad respecto a los siglos XI y XII, debida en gran medida a la paz relativa que había gozado el reino durante el siglo XIII y la primera parte del XIV. El censo de hogares de 1328, que abarcó a unas tres cuartas partes de la población, contó 2.469.987 hogares, unos doce millones de habitantes repartidos en 32.500 parroquias; solo París tenía entre ochenta y doscientos mil habitantes, Amiens entre veinte y treinta mil y Ruan unos setenta mil a mediados de siglo. El aumento de población llevó a talar gran parte de los bosques para extender las tierras de cultivo, explotadas mediante un sistema feudal muy jerárquico. El aumento de la producción agrícola y el gran desarrollo de la energía hidráulica permitían alimentar a la población (las hambrunas habían cesado en el siglo XII), y el mayor uso del hierro, nuevas técnicas y la sustitución del buey por el caballo permitían cultivar tierras poco fértiles. La situación del campesinado había mejorado, aunque seguía sometido en muchos casos a pesadas obligaciones hacia la nobleza.\n\nA la pujanza del campo se sumaba la de la única industria de la Europa occidental medieval, la textil, dominada por las ciudades flamencas (Arrás, Douai, Ypres, Gante, Brujas, Lille, Tournai), entonces parte de Francia, y por otros lugares como Ruan, Amiens, Troyes o París. Los productores flamencos vendían sus ricos paños a comerciantes italianos en las ferias de Champaña, a cambio sobre todo de productos de lujo venidos de los países musulmanes (especias, seda, cuero, joyas), aunque esas ferias estaban en decadencia a finales del siglo XIII. En el momento del advenimiento de Felipe VI de Valois, Francia se extendía de norte a sur del Escalda hasta los Pirineos, y de oeste a este del Atlántico al Ródano, al Saona y al Mosa. Algunas tierras poco productivas se abandonaron luego con la guerra y no volvieron a cultivarse."
+    },
+    {
+     "titulo": "Qué queda por documentar",
+     "nivel": "hipotesis",
+     "texto": "La fuente que he leído para esta ficha cubre la definición, el nombre y la Francia previa a la guerra; faltan el reino de Inglaterra, las campañas (Crécy, Poitiers, Agincourt, Juana de Arco), la peste negra y el final de 1453. Quedan por documentar en una pasada posterior, no como dato. Siguiendo la regla de seguir el dinero y el poder, el dato más claro hasta aquí es que la riqueza de Francia estaba en el campo y en el paño flamenco, y que el conflicto era por tierras y rentas: quién controlaba esas tierras. Es una hipótesis de Nexus sobre lo que habría que ampliar, no un dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19046,6 +19100,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de los Siete Años",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Siete_Años",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de los Siete Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Siete_A%C3%B1os",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -19053,6 +19112,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de los Siete Años fue una serie de conflictos internacionales entre principios de 1756 y finales de 1763 para controlar Silesia y lograr la supremacía colonial en América del Norte y la India. Por un lado estaban el Reino de Prusia, el Electorado de Hannover y el Reino de Gran Bretaña con sus colonias americanas y, más tarde, su aliado Portugal; por el otro, el Electorado de Sajonia, el Archiducado de Austria, el Reino de Francia, el Imperio ruso, Suecia-Finlandia y el Reino de España, este a partir de 1761. Los dos principales oponentes fueron Francia y Gran Bretaña, pero implicó a la mayoría de las grandes potencias y se desarrolló en Europa, Norteamérica, Centroamérica, la costa occidental de África, la India y Filipinas. La guerra franco-india (1754-1763), la guerra anglo-española (1761-1763) y la Guerra Fantástica (1762-1763) fueron parte de ella. Se la considera la primera guerra a gran escala librada en varios continentes, y Winston Churchill la llamó «la Primera Guerra Mundial»."
+    },
+    {
+     "titulo": "Cómo empezó: Silesia y el cambio de alianzas",
+     "nivel": "hecho",
+     "texto": "A mediados de la década de 1750, con su poder militar reforzado, la dinastía Habsburgo reinante en Austria decidió recuperar Silesia, que estaba en poder de Prusia desde el Tratado de Aquisgrán (1748), que había puesto fin a la guerra de Sucesión austriaca. Esa decisión se considera el detonante de la guerra. María Teresa I contaba con el apoyo de Sajonia, Rusia, Suecia y Francia. Prusia estaba rodeada de enemigos, y su rey Federico II el Grande, seguro de que lo atacarían, decidió adelantarse. En el otoño de 1756, sin declaración de guerra, el ejército prusiano invadió Sajonia y la ocupó; luego entró en Bohemia, pero lo derrotaron los austríacos en Kolín y tuvo que abandonarla.\n\nEl conflicto entre Francia y Gran Bretaña estalló entre 1754 y 1755, cuando los británicos atacaron posiciones que Francia reclamaba en América del Norte y capturaron cientos de buques mercantes franceses. En 1756 las grandes potencias cambiaron de aliados: Prusia se alió con Gran Bretaña, y Francia y Austria, enemigas habituales, formaron una alianza tras la firma del Tratado de Versalles. La alianza anglo-prusiana sumó a los Estados alemanes menores, sobre todo Hannover, y luego a Portugal, que por ello sufrió una invasión franco-española; la alianza franco-austriaca sumó a Suecia, Sajonia y España. Rusia se alió al principio con Austria, pero cambió de bando tras la sucesión del zar Pedro III en 1762. Los impuestos con que Rusia financió la guerra, como el de la sal y el alcohol de la emperatriz Isabel I en 1759, para terminar el Palacio de Invierno, causaron un gran descontento. Rusia, como Suecia, concluyó una paz por separado con Prusia."
+    },
+    {
+     "titulo": "El frente europeo",
+     "nivel": "hecho",
+     "texto": "Federico demostró su genio militar con tres victorias brillantes: Rossbach (5 de noviembre de 1757) contra un poderoso ejército francés, Leuthen (5 de diciembre de ese año) contra los austríacos y Zorndorf en 1758. Desde 1758 y hasta el fin de las hostilidades, atacado desde varios frentes, tuvo que adoptar una táctica defensiva, costosa y peligrosa. Rusos y austríacos unidos lo derrotaron en Kunersdorf, cerca de Fráncfort del Óder, el 12 de agosto de 1759, el peor revés de su vida militar, aunque los aliados no supieron aprovecharlo por el agotamiento y la falta de unidad de mando, y Federico rehízo sus fuerzas y venció al año siguiente a los austríacos en Liegnitz y Torgau. En 1759 los rusos tenían Prusia Oriental y habían tomado Berlín."
+    },
+    {
+     "titulo": "El final y el coste",
+     "nivel": "hecho",
+     "texto": "La guerra terminó en 1763 con el Tratado de París entre Francia, España y Gran Bretaña y la Paz de Hubertusburgo entre Sajonia, Austria y Prusia. En Europa se caracterizó por el asedio e incendio de pueblos y por batallas a campo abierto con enormes pérdidas de vidas: en total murieron entre 900.000 y 1.400.000 personas. Para la historiografía de algunos países cambia su denominación según el escenario: guerra franco-india para Estados Unidos, guerra de la Conquista para el Canadá francófono, guerra de Pomerania (entre Suecia y Prusia, 1757-1762), tercera guerra carnática en la India y tercera guerra silesiana (entre Prusia y Austria, 1756-1763)."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente que he leído llega hasta las campañas de 1759-1760 y los datos generales; no cubre en detalle el frente colonial, la entrada de España ni las condiciones del Tratado de París. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financió a cada coalición y cómo se pagó la guerra, lo que se relaciona con la deuda británica y con los impuestos coloniales que se discutirían después. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19216,6 +19302,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Vietnam, también llamada segunda guerra de Indochina y, en Vietnam, guerra de resistencia contra Estados Unidos, fue un conflicto bélico librado entre 1955 y 1975 para reunificar Vietnam. Enfrentó al gobierno comunista de Vietnam del Norte, respaldado por China y la Unión Soviética, y a sus aliados, conocidos como el Viet Cong, contra el gobierno de Vietnam del Sur, su principal aliado Estados Unidos y otras naciones aliadas. Se calcula que murieron entre 966.000 y 3.010.000 vietnamitas; Estados Unidos contabilizó 58.159 bajas y más de 1.700 desaparecidos, en su contienda más larga hasta la guerra de Afganistán. Fue uno de los eventos más importantes de la Guerra Fría."
+    },
+    {
+     "titulo": "De Indochina a la guerra",
+     "nivel": "hecho",
+     "texto": "El conflicto surgió a partir de la guerra de Indochina (1946-1954), en la que las tropas coloniales francesas combatieron contra el Viet Minh, liderado por los comunistas, en la Indochina francesa; la mayor parte de la financiación del esfuerzo de guerra francés la proporcionó Estados Unidos. Tras la derrota francesa de 1954, la Conferencia de Ginebra decidió que Francia dejara la colonia, que Vietnam se separara en dos Estados soberanos (Vietnam del Norte y del Sur) y que un año después se celebrara un referéndum para decidir la reunificación o la separación definitiva. Pero los dirigentes del Sur optaron por dar un golpe de Estado y no celebrarlo, para evitar que ganara la reunificación. Vietnam del Norte empezó entonces a infiltrar soldados en apoyo del Viet Cong para anexionarse el sur, y Estados Unidos, por la doctrina Truman y la teoría del dominó, que pretendía contener la expansión del comunismo, envió recursos y, desde 1964, tropas.\n\nLa fuente recoge dos «lecciones» de la Segunda Guerra Mundial que pesaron en la época: que los europeos, y los franceses en particular, distaban de ser invencibles, lo que espoleó levantamientos en Asia y África contra Francia, los Países Bajos, Portugal o el Reino Unido; y que tratar de apaciguar al agresor lo vuelve más agresivo, como se vio tras la Conferencia de Múnich, lo que llevó a ver el comunismo como el nuevo poder agresor."
+    },
+    {
+     "titulo": "La escalada estadounidense",
+     "nivel": "hecho",
+     "texto": "Tras el incidente del golfo de Tonkín en 1964, el Congreso de Estados Unidos aprobó una resolución que dio al presidente Lyndon B. Johnson autoridad para aumentar la presencia militar sin declarar la guerra. Johnson lanzó una campaña de bombardeos sobre el norte y empezó a enviar tropas de combate, y el despliegue subió de forma drástica a 184.000 soldados a finales de 1965 y 536.000 a finales de 1968. Las fuerzas estadounidenses se apoyaron en la superioridad aérea y en una potencia de fuego abrumadora para hacer operaciones de «búsqueda y destrucción» en zonas rurales, con bombardeos masivos y el uso de napalm y agente naranja. Las tres primeras etapas del conflicto se desarrollaron sin las líneas de frente tradicionales, con acciones terroristas y guerra de guerrillas; la última fase fue una guerra convencional."
+    },
+    {
+     "titulo": "Del Tet a la caída de Saigón",
+     "nivel": "hecho",
+     "texto": "En 1968 Vietnam del Norte lanzó la ofensiva del Tet, que fue una derrota táctica pero convenció a muchos en Estados Unidos de que la guerra no se podía ganar. El sucesor de Johnson, Richard Nixon, inició en 1969 una política de «vietnamización», con la retirada de las fuerzas estadounidenses. En 1970 un golpe de Estado en Camboya dio lugar a una invasión norvietnamita y a una contrainvasión de Estados Unidos y Vietnam del Sur, que intensificó la guerra civil. En 1972 la mayoría de las tropas estadounidenses se había retirado, y en 1973 los acuerdos de paz de París hicieron que se fuera el resto. Los acuerdos se rompieron casi de inmediato y los combates siguieron hasta la ofensiva de primavera de 1975 y la caída de Saigón ante Vietnam del Norte, que marcó el fin de la guerra. Vietnam del Norte y del Sur se reunificaron oficialmente en 1976 como la actual República Socialista de Vietnam.\n\nEn Estados Unidos, la guerra dio lugar al «síndrome de Vietnam», una aversión pública a la participación militar en el extranjero que, junto con el escándalo Watergate, contribuyó a la crisis de confianza de los años setenta. El fin de la contienda fue solo una pausa en los enfrentamientos de Indochina: después hubo invasiones temporales de Camboya y Laos por Vietnam, y de Vietnam por China."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos que constan son la cronología, las cifras de despliegue y de bajas y la ruptura del referéndum de reunificación. Siguiendo la regla de seguir el dinero y el poder, hay dos datos que la fuente deja en pie: que Estados Unidos financió la mayor parte del esfuerzo de guerra francés en Indochina y que después puso sus propias tropas. Qué industrias y bancos se beneficiaron de la guerra, y cómo afectó el gasto bélico a la economía estadounidense, no consta aquí y queda como tema abierto, no como dato; la ficha del shock de Nixon recoge que la deuda por Vietnam fue una de las causas de la presión sobre el dólar."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19436,6 +19549,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Independencia de los Estados Unidos (19 de abril de 1775 - 3 de septiembre de 1783) fue un conflicto armado que formó parte de la Revolución de las Trece Colonias, en el que las fuerzas independentistas, organizadas como el Ejército Continental y comandadas por George Washington, derrotaron al ejército británico. Se libró en América del Norte, el Caribe y el océano Atlántico y terminó con el Tratado de París, por el que Gran Bretaña reconoció la independencia de los Estados Unidos."
+    },
+    {
+     "titulo": "Cómo se llegó: impuestos y representación",
+     "nivel": "hecho",
+     "texto": "Tras la victoria británica sobre los franceses en la guerra de los Siete Años, en 1763, surgieron tensiones y disputas entre Gran Bretaña y las Trece Colonias por varias cuestiones, entre ellas las leyes del timbre y las de Townshend. Los colonos se sentían injustamente tratados, porque aportaban riqueza e impuestos a la metrópoli pero no tenían medios para decidir sobre esos impuestos, y se sentían marginados y no representados. La ocupación militar británica condujo a la Masacre de Boston en 1770, y el Parlamento británico impuso las Leyes Intolerables a mediados de 1774, tras incidentes como el motín del té del año anterior. Un intento británico de desarmar a los estadounidenses dio lugar a las batallas de Lexington y Concord en abril de 1775, que fueron el comienzo de la guerra.\n\nEn junio el Segundo Congreso Continental convirtió las milicias independentistas en el Ejército Continental y nombró comandante en jefe a George Washington; en agosto de 1775 el Parlamento británico declaró a las colonias en estado de rebelión. La Resolución de Lee se aprobó en Filadelfia el 2 de julio de 1776 y la Declaración de Independencia se ratificó por unanimidad el 4 de julio de 1776."
+    },
+    {
+     "titulo": "Las campañas",
+     "nivel": "hecho",
+     "texto": "Tras un asedio exitoso, las fuerzas de Washington expulsaron al ejército británico de Boston en marzo de 1776, y el comandante británico William Howe respondió con la campaña de Nueva York y Nueva Jersey: capturó la ciudad de Nueva York en noviembre. Washington respondió cruzando clandestinamente el río Delaware y logró pequeñas pero significativas victorias en Trenton y Princeton. En el verano de 1777, cuando Howe estaba a punto de capturar Filadelfia, el Congreso Continental huyó a Baltimore. En octubre de 1777 una fuerza británica del norte, bajo el mando de John Burgoyne, tuvo que rendirse en Saratoga, una victoria estadounidense decisiva para convencer a Francia y a España de que unos Estados Unidos independientes eran viables. En 1779, la expedición Sullivan emprendió una campaña de tierra quemada contra los iroqueses, mayormente aliados de los británicos, aunque las incursiones indígenas en la frontera continuaron.\n\nEl sustituto de Howe, Henry Clinton, quiso llevar la guerra al sur (Virginia, las Carolinas y Georgia), donde se había organizado un sistema esclavista. A pesar de cierto éxito inicial, el general Charles Cornwallis fue asediado en Yorktown por una fuerza franco-estadounidense en septiembre y octubre de 1781 y tuvo que rendirse en octubre."
+    },
+    {
+     "titulo": "El papel de Francia y España",
+     "nivel": "hecho",
+     "texto": "Francia firmó un acuerdo comercial con los rebeldes, seguido de un Tratado de Alianza en febrero de 1778, y ayudó a los revolucionarios con tropas de tierra al mando de Rochambeau y del marqués de La Fayette y con flotas bajo marinos como Guichen, De Grasse y d'Estaing. España se alió con Francia contra Gran Bretaña en el Tratado de Aranjuez, en 1779, aunque no se alió formalmente con los estadounidenses; contribuyó antes de forma clandestina, desde la primavera y el verano de 1776, gracias a Luis de Unzaga y Amézaga y luego a su cuñado Bernardo de Gálvez, y de forma abierta tras Saratoga, con las armas y los suministros proporcionados por los navíos del comerciante Diego de Gardoqui, pariente del gobernador Unzaga, y abriendo un frente en el flanco sur.\n\nLa guerra británica contra Francia y España continuó otros dos años, aunque los combates cesaron en gran parte en América del Norte. En el Tratado de París, ratificado el 3 de septiembre de 1783, Gran Bretaña reconoció la soberanía e independencia de los Estados Unidos. Los Tratados de Versalles resolvieron los conflictos de Gran Bretaña con Francia y España: Gran Bretaña cedió Tobago, Senegal y pequeños territorios en la India a Francia, y Menorca, Florida Occidental y Florida Oriental a España."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, hay dos hechos que se enlazan con otras fichas: el origen del conflicto en los impuestos y la representación, y el coste de la guerra, que llevó a una deuda naciente que la ficha de `deuda-naciente-eeuu-1783-1813` y la de Hamilton y la asunción de deudas recogen. Quién financió a los rebeldes y a qué precio, además de la ayuda en armas de Francia y España, no consta con cifras en esta fuente. Queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19985,6 +20125,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerras napoleónicas",
       "url": "https://es.wikipedia.org/wiki/Guerras_napoleónicas",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerras napoleónicas",
+      "url": "https://es.wikipedia.org/wiki/Guerras_napole%C3%B3nicas",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -20005,6 +20150,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fueron",
+     "nivel": "hecho",
+     "texto": "Las guerras napoleónicas, o guerras de la Coalición, fueron una serie de conflictos entre el Primer Imperio francés, bajo el mando de Napoleón I Bonaparte (1804-1815), y una serie fluctuante de coaliciones europeas. Fueron en parte una extensión de los conflictos que estallaron por la Revolución francesa (1789-1799) y las guerras revolucionarias (la Primera Coalición, 1792-1797, y la Segunda, 1798-1802), y continuaron, según la fuente, «a instigación y gracias al financiamiento del Reino Unido» durante todo el Primer Imperio. Produjeron un periodo de dominación francesa de la Europa continental. No hay consenso sobre cuándo empezaron: unos dicen que con el poder de Napoleón en noviembre de 1799, otros que fueron guerras revolucionarias hasta 1802 y que empezaron con la declaración de guerra británica de 1803, tras la breve paz de Amiens. Se suele llamar a todo el periodo, del 20 de abril de 1792 al 20 de noviembre de 1815, «la Gran Guerra Francesa»."
+    },
+    {
+     "titulo": "De Trafalgar a Wagram (1803-1809)",
+     "nivel": "hecho",
+     "texto": "Tras llegar a primer cónsul en 1799 con el golpe del 18 de brumario, Napoleón tomó el control de la caótica Primera República y organizó un Estado financieramente estable, con una fuerte burocracia y un ejército profesional. Gran Bretaña declaró la guerra a Francia el 18 de mayo de 1803, acabando con la paz de Amiens, y formó una coalición con Suecia, Rusia y Nápoles y Sicilia. Frank McLynn sostiene que Gran Bretaña entró en guerra por una «mezcla de motivos económicos y neurosis nacional». La flota del almirante Nelson aplastó a la armada franco-española en Trafalgar en octubre de 1805, lo que aseguró el control británico de los mares e impidió una invasión de Gran Bretaña. En diciembre de 1805 Napoleón derrotó en Austerlitz al ejército ruso-austríaco, lo que puso fin a la Tercera Coalición. Prusia lideró la Cuarta Coalición con Rusia, Sajonia y Suecia, que reanudó la guerra en octubre de 1806; Napoleón derrotó a los prusianos en Jena y a los rusos en Friedland. En 1809, la mal preparada Quinta Coalición, liderada por Austria, tuvo una sorprendente victoria en Aspern-Essling, pero fue rápidamente derrotada en Wagram."
+    },
+    {
+     "titulo": "El bloqueo continental y la península",
+     "nivel": "hecho",
+     "texto": "Con la esperanza de aislar y debilitar económicamente a Gran Bretaña con su Sistema Continental, Napoleón invadió Portugal, el único aliado británico que quedaba en la Europa continental. Tras ocupar Lisboa en noviembre de 1807, con buena parte de las tropas francesas en España, aprovechó para volverse contra su antiguo aliado, deponer a la familia real española y declarar rey de España en 1808 a su hermano, con el nombre de José I. Los españoles y portugueses se rebelaron, con apoyo británico, y expulsaron a los franceses de la península en 1814 tras seis años de lucha.\n\nRusia, poco dispuesta a soportar las consecuencias económicas de la reducción del comercio, violaba sistemáticamente el bloqueo continental, lo que llevó a Napoleón a lanzar en 1812 una invasión masiva de Rusia, que acabó en un desastre para Francia y en la casi destrucción de la Grande Armée."
+    },
+    {
+     "titulo": "La caída (1813-1815)",
+     "nivel": "hecho",
+     "texto": "Alentados por la derrota rusa, Austria, Prusia, Suecia y Rusia formaron la Sexta Coalición y derrotaron decisivamente a Napoleón en Leipzig en octubre de 1813. Los aliados invadieron Francia por el este, mientras la guerra peninsular se extendía por el suroeste, tomaron París a finales de marzo de 1814 y obligaron a Napoleón a abdicar en abril. Fue exiliado a la isla de Elba y los Borbones volvieron al poder. Napoleón escapó en febrero de 1815 y reasumió el control de Francia durante unos cien días; los aliados formaron la Séptima Coalición y lo derrotaron en Waterloo en junio de 1815, y lo exiliaron a Santa Elena, donde murió seis años después. Las guerras terminaron el 20 de noviembre de 1815 con el Segundo Tratado de París. El Congreso de Viena redibujó las fronteras de Europa y trajo un periodo de relativa paz; las guerras tuvieron profundas consecuencias, como la difusión del nacionalismo y del liberalismo y el ascenso de Gran Bretaña como primera potencia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, el dato que la fuente subraya es que el Reino Unido instigó y financió las coaliciones. La fuente no dice con qué dinero ni a través de quién: cómo se financió esa guerra, qué papel tuvieron los bancos y la deuda británica, queda como tema abierto, a documentar con fuentes específicas, no como dato. La ficha de la guerra de los Siete Años y la del Tratado de París de 1783 muestran un patrón anterior de guerras pagadas con deuda."
+    }
+   ],
    "vista": "politica"
   },
   {
