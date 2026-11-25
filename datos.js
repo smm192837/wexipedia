@@ -25559,8 +25559,8 @@ window.CRONO = {
    "fecha": {
     "desde": 1792,
     "hasta": 1792,
-    "aprox": true,
-    "texto": "hacia 1792 (el nombre se populariza durante la Revolución)",
+    "aprox": false,
+    "texto": "octubre de 1792 (primera aparición del nombre como símbolo de la República, según la Wikipedia en francés)",
     "fuente": "oficial"
    },
    "resumen": "Figura alegórica de la República Francesa; se discute de dónde viene su nombre.",
@@ -25583,11 +25583,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Marianne es la figura alegórica y uno de los símbolos nacionales de la República Francesa; con gorro frigio, encarna sus valores. La Wikipedia en español dice que su nombre derivaría del jesuita Juan de Mariana: los contrarrevolucionarios llamaban «marianos» a los revolucionarios y estos adoptaron el nombre, que se popularizó hacia 1792 (una canción en occitano sobre Marianne fue muy popular en otoño de ese año). Los orígenes de la imagen, en cambio, se sitúan en obras de Daumier (1848) y Rude (monarquía de Julio).",
+    "resumen": "Marianne es la figura alegórica y uno de los símbolos nacionales de la República Francesa. Su nombre aparece como símbolo republicano en una canción en occitano, «La guérison de Marianne», escrita hacia octubre de 1792 y muy popular ese otoño. Sobre el origen del nombre hay dos explicaciones: la historiadora Florence Gauthier propone que alude al jesuita Juan de Mariana (1536-1624), de la Escuela de Salamanca, y que los contrarrevolucionarios llamaban «marianos» a los revolucionarios; la Wikipedia en español presenta esa derivación sin matices. El historiador Maurice Agulhon, en «Marianne au combat», da una explicación más prudente: Marie-Anne era un nombre muy común entre las clases populares, y por eso se usó al principio como apodo despectivo de la República. La Wikipedia en francés recoge ambas, como hipótesis de Gauthier y como explicación de Agulhon.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Marianne",
       "url": "https://es.wikipedia.org/wiki/Marianne",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (fr): Marianne",
+      "url": "https://fr.wikipedia.org/wiki/Marianne",
       "consultado": "2026-11-25"
      }
     ]
@@ -25603,7 +25608,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
@@ -47822,7 +47827,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Enrique de Borbón (Pau, 13-12-1553 – París, 14-5-1610), rey de Navarra y desde 1589 de Francia, primero de la casa de Borbón. Se convirtió al catolicismo en 1593 y fue coronado en 1594. Su Edicto de Nantes (1598) reconoció la tolerancia a los protestantes. Murió apuñalado por François Ravaillac.",
+    "resumen": "Enrique de Borbón (Pau, 13-12-1553 – París, 14-5-1610), rey de Navarra y desde 1589 de Francia, primero de la casa de Borbón. Se convirtió al catolicismo en 1593 y fue coronado en 1594. Su Edicto de Nantes (1598) reconoció la tolerancia a los protestantes. Murió apuñalado por François Ravaillac. El autor sitúa la conversión en 1595 y la coronación en 1598; las fechas habituales son 1593 y 1594, y 1598 es el año del Edicto de Nantes.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -54172,7 +54177,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
@@ -55679,7 +55684,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Su De rege et regis institutione (1599) justificaba en ciertos casos el tiranicidio. El origen del nombre «Marianne» como símbolo de la República suele explicarse por la popularidad de los nombres María y Ana; la relación con Juan de Mariana es una hipótesis minoritaria.",
+    "resumen": "Juan de Mariana (Talavera de la Reina, 1536 – 1624), jesuita e historiador. Su De rege et regis institutione (1599) justificaba en ciertos casos el tiranicidio. El autor da 1535 como año de nacimiento; la versión habitual es 1536. Sobre «Marianne», la derivación del nombre desde Mariana es una hipótesis de la historiadora Florence Gauthier; el historiador Maurice Agulhon propone en cambio que se eligió un nombre muy común, Marie-Anne (ver la ficha «Marianne»).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Juan de Mariana",
@@ -55688,6 +55693,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Marianne",
       "url": "https://es.wikipedia.org/wiki/Marianne"
+     },
+     {
+      "titulo": "Wikipedia (fr): Marianne",
+      "url": "https://fr.wikipedia.org/wiki/Marianne",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -57678,7 +57688,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gabriel Bonnot de Mably (Grenoble, 14-3-1709 – París, 2-4-1785), filósofo francés, hermanastro de Condillac y precursor del socialismo utópico. Criticó la desigualdad y la propiedad privada. Su Des droits et des devoirs du citoyen, escrito en 1758, se publicó tras su muerte.",
+    "resumen": "Gabriel Bonnot de Mably (Grenoble, 14-3-1709 – París, 2-4-1785), filósofo francés, hermanastro de Condillac y precursor del socialismo utópico. Criticó la desigualdad y la propiedad privada. Su Des droits et des devoirs du citoyen, escrito en 1758, se publicó tras su muerte. Las fuentes consultadas no dicen que su obra resuma a Juan de Mariana; esa afirmación es del autor y no se ha podido comprobar en el texto de Mably.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Gabriel Bonnot de Mably",
@@ -57688,6 +57698,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Gabriel Bonnot de Mably",
       "url": "https://en.wikipedia.org/wiki/Gabriel_Bonnot_de_Mably",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (fr): Gabriel Bonnot de Mably",
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Bonnot_de_Mably",
       "consultado": "2026-11-25"
      }
     ]
@@ -57703,7 +57718,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
@@ -59266,6 +59281,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Montesquieu",
       "url": "https://es.wikipedia.org/wiki/Montesquieu",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikisource (fr): De l'esprit des lois (éd. Nourse), Livre 23",
+      "url": "https://fr.wikisource.org/wiki/De_l’esprit_des_lois_(éd._Nourse)/Livre_23",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -59273,8 +59293,8 @@ window.CRONO = {
     {
      "resumen": "La limosna a un hombre desnudo en la calle no cumple las obligaciones del Estado, que debe una subsistencia asegurada a todos",
      "atribuida_a": "Montesquieu",
-     "verificacion": "sin-comprobar",
-     "fuente": "El autor la sitúa en 1748 sin dar la obra; falta localizarla en Sobre el espíritu de las leyes."
+     "verificacion": "verificada",
+     "fuente": "Montesquieu, De l'esprit des lois (1748), libro XXIII, cap. XXIX «Des hôpitaux» (edición Nourse, 1772, en Wikisource fr): «Quelques aumônes que l'on fait à un homme nud, dans les rues, ne remplissent point les obligations de l'état, qui doit à tous les citoyens une subsistance assurée…». El sentido coincide con el del autor; Montesquieu habla de las obligaciones del Estado, no define con esas palabras el «derecho a la existencia»."
     }
    ],
    "conexiones": [
@@ -59287,7 +59307,7 @@ window.CRONO = {
      "nota": ""
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "vista": "politica"
   },
   {
