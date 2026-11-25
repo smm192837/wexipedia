@@ -13845,6 +13845,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes: de la Armada a las primeras expediciones",
+     "nivel": "hecho",
+     "texto": "Según la fuente, la derrota de la Armada Invencible en 1588 impulsó la empresa marítima inglesa. Varios comerciantes pidieron a Isabel I permiso para enviar una escuadra directamente a Oriente; en 1591 tres naves hicieron el primer viaje por el cabo de Buena Esperanza hacia el Índico, y el capitán James Lancaster, con el Bonaventure, llegó al cabo Comorín y a la península malaya y volvió en 1594. Otra expedición, financiada por sir Robert Dudley, perdió sus tres naves. El primer inglés en llegar al norte de la India fue el comerciante John Mildenhall, que viajó por tierra entre 1599 y 1606 y visitó al emperador Akbar."
+    },
+    {
+     "titulo": "La fundación y la carta real de 1600",
+     "nivel": "hecho",
+     "texto": "El 24 de septiembre de 1599 un grupo de comerciantes londinenses formó una sociedad para comerciar directamente con las Indias Orientales y no depender del monopolio holandés de las especias; suscribieron un capital de 30.133 libras y pidieron el apoyo de la Corona. El 31 de diciembre de 1600 Isabel I les concedió por carta real, como «gobernador y compañía de mercaderes londinenses que comercian con las Indias Orientales», un monopolio de quince años para comerciar con la India y los países más allá del cabo de Buena Esperanza hasta el estrecho de Magallanes (salvo lo poseído por príncipes cristianos amigos de la Corona), con la facultad de comprar tierras, hacer estatutos y castigar con multas o prisión. Se prohibía a todos los súbditos ingleses comerciar en esa zona sin permiso, bajo pena de perder naves y carga. Se la dirigía con un gobernador y un comité de 24 miembros elegidos cada julio; se la eximía de derechos de exportación en los cuatro primeros viajes y se le permitía llevar hasta 30.000 libras en plata española u otras monedas extranjeras en el primer viaje. La carta podía revocarse con dos años de aviso si el negocio no beneficiaba al reino, y renovarse si lo hacía. La fuente la describe como una «empresa regulada», y no aún una sociedad anónima, con 217 suscriptores y un capital de 68.373 libras."
+    },
+    {
+     "titulo": "Los «viajes separados» (1601-1612)",
+     "nivel": "hecho",
+     "texto": "La fuente distingue tres épocas: de 1600 a 1612 los «viajes separados», con cada viaje financiado por suscriptores distintos y liquidado al regreso de las naves, un sistema que resultó defectuoso por lo lento de la liquidación y porque los viajes competían entre sí; de 1612 a 1661 las «acciones conjuntas», con suscripción por varios viajes o por años; y desde 1661 la compraventa de acciones, más cercana a las modernas sociedades anónimas. En el primer viaje (1601), Lancaster zarpó con cuatro naves de Torbay, llegó a Aceh el 5 de junio de 1602, y en Bantén, sin cosecha de pimienta, capturó un galeón portugués y cargó especias en otras islas; los beneficios fueron enormes, pero los suscriptores no cobraron hasta 1609 (un 95 %). El segundo (1604) reunió solo 11.000 libras frente a 28.602 del primero. El tercero (1607) llevó la nave Hector a Surat, la primera en recalar en el oeste de la India; su capitán William Hawkins viajó a Agra con una carta de Jacobo I, y se retiró tras dos años y medio sin conseguir una factoría estable por la oposición portuguesa. El rendimiento fue del 234 %. En el cuarto viaje (1608) solo se equiparon dos naves, y en el quinto (1609) una, con ganancia conjunta con el tercero del 254 %. El sexto (1610), con 82.000 libras, tuvo tres naves a las órdenes de Henry Middleton; este fue capturado en Moka y en represalia capturó naves en Dabul y en el mar Rojo."
+    },
+    {
+     "titulo": "Competencia con los holandeses y la carta de 1609",
+     "nivel": "hecho",
+     "texto": "Según la fuente, los resultados de los dos primeros viajes eran pobres frente a la Compañía Neerlandesa, que tenía 540.000 libras de capital y grandes flotas anuales, y los economistas ingleses condenaban un comercio que cambiaba el tesoro del reino por mercaderías: en los dos primeros viajes se enviaron mercancías por 8.002 libras y plata y monedas por 32.902. La Corona estaba descontenta porque zarpaban menos naves de las previstas. En 1604 Jacobo I autorizó a Edward Michelborne a comerciar donde la compañía no estuviera, y sus actos de piratería en Bantén comprometieron a la empresa; la fuente lo cita entre las causas de la represalia holandesa que acabó en la tragedia de Ambon. En 1609 el rey emitió una nueva carta real con monopolio a perpetuidad, con revocación mediante tres años de aviso, y la compañía empezó a construir sus propias naves en Deptford: ese año se botó el Trades Increase, de 1.100 toneladas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente trata la Compañía Británica de las Indias Orientales y llega, en el texto que leí, hasta 1612; no cubre la conquista de la India, el comercio del opio ni la disolución de 1858-1874, y no he leído su sección sobre la Compañía Neerlandesa, que es la otra mitad de la ficha. Siguiendo la regla de seguir el dinero y el poder, queda abierto quiénes eran los 217 suscriptores iniciales, cómo se repartían las ganancias entre ellos y la Corona, y qué papel tuvo la plata española en el comercio. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -30428,6 +30455,38 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Plan Cóndor, u Operación Cóndor, fue una campaña de represión política y terrorismo de Estado llevada a cabo desde 1975 por varias dictaduras latinoamericanas, con el respaldo del gobierno de Estados Unidos según la fuente, con operaciones de inteligencia y asesinato de opositores en el continente. Se formalizó el 25 de noviembre de 1975 en una reunión en Santiago de Chile entre Manuel Contreras, jefe de la DINA, y los jefes de inteligencia militar de Argentina, Bolivia, Chile, Paraguay y Uruguay; Brasil se unió en 1976 y Ecuador y Perú en 1978. La coordinación incluyó seguimiento, detención, interrogatorios con tortura, traslados entre países y desaparición o asesinato de personas consideradas «subversivas», sobre todo de izquierda, peronismo, sindicalismo, estudiantes, docentes, periodistas, artistas, teología de la liberación y derechos humanos. Venezuela, según la fuente, rechazó la operación y acogió a muchos exiliados."
+    },
+    {
+     "titulo": "El contexto: dictaduras y Guerra Fría",
+     "nivel": "hecho",
+     "texto": "Según la profesora Joan Patrice McSherry, la doctrina nació en los años sesenta en la Escuela de las Américas y en las Conferencias de Ejércitos Americanos, donde Estados Unidos enseñaba a oficiales latinoamericanos acciones «preventivas» (torturas). A mediados de los setenta había una red de dictaduras: Stroessner en Paraguay (1954), el golpe de 1964 en Brasil, Bánzer en Bolivia (1971), la dictadura de Uruguay (junio de 1973), Pinochet en Chile (septiembre de 1973), Morales Bermúdez en Perú (1975) y la junta de Videla en Argentina (1976). El periodista A. J. Langguth atribuye a una operación de la CIA las primeras reuniones entre funcionarios de seguridad uruguayos y argentinos sobre la vigilancia de exiliados, y afirma que la CIA suministró equipos de tortura a brasileños y argentinos; en 2007 McSherry, apoyándose en un documento desclasificado de la CIA del 23 de junio de 1976, confirmó el secuestro y la tortura de refugiados chilenos y uruguayos en Buenos Aires. La fuente enmarca el plan en la Doctrina de la Seguridad Nacional y cita apoyo de las administraciones de Nixon, Ford, Carter y Reagan. También recuerda precedentes como Nacht und Nebel y la «estrategia de la tensión» italiana."
+    },
+    {
+     "titulo": "Los «Archivos del Terror» y el modelo económico",
+     "nivel": "hecho",
+     "texto": "El 22 de diciembre de 1992 el juez paraguayo José Fernández encontró en una comisaría de Lambaré los «Archivos del Terror», que detallan el destino de miles de latinoamericanos secuestrados, torturados y asesinados por los servicios de seguridad, y que prueban el acuerdo de intercambio de información y prisioneros. Dan una cifra de unos 50.000 asesinados, 30.000 desaparecidos y 400.000 encarcelados. Hay más cooperación documentada: en junio de 1980 se supo que Perú colaboró con el Batallón de Inteligencia 601 argentino en el secuestro, tortura y desaparición de montoneros exiliados en Lima. La fuente apunta también a una dimensión económica: las dictaduras aplicaron políticas neoliberales con endeudamiento creciente, con una táctica de Estados Unidos y el FMI para implantar ese modelo y abrir las economías a la inversión extranjera, y cita a la ALALC (1969) y el caso brasileño (Instrucción 289 de 1965, que daba a empresas extranjeras créditos al 7-8 % frente a cerca del 50 % de las nacionales)."
+    },
+    {
+     "titulo": "Casos, consecuencias y víctimas verificadas",
+     "nivel": "hecho",
+     "texto": "La fuente recoge casos en Argentina, Brasil (incluido el de João Goulart), Chile, Paraguay, Uruguay, Bolivia, Perú y México. Tras los hallazgos hubo una «Operación Silencio» para eliminar testigos: se vincula la salida de Chile en 1991 de Arturo Sanhueza y Carlos Herrera y el traslado a Uruguay del químico Eugenio Berríos (hallado muerto en 1992 cerca de Montevideo). En 2005 Michael Townley, agente de la DINA, reconoció a Interpol los vínculos entre la DINA y Colonia Dignidad. Sobre las víctimas, la fuente advierte de la dificultad de precisar, porque hay que comprobar la coordinación de al menos dos fuerzas de seguridad: el libro «Operación Cóndor. 40 años después» (2015) lista 377 víctimas confirmadas (177 uruguayas, 72 argentinas, 64 chilenas, entre otras), con 219 desaparecidos, 38 asesinados, 126 traslados ilegales entre países y 12 niños robados que recuperaron su identidad."
+    },
+    {
+     "titulo": "Juicios",
+     "nivel": "hecho",
+     "texto": "En Argentina el juicio empezó el 5 de marzo de 2013 contra 18 acusados (17 llegaron a sentencia) por delitos de lesa humanidad contra 105 víctimas. El 27 de mayo de 2016 el Tribunal Oral Federal n.º 1 condenó a quince, con penas de hasta 25 años (Riveros, Furci y el uruguayo Cordero) y 20 a Bignone; definió el Plan Cóndor como «una asociación ilícita» regional y registró la participación activa de Estados Unidos. El juez Oyarbide ordenó en 2012 la captura del peruano Morales Bermúdez. En Italia, el juicio empezó en 2015 contra 33 acusados por delitos contra 23 ciudadanos italianos: en 2017 se condenó a cadena perpetua a ocho, entre ellos el boliviano García Meza, el peruano Morales Bermúdez y el excanciller uruguayo Juan Carlos Blanco, y en 2019, en apelación, a cadena perpetua a 24 represores en ausencia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo largo con un marco interpretativo muy marcado sobre el papel de Estados Unidos y el modelo económico; lo he dejado como «según la fuente» y no lo he contrastado con otra. No he leído las secciones sobre casos concretos (Argentina, Chile, México y otros), la intervención de otros países ni la conexión francesa. Las cifras de 50.000 asesinados y 400.000 presos (Archivos del Terror) y las 377 víctimas confirmadas miden cosas distintas. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué empresas y bancos se beneficiaron de las privatizaciones y la deuda, y cuánto de la ayuda de Estados Unidos fue formación, dinero o armas, según los documentos desclasificados. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -40027,6 +40086,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué se firmó y cómo",
+     "nivel": "hecho",
+     "texto": "El Tratado de París se firmó el 3 de septiembre de 1783 entre el Reino de Gran Bretaña y los Estados Unidos y puso fin a la guerra de Independencia. Según la fuente, el cansancio de los participantes y el predominio inglés en el mar hacían imposible un desenlace militar. Lo firmaron David Hartley, parlamentario británico, en nombre de Jorge III, y John Adams, Benjamin Franklin y John Jay por Estados Unidos; el Congreso de la Confederación lo ratificó el 14 de enero de 1784 y los británicos el 9 de abril de 1784. Se negoció en la embajada británica en Francia, pero Franklin se negó a firmar en suelo británico y los ministros se trasladaron al Hotel de York, en el número 56 de la rue Jacob."
+    },
+    {
+     "titulo": "Qué acordaron los dos países",
+     "nivel": "hecho",
+     "texto": "Reconoció la independencia de las Trece Colonias (art. 1) y dio a la nueva nación todo el territorio al norte de Florida, al sur de Canadá y al este del Misisipi, con el paralelo 31º como frontera sur entre el Misisipi y el Apalachicola; Gran Bretaña renunció al valle del Ohio y dio a Estados Unidos plenos derechos de pesca en Terranova (arts. 2 y 3). Las deudas legítimas debían pagarse a los acreedores de ambas partes (art. 4), Estados Unidos evitaría nuevas confiscaciones de bienes de los «leales» a la Corona (art. 6), se liberaría a los prisioneros (art. 7) y británicos y estadounidenses tendrían libre acceso al Misisipi (art. 8). Canadá siguió siendo dominio de la Corona."
+    },
+    {
+     "titulo": "Los acuerdos con Francia, España y los Países Bajos",
+     "nivel": "hecho",
+     "texto": "El mismo día los británicos firmaron en Versalles acuerdos separados con España y con Francia, y con los Países Bajos el 20 de mayo de 1784. España conservó Menorca y la Florida Occidental, recibió la Florida Oriental (12 de julio de 1784) y recuperó la costa de los Mosquitos (por la Convención de Londres de 1786); se reconoció su soberanía sobre Providencia y la inglesa sobre Bahamas, pero Gran Bretaña mantuvo Gibraltar, porque Londres consideraba impracticable el control del Mediterráneo sin el Peñón. Francia recibió San Pedro y Miquelón, Santa Lucía y Tobago, derechos de pesca en Terranova, y recuperó Puducherry y las plazas del Senegal. Los Países Bajos recibieron Sumatra (salvo Bengkulu), recuperaron Trincomalee y el Ceilán neerlandés, y debían entregar Negapatnam y reconocer a los ingleses la navegación libre por el Índico."
+    },
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "Según la fuente, los logros fueron favorables sobre todo para España y, en menor medida, para Francia, a pesar del alto coste de la guerra y de la paralización del comercio con América, un lastre para la economía francesa. El triunfo de los rebeldes norteamericanos iba a influir en los virreinatos españoles y en otras colonias británicas por emulación, por la ambición de los antiguos colonos sobre territorios españoles y por la intervención de otras potencias interesadas en destruir la Monarquía Española en América, aspectos que se manifestaron con claridad en las guerras napoleónicas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo breve de una enciclopedia abierta; no copia el texto de los artículos 4 y 5 y no discute la lectura de Nocera de esos artículos. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo se pagaron en la práctica las deudas del artículo 4, quiénes eran los acreedores británicos y qué peso tuvieron los intereses de los bancos y de los comerciantes en la negociación. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -40730,6 +40816,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es y cómo nació",
+     "nivel": "hecho",
+     "texto": "La Unesco es un organismo especializado de la ONU, fundado el 16 de noviembre de 1945 para contribuir a la paz y la seguridad mediante la educación, la ciencia, la cultura y las comunicaciones. Fue concebida para promover la paz y la solidaridad intelectual tras la Segunda Guerra Mundial, con Francia y el Reino Unido como impulsores. Su constitución entró en vigor el 4 de noviembre de 1946, ratificada por veinte países, y su sede principal, en París, se inauguró en 1958. En 2017 tenía 195 Estados miembros. Sus antecedentes son una resolución de la Sociedad de Naciones del 21 de septiembre de 1921 y el Comité Internacional de Cooperación Intelectual (1922, con Bergson, Einstein, Marie Curie y Millikan entre sus miembros), con un Instituto en París desde 1924, y la Oficina Internacional de Educación (1925), que se unió a la Unesco en 1969. La Segunda Guerra Mundial interrumpió esa labor."
+    },
+    {
+     "titulo": "La fundación (1942-1946)",
+     "nivel": "hecho",
+     "texto": "Según la fuente, la Unesco tiene sus raíces en 1942, cuando los Aliados empezaron a preparar el restablecimiento de sus sistemas educativos en la Conferencia de Ministros Aliados de Educación, celebrada en el Reino Unido y convocada por miembros de 21 Clubes Rotarios del mundo. Como resultado, del 1 al 16 de noviembre de 1945 se reunió en Londres una conferencia de la ONU sobre educación y cultura con 44 países, de los que 37 decidieron fundar la Unesco y firmaron su constitución el 16 de noviembre. La ratificaron veinte Estados: Arabia Saudita, Australia, Brasil, Canadá, Checoslovaquia, China, Dinamarca, Egipto, Estados Unidos, Francia, Grecia, India, Líbano, México, Noruega, Nueva Zelanda, República Dominicana, Reino Unido, Sudáfrica y Turquía. Poco después empezó en París la primera Conferencia General. Japón y la República Federal Alemana entraron en 1951, Francia y España en 1953 y la URSS en 1956. En 1957 Sudáfrica fue el primer país en irse, alegando «interferencias» en sus «problemas raciales». En 1960 se lanzó el primer gran proyecto, la protección de los templos de Abu Simbel y otros 21 monumentos amenazados por la presa de Asuán."
+    },
+    {
+     "titulo": "Qué hace",
+     "nivel": "hecho",
+     "texto": "Se orienta a que los pueblos gestionen mejor su desarrollo mediante recursos naturales y valores culturales, sin perder identidad ni diversidad, con especial apoyo a la alfabetización. En educación prioriza la enseñanza elemental, la formación de docentes y la construcción de escuelas; en cultura, la salvaguarda del patrimonio, de las tradiciones orales y la promoción del libro y la lectura; en información, la libre circulación de ideas, la libertad de prensa y el pluralismo de los medios. Sus primeras actividades se centraron en reconstruir los sistemas educativos dañados por la guerra y en promover los valores de paz y derechos humanos."
+    },
+    {
+     "titulo": "Crisis y debates: NWICO, retiradas y Palestina",
+     "nivel": "hecho",
+     "texto": "En los años setenta, bajo la dirección de Amadou-Mahtar M'Bow y con más peso de los países no alineados, se planteó el Nuevo Orden Mundial de la Información y la Comunicación (NWICO), que según la fuente implicaba más control estatal de los medios, frente a la estrategia comercial defendida por Estados Unidos, y el Informe MacBride propuso medidas para la «democratización de la comunicación». Estados Unidos rompió relaciones y cortó fondos citando diferencias de gestión y abandonó la organización en 1985, y el Reino Unido y Singapur en 1986, con una fuerte caída del presupuesto. Con Federico Mayor Zaragoza como director general desde 1987 se aparcó el NWICO a favor de posiciones más occidentales. Estados Unidos volvió el 1 de octubre de 2003. En octubre de 2011 la Unesco aprobó la adhesión de Palestina como miembro de pleno derecho, con 14 votos en contra, entre ellos Estados Unidos e Israel; Estados Unidos dejó de pagar su cuota anual de 80 millones de dólares (más de 600 millones de deuda según la fuente). El 12 de octubre de 2017 Estados Unidos anunció su retirada, tras la declaración de la Ciudad Vieja de Hebrón como Patrimonio de la Humanidad, y ese mismo día Israel anunció la suya; ambas se hicieron efectivas el 31 de diciembre de 2018."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo de una enciclopedia abierta; la lista de directores generales está vacía en el texto que leí, así que no puedo confirmar con ella lo que se dice de Julian Huxley ni de su manifiesto, que es la tesis del autor. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financia hoy a la Unesco (la fuente solo da los impagos de Estados Unidos), qué fundaciones privadas influyen en sus programas y cómo se decide qué patrimonio se declara. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
