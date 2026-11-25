@@ -700,7 +700,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1725
    },
-   "resumen": "Según el autor, en 1725 (año 540) se añaden 185 años a la historia y empieza el proyecto del calendario gregoriano, borrando el rastro del proyecto imperial del Arca de Salomón (1486-1671).",
+   "resumen": "Una tesis de la cronología alternativa según la cual se habrían añadido 185 años a la historia hacia 1725, ligados al proyecto del calendario gregoriano; la versión oficial es la reforma de 1582.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -754,7 +754,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XVII-XVIII"
    },
-   "resumen": "Según el autor, las Guerras de Religión repartieron la herencia del imperio, y los cosacos fueron expulsados hacia las fronteras; los siglos XVII y XVIII son casi borrados porque, tras crear a los jesuitas, se eliminan 186 años de historia para ocultar la disputa europea por el control de los ejércitos.",
+   "resumen": "Una tesis de la cronología alternativa según la cual se habrían eliminado 186 años de los siglos XVII y XVIII tras crear a los jesuitas. La Compañía de Jesús se aprobó en 1540 y los siglos XVII y XVIII están ampliamente documentados; las fuentes consultadas sobre la reforma del calendario (1582) no recogen la eliminación de 186 años.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -873,7 +873,7 @@ window.CRONO = {
     "texto": "1837 (nacimiento de Alois Hitler)",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, Hitler descendería de los Rothschild por su abuela, que trabajó en su casa.",
+   "resumen": "Alois, padre de Hitler, nació en 1837 de Maria Schicklgruber sin padre conocido.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -915,7 +915,7 @@ window.CRONO = {
     "desde": 1720,
     "hasta": 1830
    },
-   "resumen": "Según el autor, la academia de historia de Rusia, fundada en 1720, tuvo hasta 1830 una plantilla casi toda de origen alemán.",
+   "resumen": "La fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -967,7 +967,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1925
    },
-   "resumen": "Según el autor, el verano de 1925 abrió el giro de Mussolini hacia el Vaticano y un trato secreto con Gasparri a cambio de eliminar la masonería.",
+   "resumen": "Mussolini, anticlerical en sus años socialistas, fue moderando su postura al llegar al poder y negoció con la Santa Sede; las conversaciones que llevaron a los Pactos de Letrán comenzaron en 1926 y las dirigió por parte vaticana el cardenal Gasparri.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -1373,7 +1373,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "años 60 – 1973"
    },
-   "resumen": "Según Artur Sala, el sistema de Marcel Violet (imán, un electrodo y condensador de cera de abeja) energetizaría cualquier agua, con efectos en plantas, ratas y supuestas remisiones de cáncer.",
+   "resumen": "Un sistema de Marcel Violet con un imán, un electrodo y un condensador aislado con cera de abeja, que según Artur Sala daría energía a cualquier agua. Los dispositivos de «dinamización» de Marcel Violet (campo magnético y condensador aislado con cera de abeja conectado a electrodos) solo se describen en páginas divulgativas y de venta.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -1467,7 +1467,7 @@ window.CRONO = {
     "aprox": true
    },
    "fecha_autor": "nacido en 1053",
-   "resumen": "Según el autor, los Alba serían Comneno: el primer «Toledo» no era de allí, sino Pedro Comneno, príncipe del Imperio Griego nacido en 1053, que ocupó la ciudad y le dio nombre; fuentes: Láscaris Comneno (2011, 1960, 1955) y Miniati (1663); crearon la Escuela de Traductores de Toledo en el siglo XVI.",
+   "resumen": "El ducado de Alba de Tormes fue creado en 1472 por Enrique IV de Castilla en favor de García Álvarez de Toledo, heredero de un linaje castellano documentado desde el siglo XIV; la casa no tiene vinculación acreditada con la dinastía bizantina de los Comneno.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -1603,7 +1603,7 @@ window.CRONO = {
     "desde": 1581,
     "hasta": 1719
    },
-   "resumen": "Según el autor: el Almagesto se traslada a Italia en 1581-1671 (=1396-1486); los «estudios generales» de Europa occidental se crean en 1574-1657 (=1399-1472); Clemente VII crea la biblioteca Medici con obras helénicas en 1630-1719 (=1445-1534); y la biblioteca de Constantinopla se traslada a Italia en 1653 (=1648) para manipularse.",
+   "resumen": "El traslado a Italia del Almagesto, el tratado de astronomía de Ptolomeo, que un autor fecha mucho más tarde que la versión oficial. El Almagesto es el tratado astronómico que Claudio Ptolomeo escribió en Alejandría en el siglo II: contiene el catálogo estelar más completo de la Antigüedad y la exposición del modelo geocéntrico.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -1657,7 +1657,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1602
    },
-   "resumen": "Según el autor, las amazonas griegas serían una copia de las mujeres a caballo de los zares; en 1602 el príncipe Juan de Dinamarca vio una escolta de 24 doncellas a caballo con la cara cubierta, y un mapa de Carlos V sitúa «Amazonia» entre el Volga y el Don.",
+   "resumen": "Los relatos de viajeros europeos de finales del siglo XVI y comienzos del XVII describen una escolta femenina a caballo en los cortejos de la corte moscovita, un fenómeno breve pero llamativo que la historiografía ha estudiado bajo el rótulo de «amazonas» de palacio.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -1990,7 +1990,7 @@ window.CRONO = {
     "desde": 1795
    },
    "fecha_autor": "1795 (=1910); biblioteca de 1633 (=1448)",
-   "resumen": "Según el autor, los archivos de Aviñón se trasladan al Vaticano en 1783, Napoleón ocupa Roma y el Vaticano en 1798, y el Archivo Secreto del Vaticano se crea en 1795 (=1910), con origen en la Biblioteca Vaticana de 1633 (=1448) y en la Biblioteca Imperial de Constantinopla, destruida por los turcos en 1638 (=1453).",
+   "resumen": "El Archivo Secreto Vaticano (hoy Archivo Apostólico) se funda en 1612 por orden del papa Pablo V, que separó los archivos de la Biblioteca Vaticana; no nace en 1795-1817.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -2040,7 +2040,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1783
    },
-   "resumen": "Según el autor, los archivos de Aviñón se trasladan al Vaticano en 1783, Napoleón ocupa Roma y el Vaticano en 1798, y el Archivo Secreto del Vaticano se crea en 1795 (=1910), con origen en la Biblioteca Vaticana de 1633 (=1448) y en la Biblioteca Imperial de Constantinopla, destruida por los turcos en 1638 (=1453).",
+   "resumen": "Los archivos de Aviñón se trasladaron a Roma de forma gradual y su última parte llegó en 1783; en 1798 el contenido del archivo de Sant'Angelo pasó al Vaticano.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -2087,7 +2087,7 @@ window.CRONO = {
     "desde": 1712,
     "hasta": 1795
    },
-   "resumen": "Según el autor, el siglo XVIII es cuando nacen los archivos y las bibliotecas imperiales europeas; da una lista: Biblioteca Nacional de España (1712), la de Francia (1720), la Colombina (1724-1737), Simancas (1725 =1540), la Corte de Viena (1726), el Archivo de la Corona de Aragón (1738), la British Library y el Museum (1753), el Archivo de Indias (1785), el Louvre (1793), el Archivo Secreto Vaticano (1795-1817) y la Biblioteca Nacional Rusa (1795-1814).",
+   "resumen": "El nacimiento de archivos y bibliotecas públicas en la Europa del siglo XVIII, que un autor presenta como obra de los imperios. El siglo XVIII fue decisivo para la apertura de bibliotecas y archivos públicos en Europa: la Real Biblioteca Pública española nació en 1711-1712 por iniciativa de Felipe V y el Archivo General de Indias se creó en 1785 para reunir la documentación americana.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -2134,7 +2134,7 @@ window.CRONO = {
     "desde": 1993,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, Mae-Wan Ho observó gusanos vivos con microscopio de geólogo y vio el patrón de un cristal, lo que indicaría que el agua celular es cristalina.",
+   "resumen": "Una observación de Mae-Wan Ho con un microscopio de luz polarizada, en la que ve colores en una larva de mosca; Artur Sala la usa para defender que el agua de la célula es cristalina.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -2304,7 +2304,7 @@ window.CRONO = {
     "texto": "22 de noviembre de 1963",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, un «ritual de inmolación del rey» ordenado desde arriba y ejecutado por mafias.",
+   "resumen": "Kennedy fue asesinado en Dallas el 22 de noviembre de 1963.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2460,7 +2460,7 @@ window.CRONO = {
     "texto": "2 de agosto de 1980",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, una falsa bandera financiada por David Rockefeller y la Comisión Trilateral.",
+   "resumen": "Bomba en la estación de Bolonia el 2 de agosto de 1980: 85 muertos. Fueron condenados neofascistas de los NAR (Fioravanti, Mambro, Ciavardini, Cavallini) y Paolo Bellini (definitiva en 2025); las sentencias señalan a Licio Gelli, jefe de la P2, como financiador.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2715,7 +2715,7 @@ window.CRONO = {
     "desde": 2001,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, atentados usados para que la población acepte nuevas normas.",
+   "resumen": "El 11 de septiembre de 2001 la red Al Qaeda secuestró cuatro aviones en EE. UU. y murieron casi 3.000 personas. La Comisión del 11S (2004) documentó los fallos de inteligencia previos.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -4114,7 +4114,7 @@ window.CRONO = {
     "texto": "Fundación romana (44 a. C.) a 1897",
     "aprox": true
    },
-   "resumen": "Nocera presenta Basilea y Ginebra como dos centros de poder europeos vinculados históricamente a los Estados Papales, junto con la City de Londres y el Distrito de Columbia.",
+   "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por la Francia revolucionaria en 1798, la tomaron tropas austriacas en 1813 y se sumó a la Confederación Helvética en 1815.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -4180,7 +4180,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1380
    },
-   "resumen": "Según el autor, en 1380 Dmitri Donskói derrotó a Mamái en Kulikovo; fue una guerra civil religiosa entre las dos ramas del cristianismo (la apostólica ganó); el icono de Yaroslavl, descubierto en 1959, muestra pistolas y estandartes con la misma imagen del Salvador; después se fundó Moscú.",
+   "resumen": "El 8 de septiembre de 1380, junto al Don, Dmitri Donskói, gran príncipe de Moscú, derrotó al ejército de Mamái, caudillo de la Horda de Oro; se considera la primera gran victoria rusa sobre los tártaros.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4394,7 +4394,7 @@ window.CRONO = {
     "hasta": 1778
    },
    "fecha_autor": "1777 (=1592); 1778 (=1593)",
-   "resumen": "Según el autor, la última Biblia católica (1777 =1592) se impone como relato histórico que legitima a los imperios y al Papa; su publicación en Francia obliga al rey hugonote a hacerse católico en 1778 (=1593) y desemboca en la Revolución Francesa de 1789.",
+   "resumen": "La Iglesia católica promulgó la Vulgata Sixtina en 1590 y, tras retirarla, la Sixto-Clementina en 1592, que fue la oficial hasta la Nova Vulgata de 1979.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4442,7 +4442,7 @@ window.CRONO = {
     "hasta": 1820
    },
    "fecha_autor": "1751-1820 (=1566-1635)",
-   "resumen": "Según el autor, en 1751-1820 (=1566-1635) la biblioteca de Alejandría se envió a Scaliger en París, que con los jesuitas reescribió la historia; los jesuitas crearon el «Santoral» cristiano en el siglo XVIII y los benedictinos la genealogía de los papas.",
+   "resumen": "Una tesis de un autor según la cual los fondos de la Biblioteca de Alejandría pasaron a Joseph Scaliger, en París; la versión oficial dice que desapareció en la Antigüedad. La Biblioteca de Alejandría, ligada al Mouseion, se formó en el siglo III a. C. bajo los Ptolomeos y desapareció en la Antigüedad entre incendios, saqueos y abandono; no hay constancia de que sus fondos se trasladaran a París.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4490,7 +4490,7 @@ window.CRONO = {
     "hasta": 1737
    },
    "fecha_autor": "oficialmente 1539-1552",
-   "resumen": "Según el autor, la biblioteca de Hernando Colón pasó (1539, 1544, 1552) a la Cartuja, a San Pablo (con Antonio Toledo, sobrino del duque de Alba) y a la catedral de Sevilla, donde fue saqueada: de 15.381 volúmenes quedaron 1.194; con la intervención de 1725 se puso fin a la lucha entre Ángelus y Láscaris.",
+   "resumen": "El destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4722,7 +4722,7 @@ window.CRONO = {
     "texto": "1948",
     "fuente": "autor"
    },
-   "resumen": "Según Artur Sala, es una recopilación de artículos con las investigaciones de Reich sobre el cáncer y el efecto Warburg.",
+   "resumen": "Un libro de Wilhelm Reich de 1948 con sus investigaciones sobre el cáncer. Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón».",
    "segun": [
     {
      "autor": "artur-sala",
@@ -4824,7 +4824,7 @@ window.CRONO = {
     "texto": "generalato de Beckx (1853–1887)"
    },
    "fecha_autor": "no da",
-   "resumen": "El autor cuenta que Bismarck habría dicho que Marx estaba bajo el control del padre Beckx, superior de los jesuitas.",
+   "resumen": "Bismarck dirigió el Kulturkampf contra la Iglesia católica (1871-1878) y el 4 de julio de 1872 ordenó expulsar a los jesuitas del Imperio alemán; Beckx fue elegido general de la Compañía en 1853 y murió en 1887.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5059,7 +5059,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1838
    },
-   "resumen": "Según el autor, en 1838 Próspero de Bofarull publica «Los condes de Barcelona vindicados»; probablemente parte de la historia de los reyes de España se escribió en Barcelona sobre documentos imperiales manipulados.",
+   "resumen": "El libro «Los condes de Barcelona vindicados» de Próspero de Bofarull, director del Archivo de la Corona de Aragón. Próspero de Bofarull (Reus, 1777-1859), director del Archivo de la Corona de Aragón, publicó «Los condes de Barcelona vindicados» en 1836 (dos tomos), no en 1838.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -5176,7 +5176,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "hacia 1917–1922"
    },
-   "resumen": "El autor afirma que varios dirigentes bolcheviques eran masones o frecuentaron logias, con Lunacharski en el Gran Oriente de Francia.",
+   "resumen": "La historiografía documenta una masonería política en Rusia de 1905 a 1917 (Gran Oriente de los Pueblos de Rusia, con Kérenski), cerrada por los bolcheviques tras octubre de 1917.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5256,7 +5256,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "Cuando prácticamente ya había terminado la II Guerra Mundial",
-   "resumen": "Según el autor, Churchill ordenó el ataque incendiario sobre Dresde, ciudad llena de civiles y sin interés estratégico, con más de 100.000 muertos, cuando la guerra ya casi había acabado; por eso la versión oficial de la guerra la escribió «un criminal, supremacista y genocida». Añade que Churchill fue Secretario de Estado para las Colonias en el Mandato de Palestina, cuando muchos sionistas emigraron gracias a la Declaración Balfour.",
+   "resumen": "El bombardeo de Dresde por la RAF y la fuerza aérea de EE. UU. se produjo entre el 13 y el 15 de febrero de 1945. Una comisión de historiadores nombrada por la ciudad concluyó en 2010 que murieron hasta 25.000 personas; las estimaciones anteriores llegaban a 135.000 y fueron rebajadas en parte por usos propagandísticos.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -5306,7 +5306,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1945
    },
-   "resumen": "El autor afirma que tras la guerra varios directores del BPI fueron acusados de crímenes de guerra y que el banco dio continuidad a los intereses financieros alemanes desde la era nazi.",
+   "resumen": "El consejo del BPI volvió a reunirse en Basilea en diciembre de 1946 y el banco siguió funcionando tras la guerra. Emil Puhl, director del BPI y vicepresidente del Reichsbank, fue juzgado en Núremberg; la cifra de «cinco directores juzgados, incluido Schacht» procede de fuentes secundarias y no se ha confirmado en fuente abierta.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5368,7 +5368,7 @@ window.CRONO = {
     "hasta": 1945,
     "fuente": "oficial"
    },
-   "resumen": "El autor sostiene que durante la guerra el BPI funcionó como brazo del Reichsbank, aceptó oro saqueado y fue dirigido por banqueros de países enfrentados.",
+   "resumen": "El BPI reconoce que durante la guerra recibió 3,7 toneladas de oro del Reichsbank procedente de saqueos a los bancos centrales de Bélgica y Países Bajos; un informe estadounidense eleva el total de oro saqueado adquirido a unos 13,5 t, con unas 3,9 t retenidas al final.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5458,7 +5458,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1944
    },
-   "resumen": "Según el autor: 1913 Reserva Federal; 1914-1945 dos guerras mundiales; 1944 Bretton Woods (FMI, Banco Mundial, paraísos fiscales); 1945 ONU; 1948 Israel; 1958 IESE (Opus Dei) y ESADE (Compañía de Jesús); 1959 Concilio Vaticano II («el catolicismo abraza el capitalismo global»); 1991 globalización.",
+   "resumen": "La conferencia de Bretton Woods (New Hampshire) se celebró del 1 al 22 de julio de 1944 con delegados de 44 países y creó el Fondo Monetario Internacional y el Banco Internacional de Reconstrucción y Fomento (Banco Mundial), con un sistema de cambios fijos que duró unas tres décadas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -5720,7 +5720,7 @@ window.CRONO = {
     "desde": 1882,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, muy influyentes en la inteligencia y la policía de EE. UU.",
+   "resumen": "Organización fraternal católica fundada en 1882 en New Haven por el sacerdote Michael McGivney, dedicada a la ayuda mutua y la beneficencia.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5813,7 +5813,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1453
    },
-   "resumen": "Según el autor, la «conquista otomana» fue la segunda ola de la Horda rusa: tras caer Constantinopla en 1453 (bajo Iván III, como cree hoy que la conquistaron «atamanes» eslavos de los Balcanes) surgió un segundo centro en Estambul; el nombre «otomano» vendría del cosaco Gizman Ataman, y Rusia y Turquía eran una sola potencia hasta finales del siglo XVI.",
+   "resumen": "Constantinopla cayó el 29 de mayo de 1453 ante el sultán otomano Mehmed II tras un asedio de 53 días; terminó el Imperio bizantino y la ciudad pasó a ser capital otomana.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -5868,7 +5868,7 @@ window.CRONO = {
     "desde": 1720
    },
    "fecha_autor": "1720; en otro pasaje 1708 (=1523)",
-   "resumen": "Según el autor, tras la caída de Rodas (1720, o 1708 en otro pasaje) se funda la Compañía de Jesús entre 1720 y 1725 (=1535-1540): en 1720 en París y en 1725 la aprueba Pablo III Farnese; su fin es difundir el «proyecto papal» y crear escuelas de historia con el nuevo calendario.",
+   "resumen": "La Compañía de Jesús se fundó con el voto de Ignacio y seis compañeros en París en 1534 y fue aprobada por Pablo III con la bula del 27 de septiembre de 1540.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -5921,7 +5921,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da año",
-   "resumen": "Según el autor, el calendario gregoriano, «falsificado», lo promovió Gregorio XIII (que conoció a Felipe II al ir a Toledo contra Carranza) y salió de estudios de la Universidad de Salamanca (los Alba); los primeros países en adoptarlo fueron España, Italia y Portugal; el pueblo no entendió el engaño.",
+   "resumen": "La reforma del calendario que promulgó el papa Gregorio XIII en 1582 para corregir el desfase del calendario juliano. La bula «Inter gravissimas» de Gregorio XIII (24 de febrero de 1582) reformó el calendario juliano para corregir su desfase; el proyecto lo desarrolló el astrónomo calabrés Luigi Lilio y lo completó el jesuita Christopher Clavius.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -6102,7 +6102,7 @@ window.CRONO = {
     "hasta": 1922,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, Schauberger convenció a un conde austriaco de financiar canales ovoides para transportar troncos con agua a 4 °C; de ahí dedujo la estratificación térmica y el daño de talar.",
+   "resumen": "Un canal de agua construido en 1922 en Steyrling para transportar troncos, diseñado por Viktor Schauberger. Época y lugar: Austria, en la Primera República (1918-1938).",
    "segun": [
     {
      "autor": "artur-sala",
@@ -6331,7 +6331,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«en el 1100 y en 1300»",
-   "resumen": "Según el autor, el papado concedió potestades a los reyes ingleses a cambio de libertad.",
+   "resumen": "En 1213 Juan sin Tierra se sometió al papa Inocencio III y aceptó que Inglaterra e Irlanda fueran feudos del papado, para levantar la excomunión.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -7510,7 +7510,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1621
    },
-   "resumen": "Según el autor, el casco del zar Mijaíl Fiódorovich (hecho en 1621 por Nikita Davydov, hoy en la Armería del Kremlin) lleva un versículo del Corán (61:13); para el autor el árabe era el idioma de codificación militar del imperio, aunque los historiadores dicen que los rusos lo llevaban sin entenderlo.",
+   "resumen": "El casco («shapka erijonskaya») del zar Mijaíl Fiódorovich lo hizo en 1621 el maestro Nikita Davydov en los talleres del Kremlin; en el siglo XIX se le atribuyó por leyenda a Alejandro Nevski.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -7739,7 +7739,7 @@ window.CRONO = {
     "margen": 3,
     "texto": "hacia el 4 a. C."
    },
-   "resumen": "Según Nocera, el censo de Augusto ya era un instrumento de control de personas y patrimonio.",
+   "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -7936,7 +7936,7 @@ window.CRONO = {
     "desde": -203,
     "texto": "204 a. C. (llegada de Cibeles a Roma) – siglo IV"
    },
-   "resumen": "Según Nocera, el santuario de Cibeles (Magna Mater) estaba en la colina donde hoy se alza la plaza de San Pedro.",
+   "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -8115,7 +8115,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "El autor recoge el relato de Grinberg sobre las operaciones de la sanadora mexicana Doña Pachita y lo explica por la creación de la realidad desde un campo neuronal de alta sintergia.",
+   "resumen": "Las operaciones de la sanadora mexicana Doña Pachita, que cuenta el investigador Jacobo Grinberg y que la versión oficial considera trucos.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -8172,7 +8172,7 @@ window.CRONO = {
     "texto": "«año 40 y tantos o 50»",
     "fuente": "autor"
    },
-   "resumen": "Para el autor, el brazo financiero del mundo, creado por Roma y controlado por el Vaticano.",
+   "resumen": "Londinium fue fundada por los romanos hacia los años 47–50, tras la conquista de Britania (43). La City es hoy el distrito financiero de Londres, con gobierno propio (City of London Corporation); la Carta Magna (1215) confirmó sus antiguas libertades.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -8394,7 +8394,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1954 (primera conferencia)"
    },
-   "resumen": "Para el autor, no la cúpula del poder, sino el foro de la OTAN.",
+   "resumen": "Conferencia anual privada iniciada en 1954 en el hotel Bilderberg (Oosterbeek, Países Bajos), impulsada entre otros por el príncipe Bernardo de los Países Bajos.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -8653,7 +8653,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1963
    },
-   "resumen": "Según el autor, el microbiólogo japonés Komaki se unió en 1963 a Kervran para obtener sales de potasio desde sal común con levaduras a 37 °C.",
+   "resumen": "El trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. Época y lugar: Francia y Japón, en la Guerra Fría (1945-1991).",
    "segun": [
     {
      "autor": "artur-sala",
@@ -8751,7 +8751,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1492
    },
-   "resumen": "Según el autor, un grabado de 1493 muestra a Colón con atuendo de khan, animales en el barco (como el arca de Noé) y una bandera con un león, el escudo de Vladimir; el viaje de Noé por las «grandes aguas» sería la colonización hordiana-otomana de América de finales del XV, hoy el viaje de Colón en 1492.",
+   "resumen": "Cristóbal Colón, al servicio de los Reyes Católicos, llegó el 12 de octubre de 1492 a una isla de las Bahamas a la que llamó San Salvador, y con ese viaje se abrió el contacto europeo con América. La expedición se financió desde Castilla y se inscribe en la expansión atlántica de la Monarquía Hispánica, no en una colonización mongol u otomana.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -8795,7 +8795,7 @@ window.CRONO = {
     "aprox": true
    },
    "fecha_autor": "segunda mitad del siglo XVII y siglo XVIII",
-   "resumen": "Según el autor, en los siglos XVII y XVIII las tropas reformadas de Europa invadieron cruentamente la América de la Horda; luego se desplazó ese hecho 200 años atrás, al siglo XV, y se llamó «sangrienta conquista española» a lo que fue una colonización pacífica: así empezó la leyenda negra del imperio español.",
+   "resumen": "La colonización europea de América comenzó en 1492 y se prolongó durante siglos: España y Portugal dominaron el siglo XVI y después Inglaterra, Francia y los Países Bajos establecieron colonias propias.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -8844,7 +8844,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XIV-XVI"
    },
-   "resumen": "Según el autor, entre los siglos XIV y XVI el gran imperio mongol extendió su influencia sobre Eurasia y América con una colonización más o menos pacífica de tierras poco pobladas: los mayas y los incas, el imperio mongol de la India (arios), los mamelucos de Egipto y los samuráis (de Samara) vienen de la Horda rusa.",
+   "resumen": "El Imperio mongol, fundado por Gengis Kan en 1206 y disuelto en 1368, fue el mayor imperio contiguo de la historia y se extendió desde Corea hasta el Danubio y Oriente Próximo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -9053,7 +9053,7 @@ window.CRONO = {
     "desde": 1540,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, el verdadero centro de mando bajo la cúspide.",
+   "resumen": "Orden religiosa católica fundada por Ignacio de Loyola, que había sido soldado, y seis compañeros con los que hizo votos en Montmartre en 1534; el papa Pablo III (Alessandro Farnese) la aprobó en 1540 con la bula Regimini militantis Ecclesiae, como «compañía» en el sentido de cofradía, no de milicia.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -9505,7 +9505,7 @@ window.CRONO = {
    "fecha": {
     "desde": 325
    },
-   "resumen": "Según Nocera, Nicea fue una maniobra política de Constantino para unificar el credo y controlar rebeliones.",
+   "resumen": "El primer concilio ecuménico se celebró en Nicea en 325 (de mayo a finales de julio), por convocatoria de Constantino; trató la cuestión arriana, formó la primera parte del Credo niceno y fijó una fecha uniforme de la Pascua.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -9624,7 +9624,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "comienzos de los años 60",
-   "resumen": "Según el autor, un paso más en la infiltración del Vaticano.",
+   "resumen": "Concilio ecuménico convocado por Juan XXIII y clausurado por Pablo VI (1962–1965). Reformó la liturgia y la relación de la Iglesia con el mundo moderno.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -10063,7 +10063,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XV"
    },
-   "resumen": "Según el autor, las rutas de caravanas difundieron epidemias y, por la debilidad médica de entonces, los khanes decidieron exterminar a la población enferma; esa operación sería la conquista otomana del siglo XV, descrita en la Biblia como la caída de Babilonia o la conquista de la tierra prometida, y dividió Europa entre la Horda y el Imperio Otomano.",
+   "resumen": "La versión académica no recoge ninguna decisión de los «khanes» de exterminar a población enferma.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -10307,7 +10307,7 @@ window.CRONO = {
     "desde": 1923,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que el WEC, con sede en Londres y acreditado por la ONU, agrupa a más de 3.000 organizaciones de 90 países y representa a toda la energía; por debajo estarían los cárteles energéticos.",
+   "resumen": "El Consejo Mundial de la Energía se formó en 1923 con comités nacionales; la primera conferencia fue en 1924, y ese año se acordó una organización permanente, la World Power Conference.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -10352,7 +10352,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1921
    },
-   "resumen": "Según Jorge Guerra, decide la política exterior de EE. UU.; Giuseppe Nocera lo describe como un círculo de poder con miembros corporativos y presidentes.",
+   "resumen": "Fundado en Nueva York en 1921, es un centro de estudios (think tank) privado y no partidista. Publica la revista «Foreign Affairs» y reúne a políticos, empresarios y académicos; no es un órgano oficial del Gobierno de EE. UU.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -10408,7 +10408,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "324–330 (Constantinopla se inaugura en 330)"
    },
-   "resumen": "Nocera dice que Constantino emitió dinero por decreto, sin respaldo, para pagar la expansión de Constantinopla.",
+   "resumen": "Constantino fundó Constantinopla sobre Bizancio y la inauguró en 330; generalizó la acuñación del sólido (solidus), una moneda de oro de 72 por libra, estable y con respaldo metálico, que Diocleciano había introducido antes en emisiones pequeñas.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -10777,7 +10777,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "noviembre de 2018",
-   "resumen": "Según Nocera, la abrió un descendiente de la familia imperial brasileña, señal para él de que los linajes siguen mandando.",
+   "resumen": "El evento existió, con otro nombre y otra fecha: la «Cúpula Conservadora das Américas» se celebró en Foz do Iguaçu (Paraná) el sábado 8-12-2018, organizada por el diputado electo Eduardo Bolsonaro; la abrió el filósofo Olavo de Carvalho y participó Luiz Philippe de Orléans e Bragança, bisnieto de un linaje imperial (no «heredero» oficial: es sobrino del jefe de la casa) y diputado federal por São Paulo desde 2019.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -10885,7 +10885,7 @@ window.CRONO = {
    "carril": "religion",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, la institución que posee el planeta y sostiene la base de todo el sistema.",
+   "resumen": "La Santa Sede es el gobierno de la Iglesia católica; el Estado de la Ciudad del Vaticano nació con los Pactos de Letrán, firmados el 11 de febrero de 1929 por el cardenal Gasparri y Mussolini, jefe del Gobierno del rey Víctor Manuel III.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -11038,7 +11038,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«la frontera entre los 80 y los 90»",
-   "resumen": "Según Nocera, en el cambio de los 80 a los 90 el estado dejó de ser la corporación mayor del país y hoy fondos como BlackRock pesan más que muchos estados.",
+   "resumen": "La comparación entre el tamaño de las grandes empresas y el de los Estados es habitual en la literatura económica, pero depende de la magnitud que se use: activos gestionados, facturación o capitalización no equivalen a propiedad ni a producto interior bruto.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -11127,7 +11127,7 @@ window.CRONO = {
     "desde": 2002,
     "fuente": "autor"
    },
-   "resumen": "Nocera sostiene que la CPI forma parte del entramado global y resume que, si lograran la Agenda 2030, la Asamblea General sería el congreso del mundo y la Corte Internacional de Justicia, la corte suprema.",
+   "resumen": "La CPI es un tribunal independiente creado por el Estatuto de Roma (1998), en vigor desde 2002, con sede en La Haya; no es un órgano de la ONU.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -11175,7 +11175,7 @@ window.CRONO = {
     "hasta": 2019,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, el libro de Cowan explica el cáncer como desorganización celular con un potencial de membrana de unos 30 mV, que se combatiría con agua estructurada; añade a Hamer.",
+   "resumen": "Un libro de Thomas Cowan sobre el cáncer, que Artur Sala usa para defender que se debe a una desorganización de la célula. Según el NCI el cáncer es una enfermedad genética: cambios en genes (oncogenes, supresores tumorales, reparación del ADN) que descontrolan el crecimiento celular.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -11361,7 +11361,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1600
    },
-   "resumen": "Según el autor, la Biblia se compuso hacia 1600 (año 415 de un primer calendario «juliano»): un pasado reciente que honra a Israel y rinde culto en el Templo de Salomón (Santa Sofía), con el fin de legitimar las colonizaciones.",
+   "resumen": "Los manuscritos más antiguos de la Biblia hebrea son los rollos del mar Muerto (siglos III a. C.-I d. C.; unos 25 % son libros bíblicos), y los códices completos más antiguos, el de Alepo (c. 930) y el de Leningrado (c. 1008), son medievales.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -11569,7 +11569,7 @@ window.CRONO = {
     "texto": "siglo XIV",
     "fuente": "autor"
    },
-   "resumen": "Para el autor, en el siglo XIV nacen la política moderna y el capitalismo, con la banca italiana prestando a los reyes.",
+   "resumen": "El siglo XIV europeo estuvo marcado por la guerra de los Cien Años (1337–1453), la peste negra (1347–1351), que mató a una gran parte de la población, y la quiebra de bancas florentinas como los Bardi y los Peruzzi en la década de 1340, en parte por los impagos de Eduardo III de Inglaterra.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -11664,7 +11664,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1185
    },
-   "resumen": "Según el autor, Jesucristo fue en realidad Andrónico I Comneno, emperador depuesto y crucificado en 1185 en Beykoz (Gólgota), junto al Bósforo; sus reformas contra la corrupción levantaron el odio de la nobleza y acabaron con la dinastía Comneno y el inicio de los Ángelos.",
+   "resumen": "Andrónico I Comneno (h. 1118-1185) fue emperador bizantino entre 1183 y 1185; depuesto tras un motín popular, murió en Constantinopla en septiembre de 1185.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -11725,7 +11725,7 @@ window.CRONO = {
     "desde": 1189,
     "hasta": 1204
    },
-   "resumen": "Según el autor, la guerra de Troya y la guerra gótica son relatos hechos a partir de las cruzadas reales de los siglos XI-XIII; la caída de Troya coincide con la de la Nueva Roma de Constantinopla (Jerusalén) en el siglo XIII.",
+   "resumen": "La Tercera Cruzada fue en 1189-1192 y la Cuarta acabó con la toma de Constantinopla en abril de 1204; la guerra de Troya se sitúa en la Edad del Bronce (c. 1200 a. C.) y su historicidad es debatida.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -11784,7 +11784,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XIV"
    },
-   "resumen": "Según el autor, las cruzadas con éxito del siglo XIV se hicieron con los mongoles, y la división entre islam, ortodoxia y Roma ocurrió solo en los siglos XVI-XVII; la idea de las cruzadas contra el islam nace entonces; un mapa del XVI mostraría bandera otomana en Navarra.",
+   "resumen": "Las cruzadas al Oriente Próximo se desarrollaron entre 1095 y finales del siglo XIII, y las últimas plazas cristianas de Tierra Santa cayeron en 1291.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -12407,7 +12407,7 @@ window.CRONO = {
     "desde": 1948,
     "fuente": "oficial"
    },
-   "resumen": "El autor ve los derechos humanos como una trampa.",
+   "resumen": "La Declaración Universal de Derechos Humanos es el documento de la ONU que enumera los derechos básicos de toda persona. Aprobada por la Asamblea General de la ONU el 10 de diciembre de 1948; la comisión redactora la presidió Eleanor Roosevelt. Como declaración no es vinculante; los pactos de 1966 sí obligan a los Estados que los ratifican.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -12577,7 +12577,7 @@ window.CRONO = {
     "hasta": 1813,
     "texto": "1783–1813"
    },
-   "resumen": "Nocera sostiene que la deuda fue el instrumento de control de los primeros Estados Unidos: la Constitución la mantuvo y las leyes de 1799–1845 repiten la palabra «deuda» 147 veces.",
+   "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -12630,7 +12630,7 @@ window.CRONO = {
     "texto": "Nerón (64) – edicto de Diocleciano (301)",
     "aprox": true
    },
-   "resumen": "Según Nocera, el Imperio Romano rebajó la plata de sus monedas para acuñar más y ganó por el señoreaje, lo que provocó la primera inflación documentada.",
+   "resumen": "La devaluación del denario es un hecho aceptado: con Nerón (37–68) su peso se redujo a 1/96 de libra, el denario dejó de acuñarse en plata hacia 270–275 (Aureliano) y el edicto de precios máximos de Diocleciano es del 301.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -12973,7 +12973,7 @@ window.CRONO = {
     "desde": 1773,
     "hasta": 1774
    },
-   "resumen": "Según el autor, hacia 1773-1774 Diderot y Voltaire se desprenden de sus bibliotecas en favor de la emperatriz rusa Catalina la Grande.",
+   "resumen": "La venta de las bibliotecas de Diderot y Voltaire a la emperatriz rusa Catalina II. Catalina II compró en 1765 la biblioteca de Diderot por 15.000 libras y lo nombró bibliotecario vitalicio; Diderot viajó a San Petersburgo en 1773.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -13325,7 +13325,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XVI-XVII"
    },
-   "resumen": "Según el autor, hasta finales del siglo XVI el cristianismo fue único; entonces se dividió en ortodoxia, catolicismo, islam, judaísmo, budismo y otras, que se repartieron los símbolos (cruz ancha o estrecha, estrella de seis puntas, media luna con estrella); la religión comparada del siglo XIX lo habría entendido al revés por seguir la cronología de Scaliger.",
+   "resumen": "El cristianismo surgió en el siglo I en Judea a partir del judaísmo y a lo largo de su historia se dividió en grandes ramas: el cisma de Oriente de 1054 separó a católicos y ortodoxos, y la Reforma iniciada en 1517 dio origen al protestantismo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -13411,7 +13411,7 @@ window.CRONO = {
     "texto": "2025",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, el nombre de la oficina de Musk en la Casa Blanca es un guiño al dux veneciano.",
+   "resumen": "El Departamento de Eficiencia Gubernamental (DOGE) se creó por orden ejecutiva de Donald Trump en enero de 2025 para recortar gasto federal; Elon Musk fue su cara visible hasta que dejó el cargo a finales de mayo de 2025.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -13598,7 +13598,7 @@ window.CRONO = {
     "hasta": 1204,
     "aprox": true
    },
-   "resumen": "Según el autor, a finales del siglo XII Rusia dirigió las cruzadas para vengar a Andrónico-Cristo; en la guerra de Troya surgieron dos cristianismos: el real o familiar (de los parientes de Cristo, que llegó al poder tras 1204) y el apostólico popular, de Pedro y Pablo, que acabó imponiéndose.",
+   "resumen": "La Cuarta Cruzada tomó Constantinopla el 12 de abril de 1204 y fundó el Imperio Latino (1204-1261), que Miguel VIII Paleólogo recuperó en 1261.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -13709,7 +13709,7 @@ window.CRONO = {
     "hasta": 1668
    },
    "fecha_autor": "1296, 1483 y 1668 («1298=1483=1668»)",
-   "resumen": "Según el autor, el rey de Aragón dio Gandía a los Láscaris en 1296 (documento de Jaime II, Archivo de la Corona de Aragón); la compra por Rodrigo Borgia en 1483 sería en realidad de 1668, con dos saltos (185 y 370 años) ligados al origen del Vaticano del siglo XVII; cita a Láscaris Comneno (2011).",
+   "resumen": "Fernando II de Aragón vendió Gandía al hijo del cardenal Rodrigo de Borja, Pedro Luis, el 3 de diciembre de 1485 en Alcalá de Henares; el título de duque se concedió ese mismo año.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -14098,7 +14098,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XIV-XVI"
    },
-   "resumen": "Según el autor, Babilonia es El Cairo en los mapas antiguos y desde el siglo XII ahí empezó el proyecto de imperio mundial; Egipto fue entre los siglos XIV y XVI centro cultural y religioso y necrópolis de los líderes; no hubo faraones, sino linajes de Osiris-Cristo momificados para su juicio final, y la historia del siglo XIX los convirtió en 4.000 años de faraones.",
+   "resumen": "La fortaleza romana de Babilonia, en el actual Viejo Cairo, la construyó Diocleciano hacia el 300; los árabes la tomaron en 641-642 y fundaron al lado Fustat, y El Cairo lo fundaron los fatimíes en 969.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -14344,7 +14344,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1486
    },
-   "resumen": "Según el autor, el 10 de octubre de 1486 Juan II de Portugal manda dos misiones al Preste Juan para una alianza contra los turcos, lo que marca el arranque de la colonización europea del mundo, a la vez que Portugal bordea África por el sur y nombra el cabo de Buena Esperanza.",
+   "resumen": "Juan II de Portugal envió en mayo de 1487 a Pêro da Covilhã y Afonso de Paiva por tierra (Barcelona, Nápoles, Rodas, Alejandría, El Cairo) para buscar al Preste Juan y la ruta de las especias, mientras Bartolomeu Dias exploraba por mar en 1488.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -14642,7 +14642,7 @@ window.CRONO = {
     "hasta": 2016,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la familia Orsini difundió el pánico y forzó la vacunación para lucrarse.",
+   "resumen": "El brote de ébola de 2014–2016 en África occidental; la ficha recoge la tesis de un autor sobre su origen y la compara con lo documentado. La epidemia de 2014–2016 en Guinea, Liberia y Sierra Leona fue la mayor de la historia: unos 28.600 casos y 11.300 muertes según la OMS.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -14879,7 +14879,7 @@ window.CRONO = {
     "desde": 1663
    },
    "fecha_autor": "siglo XVI; 1663 (=1293) en la lista",
-   "resumen": "Según el autor, los Alba ocuparon Toledo y fundaron la Escuela de Traductores, donde se tradujeron en el XVI, y no en la Edad Media, los textos alejandrinos grecorromanos (la lista la pone en 1663 =1293), para reescribir la historia tras expoliar textos sagrados de Tierra Santa, del Nilo al Volga.",
+   "resumen": "La Escuela de Traductores de Toledo, que según la versión oficial trabajó en los siglos XII y XIII y que un autor sitúa en el XVI. La llamada Escuela de Traductores de Toledo trabajó en los siglos XII y XIII (Gerardo de Cremona, c. 1114-1187, tradujo allí el Almagesto de Ptolomeo hacia 1175, tras la toma de Toledo por Alfonso VI en 1085); los especialistas niegan que fuera una institución formal.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -14932,7 +14932,7 @@ window.CRONO = {
     "texto": "franquismo (1939–1975)",
     "fuente": "autor"
    },
-   "resumen": "Según el autor, Franco pagó su deuda con Hitler haciendo de España un bastión del espionaje alemán y refugio de nazis.",
+   "resumen": "Franco ganó la guerra civil con apoyo militar de Alemania e Italia. Tras 1945 España acogió a varios nazis y colaboracionistas, como Skorzeny o Degrelle, cuyas extradiciones no concedió.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -15408,7 +15408,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XIII"
    },
-   "resumen": "Según el autor, en 1261 el gobernador de Nicea, con ayuda de la Horda, tomó Constantinopla, lo que decidió la guerra de Troya (la «primera guerra mundial» medieval, de carácter religioso) y acabó con el Imperio; sus familias huyeron y se formaron estados sucesores como Nicea y Vladimir-Suzdal, con capital en Rostov y luego Yaroslavl.",
+   "resumen": "Rurik fue un caudillo vikingo, o varangio, semilegendario, fundador de la dinastía que gobernó la Rus de Kiev; la Crónica Primaria narra que fue invitado a Nóvgorod hacia el año 862, relato que la historiografía actual no acepta al pie de la letra.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -15826,7 +15826,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos X-XII"
    },
-   "resumen": "Según el autor, el Imperio Romano de los siglos X-XII, sin transporte terrestre, se expandió por mares y ríos (Mediterráneo, Mar Negro, Danubio, Dniéper, Don, Volga) y no controló el interior de Eurasia, que solo se pobló con la Horda rusa en los siglos XIII-XIV; en 1204 el Imperio colapsó.",
+   "resumen": "El Imperio Romano medieval, es decir el Imperio bizantino, tuvo su centro en Constantinopla y organizó su economía y su proyección exterior en torno al comercio marítimo y fluvial del Egeo, el Mar Negro y las rutas del Danubio y del Dniéper, con un control limitado del interior de Eurasia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -15875,7 +15875,7 @@ window.CRONO = {
     "hasta": 1939,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, alimentó los rumores sobre bases nazis en el sur.",
+   "resumen": "La expedición antártica alemana de 1938–1939 exploró una parte de la Tierra de la Reina Maud que la Alemania nazi llamó Nueva Suabia (Neuschwabenland), por el nombre del barco de la expedición, el MS Schwabenland.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -16481,7 +16481,7 @@ window.CRONO = {
     "texto": "finales de 1944 (según la descripción del vídeo)",
     "fuente": "autor"
    },
-   "resumen": "Según Artur Sala, el preparado número 20 de Reich mostró que las partículas se acumulaban con más fuerza según su potencial orgónico.",
+   "resumen": "Un experimento de Wilhelm Reich de 1944 con el preparado número 20, que Artur Sala presenta como prueba de que las partículas se acumulan según su potencial orgónico. En las fuentes consultadas no consta una versión oficial específica del «experimento XX».",
    "segun": [
     {
      "autor": "artur-sala",
@@ -16634,7 +16634,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1767
    },
-   "resumen": "Según Guerra, varias monarquías expulsaron a los jesuitas por su poder económico, a lo que sumaban incautar sus bienes.",
+   "resumen": "Los jesuitas fueron expulsados de Portugal (1759), Francia (1764) y de España y sus dominios por Carlos III: el decreto lo dictaminó el fiscal Campomanes y lo aprobó el Consejo el 29-1-1767, el rey lo ratificó el 20-2 y se ejecutó el 2-4-1767, en secreto.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -17217,7 +17217,7 @@ window.CRONO = {
     "desde": 1945,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que el 61 % de la financiación de la FAO viene de donaciones voluntarias, entre ellas una de la semillera Euroseeds (300.000 € en 2015), y que las grandes empresas de alimentos se reúnen con la FAO desde 2010 para asegurar su futuro.",
+   "resumen": "La FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura) es el organismo de la ONU que coordina la lucha internacional contra el hambre y las políticas de agricultura, pesca y alimentación. La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -17442,7 +17442,7 @@ window.CRONO = {
     "desde": 2015,
     "texto": "2015"
    },
-   "resumen": "Según el autor, la OMS depende sobre todo de dinero privado de fundaciones y de empresas con intereses en la salud.",
+   "resumen": "La OMS se financia con cuotas de sus 194 Estados miembros y con contribuciones voluntarias; estas últimas son ya en torno al 80 % de su presupuesto (en 2014: 2.002 millones de dólares voluntarios frente a 492 millones de cuotas).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -17516,7 +17516,7 @@ window.CRONO = {
     "desde": 1971,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, un think tank ya en declive.",
+   "resumen": "El Foro Económico Mundial es una fundación suiza que reúne cada año en Davos a dirigentes políticos, empresariales y académicos. El Foro Económico Mundial lo fundó Klaus Schwab en 1971 como Foro Europeo de Gestión; adoptó su nombre actual en 1987. Tiene su sede en Ginebra y su reunión anual se celebra en Davos (Suiza), con asistencia de dirigentes políticos y empresariales.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -17745,7 +17745,7 @@ window.CRONO = {
     "aprox": true
    },
    "fecha_autor": "cerca del año 1380",
-   "resumen": "Según el autor, siguiendo la Nueva cronología de Fomenko, la Nueva Roma de Constantinopla no la fundó Constantino en 333 sino hacia 1380, y duró poco.",
+   "resumen": "Constantinopla se fundó sobre la antigua Bizancio por decisión de Constantino I, que la consagró el 11 de mayo del 330 como Nueva Roma y segunda capital del Imperio romano.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -17795,7 +17795,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«el año sexto antes de Cristo, más o menos»",
-   "resumen": "Según Nocera, el puerto de Nápoles lo crearon los griegos hacia el siglo VI a. C., ligado a la sirena Partenope.",
+   "resumen": "Nápoles nace de colonias griegas (Parténope y Neápolis) entre los siglos VIII y VI a. C.; la zona fue de lengua griega y pasó a dominio romano en el siglo IV a. C. Pendiente de contrastar.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -17978,7 +17978,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1920
    },
-   "resumen": "Según el autor, en Galípoli (1915) Churchill envió a morir a unos 150.000 soldados británicos; en 1920 ordenó reprimir una rebelión de kurdos e iraquíes con gas (unos 10.000 muertos), la primera vez que se gaseó a civiles, y defendió esas armas contra civiles de tribus «incivilizadas».",
+   "resumen": "Churchill, entonces ministro de Guerra y del Aire, defendió desarrollar bombas de gas (incluido el gas mostaza) contra rebeldes en Mesopotamia y la frase «estoy firmemente a favor de usar gas venenoso contra tribus incivilizadas» se le atribuye con frecuencia; hay historiadores que sostienen que se refería a gases lacrimógenos no letales.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -18050,7 +18050,7 @@ window.CRONO = {
     "ciencia-saber"
    ],
    "fecha": null,
-   "resumen": "Según el autor, las campañas de vacunación de Gates ocultan esterilizaciones y experimentos, y sirven a sus intereses empresariales.",
+   "resumen": "Verificadores (AFP, Science Feedback, Africa Check, Snopes) consideran falsas las acusaciones de esterilización: las vacunas del tétanos de Kenia no contienen la hormona hCG que decían.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -18169,7 +18169,7 @@ window.CRONO = {
     "desde": 2016
    },
    "fecha_autor": "«2015» (según Nocera)",
-   "resumen": "Nocera la presenta como la organización china que busca dar protagonismo a China en el control energético dentro de un posible gobierno mundial.",
+   "resumen": "GEIDCO (Organización de Desarrollo y Cooperación de la Interconexión Energética Global) es una organización internacional impulsada desde China para promover una red eléctrica mundial. GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global presentada por el presidente de State Grid Corporation of China, Liu Zhenya, el 12-11-2015 y apoyada por Xi Jinping.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -18436,7 +18436,7 @@ window.CRONO = {
     "aprox": true
    },
    "fecha_autor": "desde el siglo XII hasta principios del siglo XVII",
-   "resumen": "Según el autor, en los siglos XIII-XIV la Rusia de Rostov creó con hierro y caballos un ejército nuevo, la Horda (columna cosaca), cuyos reyes (khanes) se consideraban herederos legítimos de Roma y dueños del mundo; la agricultura de tala y quema dio cosechas enormes y creció la población; el caballo, joya al principio, se hizo común en las estepas del Volga y el Don.",
+   "resumen": "El Imperio mongol lo fundó Gengis Kan en 1206, cuando una asamblea de jefes mongoles y túrquicos lo proclamó gran kan, y llegó a ser el mayor imperio terrestre continuo de la historia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -18587,7 +18587,7 @@ window.CRONO = {
     "desde": 1771,
     "hasta": 1795
    },
-   "resumen": "Según el autor, la primera edición de la Británica (1771) no menciona el imperio ruso y llama Gran Tartaria al país que ocupa casi toda Eurasia, con Siberia independiente y capital en Tobolsk; el volumen 3 (Edimburgo, 1781, p. 877) y el Diccionario Geográfico Universal de España (1795) también la recogen; desde el siglo XIX se borró de la historia.",
+   "resumen": "La «Gran Tartaria», un nombre que los mapas y enciclopedias europeas daban a gran parte del norte y centro de Asia; un autor lo usa para defender un imperio olvidado.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -18680,7 +18680,7 @@ window.CRONO = {
     "desde": 1605,
     "hasta": 1613
    },
-   "resumen": "Según el autor, en 1613 sube al trono la dinastía occidentalizada de los Romanov, que impone la servidumbre, expulsa a la Horda cosaca y escribe la versión «contemporánea» de la historia rusa; a principios del siglo XVII el Gran Imperio se divide en estados (Rusia, Turquía, Alemania, España, Egipto, Inglaterra, China, Japón, India, América…) y la dinastía rusa de la Horda es exterminada.",
+   "resumen": "El Tiempo de los Disturbios (1598-1613) empezó al morir sin hijos Fiódor I, último Rúrikida; siguieron golpes, hambruna (1601-03), pretendientes falsos e intervención polaca y sueca. El 3-3-1613 una asamblea (Zemski Sobor) eligió zar a Miguel Románov.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -19323,7 +19323,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "tras reprimir Kazán (1552)",
-   "resumen": "Según el autor, tras reprimir Kazán la Horda envió tropas al oeste: es el comienzo de la Guerra de Livonia, que los historiadores reducen a Dinamarca, Polonia, Rusia y Suecia por Livonia, cuando el imperio intentaba someter toda Europa occidental en el siglo XVI; la preparación de la campaña desató disturbios en la capital.",
+   "resumen": "La Guerra de Livonia (1558-1583) enfrentó a Rusia de Iván IV con la Orden Livona y luego con Polonia-Lituania, Suecia y Dinamarca por el control de Livonia (Estonia y Letonia actuales); terminó con armisticios en 1582 y 1583 sin que Rusia ganase salida al Báltico.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -20443,7 +20443,7 @@ window.CRONO = {
     "desde": 1773,
     "hasta": 1775
    },
-   "resumen": "Según el autor, la victoria de los Romanov sobre Razin y luego sobre Pugachov (1773-1775) fue la derrota final de la Horda y de la Gran Tartaria, con capital en Tobolsk; hasta entonces el oeste de Norteamérica pertenecía a la Tartaria moscovita; los Romanov se apropiaron de Alaska y los fuertes de la Horda quedaron abandonados.",
+   "resumen": "La rebelión de Pugachov (1773-1775) fue una revuelta de cosacos, siervos y pueblos no rusos contra Catalina II, aplastada por el Imperio ruso; Pugachov fue ejecutado en Moscú en enero de 1775.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -20496,7 +20496,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "grabado alemán de 1671",
-   "resumen": "Según el autor, Razin fue comandante de la Horda de Astracán y su guerra contra los Romanov fue una guerra entre dos estados del antiguo imperio (Moscú y Astracán), en la que los Romanov dependieron de mercenarios alemanes (regimientos de Reiter) y anexionaron Astracán.",
+   "resumen": "Stenka Razin lideró en 1670-1671 una gran rebelión de cosacos y campesinos en el sureste de Rusia: tomó Tsaritsyn y Astracán, fue derrotado en octubre de 1670 por tropas entrenadas con técnicas militares de Europa occidental, y fue capturado en abril de 1671 y ejecutado en Moscú.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -20605,7 +20605,7 @@ window.CRONO = {
     "desde": 1705,
     "hasta": 1715
    },
-   "resumen": "Según el autor, la Guerra de Sucesión Española (1705-1715) no fue un conflicto sucesorio sino un pulso entre dos linajes del imperio romano-griego, los Ángelus (Anjou) y los Láscaris-Comneno (Habsburgo), por el control de Europa occidental; la Inquisición y los jesuitas fueron los brazos del proyecto de reconstrucción simbólica e histórica.",
+   "resumen": "La Guerra de Sucesión Española (1701-1714) surgió al morir sin hijos Carlos II (1-11-1700), que había nombrado heredero a Felipe de Anjou, nieto de Luis XIV; acabó con los tratados de Utrecht (1713) y Rastatt/Baden (1714): Felipe V siguió como rey de España renunciando al trono francés.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -20888,7 +20888,7 @@ window.CRONO = {
    "naturaleza": "conflictos-belicos",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, para deshacer la antigua unión mundial entre la Horda Rusa y la Turquía otomana, Europa occidental y los Romanov provocaron las guerras ruso-turcas.",
+   "resumen": "Las guerras ruso-turcas son una serie de unos doce conflictos entre 1568 y 1918; la de 1768-74 acabó con el tratado de Küçük Kaynarca (21-7-1774) y la anexión de Crimea en 1783.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -21079,7 +21079,7 @@ window.CRONO = {
     "desde": 1942,
     "hasta": 1944
    },
-   "resumen": "Según el autor, Churchill fue culpable de la muerte por hambre de unos 5 millones de bengalíes entre 1942 y 1944 al desviar el arroz de Bengala al frente, con precios disparados y entre 10.000 y 12.000 muertos diarios; añade que ordenó matar a 2000 dirigentes de partidos indios tras prohibirlos, y le atribuye dos frases despectivas ante el Parlamento. También dice que Gandhi era un masón al servicio de la Corona.",
+   "resumen": "La hambruna de Bengala de 1943-1944 está bien documentada. Las estimaciones de muertos van de unos 0,8 millones a 3,8 millones, con unos 3 millones como cifra más citada; la propuesta de más de 5 millones de Madhusree Mukerjee es minoritaria.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -21153,7 +21153,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1986
    },
-   "resumen": "Según el autor, en 1986 los alemanes Heribert Illig y Hans-Ulrich Niemitz propusieron que faltan 300 años de historia (siglos VIII-XI) y que los registros de entonces son falsos: Otto II y el papa Silvestre II habrían falsificado pruebas para apoderarse de tierras y crear un árbol genealógico «real», aprovechando el miedo al cambio de milenio.",
+   "resumen": "La hipótesis de Heribert Illig y Hans-Ulrich Niemitz de que faltan unos 300 años de historia en la Alta Edad Media. La hipótesis del tiempo fantasma la formuló Heribert Illig en 1991 (y Hans-Ulrich Niemitz la apoyó en 1995): sostiene que los años 614-911 son una invención, con una supuesta conspiración de Otto III y el papa Silvestre II para situarse en el año 1000.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -21712,7 +21712,7 @@ window.CRONO = {
     "desde": 1945,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que la IATA fija el código de vuelo del pase de abordar, que en teoría no pertenece al SNU pero reporta a la ITO, que a su vez forma parte de la UNECE de la ONU.",
+   "resumen": "La IATA se fundó en La Habana en 1945 como asociación de aerolíneas; no es una agencia de la ONU.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -21760,7 +21760,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1958
    },
-   "resumen": "Según el autor: 1913 Reserva Federal; 1914-1945 dos guerras mundiales; 1944 Bretton Woods (FMI, Banco Mundial, paraísos fiscales); 1945 ONU; 1948 Israel; 1958 IESE (Opus Dei) y ESADE (Compañía de Jesús); 1959 Concilio Vaticano II («el catolicismo abraza el capitalismo global»); 1991 globalización.",
+   "resumen": "IESE y ESADE son dos escuelas de negocios de Barcelona. El IESE lo creó el Opus Dei en Barcelona en 1958 (primer curso en noviembre) y ESADE se fundó el mismo año por un grupo de empresarios con la Compañía de Jesús; las dos fechas del autor coinciden.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -21819,7 +21819,7 @@ window.CRONO = {
     "desde": 1966,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, tuvo estrechas relaciones con el neonazi James Madole.",
+   "resumen": "La Iglesia de Satán es una organización religiosa con estatus legal reconocido en Estados Unidos, fundada por Anton Szandor LaVey en San Francisco el 30-4-1966, en la Noche de Walpurgis, que su sistema considera el inicio del año I del reinado de Satanás.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -21991,7 +21991,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1776
    },
-   "resumen": "Según el autor, se crean la Logia de Inglaterra (1717), la de Irlanda (1725), la de Francia (1728), la de Escocia (1736) y la de Prusia (1737); el 1 de mayo de 1776 el «sacerdote jesuita» Adam Weishaupt funda los Iluminados de Baviera para infiltrar y controlar el resto de órdenes masónicas.",
+   "resumen": "Los Iluminados de Baviera se fundaron el 1 de mayo de 1776 en Ingolstadt por Adam Weishaupt, profesor de derecho canónico; Britannica lo llama antiguo jesuita y otras fuentes precisan que fue alumno de los jesuitas y el único profesor laico de su facultad, no sacerdote.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -22044,7 +22044,7 @@ window.CRONO = {
     "hasta": 1997,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, Jay Harman diseñó un mezclador con la geometría del número fi que mantiene potable el agua de grandes depósitos con muy poca energía, aplicando la idea de Schauberger.",
+   "resumen": "Un mezclador con forma de vórtice, diseñado por Jay Harman y vendido por PAX Scientific, que según Artur Sala aplica ideas de Schauberger. PAX Scientific fue fundada por Jay Harman en 1997 y PAX Water Technologies en 2006; sus mezcladores se promocionan con ahorro energético por su flujo en vórtice.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -22525,7 +22525,7 @@ window.CRONO = {
     "texto": "23 de octubre de 2026",
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, ardió la semana anterior al programa y se detuvo a un hombre de 33 años.",
+   "resumen": "Según la prensa (AP, Vanguardia, Crónica), el Kehlsteinhaus, el «Nido del Águila» de los Alpes bávaros (1.834 m, construido en 1937–1938), ardió la noche del viernes 23-10-2026; unos 200 efectivos intervinieron y la policía detuvo a un alemán de 33 años cuando bajaba en una moto sin matrícula.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -22629,7 +22629,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1870
    },
-   "resumen": "Según Guerra, el dogma culminó la toma jesuita del control de la Iglesia.",
+   "resumen": "La infalibilidad pontificia es un dogma de la Iglesia católica desde 1870: según él, el papa está preservado de error cuando proclama una enseñanza dogmática en materia de fe y costumbres mediante una «solemne definición pontificia» o declaración ex cátedra. Se considera verdad de fe, por lo que no se permite discusión dentro de la Iglesia.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -23047,7 +23047,7 @@ window.CRONO = {
     "desde": 1951,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que muchos partidos de América Latina y Europa pertenecen a la IS, fundada en 1951, con estatus consultivo de categoría 1 en la ONU y vínculos con regímenes como el de los Castro.",
+   "resumen": "La Internacional Socialista es una organización mundial de partidos socialistas, socialdemócratas y laboristas. La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -23106,7 +23106,7 @@ window.CRONO = {
     "desde": 1677
    },
    "fecha_autor": "12-13 de octubre de 1677 (=1307 en la cronología oficial)",
-   "resumen": "Según el autor, en octubre de 1677 (cifra oficial: 1307; días 12-13) el rey de Francia interviene la Orden del Templo y nace la Alianza del Templo de Salomón, que une Crimea (Trebisonda) con Aviñón; se crean órdenes complementarias (Calatrava, 1528=1158; Teutónica, 1568=1198; Montesa, 1687=1317; Cristo, 1689=1319), que luego serán las naciones europeas; el Tratado de Tordesillas sería 1679=1494.",
+   "resumen": "Felipe IV de Francia hizo arrestar a los templarios el viernes 13-10-1307 y el papa Clemente V disolvió la orden en 1312; Jacques de Molay fue quemado en 1314.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23154,7 +23154,7 @@ window.CRONO = {
     "hasta": 1341,
     "aprox": true
    },
-   "resumen": "Según el autor, hacia 1323 los «mongoles» (grandes) entran en el Cáucaso, hacia 1336 arrasan la Gran Armenia y destruyen Ani, hacia 1338 toman Kiev, hacia 1340 devastan Polonia y hacia 1341 derrotan a Enrique de Silesia cerca de Wroclaw y entran en Hungría; la «Gran Armenia» sería la Gran Romea.",
+   "resumen": "Las invasiones mongolas de Europa se produjeron entre 1236 y 1242, dirigidas por Batu Kan y el general Subutai. En 1241 los mongoles derrotaron a los polacos y a los caballeros teutónicos en Legnica y al rey Bela IV de Hungría en Mohi, devastaron Polonia, Silesia, Moravia y Hungría, y se retiraron al morir el gran kan Ogodei.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23373,7 +23373,7 @@ window.CRONO = {
     "hasta": 1572,
     "aprox": true
    },
-   "resumen": "Según el autor, bajo «Iván el Terrible» se mezclan cuatro zares: Iván Vasilievich (IV, que tomó Kazán, enloqueció y fue el mendigo san Basilio), su hijo Dmitri (con la Rada de Alekséi Adáshev), su hermano menor Iván (educado por los pro-occidentales Zajarin-Romanov, que frustraron la guerra de Livonia y abrieron la oprichnina hasta la derrota de Moscú en 1572) y Simeón Bekbulátovich, tras quien reinó Fiódor y luego Borís Godunov.",
+   "resumen": "Iván IV nació el 25-8-1530, fue gran príncipe de Moscú desde 1533, coronado zar el 16-1-1547 y murió en Moscú el 18-3-1584 (calendario juliano); le sucedió su hijo Fiódor I.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23421,7 +23421,7 @@ window.CRONO = {
     "desde": 1328,
     "hasta": 1340
    },
-   "resumen": "Según el autor, Iván I Kalitá o Batu Kan, nieto de Gengis y gobernante entre 1328 y 1340, creó en Italia la ciudad de Roma y el Vaticano como sede del poder de Europa y estableció la institución de los papas, siendo a la vez rey y sumo sacerdote; «Vati-cano» sería «Batu Kan», y también se le conoce como Preste Juan; la historia lo multiplicó en varios personajes.",
+   "resumen": "Iván I Kalitá (c. 1288-31-3-1340) fue príncipe de Moscú desde 1325 y gran príncipe de Vladimir desde 1331, vasallo del kan Özbeg de la Horda de Oro; enriqueció Moscú recaudando tributo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23565,7 +23565,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "primera mitad del siglo XVII"
    },
-   "resumen": "Según el autor, un mapa portugués de 1623 muestra una cruz sobre Japón y el Atlas Blaeu de 1655 llama «Ieso» (Jesús) a Hokkaido; los samuráis medievales eran de la Horda y cristianos, con cruces en los cascos; en Aizu hubo gente de rasgos europeos y asiáticos, y tras el siglo XIX se borraron los nombres cristianos.",
+   "resumen": "El cristianismo llegó a Japón con Francisco Javier en 1549 y se difundió en la segunda mitad del siglo XVI, hasta que Toyotomi Hideyoshi prohibió a los misioneros en 1587 y el shogunato Tokugawa ilegalizó la fe en 1614, con persecuciones que se prolongaron hasta 1871.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23742,7 +23742,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XI-XIII"
    },
-   "resumen": "Según el autor, en el siglo XI la capital pasó al estrecho del Bósforo, donde surgió Jeros (Jerusalén = Zar Grad = Troya), y en los siglos XIII-XIV se movió al sur, a Constantinopla; esa es la Jerusalén de la Biblia y a la que fueron los cruzados (dos cruzadas, 1189-1192 y 1199-1204).",
+   "resumen": "Jerusalén es una ciudad del Levante mediterráneo, situada en los montes de Judea, y no en el Bósforo. Es el centro sagrado del judaísmo, el cristianismo y el islam, y fue el objetivo de las cruzadas, las expediciones militares convocadas entre 1096 y 1291 para recuperar los Santos Lugares.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23883,7 +23883,7 @@ window.CRONO = {
     "texto": "comienzos del s. XX",
     "fuente": "autor"
    },
-   "resumen": "Según el autor, los jesuitas cambiaron el rumbo de la familia imperial japonesa.",
+   "resumen": "Los jesuitas llegaron a Japón en 1549 con Francisco Javier, fueron prohibidos en 1614 y volvieron tras la apertura Meiji. En 1913 fundaron la Universidad Sofía de Tokio (Jōchi Daigaku), universidad católica privada con campus principal en Yotsuya (Chiyoda), reconocida como una de las tres mejores privadas del país junto con Keiō y Waseda.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24151,7 +24151,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "contemporáneo del trabajo de Marx",
-   "resumen": "El autor atribuye al jesuita Luigi Taparelli el primer uso de «justicia social», en paralelo al socialismo de Marx y Engels.",
+   "resumen": "Luigi Taparelli d'Azeglio, jesuita, usó por primera vez «justicia social» en su *Saggio teoretico di dritto naturale* (1840–1843); Rosmini la popularizó en 1848.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24277,7 +24277,7 @@ window.CRONO = {
     "texto": "misión de Hartl en Rusia (1941–1943); informe del 9-1-1947"
    },
    "fecha_autor": "1941–1943 (misión); 9-1-1947 (informe)",
-   "resumen": "Según un informe atribuido a Albert Hartl, los koljoses se inspiraron explícitamente en las reducciones jesuitas del Paraguay.",
+   "resumen": "Los koljoses surgen de la colectivización forzosa de 1929-1933; los historiadores la relacionan con la ideología marxista y la comuna rural rusa.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24432,7 +24432,7 @@ window.CRONO = {
    "naturaleza": "gobiernos",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, los Láscaris-Comneno, herederos del Imperio Griego, son los Habsburgo (mismo escudo del águila bicéfala) y los Ángelus los Anjou, que crearon documentación artificial (Orden Constantiniana de Isaac Ángelo en 1190; Espuela de Oro de Carlos de Anjou en 1266) y convirtieron a Isaac Ángelo en Judas; se declaran descendientes de Andrónico Comneno (Cristo), duques de Atenas y de Hesperia y condes de Ribagorza; en 1922, 1935 y 1945 intentaron reconstruir sus derechos.",
+   "resumen": "Los Láscaris y los Comnenos fueron dos familias de la aristocracia bizantina: los Comnenos dieron emperadores en los siglos XI y XII, y los Láscaris fundaron y encabezaron el Imperio de Nicea entre 1204 y 1261, tras la cuarta cruzada.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -24609,7 +24609,7 @@ window.CRONO = {
     "hasta": 1070,
     "texto": "1066–1070"
    },
-   "resumen": "Según Nocera, el papa Alejandro II «permitió» la invasión normanda de Inglaterra en 1066 y en 1070 envió tres legados papales.",
+   "resumen": "Guillermo de Normandía invadió Inglaterra en 1066; el cronista Guillermo de Poitiers afirma que contó con el consentimiento del papa Alejandro II, con un estandarte papal, aunque se trata con cautela (dato discutido).",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -24740,7 +24740,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1922
    },
-   "resumen": "Según el autor, en 1922 Lenin volvió a admitir a la Compañía de Jesús en Rusia.",
+   "resumen": "En 1922 el Vaticano y el gobierno soviético acordaron (12-3-1922) una misión pontificia de socorro por la hambruna del Volga, dirigida por el jesuita estadounidense Edmund Walsh hasta 1923, dentro de la American Relief Administration.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24844,7 +24844,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1871
    },
-   "resumen": "Según Nocera, la ley de 1871 convirtió a EE. UU. en una corporación. Tesis delicada, con la versión oficial al lado.",
+   "resumen": "La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -25128,7 +25128,7 @@ window.CRONO = {
     "desde": 1904
    },
    "fecha_autor": "1904, en El Cairo",
-   "resumen": "Según Crowley, en 1904 una entidad (Aiwass) le dictó en El Cairo el texto fundacional de Thelema.",
+   "resumen": "Crowley sostuvo haber recibido el Libro de la Ley (Liber AL vel Legis) en abril de 1904 en El Cairo, dictado por una entidad llamada Aiwass; es el texto central de Thelema.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -25235,7 +25235,7 @@ window.CRONO = {
     "desde": 1959,
     "fuente": "autor"
    },
-   "resumen": "Según el autor, reunió a neonazis y eugenistas, como Hans F. K. Günther, para «salvar» la raza nórdica.",
+   "resumen": "Organización pannordicista fundada en 1958 por Roger Pearson, antropólogo británico defensor de la eugenesia; entre sus miembros estuvo Hans F.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -25273,7 +25273,7 @@ window.CRONO = {
     "hasta": 604,
     "texto": "590–604"
    },
-   "resumen": "Nocera sostiene que Gregorio I descendía de la familia senatorial de los Anicios.",
+   "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano; se tiene a Félix III por su tatarabuelo, a través de Gordiano.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -26045,7 +26045,7 @@ window.CRONO = {
     "desde": 1634,
     "hasta": 1771
    },
-   "resumen": "Según el autor, mapas de 1634, 1688 y de la Británica de 1771 dejan en blanco el noroeste de América y muestran California como isla porque esas tierras estaban cerradas a los europeos (Tartaria moscovita) hasta Pugachov; «California» sería «tierra del califa» (Batu); y los mapas de Ortelius, Mercator y Hondius, más exactos, serían falsificaciones del siglo XIX.",
+   "resumen": "Unos mapas antiguos que dejan en blanco el noroeste de América y dibujan California como una isla, que un autor interpreta como señal de Tartaria.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -26253,7 +26253,7 @@ window.CRONO = {
    "temas": [],
    "fecha": null,
    "fecha_autor": "«siglo X» (así en la transcripción; probable error, comprobar en el vídeo)",
-   "resumen": "Para el autor, un instrumento para infiltrarse donde se decide el rumbo de la sociedad.",
+   "resumen": "La masonería especulativa toma forma en Gran Bretaña en el siglo XVII y se organiza con la Gran Logia de Londres, fundada en 1717; el papa Clemente XII la condenó en 1738 (bula In eminenti) y la Iglesia sigue considerándola incompatible con la fe católica. Muchos protagonistas de las revoluciones liberales fueron masones, aunque los historiadores discuten cuánto pesó la masonería como organización.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -26600,7 +26600,7 @@ window.CRONO = {
     "desde": 1757,
     "hasta": 1763
    },
-   "resumen": "Según Guerra, el joven Mayer aprendió el oficio bancario en la casa Oppenheimer de Hanóver; sospecha una mediación jesuita.",
+   "resumen": "Mayer Amschel Rothschild (Fráncfort, 23-2-1744 – 19-9-1812), banquero alemán de origen judío y fundador de la dinastía Rothschild.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -26656,7 +26656,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "oficial"
    },
-   "resumen": "Kozyrev propone que el tiempo es una fuerza activa.",
+   "resumen": "La teoría de Nikolái Kozyrev, de 1958, según la cual el tiempo es una fuerza activa. Kozyrev expuso su «mecánica causal», en la que el tiempo es una fuerza activa, en 1958.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -26896,7 +26896,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1650
    },
-   "resumen": "Según el autor, en 1650 (año 465) se añaden 1000 años ficticios de paz (la «Pax Romana», el milenio del Apocalipsis 20) para engrandecer a Roma y a Cristo y proteger el Texto Sagrado.",
+   "resumen": "Una tesis de un autor según la cual se añadieron mil años ficticios de paz romana a la historia; la Pax Romana oficial dura unos dos siglos. La Pax Romana designa el periodo de unos dos siglos de estabilidad y hegemonía romana que se suele datar entre el 27 a. C., con el acceso de Augusto, y el 180 d. C., con la muerte de Marco Aurelio.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -27078,7 +27078,7 @@ window.CRONO = {
     "ciencia-saber"
    ],
    "fecha": null,
-   "resumen": "Según el autor, el sistema sanitario y la industria farmacéutica se orientan a tratar síntomas y a patentar moléculas, no a curar.",
+   "resumen": "El gasto sanitario de EE. UU. fue el 18,3 % del PIB en 2021 (19,7 % en 2020 y 17,6 % en 2019), según los CMS: algo más que el 15 % que cita el autor.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -27172,7 +27172,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "oficial"
    },
-   "resumen": "Robert Moon propone que los protones del núcleo forman sólidos geométricos.",
+   "resumen": "Un modelo del núcleo atómico de Robert Moon (1986), con protones en los vértices de sólidos geométricos regulares encajados unos dentro de otros.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -27312,7 +27312,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "época carolingia",
-   "resumen": "El autor sitúa en la época carolingia el origen del poder de las monarquías y la aristocracia actuales.",
+   "resumen": "Carlomagno fue coronado emperador por el papa León III en el año 800, y la dinastía carolingia gobernó entre 751 y 987. Las monarquías europeas tienen orígenes diversos; la coronación papal reforzó su legitimidad, pero no hay base documental para hablar de un sistema de «fideicomisos» papales que siga vigente.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -27350,7 +27350,7 @@ window.CRONO = {
     "hasta": 1584,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la construcción que más se parece al templo de Salomón, con estructura cabalística.",
+   "resumen": "Felipe II lo mandó construir entre 1563 y 1584, con trazas de Juan Bautista de Toledo y Juan de Herrera. Su relación con el templo de Salomón es una interpretación clásica, alimentada por la obra del jesuita Juan Bautista Villalpando, que reconstruyó el templo a finales del siglo XVI.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -27644,7 +27644,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XVI"
    },
-   "resumen": "Según el autor, en el siglo XVI Moscú se convirtió en la capital, con arquitectos traídos de todas partes; Heródoto lo describiría como «un laberinto egipcio» y la Biblia como la restauración de Jerusalén; las fortalezas en forma de estrella repartidas por el mundo serían obra de los tártaros.",
+   "resumen": "Moscú fue proclamada capital del principado en 1328, bajo Iván Kalitá, y en 1431 pasó a ser sede del metropolita de la Iglesia rusa.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -27876,7 +27876,7 @@ window.CRONO = {
     "hasta": 1995,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, sucesor del fascismo, inspirado por Evola y pieza del nuevo orden europeo de posguerra.",
+   "resumen": "Partido neofascista fundado en 1946 por veteranos de la República de Saló; Giorgio Almirante fue su líder y Junio Valerio Borghese, su presidente honorario (1951–1953).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -28053,7 +28053,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da año",
-   "resumen": "El autor la llama «oportuna» y dice que abrió paso a Stalin, un «títere» de poderes ocultos.",
+   "resumen": "Vladímir Ilich Uliánov, Lenin (Simbirsk, 1870 – Gorki, 1924), dirigente bolchevique y jefe del primer Gobierno soviético. Murió el 21-1-1924 a los 53 años tras una serie de infartos; su cuerpo fue embalsamado y expuesto en el mausoleo de la Plaza Roja.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -28110,7 +28110,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 3
    },
-   "resumen": "Según el autor, Gengis Kan murió joven hacia 1343, asesinado (según algunos informes por conspiradores) y, como otros grandes reyes del imperio, fue embalsamado y enterrado en el antiguo cementerio imperial de Egipto (la necrópolis de Guiza).",
+   "resumen": "Gengis Kan murió en agosto de 1227 (a menudo se da el 18 o el 25) durante la campaña contra los Xia occidentales, y su muerte se mantuvo en secreto hasta tomar la capital; las crónicas dan causas distintas (herida, caída del caballo, enfermedad).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -28229,7 +28229,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da fecha",
-   "resumen": "Según el autor, Mussolini fue condecorado con la Orden de Malta; la versión oficial sitúa la condecoración en 1923.",
+   "resumen": "Mussolini figura como caballero de la Orden de Malta con el grado de Balì Gran Croce di Onore e Devozione, concedido el 2 de abril de 1923; el dato aparece en las listas de condecoraciones que recogen varias fuentes, aunque la Orden no lo publicita.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -28417,7 +28417,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1798
    },
-   "resumen": "Según el autor, los archivos de Aviñón se trasladan al Vaticano en 1783, Napoleón ocupa Roma y el Vaticano en 1798, y el Archivo Secreto del Vaticano se crea en 1795 (=1910), con origen en la Biblioteca Vaticana de 1633 (=1448) y en la Biblioteca Imperial de Constantinopla, destruida por los turcos en 1638 (=1453).",
+   "resumen": "Las tropas francesas del general Berthier, por orden del Directorio, entraron en Roma el 10-11 de febrero de 1798 y proclamaron la República Romana el 15 de febrero; Pío VI fue apresado y sacado de Roma el 20 de febrero.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -28530,7 +28530,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "25 de diciembre (fiesta romana del Sol Invicto, 274)"
    },
-   "resumen": "Nocera enlaza la Navidad con la fiesta romana del nacimiento del Sol Invicto y con una decisión de Nicea.",
+   "resumen": "La fiesta del Sol Invicto se estableció oficialmente en Roma bajo Aureliano en 274. La primera mención cristiana del 25 de diciembre es del Cronógrafo de 354; no procede del concilio de Nicea.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -28649,7 +28649,7 @@ window.CRONO = {
     "desde": 1939,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, el libro de Linus Pauling ya describe el agua en dos estados, uno superordenado, que Pollack llamaría agua EZ.",
+   "resumen": "Un libro de Linus Pauling (1939) sobre cómo se unen los átomos en las moléculas; la ficha comprueba si dice lo que le atribuye un autor.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -28708,7 +28708,7 @@ window.CRONO = {
     "texto": "años 50",
     "fuente": "autor"
    },
-   "resumen": "Según el autor, Skorzeny llevó a Egipto a oficiales nazis y entrenó a voluntarios árabes, entre ellos Arafat.",
+   "resumen": "En los años 50 trabajaron en Egipto varios exnazis como asesores militares y propagandistas, entre ellos Johann von Leers (convertido al islam como Omar Amin) y Alois Brunner.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -28767,7 +28767,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "segunda mitad del siglo XIV"
    },
-   "resumen": "Según el autor, en la segunda mitad del siglo XIV la secta nestoriana, expulsada de Bizancio, difundió el cristianismo en Asia; «musulmán» vendría de Mosul y los primeros musulmanes fueron nestorianos; la separación del islam se llevó después a un pasado de unos 600 años atrás.",
+   "resumen": "La Iglesia de Oriente se separó de la comunión romana tras el Concilio de Éfeso (431), que condenó a Nestorio; sus partidarios se refugiaron en la Persia sasánida.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -28859,7 +28859,7 @@ window.CRONO = {
     "desde": 1914,
     "fuente": "autor"
    },
-   "resumen": "Nocera la presenta como una de las organizaciones de la estructura global; su presidente en 2002, Rufus Yerxa, fue subdirector de la Organización Mundial del Comercio.",
+   "resumen": "El NFTC se fundó en 1914 en Estados Unidos, tras la primera Convención Nacional de Comercio Exterior, como asociación de empresas con negocios internacionales.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -29436,7 +29436,7 @@ window.CRONO = {
     "desde": 1951,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la internacional fascista de posguerra que retoma el nuevo orden europeo de Hitler.",
+   "resumen": "En 1951 se fundaron en Malmö el Movimiento Social Europeo, alianza neofascista impulsada por el MSI y Oswald Mosley, y una escisión más radical, el Nuevo Orden Europeo, con sede en Suiza.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -29487,7 +29487,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, las provincias independizadas impusieron francés, alemán, español e inglés, además del latín y el griego antiguos, sobre el eslavo, para levantar barreras lingüísticas y destruir la unidad del imperio.",
+   "resumen": "Una tesis de un autor según la cual las lenguas europeas modernas se impusieron para romper la unidad de un imperio anterior. En la Europa moderna el latín fue cediendo terreno ante las lenguas vernáculas en la administración, la justicia y la enseñanza, y los Estados favorecieron su estandarización mediante gramáticas, diccionarios y academias.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -29628,7 +29628,7 @@ window.CRONO = {
     "texto": "enero–febrero de 1961",
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, la OAS se creó en Madrid y se asoció con Skorzeny.",
+   "resumen": "La Organización del Ejército Secreto (OAS), contraria a la independencia de Argelia, se fundó a comienzos de 1961 en Madrid por militares y activistas franceses refugiados en la España de Franco; cometió atentados en Argelia y Francia.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -29674,7 +29674,7 @@ window.CRONO = {
     "desde": 1948,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que la OCDE, fundada en 1948, define políticas económicas globales, que antes de 1998 se limitaba a lo macroeconómico y que desde entonces actúa como organismo multilateral; menciona que su sede en París, el castillo de la Muette, fue propiedad Rothschild.",
+   "resumen": "La OCDE sucede a la Organización Europea de Cooperación Económica, creada en abril de 1948 para el Plan Marshall; el convenio de la OCDE se firmó en diciembre de 1960 y sustituyó a la OECE en septiembre de 1961.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -29766,7 +29766,7 @@ window.CRONO = {
     "desde": 1969,
     "fuente": "autor"
    },
-   "resumen": "Nocera sostiene que la OIC tiene organismos especializados como la ONU (banco islámico, ISESCO, uniones de prensa y parlamento), presencia en Nueva York, Ginebra y Bruselas, y que por ello la ONU adopta una postura blanda con la «invasión islámica» de Europa; esto último es opinión suya.",
+   "resumen": "La Organización de la Conferencia Islámica (hoy de Cooperación Islámica) se fundó en Rabat en 1969, tiene sede en Yeda y es observadora en la ONU.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -29813,7 +29813,7 @@ window.CRONO = {
     "desde": 1951,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que la OIM y el ACNUR, ambas con sede en Ginebra, controlan lo relativo a inmigrantes y refugiados, y que la OIM impulsó el Pacto de Migración de 2018.",
+   "resumen": "La OIM se creó en 1951 y es organismo conexo de la ONU desde 2016; tiene sede en Ginebra.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -29860,7 +29860,7 @@ window.CRONO = {
     "desde": 1948,
     "fuente": "autor"
    },
-   "resumen": "Nocera sostiene que la OMI, con sede en Londres, regularía casi todo el transporte marítimo mundial.",
+   "resumen": "La OMI (Organización Marítima Internacional) es el organismo especializado de la ONU que fija las normas de seguridad del transporte marítimo y de prevención de la contaminación por los buques. El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -30091,7 +30091,7 @@ window.CRONO = {
     "politica-economia"
    ],
    "fecha": null,
-   "resumen": "Según el autor, la OMS reconoce pruebas a favor de la acupuntura y las plantas, pero no las apoya ni las difunde.",
+   "resumen": "La Estrategia de la OMS sobre Medicina Tradicional 2014–2023, un plan para integrar la medicina tradicional y complementaria en los sistemas de salud.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -30199,7 +30199,7 @@ window.CRONO = {
     "desde": 1975
    },
    "fecha_autor": "«1950» (según Nocera)",
-   "resumen": "Nocera dice que la UNWTO existe desde 1950, con sede en Ginebra, y que controla el turismo mundial.",
+   "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -30251,7 +30251,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "tras la Segunda Guerra Mundial",
-   "resumen": "Según el autor, el mayor poder visible del mundo.",
+   "resumen": "La ONU (Organización de las Naciones Unidas) es la organización internacional de Estados creada para mantener la paz y la seguridad y fomentar la cooperación entre países. Fundada el 24 de octubre de 1945. Sus resoluciones de la Asamblea General no son vinculantes; las del Consejo de Seguridad sí, pero los cinco miembros permanentes tienen veto.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -30432,7 +30432,7 @@ window.CRONO = {
     "texto": "desde 1975",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la Guerra Fría sirvió de pretexto para asesinatos y dictaduras en Sudamérica.",
+   "resumen": "La Operación Cóndor fue un plan de coordinación represiva entre las dictaduras del Cono Sur, formalizado en una reunión en Santiago de Chile en noviembre de 1975.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -30501,7 +30501,7 @@ window.CRONO = {
     "hasta": 1990,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, el ejército secreto de la CIA que dirigió Borghese y del que salió la P2.",
+   "resumen": "Red «stay-behind» de la OTAN en Italia para resistir una posible invasión soviética, creada en 1956 y revelada por el primer ministro Andreotti en 1990.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -30578,7 +30578,7 @@ window.CRONO = {
     "hasta": 1947,
     "fuente": "oficial"
    },
-   "resumen": "Según la leyenda que recoge el autor, una invasión rechazada por platillos nazis.",
+   "resumen": "Expedición de la Marina de EE. UU. dirigida por Richard Byrd (diciembre de 1946–febrero de 1947), con unos 4.700 hombres, para entrenar en condiciones polares y cartografiar la costa; se acortó por la llegada del invierno.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -30743,7 +30743,7 @@ window.CRONO = {
     "desde": 1928,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, creado para atraer a los católicos conservadores y adinerados.",
+   "resumen": "Prelatura personal de la Iglesia católica fundada en Madrid en 1928 por Josemaría Escrivá de Balaguer. Sus miembros, laicos y sacerdotes, buscan la santificación del trabajo ordinario; fue erigida como prelatura personal en 1982 y su primer prelado fue Álvaro del Portillo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -30805,7 +30805,7 @@ window.CRONO = {
     "hasta": 530,
     "texto": "529–530"
    },
-   "resumen": "Según Nocera, san Benito de Nursia, de familia noble del imperio, fundó la orden más antigua del Vaticano en Montecassino.",
+   "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera. Británica sitúa la fundación de Montecassino en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -31037,7 +31037,7 @@ window.CRONO = {
     "politica-economia"
    ],
    "fecha": null,
-   "resumen": "Según el autor, una red de información con privilegios diplomáticos.",
+   "resumen": "Orden religiosa laica católica, heredera de los hospitalarios nacidos en Jerusalén hacia 1099. Tiene unos 13.500 miembros, 95.000 voluntarios y 52.000 empleados, sobre todo sanitarios, en más de 120 países.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -31380,7 +31380,7 @@ window.CRONO = {
     "desde": 1725
    },
    "fecha_autor": "1725 (=1540)",
-   "resumen": "Según el autor, la Orden de la Espuela de Oro y la Orden de Cristo, las dos órdenes principales de la Iglesia católica, se crearon en 1725 (=1540); la Orden del Templo se convierte en la Orden de Malta durante los siglos XVIII y XIX.",
+   "resumen": "La Orden de Cristo nació en Portugal por la bula Ad ea ex quibus (14-3-1319), tras la supresión de los templarios en 1312; la Orden pontificia de Cristo y la de la Espuela de Oro son órdenes papales de caballería.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -31427,7 +31427,7 @@ window.CRONO = {
     "hasta": 1956,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la red de exnazis al servicio de la CIA en la que reclutó Skorzeny.",
+   "resumen": "Servicio de inteligencia creado por EE. UU. en 1946 en torno a Reinhard Gehlen, antiguo jefe de espionaje militar de Hitler en el frente oriental; empleó a numerosos exnazis y en 1956 se convirtió en el BND, la inteligencia exterior de la RFA.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -31527,7 +31527,7 @@ window.CRONO = {
     "desde": 1952,
     "fuente": "autor"
    },
-   "resumen": "Nocera afirma que la WCO, con sede en Bruselas, adhirió en 2015 a la Agenda 2030 (captura de su web) y es un organismo clave para el globalismo.",
+   "resumen": "La Organización Mundial de Aduanas es una organización intergubernamental que coordina y armoniza los procedimientos aduaneros de sus países miembros. El Consejo de Cooperación Aduanera empezó a funcionar en 1952 en Bruselas y tomó el nombre de Organización Mundial de Aduanas en 1994.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -31637,7 +31637,7 @@ window.CRONO = {
     "texto": "s. I",
     "fuente": "oficial"
    },
-   "resumen": "El autor sostiene que el cristianismo fue creado deliberadamente.",
+   "resumen": "El cristianismo surge en el siglo I en Judea, en torno a Jesús de Nazaret. Los especialistas distinguen el «Cristo de la fe» del «Jesús histórico» mínimo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -31772,7 +31772,7 @@ window.CRONO = {
     "desde": 1949,
     "fuente": "autor"
    },
-   "resumen": "Nocera dice que la OTAN se fundó en Londres en 1949, tiene sede en Bruselas y agrupa a 29 países; afirma que, aunque parece independiente, la controlan las órdenes del Templo y Constantiniana, y la ve como regreso a la época del Estado Papal.",
+   "resumen": "La OTAN (Organización del Tratado del Atlántico Norte) es una alianza militar de defensa colectiva entre países de América del Norte y Europa. El Tratado del Atlántico Norte se firmó en Washington el 4-4-1949 por doce países; la sede está en Bruselas y en 2018 tenía 29 miembros.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -32007,7 +32007,7 @@ window.CRONO = {
     "texto": "reinado de Isabel I (1558–1603)",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, los Pallavicini financiaron a Inglaterra contra España.",
+   "resumen": "Horacio Pallavicino (c. 1540–1600), financiero genovés afincado en Inglaterra, prestó dinero a Isabel I, financió apoyos a los protestantes de los Países Bajos y actuó como agente diplomático de la Corona.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -32054,7 +32054,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "agosto de 1991"
    },
-   "resumen": "Según el autor, durante una operación con paro inducido por hipotermia Pam Reynolds relató lo ocurrido en el quirófano, lo que probaría percepción sin cerebro.",
+   "resumen": "El caso de Pam Reynolds, operada en 1991 con la actividad cerebral detenida, que después contó lo ocurrido en el quirófano; se cita como prueba de percepción sin cerebro.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -32420,7 +32420,7 @@ window.CRONO = {
     "desde": 1814,
     "hasta": 1870
    },
-   "resumen": "Según el autor, la partición final del imperio terminó en el siglo XIX: en 1814 cae Napoleón, Italia se fractura, desaparece la República de Génova y nace la Confederación Suiza como estado papal, con origen de los Estados Pontificios y la Guardia Suiza; en 1870 Italia se reunifica con los Saboya; la «nobleza negra» fueron las familias romanas que apoyaron al papa.",
+   "resumen": "El Congreso de Viena (1814-1815), reunido tras la derrota de Napoleón, reordenó Europa: restituyó los Estados Pontificios al papa, incorporó la antigua República de Génova al reino de Piamonte-Cerdeña, amplió y declaró neutral a Suiza y dejó la península italiana dividida en varios Estados.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -32807,7 +32807,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1700
    },
-   "resumen": "Según el autor, Pedro I cambió el calendario ruso, que marcaba 7208, al año 1700 del calendario juliano, de modo que desaparecieron 5500 años de historia rusa; fue el primer magnate de prensa de Rusia y su primer periódico es de 1703.",
+   "resumen": "Por decreto del 19-20 de diciembre de 1699, Pedro I ordenó contar los años desde el nacimiento de Cristo y no desde la creación del mundo, y empezar el año el 1 de enero y no el 1 de septiembre: tras el 7208 vino el 1700.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -32863,7 +32863,7 @@ window.CRONO = {
     "hasta": 1943,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, su planta pentagonal se basa en la Villa Farnese de Caprarola.",
+   "resumen": "Sede del Departamento de Defensa de EE. UU., construida entre 1941 y 1943; la diseñó George Bergstrom y su forma se adaptó al solar previsto inicialmente.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -33099,7 +33099,7 @@ window.CRONO = {
     "desde": 1956
    },
    "fecha_autor": "«1925» (según Nocera)",
-   "resumen": "Nocera cita la web del instituto: nace en 1956 como sucesor del Instituto de Economía Mundial y Asuntos Internacionales (1925–1948), de la Academia de Ciencias de Rusia; lo ve como el Chatham House ruso y su primera aparición de Rusia en la estructura global.",
+   "resumen": "El IMEMO se creó en 1956 como sucesor del Instituto de Economía y Política Mundiales (1925-1948), dentro de la Academia de Ciencias de la URSS y hoy lleva el nombre de Yevgueni Primakov; es un instituto de investigación sobre economía y política internacional.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -33188,7 +33188,7 @@ window.CRONO = {
     "hasta": 1721
    },
    "fecha_autor": "oficialmente 1529-1536",
-   "resumen": "Según el autor, entre 1713 y 1725 se negoció el reparto de tierras y derechos coloniales; los «pleitos colombinos» de 1529-1536 serían esa negociación (1714-1721), con tratados en Utrecht (1713), Rastatt (1714), La Haya (1717 y 1720), Londres (1718), Cambrai (1721-1724) y Viena (1725); en 1720 se pacta el reparto y se anulan los derechos Láscaris-Comneno.",
+   "resumen": "Los pleitos colombinos enfrentaron a los herederos de Colón con la Corona entre 1508 y 1536 (primera sentencia en Sevilla en 1511, otra en 1520 y transacción en 1536).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -33552,7 +33552,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos X-XI"
    },
-   "resumen": "Según el autor, el primer gran estado nació en el delta del Nilo y casi toda la historia del Egipto «antiguo» sucedió, con mucha probabilidad, en la Edad Media, nunca antes del siglo XI; su capital estuvo cerca de la actual Alejandría, y los jesuitas llegaron a Egipto a finales del XVIII y empezaron a construir su historia «antigua».",
+   "resumen": "El primer Estado unificado de Egipto surgió hacia 3100 a. C. con la unión del Alto y el Bajo Egipto, atribuida por la tradición a Menes o Narmer, y dio paso al período dinástico temprano con capital en Menfis.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -34104,7 +34104,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "mediados del siglo XVI"
    },
-   "resumen": "Según el autor, a mediados del siglo XVI se rebelaron gobernadores de Alemania que querían independencia política y militar; es lo que los libros llaman la Reforma; el imperio preparó una campaña pero los conspiradores la frustraron, y el partido prooccidental ganó en el siglo XVII y dividió el imperio.",
+   "resumen": "La Reforma protestante se inició en 1517 con las noventa y cinco tesis de Martín Lutero y pronto encontró apoyo en príncipes y ciudades alemanas que buscaban autonomía frente al emperador y frente a la Iglesia de Roma.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -34154,7 +34154,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1810
    },
-   "resumen": "Según el autor, 1453 (=1260) es la ocupación de Constantinopla por Mehmet II (= Mahoma); la Jerusalén de Palestina se crea en el siglo XVI y es ocupada por los seguidores de Mahoma entre 1650 y 1700; tras caer Napoleón en Egipto y Siria (1801) se construye el Santo Sepulcro cristiano (1810) por Nikolaos Komnenos.",
+   "resumen": "El incendio del Santo Sepulcro fue en septiembre de 1808; la rotonda y el edículo se reconstruyeron en 1809-1810 por el arquitecto griego Nikolaos Komnenos de Mitilene, como indica la inscripción de 1810.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -34716,7 +34716,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, el repulsín habría sido un aparato antigravitatorio con agua implosionada que acabó retenido por la CIA.",
+   "resumen": "Una máquina de Viktor Schauberger, el «Repulsine», que Artur Sala presenta como un aparato antigravitatorio con agua implosionada. Viktor Schauberger (1885-1958) diseñó el «Repulsator» y el «Repulsine», máquinas de implosión; las fuentes que los describen son de divulgación y no hay validación científica ni demostración independiente de su funcionamiento.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -34905,7 +34905,7 @@ window.CRONO = {
     "hasta": 2024,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, un artículo de Pollack de noviembre de 2024 sostiene que los pulmones arrancan un electrón del oxígeno al estrujar los glóbulos rojos; el autor concluye que nos alimentamos de electrones.",
+   "resumen": "Un artículo de Gerald Pollack de 2024 que plantea que los pulmones aportan electrones, además de oxígeno. No es consenso médico: la respiración suministra oxígeno a la cadena respiratoria mitocondrial.",
    "fecha_autor": "noviembre de 2024",
    "segun": [
     {
@@ -34979,7 +34979,7 @@ window.CRONO = {
     "desde": 1814,
     "fuente": "autor"
    },
-   "resumen": "El autor fecha aquí el inicio de la infiltración del Vaticano.",
+   "resumen": "Pío VII restauró la Compañía de Jesús en 1814 con la bula Sollicitudo omnium ecclesiarum, cuarenta y un años después de su supresión.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -35050,7 +35050,7 @@ window.CRONO = {
     "desde": 2007,
     "texto": "octubre de 2007"
    },
-   "resumen": "Según Nocera, en 2007 el Vaticano absolvió a los templarios y Reino Unido reconoció a la Orden del Templo de Salomón como principado soberano.",
+   "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -35224,7 +35224,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1972
    },
-   "resumen": "Según el autor, en 1972 se reunió la Royal Society de Londres para debatir las incoherencias en el cálculo de la aceleración de la Luna, con un salto cerca del siglo X que no encajaba en ninguna fórmula razonable, y no se llegó a un resultado definitivo.",
+   "resumen": "Una reunión de la Royal Society de Londres en 1972 sobre la aceleración de la Luna, que un autor cuenta como un debate sin solución. La aceleración secular de la Luna se estudia con eclipses antiguos (Morrison, Stephenson, Newton) y con ocultaciones modernas; esos análisis dan valores del orden de −30″/siglo², y existe literatura previa y posterior al 1972 (Morrison presentó resultados en 1971-72).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -35452,7 +35452,7 @@ window.CRONO = {
     "desde": 1789,
     "hasta": 1799
    },
-   "resumen": "Según Guerra, la revolución se financió con fuentes jesuitas y Robespierre sería jesuita; Francia fue el arma de venganza de la Compañía.",
+   "resumen": "La Revolución francesa se desarrolló entre 1789 y 1799, desde la convocatoria de los Estados Generales hasta el golpe de Napoleón.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -35996,7 +35996,7 @@ window.CRONO = {
     "desde": 1801,
     "hasta": 1803
    },
-   "resumen": "Según el autor, entre 1801 y 1803 se arrebataron a Napoleón las antigüedades egipcias (entre ellas la piedra de Rosetta) para enviarlas al Museo Británico.",
+   "resumen": "El paso de la piedra de Rosetta, hallada por soldados franceses en 1799, a manos británicas tras el Tratado de Alejandría de 1801.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -36130,7 +36130,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "autor"
    },
-   "resumen": "Según Artur Sala, Reich rompió con Freud y la sociedad psicoanalítica y fundó la vegetoterapia caracteroanalítica, basada en el equilibrio entre simpaticotonía y vagotonía.",
+   "resumen": "El distanciamiento de Wilhelm Reich de Freud y de la sociedad psicoanalítica en los años 30, y su paso a un método propio, la vegetoterapia caracteroanalítica. Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -36283,7 +36283,7 @@ window.CRONO = {
     "desde": 1607,
     "fuente": "autor"
    },
-   "resumen": "Para el autor, el año en que la nobleza veneciana rompe con el papado.",
+   "resumen": "Entre 1606 y 1607 el papa Pablo V lanzó un interdicto contra la República de Venecia por un conflicto de jurisdicción. Paolo Sarpi defendió la postura veneciana.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -36347,7 +36347,7 @@ window.CRONO = {
     "texto": "1945 – 1955",
     "fuente": "autor"
    },
-   "resumen": "Según el autor, miles de nazis huyeron con ayuda del Vaticano, la inteligencia de EE. UU. y Perón.",
+   "resumen": "Tras la guerra, criminales nazis huyeron por «rutas de ratas», a menudo vía Italia con ayuda de clérigos como el obispo Alois Hudal y documentos de la Cruz Roja; Argentina recibió a muchos, como Eichmann o Mengele.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -36507,7 +36507,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "desde 904"
    },
-   "resumen": "Nocera cita el siglo oscuro del papado: el papa Sergio III bajo el control de Teofilacto y Teodora.",
+   "resumen": "El Saeculum obscurum (904–964: de la instalación de Sergio III a la muerte de Juan XII) designa una época de influencia de las familias aristocráticas romanas (Teofilacto, Teodora, Marozia) sobre el papado; «pornocracia» fue un término acuñado por teólogos protestantes alemanes del siglo XIX y su historicidad es discutida.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -36555,7 +36555,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "¿1882 o 882 d. C.?",
-   "resumen": "Según el autor, la Sagrada Familia de Barcelona, obra de Gaudí, se inició oficialmente en 1882, pero plantea si fue en el año 882 d. C.",
+   "resumen": "La primera piedra de la Sagrada Familia se colocó el 19 de marzo de 1882, con el obispo Urquinaona y el arquitecto Francisco de Paula del Villar; Gaudí asumió el proyecto en 1883.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -36760,7 +36760,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XVI"
    },
-   "resumen": "Según el autor, Yaroslav el Sabio (= Batu = Iván Kalitá) intentó llevar la capital a Kiev y levantó allí Santa Sofía; el Templo de Salomón sería la Santa Sofía de Constantinopla, obra de Solimán el Magnífico en el XVI y mezquita desde el XVIII; Salamanca significaría «ciudad de Salomón».",
+   "resumen": "La actual Santa Sofía de Constantinopla se construyó entre 532 y 537 bajo Justiniano I (arquitectos Antemio de Tralles e Isidoro de Mileto) y se convirtió en mezquita tras la conquista otomana de 1453; no la hizo Solimán en el siglo XVI.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -37137,7 +37137,7 @@ window.CRONO = {
     "hasta": 1945,
     "fuente": "oficial"
    },
-   "resumen": "El autor la considera una guerra provocada con varios objetivos.",
+   "resumen": "Conflicto de 1939 a 1945, iniciado con la invasión alemana de Polonia. Los historiadores explican sus causas por el expansionismo de la Alemania nazi, Italia y Japón, las consecuencias de la Primera Guerra Mundial y la crisis de los años treinta; no por un plan para crear un organismo supraestatal (la ONU nació en 1945, al acabar).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -37225,7 +37225,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "después de su matrimonio con Sofía Paleóloga",
-   "resumen": "Según el autor, desde Iván III (casado con Sofía Paleóloga) desaparecen en los sellos las inscripciones incomprensibles y los documentos llevan fecha y lugar; el sello de Federico III es idéntico al de Iván III porque bajo el nombre de Federico III se describe al zar Iván III, y los sellos de Iván IV y otros muestran el águila con alas levantadas, que oficialmente aparece en 1654.",
+   "resumen": "Iván III, gran príncipe de Moscú, se casó en 1472 con Sofía Paleóloga, sobrina del último emperador bizantino, y adoptó el águila bicéfala como emblema, documentada en sus sellos y convertida después en escudo de Rusia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -37433,7 +37433,7 @@ window.CRONO = {
     "desde": 1707
    },
    "fecha_autor": "1522 (=1707)",
-   "resumen": "Según el autor, los Láscaris se instalaron en Játiva (Orden de Montesa) y el sitio de 1522, de las Germanías, sería el de 1707, con 185 años de diferencia; el capítulo del Toisón de Oro de 1519 precedería a las Cortes de 1705-1706 en que se corona a Carlos III.",
+   "resumen": "Játiva (Xàtiva) fue asediada tras la batalla de Almansa (25-4-1707), se rindió en junio y fue incendiada el 19 de junio de 1707 por orden de Felipe V, que la rebautizó «San Felipe».",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -38260,7 +38260,7 @@ window.CRONO = {
     "texto": "2015",
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, el libro del historiador James Strick analiza en detalle los experimentos de Reich y destaca el papel del biólogo Roger Du Teil.",
+   "resumen": "Un libro del historiador James Strick, publicado por Harvard University Press en 2015, que analiza los experimentos de Wilhelm Reich con los biones.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -38424,7 +38424,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "siglo XI («creo recordar»)",
-   "resumen": "Para el autor, la columna central del sistema, neutral e intocable.",
+   "resumen": "La Confederación suiza toma como fecha de origen el Pacto Federal de 1291. La Orden del Temple fue disuelta en 1312, casi dos siglos antes de la llegada europea a América (1492).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38611,7 +38611,7 @@ window.CRONO = {
     "texto": "1910–1935"
    },
    "fecha_autor": "«hace cien años»",
-   "resumen": "Según el autor, financieros y fundaciones lograron leyes y escuelas de medicina que favorecían los fármacos caros y dejaban fuera a la homeopatía y a los remedios naturales.",
+   "resumen": "Entre 1910 y 1935 más de la mitad de las escuelas de medicina de EE. UU. se fusionaron o cerraron, entre ellas muchas de homeopatía y de medicina ecléctica, y las juntas médicas estatales fueron adoptando los criterios del informe Flexner; el proceso lo impulsaron la AMA y la Fundación Carnegie, y después la Fundación Rockefeller con su General Education Board.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38731,7 +38731,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "No da año",
-   "resumen": "Según Guerra, parte de los templarios se refugió en Aragón, pasó a la orden de Calatrava y luego a Montesa, y de ahí vendría la Compañía de Jesús.",
+   "resumen": "La Orden de Montesa se creó en 1317 (bula de 10-6-1317) con los bienes templarios de Aragón; la Orden de Calatrava (1158) es distinta y anterior.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38795,7 +38795,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglo XII"
    },
-   "resumen": "Según Guerra, los templarios crearon el dinero ligado a la deuda y la banca internacional; los Rothschild llegaron siglos después.",
+   "resumen": "La Orden del Temple (1119-1312) ofreció servicios financieros a peregrinos y reyes, como depósitos y cartas de crédito.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38839,7 +38839,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da año (Roger II, rey de Sicilia)",
-   "resumen": "Según el autor, muchos templarios se hicieron piratas y los corsarios célebres siguieron sus normas o fundaron logias menores (Hermanos de la Costa, secta libertaria de Madagascar), robando para crear luego los paraísos fiscales; cita a Ernesto Frers y a David Hatcher Childress, para quien «Jolly Roger» viene de Roger II de Sicilia, templario enfrentado al papa.",
+   "resumen": "El primer uso documentado de bandera negra con calavera y tibias es del pirata Emanuel Wynne, julio de 1700; el nombre «Jolly Roger» aparece por escrito en 1724 (Charles Johnson).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -38890,7 +38890,7 @@ window.CRONO = {
     "texto": "c. 1100 a.C. (fundación de Gadir según la tradición)",
     "fuente": "oficial"
    },
-   "resumen": "Según una teoría que recoge el autor, el templo de Salomón se inspiró en el de Melkart, que estaría en España.",
+   "resumen": "Melkart era el dios protector de Tiro, asimilado a Heracles/Hércules. El santuario más célebre de la península fue el Herakleion de Gadir (Cádiz), situado por las fuentes clásicas en el islote de Sancti Petri; la Biblia cuenta que el rey Hiram de Tiro ayudó a Salomón a construir su templo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -39004,7 +39004,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, marxismo promovido por los jesuitas.",
+   "resumen": "Corriente teológica latinoamericana que toma forma tras la conferencia de Medellín (1968) y el libro de Gustavo Gutiérrez (1971).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -39117,7 +39117,7 @@ window.CRONO = {
     "hasta": 1945,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la versión más avanzada del sueño imperial de la nobleza negra, y su chivo expiatorio.",
+   "resumen": "Régimen nacionalsocialista alemán de 1933 a 1945. Tras el incendio del Reichstag y la Ley Habilitante (1933), Hitler concentró el poder; el régimen se basó en el partido único, la Gestapo y las SS, el rearme, el racismo de Estado y el expansionismo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -39447,7 +39447,7 @@ window.CRONO = {
     "hasta": 1504,
     "texto": "1277–1504"
    },
-   "resumen": "Según Nocera, el título de rey de Jerusalén pasó del Imperio Latino a Carlos de Anjou y de ahí a la Corona de Aragón y a Felipe VI.",
+   "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -39507,7 +39507,7 @@ window.CRONO = {
    "fecha": {
     "desde": 2018
    },
-   "resumen": "Según el autor, en 2018 el erudito Kharamoos Tjundeshev publicó un libro en el que sostiene que Batu Kan, nieto de Gengis, fundó el Estado ruso en 1240 con la Horda de Oro, que dio el espíritu imperial a Rusia y fue base de varios credos; de los tártaros descienden China, la India y Turquía.",
+   "resumen": "Un libro de 2018 de Kharamoos Tjundeshev que sostiene que Batú Kan, nieto de Gengis Kan, fundó el Estado ruso en 1240.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -39553,7 +39553,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1261
    },
-   "resumen": "Según el autor, en 1261 el gobernador de Nicea, con ayuda de la Horda, tomó Constantinopla, lo que decidió la guerra de Troya (la «primera guerra mundial» medieval, de carácter religioso) y acabó con el Imperio; sus familias huyeron y se formaron estados sucesores como Nicea y Vladimir-Suzdal, con capital en Rostov y luego Yaroslavl.",
+   "resumen": "En 1261 las fuerzas del Imperio de Nicea, bajo Miguel VIII Paleólogo (mandadas por Alexios Strategopoulos), recuperaron Constantinopla de los latinos tras 57 años de ocupación y restauraron el Imperio bizantino.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -39598,7 +39598,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1945
    },
-   "resumen": "Según el autor, la captura de Berlín puso fin a la guerra en Europa.",
+   "resumen": "La ofensiva soviética sobre Berlín se extendió del 16 de abril al 8 de mayo de 1945; la guarnición de la ciudad capituló el 2 de mayo, dos días después del suicidio de Hitler.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -39649,7 +39649,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1552
    },
-   "resumen": "Según el autor, a mediados del siglo XVI el reino de Kazán (kanato de Jazaria) se convirtió en centro del judaísmo y su rey quiso separarse del imperio; en 1552 Iván el Terrible reprimió la rebelión. Añade que los jázaros eran paganos que adoraban a Saturno y que Jazaria sería el origen de los judíos askenazíes, a los que llama «falsos judíos» que son financieros de las familias nobles.",
+   "resumen": "El 2 de octubre de 1552 el ejército de Iván IV tomó Kazán, capital del kanato tártaro de Kazán (1438-1552), un estado musulmán y túrquico; fue la batalla final de las guerras ruso-kazanas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -39748,7 +39748,7 @@ window.CRONO = {
     "desde": 2015,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, Montagnier logró grabar en agua la información de un medicamento con frecuencias de 500 a 3000 Hz y enviarla a distancia, lo que acabaría con la industria farmacéutica y la homeopática.",
+   "resumen": "La idea, atribuida a Luc Montagnier, de que el agua puede registrar la información de una sustancia mediante frecuencias electromagnéticas y transmitirla a distancia.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -39821,7 +39821,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1957
    },
-   "resumen": "Según Guerra, Huxley acuñó el término y lo defendió en New Bottles for New Wine.",
+   "resumen": "El origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -39944,7 +39944,7 @@ window.CRONO = {
    "temas": [],
    "fecha": null,
    "fecha_autor": "antes de 1607",
-   "resumen": "Según el autor, Venecia previó su decadencia y trasladó su capital a Holanda e Inglaterra.",
+   "resumen": "La historiografía explica el declive de Venecia por el desplazamiento del comercio hacia el Atlántico, la competencia otomana y portuguesa y las guerras.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -40287,7 +40287,7 @@ window.CRONO = {
     "politica-economia"
    ],
    "fecha": null,
-   "resumen": "Según el autor, los tratamientos oficiales del cáncer son tóxicos y lucrativos, y las alternativas baratas se suprimen.",
+   "resumen": "La crítica de un autor a los tratamientos oficiales del cáncer, la quimioterapia y la radiación, por sus efectos tóxicos y su negocio. La quimioterapia y la radiación dañan también células sanas de crecimiento rápido, como las sanguíneas, y pueden causar efectos secundarios graves, como neutropenia, y a veces un segundo cáncer años después; los médicos sopesan esos riesgos con el beneficio.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -40433,7 +40433,7 @@ window.CRONO = {
    "naturaleza": "gobiernos",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, en el momento de máxima expansión se decretó que los súbditos vivieran en paz y se prohibió a los poderosos oprimir a los pobres (el mensaje del Nuevo Testamento), y se pactó, tutelada por el Gran Khan, una triple división: sacerdotes (autoridad canónica), patriciado (civil) y nobleza (militar, Orden del Templo de Salomón).",
+   "resumen": "Gengis Kan repartió el imperio entre sus hijos y la familia imperial como propiedad conjunta, y tras su muerte en 1227 el territorio se articuló en ulus o appanages: el de Jochi (Horda de Oro), el de Chagatai, el de Ögedei y el Ilkanato de Hulegu.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -40527,7 +40527,7 @@ window.CRONO = {
     "hasta": -403,
     "texto": "431-404 a. C."
    },
-   "resumen": "Según el autor, en 1973 Robert Newton contactó con el matemático Anatoli Fomenko, que supo que la datación de la aceleración lunar se basaba en los eclipses registrados por Tucídides (uno solar total, uno solar parcial y uno lunar), que fechan la guerra del Peloponeso entre 431 y 404 a. C. Newton resolvió su problema, pero Fomenko siguió dudando.",
+   "resumen": "Los eclipses que cita el historiador Tucídides en su relato de la guerra del Peloponeso, que sirven para fechar esa guerra con cálculo astronómico.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -40652,7 +40652,7 @@ window.CRONO = {
     "desde": 1865,
     "fuente": "autor"
    },
-   "resumen": "Nocera cuenta que la UIT, fundada en 1865 y con sede en Ginebra, fue incorporada por el SNU en 1947, y confiesa que fue una de las mayores decepciones de su vida saber su alcance, tras haber estudiado telecomunicaciones.",
+   "resumen": "La Unión Internacional del Telégrafo se fundó el 17-5-1865 en París, adoptó el nombre actual en 1932 y firmó con la ONU en noviembre de 1947 su condición de agencia especializada (en vigor el 1-1-1949); su sede está en Ginebra.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -41141,7 +41141,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1318
    },
-   "resumen": "Según el autor, en 1318 el Gran Príncipe de Moscú Georgiy Danilovich, que identifica con Gengis Kan, retoma el movimiento iniciado por Eneas-Rurik y empieza la unión de Rusia.",
+   "resumen": "Gengis Kan (Temuyín, hacia 1162-1227) unificó las tribus mongolas y fundó el Imperio mongol, sin relación con la dinastía moscovita.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -41706,7 +41706,7 @@ window.CRONO = {
     "desde": 1874,
     "fuente": "autor"
    },
-   "resumen": "Nocera cuenta que la UPU, de 1874, fue absorbida por la ONU al terminar la II Guerra Mundial, y la cita como ejemplo del control de los servicios de correo.",
+   "resumen": "La Unión Postal Universal (UPU) es el organismo internacional que regula el intercambio de correo entre países. La UPU se fundó en Berna en 1874 como Unión General de Correos y se convirtió en organismo especializado de la ONU en 1948.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -42081,7 +42081,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1997 (estudio de Ring y Cooper)"
    },
-   "resumen": "Según el autor, una mujer ciega de nacimiento habría visto imágenes acordes con la realidad durante una experiencia cercana a la muerte.",
+   "resumen": "El relato de una mujer ciega de nacimiento que, en una experiencia cercana a la muerte, habría «visto» imágenes acordes con la realidad.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -42327,7 +42327,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "finales del siglo XVI"
    },
-   "resumen": "Según el autor, hacia finales del siglo XVI cada país de Europa occidental tenía un virrey o vicario de la Horda y sus soberanos eran vasallos del zar ruso, a quien llamaban emperador, con una nobleza formada en gran parte por conquistadores eslavos.",
+   "resumen": "Iván IV, gran príncipe de Moscú desde 1533, fue el primero en coronarse zar en 1547, y gobernó un Estado que se expandía hacia el Volga y Siberia y combatía en Livonia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -42371,7 +42371,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, los virus se observan secos, sin agua, y por eso no se ve nada; para él solo transmiten información.",
+   "resumen": "Una afirmación de Artur Sala según la cual los virus se observan secos, sin agua, y por eso no se ve nada de su actividad. La crio-microscopía electrónica fotografía los virus en estado hidratado (vitrificado), no secos; el método de muestra seca no es el único.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -42429,7 +42429,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "2015",
-   "resumen": "El autor cita un informe de ENEA de 2008 sobre fusión fría y una visita de Bill Gates en 2015 por su empresa TerraPower.",
+   "resumen": "La visita de Bill Gates, en noviembre de 2014, a los laboratorios de ENEA en Frascati, un centro que investiga reacciones nucleares de baja energía.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -42477,7 +42477,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«en el 2018»",
-   "resumen": "Según Nocera, un portaaviones de EE. UU. fue a Nápoles a buscar a Carlos de Borbón para conmemorar 150 años de alianza con las Dos Sicilias. SMiguel1 añade que el USS era «el barco de infiltrado Israel-Egipto».",
+   "resumen": "El USS Enterprise (CVN-65) causó baja en 2017 y no pudo visitar Nápoles en 2018. La visita oficial de Carlos y Camila de Borbón-Dos Sicilias a Nápoles fue del 3 al 5 de noviembre de 2018 (aniversario de bodas y 25 años del movimiento neoborbónico), sin portaaviones.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -42895,7 +42895,7 @@ window.CRONO = {
     "desde": 1790,
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, el brazo armado del sistema, creado bajo influencia vaticana.",
+   "resumen": "El Distrito de Columbia se creó con la Ley de Residencia de 1790. Maryland, fundada en 1634 por el católico Cecil Calvert como refugio para católicos y con jesuitas entre sus primeros colonos, debe su nombre a la reina Enriqueta María, católica; Virginia lo debe a Isabel I, protestante.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -43367,7 +43367,7 @@ window.CRONO = {
     "hasta": 1598,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, en el Theatrum Orbis Terrarum de Ortelius (1574 oficialmente), en el mapa de Hulsius (1598) y en el de Geelkercken (1610) la cifra que precede a las fechas sería una «I» o «J» de Iesus, no un «1», de modo que las fechas reales serían 574, 598, 499, 579, 587 y 632.",
+   "resumen": "Abraham Ortelius (Amberes, 1527-1598) fue cartógrafo flamenco y publicó el primer atlas moderno, el «Theatrum Orbis Terrarum» (1570).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -43484,7 +43484,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1945
    },
-   "resumen": "Para el autor, chivo expiatorio del mundo que vino después.",
+   "resumen": "Político alemán de origen austriaco (Braunau, 1889 – Berlín, 1945), líder del Partido Nacionalsocialista. Canciller desde enero de 1933, concentró todo el poder tras la muerte de Hindenburg (1934) y llevó a Alemania a la Segunda Guerra Mundial; fue responsable del Holocausto.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -44796,7 +44796,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 2
    },
-   "resumen": "Según el autor, Jesucristo fue en realidad Andrónico I Comneno, emperador depuesto y crucificado en 1185 en Beykoz (Gólgota), junto al Bósforo; sus reformas contra la corrupción levantaron el odio de la nobleza y acabaron con la dinastía Comneno y el inicio de los Ángelos.",
+   "resumen": "Andrónico I Comneno nació hacia 1118 y fue emperador bizantino de 1183 a 1185, el último de la dinastía Comneno; fue derrocado y asesinado en Constantinopla en septiembre de 1185.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -46913,7 +46913,7 @@ window.CRONO = {
     "fuente": "oficial",
     "margen": 1
    },
-   "resumen": "Según el autor, Colón fue en realidad Pedro Madruga, conde de Caminha, caballero de la Orden de Cristo que se llevó mapas de navegación y ocultó su nombre; los Madruga eran parientes de los Colonna y la casa de Alba y los Colonna se unieron en 1935.",
+   "resumen": "Cristóbal Colón (Cristoforo Colombo) nació entre agosto y octubre de 1451, según la opinión mayoritaria en Génova, y murió el 20 de mayo de 1506 en Valladolid.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -46960,7 +46960,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1321
    },
-   "resumen": "Para el autor, güelfo de familia y gibelino de ideas, testigo del cambio del siglo XIV.",
+   "resumen": "Dante Alighieri (Florencia, c. mayo de 1265 – Rávena, 14-9-1321), filósofo, poeta y escritor italiano, autor de la «Divina comedia», una de las cumbres de la literatura universal y obra de la transición del pensamiento medieval al renacentista.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -47413,7 +47413,7 @@ window.CRONO = {
     "hasta": 1389,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, en 1380 Dmitri Donskói derrotó a Mamái en Kulikovo; fue una guerra civil religiosa entre las dos ramas del cristianismo (la apostólica ganó); el icono de Yaroslavl, descubierto en 1959, muestra pistolas y estandartes con la misma imagen del Salvador; después se fundó Moscú.",
+   "resumen": "Dmitri Donskói nació el 12 de octubre de 1350 y murió el 19 de mayo de 1389 en Moscú. Fue príncipe de Moscú desde 1359 y gran príncipe de Vladimir desde 1362-1363, y ganó a la Horda de Oro la batalla de Kulikovo (8 de septiembre de 1380).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -48239,7 +48239,7 @@ window.CRONO = {
     "hasta": 1901,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, el historiador inglés Edwin Johnson (1842-1901) criticó seriamente la cronología de Scaliger y la acortó mucho.",
+   "resumen": "Edwin Johnson (1842-1901), historiador inglés, escribió «Antiqua Mater» (1887), «The Rise of Christendom» (1890) y otras obras en las que sostenía que gran parte de la historia anterior al siglo XV era invención posterior.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -49098,7 +49098,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1952
    },
-   "resumen": "Según el autor, se apropió del oro nazi y lo llevó a Suiza.",
+   "resumen": "María Eva Duarte de Perón, Evita (Los Toldos, 7-5-1919 – Buenos Aires, 26-7-1952), actriz y política argentina. Fue primera dama de 1946 a su muerte como esposa del presidente Juan Domingo Perón y figura destacada del peronismo; impulsó el voto femenino.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -49908,7 +49908,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1960
    },
-   "resumen": "Para el autor, el principal ideólogo de la internacional fascista.",
+   "resumen": "Francis Parker Yockey (Chicago, 1917 – San Francisco, 16-6-1960), abogado y escritor estadounidense de extrema derecha, autor de «Imperium» (1948) con el seudónimo Ulick Varange.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -50761,7 +50761,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 5
    },
-   "resumen": "Según el autor, Gengis Kan murió joven hacia 1343, asesinado (según algunos informes por conspiradores) y, como otros grandes reyes del imperio, fue embalsamado y enterrado en el antiguo cementerio imperial de Egipto (la necrópolis de Guiza).",
+   "resumen": "Gengis Kan (Temüjin) nació hacia 1162 y murió el 18 de agosto de 1227 durante la campaña contra los Xi Xia, con unos 65 años; las causas de su muerte se discuten y su tumba no se ha localizado.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -52367,7 +52367,7 @@ window.CRONO = {
     "aprox": false,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, en 1986 los alemanes Heribert Illig y Hans-Ulrich Niemitz propusieron que faltan 300 años de historia (siglos VIII-XI) y que los registros de entonces son falsos: Otto II y el papa Silvestre II habrían falsificado pruebas para apoderarse de tierras y crear un árbol genealógico «real», aprovechando el miedo al cambio de milenio.",
+   "resumen": "Hans-Ulrich Niemitz (Berlín, 22-11-1946 – 2-11-2010) fue ingeniero y profesor de historia de la técnica en la Universidad de Leipzig.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -53041,7 +53041,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "vivo": true,
-   "resumen": "Según el autor, en 1986 los alemanes Heribert Illig y Hans-Ulrich Niemitz propusieron que faltan 300 años de historia (siglos VIII-XI) y que los registros de entonces son falsos: Otto II y el papa Silvestre II habrían falsificado pruebas para apoderarse de tierras y crear un árbol genealógico «real», aprovechando el miedo al cambio de milenio.",
+   "resumen": "Heribert Illig nació en 1947 en Vohenstrauß (Baviera).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -53136,7 +53136,7 @@ window.CRONO = {
     "hasta": 1547,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, Hernán Cortés fue un Láscaris (III conde de Cortés, también conde de Ribagorza) y su escudo (barras catalanoaragonesas, águila bicéfala de los Láscaris-Comneno, triple corona papal, león y Jerusalén, cadena de cabezas indígenas) permite a los reyes hispanos proclamar derechos sobre los territorios «descubiertos».",
+   "resumen": "Hernán Cortés nació en 1485 en Medellín (Extremadura) y murió el 2 de diciembre de 1547 en Castilleja de la Cuesta (Sevilla). Derrotó al imperio azteca (1519-1521).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -54176,7 +54176,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 16
    },
-   "resumen": "Según el autor, Iván I Kalitá o Batu Kan, nieto de Gengis y gobernante entre 1328 y 1340, creó en Italia la ciudad de Roma y el Vaticano como sede del poder de Europa y estableció la institución de los papas, siendo a la vez rey y sumo sacerdote; «Vati-cano» sería «Batu Kan», y también se le conoce como Preste Juan; la historia lo multiplicó en varios personajes.",
+   "resumen": "Iván I Kalitá, príncipe de Moscú desde 1325 y gran príncipe de Vladimir desde 1331, murió el 31 de marzo de 1340 (algunas fuentes dicen 1341).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -55193,7 +55193,7 @@ window.CRONO = {
     "hasta": 1729,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, el jesuita Jean Hardouin (1646-1729), director de la Biblioteca Real francesa, concluyó que la historia antigua se hizo mucho más tarde o era una falsificación.",
+   "resumen": "Jean Hardouin (Quimper, 22-23 de diciembre de 1646 – París, 3 de septiembre de 1729), jesuita y bibliotecario del Colegio Louis-le-Grand, editó los concilios de la Iglesia y creyó que casi todos los textos de la antigüedad grecolatina eran falsificaciones medievales.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -56741,7 +56741,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 2005
    },
-   "resumen": "Para el autor, el papa moderno que más destacó el águila bicéfala.",
+   "resumen": "Karol Wojtyła (Wadowice, 1920 – Ciudad del Vaticano, 2005), papa de 1978 a 2005, el primero no italiano desde 1523. Su pontificado duró 26 años; viajó por todo el mundo, impulsó el diálogo interreligioso y murió el 2-4-2005.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -57887,7 +57887,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 4
    },
-   "resumen": "Según el autor, en el Theatrum Orbis Terrarum de Ortelius (1574 oficialmente), en el mapa de Hulsius (1598) y en el de Geelkercken (1610) la cifra que precede a las fechas sería una «I» o «J» de Iesus, no un «1», de modo que las fechas reales serían 574, 598, 499, 579, 587 y 632.",
+   "resumen": "Levinus Hulsius nació en Gante hacia 1546-1550 (las fuentes discrepan) y murió en Fráncfort el 13 de marzo de 1606; fue editor, notario y fabricante de instrumentos, famoso por su colección de 26 viajes (desde 1598).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -60575,7 +60575,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 2
    },
-   "resumen": "Según el autor, en el Theatrum Orbis Terrarum de Ortelius (1574 oficialmente), en el mapa de Hulsius (1598) y en el de Geelkercken (1610) la cifra que precede a las fechas sería una «I» o «J» de Iesus, no un «1», de modo que las fechas reales serían 574, 598, 499, 579, 587 y 632.",
+   "resumen": "Nicolaes van Geelkercken (hacia 1585-1656) fue cartógrafo, grabador y agrimensor neerlandés (Ámsterdam, Leiden, Arnhem); su mapamundi de doble hemisferio es de 1610.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -60852,7 +60852,7 @@ window.CRONO = {
     "hasta": 1946,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, el astrónomo ruso Morozov ya había cuestionado la datación de los hechos anteriores al siglo VI a partir de los eclipses y propuesto fechas distintas en su libro «Cristo» (1924-1936); fue olvidado hasta que Fomenko recogió su trabajo.",
+   "resumen": "Nikolái Morózov nació el 7 de julio de 1854 en Borok y murió el 30 de julio de 1946; fue revolucionario, preso en Shlisselburg y luego científico, y publicó «La Revelación en la tormenta y el trueno» (1907) y «Cristo».",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -62139,7 +62139,7 @@ window.CRONO = {
     "fuente": "oficial",
     "aprox": false
    },
-   "resumen": "Según el autor, Pedro I cambió el calendario ruso, que marcaba 7208, al año 1700 del calendario juliano, de modo que desaparecieron 5500 años de historia rusa; fue el primer magnate de prensa de Rusia y su primer periódico es de 1703.",
+   "resumen": "Pedro I el Grande nació el 9 de junio de 1672 (30 de mayo, estilo antiguo) y murió el 8 de febrero de 1725 en San Petersburgo. Fue zar desde 1682 y emperador desde 1721.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -62291,7 +62291,7 @@ window.CRONO = {
     "hasta": 1763,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, Krekshin (1684-1763), secretario de Pedro el Grande, criticó en un libro la versión aceptada de la historia romana, entonces «bastante reciente».",
+   "resumen": "Piotr Nikíforovich Krekshin (1684-1763) fue un escritor e historiador ruso, autor de una de las primeras biografías de Pedro I. Las fechas del autor coinciden con las del catálogo de la Biblioteca Presidencial de Rusia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -63723,7 +63723,7 @@ window.CRONO = {
     "aprox": false,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, el filólogo alemán Robert Baldauf (hacia 1900) concluyó por motivos filológicos que las obras «antiguas» son medievales.",
+   "resumen": "Robert Baldauf (Waldenburg, 22-4-1881 – Fráncfort, 26-5-1918) estudió filología clásica en Basilea y fue redactor del «Frankfurter Zeitung» desde 1904.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -65431,7 +65431,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 3
    },
-   "resumen": "Según el autor, Razin fue comandante de la Horda de Astracán y su guerra contra los Romanov fue una guerra entre dos estados del antiguo imperio (Moscú y Astracán), en la que los Romanov dependieron de mercenarios alemanes (regimientos de Reiter) y anexionaron Astracán.",
+   "resumen": "Stepán (Stenka) Razin nació hacia 1630 y murió ejecutado en Moscú el 16 de junio de 1671 (6 de junio, estilo antiguo). Lideró la gran rebelión cosaca y campesina de 1670-1671 contra el zar Alexis.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -66801,7 +66801,7 @@ window.CRONO = {
     "fuente": "oficial",
     "aprox": false
    },
-   "resumen": "Según el autor, el abogado alemán Wilhelm Kammeyer (hasta 1959) ideó un método para identificar documentos antiguos y concluyó que casi todos los de la Antigüedad y la Edad Media temprana son falsificaciones o copias posteriores.",
+   "resumen": "El autor escribe Kammeyer, pero la grafía alemana es Wilhelm Kammeier: nació el 3 de octubre de 1889 en Nienstädt y murió el 3 de junio de 1959 en Arnstadt; fue maestro e historiador aficionado en Schaumburg-Lippe y la bibliografía académica lo cataloga como pseudocientífico (Horst Fuhrmann, «Der Fall Kammeier»).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -67270,7 +67270,7 @@ window.CRONO = {
     "hasta": 1965,
     "fuente": "oficial"
    },
-   "resumen": "Según el autor, la frase de que la historia la escriben los vencedores la dejó George Orwell tras la Guerra Civil Española y luego se atribuyó a Churchill al recibir el Nobel de Literatura en 1953; lo que Churchill dijo entonces fue otra frase, sobre escribir él mismo la historia.",
+   "resumen": "Winston Churchill (1874-1965) fue primer ministro británico en 1940-1945 y 1951-1955 y recibió el Nobel de Literatura en 1953.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -67435,7 +67435,7 @@ window.CRONO = {
     "aprox": true,
     "margen": 2
    },
-   "resumen": "Según el autor, la victoria de los Romanov sobre Razin y luego sobre Pugachov (1773-1775) fue la derrota final de la Horda y de la Gran Tartaria, con capital en Tobolsk; hasta entonces el oeste de Norteamérica pertenecía a la Tartaria moscovita; los Romanov se apropiaron de Alaska y los fuertes de la Horda quedaron abandonados.",
+   "resumen": "Yemelián Pugachov nació hacia 1742 en Zimoveiskaya (Don) y fue ejecutado en Moscú el 21 de enero de 1775 (10 de enero, estilo antiguo).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -67660,7 +67660,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "El autor sostiene que los residuos ácidos mal eliminados acidifican la sangre y el líquido intersticial y que la célula, sin oxígeno, muta a célula cancerosa.",
+   "resumen": "La tesis de un autor de que los residuos ácidos mal eliminados acidifican el organismo y que así una célula sin oxígeno se vuelve cancerosa. El pH de la sangre se mantiene entre 7,35 y 7,45 gracias sobre todo a pulmones y riñones, y la dieta no lo modifica en personas sanas.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -67773,7 +67773,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, la doctora Esther del Río halló que el agua del cuerpo es un cristal-líquido en clatratos que guarda y transmite información.",
+   "resumen": "La idea, que un autor atribuye a la doctora Esther del Río, de que el agua del cuerpo es un cristal líquido que guarda y transmite información. La física del agua no acepta que el agua líquida conserve una estructura que guarde información: la red de enlaces de hidrógeno se reorganiza en picosegundos, y ese es el argumento principal contra la «memoria del agua».",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -67835,7 +67835,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, el agua estructurada al interactuar con el colágeno explicaría los meridianos de la acupuntura y los nadis.",
+   "resumen": "La propuesta de Artur Sala de que el agua estructurada al interactuar con el colágeno explicaría los meridianos de la acupuntura. El NIH (NCCIH) dice que la acupuntura puede ayudar en algunos dolores crónicos; no hay evidencia científica de meridianos ni de qi.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -67885,7 +67885,7 @@ window.CRONO = {
     "aprox": false,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, el agua junto a superficies forma una zona de exclusión cristalina con carga, que explicaría la célula, los geles, la vida y la energía; es el eje de toda su charla.",
+   "resumen": "El «agua estructurada EZ», una zona de exclusión junto a superficies en la que el agua formaría una capa cargada, un «cuarto estado» que explicaría la célula y la vida. Su libro «The Fourth Phase of Water» (2013) no está revisado por pares.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -67992,7 +67992,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, para Gariaev la forma del agua estructurada coincide con la del genoma, que el agua activa y que se puede reprogramar con palabras.",
+   "resumen": "La «genética ondulatoria» de Piotr Gariaev, que Artur Sala resume como la idea de que el genoma funciona como un biocomputador de ondas que se puede reprogramar con palabras.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -68056,7 +68056,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Para el autor, el gran símbolo del imperio que controla los dos polos, desde Sumeria hasta hoy.",
+   "resumen": "Motivo antiguo (Mesopotamia, hititas) que se convirtió en emblema de Bizancio, sobre todo con los Paleólogos, y después del Sacro Imperio, Rusia, Austria y Serbia, entre otros; aparece también en el Rito Escocés de la masonería.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -68128,7 +68128,7 @@ window.CRONO = {
     "aprox": true
    },
    "fecha_autor": "trasladado a Italia en 1581-1671 (=1396-1486 oficial); manipulado entre los siglos XVII y XVIII",
-   "resumen": "Según el autor, entre los siglos XII y XVII las élites crearon un Almagesto y lo manipularon entre los XVII y XVIII para fechar un pasado sobre eclipses «supuestamente» documentados.",
+   "resumen": "Una tesis de un autor según la cual el Almagesto, el tratado de astronomía de Ptolomeo, se creó y manipuló siglos después de la fecha oficial. El Almagesto es el manual astronómico que Claudio Ptolomeo redactó en Alejandría hacia el año 150 d. C., conocido entonces como Mathematike Syntaxis, que expone un cosmos geocéntrico y un catálogo de 1.022 estrellas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -68245,7 +68245,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Trallero sostiene que astrología y alquimia forman una sola ciencia sagrada hermética: la alquimia da a la astrología el método para transmutar las energías planetarias y la obra consiste en solarizar la conciencia.",
+   "resumen": "La tesis de Sergio Trallero de que astrología y alquimia forman una sola ciencia sagrada hermética. La alquimia es una antigua práctica protocientífica y disciplina filosófica que combinaba química, metalurgia, medicina, astrología y misticismo; se practicó en Mesopotamia, Egipto, Persia, India, China, Grecia, Roma y el mundo islámico, y en Europa hasta el siglo XVIII.",
    "segun": [
     {
      "autor": "sergio-trallero",
@@ -68413,7 +68413,7 @@ window.CRONO = {
     "desde": 1924,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, los preparados biodinámicos se basan en dinamizar agua (vórtice, giros) y en fuerzas lunares y zodiacales.",
+   "resumen": "La agricultura biodinámica, formulada por Rudolf Steiner en 1924, que usa preparados basados en agua dinamizada y en las fuerzas de la Luna y del zodiaco.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -68633,7 +68633,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "segundo milenio a. C."
    },
-   "resumen": "Según el autor, el cómputo del tiempo estuvo en manos de sacerdotes y sacerdotisas que predecían fenómenos útiles a la comunidad; en Babilonia, en el segundo milenio a. C., ya había un cálculo aritmético del calendario escrito en tablillas cocidas.",
+   "resumen": "El cómputo del tiempo por sacerdotes y sacerdotisas, que según un autor ya hacían un cálculo aritmético del calendario en Babilonia en el segundo milenio a. C. El calendario babilónico era lunisolar: doce meses lunares de 29 o 30 días que comenzaban con la primera aparición de la luna creciente, con un mes intercalar que se añadía para mantener la correspondencia con el año solar.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -68733,7 +68733,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XVIII-XIX"
    },
-   "resumen": "Según el autor, los poderes bizantinos intervinieron la historia catalana, con los Alba y luego los Anjou, y la castellanizaron en los siglos XVIII y XIX, convirtiendo el Imperio español en una «empresa castellana»; los orígenes de Castilla y Aragón se inventaron a finales del XVII y el reino de Granada se manipuló entre los siglos XVII y XIX.",
+   "resumen": "La tesis de un autor de que la historia de Cataluña se castellanizó en los siglos XVIII y XIX; en historiografía, el término designa la centralización de la monarquía hispánica. El término «castellanización» designa en la historiografía el proceso de centralización política y administrativa de la Monarquía hispánica —en particular los Decretos de Nueva Planta borbónicos— y la construcción de un relato nacional español articulado en torno a Castilla a lo largo de los siglos XVIII y XIX.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -68883,7 +68883,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, Schauberger vio que el agua busca los 4 °C, que talar calienta el suelo y el agua, y que así el río pasa a arrancar nutrientes y desertizar; propone no tocar los bosques de ribera.",
+   "resumen": "La explicación de Viktor Schauberger, según Artur Sala, de que el agua busca los 4 °C y de que talar el bosque la calienta y daña el río. El agua tiene su máxima densidad hacia 4 °C, dato aceptado.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69173,7 +69173,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1991 (fundación de HeartMath)"
    },
-   "resumen": "Según el autor, el corazón se activa antes del acontecimiento y la coherencia cardíaca potencia la intuición y la sanación.",
+   "resumen": "La idea de que la coherencia cardíaca, una respiración que regula el pulso, potencia la intuición y la sanación. La variabilidad de la frecuencia cardíaca y la respiración coherente cuentan con estudios favorables para reducir estrés y ansiedad.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -69267,7 +69267,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1981 (factor natriurético atrial)"
    },
-   "resumen": "Según el autor, el corazón manda más información al cerebro que la que recibe y su campo sería 5.000 veces más potente que el cerebral.",
+   "resumen": "La tesis, ligada al instituto HeartMath, de que el corazón manda más información al cerebro que la que recibe y tiene un campo muy potente. El corazón secreta hormonas y tiene una red neuronal intrínseca, y su campo magnético es mayor que el cerebral, pero es débil y no se ha demostrado que actúe a metros ni que dirija el cerebro.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -69332,7 +69332,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, el corazón no sería una bomba sino un estructurador del agua; apoya la idea en el modelo helicoidal de Torrent-Guasp y en una supuesta intuición teosófica anterior.",
+   "resumen": "La propuesta de Artur Sala de que el corazón no es una bomba sino un estructurador del agua, apoyada en el modelo helicoidal de Torrent-Guasp. Francisco Torrent-Guasp describió la banda miocárdica ventricular enrollada en doble hélice; su modelo explica la succión ventricular por contracción de la banda, no por agua estructurada, y sigue debatido frente al modelo clásico del corazón como bomba.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69608,7 +69608,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "2026 (tesis del vídeo)"
    },
-   "resumen": "Jorge Guerra propone un paradigma de cuatro estaciones —Brentano, Freud, Tavistock y Bernays— como constructores del «diván» donde se nos analiza y se nos aplica la terapia. Tesis del autor, con la versión oficial al lado.",
+   "resumen": "Una tesis de Jorge Guerra según la cual Brentano, Freud, Tavistock y Bernays construyeron paso a paso un «diván» donde se nos analiza. No hay una doctrina de las «cuatro cárceles mentales» en Freud.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -69867,7 +69867,7 @@ window.CRONO = {
     "texto": "artículo de 1942",
     "fuente": "autor"
    },
-   "resumen": "Según Artur Sala, Reich describió en 1942 una energía a favor del orden, contraria al segundo principio de la termodinámica, frente a otra ligada a la muerte.",
+   "resumen": "El «orgón», una energía que Wilhelm Reich dijo descubrir en 1942, y que se considera un concepto pseudocientífico.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69939,7 +69939,7 @@ window.CRONO = {
     "hasta": 1995,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, los físicos Del Giudice y Preparata hallaron que el agua forma clústeres coherentes de unos 100 nm con electrones casi listos para romper la molécula, acoplados a un campo de energía.",
+   "resumen": "Un modelo de 1995 de Del Giudice y Preparata según el cual el agua forma dominios coherentes de moléculas. Arani, Bono, Del Giudice y Preparata publicaron en 1995 un modelo de electrodinámica cuántica con dominios coherentes en agua.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -70067,7 +70067,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, la imagen de un mundo en tinieblas es falsa: las grandes ciudades europeas, los megalitos y las catedrales se levantaron en la Edad Media, algo imposible en un periodo de barbarie.",
+   "resumen": "La tesis de un autor de que la imagen de una Edad Media oscura es falsa, porque en ella se construyeron ciudades, megalitos y catedrales.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -70162,7 +70162,7 @@ window.CRONO = {
     "aprox": true,
     "fuente": "oficial"
    },
-   "resumen": "Según Artur Sala, la célula tumoral tiene un problema metabólico de fermentación (efecto Warburg), que Reich conocía.",
+   "resumen": "La observación de Otto Warburg de que las células tumorales obtienen energía por fermentación aunque tengan oxígeno. En oncología, el efecto Warburg es la observación de que la mayoría de los cánceres obtienen energía por glucólisis aeróbica y fermentación láctica, en lugar de usar los mecanismos de las células no cancerosas.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -70243,7 +70243,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "hacia 1961 (término tensegridad de Fuller)"
    },
-   "resumen": "Según el autor, las meninges serían los meridianos Vaso Concepción y Gobernador y el cuerpo una estructura de tensegridad.",
+   "resumen": "La tesis de un autor de que las meninges serían los meridianos de la acupuntura y el cuerpo una estructura de tensegridad. La tensegridad (término de Buckminster Fuller) es un modelo real en arquitectura y se estudia en biomecánica celular.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -70603,7 +70603,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "2017 (libro del autor)"
    },
-   "resumen": "Según el autor, los estados ampliados de conciencia permiten revivir y sanar la experiencia traumática raíz y acceder al yo arquetípico, a la experiencia oceánica y a viajes astrales.",
+   "resumen": "Los estados de conciencia, provocados por ejemplo con psicodélicos, que según un autor permiten revivir y sanar la experiencia traumática raíz. La terapia asistida con psicodélicos (psilocibina, MDMA) tiene interés clínico real pero sigue siendo experimental: la certeza de la evidencia es baja o muy baja según revisiones recientes y conlleva riesgos psiquiátricos.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -70685,7 +70685,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "2017 (libro del autor)"
    },
-   "resumen": "Según el autor, la vida intrauterina, el parto y la infancia hasta los seis años son las tres etapas en que más se forman complejos.",
+   "resumen": "La tesis de un autor de que la vida intrauterina, el parto y la infancia hasta los seis años son las etapas en que más se forman los complejos. El estrés materno y sus hormonas, como el cortisol, que cruza en parte la placenta, se asocian con diferencias en el desarrollo neurológico y emocional del niño, y los primeros años son un periodo clave del desarrollo.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -70843,7 +70843,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "El autor propone que las defensas psicológicas se somatizan como tensiones de la fascia, que identifica con los meridianos, y que ello favorecería la enfermedad.",
+   "resumen": "La propuesta de un autor de que las defensas psicológicas se somatizan como tensiones de la fascia, que él identifica con los meridianos. Los meridianos de la medicina tradicional china no tienen una base anatómica demostrada.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -70962,7 +70962,7 @@ window.CRONO = {
     "texto": "1540 (De perenni philosophia, de Steuco)",
     "fuente": "oficial"
    },
-   "resumen": "Corriente que sostiene que las tradiciones espirituales comparten un núcleo universal; Trallero la presenta como esfera atemporal que se recupera por la vía iniciática.",
+   "resumen": "La corriente que sostiene que las tradiciones espirituales del mundo comparten un núcleo universal. La filosofía perenne (philosophia perennis) es una corriente que sostiene que la recurrencia de temas comunes en las religiones del mundo revela verdades universales sobre la realidad, la humanidad, la ética y la conciencia.",
    "segun": [
     {
      "autor": "sergio-trallero",
@@ -71018,7 +71018,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "2017 (libro del autor)"
    },
-   "resumen": "Según el autor, los complejos subconscientes nacen por condicionamiento clásico, condicionamiento operante o transmisión de mensajes, sobre todo en la infancia.",
+   "resumen": "La tesis de un autor de que los complejos subconscientes nacen por condicionamiento o por mensajes recibidos, sobre todo en la infancia. Pávlov y el condicionamiento operante son conceptos reales de la psicología del aprendizaje, y el experimento de Watson y Rayner (1920) es un estudio real y muy citado.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -71075,7 +71075,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "El autor liga los cinco elementos chinos con fuentes de electrones libres: tierra, agua alcalina, sol y melanina, iones negativos y éter.",
+   "resumen": "La propuesta de un autor que liga los cinco elementos de la medicina china con fuentes de electrones libres: tierra, agua alcalina, sol, iones negativos y éter. Grounding: hay estudios pequeños y de calidad metodológica baja que describen mejoras en sueño y dolor, sin conclusiones firmes.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -71148,7 +71148,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Tesis que explica el abandono de la ciencia sagrada en tres etapas: la lógica aristotélica, la separación cartesiana y el positivismo del siglo XIX.",
+   "resumen": "La tesis de que la ciencia sagrada se abandonó en tres etapas: la lógica de Aristóteles, la separación de Descartes y el positivismo del siglo XIX. La historia de la ciencia describe el paso de la filosofía natural aristotélica a la ciencia moderna como un proceso gradual y complejo, desarrollado sobre todo entre los siglos XVI y XVII, no como un triunfo súbito en tres momentos.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -71203,7 +71203,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1981 (Nobel a Sperry)"
    },
-   "resumen": "Según el autor, la educación refuerza el hemisferio izquierdo y sincronizar ambos hemisferios crearía conexiones físicas entre ellos.",
+   "resumen": "La tesis de un autor de que la educación refuerza el hemisferio izquierdo y de que sincronizar ambos hemisferios crearía conexiones físicas entre ellos. La lateralización de ciertas funciones (lenguaje a la izquierda en la mayoría) es real, pero los estudios de neuroimagen no apoyan que las personas sean «de cerebro izquierdo o derecho».",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -71390,7 +71390,7 @@ window.CRONO = {
     "margen": 3
    },
    "fecha_autor": "finales de los años 70",
-   "resumen": "El autor separa el polvo blanco de David Hudson del «Hormus» de Ziegler, que sería solo un fertilizante marino.",
+   "resumen": "La distinción que hace un autor entre el polvo blanco de David Hudson y el «Hormus» de Ziegler, que sería solo un fertilizante marino. Se atribuye a David Hudson, agricultor de Arizona, el hallazgo (década de 1970) de unos «elementos monoatómicos reordenados» (ORMES/ORMUS), que patentó a finales de los años 80.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -71435,7 +71435,7 @@ window.CRONO = {
    "naturaleza": "saber-ancestral",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, no existe ningún estudio informatizado del ibero, a diferencia del cuneiforme, el egipcio o el maya; los iberos tenían una espiritualidad basada en la naturaleza, igualdad entre hombre y mujer, un único dios sin nombre y ningún templo.",
+   "resumen": "La lengua y la espiritualidad de los iberos, un pueblo prerromano de la península; un autor sostiene que no existe un estudio informatizado de su lengua. La lengua ibérica se escribió entre los siglos V a. C. y I d. C. con tres sistemas propios —nororiental, suroriental y grecoibérico—; su signario se descifró fonéticamente en la década de 1920 (Manuel Gómez-Moreno), pero la lengua sigue sin comprenderse.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -71571,7 +71571,7 @@ window.CRONO = {
    ],
    "fecha": null,
    "fecha_autor": "«época de Caldea»",
-   "resumen": "Según el autor, un conocimiento antiguo que se transmite en secreto para mantener el poder.",
+   "resumen": "La tesis de un autor de que los magos caldeos transmitieron en secreto un conocimiento antiguo para mantener el poder. Los orígenes caldeos y babilonios de la astrología son reales: hay tablillas cuneiformes y registros astronómicos desde el segundo milenio a. C. y en el mundo griego y romano «caldeo» pasó a significar astrólogo o adivino.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -71627,7 +71627,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, en el Theatrum Orbis Terrarum de Ortelius (1574 oficialmente), en el mapa de Hulsius (1598) y en el de Geelkercken (1610) la cifra que precede a las fechas sería una «I» o «J» de Iesus, no un «1», de modo que las fechas reales serían 574, 598, 499, 579, 587 y 632.",
+   "resumen": "Una tesis de un autor sobre unos mapas de los siglos XVI y XVII, según la cual la cifra que precede a las fechas sería una «I» o «J» de Iesus y no un «1». El Theatrum Orbis Terrarum de Abraham Ortelius se publicó en Amberes el 20 de mayo de 1570 y está considerado el primer atlas moderno: 53 mapas uniformes con texto, reeditados en numerosas lenguas y ediciones.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -71762,7 +71762,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, no se sabe por qué hay mareas y los ríos varían con la luna; defiende no podar con luna ascendente.",
+   "resumen": "La idea que defiende Artur Sala de que las mareas y los ríos varían con la Luna, y la recomendación de no podar con luna ascendente. Las mareas las producen la gravedad de la Luna y el Sol (NOAA; Newton, 1687).",
    "segun": [
     {
      "autor": "artur-sala",
@@ -71815,7 +71815,7 @@ window.CRONO = {
     "hasta": 1600,
     "aprox": true
    },
-   "resumen": "Según el autor, el mito de la Magdalena está ligado a un cambio de era en la segunda mitad del siglo XVI, cuando el cristianismo adopta una visión imperialista y militarizada y la mujer es estigmatizada pública y simbólicamente.",
+   "resumen": "María Magdalena es, en los evangelios, una discípula de Jesús de la que se expulsaron siete demonios, testigo de la crucifixión y primera persona que vio al resucitado, por lo que la tradición la llama «apóstol de los apóstoles».",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -71859,7 +71859,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, el tejido conjuntivo forma un continuo que llega hasta el ADN y por el que los traumas emocionales enfermarían el cuerpo.",
+   "resumen": "La tesis de un autor de que el tejido conjuntivo forma un continuo que llega hasta el ADN, a partir de la «matriz viviente» de James Oschman. La matriz extracelular (colágeno, glicoproteínas y proteoglicanos) y el citoesqueleto son reales y se estudian en biología.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -71999,7 +71999,7 @@ window.CRONO = {
     "desde": 1988,
     "fuente": "oficial"
    },
-   "resumen": "El autor sostiene que el agua guarda información de campos de torsión, lo que explicaría la homeopatía, y lo apoya en Benveniste, Emoto, Schweitzer, Rae y Vogel.",
+   "resumen": "La hipótesis de que el agua conserva la información de lo que ha estado disuelto en ella, que Jacques Benveniste defendió en 1988 y que sostienen otros autores para explicar la homeopatía.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -72092,7 +72092,7 @@ window.CRONO = {
     "desde": 2002
    },
    "fecha_autor": "2002",
-   "resumen": "El autor lee el estudio de Langevin y Yandow (2002) como prueba de que los meridianos existen y de que la acupuntura tiene respaldo científico.",
+   "resumen": "El estudio de Langevin y Yandow (2002), que halló una coincidencia cercana al 80 % entre puntos de acupuntura y planos de tejido conjuntivo, y que un autor lee como prueba de los meridianos. El estudio de Langevin y Yandow (Anatomical Record, 2002) existe y halló una coincidencia cercana al 80 % entre puntos de acupuntura y planos de tejido conjuntivo en cortes postmortem.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -72238,7 +72238,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "hacia 2008 (Proyecto Microbioma Humano)"
    },
-   "resumen": "Según el autor, un terreno intestinal sucio vuelve parásitos a los simbiontes y recomienda limpiezas profundas del colon.",
+   "resumen": "La tesis de un autor de que un intestino sucio convierte en parásitos a los microbios simbiontes y de que hacen falta limpiezas profundas del colon. La microbiota y el tejido linfoide intestinal (cerca del 70 % de las células inmunes) son reales.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -72392,7 +72392,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "sin fecha",
-   "resumen": "El autor presenta la física estelar de Chandrasekhar como «el modelo caliente» que habría que sustituir por transmutaciones a baja temperatura.",
+   "resumen": "El modelo de física estelar que sigue a Chandrasekhar, que un autor llama «modelo caliente» y quiere sustituir por transmutaciones a baja temperatura. Subrahmanyan Chandrasekhar (1910–1995) calculó en 1930 el límite de masa de las enanas blancas y recibió el Nobel de Física en 1983; el astrónomo Arthur Eddington lo rechazó públicamente en 1935 y con los años se demostró que Chandrasekhar tenía razón.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -72555,7 +72555,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "2017 (libro del autor)"
    },
-   "resumen": "Según el autor, una experiencia intolerable queda encapsulada en el subconsciente como «nudo de tiempo», con un complejo automático asociado; sus cadenas forman el carácter negativo.",
+   "resumen": "Un término del autor para una experiencia intolerable que queda encapsulada en el subconsciente y genera un complejo automático. «Nudo de tiempo», «átomo raíz», «cadena raíz» y «carácter negativo» son términos propios del autor, sin validación empírica publicada.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -72644,7 +72644,7 @@ window.CRONO = {
     "margen": 1,
     "texto": "mapa de 2014–2015"
    },
-   "resumen": "Según Artur Sala, un grupo de físicos de origen nuclear (Pollack, Mae-Wan Ho, Del Giudice, Montagnier, Smirnov, Vitiello) ha formado una ciencia del agua que debería estudiarse como disciplina propia.",
+   "resumen": "La propuesta de Artur Sala de que un grupo de físicos ha formado una ciencia del agua que debería estudiarse como disciplina propia. Mae-Wan Ho murió el 24 de marzo de 2016, no en 2018.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -72899,7 +72899,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, los oligoelementos del agua de mar actúan más por su energía que por su química, y el agua estructurada permite sus relaciones.",
+   "resumen": "La idea de Artur Sala de que los oligoelementos del agua de mar actúan más por su energía que por su química. La idea de que el agua de mar equivale al plasma sanguíneo viene de René Quinton (1904). No hay evidencia científica sólida de beneficios de beber agua de mar y sí riesgos (deshidratación, exceso de sodio, daño cardiovascular y renal); las autoridades sanitarias catalanas lo desaconsejan.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -73010,7 +73010,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1973 (receptor opioide)"
    },
-   "resumen": "Según el autor, cada péptido sería la expresión bioquímica de una emoción y toda emoción sería positiva.",
+   "resumen": "La tesis de un autor de que cada péptido es la expresión bioquímica de una emoción, a partir de la psiconeuroinmunología. La psiconeuroinmunología es una disciplina real: el sistema nervioso, el endocrino y el inmune se comunican mediante hormonas, neuropéptidos y citocinas.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -73262,7 +73262,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, un profesor de Salamanca del siglo XVI llamado Alonso de Ercilla sostuvo que la «historia antigua» se inventó en la Edad Media, aunque su obra no se ha encontrado y Salamanca no guarda datos.",
+   "resumen": "Los autores anteriores a Fomenko que ya criticaron la cronología convencional, como Isaac Newton en 1728, y un supuesto precursor del siglo XVI que la ficha no encuentra.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -73477,7 +73477,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "siglos XII-XV"
    },
-   "resumen": "Según el autor, entre los siglos XII y XVII distintos soberanos (Manuel Comneno, Federico Barbarroja, Alejandro III, Alfonso Enríquez, Luis VII) tuvieron contacto con un líder espiritual llamado Preste Juan, descendiente de Salomón y de la reina de Saba, con un reino riquísimo; las cartas llevaban símbolos alquímicos.",
+   "resumen": "La leyenda del Preste Juan parte de una carta, probablemente falsa, que circuló por Europa hacia 1165 dirigida al emperador Manuel I Comneno; en ella el Preste Juan es un rey cristiano de Oriente, guardián del sepulcro del apóstol Tomás.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -73594,7 +73594,7 @@ window.CRONO = {
    "naturaleza": "ciencia",
    "temas": [],
    "fecha": null,
-   "resumen": "Según Artur Sala, el agua tiene más de 200 comportamientos anómalos, como congelarse antes caliente que fría, que sustentan la vida.",
+   "resumen": "El conjunto de comportamientos del agua que se apartan de lo habitual en otros líquidos; la ficha contrasta la cifra que da un autor con el catálogo de Martin Chaplin. El catálogo de Martin Chaplin (London South Bank University) recoge unas 70-74 anomalías del agua, no más de 200, y todas se atribuyen sobre todo al enlace de hidrógeno.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -74041,7 +74041,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Según el autor, una red extracelular de magnetitas genera campos magnéticos y sería la base física de los chakras.",
+   "resumen": "La tesis de un autor de que una red extracelular de magnetita genera campos magnéticos y es la base física de los chakras. El hierro está presente en los tejidos, pero en la búsqueda realizada no se encontró evidencia de una red extracelular que forme chakras o meridianos ni fuente independiente sobre el ECOR.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -74147,7 +74147,7 @@ window.CRONO = {
     "texto": "217 a.C. (reforma de la fiesta)",
     "fuente": "oficial"
    },
-   "resumen": "Para el autor, la fiesta principal de las élites, oculta en el calendario cristiano y en el carnaval.",
+   "resumen": "Fiesta romana en honor de Saturno a mediados de diciembre, con inversión de papeles entre amos y esclavos; reformada en 217 a.C. según Tito Livio. La fecha de Navidad (25 de diciembre) se fijó en el siglo IV y suele relacionarse con el Sol Invicto; el Nuevo Testamento no da la fecha del nacimiento de Jesús.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -74207,7 +74207,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1998 («The Second Brain», Gershon)"
    },
-   "resumen": "Según el autor, el intestino tiene su propio sistema nervioso y produce la mayor parte de la serotonina y la mitad de la dopamina.",
+   "resumen": "La idea de que el intestino tiene su propio sistema nervioso, el sistema nervioso entérico, y funciona como un «segundo cerebro».",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -74363,7 +74363,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "El autor lee varios símbolos antiguos como dos giros opuestos.",
+   "resumen": "La lectura de un autor de varios símbolos antiguos como dos giros opuestos. Contraste parcial.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -74476,7 +74476,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "El autor deduce un sistema bioeléctrico de colágeno y cristales líquidos, paralelo al nervioso, y concluye que la acupuntura tiene respaldo científico.",
+   "resumen": "La tesis de un autor de que existe un sistema bioeléctrico de colágeno y cristales líquidos, paralelo al nervioso, que respaldaría la acupuntura. Burr (Yale) y Becker estudiaron potenciales bioeléctricos reales en embriones, tejidos y regeneración, y la bioelectricidad del desarrollo es hoy un campo activo.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -74613,7 +74613,7 @@ window.CRONO = {
     "margen": 10
    },
    "fecha_autor": "siglo XVIII",
-   "resumen": "Trallero dice que la idea de eras zodiacales (Piscis, Acuario…) es moderna, del siglo XVIII y de ambiente ilustrado y masónico, y que técnicamente el punto vernal sigue en Piscis.",
+   "resumen": "La idea de las eras zodiacales (Piscis, Acuario…), que Sergio Trallero considera moderna y no tradicional.",
    "segun": [
     {
      "autor": "sergio-trallero",
@@ -74976,7 +74976,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "hacia 1939 (concepto craneal de Sutherland)"
    },
-   "resumen": "Según el autor, una energía llamada Aliento de Vida mueve el líquido cefalorraquídeo entre cráneo y sacro y se puede tratar tocando suavemente los tejidos.",
+   "resumen": "Una terapia alternativa derivada de la osteopatía craneal, que según un autor mueve con un toque suave una energía, el «Aliento de Vida», que impulsa el líquido cefalorraquídeo. La terapia craneosacral es una práctica de medicina alternativa derivada de la osteopatía craneal de Sutherland.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -75179,7 +75179,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1977 (Nobel a Prigogine)"
    },
-   "resumen": "Según el autor, el trauma aparece cuando la carga energética de una experiencia resulta intolerable, y superado el umbral crítico hay psicosis.",
+   "resumen": "Un modelo del autor según el cual el trauma aparece cuando la carga energética de una experiencia es intolerable. La psiquiatría explica psicosis y neurosis por factores genéticos, del desarrollo y ambientales, sin que se haya demostrado un mecanismo de umbral energético crítico.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -75452,7 +75452,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "2017 (libro del autor)"
    },
-   "resumen": "Según el autor, los complejos se debilitan observándose como testigo, usando la voluntad sin forzar los tiempos y aprendiendo la habilidad que faltó.",
+   "resumen": "El método de un autor para debilitar los complejos, observándolos como testigo y usando la voluntad. La exposición gradual a lo temido es un tratamiento con respaldo para las fobias (un metaanálisis de 33 ensayos aleatorizados halló superior el tratamiento basado en exposición), y cortar la exposición en el pico del miedo puede reforzar la fobia.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -75563,7 +75563,7 @@ window.CRONO = {
     "texto": "ss. XVI–XIX",
     "fuente": "oficial"
    },
-   "resumen": "Corriente que sostiene que los seres vivos tienen una fuerza o impulso vital que los distingue de lo inanimado y no responde a las leyes físico-químicas generales.",
+   "resumen": "El vitalismo es una corriente filosófica que pone la vida en el centro de toda reflexión. Rechaza el mecanicismo científico y el racionalismo puro y sostiene que los seres vivos poseen una fuerza o impulso vital que los diferencia de las cosas inanimadas y no está sujeta a las leyes fisicoquímicas generales.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -75624,7 +75624,7 @@ window.CRONO = {
    "naturaleza": "saber-ancestral",
    "temas": [],
    "fecha": null,
-   "resumen": "Trallero sostiene que la astrología original era sideral y lunar y que la tropical es una deriva griega, solar y geométrica; ambas le parecen válidas.",
+   "resumen": "La diferencia entre el zodiaco sideral, fijado a las estrellas, y el tropical, fijado a las estaciones; Sergio Trallero sostiene que la astrología original era sideral. El zodiaco o zodíaco es una región del cielo en forma de cinturón o banda de la esfera celeste que se extiende aproximadamente 8° al norte y al sur de la eclíptica, que es la trayectoria aparente del Sol a través de la esfera celeste a lo largo del año.",
    "segun": [
     {
      "autor": "sergio-trallero",
