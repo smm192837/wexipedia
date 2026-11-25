@@ -18649,6 +18649,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de Afganistán (2001-2021)",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_Afganistán_(2001-2021)",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de Afganistán (2001-2021)",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(2001-2021)",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -18661,6 +18666,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Afganistán, o guerra afgano-estadounidense, fue un conflicto librado en ese país y en algunas zonas de Pakistán, iniciado con la invasión de Estados Unidos y sus aliados el 7 de octubre de 2001 y finalizado con la caída de Kabul a manos de los talibanes el 15 de agosto de 2021, con la retirada total de tropas extranjeras el 30 de agosto. Con veinte años de duración, fue el conflicto bélico más largo que han llevado a cabo Estados Unidos y muchos de sus aliados en toda su historia."
+    },
+    {
+     "titulo": "Las demandas previas a la invasión",
+     "nivel": "hecho",
+     "texto": "Tras los atentados del 11 de septiembre, el presidente George W. Bush exigió a los talibanes, que gobernaban entonces Afganistán, que extraditaran «inmediatamente» al líder de Al Qaeda, Osama bin Laden, a quien Estados Unidos acusaba de ser el ideólogo de los atentados. Los talibanes rechazaron la extradición y pidieron en cambio pruebas públicas y una petición formal de la participación de Bin Laden, para juzgarlo localmente según la sharía, porque entregar a un «invitado» sin pruebas públicas se consideraba una violación de su código de honor, el Pashtunwali. Estados Unidos rechazó la propuesta por considerarla una táctica dilatoria y afirmó tener pruebas de su culpabilidad. Aunque la CIA y el FBI habían vinculado a Al Qaeda con los atentados el mismo 11 de septiembre y habían compartido esa información con aliados de la OTAN, el gobierno se negó a compartir esas evidencias con un régimen al que no reconocía legalmente, al que acusaba de haber dado refugio y apoyo a Al Qaeda durante años y del que decía que no había garantías de un juicio imparcial. Washington sostuvo que la responsabilidad de Bin Laden estaba respaldada por inteligencia acumulada antes, incluida su vinculación con ataques anteriores contra intereses estadounidenses, como los de las embajadas en Kenia y Tanzania en 1998 y el del USS Cole en 2000.\n\nEstados Unidos exigía además el desmantelamiento de los campos de entrenamiento de Al Qaeda en Afganistán. Los talibanes acabaron proponiendo juzgarlo en un país neutral, propuesta que también se rechazó. Ante esos desacuerdos, el 7 de octubre de 2001 Estados Unidos y sus aliados iniciaron la Operación Libertad Duradera."
+    },
+    {
+     "titulo": "De la victoria rápida a la insurgencia",
+     "nivel": "hecho",
+     "texto": "La coalición inicial, con Estados Unidos, el Reino Unido, Australia, Alemania y España, derrocó con facilidad al gobierno talibán, y la coalición se quedó en Afganistán con el aval de la ONU, que poco después dio a la OTAN el control de la misión militar, la fuerza de seguridad ISAF, con el objetivo de crear una nueva autoridad democrática que impidiera el regreso de los talibanes. Se estableció una administración provisional afgana y empezaron los esfuerzos de reconstrucción. En 2003 los talibanes se habían reorganizado bajo el liderazgo de su fundador, el mulá Omar, e iniciaron una insurgencia generalizada con guerra asimétrica: guerrilla en el campo, ataques suicidas contra objetivos urbanos y represalias contra quienes se percibía como colaboradores. En 2007 habían retomado gran parte del país. En respuesta, la coalición envió una gran afluencia de tropas para operaciones de contrainsurgencia, con una estrategia de «despejar y mantener», que alcanzó su punto máximo en 2011, con unos 140.000 soldados extranjeros bajo mando de la ISAF.\n\nLa falta de un poder central fuerte y la inestabilidad política dificultaron el sometimiento de los grupos terroristas. Osama bin Laden fue asesinado por los estadounidenses en 2011, y a los diez años el conflicto era una guerra de desgaste sin resultado claro, con retirada paulatina de tropas."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "El 28 de diciembre de 2014 la OTAN puso fin oficialmente a las operaciones de combate y transfirió la plena responsabilidad de la seguridad al gobierno afgano en una ceremonia en Kabul, que marcó el inicio de una nueva fase del conflicto. El 15 de agosto de 2021 los talibanes asediaron las afueras de Kabul y el expresidente de la República Islámica de Afganistán, Ashraf Ghani, entregó Kabul de forma pacífica, y el 30 de agosto concluyó la retirada total de las tropas extranjeras."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente leída termina en el final de la guerra y no recoge las cifras de muertos ni de gasto, ni las consecuencias posteriores. Siguiendo la regla de seguir el dinero y el poder, queda por documentar cuánto costó la guerra a Estados Unidos y a sus aliados, qué empresas de seguridad y de armamento se beneficiaron, y qué pasó con el gobierno que se financió durante veinte años. No consta aquí y queda como tema abierto, no como dato. Lo que sí consta es el desacuerdo sobre las pruebas contra Bin Laden: Estados Unidos se negó a compartirlas con los talibanes y los talibanes pidieron pruebas públicas; la fuente expone las dos posiciones sin resolverlas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18755,6 +18787,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Crimea fue un conflicto militar que se libró desde octubre de 1853 hasta febrero de 1856 entre el Imperio ruso y una alianza formada por el Imperio otomano, Francia, el Reino Unido y el Reino de Cerdeña. Entre sus causas geopolíticas estaban la decadencia del Imperio otomano (la «Cuestión Oriental»), la expansión de Rusia en las guerras ruso-turcas anteriores y la preferencia británica y francesa por preservar el Imperio otomano para mantener el equilibrio de poder del Concierto europeo. El punto de conflicto fue un desacuerdo sobre los derechos de las minorías cristianas en Palestina, entonces parte del Imperio otomano, con los franceses promoviendo los de los católicos romanos y Rusia los de la Iglesia ortodoxa. Pero la fuente dice que eso sirvió solo de pretexto: de hecho, los países luchaban por quién dirigiría el Imperio otomano."
+    },
+    {
+     "titulo": "Cómo se llegó",
+     "nivel": "hecho",
+     "texto": "Las iglesias resolvieron sus diferencias con los otomanos y llegaron a un acuerdo, pero tanto el emperador francés Napoleón III como el zar Nicolás I se negaron a dar marcha atrás. Nicolás lanzó un ultimátum exigiendo que los súbditos ortodoxos del Imperio otomano se pusieran bajo su protección. El Imperio británico intentó mediar y logró un compromiso al que Nicolás accedió; pero cuando los otomanos exigieron cambios, Nicolás se retractó y se preparó para la guerra. En julio de 1853 las tropas rusas ocuparon los principados del Danubio, entonces bajo soberanía otomana. El 4 de octubre (16 según el calendario gregoriano) de 1853, con promesas de apoyo de Francia y Gran Bretaña, los otomanos declararon la guerra a Rusia."
+    },
+    {
+     "titulo": "Las operaciones",
+     "nivel": "hecho",
+     "texto": "Liderados por Omar Pasha, los otomanos libraron una fuerte campaña defensiva y detuvieron el avance ruso en Silistra. Un ataque ruso separado contra la ciudad fortaleza de Kars condujo a un asedio, y un intento otomano de reforzar la guarnición lo destruyó una flota rusa en la batalla de Sinope, en noviembre de 1853. Temiendo el crecimiento de la influencia rusa, las flotas británica y francesa entraron en el mar Negro en enero de 1854 y llegaron a Varna en junio, justo a tiempo para que los rusos abandonaran Silistra. En el Báltico, cerca de San Petersburgo, una flota anglo-francesa estableció un bloqueo naval y embotelló a la flota rusa del Báltico, con daño económico para Rusia, al bloquear su comercio, y obligándola a mantener un gran ejército protegiendo San Petersburgo.\n\nLos aliados decidieron atacar la principal base naval rusa del mar Negro, Sebastopol, en Crimea. Tras largos preparativos desembarcaron en la península en septiembre de 1854 y ganaron la batalla de Alma el 20 de septiembre. Los rusos contraatacaron el 25 de octubre, en la batalla de Balaclava, y fueron rechazados, pero las fuerzas del ejército británico quedaron seriamente mermadas; un segundo contraataque ruso en Inkerman terminó en tablas. En 1855 el reino de Cerdeña envió una fuerza expedicionaria del lado de Francia, Gran Bretaña y el Imperio otomano. El frente se concentró en el sitio de Sebastopol, con condiciones brutales para las tropas de ambos bandos, y hubo acciones menores en el Cáucaso, el mar Blanco y el Pacífico Norte."
+    },
+    {
+     "titulo": "La paz de 1856 y sus efectos",
+     "nivel": "hecho",
+     "texto": "Sebastopol cayó tras once meses, cuando los franceses asaltaron el fuerte Malakoff. Aislada y ante la perspectiva de una invasión occidental si la guerra continuaba, Rusia pidió la paz en marzo de 1856, que Francia y Gran Bretaña acogieron con agrado por la impopularidad del conflicto en sus países. El Tratado de París, firmado el 30 de marzo de 1856, puso fin a la guerra: prohibía a Rusia estacionar buques de guerra en el mar Negro. Puso fin al concierto europeo surgido del Congreso de Viena de 1815 y marcó el resurgimiento de Francia como potencia, pero no resolvió la «Cuestión Oriental». Valaquia y Moldavia, vasallos otomanos, se volvieron en gran medida independientes, los cristianos del Imperio otomano obtuvieron cierta igualdad oficial y la Iglesia ortodoxa recuperó el control de las iglesias cristianas en disputa.\n\nFue una de las primeras guerras en que se usaron tecnologías modernas: proyectiles navales explosivos, barco de vapor, ferrocarril, fusil de ánima rayada y telégrafo, y una de las primeras documentadas ampliamente en informes escritos y fotografías. Se convirtió en símbolo de fallos logísticos, médicos y tácticos y de mala administración; la reacción en Gran Bretaña llevó a exigir la profesionalización de la medicina, lograda sobre todo por Florence Nightingale, pionera de la enfermería moderna. Para Rusia fue un punto de inflexión: debilitó su ejército, agotó el tesoro y socavó su influencia en Europa, y la humillación llevó a sus élites a reconocer la necesidad de reformas fundamentales, entre ellas la abolición de la servidumbre y reformas del sistema de justicia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado son las fechas, las operaciones y el tratado. Siguiendo la regla de seguir el dinero y el poder, la propia fuente apunta a que el pretexto religioso encubría una lucha por dirigir el Imperio otomano, y a que el bloqueo del Báltico y el agotamiento del tesoro ruso fueron los efectos económicos. Qué intereses comerciales y financieros británicos y franceses, por ejemplo de los bancos y las compañías de tráfico del Mediterráneo, pesaron en la decisión de intervenir no consta en esta fuente y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19069,6 +19128,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de los Seis Días",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Seis_Días",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de los Seis Días",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Seis_D%C3%ADas",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -19076,6 +19140,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de los Seis Días, o guerra de junio de 1967 (en árabe, an-Naksah, «el Revés»), fue un conflicto bélico que enfrentó a Israel con una coalición árabe formada por la República Árabe Unida, nombre oficial entonces de Egipto, Siria, Jordania e Irak, entre el 5 y el 10 de junio de 1967. Estalló en medio de malas relaciones entre Israel y sus vecinos árabes, que seguían los Acuerdos de Armisticio de 1949 firmados al final de la primera guerra árabe-israelí."
+    },
+    {
+     "titulo": "Antecedentes: Suez (1956) y los estrechos de Tirán",
+     "nivel": "hecho",
+     "texto": "En 1956, las tensiones regionales por los estrechos de Tirán escalaron en la crisis de Suez, o guerra del Sinaí, cuando Israel invadió Egipto por el cierre egipcio de los corredores marítimos a los barcos israelíes. El resultado fue la reapertura de los estrechos de Tirán a Israel y el despliegue de la Fuerza de Emergencia de las Naciones Unidas (FENU) a lo largo de la frontera entre Egipto e Israel. En los meses previos a junio de 1967 las tensiones volvieron a aumentar: Israel reiteró que otro cierre egipcio de los estrechos a su navegación sería un casus belli definitivo. En mayo de 1967 el presidente egipcio Gamal Abdel Nasser anunció que los estrechos volverían a cerrarse a los buques israelíes, movilizó al ejército egipcio en líneas defensivas a lo largo de la frontera y ordenó la retirada inmediata de todo el personal de la FENU del Sinaí. Egipto reunió 1.000 carros de combate y unos 100.000 soldados en la frontera y cerró los estrechos a todos los buques de bandera israelí o que llevaran materiales estratégicos a Israel, operación por la que recibió fuerte apoyo de otras naciones árabes. Israel respondió con una movilización similar, que incluyó 70.000 reservistas."
+    },
+    {
+     "titulo": "Los seis días",
+     "nivel": "hecho",
+     "texto": "El 5 de junio de 1967, mientras la FENU estaba abandonando la zona, Israel, temiendo una invasión inminente, lanzó una serie de ataques aéreos preventivos contra las pistas de la fuerza aérea egipcia y otras instalaciones: las tropas egipcias fueron tomadas por sorpresa, casi todos los medios aéreos de Egipto quedaron destruidos y Israel obtuvo la superioridad aérea. A la vez, el ejército israelí lanzó una ofensiva terrestre en el Sinaí egipcio y en la Franja de Gaza, entonces ocupada por Egipto. Tras alguna resistencia inicial, Nasser ordenó evacuar el Sinaí, y al sexto día había sido ocupado por Israel por completo.\n\nLa mañana del 5 de junio el gobierno israelí intentó evitar la apertura de un segundo frente en el este: el primer ministro Levi Eshkol envió un mensaje diplomático secreto y urgente al rey Hussein I de Jordania a través del general noruego Odd Bull, jefe de la Organización de las Naciones Unidas para la Vigilancia de la Tregua. Prometía que si Jordania no iniciaba hostilidades, Israel no emprendería acción militar contra el reino ni alteraría el statu quo en Cisjordania ni en Jerusalén Este. A pesar de la advertencia, Hussein, condicionado por el pacto defensivo firmado con Egipto el 30 de mayo y guiado por los informes falsos de El Cairo que anunciaban una aplastante victoria sobre la aviación israelí, rechazó la propuesta de neutralidad. Bajo la dirección táctica del general egipcio Abdul Munim Riad, las fuerzas jordanas bombardearon con artillería Jerusalén Oeste, lanzaron proyectiles contra el área metropolitana de Tel Aviv y Netanya e invadieron la sede de la ONU en la Colina de la Mala Enmienda. En respuesta a ese ataque directo, las Fuerzas de Defensa de Israel recibieron la orden de desplegarse en Cisjordania y la Ciudad Vieja de Jerusalén."
+    },
+    {
+     "titulo": "El balance",
+     "nivel": "hecho",
+     "texto": "Egipto y Jordania acordaron un alto el fuego el 8 de junio, Siria el 9, y se firmó con Israel el 11 de junio. La guerra causó más de 20.000 bajas árabes, mientras que Israel sufrió menos de 1.000. Además de las bajas entre combatientes, murieron 20 civiles israelíes en los ataques aéreos sobre Jerusalén, 15 cascos azules durante los ataques israelíes en el Sinaí al comienzo del conflicto y 34 estadounidenses en el incidente del USS Liberty, en el que la fuerza aérea israelí atacó un buque de investigación técnica de la Armada de Estados Unidos.\n\nAl cesar las hostilidades, Israel había ocupado la península del Sinaí, que era de Egipto, la Franja de Gaza, Cisjordania y Jerusalén Este, incluida la Ciudad Vieja, que eran de Jordania, y los Altos del Golán, de Siria. El desplazamiento de población civil tuvo consecuencias a largo plazo: entre 280.000 y 325.000 palestinos y 100.000 sirios huyeron o fueron expulsados de Cisjordania y de los Altos del Golán. Nasser dimitió, avergonzado tras la derrota."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos que constan son el cierre de los estrechos de Tirán por Egipto y el ataque aéreo preventivo israelí; la fuente leída da la secuencia, pero no recoge las interpretaciones de cada parte sobre quién empezó. Siguiendo la regla de seguir el dinero y el poder, esta fuente tampoco recoge el papel de las potencias, Estados Unidos y la Unión Soviética, en armar a cada bando: queda como tema abierto, a documentar con fuentes específicas, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19365,6 +19456,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra del Golfo (también segunda guerra del Golfo, para diferenciarla de la guerra Irán-Irak y de la guerra de Irak posterior) fue un conflicto armado entre Irak y una coalición de 32 países liderada por Estados Unidos. Se desarrolló en dos fases: la Operación Escudo del Desierto, el aumento de la presencia militar de agosto de 1990 a enero de 1991, y la Operación Tormenta del Desierto, que empezó con la campaña de bombardeos aéreos del 17 de enero de 1991 y concluyó con la liberación de Kuwait, liderada por EE. UU., el 28 de febrero de 1991. Fue la mayor alianza militar desde la Segunda Guerra Mundial; la mayor parte de su poder militar venía de EE. UU., con Arabia Saudí, el Reino Unido y Egipto como mayores contribuyentes, en ese orden."
+    },
+    {
+     "titulo": "Por qué invadió Irak Kuwait",
+     "nivel": "hecho",
+     "texto": "El 2 de agosto de 1990 Irak, gobernado por Sadam Huseín, invadió el vecino Kuwait y lo ocupó por completo en dos días. La invasión se debió sobre todo a las disputas por la supuesta perforación oblicua de Kuwait en el campo petrolífero iraquí de Rumaila, y a la intención de cancelar la gran deuda de Irak con Kuwait por la recién terminada guerra con Irán. Irak alegaba que Kuwait le robaba petróleo del yacimiento de Rumaila, situado bajo ambos territorios, y, como dependía del valor del combustible para pagar su deuda externa de la guerra contra Irán, de casi 40.000 millones de dólares con intereses de 3.000 millones al año, se sentía perjudicado por la superproducción de Kuwait y de otros países del Golfo, que mantenía bajo el precio. Otra posible causa fue la necesidad iraquí de acceder al golfo Pérsico desde su puerto de Um Kasar, lo que implicaba ocupar las islas kuwaitíes de Bubiyan y Warbah, y se ha dicho que Sadam necesitaba una conquista rápida para mejorar su bajo prestigio y perfilarse como líder del mundo árabe. Tras ocupar brevemente Kuwait bajo un gobierno títere, Irak dividió el territorio y lo anexó: el distrito de Saddamiya Al-Mutlaa, absorbido por la gobernación de Basora, y la gobernación de Kuwait, la 19.ª de Irak."
+    },
+    {
+     "titulo": "La respuesta internacional",
+     "nivel": "hecho",
+     "texto": "La invasión provocó condena internacional inmediata, con la resolución 660 del Consejo de Seguridad, que exigía la retirada inmediata de Irak, y la 661, que impuso sanciones integrales. La primera ministra británica Margaret Thatcher y el presidente estadounidense George H. W. Bush desplegaron tropas y armamento en Arabia Saudí e instaron a otros países a enviar fuerzas. La resolución 678, del 29 de noviembre de 1990, dio a Irak un ultimátum hasta el 15 de enero de 1991 para retirarse de Kuwait y autorizó a los Estados miembros a usar «todos los medios necesarios»."
+    },
+    {
+     "titulo": "La guerra: aire y tierra",
+     "nivel": "hecho",
+     "texto": "Los bombardeos aéreos y navales de Irak empezaron el 17 de enero y duraron cinco semanas. Sadam llamó a la guerra «la madre de todas las batallas». Mientras su ejército sufría los ataques de la coalición, Irak disparó misiles contra Israel para provocar una respuesta militar israelí, con la expectativa de que eso llevara a países de mayoría musulmana a retirarse de la coalición; no tuvo éxito: Israel no tomó represalias. Los misiles iraquíes contra objetivos de la coalición en Arabia Saudí también fracasaron en gran medida. El 24 de febrero de 1991 la coalición lanzó un gran asalto terrestre sobre Kuwait, que fue una victoria decisiva: liberó Kuwait y avanzó más allá de la frontera hacia territorio iraquí. A las cien horas del inicio de la campaña terrestre cesó el avance y declaró un alto el fuego. Los combates se limitaron a Irak, Kuwait y las zonas a ambos lados de la frontera entre Irak y Arabia Saudí.\n\nLa guerra introdujo la transmisión de noticias en directo desde el frente, sobre todo por la cadena estadounidense CNN, y se ganó el apodo de «guerra de videojuegos» por la emisión diaria de imágenes de cámaras a bordo de aviones militares estadounidenses. También destacó por algunas de las mayores batallas de tanques de la historia militar de EE. UU.: Medina Ridge, Norfolk y 73 Easting."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, la fuente da las cifras de la deuda de Irak (casi 40.000 millones de dólares, con 3.000 millones de intereses al año) y la disputa por el petróleo de Rumaila, y señala que en el origen la invasión «estuvo relacionada con el petróleo, pero hubo más factores». Cuánto pesaron el petróleo, el precio del crudo y la deuda frente a los demás motivos, y quién se benefició de la guerra de los 32 países de la coalición, no consta en esta fuente: queda como tema abierto, a documentar con fuentes específicas, no como dato. La ficha de la guerra Irán-Irak da el origen de esa deuda."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19401,6 +19519,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra franco-prusiana fue un conflicto bélico entre el 19 de julio de 1870 y el 10 de mayo de 1871 entre el Segundo Imperio francés (y, tras su caída, la Tercera República) y el Reino de Prusia (y después el Imperio alemán), con el apoyo de la Confederación Alemana del Norte y de los reinos aliados de Baden, Baviera y Wurtemberg. Terminó con la completa victoria de Prusia y sus aliados. Junto con la guerra de Crimea fue el conflicto más importante que se libró en Europa entre las guerras napoleónicas y la Primera Guerra Mundial, y tuvo un impacto duradero."
+    },
+    {
+     "titulo": "Las causas",
+     "nivel": "hecho",
+     "texto": "La causa fundamental fue la ruptura del equilibrio de poder establecido en Europa en el Congreso de Viena de 1815, tras el éxito de Prusia en la guerra contra Austria. Después de la decisiva victoria de Sadowa, Bismarck se apresuró a extender el control prusiano a la mayor parte del norte de Alemania, incluidos Schleswig-Holstein, Hannover, Hesse-Kassel, Nassau y Fráncfort del Meno, y Berlín estuvo a punto de dominar otros Estados del norte en la Confederación Alemana del Norte, creada en 1867. Si la guerra no estalló enseguida fue solo porque Bismarck quería hacer crecer el sentimiento nacional alemán y Napoleón III necesitaba tiempo para completar la reforma modernizadora del ejército. La tensión creció tras el fracaso del proyecto de Napoleón III de anexar Luxemburgo (que se resolvió pacíficamente con el Tratado de Londres de 1867) y por la creciente influencia de Prusia sobre los Estados alemanes al sur del Meno, que Francia no toleraba. En 1868 hubo una crisis más aguda, cuando Bismarck intentó construir una unión aduanera más fuerte con el sur de Alemania con un parlamento de aduanas."
+    },
+    {
+     "titulo": "La guerra",
+     "nivel": "hecho",
+     "texto": "Francia movilizó su ejército el 15 de julio de 1870, y la Confederación del Norte respondió con su propia movilización ese mismo día. El 16 de julio el parlamento francés votó a favor de declarar la guerra a Prusia, y Francia invadió territorio alemán el 2 de agosto. La coalición alemana movilizó sus tropas con mucha más eficacia que la francesa e invadió el noreste de Francia el 4 de agosto: sus fuerzas eran superiores en número, adiestramiento y liderazgo, y usaban con más eficacia la tecnología moderna, sobre todo el ferrocarril y la artillería. Una serie de victorias prusianas y alemanas, culminadas con el sitio de Metz y la batalla de Sedán, dieron como resultado la captura del emperador Napoleón III y la derrota decisiva del ejército del Segundo Imperio.\n\nEl 4 de septiembre se formó en París un Gobierno de Defensa Nacional que continuó la guerra otros cinco meses. Las fuerzas alemanas derrotaron a nuevos ejércitos franceses en el norte de Francia y asediaron París durante más de cuatro meses, hasta que cayó el 28 de enero de 1871, lo que puso fin efectivo a la guerra."
+    },
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "En los últimos días de la guerra, con la victoria alemana casi asegurada, los Estados alemanes proclamaron su unión como Imperio alemán bajo el rey prusiano Guillermo I y el canciller Bismarck: con las excepciones de Austria y la Suiza alemana, la inmensa mayoría de los germanoparlantes se unió por primera vez en un Estado-nación. Tras un armisticio, el 10 de mayo de 1871 se firmó el Tratado de Fráncfort, que concedió a Alemania miles de millones de francos en reparaciones de guerra y la mayor parte de Alsacia y partes de Lorena, que se convirtieron en el Territorio imperial de Alsacia y Lorena.\n\nLa consecuencia más importante fue la creación del Imperio alemán, que tuvo un papel muy influyente en las relaciones internacionales de las décadas siguientes: acelerando la unificación alemana, la guerra alteró el equilibrio de poder en el continente y el nuevo Estado alemán reemplazó a Francia como potencia terrestre dominante. Bismarck mantuvo una gran autoridad internacional durante dos décadas, con una reputación de Realpolitik. La derrota trajo el fin del Segundo Imperio y el inicio de la Tercera República francesa, el primer gobierno republicano duradero. El resentimiento por la gestión de la guerra desencadenó la Comuna de París, un levantamiento revolucionario que tomó el poder dos meses antes de ser reprimido sangrientamente."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, el dato que ya consta es el de las reparaciones: miles de millones de francos de Francia a Alemania, más Alsacia y parte de Lorena. Cómo se pagó esa indemnización, qué bancos intervinieron y qué efecto tuvo en la economía de cada país no consta en esta fuente y queda como tema abierto, a documentar con fuentes específicas, no como dato. La ficha del Reichsbank recoge el marco monetario alemán posterior a 1871."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19502,6 +19647,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de la Independencia española",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_española",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de la Independencia Española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_la_Independencia_Espa%C3%B1ola",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -19518,6 +19668,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de la Independencia española fue un conflicto bélico entre 1808 y 1814, dentro de las guerras napoleónicas, que enfrentó a las potencias aliadas de España, el Reino Unido y Portugal contra Napoleón Bonaparte, que pretendía instalar en el trono español a su hermano José Bonaparte tras las abdicaciones de Bayona y convertir España en un Estado satélite del Primer Imperio francés. También se la llama «la francesada», «guerra del Francés» o «guerra de los Seis Años», y se solapa con lo que en otros países se llama guerra peninsular, iniciada en 1807 cuando Francia y España declararon la guerra a Portugal, tradicional aliado del Reino Unido. Tuvo un importante componente de guerra civil entre «afrancesados» y patriotas, y se desarrolló en plena crisis del Antiguo Régimen, sobre un complejo trasfondo de profundos cambios sociales y políticos, entre ellos el surgimiento de la identidad nacional española y la influencia, entre los «patriotas», de ideales de la Ilustración y la Revolución francesa, difundidos paradójicamente por la élite de los «afrancesados». Con motivo del bicentenario, Frigdiano Álvaro Durántez Prados cuestionó el nombre, porque no fue un conflicto independentista, y propuso «guerra de 1808» o «guerra peninsular»."
+    },
+    {
+     "titulo": "Un ciclo entre revolución y contrarrevolución",
+     "nivel": "hecho",
+     "texto": "Según el historiador Pedro Rújula, la guerra forma parte de un ciclo de guerras iniciado con la guerra de la Convención (1793-1795) que culmina con la primera guerra carlista (1833-1840), «caracterizado por el choque entre revolución y contrarrevolución». Para movilizar a la población contra la invasión se retomó el viejo discurso con que se había luchado contra la República: «Religión, Rey y Patria». De esa tríada, el rey, cautivo en Valençay tras las abdicaciones de Bayona, fue la pieza clave: la Junta de Gobierno declaró en su declaración de guerra que no dejaría las armas hasta que Napoleón restituyera a Fernando VII."
+    },
+    {
+     "titulo": "De Fontainebleau al Dos de Mayo",
+     "nivel": "hecho",
+     "texto": "Según el Tratado de Fontainebleau de 27 de octubre de 1807, el primer ministro Manuel Godoy debía dar el apoyo logístico necesario al tránsito de las tropas imperiales para una invasión hispano-francesa de Portugal. Bajo el mando del general Junot, las tropas francesas entraron en España el 18 de octubre de 1807 y llegaron a la frontera con Portugal el 20 de noviembre. Pero los planes de Napoleón iban más allá: sus tropas fueron tomando posiciones en ciudades y plazas fuertes para derrocar a los Borbones y suplantarlos por su propia dinastía, convencido de contar con apoyo popular. El resentimiento por las exigencias de manutención y los desmanes de las tropas extranjeras, junto con la inestabilidad política de la querella entre Carlos IV y su hijo Fernando VII, orquestada por los franceses, que empezó con el proceso de El Escorial y culminó con el motín de Aranjuez y el ascenso de Fernando VII, precipitó los primeros levantamientos en el norte y el Dos de Mayo en la capital. La noticia de la brutal represión, inmortalizada por Goya, y de las abdicaciones de Bayona de los días 5 y 9 de mayo, que extendieron el llamamiento iniciado en Móstoles a enfrentarse a las tropas imperiales, decidieron la guerra por presión popular, a pesar de la actitud contraria de la Junta de Gobierno designada por Fernando VII."
+    },
+    {
+     "titulo": "Cómo se desarrolló",
+     "nivel": "hecho",
+     "texto": "La guerra tuvo varias fases, en las que ambos bandos tomaron sucesivamente la iniciativa, y destacó por el fenómeno guerrillero, que, junto con los ejércitos regulares aliados dirigidos por el duque de Wellington, provocó el desgaste progresivo de las fuerzas bonapartistas. La población sufrió una guerra total: tanto franceses como aliados se ensañaron con ella y con objetivos civiles, con saqueos a gran escala y devastación, por ejemplo, de la industria española, considerada una amenaza para sus respectivos intereses. Los primeros éxitos españoles en la primavera y el verano de 1808, con la batalla del Bruch, la resistencia de Zaragoza y Valencia y, sobre todo, la victoria de Bailén, lograda por un ejército exclusivamente español, provocaron la evacuación de Portugal y la retirada francesa al norte del Ebro, seguida en el otoño de 1808 por la entrada de la Grande Armée, encabezada por el propio Napoleón, que culminó el máximo despliegue francés hasta mediados de 1812. La retirada de efectivos con destino a la campaña de Rusia fue clave en los sucesos posteriores. La ficha de las guerras napoleónicas da el marco general."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente que he leído llega hasta el desarrollo hasta 1812, y no recoge el final de la guerra, la Constitución de Cádiz ni el regreso de Fernando VII. Quedan por documentar. Siguiendo la regla de seguir el dinero y el poder, un dato de la fuente es que los aliados también saquearon la industria española por considerarla una amenaza a sus intereses; cómo se financió la guerra, qué papel tuvo el comercio con América y quién se benefició, no consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19766,6 +19943,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra Irán-Irak",
       "url": "https://es.wikipedia.org/wiki/Guerra_Irán-Irak",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra Irán-Irak",
+      "url": "https://es.wikipedia.org/wiki/Guerra_Ir%C3%A1n-Irak",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -19778,6 +19960,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra Irán-Irak (en Irán, «la Guerra Impuesta» y «la Santa Defensa»; en Irak, la «al-Qādisiyya de Sadam») fue un conflicto armado entre ambos países de septiembre de 1980 a agosto de 1988. Las hostilidades empezaron con la invasión iraquí de Irán y duraron casi ocho años, hasta que ambas partes aceptaron la Resolución 598 del Consejo de Seguridad de la ONU. Acabó solo por la enorme presión internacional, sin reparaciones ni cambios territoriales, que en teoría habrían sido su causa. Murieron unas 500.000 personas, Irán con la mayor parte de las bajas, sin contar las decenas de miles de civiles muertos en la campaña simultánea de Anfal contra el Kurdistán iraquí, y se cree que las pérdidas financieras combinadas superaron el billón de dólares."
+    },
+    {
+     "titulo": "Las causas",
+     "nivel": "hecho",
+     "texto": "Los orígenes se remontan a la larga hostilidad árabe-persa y a rivalidades locales, pero la razón principal que citó Irak fue la necesidad de impedir que el ayatolá Jomeiní, que había encabezado la Revolución iraní de 1979, exportara la nueva ideología a Irak. El liderazgo iraquí de Sadam Huseín temía además que Irán, un Estado teocrático de población predominantemente chií, explotara las tensiones sectarias de Irak al unir a la mayoría chií contra el gobierno baazista, oficialmente laico pero dominado por suníes. Irak quería también sustituir a Irán como actor poderoso en el golfo Pérsico, algo no alcanzable antes de la revolución por la superioridad económica y militar del Irán del sah y sus estrechas relaciones con Estados Unidos e Israel. Se sumaba una larga historia de disputas fronterizas: Irak planeó recuperar la orilla oriental del Chat el Arab que había cedido a Irán en los Acuerdos de Argel de 1975. El apoyo iraquí a los separatistas árabes en Irán aumentó tras el estallido de las hostilidades; es discutible que Sadam quisiera anexar la provincia iraní de Juzestán, de mayoría árabe."
+    },
+    {
+     "titulo": "El curso de la guerra",
+     "nivel": "hecho",
+     "texto": "Los líderes iraquíes esperaban aprovechar el caos posrevolucionario de Irán y lograr una victoria decisiva ante un país gravemente debilitado, pero el ejército iraquí avanzó solo durante tres meses y en diciembre de 1980 la invasión estaba estancada. El ejército iraní cogió impulso y recuperó todo el territorio perdido en junio de 1982. Tras hacer retroceder a las fuerzas iraquíes hasta las fronteras anteriores a la guerra, Irán rechazó la Resolución 514 del Consejo de Seguridad y lanzó una invasión de Irak. La ofensiva iraní dentro del territorio iraquí duró cinco años, hasta que Irak recuperó la iniciativa a mediados de 1988 y lanzó contraofensivas que llevaron a un punto muerto. Ocho años de agotamiento, devastación económica, desmoralización, estancamiento militar y la inacción de la comunidad internacional ante el uso de armas de destrucción masiva por Irak contra soldados y civiles iraníes, junto con el aumento de las tensiones militares entre Irán y Estados Unidos, llevaron a Irán a aceptar el alto el fuego negociado por la ONU."
+    },
+    {
+     "titulo": "Quién ayudó a quién",
+     "nivel": "hecho",
+     "texto": "Irak recibió abundante ayuda financiera, política y logística de Estados Unidos, el Reino Unido, la Unión Soviética, Francia, Italia, Yugoslavia y la gran mayoría de los países árabes. Irán, relativamente aislado, recibió una cantidad significativa de ayuda de Siria, Libia, Corea del Norte, China, Yemen del Sur, Cuba e Israel. Hubo también fuerzas subsidiarias: Irak y las milicias separatistas árabes proiraquíes en Irán recibieron el apoyo más notable del Consejo Nacional de Resistencia de Irán, e Irán restableció una alianza con los kurdos iraquíes, sobre todo el Partido Demócrata del Kurdistán y la Unión Patriótica del Kurdistán.\n\nEl conflicto suele compararse con la Primera Guerra Mundial por el uso de tácticas parecidas: combate de trincheras a gran escala, nidos de ametralladoras, cargas de bayoneta, alambre de púas, ataques iraníes con oleadas humanas y empleo extensivo de armas químicas, como el gas mostaza y el sarín, por el gobierno iraquí contra tropas iraníes y civiles, entre ellos los kurdos. La fuente dice que Sadam empezó a usar armas químicas para compensar su gran desventaja de población frente a Irán, y que los discursos sobre el martirio en el contexto chií iraní propiciaron el uso generalizado de las oleadas humanas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, hay un hecho incómodo en la fuente: Irak recibió ayuda de Estados Unidos, Francia, la Unión Soviética y otras potencias mientras usaba armas químicas, y la comunidad internacional no reaccionó. Cuánto dinero, qué armas y qué empresas, y en qué condiciones, no consta con cifras en esta fuente: queda como tema abierto, a documentar con fuentes específicas, no como dato. La deuda iraquí con Kuwait de esta guerra es una de las causas de la siguiente, la del Golfo de 1991, que tiene ficha propia."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19913,6 +20122,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra ruso-japonesa fue una guerra entre el Imperio ruso y el Imperio japonés por sus ambiciones imperialistas rivales en Manchuria y en el Imperio de Corea, del 8 de febrero de 1904 al 5 de septiembre de 1905. Entre sus batallas están el río Yalu (25 de abril a 2 de mayo de 1904), Nanshan, Liaoyang, Sha-ho, Mukden (19 de febrero de 1905) y Tsushima. La victoria militar completa de una nación asiática y no occidental sobre una potencia europea y occidental sorprendió a los observadores internacionales y transformó el equilibrio de poder global: el Japón emergió como gran potencia y el Imperio ruso perdió prestigio ante las potencias europeas."
+    },
+    {
+     "titulo": "Las causas: puertos, ferrocarriles y Corea",
+     "nivel": "hecho",
+     "texto": "Rusia seguía una política expansionista en Siberia y el Lejano Oriente desde el reinado de Iván el Terrible, en el siglo XVI. Al final de la primera guerra sino-japonesa, el Tratado de Shimonoseki, del 17 de abril de 1895, concedió a Japón la isla de Taiwán, el protectorado sobre Corea y la península de Liaodong (con Port Arthur), pero con la Triple Intervención del 23 de abril de 1895, en la que Rusia, Alemania y Francia presionaron, Japón tuvo que renunciar a su reclamación de Port Arthur y Manchuria. Rusia buscaba un puerto de aguas cálidas, que no se congelara en invierno, en el Pacífico, para su armada y su comercio marítimo: Vladivostok solo funcionaba en verano, y Port Arthur, en el Imperio chino, podía funcionar todo el año. En 1896 se firmó un acuerdo con China para usar Port Arthur como base y para dar a Rusia libre acceso a todos los puertos chinos, junto con una alianza secreta frente a posibles agresiones japonesas; el 16 de diciembre de 1897 la flota del Pacífico ocupó Port Arthur, y en 1898 Rusia arrendó a China la península de Liaodong.\n\nJapón temía que Rusia interfiriera en sus planes de establecer una esfera de influencia en Asia continental, sobre todo cuando Rusia construyó el ferrocarril Transiberiano y empezó a hacer incursiones en Corea. Japón firmó la alianza anglo-japonesa en 1902 y ofreció reconocer el dominio ruso en Manchuria a cambio de que se reconociera Corea como esfera de influencia japonesa, pero Rusia lo rechazó."
+    },
+    {
+     "titulo": "La guerra",
+     "nivel": "hecho",
+     "texto": "Tras fracasar las negociaciones, Japón abrió las hostilidades con un ataque sorpresa contra la flota rusa del Pacífico en Port Arthur el 9 de febrero de 1904. Las tropas japonesas desembarcaron en Corea, cruzaron el río Yalu hacia Manchuria en mayo y desembarcaron más fuerzas en la península de Liaodong. En agosto sitiaron Port Arthur, que cayó en enero de 1905; en marzo de 1905 tomaron Mukden, la capital de Manchuria. La flota rusa del Báltico, que había navegado siete meses y 18.000 millas náuticas (33.000 km) desde el Báltico, con un incidente diplomático con el Reino Unido incluido, llegó a la región en mayo y la interceptó y destruyó la flota combinada japonesa en la batalla de Tsushima. Hubo innovación tecnológica: los japoneses usaron la radiotelefonía en el mar y el teléfono en las batallas terrestres para coordinar las unidades, y barcos acorazados."
+    },
+    {
+     "titulo": "El Tratado de Portsmouth y sus efectos",
+     "nivel": "hecho",
+     "texto": "La guerra concluyó con el Tratado de Portsmouth, mediado por el presidente estadounidense Theodore Roosevelt. El tratado reconocía los intereses japoneses en Corea y daba a Japón el arrendamiento de la península de Liaodong, que tenía Rusia, el control del Ferrocarril del Sur de Manchuria, construido por Rusia, y la mitad sur de la isla de Sajalín (Karafuto). Que Rusia sufriera grandes bajas y pérdidas por una causa que acabó en derrota militar contribuyó al malestar interno que culminó en la Revolución rusa de 1905, durante la cual la autocracia zarista se vio obligada a hacer concesiones."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente deja claro que el trasfondo era el control de puertos, ferrocarriles y esferas de influencia entre las potencias, y que Gran Bretaña (alianza anglo-japonesa de 1902) y Estados Unidos (mediación de Roosevelt) tuvieron papel. Siguiendo la regla de seguir el dinero y el poder, queda por documentar cómo se financió cada bando y qué papel tuvieron los bancos en la guerra y en el tratado: no consta en esta fuente y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -20291,6 +20527,28 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fueron",
+     "nivel": "hecho",
+     "texto": "Las guerras yugoslavas fueron una serie de conflictos en el territorio de la antigua Yugoslavia entre 1991 y 2001, en dos grupos de guerras sucesivas que afectaron a las seis ex repúblicas yugoslavas. Se caracterizaron por los conflictos étnico-religiosos entre los pueblos de la antigua Yugoslavia, principalmente entre los serbios, por un lado, y los croatas, los bosnios y los albaneses, por el otro, y también, al principio, entre bosnios y croatas en Bosnia y Herzegovina. Fueron los conflictos más sangrientos en Europa desde el fin de la Segunda Guerra Mundial, con entre 130.000 y 200.000 muertos y millones de desplazados, y los primeros desde entonces que se juzgaron formalmente: los genocidas y muchos de los individuos clave fueron procesados y condenados por crímenes de guerra. Dejaron gran parte de la antigua Yugoslavia reducida a la pobreza, con una desorganización económica masiva e inestabilidad persistente."
+    },
+    {
+     "titulo": "Los conflictos",
+     "nivel": "hecho",
+     "texto": "Se pueden dividir en tres grupos: la respuesta de Serbia a la disolución total de Yugoslavia, con la intervención serbia (1991-2001); las guerras durante la disolución de la República Federativa Socialista de Yugoslavia, es decir, la guerra de Eslovenia (1991), la de Croacia (1991-1995), la de Bosnia (1992-1995) y la croata-bosnia (1992-1994); y las guerras durante la disolución de la República Federal de Yugoslavia: la guerra de Kosovo (1998-1999), el conflicto del sur de Serbia (1999-2001) y el conflicto de Macedonia de 2001."
+    },
+    {
+     "titulo": "Causas y trasfondo",
+     "nivel": "hecho",
+     "texto": "El conflicto obedeció a causas políticas, económicas y culturales, y a tensiones étnicas y religiosas, con predominio musulmán en Bosnia y cristiano en Serbia. Entre los detonantes principales están la inestabilidad social en Kosovo, que llevó a Milošević a disolver su autonomía, la crisis económica socialista y, sobre todo, la ruptura de la centralidad de la Liga de los Comunistas de Yugoslavia en favor de sus ramas regionales, que fueron abandonando el socialismo y virando al nacionalismo. En 1990 Croacia convocó elecciones parlamentarias libres, que ganó por mayoría absoluta el partido nacionalista HDZ, y las fuerzas políticas gobernantes de las repúblicas se identificaron con sus nacionalismos: el serbio, liderado por Slobodan Milošević, el croata, por Franjo Tuđman, y el bosnio, por Alija Izetbegović. Eslovenia declaró unilateralmente la independencia, empezó la guerra de los Diez Días y estalló la guerra de Croacia. El 15 de enero de 1992 los países de la Comunidad Europea y algunos otros reconocieron la independencia de Eslovenia y de Croacia, lo que supuso la disolución de la República Federativa Socialista de Yugoslavia. Serbia y Montenegro siguieron usando ese nombre, sin reconocimiento internacional, hasta 2003.\n\nLas tensiones venían de la composición multiétnica del primer Reino de Yugoslavia y de la supremacía política y demográfica relativa de los serbios. Durante la Segunda Guerra Mundial el Eje aprovechó esas tensiones: creó un Estado títere que abarcaba la mayor parte de las actuales Croacia y Bosnia y Herzegovina, el Estado Independiente de Croacia, a cargo de una organización fascista, la Ustasha, que llevó a cabo una política genocida contra los civiles serbios; la milicia serbia chetnik contraatacó, y ambos acabaron derrotados por los partisanos, de tendencia comunista y antifascista, de los que salió la República Federal Socialista de Yugoslavia del mariscal Tito. Tras la caída del bloque comunista, los deseos de independencia se acentuaron. Además, la disolución de la Unión Soviética propició la entrada de armas soviéticas a gran escala en los Balcanes, con las que se armaron rebeldes y paramilitares: la zona sigue siendo un foco de comercio ilegal de armas en Europa. En las zonas pobladas por albaneses, la causa principal fue el crecimiento de la población albanesa donde antes era minoría, que algunos serbios interpretaron como pérdida de sus territorios ancestrales."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente que he leído cubre la definición, los grupos de conflictos, las causas y el trasfondo, pero no el desarrollo año por año (1991-2001): faltan las batallas, el cerco de Sarajevo, Srebrenica, los acuerdos de Dayton y la intervención de la OTAN en Kosovo, que quedan por documentar en una pasada posterior. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financió y armó a cada bando más allá del dato de las armas soviéticas. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
