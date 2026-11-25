@@ -12355,6 +12355,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue y qué dice",
+     "nivel": "hecho",
+     "texto": "La Declaración Balfour (2 de noviembre de 1917) fue una manifestación formal del gobierno británico, en plena Primera Guerra Mundial, de su apoyo al establecimiento de un «hogar nacional» para el pueblo judío en Palestina, entonces parte del Imperio otomano. Iba en una carta del ministro de Exteriores, Arthur James Balfour, al barón Lionel Walter Rothschild, líder de la comunidad judía británica, para trasladarla a la Federación Sionista de Gran Bretaña e Irlanda; se publicó en la prensa el 9 de noviembre. Es una sola frase de 67 palabras con cuatro cláusulas: el Gobierno «contempla con beneplácito» ese hogar nacional y hará sus mejores esfuerzos para facilitarlo, entendiéndose que no se hará nada que perjudique los derechos civiles y religiosos de las comunidades no judías existentes en Palestina ni los derechos y el estatus político de los judíos en otros países. Según la fuente, fue el primer apoyo público de una potencia mundial al sionismo. El término «hogar nacional» no tenía precedentes en el derecho internacional y era intencionalmente ambiguo respecto a un Estado judío: se evitó «Estado» por la oposición dentro del gabinete británico, aunque sus principales arquitectos consideraban que acabaría surgiendo. No se fijaron los límites de Palestina."
+    },
+    {
+     "titulo": "Antecedentes: el apoyo británico y el sionismo",
+     "nivel": "hecho",
+     "texto": "La fuente explica que el apoyo británico a una mayor presencia judía en Palestina nacía sobre todo de cálculos geopolíticos, como proteger el canal de Suez, que unía las colonias asiáticas con la metrópoli, y también de expectativas evangélicas sobre la «restauración de los judíos» defendidas por lord Shaftesbury y otros. Ese apoyo político empezó hacia 1830 con Palmerston, tras la crisis de Oriente por la ocupación de Siria y Palestina por Mehmet Alí, y buscaba una esfera de influencia frente a Francia, protectora de los católicos, y Rusia, de los ortodoxos. El sionismo surgió a finales del siglo XIX en reacción a los nacionalismos antisemitas; los pogromos rusos de 1881-1884 fortalecieron esa identidad. En 1896 Theodor Herzl publicó *Der Judenstaat*, y en 1897 fundó la Organización Sionista Mundial. Herzl murió en 1904 sin lograr apoyo internacional; entre las propuestas estuvo el Plan de Uganda (1903), que el Séptimo Congreso Sionista rechazó en 1905. Chaim Weizmann vivía en el Reino Unido desde 1904 y se reunió con Balfour en 1906; en 1914 conoció al barón Edmond de Rothschild, de la rama francesa, que había financiado las primeras colonias agrícolas judías en Palestina en los años 1880."
+    },
+    {
+     "titulo": "Por qué la emitió Gran Bretaña",
+     "nivel": "hecho",
+     "texto": "El proceso empezó en 1917 con una guerra estancada: las tropas estadounidenses aún no estaban desplegadas y Rusia se hallaba distraída por la agitación interna. Mark Sykes inició conversaciones formales con los dirigentes sionistas el 7 de febrero de 1917, y el 19 de junio Balfour pidió a Rothschild y a Weizmann un proyecto de declaración; otros borradores se discutieron en septiembre y octubre, con aportaciones de judíos sionistas y antisionistas, pero sin la población local de Palestina, y la emisión se autorizó el 31 de octubre. La fuente recoge las explicaciones de los historiadores: para unos pesaron la actividad de los sionistas (Leonard Stein) y para otros los intereses imperiales británicos en Oriente Medio (Mayir Vereté); Martin Kramer sostiene que el asentimiento de Francia, Estados Unidos y la Santa Sede era condición previa; otros historiadores, como James Gelvin, hablan de un «antisemitismo patricio», la sobreestimación del poder judío en Estados Unidos y Rusia. Lloyd George dio nueve motivos en sus memorias (1939), entre ellos reforzar la posición británica sobre Suez y el camino a la India, y dijo en 1937 a la Comisión Real Palestina que fue por razones de propaganda: la simpatía judía aseguraría el apoyo de los judíos estadounidenses y dificultaría a Alemania reducir sus compromisos en el frente oriental. Los británicos esperaban también que atrajera a los judíos de Alemania y de Rusia, y querían evitar la previsible presión francesa a favor de una administración internacional de Palestina. La fuente añade que Sykes buscaba movilizar al sionismo en favor de la soberanía británica en Palestina para poder presionar a Francia, y que los sionistas aún ignoraban el acuerdo Sykes-Picot, aunque lo sospechaban."
+    },
+    {
+     "titulo": "Quién la redactó",
+     "nivel": "hecho",
+     "texto": "Un memorando del Gabinete de enero de 1923 dijo que los autores principales fueron Balfour, Sykes, Weizmann y Sokolow, «tal vez» con lord Rothschild al fondo, y que las negociaciones fueron sobre todo orales y por notas privadas. Leonard Stein publicó en 1961 cuatro borradores previos. Weizmann orientó al equipo sionista el 20 de junio de 1917 diciendo que la declaración debía expresar apoyo al hogar nacional y no referirse al poder protector, para no incomodar a Francia, y que debía ser «una declaración sionista». Quienes han discutido el «autor principal» han propuesto a lord Milner (Carroll Quigley, 1981) y a Leo Amery (William Rubinstein)."
+    },
+    {
+     "titulo": "Reacciones",
+     "nivel": "hecho",
+     "texto": "Los bolcheviques publicaron el acuerdo Sykes-Picot el 23 de noviembre de 1917 y, según la fuente, los británicos quedaron avergonzados, los árabes consternados y los turcos encantados; en una reunión del 1 de diciembre de 1918, Clemenceau y Lloyd George aceptaron modificaciones, incluido el control británico de Palestina. La declaración galvanizó al sionismo: se difundió con folletos, lanzados incluso desde el aire sobre comunidades judías de Alemania y Austria. Weizmann había argumentado que forzaría a Rusia a mantener la presión sobre Alemania, reuniría a la comunidad judía de Estados Unidos en apoyo del esfuerzo de guerra y socavaría el apoyo judío alemán al káiser. En 1914 la Federación Sionista estadounidense tenía unos 12.000 miembros y un presupuesto de alrededor de 5.000 dólares, entre tres millones de judíos. Con Gaza y Jaffa en manos británicas, se pudieron transferir fondos y se empezó a drenar el valle de Jezreel para los colonos de la tercera aliyá. La declaración tuvo también impacto entre los judíos religiosos, algunos de los cuales vieron en ella la providencia divina."
+    },
+    {
+     "titulo": "Consecuencias a largo plazo",
+     "nivel": "hecho",
+     "texto": "Según la fuente, la declaración tuvo dos consecuencias indirectas: la aparición de un Estado judío y un conflicto crónico entre árabes y judíos en Oriente Medio. Se la ha descrito como el «pecado original» del fracaso británico en Palestina; el conflicto intercomunitario estalló desde 1920 y se amplió al conflicto árabe-israelí. Elizabeth Monroe la calificó, medida solo por los intereses británicos, como uno de los mayores errores de la historia imperial británica, y Jonathan Schneer (2010) concluyó que su elaboración estuvo marcada por «contradicciones, engaños, malas interpretaciones e ilusiones». Tras la revuelta árabe de 1936-1939, la Cámara de los Comunes aprobó el Libro Blanco de 1939. El documento lo entregó Walter Rothschild al Museo Británico en 1924 y hoy está en la Biblioteca Británica (Additional Manuscripts 41178); estuvo prestado a la Knéset entre octubre de 1987 y mayo de 1988."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo extenso de una enciclopedia abierta apoyado en historiadores de distintas escuelas; no he leído las secciones sobre las discusiones de agosto a octubre de 1917 ni sobre la formación del Mandato. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financiaba el sionismo político en 1917 (la fuente solo menciona a Edmond de Rothschild y la Federación Sionista), qué intereses petroleros y navales pesaron en el control británico de Palestina y qué peso real tuvo cada uno de los motivos que se atribuyen. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -19212,6 +19249,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué fue y la justificación oficial",
+     "nivel": "hecho",
+     "texto": "La guerra de Irak fue un conflicto prolongado en Irak entre 2003 y 2011. Empezó con la invasión de una coalición liderada por Estados Unidos que derrocó al gobierno baazista de Sadam Huseín; después surgió una insurgencia contra la coalición y el gobierno iraquí posterior. Las tropas estadounidenses se retiraron oficialmente a finales de 2011, y en 2014 Estados Unidos volvió a intervenir contra el Estado Islámico. La justificación principal de George W. Bush y sus aliados fue que Irak poseía y desarrollaba armas de destrucción masiva, en violación de un convenio de 1991, y que era una amenaza inmediata. Los inspectores no encontraron pruebas y, tras la invasión, el Grupo de Investigación en Irak concluyó que Irak había terminado esos programas en 1991 y no tenía armas en 2003, aunque pensaba reanudarlos si se levantaban las sanciones. Algunos funcionarios estadounidenses alegaron una cooperación entre Sadam y Al Qaeda, pero la fuente dice que no hay pruebas. Otras razones esgrimidas fueron el apoyo a las familias de terroristas suicidas palestinos, los abusos de derechos humanos y la intención de difundirlos."
+    },
+    {
+     "titulo": "Antecedentes (1991-2003)",
+     "nivel": "hecho",
+     "texto": "Tras la primera guerra del Golfo, la Resolución 687 del Consejo de Seguridad ordenó acabar con los programas iraquíes de armas químicas, biológicas, nucleares y de misiles de largo alcance y destruir los arsenales. Los inspectores verificaron la destrucción de mucho material, pero cuestiones de fondo quedaron sin resolver y la comisión salió de Irak en 1998 ante la inminente acción militar de Estados Unidos y el Reino Unido, que lanzaron la Operación Zorro del Desierto del 16 al 19 de diciembre de 1998 con bombardeos de cuatro días. Estados Unidos y el Reino Unido (con Francia hasta 1998) mantuvieron un conflicto de baja intensidad y zonas de exclusión aérea en el norte y el sur, que Irak veía como violación de su soberanía. Según la fuente, en abril de 2001 el gabinete de Bush dio su acuerdo a usar la intervención militar porque Irak se consideraba una influencia desestabilizadora para el flujo de petróleo hacia los mercados, y neoconservadores pidieron antes del 11-S promover un golpe para que un nuevo gobierno usara el petróleo contra la OPEP; esos planes se abandonaron, dice, cuando el exdirector de Shell encargado de aplicarlos se negó a participar en la industria petrolera iraquí, porque la privatización podía excluir a las empresas estadounidenses. No he contrastado esas afirmaciones. Un año antes de la invasión, Estados Unidos lanzó la Operación Focus, con más misiones y un pico de 54,6 toneladas de bombas en septiembre de 2002."
+    },
+    {
+     "titulo": "Invasión y ocupación (2003)",
+     "nivel": "hecho",
+     "texto": "La invasión empezó el 20 de marzo de 2003 con bombardeos y misiles Tomahawk; fuerzas estadounidenses y británicas avanzaron desde Kuwait y sus aliados kurdos por el norte. Los primeros tanques entraron en Bagdad el 9 de abril, y Bush declaró el fin de los grandes combates el 1 de mayo. Para dirigir la reconstrucción se creó una oficina, la ORHA, dirigida por el general Jay Garner y sustituida por la Autoridad Provisional de la Coalición, bajo el civil Paul Bremer. El 16 de mayo las autoridades estadounidenses abandonaron el plan de dar el poder a un gobierno civil iraquí electo; el 22 de mayo el Consejo de Seguridad aprobó por 14 votos a 0 la resolución 1483, que dio a Estados Unidos y al Reino Unido el poder de gobernar Irak y usar sus recursos petroleros para la reconstrucción, y puso fin a casi trece años de sanciones. La resolución creó un fondo para el desarrollo de Irak alimentado con el petróleo y con mil millones de dólares transferidos del programa «petróleo por alimentos», supervisado por una junta de Estados Unidos e instituciones financieras internacionales. Sadam Huseín fue capturado el 13 de diciembre de 2003 cerca de Tikrit. En Bagdad, los estadounidenses convirtieron el Palacio de la República en la Zona Verde, de cinco kilómetros, con servicios continuos mientras los habitantes sufrían cortes."
+    },
+    {
+     "titulo": "Cifras de víctimas",
+     "nivel": "hecho",
+     "texto": "La fuente avisa de que las cifras son muy controvertidas. El general Tommy Franks estimó unas 30.000 bajas iraquíes hasta el 9 de abril de 2003 y Bush repitió 30.000 muertos en diciembre de 2005 (la Casa Blanca dijo que no era una estimación oficial). El Ministerio de Salud iraquí, con la OMS, estimó 151.000 muertes violentas entre marzo de 2003 y junio de 2006 (rango de 104.000 a 223.000). El proyecto Iraq Body Count documentó entre 73.264 y 79.869 civiles muertos hasta septiembre de 2007, aunque se le critica contar solo lo que dicen los medios. La encuesta de *The Lancet* de 2006 calculó 654.965 muertos en exceso (rango de 392.979 a 942.636), con una metodología criticada como exagerada; una encuesta de 2007 de ORB estimó 1.220.580, revisada después a 1.033.000. Los Registros de la guerra de Irak publicados por WikiLeaks el 22 de octubre de 2010 (391.832 documentos del Departamento de Defensa de 2004 a 2009) contabilizan 109.032 muertos, 66.081 de ellos civiles, y revelan el uso sistemático de torturas y la ayuda de Irán a milicias. La fuente cifra en 3 billones de dólares el gasto estadounidense."
+    },
+    {
+     "titulo": "Críticas, retirada y consecuencias",
+     "nivel": "hecho",
+     "texto": "La coalición no encontró las supuestas armas de destrucción masiva; Tony Blair perdió credibilidad en su pulso con la BBC y Bush dijo haber actuado por la información de la CIA, cuyo director negó haber afirmado esa existencia. La guerra deterioró la imagen de Estados Unidos, y la fuente recuerda las muertes del camarógrafo José Couso y del agente italiano Nicola Calipari. La desnutrición infantil pasó del 19 % antes de la invasión al 28 % cuatro años después y más de la mitad de los médicos abandonaron el país, según Cruz Roja. En 2009 Obama anunció la retirada y el 31 de agosto de 2010 acabó la misión de combate, con la Operación Nuevo Amanecer (hasta el 31 de diciembre de 2011) de entrenamiento de las fuerzas iraquíes, con 50.000 efectivos. Según la fuente, durante los nueve años 1.600.000 iraquíes fueron desplazados."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo extenso y heterogéneo de una enciclopedia abierta, con una marca «cita requerida» y pasajes poco contrastados (la reunión de gabinete de abril de 2001, la historia de la privatización petrolera, las cifras sociales finales). No he leído las secciones sobre las naciones participantes, los grupos armados ni los abusos de derechos humanos. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién se benefició de los contratos de reconstrucción y de seguridad, cómo se repartió el petróleo iraquí tras la resolución 1483 y qué grupos de presión pesaron en la decisión de invadir. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
