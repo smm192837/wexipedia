@@ -3311,9 +3311,56 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Banco de Ámsterdam",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Ámsterdam",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Bank of Amsterdam",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Amsterdam",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El Banco de Ámsterdam (Wisselbank) fue una de las primeras instituciones bancarias públicas de Europa. Lo estableció la ciudad de Ámsterdam el 31 de enero de 1609 y funcionó hasta su liquidación en 1819. Fue el primer banco público que ofreció cuentas no convertibles directamente en moneda, y por eso algunos lo consideran el primer banco central de verdad, aunque esa opinión no es unánime.\n\nA diferencia del Banco de Inglaterra, casi un siglo posterior, no gestionaba la moneda nacional ni prestaba (salvo al Gobierno en emergencias): su objetivo era defender el patrón de la moneda. Fue el centro del sistema de pagos nacional e internacional de su época, y el florín holandés fue de facto una moneda de reserva en Europa en los siglos XVII y XVIII."
+    },
+    {
+     "titulo": "Para qué se creó: las monedas y el dinero bancario",
+     "nivel": "hecho",
+     "texto": "En Ámsterdam circulaban unas 500 monedas distintas, legales e ilegales, de muchos países y regiones, y no había un buen sistema para fijar los tipos de cambio. Cada provincia acuñaba más stuivers de la misma cantidad de plata, y la moneda se depreciaba. El banco permitía cambiar las monedas por moneda de comercio plena y ampliamente aceptada, protegía a los acreedores extranjeros liquidando las deudas a través del banco y ofrecía a los depositantes su propia moneda sin degradar.\n\nDespués de 1618 fijó el rijksdaalder de 25,4 gramos de plata fina en 2,5 florines o 50 stuivers, con lo que garantizaba 10,16 gramos de plata fina por cada florín bancario depositado."
+    },
+    {
+     "titulo": "Las cuatro tareas y la gestión",
+     "nivel": "hecho",
+     "texto": "La ciudad le dio cuatro encargos: mantener estable el valor del dinero que los comerciantes le confiaban, resolver el problema de los pagos internos, facilitar los pagos internacionales con moneda de pleno valor y un buen sistema de transferencia por anotación en cuenta, y proteger sus reservas de la entrada de moneda ligera.\n\nLa gestión estaba en manos de tres comisionados, después cuatro, elegidos por el concejo de la ciudad. Dos tenían que estar a diario en la oficina y supervisaban a cuatro contables, dos escribientes con un sirviente, cuatro tenedores de libros de caja, tres receptores con otro sirviente y un ensayador que conocía los secretos de los metales y la acuñación. Dos tercios de los comisionados eran comerciantes o banqueros, y algunos tenían vínculos con la Compañía de las Indias Orientales (13 %) o la de las Indias Occidentales (15 %), que eran clientes del banco."
+    },
+    {
+     "titulo": "La unidad de cuenta",
+     "nivel": "hecho",
+     "texto": "El objetivo principal del banco era mantener una moneda bancaria de plata estable para el comercio internacional de la República, inmune a las depreciaciones que siguieron a la independencia de España. La provincia acuñaba cada vez más stuivers de la misma plata, y el banco fijó tipos de conversión estables.\n\nDesde la década de 1630 el banco se puso a prueba: las provincias intentaron subir el equivalente en florines de monedas importadas de los Países Bajos españoles, como el patagón de 24,55 gramos de plata, que pasó de 48 a 50 stuivers, y después el ducatón de 30,69 gramos, de 60 a 63. El banco defendía la unidad de cuenta frente a esas devaluaciones."
+    },
+    {
+     "titulo": "El 100 % de reserva y el crédito",
+     "nivel": "hecho",
+     "texto": "El banco se hizo famoso por su política de reservas del 100 % en especie, que David Hume elogió. Con el tiempo esa política se relajó: el banco prestó dinero para financiar el comercio de ultramar y sostener la economía holandesa, aunque siguió siendo líquido porque exigía buenas garantías en sus préstamos.\n\nEse fue el punto de equilibrio de la institución: custodiaba depósitos con respaldo pleno y, a la vez, financiaba el comercio. Mientras las garantías fueron buenas, el sistema funcionó; cuando dejaron de serlo, la confianza se rompió."
+    },
+    {
+     "titulo": "La caída",
+     "nivel": "hecho",
+     "texto": "El cambio llegó con la Cuarta Guerra Anglo-Holandesa, cuando la Compañía de las Indias Orientales (VOC) no pagó grandes anticipos sin garantía que había recibido del banco. A pesar de varios intentos de recapitalización, la confianza en el banco no se recuperó. En 1790 desapareció la prima del dinero del banco y, a finales de ese año, el banco se declaró insolvente.\n\nLa ciudad de Ámsterdam asumió su control en 1791. En 1814 se creó el Nederlandsche Bank, que asumió la emisión de dinero del nuevo Reino de los Países Bajos, y el Wisselbank entró en liquidación en 1819."
+    },
+    {
+     "titulo": "El dinero: por qué Ámsterdam mandaba",
+     "nivel": "hecho",
+     "texto": "El banco no era un banco central al uso: no gestionaba la moneda nacional ni prestaba salvo al Gobierno en emergencias. Su función era estimar correctamente el valor de las monedas para que la degradación no fuera rentable, y ofrecer un sistema de pagos fiable. Esa fiabilidad hizo de Ámsterdam el centro financiero del mundo en los siglos XVII y XVIII.\n\nEl florín holandés fue de facto una moneda de reserva europea, y el banco, el lugar donde se liquidaban las deudas internacionales. La lección para el dinero es la misma que siglos después: quien ofrece la unidad de cuenta fiable y el sistema de pagos que todos aceptan acaba controlando el comercio."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto cuánto pesó la relajación de la reserva del 100 % en la quiebra final y cuánto la deuda de la VOC y la guerra. También se discute si el Wisselbank fue el primer banco central o solo una institución de pagos, y cuál fue el papel exacto de los comisionados vinculados a las compañías de Indias en las decisiones de crédito.\n\nPara seguir el dinero harían falta los libros del banco (depósitos, préstamos y garantías) y las cuentas de la VOC, que esta ficha no ha consultado. El artículo en español es un esbozo de 1.000 caracteres; todo el detalle viene del inglés."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -3428,15 +3475,68 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "Wikipedia: Banco de Inglaterra",
-      "url": "https://es.wikipedia.org/wiki/Banco_de_Inglaterra"
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Inglaterra",
+      "consultado": "2026-11-25"
      },
      {
       "titulo": "Wikipedia (en): Bank of England",
       "url": "https://en.wikipedia.org/wiki/Bank_of_England",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia: Banco de Inglaterra",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Inglaterra",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El Banco de Inglaterra es el banco central del Reino Unido. Se fundó en 1694, seis años después de la Revolución Gloriosa, y fue nacionalizado el 1 de marzo de 1946, después de la Segunda Guerra Mundial. Es el segundo banco central de la historia, después del de Suecia.\n\nSu nombre oficial es «Gobernador y Compañía del Banco de Inglaterra» y se le conoce como «la Vieja Dama de la calle Threadneedle» por su sede en el barrio financiero de Londres, obra de John Soane, construida entre 1792 y 1823."
+    },
+    {
+     "titulo": "Por qué se fundó: la flota y el crédito",
+     "nivel": "hecho",
+     "texto": "Tras la derrota en la batalla de Cabo Beachy (10 de julio de 1690), Guillermo III quería una flota capaz de vencer a la francesa, pero el Gobierno no tenía fondos y su crédito en Londres era bajo: no podía tomar prestadas las 1.200.000 libras que necesitaba al 8 % anual.\n\nLa solución fue incorporar a los prestamistas como Gobernador y Compañía del Banco de Inglaterra. El banco recibió la posesión exclusiva de los saldos del Gobierno y el monopolio de la emisión de billetes como única sociedad de responsabilidad limitada autorizada. Los prestamistas daban oro al Gobierno y emitían billetes contra los bonos, que podían volver a prestarse. Las 1,2 millones de libras se reunieron en doce días, en buena parte con el botín de un galeón español, el Nuestra Señora de la Limpia y Pura Concepción; la mitad se destinó a la flota."
+    },
+    {
+     "titulo": "La carta real y los primeros años",
+     "nivel": "hecho",
+     "texto": "La Carta Real se otorgó el 27 de julio de 1694 con la Ley del Banco de Inglaterra de 1694. Las condiciones eran duras: el préstamo se pagaba al 8 % anual y había un cargo de servicio de 4.000 libras al año por gestionarlo. El primer gobernador fue John Houblon.\n\nEl banco no tuvo edificio propio al principio: abrió el 1 de agosto de 1694 en Mercers' Hall, en Cheapside, y desde el 31 de diciembre de ese año operó en Grocers' Hall, donde estuvo casi cuarenta años. En 1700 un grupo de empresarios compró la Hollow Sword Blade Company para crear un banco competidor, pero el monopolio del Banco de Inglaterra se renovó en 1710 y el intento fracasó."
+    },
+    {
+     "titulo": "La deuda pública y la South Sea Company",
+     "nivel": "hecho",
+     "texto": "El banco nació como prestamista del Gobierno y su historia es la de la deuda británica. En 1711 Robert Harley creó la South Sea Company como alianza público-privada para consolidar y abaratar la deuda pública: los acreedores entregaban sus títulos a la compañía y recibían acciones por el mismo valor nominal, y el Gobierno pagaba un interés anual del 6 % más gastos.\n\nA la compañía se le dio el monopolio del comercio con América del Sur, aunque era ilegal sin permiso de España; el Tratado de Utrecht (1713) le concedió el asiento de esclavos por treinta años, con 4.800 esclavos al año. Entre 1715 y 1739 hizo 96 viajes y compró 34.000 esclavos, de los que 30.000 sobrevivieron a la travesía. En 1720 estalló la burbuja: las acciones llegaron a 1.000 libras y se desplomaron. La compañía siguió gestionando deuda hasta disolverse en 1853."
+    },
+    {
+     "titulo": "Las crisis y el patrón oro",
+     "nivel": "hecho",
+     "texto": "La crisis de 1772 se considera la primera crisis bancaria moderna a la que se enfrentó el banco, a raíz de la quiebra de Alexander Fordyce. En 1793, con la guerra contra la República francesa, el Gobierno de Pitt empezó a sobreemitir billetes: en 1797 había 10.865.050 libras en billetes frente a 5.322.010 en oro, y la Ley de Restricción Bancaria de 1797 eliminó la obligación de convertir billetes en oro.\n\nEn 1815 los billetes en circulación valían 28,4 millones de libras, con solo 2,2 millones en oro. En 1819 Robert Peel presentó el proyecto para volver al patrón oro, y la convertibilidad se reanudó el 1 de mayo de 1821, lo que afianzó a la libra como moneda mundial del siglo XIX. En el pánico de 1825 el banco evitó una crisis de liquidez con el oro que le suministró Nathan Mayer Rothschild, pero no actuó como prestamista de última instancia y el pánico se extendió."
+    },
+    {
+     "titulo": "La Ley de Carta Bancaria de 1844",
+     "nivel": "hecho",
+     "texto": "La Ley de Carta Bancaria de 1844, aprobada con Robert Peel como primer ministro, restringió los poderes de los bancos británicos y dio al Banco de Inglaterra el monopolio de la emisión de billetes. Antes, los bancos comerciales de Gran Bretaña e Irlanda emitían sus propios billetes. La ley estableció una proporción entre las reservas de oro y los billetes emitidos y prohibió nuevos bancos de emisión.\n\nLos bancos privados que ya emitían conservaron el derecho si tenían la sede fuera de Londres y depositaban garantías; el último en emitir en Inglaterra y Gales fue Fox, Fowler and Company, en 1921. La ley fue una victoria de la Escuela Monetaria, partidaria de respaldar cada billete con oro. El Gobierno se reservó el poder de suspenderla en crisis, y lo hizo en 1847, 1857 y 1866; en el pánico de 1866 el banco actuó por primera vez como prestamista de última instancia."
+    },
+    {
+     "titulo": "Del patrón oro a la nacionalización",
+     "nivel": "hecho",
+     "texto": "Gran Bretaña estuvo en el patrón oro hasta 1931, cuando la Gran Depresión obligó a abandonarlo. Entre 1920 y 1944, con Montagu Norman como gobernador, el banco se alejó deliberadamente de la banca comercial para convertirse estrictamente en banco central. Durante la Segunda Guerra Mundial, más del 10 % del valor nominal de los billetes en libras en circulación eran falsificaciones alemanas.\n\nEl banco fue nacionalizado el 1 de marzo de 1946. Su sede actual es obra de John Soane (1792-1823) y el gobernador actual, desde marzo de 2020, es Andrew Bailey, que sustituyó a Mark Carney."
+    },
+    {
+     "titulo": "El dinero: la deuda como negocio",
+     "nivel": "hecho",
+     "texto": "El Banco de Inglaterra nació para financiar una guerra con deuda y su modelo se repitió: los acreedores se convertían en accionistas del banco, el Gobierno pagaba intereses y el banco gestionaba la deuda. En 1719 la deuda británica era de 50 millones de libras, frente a un PIB estimado de 64,4 millones.\n\nEl banco también aprendió a sostener el sistema en las crisis: en 1825 le faltó oro y lo consiguió de los Rothschild, y en 1866 actuó por primera vez como prestamista de última instancia. La tensión entre ser un banco con accionistas y ser el banco del Estado se resolvió en 1946 con la nacionalización."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el balance real de la fundación: cuánto pesó el botín del galeón, cuánto los intereses de la deuda y cuánto la política de Guillermo III. También la interpretación de las crisis: si el banco ayudó a estabilizar o si su política de tipos agravó los pánicos de 1825 y 1866.\n\nAviso sobre la fuente: el artículo en español abre diciendo que el banco estuvo controlado desde su fundación por «el clan Rothschild» y sus asociados, lo que es anacrónico para 1694 y no lo sostiene el resto del texto; no se ha trasladado a la ficha. Para seguir el dinero harían falta las cuentas de la deuda pública británica y los libros de suscripción de 1694, que aquí no se han consultado."
+    }
+   ],
    "conexiones": [
     {
      "id": "banco-pagos-internacionales",
@@ -11726,7 +11826,6 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "23-12-1913"
    },
-   "fecha_autor": "tras el hundimiento del Titanic (1912)",
    "resumen": "La Reserva Federal se creó con la Ley de la Reserva Federal firmada por Woodrow Wilson el 23-12-1913; Edward Mandell House fue asesor clave de Wilson.",
    "segun": [
     {
@@ -11808,9 +11907,66 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Edward M. House",
       "url": "https://en.wikipedia.org/wiki/Edward_M._House",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Reserva Federal",
+      "url": "https://es.wikipedia.org/wiki/Reserva_Federal",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Federal Reserve Act",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Reserva Federal se creó el 23 de diciembre de 1913, cuando el presidente Woodrow Wilson firmó la Ley de la Reserva Federal aprobada por el 63.º Congreso. La ley creó el banco central de Estados Unidos y un nuevo billete, el Federal Reserve Note, para tener una oferta monetaria «flexible».\n\nEl sistema es mixto: una agencia pública, la Junta de Gobernadores, con sede en Washington, y doce bancos regionales de la Reserva, que son la parte privada. Su mandato es mantener los precios estables y maximizar el empleo, dos objetivos con relación inversa."
+    },
+    {
+     "titulo": "Los antecedentes: dos bancos centrales y el pánico de 1907",
+     "nivel": "hecho",
+     "texto": "Estados Unidos ya había tenido banco central dos veces. El Primer Banco de los Estados Unidos se creó en 1791 con carta por veinte años, con Hamilton a favor y Jefferson en contra, que lo veía como una amenaza para la democracia y un instrumento del comercio del norte; no se renovó en 1811 por un voto de diferencia. El Segundo Banco se creó en 1816, tras la guerra de 1812, y Jackson dejó que su carta expirara en 1836; se liquidó en 1841.\n\nDurante casi ochenta años el país no tuvo banco central. Tras varios pánicos, sobre todo el de 1907, se extendió la idea de que hacía falta una reforma bancaria y monetaria que diera reservas líquidas en las crisis y permitiera expandir y contraer el crédito según la estación."
+    },
+    {
+     "titulo": "La Comisión Monetaria Nacional y el plan Aldrich",
+     "nivel": "hecho",
+     "texto": "La Ley Aldrich-Vreeland de 1908 creó la Comisión Monetaria Nacional (1909-1912), que en enero de 1912 presentó al Congreso un informe con recomendaciones y un borrador de 59 secciones. Era el plan Aldrich, llamado así por el senador republicano Nelson W. Aldrich: una Asociación Nacional de Reserva con 15 sucursales regionales y 46 directores, en su mayoría banqueros, que haría préstamos de emergencia, imprimiría dinero y actuaría como agente fiscal del Gobierno.\n\nSe cree que el esquema se diseñó en una reunión secreta en la isla de Jekyll en noviembre de 1910, a la que asistieron Aldrich y otros financieros muy conectados. El plan daba poco poder al Gobierno y por eso lo rechazaban los estados rurales y del oeste, que temían que se convirtiera en un instrumento de los banqueros de Nueva York."
+    },
+    {
+     "titulo": "La oposición y la campaña de 1912",
+     "nivel": "hecho",
+     "texto": "Entre mayo de 1912 y enero de 1913 el Comité Pujo, una subcomisión del Congreso, investigó el presunto «Money Trust» y sus consejos entrelazados. En las elecciones de 1912 los demócratas ganaron la Casa Blanca y las dos cámaras, con un programa contrario al plan Aldrich y favorable a proteger al público de la «dominación del Money Trust».\n\nEl plan final, sin embargo, se parecía bastante al de Aldrich. Wilson lo convirtió en prioridad de su agenda de «Nueva Libertad», y el Congreso lo aprobó en lo esencial como se presentó. La ley la impulsaron el propio Wilson, el congresista Carter Glass y el senador Robert Latham Owen."
+    },
+    {
+     "titulo": "La ley: doce bancos y una junta",
+     "nivel": "hecho",
+     "texto": "La ley preveía entre ocho y doce bancos regionales privados; se crearon doce, cada uno con sucursales, consejo de administración y distrito. La Junta de la Reserva Federal, de siete miembros nombrados por el presidente y confirmados por el Senado, sería el órgano de gobierno. También se crearon un Comité Asesor Federal de doce miembros y el billete de la Reserva Federal.\n\nLos bancos nacionales estaban obligados a ser miembros y a comprar acciones no transferibles de su banco regional y a mantener reservas no remuneradas. Los bancos estatales podían entrar voluntariamente. Los socios tenían derecho a préstamos en la ventanilla de descuento y a un dividendo anual del 6 % sobre sus acciones."
+    },
+    {
+     "titulo": "La Junta y la política monetaria",
+     "nivel": "hecho",
+     "texto": "La Junta de Gobernadores es una agencia gubernamental independiente, sujeta a la Ley de Libertad de Información, pero sus decisiones no tienen que aprobarlas el presidente ni el Congreso; no recibe dinero del Congreso y sus mandatos duran varias legislaturas. El presidente puede destituir a un miembro según el título 12 del Código de Estados Unidos.\n\nLa política monetaria tiene tres herramientas: operaciones de mercado abierto (comprar o vender instrumentos para inyectar o retirar dinero), la regulación de las reservas y la tasa de descuento. La más importante es el mercado abierto, que se gestiona en el Open Market Desk del Banco de la Reserva de Nueva York. En 1933 una enmienda creó el Comité Federal de Mercado Abierto, y otra posterior fijó el mandato de máximo empleo, precios estables y tipos moderados a largo plazo."
+    },
+    {
+     "titulo": "Las críticas",
+     "nivel": "hecho",
+     "texto": "La Reserva Federal ha recibido críticas desde su creación. Unas se centran en su política monetaria, la falta de transparencia y su posible papel en la inestabilidad financiera: se dice que las políticas expansivas pueden provocar inflación, burbujas de activos y distorsiones. Milton Friedman la criticó por contribuir a las recesiones y por su papel en la Gran Depresión.\n\nLas figuras libertarias, como Ron Paul, piden auditorías y transparencia, y algunos sostienen que la Fed sirve a la élite bancaria por la trayectoria financiera de muchos de sus cargos. Otros critican la salida del patrón oro en 1971, que habría contribuido a la inflación y a la devaluación del dólar, y la gestión de la crisis de 2008, por el riesgo moral de los rescates. La escuela austriaca (Mises, Rothbard) considera que el dinero fiduciario desestabilizó el sistema."
+    },
+    {
+     "titulo": "El dinero: quién manda en la Fed",
+     "nivel": "hecho",
+     "texto": "El diseño de 1913 reparte el poder entre lo público y lo privado: los doce bancos regionales son propiedad de los bancos miembros, que compran acciones no transferibles y cobran un dividendo fijo, mientras la Junta de Gobernadores, nombrada por el presidente, fija la política. Los bancos nacionales están obligados a pertenecer al sistema y a mantener reservas no remuneradas.\n\nEse equilibrio fue el resultado de la disputa de 1912 entre quienes querían un banco central privado, como el plan Aldrich, y quienes querían control público, como los progresistas. La solución final se pareció más al plan Aldrich de lo que su programa electoral prometía, con la diferencia de la Junta pública y los doce distritos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto cuánto pesó realmente cada grupo en el texto final y hasta qué punto la reunión de Jekyll Island determinó el diseño, que la fuente presenta como «generalmente creído» y no como hecho documentado. También sigue el debate sobre los efectos de la Fed en la inflación y en las crisis, donde las posiciones económicas se mezclan con las políticas.\n\nPara seguir el dinero harían falta los papeles de la Comisión Monetaria Nacional, las actas del Comité Pujo y los registros de suscripción de acciones de los doce bancos, que esta ficha no ha consultado. Tampoco se ha leído la historia completa de la Reserva Federal ni las actas del Congreso de 1913."
+    }
+   ],
    "conexiones": [
     {
      "id": "sociedad-de-los-peregrinos",
@@ -11822,6 +11978,7 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "fecha_autor": "tras el hundimiento del Titanic (1912)",
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -21159,10 +21316,78 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "Wikipedia: Guerra de los Treinta Años",
-      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Treinta_Años"
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Treinta_Años",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Guerra de los Treinta Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Treinta_A%C3%B1os",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La guerra de los Treinta Años (1618-1648) fue el gran conflicto europeo que empezó como una rebelión religiosa en Bohemia y acabó convertido en una guerra por la hegemonía entre los Habsburgo y Francia. Se suele dividir en fases: la revuelta bohemia y palatina (1618-1625), la intervención danesa (1625-1629), la fase italiana (1629-1631), la sueca (1630-1635) y la francesa (1635-1648).\n\nTerminó con la Paz de Westfalia, firmada en octubre de 1648, que rediseñó el mapa y el orden político de Europa. Se calcula que las tierras alemanas del Sacro Imperio perdieron alrededor del 40 % de su población: de 18-20 millones en 1600 a 11-13 millones en 1650."
+    },
+    {
+     "titulo": "Las causas: religión, Habsburgo y equilibrio",
+     "nivel": "hecho",
+     "texto": "La Paz de Augsburgo de 1555 había ordenado el Imperio con el principio cuius regio, eius religio: cada príncipe elegía entre luteranismo y catolicismo, y los calvinistas quedaban excluidos como herejes. El acuerdo contuvo la guerra religiosa sesenta años, pero no resolvió nada: los obispos no querían abandonar sus diócesis, el calvinismo se extendía por Alemania y la Contrarreforma avanzaba con los jesuitas como punta de lanza.\n\nA eso se sumaba la política de potencias. Los Habsburgo, divididos en rama española y austriaca, rodeaban Francia por todos lados; Francia, católica, se aliaría con los protestantes para romper el cerco. Suecia y Dinamarca se disputaban el dominio del Báltico, y España quería conservar el camino terrestre de Milán a Flandes. La tensión estalló primero en incidentes locales, como la conversión forzosa de Donauwörth (1607-1608), que llevó a la creación de la Unión Protestante (1608) y de la Liga Católica (1609)."
+    },
+    {
+     "titulo": "La defenestración de Praga",
+     "nivel": "hecho",
+     "texto": "El emperador Matías, viejo y sin hijos, había designado heredero a su primo Fernando de Estiria, educado por los jesuitas y decidido a recatolizar. La nobleza bohemia, mayoritariamente protestante, se sintió amenazada. En mayo de 1618, cuando dos gobernadores católicos y su secretario llegaron al castillo de Hradčany, los calvinistas los secuestraron y los arrojaron por una ventana: cayeron sobre un montón de estiércol y no murieron. Es la Tercera Defenestración de Praga, el punto de referencia del inicio de la guerra.\n\nEl conflicto se extendió a Bohemia, Silesia, Lusacia y Moravia, que formaron un gobierno provisional y ofrecieron la corona a Federico V del Palatinado, calvinista y yerno de Jaime I de Inglaterra. Fernando II se alió con Maximiliano I de Baviera y con España; los bohemios buscaron apoyo en la Unión Protestante, en Saboya, en Sajonia y hasta en el Imperio Otomano, que les dio caballería a cambio de un tributo."
+    },
+    {
+     "titulo": "La Montaña Blanca y la fase palatina",
+     "nivel": "hecho",
+     "texto": "El 8 de noviembre de 1620, el ejército de la Liga Católica al mando de Tilly derrotó a los protestantes en la Montaña Blanca, cerca de Praga, en una o dos horas. Federico V huyó a Silesia sin intentar defender la ciudad y abandonó definitivamente las tierras checas en diciembre. La rebelión se hundió.\n\nLas consecuencias fueron enormes: ejecuciones de los sublevados, confiscaciones masivas de propiedades y una recatolicización forzosa de Bohemia, que quedó en manos de los Habsburgo casi trescientos años y dependiente de Viena por la ordenanza territorial de 1627. El Palatinado renano pasó a nobles católicos y el título de elector al duque Maximiliano I; el Imperio sumó así un elector católico más. La guerra, que podía haber terminado en Bohemia, se extendió al oeste de Alemania por la debilidad de ambos bandos."
+    },
+    {
+     "titulo": "La fase danesa y el Edicto de Restitución",
+     "nivel": "hecho",
+     "texto": "La guerra se internacionalizó con la intervención del rey Cristián IV de Dinamarca, que entró en el Imperio en 1625 para apoyar a los protestantes y frenar a los Habsburgo en el norte. El emperador respondió con un ejército propio, financiado por un contratista militar: Albrecht von Wallenstein, que acumuló propiedades y poder a medida que ganaba batallas.\n\nLa intervención danesa terminó con la Paz de Lübeck (1629), favorable a Dinamarca. Ese mismo año el emperador publicó el Edicto de Restitución, que obligaba a devolver a la Iglesia católica los bienes secularizados desde 1552: era la medida más agresiva de la Contrarreforma en el Imperio y volvió a encender a los protestantes."
+    },
+    {
+     "titulo": "Wallenstein",
+     "nivel": "hecho",
+     "texto": "Wallenstein se convirtió en el hombre fuerte del emperador, pero su poder inquietaba a los príncipes y a la corte. Fernando II lo destituyó en 1630, y tuvo que llamarlo de nuevo cuando los suecos entraron en el Imperio y ganaron batallas.\n\nEn 1632 chocó con Gustavo Adolfo en Lützen: los suecos ganaron, pero el rey murió. En 1633 Wallenstein intentó arbitrar entre los bandos y el emperador lo interpretó como traición: le retiró el mando y mandó arrestarlo. Un grupo de mercenarios irlandeses al mando de Walter Butler lo asesinó el 25 de febrero de 1634 en Cheb. Su enorme propiedad fue confiscada y repartida."
+    },
+    {
+     "titulo": "La intervención sueca",
+     "nivel": "hecho",
+     "texto": "Gustavo II Adolfo de Suecia entró en el Imperio en 1630 para defender a los protestantes, pero también para asegurar la influencia sueca en el Báltico. Le subvencionaban Richelieu y las Provincias Unidas. En 1631 venció a Tilly en Breitenfeld, y en 1632 ocupó Múnich sin resistencia; Tilly murió en el Lech. Casi treinta mil escoceses sirvieron en el ejército sueco.\n\nLa suerte cambió con la muerte de Gustavo Adolfo en Lützen (1632) y, sobre todo, con la derrota sueca en Nördlingen (1634) frente a las fuerzas hispano-imperiales. Casi todos los estados protestantes rompieron con Suecia y firmaron la Paz de Praga (1635), que anuló el Edicto de Restitución, legalizó el calvinismo y unió los ejércitos alemanes al imperial. La guerra dejó de ser religiosa: Francia entró entonces abiertamente."
+    },
+    {
+     "titulo": "La intervención francesa",
+     "nivel": "hecho",
+     "texto": "Richelieu llevaba años financiando a los enemigos de los Habsburgo; en 1635 pasó a la guerra abierta: el 19 de mayo contra España y el 18 de septiembre contra el Imperio. El ejército francés pasó de 72 regimientos de infantería antes de la guerra a 202 en 1647, y de unos 130.000 hombres en 1635 a unos 100.000 en 1647, con oficiales inexpertos frente a los veteranos imperiales y suecos.\n\nEn 1648, el ejército del príncipe de Condé derrotó a los españoles en Lens, y las tropas suecas estaban a punto de tomar Praga. Esa presión militar fue la que empujó al emperador Fernando III a firmar la paz, que hasta entonces había resistido."
+    },
+    {
+     "titulo": "La Paz de Westfalia",
+     "nivel": "hecho",
+     "texto": "Las negociaciones duraron cuatro años y se repartieron por razones de precedencia y religión entre dos ciudades: en Osnabrück negociaron el Imperio, Suecia y los protestantes; en Münster, el Imperio, Francia y los católicos, además de la paz entre España y las Provincias Unidas. Asistieron 109 delegaciones, y no participaron Inglaterra, Polonia, el Imperio Otomano ni Rusia.\n\nEl acuerdo confirmó la Paz de Augsburgo con la fecha de 1624 como referencia para decidir la religión de cada territorio, reconoció al calvinismo, suprimió la reserva eclesiástica y dio a los príncipes el derecho de alianza con potencias extranjeras (ius foederationis). Francia ganó parte de Alsacia y obispados; Suecia, Pomerania occidental, Wismar y Bremen; Brandeburgo se expandió; Baviera conservó el Alto Palatinado y un nuevo electorado; Suiza y las Provincias Unidas fueron reconocidas como independientes. El Imperio salió vaciado: el emperador perdió poder real y los estados ganaron soberanía de hecho."
+    },
+    {
+     "titulo": "Las consecuencias humanas",
+     "nivel": "hecho",
+     "texto": "La devastación fue enorme y su magnitud sigue discutiéndose. Los historiadores modernos coinciden en una caída de población de alrededor del 40 % en las tierras alemanas del Imperio, y en que no se recuperaron los niveles de 1600 hasta 1750. Renania perdió dos tercios de su población; Bohemia, un tercio, y el 20 % de las haciendas de Bohemia y el 22 % de Moravia quedaron desiertas.\n\nLa mayoría de las muertes no fue en combate: un 3 % de las muertes civiles se debió a acciones militares, frente a un 64 % por la peste bubónica, un 12 % por hambruna, un 4 % por tifus y un 2 % por disentería. Las epidemias viajaron con los ejércitos y con los refugiados. La economía alemana colapsó por la inflación de 1619-1623 y las ciudades de la Liga Hanseática y del sur entraron en recesión; Hamburgo, en cambio, se quedó con buena parte del comercio de Alemania central."
+    },
+    {
+     "titulo": "El nuevo orden y quién ganó",
+     "nivel": "hecho",
+     "texto": "Westfalia se considera el punto de partida del sistema internacional moderno: la soberanía del Estado, la no injerencia y el equilibrio de poder sustituyeron a la idea medieval de una república cristiana. El Papa Inocencio X la denunció, y algunos exiliados protestantes la consideraron una traición, porque aceptaba el catolicismo como religión dominante en Bohemia y Austria.\n\nFrancia fue la gran ganadora: se confirmó como potencia dominante y mantuvo su representante en la dieta imperial. España salió debilitada y reconoció la independencia de las Provincias Unidas; Portugal se independizó de la Monarquía Hispánica. Suecia ganó territorios, pero efímeros, porque siguieron dentro del Imperio. Dinamarca perdió su condición de gran potencia. Alemania quedó fragmentada en más de trescientos estados con soberanía de hecho, sin acceso al mar salvo Bremen y Hamburgo, y su unificación se retrasó hasta el siglo XIX. Los Habsburgo conservaron sus tierras hereditarias, reforzaron el absolutismo y ganaron un bloque coherente en el Danubio."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el balance humano: las cifras van del 20 % al 40 % de pérdida de población en Alemania, y algunos autores hablan de hasta cinco millones de muertos. También se discute si la guerra fue una «crisis general del siglo XVII» o un episodio más de una crisis europea más amplia, y cuánto pesó la religión frente a la razón de Estado en cada fase.\n\nPara seguir el dinero y el poder harían falta los papeles de los contratistas militares (Wallenstein es el caso), las cuentas de los subsidios franceses a Suecia y a los príncipes alemanes, y las actas completas de las negociaciones de Münster y Osnabrück, que esta ficha resume de segunda mano. No se han leído las secciones del artículo sobre la fase italiana, la guerra en la península ibérica ni la guerra fuera de Europa."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
