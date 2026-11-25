@@ -7338,7 +7338,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida. Herodes el Grande murió en 4 a. C., por lo que el censo de Quirinio (6 d. C., según Flavio Josefo) no cuadra con él. Las fechas de los censos de Augusto de 28 a. C., 8 a. C. y 14 d. C. no se han vuelto a comprobar.",
+    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida. Herodes el Grande murió en 4 a. C., por lo que el censo de Quirinio (6 d. C., según Flavio Josefo) no cuadra con él. Los tres censos de Augusto constan en las Res Gestae: 28 a. C. (4.063.000 ciudadanos, con Agripa), 8 a. C. (4.233.000, él solo) y 14 d. C. (4.937.000 en la mayoría de ediciones, con Tiberio); son cifras que da el propio Augusto, y no se sabe a quién cuentan exactamente.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Censo de Quirinio",
@@ -7349,6 +7349,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Publio Sulpicio Quirinio (cónsul 12 a. C.)",
       "url": "https://es.wikipedia.org/wiki/Publio_Sulpicio_Quirinio_(cónsul_12_a._C.)",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Res Gestae divi Augusti (Fordham)",
+      "url": "https://sourcebooks.web.fordham.edu/ancient/14resgestae.asp",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -7530,7 +7535,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera.",
+    "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera. Una inscripción taurobólica de Roma, la más antigua conocida, es del año 295 (CIL VI 505); las dedicatorias del santuario vaticano se datan entre 305 y 390 y casi todas se hallaron en 1609 bajo la fachada de San Pedro; el emplazamiento exacto del Phrygianum se discute.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Cibeles",
@@ -7546,6 +7551,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Cybele",
       "url": "https://en.wikipedia.org/wiki/Cybele",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Taurobolium",
+      "url": "https://en.wikipedia.org/wiki/Taurobolium",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Journal of Roman Studies: Symmachus y los cultos orientales",
+      "url": "https://resolve.cambridge.org/core/journals/journal-of-roman-studies/article/abs/symmachus-and-the-oriental-cults/43586800A421B26411BA0C3BD0554781",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -9237,7 +9252,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1312, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Vienne se celebró en 1311-1312; el reconocimiento como ecuménicos de los concilios medievales de Occidente fue posterior.",
+    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1312, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Vienne se celebró en 1311-1312; el reconocimiento como ecuménicos de los concilios medievales de Occidente fue posterior. El edicto de Tesalónica es del 27-2-380 (Teodosio I con Graciano y Valentiniano II); el emperador convocó el primer concilio de Constantinopla (381) y Marciano el de Calcedonia (451).",
     "fuentes": [
      {
       "titulo": "Britannica: ecumenical council",
@@ -9258,6 +9273,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Ecumenical council",
       "url": "https://en.wikipedia.org/wiki/Ecumenical_council",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia: Edicto de Tesalónica",
+      "url": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Britannica: Concilio de Calcedonia",
+      "url": "https://britannica.com/event/Council-of-Chalcedon",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -23287,7 +23312,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano; se tiene a Félix III por su tatarabuelo, a través de Gordiano. Que ello implique continuidad de un poder oculto es tesis de Nocera.",
+    "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano; se tiene a Félix III por su tatarabuelo, a través de Gordiano. Que ello implique continuidad de un poder oculto es tesis de Nocera. Las fuentes consultadas coinciden en que Gregorio descendía de Félix III a través de su padre Gordiano, aunque difieren en cuántas generaciones los separan (tatarabuelo, bisabuelo o abuelo) y es una filiación tradicional, no documentada con firmeza. Ninguna menciona a Félix IV.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Gregorio I",
@@ -23303,6 +23328,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Felix III",
       "url": "https://en.wikipedia.org/wiki/Felix_III",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Britannica: Gregorio I",
+      "url": "https://www.britannica.com/biography/Saint-Gregory-I",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Félix III",
+      "url": "https://www.wikipedia.org/wiki/Felix_III",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -28645,7 +28680,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera.",
+    "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera. Británica sitúa la fundación de Montecassino en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orden de San Benito",
@@ -28656,6 +28691,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Monte Cassino",
       "url": "https://en.wikipedia.org/wiki/Monte_Cassino",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Britannica: Monte Cassino",
+      "url": "https://www.britannica.com/topic/Monte-Cassino",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Monte Cassino",
+      "url": "https://en.wikipedia.org/wiki/Monte_Cassino",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -37455,7 +37500,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña (Hartley y Oswald, por Jorge III) y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales, recomendación que los estados ignoraron. Que los títulos del rey signifiquen sumisión al Vaticano no forma parte de la versión académica.",
+    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña (Hartley y Oswald, por Jorge III) y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales, recomendación que los estados ignoraron. Que los títulos del rey signifiquen sumisión al Vaticano no forma parte de la versión académica. El preámbulo comienza invocando a la «Santísima e Indivisible Trinidad» (versión de los Archivos Nacionales y del Proyecto Avalon); el artículo 4 dice que los acreedores de ambos lados no encontrarán impedimento legal para cobrar en libras esterlinas las deudas legítimas anteriores a la guerra, y el 5 pide a los estados que recomienden devolver los bienes confiscados a los leales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Tratado de París (1783)",
@@ -37466,6 +37511,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Treaty of Paris (1783)",
       "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Archivos Nacionales de EE. UU.: Tratado de París",
+      "url": "https://www.archives.gov/milestone-documents/treaty-of-Paris",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Proyecto Avalon (Yale): Tratado de París",
+      "url": "https://avalon.law.yale.edu/18th_Century/paris.asp",
+      "consultado": "2026-11-25"
      }
     ]
    },
