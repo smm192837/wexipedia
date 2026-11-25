@@ -2803,10 +2803,63 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "Wikipedia: Atentados del 11 de septiembre de 2001",
-      "url": "https://es.wikipedia.org/wiki/Atentados_del_11_de_septiembre_de_2001"
+      "url": "https://es.wikipedia.org/wiki/Atentados_del_11_de_septiembre_de_2001",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "Los atentados del 11 de septiembre de 2001 fueron cuatro ataques terroristas suicidas yihadistas cometidos en Estados Unidos la mañana del martes 11 de septiembre de 2001. Cuatro aviones comerciales fueron secuestrados y estrellados: dos contra las Torres Gemelas del World Trade Center en Nueva York, uno contra el Pentágono y el cuarto en un campo de Pensilvania tras la resistencia de los pasajeros.\n\nMurieron 2.996 personas, hubo más de 25.000 heridos y los daños en infraestructuras y propiedades se estimaron en al menos 10.000 millones de dólares. Sigue siendo el ataque terrorista más mortífero de la historia. Lo reivindicó la red Al Qaeda, dirigida por Osama bin Laden."
+    },
+    {
+     "titulo": "Al Qaeda: de Afganistán a la fatwa",
+     "nivel": "hecho",
+     "texto": "Al Qaeda se fundó formalmente en 1989, pero sus orígenes están en la invasión soviética de Afganistán de 1979. Osama bin Laden, de una familia saudí adinerada, viajó allí como voluntario y organizó células de muyahidines árabes hasta la derrota soviética. Al terminar la guerra creó, con Aymán az Zawahirí, una base de datos de combatientes que se convirtió en la organización paramilitar Al Qaeda.\n\nEn 1996 bin Laden emitió su primera fatwa pidiendo a los soldados estadounidenses que abandonaran Arabia Saudita; en 1998 firmó otra que declaraba deber matar a estadounidenses y aliados, civiles y militares. Sus motivos declarados: el apoyo de Estados Unidos a Israel, la presencia de tropas en Arabia Saudita, las sanciones a Irak y la intervención en Somalia, Filipinas, Chechenia y Cachemira."
+    },
+    {
+     "titulo": "La mañana del 11-S",
+     "nivel": "hecho",
+     "texto": "Los cuatro aviones (dos de American Airlines y dos de United) volaban hacia California con los depósitos llenos, unos 91.000 litros de combustible. Los secuestradores tomaron el control con navajas y, según la Comisión, usaron aerosoles para retener a los pasajeros en primera clase; en tres aviones se amenazó con una bomba.\n\nEl vuelo 11 impactó en la Torre Norte a las 08:46:30 y el 175 en la Torre Sur a las 09:02:59, ante las cámaras de televisión. El 77 se estrelló contra el Pentágono a las 09:37:46. En el vuelo 93 los pasajeros, enterados de los otros choques, intentaron recuperar el control y el avión cayó en Shanksville a las 10:03:11. La Torre Sur se derrumbó a las 09:59, la Norte a las 10:28 y el edificio 7 del WTC a las 17:25. El espacio aéreo estadounidense se cerró por primera vez en su historia."
+    },
+    {
+     "titulo": "Las víctimas",
+     "nivel": "hecho",
+     "texto": "Murieron 2.996 personas: 265 en los cuatro aviones, ninguno de cuyos ocupantes sobrevivió; 2.606 en Nueva York, dentro de las Torres y en su base; y 125 en el Pentágono. Semanas después se hablaba de más de 6.000 muertos, más del doble de la cifra que finalmente se confirmó, y la ciudad solo pudo identificar restos de unas 1.600 víctimas.\n\nPocas horas después empezó una operación de rescate con más de 350 perros; solo se rescató con vida a 20 personas malheridas bajo los escombros. El desescombro completo no terminó hasta mayo de 2002. La nube de polvo y los escombros tóxicos —amianto, plomo, mercurio, dioxinas— enfermaron a los equipos de rescate y a los vecinos del Bajo Manhattan; 7.300 trabajadores de la zona cero reclamaron compensaciones."
+    },
+    {
+     "titulo": "Los perpetradores",
+     "nivel": "hecho",
+     "texto": "El FBI identificó a los 19 secuestradores en apenas 72 horas, en parte porque apenas ocultaron sus nombres y tarjetas de crédito y eran casi los únicos pasajeros de origen árabe en los vuelos. La célula de Hamburgo aportó a los operativos clave: Mohamed Atta, Marwan al-Shehhi, Ziad Jarrah, Ramzi bin al-Shibh y Said Bahaji.\n\nEl arquitecto de la operación fue Jalid Sheij Mohamed, que lo admitió ante Al Jazeera en 2002 y luego en Guantánamo, donde fue interrogado y torturado. Fue detenido en Rawalpindi el 1 de marzo de 2003. Solo figuras periféricas han sido juzgadas o condenadas: Moussaoui, cadena perpetua; Mounir el-Motassadeq, quince años en Alemania; Abu Dahdah, condenado en España y luego rebajada su pena."
+    },
+    {
+     "titulo": "La autoría y el debate",
+     "nivel": "hecho",
+     "texto": "Bin Laden negó su participación en las semanas siguientes, pero en una cinta recuperada en Jalalabad admitió conocer los ataques por anticipado, y en 2004 reconoció públicamente la autoría de Al Qaeda y dijo haber ordenado atacar el World Trade Center y el Pentágono. Murió el 1 de mayo de 2011 en Abbottabad (Pakistán), en una operación de las fuerzas especiales estadounidenses.\n\nLa Comisión Nacional sobre los Atentados Terroristas (Comisión del 11-S), presidida por Thomas Kean, se creó a finales de 2002 y publicó su informe el 22 de julio de 2004. Documentó los fallos de inteligencia y de coordinación previos. En paralelo circulan teorías conspirativas sobre la autoría y la respuesta del Estado, que la ficha no da por buenas."
+    },
+    {
+     "titulo": "La respuesta de Estados Unidos",
+     "nivel": "hecho",
+     "texto": "La aprobación de Bush subió al 86 %. El Congreso autorizó el uso de la fuerza militar, se creó el Departamento de Seguridad Nacional y se aprobó la Ley Patriótica (USA PATRIOT Act), que amplió la vigilancia y limitó derechos constitucionales, muy criticada por los defensores de las libertades civiles. Se registraron las huellas de 80.000 árabes y musulmanes, se entrevistó a 8.000 y se detuvo a 5.000 extranjeros.\n\nUn mes después, Estados Unidos invadió Afganistán con una coalición internacional, con el apoyo de Pakistán. En marzo de 2003 invadió Irak sin autorización de la ONU. Se abrió Guantánamo y se generalizó la «guerra contra el terrorismo», con detenciones, vuelos secretos y tortura documentada."
+    },
+    {
+     "titulo": "El dinero: los mercados y la cuenta de la guerra",
+     "nivel": "hecho",
+     "texto": "Los mercados no abrieron el 11 de septiembre y permanecieron cerrados hasta el 17, el mayor parón desde la Gran Depresión. Al reabrir, el Dow Jones cayó 684 puntos (7,1 %) y en la semana perdió 1.369,7 puntos (14,3 %), su mayor caída semanal. La Reserva Federal inyectó liquidez en horas. El 35 % del suelo de oficinas del Bajo Manhattan quedó destruido o dañado y el sector aéreo perdió un 20 % de su negocio; el Congreso le aprobó 15.000 millones de dólares.\n\nLas guerras de Afganistán e Irak costaron, según las estimaciones que recoge la fuente, entre 2 y 6 billones de dólares. La respuesta económica —bajadas de impuestos y de tipos, desregulación y expansión del crédito— se considera uno de los factores de la burbuja inmobiliaria de las hipotecas subprime que estalló en 2008. El 11-S es, en ese sentido, el punto de partida de la década que acabó en la crisis financiera."
+    },
+    {
+     "titulo": "El mundo que dejó",
+     "nivel": "hecho",
+     "texto": "Los atentados tuvieron ramificaciones globales y un efecto duradero en la vida cotidiana: controles, vigilancia y la consigna «si ves algo, di algo». También creció el odio contra las personas de origen árabe y contra los sijs, confundidos con musulmanes; el 15 de septiembre fue asesinado Balbir Singh Sodhi y al menos otras ocho personas sufrieron la misma suerte.\n\nLa guerra contra el terrorismo reordenó la política exterior de Estados Unidos y de sus aliados, incluida España, y dejó como saldo dos guerras largas, Guantánamo y un debate abierto sobre la seguridad y los derechos civiles. En el terreno económico, marcó el inicio de la década que terminó con la crisis de 2008."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el alcance exacto de la financiación de Al Qaeda antes del 11-S: la fuente no detalla quién pagó los vuelos, la estancia y la preparación de los secuestradores, ni el papel de las redes de recaudación. Tampoco está cerrado el debate sobre los fallos de inteligencia —qué se sabía y qué se pudo evitar—, ni el de las teorías conspirativas, que esta ficha no recoge como hechos.\n\nEl rastro del dinero hacia 2008 también merece más detalle: cuánto de la desregulación y de la política de tipos se decidió antes y cuánto después del 11-S, y qué papel tuvo el gasto de guerra en el déficit y en la burbuja. Son cuestiones que exigen series económicas y documentos oficiales que aquí no se han consultado."
+    }
+   ],
    "conexiones": [
     {
      "id": "world-trade-center",
@@ -5808,7 +5861,6 @@ window.CRONO = {
    "tipo": "hecho",
    "titulo": "Caída de Constantinopla en 1453 (conquista «otomana» = ataman)",
    "carril": "politica-economia",
-   "naturaleza": "conflictos-belicos",
    "temas": [],
    "fecha": {
     "desde": 1453
@@ -5832,14 +5884,6 @@ window.CRONO = {
      "contradice": []
     }
    ],
-   "citas": [],
-   "conexiones": [
-    {
-     "id": "gran-imperio-mongol-horda-rusa",
-     "nota": ""
-    }
-   ],
-   "estado": "aprobado",
    "oficial": {
     "resumen": "Constantinopla cayó el 29 de mayo de 1453 ante el sultán otomano Mehmed II tras un asedio de 53 días; terminó el Imperio bizantino y la ciudad pasó a ser capital otomana. Las fuentes consultadas no mencionan ni a Iván III ni a «atamanes eslavos», ni un origen cosaco del nombre «otomano», y tratan a Rusia y al Imperio otomano como estados distintos.",
     "fuentes": [
@@ -5852,9 +5896,75 @@ window.CRONO = {
       "titulo": "Britannica: Siege of Constantinople",
       "url": "https://www.britannica.com/event/Siege-of-Constantinople",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia: Caída de Constantinopla",
+      "url": "https://es.wikipedia.org/wiki/Ca%C3%ADda_de_Constantinopla",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La caída de Constantinopla es la toma de la capital del Imperio bizantino por el ejército otomano de Mehmed II el 29 de mayo de 1453, tras un asedio de unos dos meses. Terminó con el Imperio bizantino, que había durado más de mil años, y la ciudad pasó a ser la capital del Imperio otomano.\n\nNo fue un hecho aislado: la ciudad había resistido veintidós sitios a lo largo de su historia y ya había sido tomada por los cruzados en 1204. Lo decisivo en 1453 fue la artillería: por primera vez las murallas que habían frenado a persas, godos, hunos, ávaros, búlgaros y rusos cedieron ante los cañones."
+    },
+    {
+     "titulo": "Los antecedentes: de 1204 al Imperio otomano",
+     "nivel": "hecho",
+     "texto": "La decadencia bizantina se suele fechar en 1190, cuando Bizancio se mantuvo neutral ante la Tercera Cruzada. Con esa excusa y con la codicia por sus tesoros, los cruzados de la Cuarta Cruzada saquearon Constantinopla en 1204 y crearon el Imperio latino, que duró hasta 1261, cuando Miguel VIII Paleólogo reconquistó la ciudad desde el Imperio de Nicea. El saqueo dejó las arcas vacías para siempre.\n\nMientras tanto, en Anatolia los selyúcidas fueron ocupando territorio bizantino y de su fragmentación surgió el emirato de Osmán I, el núcleo del futuro Imperio otomano. En el siglo XIV los otomanos ya habían tomado Bursa, Nicea y Nicomedia, y Bizancio se convirtió en Estado vasallo que pagaba tributo y aportaba soldados. En 1351 los otomanos se quedaron con Galípoli, su base para expandirse por Europa."
+    },
+    {
+     "titulo": "Los sitios anteriores",
+     "nivel": "hecho",
+     "texto": "Constantinopla ya había estado a punto de caer. En 1391 Beyazid I la cercó por tierra durante siete meses, y en 1396 volvió a bloquearla durante seis años, hasta que en 1402 la invasión de Tamerlán obligó a los otomanos a marcharse. Los dos décadas siguientes la ciudad se libró del asedio, mientras los hijos de Beyazid se disputaban el trono.\n\nEn 1422 Murad II envió diez mil soldados contra la ciudad y el 24 de agosto ordenó un asalto a las murallas que fracasó. La lección de todos esos intentos era clara: mientras la ciudad recibiera suministros por mar, el asedio terrestre no bastaba. Mehmed II lo sabía y en 1453 preparó un bloqueo por los dos lados."
+    },
+    {
+     "titulo": "Los dos bandos y la artillería",
+     "nivel": "hecho",
+     "texto": "Constantino XI Paleólogo, emperador desde 1449, buscó apoyo en Occidente y promovió la unión de las iglesias, que provocó tumultos entre la población. Reunió a genoveses, venecianos y voluntarios: el genovés Giovanni Giustiniani Longo con setecientos hombres se encargó de la muralla oriental. Un censo reveló lo poco que había: unos 50.000 habitantes —frente al medio millón del siglo V— y apenas entre 5.000 y 7.000 soldados.\n\nMehmed II reunió unos 100.000 soldados, 80.000 de ellos profesionales, con 12.000 jenízaros y 15.000 cipayos, y al menos 125 navíos. Construyó la fortaleza de Rumeli Hisarı en el Bósforo para cortar el paso del mar Negro y contrató al ingeniero húngaro Orbón, que fundió un cañón de nueve metros que era arrastrado por cientos de bueyes a dos kilómetros por día. Prometió a sus hombres tres días de pillaje."
+    },
+    {
+     "titulo": "El asedio",
+     "nivel": "hecho",
+     "texto": "El sitio comenzó el 7 de abril de 1453 con el primer disparo del gran cañón contra el valle del río Lico, junto a la puerta de San Romano. La muralla, pensada para otra guerra, empezó a ceder en menos de una semana, y cada noche los bizantinos salían a repararla con sacos de arena y empalizadas. Los defensores lograron dos victorias: el 12 de abril rechazaron a la flota otomana en el Cuerno de Oro y el 18 rechazaron un ataque en el Lico.\n\nEl 20 de abril llegaron los navíos del Papa y uno con grano, y el almirante otomano Baltoghlu fue humillado. El 22 de abril Mehmed respondió con una maniobra decisiva: construir un camino de rodadura al norte de Pera y llevar sus barcos por tierra hasta el Cuerno de Oro, evitando la cadena de hierro que cerraba la entrada. Desde entonces la ciudad fue bombardeada por dos frentes. Los otomanos también abrieron minas, y los griegos contraminaron tres galerías."
+    },
+    {
+     "titulo": "El asalto final",
+     "nivel": "hecho",
+     "texto": "La moral bizantina se hundió con los malos presagios: un eclipse lunar la noche del 24 de mayo, la caída de un icono de la Virgen durante una procesión y una tormenta de lluvia y granizo. Los socorros prometidos por Venecia no llegaban y el dinero no alcanzaba para pagar el tributo de cien mil besantes de oro al año que ofrecía Mehmed.\n\nEl sultán ordenó descansar a sus tropas el 28 de mayo y lanzó el asalto total antes del amanecer del 29. Los mercenarios fueron rechazados durante dos horas por los hombres de Giustiniani, hasta que el gran cañón abrió una brecha. El emperador organizó una cadena humana para taparla y luego entraron los jenízaros. Giustiniani cayó herido y, al verlo retirarse, los genoveses abandonaron sus puestos; el emperador desapareció en la lucha y la ciudad cayó."
+    },
+    {
+     "titulo": "El saqueo y la ciudad otomana",
+     "nivel": "hecho",
+     "texto": "Las tropas otomanas saquearon la ciudad durante los tres días prometidos: hubo asesinatos, robos y miles de personas reducidas a esclavitud. Muchos habitantes se refugiaron en Santa Sofía, que fue tomada y sus refugiados capturados. Se dispersaron objetos religiosos, obras de arte y manuscritos.\n\nMehmed II entró por la tarde con sus generales y ordenó convertir Santa Sofía en mezquita. Los bizantinos pudieron quedarse bajo la autoridad de un nuevo patriarca, Gennadio II, designado por el propio sultán. Constantinopla pasó a ser capital del Imperio otomano y Mehmed se proclamó emperador romano (Kayzer-i Rum), con medidas para repoblar y reorganizar la ciudad."
+    },
+    {
+     "titulo": "Las consecuencias: el comercio y las rutas",
+     "nivel": "hecho",
+     "texto": "La caída conmocionó a Occidente y se habló de una nueva cruzada que nunca se organizó. Pero el efecto más profundo fue económico: con el Bósforo en manos musulmanas, el comercio entre Europa y Asia declinó de golpe. Los mercaderes cristianos perdieron el paso hacia la India y China, de donde venían las especias y los artículos de lujo.\n\nEso empujó a buscar rutas alternativas. Los portugueses bordearon África hasta la India con Vasco da Gama (1497-1498) y los Reyes Católicos financiaron a Colón, que en 1492 llegó a América buscando Asia por el oeste. Según Immanuel Wallerstein, de ahí salió el sistema mundial moderno. Los florentinos y los ragusanos, mientras tanto, fueron los primeros en pactar con el sultán: el interés comercial pesó más que la fe, y Venecia negoció con el turco a la vez que predicaba la cruzada."
+    },
+    {
+     "titulo": "Quién tenía el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "La ciudad cayó con las arcas vacías desde el saqueo de 1204 y sin poder pagar el tributo que le habría comprado el levantamiento del cerco. El Imperio otomano, en cambio, pudo sostener un ejército de cien mil hombres y pagar la fundición de cañones gigantes: la artillería era cara y solo un Estado con recursos podía permitírsela. La diferencia de 1453 no fue solo religiosa, fue también de capacidad fiscal y tecnológica.\n\nDespués de la conquista, el poder se reorganizó en torno a Estambul: el sultán se declaró heredero de Roma, repobló la ciudad y concedió privilegios comerciales a genoveses y florentinos. Europa, dividida, no pudo responder, y las ciudades mercantiles hicieron negocio con el vencedor."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el número exacto de defensores y de atacantes: la fuente da entre 5.000 y 7.000 soldados bizantinos y unos 100.000 otomanos, cifras que los historiadores discuten. También el papel real de la artillería frente a otros factores —la falta de socorro occidental, la división religiosa bizantina, la muerte o desaparición de Constantino XI—, y qué habría pasado si Venecia hubiera llegado a tiempo.\n\nEl rastro del dinero merece más detalle: cuánto costó el ejército otomano, quién financió la fundición de los cañones y qué términos tuvieron los primeros pactos comerciales de Florencia y Ragusa con el sultán. Son cuestiones de archivo que esta ficha no ha consultado."
+    }
+   ],
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "gran-imperio-mongol-horda-rusa",
+     "nota": ""
+    }
+   ],
+   "estado": "aprobado",
+   "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
   {
@@ -11524,7 +11634,7 @@ window.CRONO = {
     "texto": "2007–2009",
     "fuente": "oficial"
    },
-   "resumen": "La crisis que llevó a Rubén a investigar.",
+   "resumen": "La crisis financiera de 2007-2008 empezó con el estallido de la burbuja inmobiliaria de Estados Unidos y las hipotecas de alto riesgo, y se agravó con la quiebra de Lehman Brothers en septiembre de 2008. Provocó la Gran Recesión y después la crisis de la deuda europea.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -11544,14 +11654,57 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Crisis originada en las hipotecas de alto riesgo de EE. UU. y la quiebra de Lehman Brothers (septiembre de 2008). En 2009 el jefe de la ONU contra la droga, Antonio Maria Costa, dijo que dinero del narcotráfico había dado liquidez a algunos bancos, sin nombrarlos.",
+    "resumen": "La crisis financiera de 2007-2008 empezó con el estallido de la burbuja inmobiliaria de Estados Unidos y las hipotecas de alto riesgo, y se agravó con la quiebra de Lehman Brothers en septiembre de 2008. Provocó la Gran Recesión y después la crisis de la deuda europea. En 2009 el jefe de la ONU contra la droga, Antonio Maria Costa, dijo que dinero del narcotráfico había dado liquidez a algunos bancos, sin nombrarlos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Crisis financiera de 2008",
-      "url": "https://es.wikipedia.org/wiki/Crisis_financiera_de_2008"
+      "url": "https://es.wikipedia.org/wiki/Crisis_financiera_de_2008",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La crisis financiera de 2007-2008 fue la crisis que comenzó con el estallido de la burbuja inmobiliaria de Estados Unidos y la explosión de las hipotecas de alto riesgo (subprime), y se agravó hasta convertirse en una conmoción mundial con la quiebra del banco de inversión Lehman Brothers el 15 de septiembre de 2008. Su consecuencia fue la Gran Recesión, la recesión mundial más grave desde 1929.\n\nFue seguida por la crisis de la deuda europea, que empezó con el déficit de Grecia a finales de 2009, y por el colapso bancario de Islandia, que en relación con el tamaño de su economía fue el mayor sufrido por un país. Se considera una de las cinco peores crisis financieras de la historia."
+    },
+    {
+     "titulo": "Los inicios: la burbuja y las subprime",
+     "nivel": "hecho",
+     "texto": "La deuda hipotecaria de las viviendas estadounidenses pasó de un promedio del 46 % del PIB en los años noventa al 73 % en 2008, hasta 10,5 billones de dólares. Las refinanciaciones con retirada de efectivo, mientras subía el valor de las casas, alimentaron un consumo que se hundió cuando los precios dejaron de subir. Los bancos empaquetaron esas hipotecas en bonos y derivados que se vendían como seguros y rentables.\n\nLa crisis venía avisada: Raghuram Rajan la advirtió en 2005 en un homenaje a Alan Greenspan. Según George Soros, el golpe puede fijarse en agosto de 2007, cuando los bancos centrales tuvieron que intervenir para dar liquidez. El Banco Mundial resume la causa en una frase: las instituciones financieras tomaron un riesgo excesivo, aumentaron su apalancamiento, bajaron los estándares de préstamo y, apoyadas en calificaciones erróneas, invirtieron en instrumentos estructurados complejos."
+    },
+    {
+     "titulo": "De Bear Stearns a Lehman Brothers",
+     "nivel": "hecho",
+     "texto": "En marzo de 2008 Bear Stearns, que no mostraba signos claros de debilidad, fue liquidado en el mercado abierto y la Reserva Federal maniobró su rescate: terminó vendido a precio de saldo a JP Morgan Chase. En julio quebró IndyMac, la segunda mayor quiebra bancaria en dólares de la historia de Estados Unidos, y Fannie Mae y Freddie Mac, que reunían la mitad del mercado hipotecario, tuvieron que ser rescatadas.\n\nEl 15 de septiembre Lehman Brothers se declaró en bancarrota y Merrill Lynch fue comprada por Bank of America a mitad de su valor. La prensa y los políticos hablaron de «pánico financiero». En el Reino Unido, Northern Rock había pedido un préstamo de emergencia y sufrió una corrida de dos mil millones de libras antes de ser nacionalizado."
+    },
+    {
+     "titulo": "La extensión al mundo",
+     "nivel": "hecho",
+     "texto": "Las economías de todo el mundo se vieron afectadas por la falta de crédito. Los bancos dejaron de prestarse entre sí porque no sabían cuántos préstamos malos tenía cada uno. Varios gobiernos nacionalizaron bancos, como Islandia y Francia, y los bancos centrales de Estados Unidos, Canadá y parte de Europa coordinaron una bajada de tipos de medio punto.\n\nEl FMI estimó que los grandes bancos estadounidenses y europeos perdieron más de un billón de dólares en activos tóxicos y préstamos incobrables entre enero de 2007 y septiembre de 2009. En marzo de 2009 calculaba 10,1 billones de dólares de pérdidas para 2007-2010 en Europa, Estados Unidos y Japón, y 875.000 millones de capital nuevo necesario para los bancos. En 2010 la crisis se convirtió en crisis del euro: hubo rescates de Grecia, Irlanda y Portugal y del sistema bancario español."
+    },
+    {
+     "titulo": "Los rescates y la política monetaria",
+     "nivel": "hecho",
+     "texto": "Gobiernos y bancos centrales, incluidos la Reserva Federal, el Banco Central Europeo y el de Inglaterra, dieron billones de dólares en rescates y estímulos. Los bancos centrales actuaron como prestamistas de última instancia y, en el cuarto trimestre de 2008, compraron 2,5 billones de dólares en deuda pública y activos privados problemáticos; los gobiernos compraron además 1,5 billones en acciones preferentes de los principales bancos. Fue la mayor inyección de liquidez de la historia.\n\nEn julio de 2010 Estados Unidos aprobó la Ley Dodd-Frank de reforma de Wall Street y protección al consumidor, y se adoptaron en todo el mundo las normas de capital y liquidez de Basilea III. Los rescates fueron polémicos, por ejemplo por las primas de AIG. Alistair Darling, ministro británico de Hacienda, declaró en 2018 que el Reino Unido estuvo a pocas horas de un colapso del orden público el día que se rescató al Royal Bank of Scotland."
+    },
+    {
+     "titulo": "El coste: empleo, riqueza y responsabilidades",
+     "nivel": "hecho",
+     "texto": "En el cuarto trimestre de 2008 el PIB real de Estados Unidos cayó un 8,4 % intertrimestral. El desempleo llegó al 11,0 % en octubre de 2009, el más alto desde 1983 y el doble que antes de la crisis, y la semana laboral media bajó a 33 horas, el mínimo desde que hay datos (1964). La riqueza de los hogares estadounidenses pasó de 61,4 billones de dólares en el segundo trimestre de 2007 a 59,4 billones a finales del primer trimestre de 2009.\n\nLa crisis provocó una pérdida de más de dos billones de dólares en la economía mundial. En cuanto a las responsabilidades, 47 banqueros cumplieron condena en la cárcel, más de la mitad en Islandia; el ex primer ministro islandés Geir H. Haarde fue el único político condenado (2012); Kareem Serageldin, de Credit Suisse, fue el único banquero encarcelado en Estados Unidos; en el Reino Unido no fue condenada ninguna persona. Goldman Sachs pagó 550 millones de dólares para cerrar los cargos de fraude por vender inversiones tóxicas a sus clientes."
+    },
+    {
+     "titulo": "El dinero: quién pagó y quién cobró",
+     "nivel": "hecho",
+     "texto": "La crisis fue, en el fondo, un problema de deuda: hogares endeudados por la vivienda, bancos apalancados con productos derivados y un sistema que dependía de que los precios siguieran subiendo. Cuando cayeron, las pérdidas se socializaron: los estados y los bancos centrales pusieron billones de dólares públicos para salvar a las entidades, y algunos bancos usaron parte del estímulo para invertir en mercados emergentes y divisas en lugar de financiar préstamos nacionales.\n\nMientras tanto, China creó crédito para gastar en infraestructura, ayudó a estabilizar la economía global y salió de la crisis con más confianza en que el equilibrio de poder mundial se movía a su favor. La recuperación lenta tardó diez años en notarse y llegó justo cuando la pandemia de 2020 provocó una segunda crisis global."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el reparto exacto de responsabilidades entre bancos, reguladores, agencias de calificación y gobiernos, y cuánto de la crisis se debió al apalancamiento y cuánto a la política de tipos bajos. También el detalle de los rescates: a quién se rescató, con qué condiciones y cuánto se recuperó, que esta ficha resume con cifras globales.\n\nEl dinero negro es la pieza que esta ficha deja apuntada pero no resuelta: el informe de la ONU contra la droga de 2009 sostiene que dinero del narcotráfico dio liquidez a algunos bancos, sin nombrarlos. Comprobarlo exigiría los documentos de la investigación y las cifras de la DEA y de la ONUDD, que aquí no se han consultado."
+    }
+   ],
    "conexiones": [],
    "estado": "borrador",
    "naturaleza": "banca",
@@ -39232,7 +39385,7 @@ window.CRONO = {
     "texto": "s. X a.C. (según la tradición)",
     "fuente": "oficial"
    },
-   "resumen": "Según la Biblia, lo construyó Salomón en Jerusalén hacia el siglo X a.C.; fue destruido por Babilonia en 587/586 a.C. No hay restos arqueológicos identificados con seguridad.",
+   "resumen": "El templo de Salomón es el santuario que la tradición bíblica sitúa en Jerusalén, mandado construir por Salomón hacia el siglo X a.C. y destruido por Babilonia en 587/586 a.C. No hay restos arqueológicos identificados con seguridad; algunos grupos judíos aspiran a levantar un tercero.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -39260,7 +39413,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Según la Biblia, lo construyó Salomón en Jerusalén hacia el siglo X a.C.; fue destruido por Babilonia en 587/586 a.C. No hay restos arqueológicos identificados con seguridad. Algunos grupos judíos aspiran a construir un tercer templo.",
+    "resumen": "El templo de Salomón es el santuario que la tradición bíblica sitúa en Jerusalén, mandado construir por Salomón hacia el siglo X a.C. y destruido por Babilonia en 587/586 a.C. No hay restos arqueológicos identificados con seguridad; algunos grupos judíos aspiran a levantar un tercero.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Templo de Salomón",
@@ -73606,7 +73759,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Los autores anteriores a Fomenko que ya criticaron la cronología convencional, como Isaac Newton en 1728, y un supuesto precursor del siglo XVI que la ficha no encuentra.",
+   "resumen": "Los precursores de la crítica a la cronología convencional son los autores anteriores a Fomenko que ya cuestionaron la cronología aceptada, como Isaac Newton (1728) o Jean Hardouin (1646-1729). La historiografía académica rechaza la «nueva cronología» de Fomenko como pseudociencia.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -73674,7 +73827,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: los autores anteriores a Fomenko que ya criticaron la cronología convencional, como Isaac Newton en 1728, y un supuesto precursor del siglo XVI que la ficha no encuentra. La crítica radical a la cronología convencional tiene precedentes documentados en los siglos XVII y XVIII: Isaac Newton, en The Chronology of Ancient Kingdoms Amended (1728), acortó las cronologías antiguas, y el jesuita Jean Hardouin (1646-1729) sostuvo que casi todos los textos clásicos eran falsificaciones medievales. En los siglos XIX y XX continuaron esa línea Edwin Johnson, Nikolái Morózov y, ya en la actualidad, Anatoli Foménko, cuya «nueva cronología» reduce la historia antigua a un duplicado de la medieval y es rechazada por la historiografía académica como pseudociencia. La atribución de una crítica semejante a un profesor salmantino del siglo XVI llamado Alonso de Ercilla no tiene respaldo documental: el Ercilla conocido es el poeta de La Araucana.",
+    "resumen": "Los precursores de la crítica a la cronología convencional son los autores anteriores a Fomenko que ya cuestionaron la cronología aceptada: Isaac Newton, en The Chronology of Ancient Kingdoms Amended (1728), acortó las cronologías antiguas, y el jesuita Jean Hardouin (1646-1729) sostuvo que casi todos los textos clásicos eran falsificaciones medievales. En los siglos XIX y XX continuaron esa línea Edwin Johnson y Nikolái Morózov; ya en la actualidad, Anatoli Foménko, cuya «nueva cronología» reduce la historia antigua a un duplicado de la medieval y es rechazada por la historiografía académica como pseudociencia. La atribución de una crítica semejante a un profesor salmantino del siglo XVI llamado Alonso de Ercilla no tiene respaldo documental: el Ercilla conocido es el poeta de La Araucana.",
     "fuentes": [
      {
       "titulo": "New Chronology (Fomenko) - Wikipedia",
@@ -73871,7 +74024,7 @@ window.CRONO = {
     "hasta": 2001,
     "fuente": "oficial"
    },
-   "resumen": "Obras de 1968 a 2001 que, para el autor, anunciaron el 11S con las torres gemelas o ataques con aviones.",
+   "resumen": "La «programación predictiva» es la teoría de la conspiración según la cual el cine y la televisión condicionan al público y anuncian sucesos planeados; se aplica a obras de 1968 a 2001 que, según esa lectura, anticiparon el 11-S. No tiene respaldo académico: los parecidos se explican por la coincidencia y por la selección retrospectiva de los casos que encajan.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -73899,7 +74052,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la teoría de que el cine y la televisión condicionan al público anunciando sucesos futuros; un autor la aplica a obras de 1968 a 2001 que habrían anunciado el 11S. La «programación predictiva» es una teoría de la conspiración, formulada por Alan Watt y difundida por autores como Alex Jones o David Icke, que sostiene que el cine y la televisión condicionan al público para aceptar acontecimientos planeados de antemano. No tiene respaldo académico: los parecidos que se le atribuyen con el 11S (el carné de Neo, el piloto de «The Lone Gunmen» o episodios de «Los Simpson») se explican por la coincidencia y por la selección retrospectiva de los casos que encajan.",
+    "resumen": "La «programación predictiva» es una teoría de la conspiración, formulada por Alan Watt y difundida por autores como Alex Jones o David Icke, que sostiene que el cine y la televisión condicionan al público para aceptar acontecimientos planeados de antemano; un autor la aplica a obras de 1968 a 2001 que habrían anunciado el 11-S. No tiene respaldo académico: los parecidos que se le atribuyen (el carné de Neo, el piloto de «The Lone Gunmen» o episodios de «Los Simpson») se explican por la coincidencia y por la selección retrospectiva de los casos que encajan.",
     "fuentes": [
      {
       "titulo": "Conspiracy Theorists Think A24's 'Civil War' Is Actually 'Programming' Americans For Civil War (Vice)",
