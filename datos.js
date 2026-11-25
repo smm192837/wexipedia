@@ -12004,12 +12004,22 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En Juan 18:3 la palabra speira se traduce como «cohorte»; su tamaño nominal era de unos 600 hombres, pero el término se usaba también de forma laxa para destacamentos menores. La interpretación política de Nocera no forma parte de la versión académica. Pendiente de contrastar. Delicado: tema religioso.",
+    "resumen": "En Juan 18:3 la palabra speira se traduce como «cohorte»; su tamaño nominal era de unos 600 hombres, pero el término se usaba también de forma laxa para destacamentos menores. La interpretación política de Nocera no forma parte de la versión académica. Los comentarios consultados leen speira como cohorte romana al mando de un tribuno (quiliarca, Juan 18:12), de unos 400-600 hombres en teoría; algunos autores piensan que aquí designa un destacamento menor, y otros, como Weymouth, que eran guardias del Templo. El tamaño real sigue sin saberse. Delicado: tema religioso.",
     "fuentes": [
      {
       "titulo": "Biblia: Juan 18",
       "url": "https://www.bibliatodo.com/la-biblia/Juan-18",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Comentario IVP: Jesús es arrestado (Juan 18:1-11)",
+      "url": "https://www.biblegateway.com/resources/ivp-nt/Jesus-Is-Arrested",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Biblehub: speira (Strong 4686)",
+      "url": "https://biblehub.com/greek/4686.htm",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -32887,7 +32897,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU.",
+    "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU. El libro fue la edición «Processus contra Templarios» de Scrinium (799 ejemplares, octubre de 2007); según los informes, Clemente V absolvió a los dirigentes de herejía, pero los halló culpables de otras faltas y ordenó disolver la orden. El pergamino lo halló Barbara Frale en 2001 en los Archivos Vaticanos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pergamino de Chinon",
@@ -32898,6 +32908,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Chinon Parchment",
       "url": "https://en.wikipedia.org/wiki/Chinon_Parchment",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia: Pergamino de Chinon",
+      "url": "https://en.wikipedia.org/wiki/Chinon_Parchment",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "NBC News: Long-lost text lifts cloud from Knights Templar",
+      "url": "https://www.nbcnews.com/id/wbna21267691",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -36949,7 +36969,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. La cadena posterior hasta la Corona española no se ha comprobado.",
+    "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. En líneas generales la cadena consta en fuentes secundarias: los Anjou de Nápoles y los Lusignan de Chipre mantuvieron pretensiones rivales; cuando los Anjou se extinguieron (1434) ganó Alfonso de Aragón, y en 1506 Fernando recuperó Nápoles con la pretensión, que hoy conserva Felipe VI. Una fuente sitúa la cesión de María en 1269 y la confirmación del papa en 1277.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Título de rey de Jerusalén",
@@ -36960,6 +36980,16 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Reino de Jerusalén",
       "url": "https://es.wikipedia.org/wiki/Reino_de_Jerusalén",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia: Rey de Jerusalén",
+      "url": "https://en.wikipedia.com/wiki/King_of_Jerusalem",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: María de Antioquía (pretendiente)",
+      "url": "https://en.wikipedia.org/wiki/Maria_of_Antioch_(pretender)",
+      "consultado": "2026-11-25"
      }
     ]
    },
