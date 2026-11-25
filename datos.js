@@ -1274,6 +1274,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "La Admonitio generalis es un capitular, una colección de legislación, emitido por Carlomagno en 789 sobre la reforma educativa y eclesiástica del reino franco. Los capitulares fueron un instrumento de gobierno frecuente en la dinastía carolingia sobre muchos temas, ordenados en capítulos, y la Admonitio es solo uno de los muchos de Carlomagno que expresaban su deseo de un reino franco cristiano bien gobernado y disciplinado. Refleja el renacimiento cultural carolingio."
+    },
+    {
+     "titulo": "Qué buscaba y qué decía",
+     "nivel": "hecho",
+     "texto": "Cuando llegó al poder, Carlomagno tenía dos objetivos: la expansión territorial y la conversión de todos los francos, incluidos los recién incorporados, y para él ambas eran inseparables, de modo que la conquista fue un método frecuente. La fuente pide leer la Admonitio en ese contexto, incluido el contraste con el Islam en España. Carlomagno se veía como campeón de la ortodoxia y en el texto se declaró «nuevo Josías», responsable de la salud moral y la salvación de sus súbditos. Para ello quiso reformar la Iglesia y la disciplina del clero, que debía guiar con el ejemplo. Ordenó que monasterios y catedrales fundaran escuelas para enseñar a leer y escribir y facilitar así el acceso a la Biblia y a otros textos religiosos, con música sacra, canto, salmos y gramática. Para redactar sus 82 capítulos consultó a consejeros clericales y a decisiones de concilios anteriores, como la colección de derecho canónico Dionysio-Hadriana. Los capítulos fijaban el comportamiento y las responsabilidades de todos los miembros de la sociedad, el conocimiento básico exigido a los cristianos, normas de pesos y medidas y el uso de la liturgia y los cantos romanos."
+    },
+    {
+     "titulo": "Cómo se difundió",
+     "nivel": "hecho",
+     "texto": "Los capitulares se enviaban a los *missi dominici*, los funcionarios que supervisaban la administración de distintas partes del reino, para su aplicación local. Los missi compilaban libros con partes de distintos capitulares y otros textos que consideraban útiles. La amplia difusión de la Admonitio se rastrea en los muchos manuscritos conservados de esos libros, hallados en todo el reino franco y ya a finales del siglo VIII. Su recepción se ve también en el renacimiento carolingio: el artículo habla de su influencia en la educación, el culto y la moral."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. La fuente es un artículo breve centrado en la recepción en manuscritos; no he leído el texto de los 82 capítulos. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué parte de las escuelas se creó realmente y con qué recursos, y qué privilegios y rentas recibió la Iglesia a cambio de la reforma. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -4060,6 +4082,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "De la conquista de 797 a la rendición de 801",
+     "nivel": "hecho",
+     "texto": "Barcelona era la ciudad principal de la región. En 797 cayó ante los francos cuando su gobernador Zeid se rebeló contra Córdoba y, tras fracasar, la entregó a Carlomagno. Las autoridades omeyas la reconquistaron en 799 y entonces Luis, hijo de Carlomagno, marchó con todo su ejército, cruzó los Pirineos y asedió la ciudad durante dos años, pasando allí el invierno de 800 a 801, hasta su rendición. La fuente se contradice en un punto: la sección sobre los hijos de Carlomagno dice que Luis tomó Barcelona «tras un importante asedio en 797»; el resto del artículo, que es el que sigue esta ficha, fecha la toma en 801."
+    },
+    {
+     "titulo": "La Marca Hispánica y el avance posterior",
+     "nivel": "hecho",
+     "texto": "Desde 785 Luis, encargado de la frontera, tomó Gerona de forma permanente y extendió el control franco al litoral catalán; hacia 795 se agruparon Gerona, Cerdaña, Osona y Urgel en la nueva Marca Hispánica, dentro del antiguo ducado de Septimania. Tras Barcelona, los francos ocuparon Tarragona (809) y Tortosa (811), que les llevó a la desembocadura del Ebro y abrió el camino hacia Valencia, y el emir Alhakén I reconoció esas conquistas en 812. El control franco del litoral catalán siguió siendo nominalmente franco hasta el Tratado de Corbeil en 1258."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. No he contrastado el año de la toma con una fuente catalana específica; la fuente cae en la contradicción 797/801 indicada. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué tributos o botín obtuvieron los francos en la Marca y cómo influyó el control del comercio y de los pasos pirenaicos. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -6026,6 +6065,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La invitación de los gobernantes musulmanes",
+     "nivel": "hecho",
+     "texto": "Según el historiador musulmán Ibn al-Athir, la Dieta de Paderborn de 777 recibió a representantes de los gobernantes musulmanes de Zaragoza, Gerona, Barcelona y Huesca, acorralados por Abderramán I, emir de Córdoba, que ofrecieron homenaje a Carlomagno a cambio de ayuda militar. El rey vio la oportunidad de extender la cristiandad y su propio poder, y creyendo sometidos a los sajones, aceptó."
+    },
+    {
+     "titulo": "La campaña y el desastre de Roncesvalles",
+     "nivel": "hecho",
+     "texto": "En 778 dirigió el ejército de Neustria por los Pirineos occidentales, mientras austrasios, lombardos y burgundios cruzaban los orientales, y se reunieron en Zaragoza, donde recibieron el homenaje de Sulayman al-Arabí y Kasmin ibn Yusuf. Pero Zaragoza no cayó con la rapidez prevista: Carlomagno se enfrentó a la batalla más difícil de su carrera y, temiendo la derrota, decidió retirarse. No se fiaba ni de los musulmanes ni de los vascones, con quienes había chocado en la toma de Pamplona. Cuando volvía por el paso de Roncesvalles, los vascones cayeron sobre su retaguardia y los carros de carga y la destruyeron. Murieron el senescal Eggihard, el conde del palacio Anselmo y Roldán, prefecto de la Marca de Bretaña, que inspiraría después el *Cantar de Roldán*. Una leyenda toledana, más antigua, de los amores de Carlomagno con la princesa Galiana dio el argumento a un poema francés del siglo XII, *Mainet*, que según Menéndez Pidal se escribió en Toledo."
+    },
+    {
+     "titulo": "Lo que vino después en la frontera ibérica",
+     "nivel": "hecho",
+     "texto": "La lucha contra los musulmanes continuó durante toda la segunda mitad del reinado. En 785 las tropas de su hijo Luis tomaron Gerona de forma permanente; hacia 795 se agruparon Gerona, Cerdaña, Osona y Urgel en la Marca Hispánica; en 797 Barcelona cayó ante los francos y, tras la reconquista musulmana de 799, fue recuperada en 801 (véase su ficha). Los francos ocuparon Tarragona (809) y Tortosa (811), y en 812 el emir Alhakén I reconoció sus conquistas. El control franco del litoral catalán siguió siendo nominalmente franco hasta el Tratado de Corbeil de 1258. Carlomagno conquistó además Córcega, Cerdeña (en fechas desconocidas) y las Baleares (799), que defendió con una flota del conde de Génova y Toscana, y mantuvo contacto con el califa de Bagdad, Harún al-Rashid, que le regaló un elefante, Abul-Abbas, y un reloj; la fuente atribuye ese acercamiento a la enemistad común contra los bizantinos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. La fuente refleja sobre todo la versión franca y la de un cronista musulmán tardío; no recoge las fuentes vasconas. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién financiaba el ejército de 778 y qué ganaba cada aliado musulmán, y qué parte tuvo la riqueza de los vascones y de Pamplona en el desenlace. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -6108,6 +6169,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La libra carolingia",
+     "nivel": "hecho",
+     "texto": "Siguiendo las reformas de su padre, Carlomagno abolió el sistema monetario basado en el sou de oro y, con el rey anglosajón Offa de Mercia, impulsó el sistema de plata que Pipino había iniciado. La fuente da razones pragmáticas: la escasez de oro tras el tratado de paz con Bizancio (cesión de Venecia y Sicilia) y el fin de las relaciones comerciales con África y Oriente. Nació la libra carolingia, basada en una libra de plata, unidad monetaria y de peso, igual a 20 sous (solidus) o 240 deniers (denarius). La libra y el sou eran solo unidades de cuenta; el único real acuñado era el denario. El sistema de Offa se adoptó voluntariamente en Inglaterra. Tras la muerte del monarca la moneda europea se degradó, y buena parte de Europa pasó a usar la moneda británica hasta hacia 1100."
+    },
+    {
+     "titulo": "Control del reino: contabilidad, condes y «missi dominici»",
+     "nivel": "hecho",
+     "texto": "El *capitulare de villis* (802) estableció normas para registrar todos los ingresos y gastos públicos, y con él la fuente fecha los principios de la contabilidad. Para ganar control sobre el reino, Carlomagno limitó el poder de los condes: debían servir fuera de sus propiedades familiares, se los trasladaba periódicamente en lugar de residir de por vida en un solo condado y los cargos pasaron a ser por nombramiento, para evitar que los hijos, a menudo ineficaces, los heredaran. Instauró los *missi dominici*, dos enviados (uno laico y otro eclesiástico) a cada región para vigilar la ejecución de sus órdenes. La fuente advierte, citando a Spielvogel, que no hay que imaginar un gobierno eficiente: los funcionarios recorrían grandes distancias a caballo y la cohesión del imperio dependía de la lealtad personal al rey, a menudo infundida por el miedo a su fuerza militar."
+    },
+    {
+     "titulo": "Usura, judíos y precios",
+     "nivel": "hecho",
+     "texto": "Se prohibió la usura, y en 814 el Capitulare de los judíos prohibió a los judíos prestar dinero, según la fuente. Hubo también un importante número de medidas microeconómicas, como el control directo de precios y gravámenes especiales sobre ciertos bienes básicos. La fuente atribuye a este sistema la base del futuro económico europeo y la aplica a gran parte del continente."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. La fuente es sintética, no cita las ordenanzas originales y no explica qué pasó con las tierras reales administradas por el *capitulare de villis*. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién acuñaba y quién se beneficiaba de la libra de plata, qué papel tuvieron los prestamistas tras la prohibición de la usura y cómo se financió el ejército en un sistema sin oro ni ejército permanente. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -6208,6 +6291,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Quién era y cómo accedió al trono",
+     "nivel": "hecho",
+     "texto": "Carlomagno fue el primogénito de Pipino el Breve (rey desde 751 y muerto el 24 de septiembre de 768) y de Bertrada de Laon. Casi todo lo que se sabe de su vida procede de su biógrafo Eginardo y de su *Vita Karoli Magni*. Tras morir su padre, según la tradición franca, el reino se dividió entre él y su hermano Carlomán: Carlos recibió las regiones exteriores y costeras (Neustria, el oeste de Aquitania y el norte de Austrasia) y Carlomán las interiores (sur de Austrasia, Septimania, este de Aquitania, Borgoña, Provenza y Suabia, junto a Italia). El 9 de octubre, tras el funeral, los dos hermanos fueron coronados por los nobles y ungidos por los obispos: Carlos en Noyon y Carlomán en Soissons."
+    },
+    {
+     "titulo": "El reinado compartido (768-771)",
+     "nivel": "hecho",
+     "texto": "El primer acontecimiento fue el levantamiento de aquitanos y gascones en 769. Carlomán se negó a participar y volvió a Borgoña, y Carlos marchó hacia Burdeos, estableció campamento en Fronsac y obtuvo la entrega del cabecilla Hunaldo por el duque de Gascuña, Lupo II; los francos sometieron Aquitania por completo. Con su madre mediando, los hermanos mantuvieron una relación tibia. En 770 Carlos firmó un tratado con el duque Tasilón III de Baviera y se casó con una hija del rey lombardo Desiderio (hoy llamada Desiderata) para rodear a su hermano de aliados, pese a la oposición inicial del papa Esteban III. Un año después la repudió y se casó con Hildegarda, una sueva de trece años; Desiderio, furioso, habría pactado con Carlomán, pero este murió el 5 de diciembre de 771 y su viuda Gerberga huyó con sus hijos a la corte lombarda. Carlos quedó como único rey."
+    },
+    {
+     "titulo": "Carlos y sus hijos",
+     "nivel": "hecho",
+     "texto": "Durante el primer periodo de paz (780-782) Carlos nombró reyes subordinados a sus hijos menores, ungidos por el papa en 781: Carlomán tomó la Corona de Hierro y el nombre de Pipino como rey de Italia, y Luis fue rey de Aquitania. Los criaron en las costumbres de sus reinos, pero el poder siguió en manos de su padre; en 792 desterró a Pipino el Jorobado por una revuelta. Con sus hijas hizo algo muy discutido: las mantuvo en casa y no les permitió casarse, probablemente para evitar ramas rivales, como la de Tasilón de Baviera, aunque toleró sus relaciones y honró a los hijos que tuvieron; Luis las desterró a conventos al morir su padre."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. No he leído las secciones del artículo sobre su nacimiento, nombres, aspecto o familia ni los matrimonios y concubinatos. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo se repartieron entre la nobleza franca las tierras y el botín de las conquistas, y qué peso tenían en la elección de Carlos las familias aristocráticas y la Iglesia. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -10035,6 +10140,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las causas: el papa, los lombardos y el tratado de Quiercy",
+     "nivel": "hecho",
+     "texto": "Desiderata, hija del rey lombardo Desiderio, fue repudiada por Carlomagno hacia 771 y su padre quedó enemistado con él. En 772, el nuevo papa Adriano I reclamó que se le devolviera el control de ciudades del antiguo Exarcado de Rávena, a cambio de un acuerdo sobre la sucesión de Desiderio. Pero este tomó algunas ciudades pontificias e invadió la Pentápolis en dirección a Roma. En otoño Adriano envió una delegación a Carlomagno pidiéndole que cumpliera la política de su padre Pipino; Desiderio envió otra negándolo. Ambas se reunieron en Thionville, donde el rey franco manifestó su apoyo al papado. Adriano le recordó también la promesa hecha en Quiercy."
+    },
+    {
+     "titulo": "La campaña y la toma de Pavía (773-774)",
+     "nivel": "hecho",
+     "texto": "Carlomagno y su tío Bernardo cruzaron los Alpes en 773 y persiguieron a los lombardos hasta sitiarlos en Pavía. Abandonó el cerco un tiempo para enfrentarse a Adelgis, hijo de Desiderio, que armaba un ejército en Verona, y lo persiguió hasta el Adriático; Adelgis huyó a Constantinopla, donde pidió ayuda a Constantino V. El asedio de Pavía duró hasta la primavera de 774. El 2 de abril Carlomagno visitó al papa en Roma y confirmó las cesiones de territorios que su padre había estipulado (ciertas crónicas posteriores, de dudosa veracidad, afirman que las amplió). Adriano le concedió el título de patricio de los romanos, que ya había tenido su padre. A comienzos del verano los lombardos se rindieron a cambio de sus vidas. Desiderio fue enviado a la abadía de Corbie y su hijo murió en Constantinopla como patricio. Carlomagno se ciñó la Corona de Hierro y los señores lombardos, salvo Arechis II, que proclamó la independencia de sus territorios, le rindieron homenaje en Pavía. Se convirtió en el señor más poderoso de Italia y dejó en Pavía una guarnición reforzada cada año."
+    },
+    {
+     "titulo": "Después de la conquista",
+     "nivel": "hecho",
+     "texto": "Los territorios italianos siguieron inestables: en 776 se rebelaron los duques Rodgaudo de Friuli e Hildeprando de Spoleto, y Carlomagno acudió a toda prisa desde Sajonia; venció a Rodgaudo, que murió en la batalla, e Hildeprando firmó la paz, con lo que el norte de Italia quedó pacificado. En 781 nombró a su hijo Carlomán, rebautizado Pipino, rey de Italia. En 787 dirigió su atención al sur, a Benevento, donde Arechis reinaba independiente: tras asediar Salerno, el duque ofreció vasallaje, pero a su muerte en 792 Benevento volvió a proclamar su independencia con su hijo Grimoaldo III, y los territorios del Mezzogiorno nunca fueron sometidos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. No he leído el texto del tratado de Quiercy ni las crónicas que sitúan en 774 una ampliación de las donaciones al papa. Siguiendo la regla de seguir el dinero y el poder, queda abierto el origen y el alcance real de las donaciones territoriales al papa que hacen del conflicto una cuestión de poder y de propiedad, y quiénes se beneficiaron de la conquista de la riqueza lombarda. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -13129,6 +13256,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El reparto previsto",
+     "nivel": "hecho",
+     "texto": "En 806 Carlomagno hizo las primeras previsiones para dividir su imperio a su muerte, como era tradición entre los francos. A Carlos el Joven le habría dejado Austrasia, Neustria, Sajonia, Borgoña y Turingia; a Pipino, Italia, Baviera y Suabia; a Luis, Aquitania, la Marca Hispánica y la Provenza. No menciona los títulos imperiales: algunos historiadores creen que Carlomagno los consideraba una recompensa que cada hijo debía ganarse y no una herencia."
+    },
+    {
+     "titulo": "Lo que cambió y lo que pasó después",
+     "nivel": "hecho",
+     "texto": "La división habría podido aplicarse, pero murieron Pipino (810) y Carlos (811). En 813 Carlomagno ofreció a su único hijo superviviente, Luis, reinar con él: lo coronó con sus propias manos como coemperador y correy de los francos y lo envió de vuelta a Aquitania. La única parte que no cedió a Luis fue Italia, prometida años atrás a Pipino (la fuente la vincula con Bernardo, hijo ilegítimo de este). La fuente explica por qué el imperio se disgregó pronto: dependía de la fidelidad de los nobles, en un contexto de condados cada vez más autónomos, sin ejército permanente (cada guerrero se equipaba a su costa, y solo los grandes propietarios podían pagar el caballo y el equipo, de modo que los hombres libres se encomendaban a un señor como vasallos), con una economía rural de subsistencia, ciudades reducidas y el comercio occidental casi desaparecido por el dominio árabe del Mediterráneo. En el verano de 807 muy pocos señores acudieron a la asamblea anual, algo sin precedentes, y Carlomagno lo vio como una rebelión y mandó a sus *missi*. Con Luis el Piadoso llegaron las guerras civiles entre el rey y sus hijos y los ataques de los nórdicos. Por el Tratado de Verdún (843), Carlos el Calvo recibió las tierras francas del oeste, el núcleo de la futura Francia; Luis el Germánico, las del este, el origen de Alemania; y Lotario, un «Reino Medio» desde el mar del Norte hasta Italia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. La fuente es una síntesis y no cita el texto original de la *Divisio*. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué intereses de la aristocracia, la Iglesia y el papado pesaron en las particiones, y por qué el imperio se rompió justo entre los hijos de Luis. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -20698,6 +20842,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las campañas (772-782)",
+     "nivel": "hecho",
+     "texto": "Tras treinta años de guerra, Carlomagno conquistó Sajonia y la convirtió al cristianismo empleando la fuerza cuando hizo falta. Los sajones se dividían en cuatro grupos: Westfalia, Angria, Ostfalia y Nordalbingia. En la primera campaña venció en Paderborn y obligó a los de Angria a cortar y entregar en 772 un irminsul, un pilar de madera sagrado. En 775 tomó Sigiburg, derrotó a los sajones en Angria y en Ostfalia convirtió a su jefe Hessi, y dejó campamentos en Sigiburg y Eresburg. En 776 una revuelta destruyó su fortaleza de Eresburg y la aplastó, aunque el jefe más importante, Widukind, huyó a Dinamarca. En 777 convocó una dieta en Paderborn para integrar Sajonia y bautizó a muchos sajones. En 779 reconquistó Ostfalia, Angria y Westfalia y en 780, en una dieta cerca del Lippe, dividió el territorio en misiones y asistió a bautismos en masa. Ese año decretó la pena de muerte para los sajones que no se bautizaran, no celebraran las fiestas cristianas y cremaran a sus muertos. Siguieron dos años de paz."
+    },
+    {
+     "titulo": "Verden y la guerra de 783-785",
+     "nivel": "hecho",
+     "texto": "En 782 Carlomagno estableció un código de leyes y nombró condes sajones y francos, con normas severas en lo religioso que dejaron en situación precaria el politeísmo germano. Widukind regresó en otoño y hubo ataques contra la Iglesia. Se cree que en respuesta Carlomagno ordenó en Verden la decapitación de 4.500 sajones capturados practicando su paganismo tras haberse convertido (véase la ficha de la matanza de Verden). La guerra de 783-785 trajo el traslado forzado de unos 30.000 sajones a otras partes del imperio, victorias en Lippspringe (782) y Delmont (783) y el sometimiento de los frisones. La fuente dice que Widukind aceptó el bautismo en 804; la ficha de Verden da 785, y esa discrepancia no está resuelta en la fuente."
+    },
+    {
+     "titulo": "Las últimas revueltas y el final (793-804)",
+     "nivel": "hecho",
+     "texto": "Tras siete años de paz, Westfalia se rebeló, y Ostfalia y Nordalbingia se unieron en 793, pero la sublevación no tuvo el apoyo de toda la población y se sofocó hacia 794. En 796 hubo otra en Angria, aplacada gracias a los sajones cristianos, los eslavos y el propio Carlomagno. La última, en 804, más de treinta años después de la primera campaña, fue la más turbulenta, y con ella terminó la resistencia pagana. Para asegurarlo, Carlomagno ordenó el traslado forzado de 10.000 familias sajonas y entregó sus tierras a los leales obodritas. Los obodritas y los veletos eslavos fueron aliados suyos en esta guerra: cruzó el Elba con un ejército de austrasios y sajones, aceptó su sumisión a cambio de rehenes y de permiso para enviar misioneros, y los convirtió en un estado tributario leal."
+    },
+    {
+     "titulo": "El ejército carolingio",
+     "nivel": "hecho",
+     "texto": "La fuente da una idea de la escala: a finales del siglo VIII el ejército carolingio rondaba los 100.000 hombres en campaña, con muchas tropas reclutadas temporalmente, unos 10.000 soldados profesionales, unos 6.000 caballeros montados y una cifra similar de mercenarios. Carlomagno combatía a menudo al frente de su guardia de élite (scara)."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. Faltan las causas económicas y sociales de la guerra y el papel del botín y de las tierras repartidas a los leales. Siguiendo la regla de seguir el dinero y el poder, queda abierto quién se quedó con las tierras de los 10.000 familias deportadas, con los bienes de la Iglesia y con los tributos sajones, y qué relación tuvo esa expansión con la financiación del propio imperio. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -26209,6 +26380,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué se cuenta",
+     "nivel": "hecho",
+     "texto": "En 782 unos 4.500 líderes sajones habrían sido decapitados cerca de Verden, en la Baja Sajonia, por practicar el paganismo tras haber aceptado, al menos oficialmente, el bautismo. Se dijo que el río Aller bajó rojo de sangre. Se atribuye la orden a Carlomagno durante las guerras sajonas, para mostrar su supremacía y su severidad con los rebeldes. El efecto fue que los sajones perdieron casi todo su liderazgo y pasaron a ser gobernados por condes francos. El jefe Widukind escapó a Dinamarca y regresó pronto; la fuente dice que en 785 fue obligado a convertirse junto a su pueblo (el artículo de Carlomagno dice que aceptó el bautismo en 804). Según la fuente principal, el hecho desencadenó dos años de sangrientos conflictos (783-785) con el traslado forzado de unos 30.000 sajones."
+    },
+    {
+     "titulo": "La veracidad cuestionada",
+     "nivel": "hecho",
+     "texto": "Algunos historiadores han dudado de la matanza: o bien no ocurrió o bien fue en realidad una batalla, aunque la fuente considera poco creíbles esas afirmaciones. Una hipótesis sugiere un error de transcripción de los textos latinos, que habría confundido *delocabat* («exiliado o desplazado») con *decollabat* («decapitado»). El primero en cuestionar los registros fue Karl Bauer en 1937 (*Die Quellen für das sogenannte Blutbad von Verden*). El historiador Ramsay MacMullen recuerda que en 681 el XII Concilio de Toledo había pedido a las autoridades civiles que apresaran y decapitaran a los culpables de prácticas paganas."
+    },
+    {
+     "titulo": "El monumento nazi de 1935",
+     "nivel": "hecho",
+     "texto": "En 1935 Heinrich Himmler encargó al arquitecto paisajista nazi Wilhelm Hübotter el Sachsenhain, un monumento de 4.500 grandes piedras en Verden para conmemorar la matanza, cada una supuestamente de una de las 4.500 poblaciones de la Baja Sajonia. La fuente lo cita como ejemplo de pseudoarqueología, «probablemente la obra más representativa de prehistoria inventada jamás llevada a cabo». Hoy el lugar pertenece a las Juventudes de la Iglesia Protestante y está abierto al público."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. La discusión sobre la autenticidad es de un artículo breve; no he cotejado los *Annales regni Francorum* ni la discusión actual de los especialistas. Que la fuente principal use la cifra de 4.500 como cierta («se cree») y el resumen de la ficha la presente como «habría ordenado» refleja esa incertidumbre. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo se usó el episodio en el siglo XX (el monumento nazi de 1935 como propaganda) y quién se benefició de esa lectura. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -27639,6 +27832,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Los últimos años y la muerte",
+     "nivel": "hecho",
+     "texto": "En 813 Carlomagno convocó a Aquisgrán a Ludovico Pío, rey de Aquitania y su único hijo superviviente, lo coronó con sus propias manos como coemperador y lo envió de vuelta. Pasó el otoño de caza y volvió a Aquisgrán el 1 de noviembre. En enero de 814 enfermó de pleuritis, según Eginardo, y el día 21 cayó en coma. Murió el 28 de enero. Fue sepultado el mismo día de su muerte en la catedral de Aquisgrán, pese a que el frío y la naturaleza de su enfermedad no imponían prisa."
+    },
+    {
+     "titulo": "La tumba y la memoria",
+     "nivel": "hecho",
+     "texto": "Un relato posterior de Oto de Lomello, conde del palacio de Aquisgrán en tiempos de Otón III, cuenta que él y el emperador descubrieron la tumba, sentaron al emperador en un trono, lo vistieron con corona y cetro y cubrieron su cuerpo incorrupto con ricas ropas. En 1165 Federico I volvió a abrir la tumba y trasladó el cuerpo a un sarcófago bajo el suelo de la catedral, y en 1215 Federico II lo introdujo en un ataúd de oro y plata. La muerte afectó mucho a su corte, en especial a la «camarilla literaria» de Aquisgrán; un monje anónimo de Bobbio se lamentó por ella. Le sucedió su hijo Luis, coronado el año anterior. La fuente añade que su imperio permaneció intacto una sola generación más y que, según la historiografía, la división entre los hijos de Luis dio origen a la Francia y la Alemania modernas."
+    },
+    {
+     "titulo": "La beatificación",
+     "nivel": "hecho",
+     "texto": "La fuente menciona un apartado sobre la beatificación de Carlomagno que no he leído."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. El relato de Oto de Lomello y el estado del cadáver son posteriores y legendarios, y la causa de la muerte (pleuritis) la da solo Eginardo. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué herencia material y simbólica (tesoro, reliquias, tierras de la corona) dejó y cómo se distribuyó entre sus herederos y la Iglesia. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -37488,6 +37703,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La caída de Tasilón III",
+     "nivel": "hecho",
+     "texto": "En 788 Carlomagno acusó al duque Tasilón III de Baviera de pactar con los ávaros y otros enemigos suyos y de romper su promesa de fidelidad. Sometido a juicio, Tasilón fue depuesto y condenado a muerte, pero Carlos lo indultó y se contentó con raparlo y recluirlo en el monasterio de Jumièges. En 794, en el sínodo de Fráncfort, fue obligado a renunciar a sus derechos y a los de su familia, los agilolfingos, sobre Baviera. Baviera, como Sajonia, se subdividió en condados francos. Años antes, en 770, Tasilón había sido aliado de Carlomagno por un tratado."
+    },
+    {
+     "titulo": "Los ávaros y los eslavos del sur",
+     "nivel": "hecho",
+     "texto": "Tras Baviera vino la campaña contra los ávaros: Pipino y el duque Erico de Friul tomaron dos veces el gran «Anillo de los ávaros», y el botín se envió a Aquisgrán, donde Carlomagno lo repartió entre sus seguidores y gobernantes extranjeros, como el rey Offa de Mercia. Los jefes ávaros acabaron sometiéndose como vasallos y cristianos, y uno bautizado Abraham fue repuesto con el título de jaghan; hacia el año 800 los búlgaros de Krum acabaron con el estado ávaro. Los eslavos carantanianos y los eslovenos fueron sometidos por lombardos y bávaros y se hicieron tributarios, sin incorporarse al Estado franco."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. La fuente es un artículo de una enciclopedia abierta que se apoya sobre todo en el cronista Eginardo, escrito en la corte del propio Carlomagno, y en historiadores posteriores; las cifras de la época (ejércitos, deportados, muertos) son estimaciones de esa fuente, no datos comprobados con otra. Es una ficha corta porque la fuente trata este episodio en pocos párrafos. Siguiendo la regla de seguir el dinero y el poder, queda abierto qué reservas de oro y de plata tomaron los francos a los ávaros («el botín inmenso» de otras crónicas) y cómo lo repartió Carlomagno entre sus nobles y la Iglesia. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
