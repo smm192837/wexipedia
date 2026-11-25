@@ -15667,6 +15667,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué quería probar Watson",
+     "nivel": "hecho",
+     "texto": "John B. Watson y su estudiante de posgrado Rosalie Rayner hicieron el estudio en la Universidad Johns Hopkins y lo publicaron en el número de febrero de 1920 del Journal of Experimental Psychology. Watson había observado niños y planteó que la respuesta de miedo ante los ruidos fuertes es una reacción innata, no aprendida. Quería comprobar que, siguiendo los principios del procedimiento hoy llamado condicionamiento clásico, podía usar esa reacción para enseñar a un niño a temer un estímulo que normalmente no asusta: en este caso, objetos peludos. Él mismo admitió en su artículo que el miedo que generó no fue fuerte ni duradero."
+    },
+    {
+     "titulo": "Qué se hizo",
+     "nivel": "hecho",
+     "texto": "Eligieron a un bebé de nueve meses de un hospital, al que llamaron «Albert». Siguieron los procedimientos que Pavlov había usado con perros. Antes de empezar le hicieron pruebas de base: lo expusieron, brevemente y por primera vez, a una rata blanca, un conejo, un perro, un mono, máscaras con y sin pelo, algodón, lana, papel de periódico ardiendo y otros estímulos, y Albert no mostró miedo a ninguno.\n\nEn el experimento propiamente dicho, Albert se sentó en un colchón sobre una mesa, en medio de una habitación, y se le puso cerca una rata blanca de laboratorio con la que podía jugar. Cada vez que el niño tocaba la rata, Watson y Rayner golpeaban con un martillo una barra de acero suspendida detrás de él. Albert respondía al ruido llorando y mostrando miedo. Tras varias parejas de estímulos, se le presentó solo la rata y se angustió mucho: lloró y se alejó gateando. La rata, que era un estímulo neutro, se había convertido en un estímulo condicionado que provocaba la respuesta de miedo que antes causaba el ruido, el estímulo incondicionado.\n\nEn experimentos posteriores, Albert pareció generalizar su respuesta: se angustió ante otros objetos peludos, como un conejo, un perro con pelo y un abrigo de piel, y tuvo una reacción «leve» ante una máscara de Papá Noel con bolas de algodón en la barba. Pero la generalización no alcanzó a todo lo que tuviera pelo. Cuando terminó el experimento Albert tenía un año, y según los informes abandonó el hospital poco después."
+    },
+    {
+     "titulo": "Lo que vino después: Mary Cover Jones",
+     "nivel": "hecho",
+     "texto": "Watson había hablado de cómo eliminar los miedos condicionados de Albert, pero la madre del niño, que no estaba plenamente informada de la naturaleza del experimento, lo retiró del estudio antes de que se pudiera revertir nada; es probable que su miedo a las cosas peludas continuara después.\n\nWatson dio una serie de conferencias de fin de semana sobre el estudio. A una de ellas asistió Mary Cover Jones, a quien despertó el interés por hacer estudios de posgrado de psicología. Cover Jones investigó cómo eliminar las respuestas de miedo en niños con un niño de dos años, Peter, que compartía los miedos de Albert a los conejos blancos y a los objetos peludos. Logró aumentar su tolerancia al conejo exponiéndolo a distancias cada vez más cortas y poniéndolo a jugar con niños que no le tenían miedo. Watson figura en la publicación como asesor y editor. Cover Jones fue la primera psicóloga que desensibilizó o descondicionó una respuesta de miedo, y se la conoce como la «madre de la terapia de conducta»."
+    },
+    {
+     "titulo": "Quién era Albert: una identificación discutida",
+     "nivel": "hecho",
+     "texto": "El nombre era un seudónimo y durante casi un siglo nadie supo quién era. En 2009, los psicólogos Hall P. Beck y Sharman Levinson publicaron que «Albert B.» era Douglas Merritte, hijo de Arvilla Merritte, que parece haber sido nodriza en el hospital Harriet Lane. Se llegó a saber que Merritte tenía hidrocefalia y murió a los seis años. De ser él, el niño podría haber tenido graves problemas de visión y señales de deterioro neurológico, lo que cuestionaría que fuera un bebé normal y sano, como decía el estudio.\n\nOtros investigadores, Russ Powell, Nancy Digdon y Ben Harris, discutieron esa identificación y propusieron a Albert Barger, que nació con un día de diferencia respecto a Merritte y cuya madre también trabajaba en el hospital. Su peso y su desarrollo coincidían con lo que documenta el experimento, y tenía 12 meses y 21 días cuando salió del hospital, la edad exacta que Watson y Rayner dan para el niño al terminar. Cuando pudieron revisar la historia clínica de Merritte, vieron que era «completamente ciego», lo que no encaja con las películas del experimento, donde Albert parece realizar acciones dirigidas a objetos. Barger murió en 2007 a los 87 años; su sobrina dijo que sentía aversión a los perros y a los animales en general, aunque no fuerte, y los investigadores concluyeron que no sabía que de bebé había sido sujeto de un experimento (no hay forma de saber si esa aversión se debió al experimento).\n\nQuienes defienden que era Merritte acusan a los autores de saber que el niño tenía un déficit cognitivo grave y de haber generalizado sus resultados a niños sanos, y llegan a hablar de fraude académico; esas acusaciones se han rechazado en otros artículos de las mismas revistas. El debate sigue."
+    },
+    {
+     "titulo": "Críticas al método y a la ética",
+     "nivel": "hecho",
+     "texto": "Visto con criterios actuales, el experimento tiene muchos fallos: un solo participante, sin repetición y sin sujetos de control. Ben Harris (1979), tras una revisión detallada del estudio original y de sus interpretaciones posteriores, concluyó que el informe de Watson y Rayner muestra poca evidencia de que Albert desarrollara una fobia a las ratas o de que los animales le provocaran miedo de forma consistente, y propuso incluir sus datos en la categoría de resultados «interesantes pero no interpretables». Además, la propia lectura del informe muestra que el miedo no se generalizó por el color ni por la textura, aunque muchos manuales lo presentan como ejemplo de generalización.\n\nEs difícil saber con exactitud qué pasó, porque faltan pruebas concretas y registros científicos. Se rodó una película, pero los manuales la interpretan de formas distintas. Distintas fuentes dan versiones contradictorias de qué estímulos se usaron, a cuáles llegó a temer el bebé y qué fue de él después, y se ha dicho que la mayoría de los manuales tienen inexactitudes que exageran o minimizan el alcance de sus miedos tras el condicionamiento.\n\nEn lo ético, hoy no pasaría los criterios de la Asociación Americana de Psicología. En la década de 1970, tras casos muy publicitados de abusos, se creó la Comisión Nacional para la Protección de los Sujetos Humanos de la Investigación, que en 1979 publicó el Informe Belmont, base de la regulación federal estadounidense actual; con esos criterios, un experimento como el de Watson no se habría permitido."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Nacho López Cabanas lo usa como ejemplo de cómo se forman los complejos subconscientes. Cuenta que Watson y su colaboradora condicionaron el miedo a un ratón blanco en el pequeño Albert asociándolo con un ruido fuerte, y que el miedo se generalizó a un conejo o a una careta de ratón. Para él ilustra cómo las experiencias no integradas crean complejos subconscientes.\n\nComo lectura de ejemplo es suya. Conviene tener presente que el estudio original habla de una rata y no de un ratón, y que la generalización a otros objetos, según las críticas de la sección anterior, es más débil de lo que cuentan muchos relatos."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo que no se sabe es qué pasó realmente con Albert: si llegó a tener una fobia o solo malestar pasajero, quién era el niño y si tenía alguna condición neurológica. Las dos identificaciones propuestas se contradicen, y el informe original no permite zanjarlo. Lo que sí queda claro es que el estudio se ha citado durante un siglo como prueba de algo que su propio informe no demuestra bien.\n\nLa posición de Nexus es no usarlo como prueba de que los complejos se forman por condicionamiento, ni tampoco descartar esa idea por la debilidad del caso: la idea y el experimento son cosas separadas, y la primera tendría que apoyarse en otros estudios. Es una hipótesis de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -67495,6 +67532,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Warburg effect (oncology)",
       "url": "https://en.wikipedia.org/wiki/Warburg_effect_(oncology)",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Efecto Warburg (oncología)",
+      "url": "https://es.wikipedia.org/wiki/Efecto_Warburg_(oncolog%C3%ADa)",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -67506,6 +67548,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué observó Warburg",
+     "nivel": "hecho",
+     "texto": "En una célula normal con oxígeno disponible, la glucosa se degrada hasta piruvato, que entra en la mitocondria y se oxida con el oxígeno como aceptor final de electrones en la cadena respiratoria. El efecto Warburg es la observación de que la mayor parte de las células cancerosas producen su energía sobre todo en el citosol, por glucólisis seguida de fermentación láctica, y lo hacen aunque haya oxígeno de sobra. Las células malignas suelen consumir glucosa unas 200 veces más deprisa que las normales de las que proceden.\n\nOtto Heinrich Warburg, premio Nobel de Fisiología en 1931 por descubrir la naturaleza y el modo de acción de la enzima respiratoria, fue quien lo describió. La ficha recoge que su grupo llegó hacia los años veinte a la conclusión de que la falta de glucosa y de oxígeno en las células tumorales altera su metabolismo; la entrada de Wikipedia en español sitúa su observación sobre la diferencia con las células normales en 1942. No he resuelto esa diferencia de fechas. Con base en lo observado, Warburg planteó que la función de la mitocondria de la célula tumoral estaba alterada y postuló que este cambio de metabolismo es la causa fundamental del cáncer: la llamada hipótesis de Warburg."
+    },
+    {
+     "titulo": "Causa o consecuencia",
+     "nivel": "hecho",
+     "texto": "Actualmente se reconoce como causa del cáncer a las mutaciones en los oncogenes y en los genes supresores tumorales. Aun así, la fuente consultada señala que el paradigma metabólico está cobrando fuerza en los últimos años frente a la mutación genómica como origen verdadero: desde esa perspectiva, la inestabilidad genómica sería un derivado de la manera de proceder de las células tumorales y el resto de sus rasgos, epifenómenos secundarios de la alteración metabólica principal y de la fermentación compensatoria.\n\nHay además una paradoja: las células que son anaeróbicas por naturaleza, porque no tienen mitocondrias y dependen solo de la fermentación láctica, como el cristalino, la córnea, partes de la retina y los glóbulos rojos, no desarrollan cáncer. Lo que se ha dado por demostrado sobre el efecto Warburg es, pues, la observación metabólica; que sea la causa del cáncer sigue discutiéndose."
+    },
+    {
+     "titulo": "Posibles explicaciones del efecto",
+     "nivel": "hecho",
+     "texto": "La fuente propone varias, que no se excluyen. Podría ser simplemente la consecuencia de un daño en las mitocondrias causado por el cáncer; o una adaptación al ambiente pobre en oxígeno que hay dentro del tumor; o el resultado de que los genes cancerosos apaguen las mitocondrias, que desempeñan un papel en el programa de apoptosis que de otro modo acabaría matando a las células cancerosas. También podría estar asociado a la proliferación celular: como la glucólisis aporta la mayor parte de los bloques de construcción que se necesitan para dividirse, se ha propuesto que tanto las células cancerosas como las normales necesitan activar la glucólisis láctica, aun con oxígeno, para proliferar. Otra parte de la alta tasa de glucólisis aeróbica se atribuye a una sobreexpresión de un tipo de hexoquinasa unida a la mitocondria.\n\nEn marzo de 2008, Lewis C. Cantley y colegas de la Escuela de Medicina de Harvard anunciaron haber identificado la enzima responsable: la M2-PK tumoral, una isoforma de la piruvato quinasa que se produce en todas las células que se dividen con rapidez y que permite a las células cancerosas consumir glucosa a un ritmo acelerado. Al inhibir su producción y obligar a la célula a usar otras formas de la enzima, se frenaba su crecimiento. Esa isoenzima normalmente no se encuentra en tejidos sanos, aunque se necesita cuando hay que multiplicarse con mucha rapidez, como al curar heridas o en la formación de la sangre. Los investigadores también reconocieron que la química exacta del metabolismo de la glucosa probablemente varía entre las distintas formas de cáncer."
+    },
+    {
+     "titulo": "Qué se hace con él: diagnóstico y tratamiento",
+     "nivel": "hecho",
+     "texto": "La alta tasa metabólica de los tumores malignos se usa en la clínica para diagnosticar su presencia y para seguir la respuesta del cáncer al tratamiento. La herramienta es la tomografía por emisión de positrones (PET): se administra 2-18F-2-desoxiglucosa, que es un sustrato de la hexoquinasa y un emisor de positrones, y la imagen muestra dónde hay un consumo metabólico alto.\n\nTambién se han desarrollado muchas sustancias que inhiben la glucólisis y que son foco de atención como posibles anticancerosos, entre ellas la 2-desoxi-D-glucosa (2DG), el 2-bromopiruvato (3BP), la 5-tioglucosa y el ácido dicloroacético (DCA); según la fuente se hacían ensayos clínicos con 2DG y DCA. Un investigador de la Universidad de Alberta teorizó en 2007 que el DCA podría tener beneficios en muchos tipos de cáncer. Un modelo llamado efecto Warburg inverso describe además células que producen energía por glucólisis, pero no las tumorales sino los fibroblastos del estroma. La fuente insiste en que hace falta estudiar más el metabolismo tumoral.\n\nUn matiz de la versión oficial de la ficha: que los tumores consuman más glucosa ha alimentado la idea errónea de que el cáncer se trata reduciendo los azúcares y los hidratos de carbono."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala menciona el efecto Warburg como un fallo en el metabolismo de la célula tumoral, ligado a la fermentación, y dice que hay mucha desinformación sobre el tema. Atribuye a Wilhelm Reich el conocimiento de este efecto y sostiene que Reich vio en el crecimiento caótico del tumor un crecimiento entrópico."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo comprobado es la observación metabólica y su uso diagnóstico. Lo abierto es su papel en la causa del cáncer. Hay un enfoque genético, dominante, y un enfoque metabólico que gana fuerza; las fuentes que he leído no dicen que se haya resuelto cuál es el origen y cuál el efecto. Que un autor lo relacione con la idea de Reich de un crecimiento «entrópico» es una lectura propia que esta ficha no valida ni descarta.\n\nLa posición de Nexus es no tomar partido: usar la observación comprobada para lo que sirve, que es el diagnóstico, y tratar la causalidad como tema abierto, sin llenarlo con ninguna teoría. Es una hipótesis de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
