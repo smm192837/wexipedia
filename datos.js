@@ -3133,6 +3133,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es y qué hace",
+     "nivel": "hecho",
+     "texto": "El Banco de Francia (Banque de France) es el banco central de Francia, subordinado al Banco Central Europeo, con sede en París. Su principal responsabilidad es definir, en el Sistema Europeo de Bancos Centrales, la política de tipos de interés. Sus actividades se organizan en torno a tres tareas: la estabilidad monetaria, la estabilidad financiera y la prestación de servicios a administraciones, empresas y particulares. En la estabilidad monetaria elabora la balanza de pagos y la posición exterior de Francia, ejecuta las decisiones de política monetaria del BCE, gestiona una parte de las reservas de divisas del BCE y emite y gestiona el dinero. En la estabilidad financiera participa en la supervisión bancaria y en la vigilancia del sistema financiero y de los medios de pago, y cogestiona TARGET 2. Para el Estado gestiona los medios de pago del Tesoro y de algunas empresas públicas; para las empresas recoge y difunde información financiera (fichero FIBEN, que le dio en 2007 el estatus de agencia de calificación crediticia externa); para los particulares mantiene los registros de incidentes de pago."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "La banca central francesa tiene un antecedente que acabó mal. En 1716 John Law abrió el Banque Générale; en 1718 el Gobierno lo adquirió y lo renombró Banque Royale; y el 27 de noviembre de 1720, ante la crisis de la Compañía del Misisipi y la retirada masiva de fondos, el banco cerró. El Banco de Francia se creó en 1800. Entre 1808 y 1936 los billetes que emitía empezaron a ser de curso legal y se amplió la red de sucursales; entre 1936 y 1945 se nacionalizó. En 1973 se revisaron sus estatutos, y en 1993 una reforma extensa garantizó su independencia para asegurar la estabilidad de precios, aun a costa de la política interior, lo que allanó el camino a la unión monetaria europea. En 1998 entró en el Sistema Europeo de Bancos Centrales, tras la creación del BCE el 1 de junio, y en 2015 creó Europafi, la filial que imprime billetes, hoy el único fabricante de billetes de euro en el país."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado es el recorrido institucional. Para seguir el dinero y el poder falta saber quién creó el banco en 1800 y con qué capital: la fuente de esta ficha no lo recoge, y queda como tema abierto a documentar con una fuente específica. Tampoco consta cómo afectó la reforma de 1993 a las decisiones de gobierno: la propia fuente dice solo que se hizo «a costa de la política interior»."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3253,6 +3270,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Banco de San Giorgio",
       "url": "https://es.wikipedia.org/wiki/Banco_de_San_Giorgio",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco de San Jorge",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_San_Jorge",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -3266,6 +3288,23 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "naturaleza": "banca",
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "El Banco o Compañía de San Giorgio (Casa delle Compere di San Giorgio) fue una institución financiera de la República de Génova, fundada en 1407, uno de los bancos más antiguos de Europa y probablemente del mundo. Tenía su sede en el Palazzo San Giorgio, que se construyó en el siglo XIII por orden de Guglielmo Boccanegra, tío de Simone Boccanegra, el primer dogo de Génova. Lo gobernaban cuatro cónsules, que administraban sus finanzas e inversiones directas, y en su fundación y gobierno intervinieron varias familias genovesas destacadas, como los Grimaldi y los Serra. Es difícil saber dónde terminaba la influencia del banco y dónde empezaba la de la República, porque la oligarquía que gobernaba la República dominaba normalmente la política bancaria.\n\nAlgo inusual para su tiempo es que el banco usó varios agentes judíos, entre ellos el clan de los Ghisolfi, que administraba ciertas posesiones en torno al mar Negro."
+    },
+    {
+     "titulo": "Territorios y préstamos",
+     "nivel": "hecho",
+     "texto": "Muchos territorios de la República de Génova los gobernó el banco, directa o indirectamente. En 1447 la República le cedió el gobierno de Famagusta, y según la fuente en 1553 los de Cafa, Córcega, Gazaria (Crimea) y otras posesiones (una fecha que conviene comprobar). A lo largo del siglo XV la República fue reclamando gradualmente muchos de esos territorios. La península de Tamán siguió en manos de los Ghisolfi, pero sus príncipes tenían que rendir cuentas al banco.\n\nPrestó sumas considerables a muchos gobernantes europeos en los siglos XV y XVI, y con ello ganó y extendió su influencia. Los reyes de España Fernando e Isabel tenían cuentas en el banco, y también Cristóbal Colón. Carlos V estuvo muy endeudado con él durante gran parte de su reinado. Maquiavelo sostuvo que el dominio del banco sobre Génova hizo posible una república «más memorable que la veneciana». En el siglo XVII el banco se implicó mucho en el comercio marítimo, y durante un tiempo compitió con entidades como las compañías holandesa e inglesa de las Indias Orientales. Tras la invasión de Italia por Napoleón, este suprimió los bancos independientes, lo que llevó al cierre del banco en 1805."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo que muestran los hechos es un banco que gobernaba territorios y prestaba a reyes, es decir, finanzas y poder político mezclados en una sola institución durante casi cuatro siglos. Siguiendo la regla de seguir el dinero y el poder, queda abierto cuánto del poder de Génova era del banco y cuánto de la oligarquía que lo dominaba: la propia fuente dice que es difícil separarlo. Es una hipótesis de Nexus, no un dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3289,6 +3328,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Banco de Venecia",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Venecia",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Banco della Piazza di Rialto",
+      "url": "https://en.wikipedia.org/wiki/Banco_della_Piazza_di_Rialto",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -3301,6 +3345,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Lo que cuenta la versión recibida",
+     "nivel": "hecho",
+     "texto": "La versión que recoge la Wikipedia en español, y que repiten muchos manuales, dice que el Banco de Venecia fue el primer banco nacional establecido dentro de las fronteras de Europa, con garantía del Estado, en 1157. Según Macardy, el banco se debió a la agencia comercial de los venecianos, que habría actuado en interés de los cruzados del papa Urbano II; según otra explicación, a los costes de la expansión del imperio bajo el dux Vitale II Michiel, para cuyo alivio se necesitó un «préstamo forzoso». Con ese tipo de préstamo, el gobierno podía tomar prestado en especie de sus ciudadanos adinerados, anotando en un libro de registro lo que debía a cada uno pero sin emitir pruebas de endeudamiento. Se creó para administrarlo la Cámara de Préstamos, que devolvía lo prestado con un interés del 4 %, y habría seguido hasta que el banco dejó de operar con la invasión francesa de 1797."
+    },
+    {
+     "titulo": "Lo que dice la investigación de archivo",
+     "nivel": "hecho",
+     "texto": "Esa historia es, según la Wikipedia en inglés, un relato del siglo XIX que la investigación de archivo ha corregido. Varios autores de aquel siglo describieron un «Banco de Venecia» formado en el siglo XII, el primer banco nacional de Europa y un innovador del dinero basado en deuda no reembolsable. En esa leyenda, la República cobró un préstamo de emergencia en 1157 o en 1171 para financiar sus guerras comerciales contra el Imperio bizantino; la guerra bizantino-veneciana de 1171 acabó en derrota, la República quedó arruinada y el dux Vitale II Michiel fue asesinado; sin medios para devolver el préstamo, lo convirtió en una renta perpetua (o, en algunas versiones, no ofreció nada a los prestamistas); los ciudadanos habrían adoptado ese dinero imaginario por más cómodo que las monedas, y la Cámara de Préstamos se habría convertido en el banco público.\n\nHenry Dunning Macleod, en «Theory and Practice of Banking» (1856), llamó a la historia una «gran ilusión corriente», aunque defendía que la deuda transferible de la República fue un antecedente importante de la banca de depósito. Sidney Dean, en su «History of Banking» (1884), recogió varias descripciones del supuesto banco y señaló que los investigadores no habían logrado encontrar documentación del banco tal como se describía. La investigación posterior distingue entre las oficinas de financiación de la República, el negocio de sus banqueros privados y el Banco della Piazza di Rialto, mucho más tardío (1587), que fue el primer banco público real de Venecia."
+    },
+    {
+     "titulo": "Qué se concluye para esta ficha",
+     "nivel": "hipotesis",
+     "texto": "La fuente en inglés dice que el relato de un banco público en 1157 es una tergiversación, y que el primer banco público real de la República es de 1587. La versión oficial de esta ficha, que dice que fue el primer banco nacional de Europa en 1157, no coincide con la versión corregida. Lo que sí parece comprobado, según la fuente, es que Venecia usó préstamos forzosos para financiar al Estado y que existieron oficinas de financiación de la República; que eso fuera un banco en 1157 no consta.\n\nPropuesta de Nexus, que requiere decisión de SMiguel1: matizar el resumen y la versión oficial de esta ficha («según la leyenda recogida por autores del siglo XIX, y no confirmada por la investigación de archivo»), manteniendo en pie los hechos documentados. Es una hipótesis de Nexus sobre cómo conviene tratarla, no un dato. Lo dejo escrito aquí y no he tocado el resumen."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3341,6 +3402,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "La quiebra de los bancos privados de Venecia había llevado en 1587 a crear el banco público de Rialto. En 1619, Giovanni Vendramin, comerciante de la familia Vendramin, propuso que sus créditos contra el gobierno de la ciudad pudieran transferirse a terceros mediante cuentas gestionadas por el propio gobierno de la República, una práctica veneciana que venía de antiguo, desde el siglo XIII. La República aceptó y creó el Banco del Giro como mecanismo temporal de compensación, que se esperaba eliminar a los tres años. Pero el éxito del sistema hizo que el plazo se prorrogara de año en año, y los importes de las cuentas aumentaron durante la guerra de sucesión de Mantua y la peste de 1629-1631, de modo que el banco se convirtió en una institución monetaria permanente. En 1630 su emisión ya era el doble que la del Banco de Rialto.\n\nLa Wikipedia en inglés lo describe como «el probable primer experimento de un dinero de curso legal puramente fiduciario emitido por el Estado». Y fue el modelo de la reorganización de 1675 de las operaciones bancarias de la genovesa Casa di San Giorgio en una sola entidad, el Banco di San Giorgio."
+    },
+    {
+     "titulo": "Cómo funcionaba",
+     "nivel": "hecho",
+     "texto": "La administración la tenía el Senado, que nombraba al Depositario, el magistrado que de verdad lo dirigía, de entre sus miembros. Al principio, el dinero del Giro, que era deuda del gobierno usada como medio de pago, era plenamente inconvertible, a diferencia del de Rialto. Su valor en moneda metálica se depreció en tiempos de guerra, en los años 1620 y 1640, y se revalorizó en los años 1630 y 1650, a medida que se reabsorbía la deuda del gobierno veneciano. En 1666 el gobierno cedió ante la presión de los comerciantes y lo hizo convertible, y lo siguió siendo durante el final del siglo XVII y todo el XVIII, salvo una suspensión durante la guerra otomano-veneciana de 1714-1718, que no se levantó hasta 1739.\n\nHasta hacia 1650 el Giro tenía un tamaño parecido al del Banco de Ámsterdam. Como se había pensado desde el principio, sus activos eran sobre todo deuda del gobierno veneciano. Desde 1651 sus depósitos fueron el único medio legal de pago para todos los pagos comerciales superiores a 50 ducados."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "Suspendió su actividad entre 1797 y 1800, tras la caída de la República. En 1805 el Reino napoleónico de Italia asumió su deuda y devolvió a los depositantes con sus propios bonos, y se liquidó formalmente en 1807. La ficha recoge que el año final varía según la fuente (1797 o 1807). Un pasadizo de la plaza del Rialto sigue llamándose Sotoportego del Banco Giro."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, el hecho clave es que un dinero emitido por el Estado, no convertible, funcionó como medio de pago obligatorio en una gran economía comercial durante décadas, y que cuando los comerciantes presionaron, en 1666, el gobierno lo hizo convertible. Qué comerciantes presionaron y qué ganaron con ello no consta en la fuente y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3381,6 +3464,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes del banco: los banqueros privados",
+     "nivel": "hecho",
+     "texto": "En 1356 el senador Giovanni Dolfin propuso al Senado veneciano un «banco por el Común», un banco público municipal que complementara a los bancos privados, y en 1374 una comisión encabezada por Michele Morosini hizo una propuesta parecida. Se rechazaron, y el sistema veneciano siguió dependiendo de banqueros privados que competían en la plaza del Rialto. Pero el número de esos bancos fue bajando: de ocho a diez a comienzos del siglo XIV a un puñado desde finales del XV, y finalmente a uno solo, la casa Pisani-Tiepolo, en el tercer cuarto del XVI. Cuando ese banco tuvo problemas en 1576, el Estado lo apoyó con un préstamo de la ceca, pero acabó sucumbiendo a una retirada masiva de fondos en 1584. Tras algún debate, el Senado invitó a empresarios privados a presentar solicitudes y no apareció ninguna."
+    },
+    {
+     "titulo": "El banco (1587-1637)",
+     "nivel": "hecho",
+     "texto": "El 11 de abril de 1587 el Senado decidió crear un banco público, el Banco della Piazza di Rialto, aunque gestionado por un banquero privado a sueldo del Estado. Tras algunos tiras y aflojas, ese esquema se sustituyó ese mismo año por una concesión pública de tres años, con responsabilidad ilimitada del concesionario, que debía cerrar todas sus posiciones al terminar su mandato. El banco estaba obligado a mantener su dinero plenamente convertible en moneda, y lo mantuvo durante toda su existencia. En 1593 una ley dio curso legal a los depósitos del banco y obligó a los ciudadanos a liquidar todas las letras de cambio a través de él. Estaba sometido a supervisión bancaria por los Provveditori sopra Banchi, magistrados especializados creados antes en el siglo XVI.\n\nEn su mejor momento tuvo unos cuatro mil depositantes y un balance de casi un millón de ducados a finales del siglo XVI. Esos depósitos se usaban activamente como el principal medio de pago en las transacciones comerciales. Se supone que su máximo fue en 1618, con 1,7 millones de ducados en depósitos."
+    },
+    {
+     "titulo": "El declive frente al Banco del Giro",
+     "nivel": "hecho",
+     "texto": "Desde 1619 tuvo que competir con el Banco del Giro, creado en un principio como un mecanismo temporal de compensación. En enero de 1627 el Senado resolvió trasladar el Banco de Rialto a los locales del Banco Giro, porque su actividad ya había menguado mucho. En 1630 la emisión monetaria del Giro era el doble que la del Banco de Rialto, cuyo negocio siguió cayendo en los años treinta. Cesó la actividad en 1637 y se cerró formalmente por un decreto de enero de 1638."
+    },
+    {
+     "titulo": "Su lugar en la historia",
+     "nivel": "hecho",
+     "texto": "Duró relativamente poco y no fue el primer banco público europeo con rasgos de banco central, un concepto que según la fuente fue pionero en la Taula de Canvi de Barcelona, de 1401, aunque en Venecia se habían hecho propuestas de un ente así en el siglo XIV. Aun así, tuvo mucha influencia en el desarrollo de las finanzas europeas y fue el modelo directo para fundar el Banco de Ámsterdam en 1609.\n\nHay además un debate historiográfico que afecta a la ficha del Banco de Venecia de 1157: varios autores del siglo XIX describieron un «Banco de Venecia» fundado en el siglo XII, pero la investigación de archivo distingue entre las oficinas de financiación de la República, el negocio de sus banqueros privados y este banco de 1587, que fue el primer banco público real de la República."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, el dato más claro es que el Estado intervino cuando fallaron los bancos privados, con un préstamo de la ceca en 1576 y con la creación del banco público en 1587, y que lo hizo con garantías de convertibilidad y bajo supervisión. Qué intereses privados estaban detrás de cada decisión del Senado no consta en esta fuente y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3417,6 +3527,33 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "naturaleza": "banca",
+   "detalle": [
+    {
+     "titulo": "Quién fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El Banco Medici (1397-1494) fue una institución financiera creada por la familia Medici en Florencia. Durante el siglo XV fue el banco más grande y de mayor reputación de Europa, y hacia mediados de ese siglo la familia llegó a ser la más rica del continente. Estimar su fortuna es muy difícil porque gran parte estaba en obras de arte, tierras y oro. Su riqueza permitió a los Medici extender su esfera de influencia más allá de Italia.\n\nLo dirigieron cinco hombres seguidos: Giovanni de Medici (1397-1420), Cosimo de Medici (1420-1464), Pedro el Gotoso (1464-1469), Lorenzo el Magnífico (1469-1492) y Pedro II el Infortunado (1492-1494)."
+    },
+    {
+     "titulo": "De dónde salió el dinero",
+     "nivel": "hecho",
+     "texto": "Con la aparición de los primeros burgueses en Europa se hizo necesario un sistema que mantuviera seguro el dinero de los grandes capitalistas, y el Banco Medici fue una de las primeras instituciones financieras del mundo; la fuente dice que, hasta donde se sabe, el primero con una organización tan bien armada. En el siglo XV la corriente mercantilista sostenía que el atesoramiento de metales preciosos era la clave de la prosperidad de los países, y los Medici ofrecieron a otras familias ricas de Europa la custodia de su oro.\n\nPero lo que los hizo ricos no fue la custodia sino la especulación con el tipo de cambio de divisas. Eran expertos en monedas: sabían qué casas de moneda reducían o aumentaban el contenido de oro, qué monedas eran de plata y cuáles de oro y qué gobiernos intervenían en el mercado, y aprovecharon ese conocimiento para ganar grandes sumas. También tenían fábricas. Su ascenso se vio favorecido, además, por la controvertida aprobación de un impuesto al capital del 7 %, que despertó envidia e inquietud en varios sectores de la población; la familia acumuló riqueza en esos años, se convirtió en una potencia económica de Florencia y, dice la fuente, jugó un papel decisivo en la redefinición de los equilibrios políticos."
+    },
+    {
+     "titulo": "Giovanni, Cosimo y el apogeo",
+     "nivel": "hecho",
+     "texto": "Giovanni di Bicci de Medici (1360-1429) fue el primero de la familia en entrar en la banca, en 1397, y llegó en vida a tener gran influencia en los asuntos florentinos: financió la conclusión de la cúpula de la catedral de Florencia y participó en la comisión que elegía al artista de las puertas del baptisterio.\n\nA su muerte, su hijo Cosimo (1389-1464) fue expulsado de Florencia por familias rivales que rechazaban el predominio de los Medici por su origen no noble. Retiró entonces su fortuna de la ciudad, con lo que provocó mucho desempleo y pobreza, y la población se rebeló para que volviera. Desde su regreso, en 1434, Cosimo se dedicó a ampliar el negocio familiar, abriendo sucursales en buena parte de Europa, y siguió apoyando a los artistas florentinos como había hecho su padre. El banco alcanzó su apogeo durante la vida de Cosimo."
+    },
+    {
+     "titulo": "Lorenzo y el cierre",
+     "nivel": "hecho",
+     "texto": "Lorenzo el Magnífico (1449-1492) tomó el control del banco en 1469 y continuó el mecenazgo de sus antepasados, aumentándolo a niveles nunca vistos, pero descuidó el negocio familiar. Eso, junto a problemas con el papado, provocó el cierre de varias sucursales, entre ellas las de Lyon, Londres y Brujas. El banco cerró definitivamente en 1494, cuando Piero de Medici (1472-1503) fue expulsado de Florencia por las tropas del rey Carlos VIII de Francia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos. Siguiendo la regla de seguir el dinero y el poder, lo que muestran los hechos es un patrón: la banca financió el mecenazgo y la influencia política (la cúpula, las puertas del baptisterio) y su dinero pesó en los equilibrios de poder de Florencia, hasta que el cierre del banco coincidió con la expulsión política de la familia. Qué fue causa y qué consecuencia en cada tramo no consta en estas fuentes, y el dato de que la fortuna esté mal medida porque estaba en arte, tierras y oro lo hace difícil de comprobar. Es una hipótesis de Nexus, no un dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -3440,6 +3577,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Banco Mundial",
       "url": "https://es.wikipedia.org/wiki/Banco_Mundial",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Conferencia de Bretton Woods",
+      "url": "https://es.wikipedia.org/wiki/Conferencia_de_Bretton_Woods",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -3456,6 +3598,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació y qué es",
+     "nivel": "hecho",
+     "texto": "El Banco Mundial es una organización multinacional especializada en finanzas y asistencia, con sede en Washington D. C. y 189 países miembros. Su propósito declarado es reducir la pobreza con préstamos de bajo interés, créditos sin intereses y apoyo económico a las naciones en desarrollo. Se creó en julio de 1944 como parte de los acuerdos de Bretton Woods, con el nombre de Banco Internacional de Reconstrucción y Fomento (BIRF), hoy parte del Grupo del Banco Mundial.\n\nSu misión original, según la conferencia, era acelerar la reconstrucción de la posguerra, ayudar a la estabilidad política y fomentar la paz, mediante programas de reconstrucción y desarrollo."
+    },
+    {
+     "titulo": "En el conjunto de Bretton Woods",
+     "nivel": "hecho",
+     "texto": "Los acuerdos de Bretton Woods proponían tres organismos: el FMI para el sistema monetario, el Banco Mundial para la reconstrucción y el desarrollo, y una Organización Internacional de Comercio que no llegó a existir porque el Senado de Estados Unidos no ratificó su carta, de La Habana en 1948; la OMC la sustituyó en 1995 como sucesora del GATT. La ficha de la conferencia da el contexto completo, incluida la disputa por el Banco de Pagos Internacionales."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos son el origen, la sede y la misión declarada. Qué resultados han tenido sus préstamos, a quién han beneficiado y qué condiciones han impuesto son cuestiones abiertas que esta ficha no documenta con fuente; quedan como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -4144,6 +4303,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "El Banco Central Europeo (BCE) es el banco central de los Estados de la Unión Europea que tienen el euro como moneda, la eurozona. Dirige el Eurosistema y forma también, junto con los bancos centrales nacionales de los Estados miembros ajenos a la eurozona, el Sistema Europeo de Bancos Centrales (SEBC). Se creó en junio de 1998 para ejecutar y gestionar la política monetaria de la Unión. Tiene su sede en Fráncfort del Meno, fijada en el Tratado de Ámsterdam, y desde 2015 ocupa un edificio propio, tras empezar en la Eurotower. Presidido por Christine Lagarde (desde 2019), hasta el Tratado de Lisboa, en 2009, no adquirió la condición de institución de la Unión Europea; hoy lo regulan los artículos 282 a 284 del Tratado de Funcionamiento."
+    },
+    {
+     "titulo": "Qué hace",
+     "nivel": "hecho",
+     "texto": "A diferencia de la Reserva Federal de Estados Unidos, el objetivo principal del BCE es la estabilidad de precios en la zona euro, que el Consejo de Gobierno define como una inflación, medida con el índice de precios al consumo armonizado, cercana al 2 % a medio plazo; además tiene objetivos prioritarios como el crecimiento económico y el pleno empleo. Sus tareas principales son definir y ejecutar la política monetaria de la zona euro, dirigir las operaciones de cambio de divisas, cuidar las reservas internacionales del SEBC y promover el buen funcionamiento de la infraestructura del mercado financiero. Tiene el derecho exclusivo de autorizar la emisión de billetes de euro; los Estados pueden emitir monedas, pero la cantidad debe autorizarla antes el BCE. Contribuye también a un sistema financiero estable y a la vigilancia del sector bancario europeo: por ejemplo, en la crisis crediticia de 2007 prestó millones de euros a los bancos para estabilizar el sistema."
+    },
+    {
+     "titulo": "De quién es",
+     "nivel": "hecho",
+     "texto": "Aunque el BCE se rige por la legislación de la Unión Europea, de rango superior a la legislación mercantil de las empresas privadas, su puesta en marcha se parece a la de una sociedad anónima: tiene acciones y capital social. Su capital actual es de 10.760 millones de euros, en manos de los bancos centrales de los Estados miembros, que actúan como accionistas; inicialmente era de 5.760 millones. La clave de reparto del capital inicial se determinó en 1998 según la población y el PIB de los Estados, y es regulable: se ha modificado seis veces. Las acciones del BCE no son transferibles y no pueden usarse como garantía."
+    },
+    {
+     "titulo": "De dónde viene: el paso a la moneda única",
+     "nivel": "hecho",
+     "texto": "El BCE es el sucesor de hecho del Instituto Monetario Europeo, creado al comienzo de la segunda fase de la Unión Económica y Monetaria para gestionar los problemas de transición de los países que iban a adoptar el euro y para preparar la creación del propio BCE y del SEBC. El 2 de mayo de 1998 el Consejo Europeo, reunido a nivel de jefes de Estado y de Gobierno, decidió por unanimidad que once Estados miembros cumplían las condiciones para adoptar la moneda única el 1 de enero de 1999: Bélgica, Alemania, Francia, Irlanda, Italia, España, Luxemburgo, Países Bajos, Austria, Portugal y Finlandia. Esos países participarían en la tercera fase de la Unión Económica y Monetaria. Los jefes de Estado o de Gobierno acordaron también quiénes se recomendarían como miembros del Comité Ejecutivo del BCE. Dos países que podían adoptar el euro, Reino Unido y Dinamarca, no se incorporaron a la zona euro."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos. Para seguir el dinero y el poder, lo que consta es que el capital pertenece a los bancos centrales nacionales y que la clave de reparto se basa en la población y el PIB de cada Estado. Qué peso tiene cada país en las decisiones y quién ha influido en el rumbo de la política monetaria (por ejemplo, en la crisis de 2007) no consta en estas fuentes y queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -5258,9 +5444,46 @@ window.CRONO = {
       "titulo": "Banco Mundial: historia",
       "url": "https://www.worldbank.org/en/archive/history",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Conferencia de Bretton Woods",
+      "url": "https://es.wikipedia.org/wiki/Conferencia_de_Bretton_Woods",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue la conferencia",
+     "nivel": "hecho",
+     "texto": "La Conferencia Monetaria y Financiera de las Naciones Unidas, conocida como Conferencia de Bretton Woods, reunió a delegados de las 44 naciones aliadas en el Hotel Mount Washington, en Bretton Woods (Carroll, Nuevo Hampshire, Estados Unidos), del 1 al 22 de julio de 1944. Su objetivo era regular el sistema monetario y el orden financiero para cuando acabara la Segunda Guerra Mundial. De los acuerdos salieron el Banco Internacional de Reconstrucción y Fomento (BIRF, hoy parte del Grupo del Banco Mundial) y el Fondo Monetario Internacional (FMI), dos instituciones que siguen existiendo. Algunos de los acuerdos obligatorios no empezaron a operar hasta diciembre de 1958, cuando todas las monedas de Europa pasaron a ser convertibles. Muchos atribuyen a este acuerdo el crecimiento de la posguerra y la estabilidad de los tipos de cambio."
+    },
+    {
+     "titulo": "Qué se acordó",
+     "nivel": "hecho",
+     "texto": "Los términos principales fueron cuatro. Primero, la formación del FMI y del BIRF. Segundo, un sistema de tipos de cambio fijos pero ajustables: se fijaban, con posibilidad de cambiarlos si hacía falta. Tercero, las monedas debían ser convertibles para el comercio y otras transacciones corrientes, aunque los gobiernos conservaban el poder de regular los grandes flujos de capital; y como un tipo fijado así podía resultar desfavorable para la balanza de pagos de algún país, los gobiernos podían revisarlo hasta en un 10 %. Cuarto, la creación de una Organización Internacional de Comercio, que luego llevaría al GATT. En la práctica, el sistema fijaba el dólar al oro a 35 dólares la onza, con las demás monedas ligadas al dólar.\n\nLa idea de fondo era la de los mercados abiertos y las instituciones de «laissez faire». En su discurso de despedida, Henry Morgenthau dijo que el FMI y el Banco Mundial marcaban el final del nacionalismo económico: los países mantendrían su interés nacional, pero los bloques comerciales y las esferas de influencia económica dejarían de ser sus medios. La segunda idea era la gestión conjunta del orden político-económico occidental: las principales naciones democráticas industriales debían estar por debajo de las barreras al comercio y a la circulación de capitales y, a la vez, ser responsables de gobernar el sistema. El acuerdo permitió sintetizar el deseo británico de pleno empleo y estabilidad económica y el deseo estadounidense de libre comercio."
+    },
+    {
+     "titulo": "Dos propuestas que no salieron",
+     "nivel": "hecho",
+     "texto": "La Organización Internacional de Comercio habría complementado al FMI y al Banco Mundial para fijar normas del comercio internacional. Su carta se acordó en la Conferencia de las Naciones Unidas sobre Comercio y Empleo, en La Habana en marzo de 1948, pero el Senado de Estados Unidos no la ratificó y la organización nunca existió. En 1995, durante la Ronda Uruguay del GATT, se creó la Organización Mundial del Comercio, como sustituta del GATT, y asumió sus principios y acuerdos.\n\nJohn Maynard Keynes propuso la Unión de Compensación Internacional, una forma de regular la balanza comercial. Le preocupaba que los países con déficit comercial no pudieran salir de él, pagando cada vez más intereses por una deuda creciente y frenando así el crecimiento global. La unión habría sido en la práctica un banco con su propia moneda, el «bancor», intercambiable con las monedas nacionales a un tipo fijo y usada como unidad de cuenta entre las naciones, de modo que sus déficits o excedentes comerciales pudieran medirse con ella. No se adoptó."
+    },
+    {
+     "titulo": "La pelea por el Banco de Pagos Internacionales",
+     "nivel": "hecho",
+     "texto": "En 1944, en las últimas fases de la guerra, el Banco de Pagos Internacionales (BPI) se convirtió en el centro de una disputa. La delegación noruega presentó pruebas de que el BPI era culpable de crímenes de guerra y planteó una moción para disolverlo; la apoyaron los estadounidenses, concretamente el presidente Franklin D. Roosevelt y Henry Morgenthau, y Harry Dexter White. En el otro lado, la delegación británica, encabezada por John Maynard Keynes, y Dean Acheson, que según la fuente representaba al Chase, intentaron vetar la disolución.\n\nEl problema era el origen del BPI. Se formó en 1930 y sus principales defensores fueron el gobernador del Banco de Inglaterra, Montagu Norman, y su colega Hjalmar Schacht, más tarde ministro de Economía de Hitler. Se pensó, hasta donde se sabe, para facilitar las transferencias derivadas de las obligaciones del tratado de paz tras la Primera Guerra Mundial: el Comité Joven lo propuso en 1929 como medio de pago de las reparaciones alemanas; el plan se acordó en agosto de ese año en La Haya, la carta se redactó en la Conferencia Internacional de Banqueros de Baden-Baden en noviembre y se aprobó en la segunda Conferencia de La Haya, el 20 de enero de 1930. La junta original incluía a dos hombres nombrados por Hitler, Walther Funk y Emil Puhl, a Hermann Schmitz, director de IG Farben, y al barón Kurt von Schroeder, propietario del banco J. H. Stein, que guardaba los depósitos de la Gestapo.\n\nAnte las denuncias de que el BPI había ayudado a los alemanes a saquear los activos de los países ocupados, la conferencia recomendó su «liquidación con la mayor brevedad posible». En julio de 1944 Acheson interrumpió a Keynes en una reunión, temiendo que Roosevelt lo disolviera; Keynes acudió a Morgenthau para impedirlo o retrasarlo, pero al día siguiente se aprobó la disolución. La delegación británica no se rindió, y cuando murió Roosevelt aún no se había ejecutado. En abril de 1945 el nuevo presidente, Harry S. Truman, y los británicos la suspendieron, y la decisión de liquidarlo se revirtió oficialmente en 1948. La disolución nunca se cumplió."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "El autor registrado en esta ficha presenta Bretton Woods dentro de una cronología larga del poder: 1913, la Reserva Federal; 1914-1945, dos guerras mundiales; 1944, Bretton Woods, con el FMI, el Banco Mundial y los «paraísos fiscales»; 1945, la ONU; 1948, Israel; 1958, el IESE (Opus Dei) y ESADE (Compañía de Jesús); 1959, el Concilio Vaticano II. Es su lectura de cómo se encadenan esos hechos.\n\nLa versión oficial de la ficha dice que no consta que la conferencia creara «paraísos fiscales», y que el resto de esa cronología no se ha contrastado."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo que consta es la conferencia, sus acuerdos y la disputa por el BPI. Lo que queda abierto es si esos hechos forman una cadena con intención, como sugiere el autor, o son episodios separados. Con lo leído aquí no hay forma de decidirlo: el hecho comprobado es que el BPI sobrevivió a la propuesta de disolución, apoyada por Estados Unidos y Noruega y bloqueada por los británicos, y que Estados Unidos y Gran Bretaña, con Keynes y White, fueron los arquitectos principales del sistema.\n\nSiguiendo la regla de seguir el dinero y el poder, el dato más claro es que el dólar quedó como moneda de reserva ligada al oro, con una posición central de Estados Unidos, que el siguiente acto (el fin de la convertibilidad en 1971) desmontó. Es una hipótesis de Nexus sobre el estado de la cuestión, no un dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -5285,6 +5508,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Fondo Monetario Internacional",
       "url": "https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Conferencia de Bretton Woods",
+      "url": "https://es.wikipedia.org/wiki/Conferencia_de_Bretton_Woods",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -5301,6 +5529,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "El Fondo Monetario Internacional (FMI) es una organización financiera internacional, con sede en Washington. Nació de los acuerdos de la conferencia de Bretton Woods de julio de 1944, que reunió a unos 730 delegados de 44 países aliados de la Segunda Guerra Mundial, sobre todo a partir de las ideas de Harry Dexter White y John Maynard Keynes. Entró en vigor el 27 de diciembre de 1945, con 29 países miembros, con el objetivo de reconstruir el sistema monetario internacional.\n\nEn el sistema original, el dólar se fijaba al oro a 35 dólares la onza y las demás monedas se ligaban al dólar con tipos fijos que podían ajustarse. Los gobiernos podían revisar el tipo hasta un 10 % si les era desfavorable para la balanza de pagos, y conservaban el poder de regular los grandes flujos de capital. Algunos acuerdos obligatorios no empezaron a operar hasta diciembre de 1958, cuando las monedas europeas pasaron a ser convertibles."
+    },
+    {
+     "titulo": "Qué cambió después",
+     "nivel": "hecho",
+     "texto": "El 15 de agosto de 1971 el presidente Nixon canceló la convertibilidad del dólar en oro, y el sistema de cambios fijos de Bretton Woods dejó de funcionar. En 1973, un régimen de tipos de cambio flotantes sustituyó de hecho al anterior para las demás monedas del mundo. La ficha recoge que, tras 1976 y la desaparición del cambio fijo, el FMI pasó a dar créditos a los Estados a cambio de que apliquen sus recomendaciones. La ficha del shock de Nixon cuenta cómo se llegó a eso.\n\nEl FMI ha seguido existiendo como organismo permanente. Complementa su capital, entre otras vías, con acuerdos de préstamo como los Acuerdos Generales de Préstamo (GAB), de enero de 1962, y los Nuevos Acuerdos de Préstamo (NAB), aprobados en 1997 y en vigor desde el 17 de noviembre de 1998, que figuran en otras fichas."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos. Para seguir el dinero y el poder haría falta saber quién tiene cuántos votos en el FMI y qué condiciones impone a quien le pide préstamos; esa información no consta en las fuentes leídas para esta ficha y no se ha comprobado. Queda como tema abierto, a documentar en fichas de episodios concretos (crisis de deuda, programas de ajuste), no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -10845,6 +11090,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Los días del crac",
+     "nivel": "hecho",
+     "texto": "Tras cinco años en los que el índice Dow Jones Industrial quintuplicó su valor, los precios alcanzaron su máximo, 381,17, el 3 de septiembre de 1929. Después el mercado cayó con fuerza durante un mes y perdió el 17 % en la caída inicial; en la semana siguiente recuperó más de la mitad de las pérdidas, y volvió a caer. La caída se aceleró el Jueves Negro, 24 de octubre, con un récord de 12,9 millones de acciones negociadas. Desde el día 15 la acumulación de órdenes de venta ya bajaba los valores, y ese jueves unos 13 millones de títulos se pusieron a la venta a bajo precio sin encontrar comprador.\n\nA la una de la tarde del viernes 25 varios grandes banqueros de Wall Street se reunieron para buscar una salida al pánico. Estaban Thomas W. Lamont, por J. P. Morgan; Albert Wiggin, del Chase National Bank; y Charles E. Mitchell, presidente del National City Bank. Eligieron a Richard Whitney, vicepresidente de la Bolsa de Nueva York, para actuar en su nombre: con los recursos de los banqueros detrás, Whitney colocó una oferta de compra de un gran bloque de acciones de U.S. Steel muy por encima del mercado y después hizo lo mismo con otra gran empresa. Era una táctica parecida a la que acabó con el pánico de 1907, y esta vez detuvo la caída solo ese día.\n\nEl lunes 28 de octubre el Dow Jones perdió un 13 %, récord hasta entonces. El Martes Negro, 29 de octubre, se negociaron 16,4 millones de acciones, una cifra que no se superaría hasta 1969, y el índice perdió otro 12 %. La bolsa perdió 14.000 millones de dólares ese día y 30.000 millones en la semana, diez veces el presupuesto anual del Gobierno federal y mucho más de lo que Estados Unidos gastó en la Primera Guerra Mundial. En esos tres días 100.000 trabajadores perdieron su empleo. William C. Durant y miembros de la familia Rockefeller intentaron comprar grandes cantidades de acciones para mostrar confianza, sin éxito."
+    },
+    {
+     "titulo": "Una caída de casi una década",
+     "nivel": "hecho",
+     "texto": "No fue cosa de un solo día. Las caídas continuaron durante un mes; el 13 de noviembre hubo otra, y en la primavera de 1930 la Banca Morgan decidió vender las acciones que había acumulado y hubo una nueva caída. Desde abril de 1931 el mercado se embarcó en un descenso constante que no terminó hasta el 8 de julio de 1932, cuando el Dow Jones cerró en 41,22, un 89 % por debajo del máximo, su nivel más bajo desde 1800. No volvió a los niveles de antes de 1929 hasta 1954. La caída coincidió con el comienzo de la Gran Depresión, que según la ficha duró hasta que Estados Unidos entró en la Segunda Guerra Mundial, el 8 de diciembre de 1941, y llevó a reformas financieras y nuevas regulaciones que se convirtieron en punto de referencia.\n\nPoco antes, el economista Irving Fisher había proclamado que los precios de las acciones habían alcanzado «lo que parece ser una meseta alta permanente». La ciudad de Nueva York era ya la mayor metrópolis del país y en Wall Street muchos creían que el mercado podía sostener esos niveles."
+    },
+    {
+     "titulo": "Antecedentes: la economía de la posguerra",
+     "nivel": "hecho",
+     "texto": "Tras la Primera Guerra Mundial, Estados Unidos era el principal productor y exportador del mundo de materias primas, productos industriales y alimentos, y se había convertido en la primera potencia industrial, con el 42 % de la actividad industrial mundial. Nueva York sustituyó a Londres como centro financiero. Pero el fuerte endeudamiento de las naciones europeas con EE. UU. hizo que el bloque europeo dejara de comprarle, y la producción excedente no tenía dónde colocarse. La deuda pública de Francia se multiplicó por 6,5, la de Gran Bretaña por 11 y la de Alemania por 27. El Tratado de Versalles había impuesto reparaciones de guerra a los vencidos, sobre todo a Alemania, que vio hipotecada su economía durante décadas. Además, la fragmentación de Europa central y oriental en varios estados rompió los circuitos del oro y destruyó el sistema del patrón oro, sobre el que descansaban los pagos internacionales y el equilibrio financiero del siglo XIX.\n\nLa reconversión de la economía de guerra tampoco fue fácil: tras el crecimiento de 1919, entre 1920 y 1921 hubo una grave recesión por la restricción de créditos de EE. UU. a Europa y por el descenso de la demanda una vez cubiertas las necesidades básicas. Afectó a cada país de forma distinta: Alemania sufrió hiperinflación; Italia, quiebras de empresas y de bancos, con una grave crisis social."
+    },
+    {
+     "titulo": "Sobreproducción y crédito",
+     "nivel": "hecho",
+     "texto": "A partir de 1925 la producción superó las necesidades reales de consumo, sobre todo en Estados Unidos, donde los stocks crecían a medida que Europa se reconstruía. La ficha recoge varias causas: una distribución desigual de las rentas, que limitaba el consumo a las capas más ricas (según Galbraith, en EE. UU. el 5 % de la población recibía la tercera parte de la renta nacional); precios de monopolio, de tipo cartel, que obligaban a mantener grandes stocks sin vender; un desfase entre los precios agrícolas e industriales, que bajaba el poder adquisitivo de los campesinos, grandes clientes de la industria; y el aumento de producción de países menos desarrollados durante la guerra. El sector agrario fue el más perjudicado: su índice de precios bajó de 147 en 1925 a 138 en 1929. Algunos autores sostienen que más que superproducción hubo bajo consumo: el problema no era el exceso de oferta sino la caída de la demanda.\n\nEn lo interno, muchos inversores estadounidenses invertían todos sus ahorros y compraban a crédito sin garantías suficientes. Cuando no hubo demanda, no pudieron pagar sus préstamos y los bancos no pudieron devolver a la Reserva Federal, con lo que los inversores endeudados fueron obligados a vender y la bolsa se desplomó."
+    },
+    {
+     "titulo": "Qué papel tuvo y qué se discute",
+     "nivel": "hipotesis",
+     "texto": "Economistas e historiadores no están de acuerdo en qué papel desempeñó el crac en los acontecimientos económicos, sociales y políticos posteriores. La ficha oficial dice que empezó la Gran Depresión; la fuente recoge que coincidió con ella, sin afirmar que la causara. Otra línea de explicación relaciona las oscilaciones previas con la Ley de Tarifas Smoot-Hawley, que se debatía en el Congreso: el economista Jude Wanniski lo propuso, y Richard M. Salsman escribió que en octubre de 1929 circulaban rumores de que el presidente Hoover no la vetaría, y los precios cayeron aún más.\n\nSiguiendo la regla de seguir el dinero y el poder, hay dos hechos para colocar en la mesa, sin sacar de ellos más de lo que dicen. Uno es que los grandes banqueros de Wall Street se coordinaron para sostener el mercado el 25 de octubre y no lo lograron. El otro es que la Banca Morgan vendió sus acciones en la primavera de 1930 y hubo otra caída. Quién ganó o perdió con cada movimiento, y si hubo decisiones deliberadas, no consta en estas fuentes; queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -18124,6 +18396,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra civil española",
       "url": "https://es.wikipedia.org/wiki/Guerra_civil_española",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra civil española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_civil_espa%C3%B1ola",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -18144,6 +18421,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra civil española se desencadenó tras el fracaso parcial del golpe de Estado del 17 de julio de 1936, dado por las fuerzas armadas contra el Gobierno electo de la Segunda República. Tras el bloqueo del estrecho de Gibraltar, un puente aéreo, posible gracias a la rápida colaboración de la Alemania nazi y la Italia fascista, trasladó a las tropas rebeldes desde el protectorado español de Marruecos a la península en las últimas semanas de julio. La guerra concluyó el 1 de abril de 1939 con el último parte de guerra firmado por Francisco Franco, que declaró su victoria y estableció una dictadura que duró hasta su muerte, el 20 de noviembre de 1975. La fuente subraya que la guerra tuvo múltiples facetas: lucha de clases, guerra de religión, enfrentamiento de nacionalismos opuestos, dictadura militar contra democracia republicana, contrarrevolución contra revolución, fascismo contra comunismo."
+    },
+    {
+     "titulo": "Los dos bandos",
+     "nivel": "hecho",
+     "texto": "El bando republicano, llamado también «leal» o «gubernamental», se organizó en torno al Gobierno del Frente Popular, formado por los republicanos de Izquierda Republicana y Unión Republicana, los socialistas del PSOE, el Partido Comunista de España, de orientación estalinista, el POUM, marxista no estalinista, el Partido Sindicalista, de origen anarquista, y en Cataluña los nacionalistas de izquierda de Esquerra Republicana de Catalunya. Lo apoyaban el movimiento obrero, la FAI y los sindicatos UGT y CNT, que perseguían además realizar la revolución social, y el Partido Nacionalista Vasco, porque las Cortes estaban a punto de aprobar el Estatuto de Autonomía del País Vasco.\n\nEl bando sublevado, que se llamó a sí mismo «nacional», se organizó en torno a parte del alto mando militar, primero en la Junta de Defensa Nacional, sustituida por la Junta Técnica del Estado tras el nombramiento de Franco como generalísimo y jefe del Gobierno del Estado. Lo integraban los fascistas de Falange Española de las JONS, los carlistas de la Comunión Tradicionalista, los monárquicos alfonsinos de Renovación Española y gran parte de los votantes de la CEDA, la Liga Regionalista y otros grupos conservadores. Socialmente lo apoyaron las clases que sintieron en peligro su posición tras la victoria del Frente Popular, la Iglesia católica, acosada por la persecución religiosa desatada por la izquierda al estallar el conflicto, y pequeños propietarios temerosos de una revolución proletaria; en las regiones menos industrializadas o agrícolas, también numerosos campesinos y obreros de firmes convicciones religiosas."
+    },
+    {
+     "titulo": "Cómo se llegó: de la dictadura de Primo de Rivera a 1934",
+     "nivel": "hecho",
+     "texto": "En enero de 1930 el general Miguel Primo de Rivera reconoció el fracaso de la dictadura que había instaurado en septiembre de 1923 con el apoyo del rey, y dimitió. Alfonso XIII nombró presidente del Gobierno al general Dámaso Berenguer, que no logró devolver a la monarquía la «normalidad constitucional» (el periodo se conoció como la «Dictablanda»), y en febrero de 1931 lo sustituyó el almirante Juan Bautista Aznar, que convocó elecciones municipales para el 12 de abril. Las ganaron en las ciudades las candidaturas republicano-socialistas surgidas del Pacto de San Sebastián de agosto de 1930, y el 14 de abril el rey abandonó el país ante las dudas de la Guardia Civil y del Ejército sobre usar la fuerza contra las multitudinarias manifestaciones prorrepublicanas. En Madrid el comité revolucionario republicano-socialista proclamó la República y asumió el poder como Gobierno Provisional, presidido por Niceto Alcalá-Zamora.\n\nEn el primer bienio se aprobó la nueva Constitución y el gobierno de coalición de republicanos de izquierda y socialistas presidido por Manuel Azaña, formado el 15 de diciembre de 1931, profundizó las reformas para modernizar la realidad económica, social, política y cultural. Esas reformas encontraron gran resistencia entre los grupos a los que se intentaba quitar posiciones adquiridas: los terratenientes, los grandes empresarios, financieros y patronos, la Iglesia católica, las órdenes religiosas, la opinión monárquica y el militarismo «africanista», que organizó un golpe fracasado en agosto de 1932 encabezado por el general José Sanjurjo. Hubo también resistencia de signo contrario, la del revolucionarismo a ultranza de las organizaciones anarquistas (CNT y FAI), para las que la República era el «orden burgués» que había que destruir para alcanzar el «comunismo libertario».\n\nEn septiembre de 1933 se deshizo la coalición de Azaña y las elecciones de noviembre, en las que votaron por primera vez las mujeres, las ganaron la derecha católica de la CEDA y el centroderecha republicano del Partido Republicano Radical de Alejandro Lerroux. Este formó gobierno para «rectificar» las reformas del primer bienio, no anularlas. Cuando la CEDA entró en el gobierno, en octubre de 1934, estalló una insurrección socialista que solo se consolidó en Asturias durante un par de semanas (el único sitio donde participó también la CNT) y fue sofocada por el Ejército, que trajo a las tropas coloniales de regulares y legionarios del protectorado de Marruecos, con una fuerte represión posterior. Lo mismo ocurrió cuando el presidente de la Generalidad, Lluís Companys, proclamó el 6 de octubre el «Estado Catalán» dentro de la «República Federal Española»."
+    },
+    {
+     "titulo": "Violencia y memoria",
+     "nivel": "hecho",
+     "texto": "Ambos bandos cometieron graves crímenes en el frente y en las retaguardias, como sacas de presos, paseos, desapariciones y tribunales extrajudiciales. En la dictadura de Franco se investigaron y se condenaron con dureza los hechos delictivos de la zona republicana, hasta instruir una Causa General con escasas garantías procesales, mientras los delitos de los vencedores no se investigaron ni se juzgaron, aunque algunos historiadores y juristas defienden que, además de subvertir el orden institucional, los sublevados habrían intentado exterminar a la oposición política.\n\nLas consecuencias de la guerra han marcado la historia posterior de España por lo dramáticas y duraderas que fueron. En lo demográfico, la mortandad y el descenso de la natalidad marcaron la pirámide de población durante generaciones. En lo material, la destrucción de las ciudades, de la estructura económica y del patrimonio artístico. En lo intelectual, el fin de la llamada Edad de Plata de las letras y las ciencias. En lo político, la represión en la retaguardia de ambas zonas, mantenida por los vencedores durante todo el franquismo, el exilio republicano y la excepcionalidad geopolítica de que el régimen de Franco se mantuviera hasta 1975."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Los hechos que constan son el golpe del 17 de julio de 1936, la ayuda de la Alemania nazi y la Italia fascista con el puente aéreo, las dos coaliciones sociales y políticas, y la resistencia de terratenientes, grandes empresarios, financieros, Iglesia y militares a las reformas de la República. Siguiendo la regla de seguir el dinero y el poder, esa lista de resistencias es el punto de partida, pero esta fuente no cuenta cuánto dinero y qué apoyos exteriores recibió cada bando, ni qué hizo cada grupo social concreto. Queda como tema abierto, a documentar con fuentes específicas sobre la financiación de la guerra y el papel de la ayuda exterior, no como dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18596,6 +18900,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de Secesión",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_Secesión",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de Secesión",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Secesi%C3%B3n",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -18603,6 +18912,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La guerra de Secesión, o guerra civil estadounidense, se libró entre el 12 de abril de 1861 y el 26 de mayo de 1865 y enfrentó a los estados de la Unión (el Norte) con la Confederación (el Sur), formada poco antes, en 1861, por estados que se habían separado de la Unión. El conflicto principal que llevó a la guerra fue una disputa sobre si se debía permitir que la esclavitud se expandiera a los territorios del oeste, lo que daría lugar a más estados esclavistas, o se le debía prohibir, lo que muchos creían que pondría a la esclavitud en camino de una extinción definitiva. Fue el conflicto militar más mortífero de la historia de Estados Unidos: entre 620.000 y 750.000 muertos, más que las muertes militares de Estados Unidos en todas las demás guerras juntas, al menos hasta aproximadamente la guerra de Vietnam, además de un número indeterminado de víctimas civiles."
+    },
+    {
+     "titulo": "Cómo se llegó a la guerra",
+     "nivel": "hecho",
+     "texto": "Décadas de controversia sobre la esclavitud llegaron a su punto crítico cuando Abraham Lincoln, que se oponía a la expansión de la esclavitud, ganó las elecciones presidenciales de 1860. Los republicanos, dirigidos por Lincoln, apoyaban prohibir la esclavitud en todos los territorios; los estados del sur lo vieron como una violación de sus derechos constitucionales y como el primer paso de un plan para abolir la esclavitud en todo el país. Los tres candidatos favorables a la Unión sumaron el 82 % de los votos del país, con los votos de Lincoln concentrados en el norte, los del demócrata Stephen A. Douglas repartidos por toda la nación y los de John Bell centrados en Tennessee, Kentucky y Virginia. Lincoln fue el primer candidato del Partido Republicano en ganar la presidencia.\n\nAntes de su toma de posesión, siete estados esclavistas con economías basadas en el algodón declararon la secesión y formaron la Confederación. Los seis primeros eran los que tenían las proporciones más altas de esclavos en su población, un 49 % en conjunto. Los votantes de esos estados no fueron unánimes: Georgia votó con un 51 % y Luisiana con un 55 % por los candidatos unionistas, Alabama con un 46 %, Misisipi con un 40 %, Florida con un 38 % y Texas con un 25 %; solo Texas celebró un referéndum sobre la secesión. Otros ocho estados esclavistas siguieron rechazando las peticiones de secesión. El presidente saliente, James Buchanan, y los republicanos entrantes rechazaron la secesión por ilegal. El discurso inaugural de Lincoln, el 4 de marzo de 1861, declaró que su administración no iniciaría una guerra civil y, dirigiéndose a los estados del Sur, trató de calmar sus temores diciendo que no tenía propósito de interferir con la esclavitud donde existía, ni derecho legal para hacerlo ni inclinación.\n\nTras tomar los confederados numerosos fuertes federales dentro del territorio que reclamaban, los intentos de compromiso fracasaron y ambos bandos se prepararon para la guerra. Los confederados supusieron que los países europeos dependían tanto del «Rey Algodón» que intervendrían, pero ninguno lo hizo y ninguno reconoció a los nuevos Estados Confederados de América."
+    },
+    {
+     "titulo": "Cómo se desarrolló",
+     "nivel": "hecho",
+     "texto": "Las hostilidades empezaron el 12 de abril de 1861, cuando los confederados dispararon contra Fort Sumter, en Carolina del Sur. Una ola de entusiasmo bélico se extendió por el Norte y el Sur y se disparó el reclutamiento. Cuatro estados sureños más se separaron una vez empezada la guerra, y la Confederación, liderada por su presidente, Jefferson Davis, afirmó su control sobre un tercio de la población estadounidense en once estados. Hubo cuatro años de combates intensos, sobre todo en el Sur.\n\nEn 1861-1862, en el teatro occidental, la Unión consiguió avances permanentes, mientras en el oriental el conflicto no fue concluyente. El 1 de enero de 1863 Lincoln emitió la Proclamación de Emancipación, que declaraba libres a todos los esclavos de los estados rebeldes y afectaba a más de 3,5 millones de los 4 millones de personas esclavizadas del país: desde entonces la abolición fue un objetivo de guerra de la Unión. En el oeste, la Unión destruyó en el verano de 1862 la armada fluvial confederada, luego gran parte de sus ejércitos occidentales, y se apoderó de Nueva Orleans. El asedio de Vicksburg, en 1863, partió en dos la Confederación en el río Misisipi, mientras la incursión del general confederado Robert E. Lee hacia el norte fracasó en Gettysburg. Los éxitos del oeste llevaron al general Ulysses S. Grant al mando de todos los ejércitos de la Unión en 1864.\n\nCon un bloqueo naval cada vez más estricto de los puertos confederados, la Unión reunió recursos y hombres para atacar desde todas las direcciones. Cayó Atlanta en 1864 ante el general William Tecumseh Sherman, seguida de su marcha hacia el mar. Las últimas grandes batallas fueron en torno al sitio de Petersburg, de diez meses, puerta de la capital confederada, Richmond. Los confederados abandonaron Richmond y, el 9 de abril de 1865, Lee se rindió a Grant tras la batalla de Appomattox, lo que significó el final de la guerra. Lincoln vivió para ver la victoria, pero lo tirotearon el 14 de abril y murió al día siguiente. La ficha da como fin el 26 de mayo de 1865."
+    },
+    {
+     "titulo": "Una guerra industrial",
+     "nivel": "hecho",
+     "texto": "Fue una de las primeras guerras industriales: se usaron ampliamente los ferrocarriles, el telégrafo eléctrico, los barcos de vapor, el buque de guerra acorazado y las armas fabricadas en serie. La tecnología y la brutalidad de la guerra, dice la fuente, presagiaron las guerras mundiales del siglo siguiente. Al final de la guerra, buena parte de la infraestructura del Sur quedó destruida."
+    },
+    {
+     "titulo": "Después: la Reconstrucción",
+     "nivel": "hecho",
+     "texto": "La Confederación se derrumbó, se abolió la esclavitud y se liberó a cuatro millones de personas negras esclavizadas. El país devastado entró entonces en la era de la Reconstrucción, un intento de reconstruir la nación, devolver a los antiguos estados confederados a los Estados Unidos y conceder derechos civiles a los esclavos liberados. La guerra es uno de los episodios más estudiados de la historia de Estados Unidos y sigue siendo objeto de debate cultural e historiográfico. Un tema de interés continuo es el mito de la «Causa Perdida» de la Confederación."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo comprobado es que la disputa sobre la expansión de la esclavitud estaba en el centro, que siete estados con economías basadas en el algodón y la mayor proporción de esclavos fueron los primeros en separarse, y que los confederados esperaban que Europa interviniera por el algodón sin que ocurriera. Siguiendo la regla de seguir el dinero y el poder, queda abierto el papel de la banca y del comercio, de Nueva York, Londres y otros centros, en la financiación y el comercio del algodón y de cada bando, que esta fuente no recoge. Es una hipótesis de Nexus sobre lo que falta documentar, no un dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18794,6 +19135,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra Fría",
       "url": "https://es.wikipedia.org/wiki/Guerra_Fría",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra Fría",
+      "url": "https://es.wikipedia.org/wiki/Guerra_Fr%C3%ADa",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -18810,6 +19156,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "La Guerra Fría fue el periodo histórico, entre 1945 y 1991, de búsqueda de dominio e influencia entre el bloque occidental, capitalista y liderado por Estados Unidos, y el bloque oriental, comunista y liderado por la Unión Soviética. Fue un enfrentamiento en varios órdenes, político, económico, social, ideológico, militar y propagandístico, que se desarrolló a escala global tras la Segunda Guerra Mundial. Los historiadores aceptan ampliamente esas fechas, pero hay desacuerdo sobre el origen exacto: la mayoría sostiene que empezó nada más acabar la Segunda Guerra Mundial, y otros que sus raíces están en las tensiones de 1917-1918 entre el Imperio ruso, por un lado, y el Imperio británico y Estados Unidos, por el otro."
+    },
+    {
+     "titulo": "De dónde viene el nombre",
+     "nivel": "hecho",
+     "texto": "George Orwell usó «guerra fría» como término general en su ensayo «Tú y la bomba atómica», publicado el 19 de octubre de 1945 en el periódico británico Tribune, en un mundo amenazado por la guerra nuclear: aludía a las predicciones de James Burnham de un mundo polarizado. El 10 de marzo de 1946 escribió en The Observer que, tras la conferencia de Moscú de diciembre, Rusia había empezado a hacer una guerra fría contra el Reino Unido y el Imperio británico.\n\nEl primer uso del término para describir específicamente la confrontación entre la Unión Soviética y Estados Unidos fue en un discurso de Bernard Baruch, financiero y asesor presidencial, el 16 de abril de 1947: «no nos engañemos: estamos inmersos en una guerra fría». Lo popularizó el columnista Walter Lippmann con su libro «La guerra fría». Cuando le preguntaron en 1947 por el origen de la expresión, la remontó al término francés «guerre froide» de los años treinta."
+    },
+    {
+     "titulo": "Antecedentes: de 1917 a 1945",
+     "nivel": "hecho",
+     "texto": "El choque ideológico entre comunismo y capitalismo empezó en 1917, con el triunfo de la Revolución rusa, de la que la Unión Soviética salió como primer país comunista, y fue uno de los primeros hechos que erosionaron las relaciones ruso-estadounidenses. Alimentaron la sospecha mutua la idea bolchevique de que el capitalismo debía derribarse por la fuerza, la retirada rusa de la Primera Guerra Mundial tras firmar el Tratado de Brest-Litovsk, la intervención estadounidense en apoyo del Movimiento Blanco durante la guerra civil rusa y la negativa de EE. UU. a reconocer diplomáticamente a la URSS hasta 1933.\n\nEntre 1918 y 1939 hubo varios acuerdos que enconaron las posturas: el Tratado de Rapallo (1922) entre la Rusia soviética y la Alemania de Weimar; el pacto antikomintern (1936) entre Japón y la Alemania nazi; los Acuerdos de Múnich (1938) entre el Reino Unido, Francia, Italia y la Alemania nazi; y el pacto de no agresión Ribbentrop-Mólotov (1939) entre la Alemania nazi y la URSS. La Unión Soviética acabó combatiendo contra la Alemania nazi con los Aliados, pero en las últimas etapas de la guerra los soviéticos empezaron a sospechar que británicos y estadounidenses, que habían dejado a los primeros el grueso del esfuerzo bélico, forjarían una unión contra ellos, y el resto de los Aliados sospechaban que los soviéticos tratarían de ampliar su dominio al resto de Europa.\n\nExistió un plan, encargado por Winston Churchill y desarrollado por las Fuerzas Armadas británicas, la «Operación Impensable»: una vez decidida la guerra a favor de los Aliados y antes de que los soviéticos desarrollaran la bomba atómica, cinco millones de soldados aliados atacarían la Alemania soviética para empujar a los soviéticos hacia el este y forzarlos a firmar un tratado de paz ventajoso para Occidente. Los Aliados tampoco estaban de acuerdo en cómo dibujar las fronteras europeas tras la guerra: el modelo estadounidense de «estabilidad» pasaba por instaurar gobiernos y mercados económicos parecidos al suyo, de corte capitalista, en la creencia de que los países así gobernados acudirían a organizaciones internacionales como la recién creada ONU para resolver sus conflictos."
+    },
+    {
+     "titulo": "Las tres etapas",
+     "nivel": "hecho",
+     "texto": "En la primera fase Estados Unidos, temiendo la expansión del comunismo en Europa, creó en 1949 la OTAN para contrarrestar la influencia soviética y garantizar la seguridad de sus miembros, y la Unión Soviética respondió en 1955 con el Pacto de Varsovia. La Guerra Fría se desarrolló también en América, Oriente Próximo, Asia y los Estados recién descolonizados de África. Entre las crisis más destacadas de esta etapa figuran la guerra de Indochina (1946-1954), el bloqueo de Berlín (1948-1949), la segunda fase de la guerra civil china (1946-1949), la emergencia de Malasia (1948-1960), la guerra de Corea (1950-1953), la crisis de Suez (1956), la revolución húngara (1956), la crisis de Berlín (1961), la crisis de los misiles de Cuba (1962), la Primavera de Praga (1968) y la guerra de Vietnam (1955-1975).\n\nLa segunda etapa, entre 1969 y 1979, fue la distensión (détente), con un movimiento internacional por la paz que se manifestó contra las pruebas de armas nucleares, abogó por el desarme y protestó contra la guerra. Tras la crisis de los misiles de Cuba hubo en la esfera comunista la ruptura chino-soviética, y Francia, aliado de EE. UU., exigió más autonomía hasta abandonar la estructura militar de la OTAN. Ambos bloques iniciaron conversaciones para limitar el armamento. Eso no impidió que EE. UU. aplicara la doctrina de la seguridad nacional para prevenir «la expansión del comunismo», promoviendo y apoyando en América Latina, a través del Plan Cóndor (1975 hasta la década de 1990), la instalación de dictaduras militares que reprimieron con terrorismo de Estado los movimientos políticos, sociales, sindicales y estudiantiles. La distensión acabó con la guerra de Afganistán (1978-1992), en la que la URSS se implicó para defender al gobierno comunista afgano.\n\nLa última etapa, en los años ochenta, trajo más presiones diplomáticas, militares y económicas sobre una Unión Soviética que ya sufría estancamiento económico. El nuevo líder, Mijaíl Gorbachov, introdujo las reformas de la glásnost (1985) y la perestroika (1987) y puso fin a la participación soviética en Afganistán (1989). Las presiones por la soberanía nacional se reforzaron en Europa del Este, y Gorbachov se negó a seguir apoyando militarmente a esos gobiernos, la llamada doctrina Sinatra. En 1989 una ola de revoluciones, salvo en Rumanía, derrocó pacíficamente los gobiernos comunistas de Europa central y oriental."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "El 3 de diciembre de 1989, en una declaración conjunta de George Bush y Mijaíl Gorbachov en la Cumbre de Malta, se puso fin oficial a la Guerra Fría. Poco después el Partido Comunista de la Unión Soviética fue prohibido tras un intento fallido de golpe de Estado, en agosto de 1991, contra el gobierno anticomunista de Borís Yeltsin en la RSFS de Rusia. Eso condujo a la disolución formal de la URSS en diciembre de ese año, a la declaración de independencia de sus repúblicas y al colapso de los gobiernos comunistas de buena parte de África y Asia."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos y el desacuerdo entre historiadores sobre el origen: 1945 o 1917. Hay una pregunta que sigue abierta en las fuentes leídas: quién se benefició de cada fase. Los hechos que constan, como el Plan Cóndor, dan datos sobre qué se apoyó y a quién se reprimió, pero no sobre los intereses económicos detrás, y la «Operación Impensable» muestra planes que no se ejecutaron. Siguiendo la regla de seguir el dinero y el poder, queda por documentar en fichas concretas qué empresas, bancos y Estados financiaron cada bloque. Es una hipótesis de Nexus sobre lo que falta, no un dato."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -32602,6 +32980,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "El Reichsbank fue el banco central de Alemania entre 1876 y 1945. Se fundó el 1 de enero de 1876, poco después del nacimiento del Imperio alemán en 1871, como entidad bancaria central para todo el territorio alemán. Originalmente era una entidad privada, controlada por el banco central de Prusia y bajo estrecha supervisión del Gobierno del Reich, con un capital social inicial de 120 millones de marcos y propiedad de accionistas privados. Su primer presidente fue Hermann von Dechend.\n\nHasta la unificación, Alemania había tenido 31 bancos centrales emisores (Notenbanken), y cada Estado independiente tenía su propia moneda en circulación. Una ley de 1870 prohibió crear más y en 1875 el Reichstag aprobó, tras numerosos cambios y compromisos, un proyecto de ley bancaria. Pese a la creación del Reichsbank, cuatro de los antiguos bancos emisores (Baden, Baviera, Sajonia y Wurtemberg) siguieron existiendo hasta 1914."
+    },
+    {
+     "titulo": "De la estabilidad a la hiperinflación",
+     "nivel": "hecho",
+     "texto": "Hasta 1914 el banco mantuvo una moneda muy estable, el Goldmark. Los gastos de guerra provocaron una fuerte presión inflacionaria, y el valor del marco empezó a decrecer rápidamente. La derrota de 1918, la carga de las reparaciones de guerra a los Aliados y el descontento social acabaron en la hiperinflación de 1922-1923. El marco oro, que antes estaba respaldado por oro, derivó en el Papiermark, que no tenía respaldo alguno.\n\nLa Ley de Autonomía del 26 de agosto de 1922, aprobada bajo presión de los Aliados, impidió que el canciller controlara el Reichsbank, de modo que dependería solo de su director. Desde el 30 de agosto de 1924 quedó separado de la estructura del Gobierno del Reich. El presidente lo elegía un Consejo General de 14 miembros, siete de ellos extranjeros, de Reino Unido, Francia, Italia, Estados Unidos, Bélgica, Países Bajos y Suiza; no eran funcionarios de gobierno, sino expertos financieros reconocidos. Las reformas de aquellos años, el Plan Dawes de 1924 y la entrada en circulación de una nueva unidad, el Rentenmark, estabilizaron el sistema monetario y las perspectivas de la República de Weimar. El 30 de agosto de 1924 el Reichsbank empezó a imprimir el Reichsmark, que fue la moneda alemana en circulación hasta 1948."
+    },
+    {
+     "titulo": "El Tercer Reich",
+     "nivel": "hecho",
+     "texto": "Con Hitler en el poder desde 1933, una ley de 1937 restableció el control del Gobierno del Reich sobre el Reichsbank, y en 1939 se renombró Deutsche Reichsbank y se puso bajo el control directo de Hitler, con Walther Funk como último presidente, de 1939 a 1945. Pero la realidad, dice la fuente, es que Hermann Göring se había hecho con el control efectivo del banco tras la dimisión de Hjalmar Schacht como ministro de Economía.\n\nEl banco se benefició enormemente de la confiscación de las propiedades de muchas víctimas de los nazis, sobre todo de judíos: los objetos personales, como los anillos y los dientes de oro arrancados en los campos de concentración, se enviaban al banco central para refundirlos en lingotes. La derrota de mayo de 1945 supuso su disolución, como la de los ministerios y el resto de organismos del Estado alemán, y las reservas del Reichsbank desaparecieron sin dejar rastro. En los juicios de Núremberg, Funk fue condenado por crímenes de guerra, en parte por haber integrado en el Reichsbank el dinero y los bienes robados a los judíos y a otras víctimas; los dientes de oro de víctimas asesinadas aparecieron en los depósitos de la sede central de Berlín."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos. Hay un punto que enlaza con otras fichas: Schacht, que aparece en la historia del Reichsbank y en la del Banco de Pagos Internacionales; la ficha del BPI y la de Bretton Woods muestran su papel. Qué hizo exactamente Schacht en cada institución, y si el Reichsbank y el BPI colaboraron durante la guerra, no consta en esta fuente: queda como tema abierto, a documentar en las fichas de esas instituciones, no como dato aquí. Siguiendo la regla de seguir el dinero y el poder, el hecho más claro es la ruta del oro: de las víctimas, al banco central, a lingotes."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -33750,6 +34150,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Banco de Suecia",
       "url": "https://es.wikipedia.org/wiki/Riksbank",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco de Suecia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Suecia",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -33762,6 +34167,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "El Banco de Suecia (Sveriges Riksbank), fundado en 1668, es el banco central más antiguo del mundo y la autoridad monetaria de Suecia: acuña sus monedas y emite los billetes de la corona sueca, y es miembro del Sistema Europeo de Bancos Centrales. Se fundó cuando quebró el Banco de Estocolmo en 1668 y lo adquirió el Parlamento sueco. El Banco de Estocolmo había sido el banco más antiguo de Suecia y el primero de Europa en emitir billetes; quebró por una retirada masiva de fondos y por la desconfianza tras el revés que sufrió su fundador, Johan Palmstruch.\n\nLa propia fuente matiza que hay otros bancos que pueden considerarse centrales pioneros: el Banco de Núremberg (1498), el Banco de Hamburgo (1619) y el Banco Prusiano (1766), que tras la unificación alemana de 1871 formaron parte del Reichsbank; y algunos bancos franceses, como el Banque Générale (1716) y la Caisse d'Escompte (1776). Pero el Riksbank puede considerarse probablemente el banco central más antiguo aún en funcionamiento."
+    },
+    {
+     "titulo": "Oro, independencia y cambio flotante",
+     "nivel": "hecho",
+     "texto": "La moneda sueca estuvo respaldada por oro hasta 1931, y los billetes podían canjearse por monedas de oro. Según la Constitución sueca, el banco estaba obligado a poder canjear billetes por oro hasta 1975. Sin embargo, en 1931 se promulgó una ley transitoria especial que eximía al banco de esa obligación, y se renovó cada año hasta la ratificación de la nueva Constitución en 1975. Entonces el banco se independizó del gobierno y se convirtió en una organización autónoma, sin la obligación de canjear billetes por oro.\n\nEn noviembre de 1992 se hundió el régimen de tipo de cambio fijo de la corona. Pocos meses después, en enero de 1993, el consejo de gobierno del Riksbank desarrolló un nuevo régimen de política monetaria, con tipo de cambio flotante y objetivo de inflación, en el que influyó mucho la asistencia del Banco de Canadá, con amplia experiencia en el control de la inflación en una economía pequeña y abierta parecida."
+    },
+    {
+     "titulo": "Innovaciones y el «Nobel de economía»",
+     "nivel": "hecho",
+     "texto": "El 2 de julio de 2009, el Riksbank fue el primer banco central del mundo en aplicar un tipo de interés negativo: bajó su tasa de recompra al 0,25 %, con lo que la tasa de depósito a un día cayó al -0,25 % y la de préstamo a un día, al 0,75 %, para contrarrestar la desaceleración económica. Publicó en septiembre de 2017 su primer informe sobre una corona digital, que concluyó que no se había identificado ningún obstáculo insalvable.\n\nEn 1968, con ocasión del tricentenario del banco, se creó el Premio del Banco de Suecia de Ciencias Económicas en memoria de Alfred Nobel, llamado por error «Nobel de economía». Se entrega en la misma ceremonia de los Premios Nobel, en Estocolmo, el 10 de diciembre, aniversario de la muerte de Nobel. La fuente subraya que el nombre de «Nobel» es erróneo."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Siguiendo la regla de seguir el dinero y el poder, el origen del banco central más antiguo es una quiebra de un banco privado que emitía billetes: el Estado lo adquirió para sostener un sistema que no se sostenía solo. Qué intereses de acreedores, o de la corona, estaban detrás no consta en esta fuente. Y sobre el premio de 1968, lo comprobado es que se creó con motivo del tricentenario del banco y que el nombre de «Nobel de economía» es erróneo; qué papel tiene el banco en su concesión no consta en esta fuente y queda como tema abierto."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -35171,6 +35598,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Shock de Nixon",
       "url": "https://es.wikipedia.org/wiki/Shock_de_Nixon",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Nixon shock",
+      "url": "https://en.wikipedia.org/wiki/Nixon_shock",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -35182,6 +35614,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El sistema que se rompió",
+     "nivel": "hecho",
+     "texto": "En 1944, 44 naciones habían diseñado en Bretton Woods un sistema monetario para «asegurar la estabilidad de los tipos de cambio, evitar las devaluaciones competitivas y promover el crecimiento económico». Estuvo plenamente operativo en 1958. Los países liquidaban sus cuentas internacionales en dólares, que podían convertirse en oro a 35 dólares la onza, un cambio fijo que redimía el Gobierno de Estados Unidos; es decir, EE. UU. se comprometía a respaldar con oro cada dólar en el extranjero, y las demás monedas estaban ligadas al dólar.\n\nAl principio funcionó bien. Con el Plan Marshall, Japón y Europa se reconstruían y había mucha demanda de bienes y de dólares estadounidenses, y como EE. UU. poseía más de la mitad de las reservas oficiales de oro del mundo (574 millones de onzas al terminar la guerra), el sistema parecía seguro. Pero, a medida que Alemania y Japón se recuperaban, entre 1950 y 1969 la cuota de EE. UU. en la producción económica mundial bajó del 35 % al 27 %. Con una balanza de pagos negativa, una deuda pública creciente por la guerra de Vietnam y la inflación monetaria de la Reserva Federal, el dólar fue quedando sobrevalorado en los años sesenta."
+    },
+    {
+     "titulo": "La cuenta atrás",
+     "nivel": "hecho",
+     "texto": "El ministro de Finanzas francés Valéry Giscard d'Estaing llamó al sistema el «privilegio exorbitante» de Estados Unidos, porque le permitía evitar una crisis monetaria, y para el economista Barry Eichengreen era un «sistema financiero asimétrico» en el que los no estadounidenses «se ven sosteniendo el nivel de vida estadounidense y subvencionando a las multinacionales americanas». En febrero de 1965 el presidente De Gaulle anunció que cambiaría las reservas de dólares por oro al tipo oficial. En 1966, los bancos centrales de fuera de EE. UU. tenían 14.000 millones de dólares, y EE. UU. solo 13.200 millones en oro, de los que apenas 3.200 estaban disponibles para cubrir las tenencias extranjeras. En marzo de 1968 se hundió el London Gold Pool.\n\nEn 1971 se aceleró. En mayo, Alemania Occidental salió del sistema, sin querer vender más marcos por dólares, y en tres meses el dólar cayó un 7,5 % frente al marco. El 5 de agosto un informe del Congreso recomendó devaluar el dólar para protegerse de los «aprovechados extranjeros». Ese mes el presidente francés Pompidou mandó un barco a Nueva York para recuperar el oro depositado por Francia, el 9 de agosto Suiza salió del sistema y el 11 Gran Bretaña pidió trasladar 3.000 millones de dólares en oro de Fort Knox a la Reserva Federal de Nueva York. Paul Volcker, entonces subsecretario del Tesoro, diría después que si los británicos, que habían fundado el sistema con EE. UU., querían oro a cambio de sus dólares, estaba claro que la partida había terminado. El 15 de agosto quedaban en las reservas estadounidenses unas 10.000 toneladas de oro, menos de la mitad del máximo; el paro era del 6,1 % y la inflación anual del 5,84 %."
+    },
+    {
+     "titulo": "Camp David y el discurso del 15 de agosto",
+     "nivel": "hecho",
+     "texto": "Nixon consultó al presidente de la Reserva Federal, Arthur F. Burns, al secretario del Tesoro, John Connally, y a Paul Volcker. La tarde del viernes 13 de agosto de 1971, Nixon, Burns, Connally, Volcker y doce altos asesores de la Casa Blanca y del Tesoro se reunieron en secreto en Camp David. Nixon, apoyándose sobre todo en Connally, decidió abandonar el sistema de Bretton Woods, y el domingo 15, con los mercados financieros cerrados, lo anunció en un discurso a la nación con tres medidas: suspender la convertibilidad del dólar en oro u otros activos de reserva, con ciertas excepciones, de modo que los gobiernos extranjeros no pudieran canjear sus dólares por oro; una congelación de salarios y precios de 90 días (orden ejecutiva 11615, al amparo de la Ley de Estabilización Económica de 1970); y un recargo del 10 % a las importaciones, ante la fluctuación esperada de los tipos de cambio. Era la primera vez que el Gobierno estadounidense imponía controles de salarios y precios desde la guerra de Corea."
+    },
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "Nixon no abolió formalmente el sistema de Bretton Woods, pero suspender una de sus piezas clave lo dejó inoperante. Nixon dijo en público que reanudaría la convertibilidad cuando se hicieran reformas, pero todos los intentos de reforma fracasaron y el dólar quedó convertido de hecho en una moneda fiduciaria. En 1973, un régimen de tipos de cambio flotantes sustituyó de hecho al sistema para el resto de las monedas.\n\nPolíticamente fue un gran éxito: la opinión pública creyó que el Gobierno la rescataba de especuladores y de una crisis de cambio cuyo origen atribuía a potencias extranjeras. El Dow Jones subió 33 puntos el 16 de agosto, su mayor ganancia diaria hasta entonces, el New York Times lo aplaudió y Nixon fue reelegido en 1972 por un margen histórico frente a McGovern. Económicamente, se ha considerado un fracaso, por haber traído la recesión de 1973-1975, la estanflación de los años setenta y la inestabilidad de las monedas flotantes. En lo inmediato, el Banco de Japón intervino con fuerza para evitar que se apreciara el yen: el 16 y 17 de agosto tuvo que comprar 1.300 millones de dólares para mantenerlo en los 360 yenes por dólar."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera explica que el patrón oro duró hasta el 15 de agosto de 1971 y afirma que desde entonces el papel moneda no tiene respaldo ni valor real, una pieza de lo que llama el «Engaño Maestro». La ficha lo recoge con su nombre.\n\nLos hechos de la ficha coinciden con la primera parte, el fin de la convertibilidad en oro, y no con la conclusión: que una moneda sea fiduciaria, es decir, sin respaldo en un metal, es la definición de moneda fiduciaria, y lo que se discute es qué significa eso para su valor."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto qué se pierde y qué se gana cuando una moneda deja de estar ligada al oro. Los críticos de la Reserva Federal, como Ron Paul o la escuela austriaca, sostienen que fue la causa de presiones inflacionarias a largo plazo y de la devaluación del dólar; otras lecturas dicen que el sistema de tipos fijos ya era insostenible por el déficit y las reservas, como muestran las cifras de 1966 y 1971. Con lo leído aquí, ambas cosas pueden ser ciertas: el sistema era insostenible y la salida tuvo costes. Es una hipótesis de Nexus, no un dato.\n\nSiguiendo la regla de seguir el dinero y el poder, el dato que ordena todo es el dólar como moneda de reserva y quién se beneficia de emitirla, lo que Giscard llamó «privilegio exorbitante»: una tesis de un político francés de la época, no un hecho comprobado en esta ficha."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -35210,6 +35674,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Sistema de la Reserva Federal",
       "url": "https://es.wikipedia.org/wiki/Sistema_de_la_Reserva_Federal",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Federal Reserve Act",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -35226,6 +35695,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué es y cómo está hecha",
+     "nivel": "hecho",
+     "texto": "El Sistema de la Reserva Federal, la Fed, es el banco central de Estados Unidos. Es un consorcio público-privado: la parte pública es la Junta de Gobernadores, una agencia del Gobierno con sede en Washington D. C., y la parte privada, los doce Bancos de la Reserva repartidos por el país. Su mandato es mantener los precios estables y maximizar el empleo, es decir, buscar un nivel adecuado de inflación y de empleo, que tienen una relación inversa. Custodia parte de las reservas de los bancos miembros: los nacionales y los estatales que se asocian voluntariamente.\n\nLa ley de 1913 preveía entre ocho y doce bancos regionales privados; se crearon doce, cada uno con sus sucursales, su consejo de administración y sus límites de distrito. La Junta de Gobernadores tiene siete miembros, designados por el presidente y confirmados por el Senado. La ley creó además un comité asesor de doce miembros y una moneda nacional única, el billete de la Reserva Federal (Federal Reserve Note), para tener una oferta monetaria «flexible». La Ley Bancaria de 1933 creó el Comité Federal de Mercado Abierto, que supervisa las operaciones de mercado abierto, y una reforma posterior fijó el mandato de máximo empleo, precios estables y tipos de interés a largo plazo moderados."
+    },
+    {
+     "titulo": "Antes de 1913: dos bancos que no duraron",
+     "nivel": "hecho",
+     "texto": "Estados Unidos había tenido banca central antes. Tras la guerra de independencia el sistema financiero estaba muy fragmentado y el Gobierno cargaba con grandes deudas de guerra. Alexander Hamilton defendía una institución centralizada y fuerte que ordenara el sistema monetario, gestionara los ingresos y pagos del Estado y diera crédito al sector público y al privado; Thomas Jefferson desconfiaba de un banco central porque, decía, minaría la democracia, y él y los congresistas del Sur temían que sirviera a los intereses comerciales del Norte a costa de la agricultura sureña, cuyo crédito daban los bancos locales.\n\nEl Primer Banco de los Estados Unidos se fundó en 1791 con una carta de veinte años. El Gobierno era el mayor accionista, pero no podía participar en la gestión. Recibía depósitos, emitía billetes, daba préstamos a corto plazo al Gobierno, hacía de cámara de compensación de la deuda pública y podía regular a los bancos estatales para evitar el exceso de billetes. Mucha gente lo consideró un apoyo a las finanzas del Estado, pero era una fuente de polémica: los jeffersonianos lo veían inconstitucional y demasiado poderoso. En 1811 su carta no se renovó por un solo voto en la Cámara y en el Senado. Tras la guerra de 1812, la inestabilidad económica hizo necesario un segundo banco, que se creó en 1816 con otra carta de veinte años."
+    },
+    {
+     "titulo": "La ley de 1913",
+     "nivel": "hecho",
+     "texto": "La Ley de la Reserva Federal la aprobó el 63.º Congreso y la firmó el presidente Woodrow Wilson el 23 de diciembre de 1913. Tras las elecciones de 1912, en las que los demócratas ganaron el Congreso y la presidencia, Wilson, el congresista Carter Glass y el senador Robert Latham Owen presentaron la propuesta. Estaba tejida por un debate entre quienes preferían un banco central de control privado, como los partidarios del anterior Plan Aldrich, y quienes querían control del Gobierno, entre ellos progresistas como William Jennings Bryan. Wilson hizo del proyecto una prioridad de su programa de política interior, la «Nueva Libertad», y el Congreso lo aprobó casi tal como se presentó. Venía de una serie de pánicos financieros que habían hecho desear un control central del sistema monetario.\n\nLa ley obligó a todos los bancos con carta nacional a ser miembros del sistema. Debían comprar acciones no transferibles de su banco regional y dejar en él cierta cantidad de reservas sin interés. A cambio podían descontar préstamos en la «ventanilla de descuento» de su banco regional y recibían un dividendo del 6 % anual sobre esas acciones, además de otros servicios. Los bancos estatales podían entrar de forma voluntaria y quedaban en parte supervisados por la Fed. Desde 1980 todas las entidades de depósito deben mantener reservas en la Reserva Federal."
+    },
+    {
+     "titulo": "Cómo actúa: tres herramientas",
+     "nivel": "hecho",
+     "texto": "La política monetaria usa tres instrumentos. Las operaciones de mercado abierto son el más importante: cuando la Fed compra instrumentos financieros pone más dinero en circulación y los tipos de interés tienden a bajar, y cuando vende saca dinero y los tipos suben. Todas se llevan a cabo en el Open Market Desk del Banco de la Reserva Federal de Nueva York, con contratos de recompra y con transacciones permanentes, para mantener el tipo de los fondos federales cerca del objetivo. El segundo instrumento es regular la cantidad de reservas: si la Fed exige más reservas, los bancos pueden prestar menos y el crédito se encarece. El tercero es la tasa de descuento, el interés al que los bancos piden prestado a la Fed a corto plazo, que es superior al de los bancos comerciales.\n\nLa Junta de Gobernadores es una agencia independiente: sus decisiones no tienen que aprobarlas el presidente ni el Congreso, no recibe dinero del Congreso y su mandato abarca varias legislaturas. Sin embargo, está sujeta a la ley de libertad de información, envía un informe semestral al Congreso y el presidente puede destituir a un gobernador según el título 12 del Código de Estados Unidos. La independencia es real en ciertas decisiones, porque, de no serlo, los gobiernos fijarían tipos más bajos para su propia deuda, pero en la práctica no es tan absoluta como en la teoría."
+    },
+    {
+     "titulo": "Qué dicen sus críticos",
+     "nivel": "tesis",
+     "texto": "La Fed ha tenido críticos desde 1913, y la fuente recoge varias líneas, cada una con su nombre. Milton Friedman la criticó por contribuir a las recesiones y por su papel en la Gran Depresión, y apoyó, con otras 157 universidades estadounidenses, el plan de reforma monetaria de 1936 que postuló Irving Fisher. Ron Paul pide más rendición de cuentas y la auditoría de la Fed, y que sea abolida y sustituida por un retorno al patrón oro. Rand Paul sostiene que sirve de forma desproporcionada a los intereses de la élite bancaria, dado el pasado de muchos de sus cargos en la banca y las finanzas, con conflictos de intereses y políticas que favorecen a Wall Street. La escuela austriaca, con Ludwig von Mises y Murray Rothbard, cree que el paso a la moneda fiduciaria desestabilizó el sistema monetario.\n\nMuchos críticos señalan también la salida del patrón oro en 1971, que según ellos contribuyó a presiones inflacionarias a largo plazo y a la devaluación del dólar, y la gestión de la crisis de 2008, cuyo rescate a grandes bancos habría generado riesgo moral y habría agravado el colapso. Ron Paul sostiene que sus políticas antes de la crisis y durante el rescate beneficiaron de forma desproporcionada al sector financiero y cargaron los costes sobre los ciudadanos comunes. Son tesis con su nombre, no hechos de la ficha."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quién manda de verdad en la Fed depende de cómo se defina «mandar». Los hechos que constan son que la Junta es pública, que los doce bancos regionales son entidades privadas cuyos accionistas son los bancos miembros, y que los gobernadores los nombra el presidente y los confirma el Senado. Lo que no consta en estas fuentes es cuánta influencia efectiva tienen los bancos miembros sobre las decisiones de tipos, y por eso las tesis de sus críticos (élite bancaria, Wall Street) se pueden formular pero no comprobar con lo que hay aquí.\n\nSiguiendo la regla de seguir el dinero y el poder, lo comprobable sería mirar quién ha sido nombrado, de qué instituciones venía y qué decisiones tomó. Eso queda para fichas de personas y episodios concretos. Esta ficha deja la pregunta abierta, como hipótesis de Nexus y no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -36449,6 +36950,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué eran las taulas",
+     "nivel": "hecho",
+     "texto": "La Taula de Canvi («tabla o mesa de cambio», de monedas y divisas) fue una institución financiera que apareció en varias ciudades de la Corona de Aragón (Valencia, Barcelona, Gerona) en el siglo XV. Era el precedente más directo de los bancos públicos, porque complementaba a la banca privada, y surgió en respuesta a las necesidades que generaba el aumento del comercio y de los viajes de larga distancia desde la Baja Edad Media, sobre todo marítimos, entre los puertos mediterráneos (Marsella, Génova, Venecia, Barcelona, Valencia) y los atlánticos del sur y el norte de Europa (Sevilla, Lisboa, Francia, Inglaterra, Flandes y la Hansa). La Taula de Canvi de Barcelona puede considerarse el primer banco público de Europa."
+    },
+    {
+     "titulo": "Barcelona (1401)",
+     "nivel": "hecho",
+     "texto": "Durante los últimos años del reinado de Pedro IV de Aragón hubo un cambio de coyuntura económica y sobrevino la crisis de 1381, que llevó a la bancarrota de la banca privada catalana. Había prestado grandes sumas al rey y se encontró incapaz de cumplir sus compromisos. En la lonja de Barcelona se abrió una tabla de cambio, cubierta con un tapiz con el escudo de armas de la ciudad, el 20 de enero de 1401, y se convirtió así en el primer banco público de Europa."
+    },
+    {
+     "titulo": "Valencia y Gerona",
+     "nivel": "hecho",
+     "texto": "En Valencia, según Sanchis Guarner, Martín el Humano autorizó en 1407 la creación de la Tabla de Cambios y Depósitos de la ciudad. Esa primera Taula se suprimió en 1416. En 1519 se reabrió una Nova Taula, que duró hasta 1649, y durante algún tiempo estuvo en el salón de las columnas de la Lonja de la Seda, el centro mercantil de la ciudad. En 1649 apareció la Taula Novíssima, que siguió en funcionamiento hasta los decretos de Nueva Planta (1707), y con la abolición de los fueros desapareció definitivamente en 1719. En Gerona, la reina María concedió a la ciudad en 1445 una taula de cambios."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha no tiene autores registrados. Lo que muestran los hechos es el mismo patrón que en Venecia y en Estocolmo: tras la quiebra de la banca privada catalana por los préstamos al rey, la ciudad creó un banco público. Una pregunta que queda abierta es la relación entre estas taulas y los bancos venecianos posteriores: la ficha de Rialto dice que la Taula de Barcelona fue pionera como banco público con rasgos de banco central, pero no que hubiera influencia directa. Queda como tema abierto, no como dato."
+    }
+   ],
    "vista": "economia"
   },
   {
