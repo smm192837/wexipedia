@@ -924,7 +924,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». La cifra de 1830 no la he contrastado.",
+    "resumen": "Qué es: la fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». La cifra de 1830 no la he contrastado. Época y lugar: Rusia, en el imperio de Pedro I (hasta 1725).",
     "fuentes": [
      {
       "titulo": "Dartmouth: The St. Petersburg Academy",
@@ -1401,7 +1401,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un sistema de Marcel Violet con un imán, un electrodo y un condensador aislado con cera de abeja, que según Artur Sala daría energía a cualquier agua. Los dispositivos de «dinamización» de Marcel Violet (campo magnético y condensador aislado con cera de abeja conectado a electrodos) solo se describen en páginas divulgativas y de venta. No hay evidencia científica fiable de que el agua pueda «energetizarse» ni de que el método tenga efectos terapéuticos; los químicos que lo han revisado lo consideran pseudociencia. No se ha encontrado respaldo para remisiones de cáncer.",
+    "resumen": "Qué es: un sistema de Marcel Violet con un imán, un electrodo y un condensador aislado con cera de abeja, que según Artur Sala daría energía a cualquier agua. Los dispositivos de «dinamización» de Marcel Violet (campo magnético y condensador aislado con cera de abeja conectado a electrodos) solo se describen en páginas divulgativas y de venta. No hay evidencia científica fiable de que el agua pueda «energetizarse» ni de que el método tenga efectos terapéuticos; los químicos que lo han revisado lo consideran pseudociencia. No se ha encontrado respaldo para remisiones de cáncer. Época y lugar: Francia, años 60 y 70, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Stephen Lower (chem1): Energized water",
@@ -1811,7 +1811,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la correspondencia y amistad entre el jesuita Pierre Teilhard de Chardin y el biólogo Julian Huxley. Teilhard y Julian Huxley se escribían desde hacia 1944 y se conocieron en París en 1946; Huxley escribió la introducción de la edición inglesa de «El fenómeno humano» (1959, publicado antes en francés en 1955, tras la muerte de Teilhard, el 10-4-1955). La obra de Thomas H. Huxley «Evidence as to Man's Place in Nature» es de 1863, no de 1904 como dice el autor. No se ha comprobado la carta de 1941 ni el homenaje de Teilhard de 1949.",
+    "resumen": "Qué es: la correspondencia y amistad entre el jesuita Pierre Teilhard de Chardin y el biólogo Julian Huxley. Teilhard y Julian Huxley se escribían desde hacia 1944 y se conocieron en París en 1946; Huxley escribió la introducción de la edición inglesa de «El fenómeno humano» (1959, publicado antes en francés en 1955, tras la muerte de Teilhard, el 10-4-1955). La obra de Thomas H. Huxley «Evidence as to Man's Place in Nature» es de 1863, no de 1904 como dice el autor. No se ha comprobado la carta de 1941 ni el homenaje de Teilhard de 1949. Época y lugar: Francia y Reino Unido, en la Segunda Guerra Mundial y la posguerra (1944-1959).",
     "fuentes": [
      {
       "titulo": "Teilhard Association (RU): Teilhard the Jesuit and Huxley the agnostic",
@@ -2135,7 +2135,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: una observación de Mae-Wan Ho con un microscopio de luz polarizada, en la que ve colores en una larva de mosca; Artur Sala la usa para defender que el agua de la célula es cristalina. Mae-Wan Ho (1941-2016) describió en sus propios artículos y libros («The Rainbow and the Worm») que una larva de mosca vista con microscopio de luz polarizada mostraba colores de interferencia, y de ahí dedujo un organismo «cristal líquido» y agua celular cristalina coherente. Es una tesis minoritaria y propia de la autora; no he hallado en las fuentes abiertas consultadas una validación independiente, y la birrefringencia de los tejidos ordenados no demuestra por sí sola coherencia cuántica.",
+    "resumen": "Qué es: una observación de Mae-Wan Ho con un microscopio de luz polarizada, en la que ve colores en una larva de mosca; Artur Sala la usa para defender que el agua de la célula es cristalina. Mae-Wan Ho (1941-2016) describió en sus propios artículos y libros («The Rainbow and the Worm») que una larva de mosca vista con microscopio de luz polarizada mostraba colores de interferencia, y de ahí dedujo un organismo «cristal líquido» y agua celular cristalina coherente. Es una tesis minoritaria y propia de la autora; no he hallado en las fuentes abiertas consultadas una validación independiente, y la birrefringencia de los tejidos ordenados no demuestra por sí sola coherencia cuántica. Época y lugar: Reino Unido, en el final de la Guerra Fría y la posguerra fría (1993).",
     "fuentes": [
      {
       "titulo": "Mae-Wan Ho: Water is the means, medium and message of life",
@@ -3007,7 +3007,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el atomismo es una teoría filosófica que apareció en la Antigua Grecia en el siglo V a. C. y también en la India, quizá mucho antes. Sostiene que el universo se compone de combinaciones de pequeñas partículas indivisibles llamadas átomos (del griego átomon, «que no se puede cortar»). Leucipo y Demócrito (siglo V a. C.) suelen considerarse los primeros atomistas griegos: la realidad serían átomos indivisibles e infinitos moviéndose en un vacío infinito. Del primero se sabe poco; casi todo llega por Aristóteles y otros. Los átomos son eternos y no proceden de nada anterior; Aristóteles criticó que no diera razón de por qué hay movimiento.",
+    "resumen": "Qué es: el atomismo es una teoría filosófica que apareció en la Antigua Grecia en el siglo V a. C. y también en la India, quizá mucho antes. Sostiene que el universo se compone de combinaciones de pequeñas partículas indivisibles llamadas átomos (del griego átomon, «que no se puede cortar»). Leucipo y Demócrito (siglo V a. C.) suelen considerarse los primeros atomistas griegos: la realidad serían átomos indivisibles e infinitos moviéndose en un vacío infinito. Del primero se sabe poco; casi todo llega por Aristóteles y otros. Los átomos son eternos y no proceden de nada anterior; Aristóteles criticó que no diera razón de por qué hay movimiento. Época y lugar: Grecia, en la Edad Antigua (siglo V a. C.).",
     "fuentes": [
      {
       "titulo": "Stanford Encyclopedia of Philosophy: Leucippus",
@@ -4274,7 +4274,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: el destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo. Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado; la parte de Antonio Toledo y el duque de Alba no la he contrastado.",
+    "resumen": "Qué es: el destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo. Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado; la parte de Antonio Toledo y el duque de Alba no la he contrastado. Época y lugar: Sevilla (España), en la Edad Moderna (siglo XVI).",
     "fuentes": [
      {
       "titulo": "Klaus Wagner: Pasado, presente y futuro de la Biblioteca Colombina",
@@ -4506,7 +4506,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un libro de Wilhelm Reich de 1948 con sus investigaciones sobre el cáncer. Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón». Escribió que había hallado bacilos T en tejido canceroso en descomposición y que, inyectados en ratones, provocaban inflamación y cáncer; concluyó que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas sufren una «degeneración biónica». La comunidad científica considera la teoría del orgón una pseudociencia.",
+    "resumen": "Qué es: un libro de Wilhelm Reich de 1948 con sus investigaciones sobre el cáncer. Reich publicó «La biopatía del cáncer» en 1948, como segundo volumen de «El descubrimiento del orgón». Escribió que había hallado bacilos T en tejido canceroso en descomposición y que, inyectados en ratones, provocaban inflamación y cáncer; concluyó que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas sufren una «degeneración biónica». La comunidad científica considera la teoría del orgón una pseudociencia. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -4843,7 +4843,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: el libro «Los condes de Barcelona vindicados» de Próspero de Bofarull, director del Archivo de la Corona de Aragón. Próspero de Bofarull (Reus, 1777-1859), director del Archivo de la Corona de Aragón, publicó «Los condes de Barcelona vindicados» en 1836 (dos tomos), no en 1838. La historiografía lo sitúa en el Romanticismo catalán. Que parte de la historia de los reyes de España sea ficticia es lectura del autor.",
+    "resumen": "Qué es: el libro «Los condes de Barcelona vindicados» de Próspero de Bofarull, director del Archivo de la Corona de Aragón. Próspero de Bofarull (Reus, 1777-1859), director del Archivo de la Corona de Aragón, publicó «Los condes de Barcelona vindicados» en 1836 (dos tomos), no en 1838. La historiografía lo sitúa en el Romanticismo catalán. Que parte de la historia de los reyes de España sea ficticia es lectura del autor. Época y lugar: Barcelona (España), en el reinado de Isabel II (1833-1868).",
     "fuentes": [
      {
       "titulo": "MedCat: Los condes de Barcelona vindicados (1836)",
@@ -5774,7 +5774,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un canal de agua construido en 1922 en Steyrling para transportar troncos, diseñado por Viktor Schauberger. El canal de troncos de Steyrling se construyó en 1922 para el príncipe Adolf de Schaumburg-Lippe (el autor habla de «conde»).",
+    "resumen": "Qué es: un canal de agua construido en 1922 en Steyrling para transportar troncos, diseñado por Viktor Schauberger. El canal de troncos de Steyrling se construyó en 1922 para el príncipe Adolf de Schaumburg-Lippe (el autor habla de «conde»). Época y lugar: Austria, en la Primera República (1918-1938).",
     "fuentes": [
      {
       "titulo": "Schauberger, canal de troncos de Steyrling",
@@ -7309,7 +7309,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un aparato con el que Stanley Meyer decía que un coche podía funcionar con agua. Stanley Meyer (1940–1998) afirmaba que un coche podía funcionar con agua. En 1996 un tribunal de Ohio, tras el examen de tres peritos, concluyó que su célula era una electrólisis corriente y que había cometido «fraude grave y descarado». Murió de repente en 1998. Un tribunal de Ohio dictaminó en 1996 «fraude grosero y flagrante»; el forense atribuyó la muerte (1998) a un aneurisma cerebral. La tesis del envenenamiento es una teoría conspirativa.",
+    "resumen": "Qué es: un aparato con el que Stanley Meyer decía que un coche podía funcionar con agua. Stanley Meyer (1940–1998) afirmaba que un coche podía funcionar con agua. En 1996 un tribunal de Ohio, tras el examen de tres peritos, concluyó que su célula era una electrólisis corriente y que había cometido «fraude grave y descarado». Murió de repente en 1998. Un tribunal de Ohio dictaminó en 1996 «fraude grosero y flagrante»; el forense atribuyó la muerte (1998) a un aneurisma cerebral. La tesis del envenenamiento es una teoría conspirativa. Época y lugar: Ohio (Estados Unidos), años 80 y 90.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Water fuel cell",
@@ -8226,7 +8226,7 @@ window.CRONO = {
    "resumen": "Libro maya de Chichén Itzá con tablas de calendario, eclipses y Venus; la biblioteca de Dresde lo compró en 1739 a un particular de Viena.",
    "segun": [],
    "oficial": {
-    "resumen": "Qué es: un libro maya con tablas de calendario, eclipses y Venus, que se guarda en la biblioteca de Dresde. El Códice de Dresde es un libro maya originario de la región de Chichén Itzá (México), del siglo XIII (hacia 1200-1250); se cree que copia un texto original de trescientos o cuatrocientos años antes. Contiene registros astronómicos avanzados: tablas calendáricas, de eclipses, de ciclos solares y lunares y del ciclo de Venus, además de información astrológica ligada a deidades. Tiene 39 hojas escritas por ambos lados y 3,56 metros de largo. En 1739 lo compró Johann Christian Götze, director de la Biblioteca Real de Dresde, a un propietario privado de Viena; no se sabe cómo llegó a Viena, y se cree que pudo haberlo enviado Hernán Cortés en 1519 al rey Carlos I.",
+    "resumen": "Qué es: un libro maya con tablas de calendario, eclipses y Venus, que se guarda en la biblioteca de Dresde. El Códice de Dresde es un libro maya originario de la región de Chichén Itzá (México), del siglo XIII (hacia 1200-1250); se cree que copia un texto original de trescientos o cuatrocientos años antes. Contiene registros astronómicos avanzados: tablas calendáricas, de eclipses, de ciclos solares y lunares y del ciclo de Venus, además de información astrológica ligada a deidades. Tiene 39 hojas escritas por ambos lados y 3,56 metros de largo. En 1739 lo compró Johann Christian Götze, director de la Biblioteca Real de Dresde, a un propietario privado de Viena; no se sabe cómo llegó a Viena, y se cree que pudo haberlo enviado Hernán Cortés en 1519 al rey Carlos I. Época y lugar: Península de Yucatán (México), en el Posclásico maya (siglo XIII), y Dresde (Alemania), donde llegó en 1739.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Códice de Dresde",
@@ -8282,7 +8282,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. El informe del Ejército de EE. UU. de 1978 menciona a Kervran y Komaki como investigadores recientes de las transmutaciones biológicas, sin validar su hipótesis; la comunidad científica no las acepta.",
+    "resumen": "Qué es: el trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. El informe del Ejército de EE. UU. de 1978 menciona a Kervran y Komaki como investigadores recientes de las transmutaciones biológicas, sin validar su hipótesis; la comunidad científica no las acepta. Época y lugar: Francia y Japón, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -9442,7 +9442,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "Qué es: un congreso de astrología celebrado en Vigo en junio de 2016, con el tema «El saber cosmológico». El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado.",
+    "resumen": "Qué es: un congreso de astrología celebrado en Vigo en junio de 2016, con el tema «El saber cosmológico». El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado. Época y lugar: Vigo (España), junio de 2016.",
     "fuentes": [
      {
       "titulo": "Programa del 33.º Congreso Ibérico de Astrología, Vigo 2016 (astro3z)",
@@ -10221,7 +10221,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la disputa entre dos químicos franceses del siglo XIX, Antoine Béchamp y Louis Pasteur, sobre qué causa la fermentación y de dónde salen los microbios; de fondo, el «terreno» frente al «germen». Rivalidad entre los dos químicos por la prioridad en la fermentación, la enfermedad del gusano de seda y, después, la teoría de los gérmenes. El historiador Gerald Geison (1995), que estudió los cuadernos de Pasteur, concluyó que Pasteur trató muy mal a Béchamp, pero no que lo plagiara en un sentido significativo. La medicina actual se basa en la teoría de los gérmenes. Béchamp (n. 1816) y Pasteur (n. 1822) no fueron maestro y alumno: coincidieron como colegas en Estrasburgo, donde Béchamp ocupó en 1854 una cátedra que había tenido Pasteur, y Béchamp dedicó su tesis de 1853 a Pasteur. La «confesión» de Pasteur al morir no consta en las fuentes consultadas.",
+    "resumen": "Qué es: la disputa entre dos químicos franceses del siglo XIX, Antoine Béchamp y Louis Pasteur, sobre qué causa la fermentación y de dónde salen los microbios; de fondo, el «terreno» frente al «germen». Rivalidad entre los dos químicos por la prioridad en la fermentación, la enfermedad del gusano de seda y, después, la teoría de los gérmenes. El historiador Gerald Geison (1995), que estudió los cuadernos de Pasteur, concluyó que Pasteur trató muy mal a Béchamp, pero no que lo plagiara en un sentido significativo. La medicina actual se basa en la teoría de los gérmenes. Béchamp (n. 1816) y Pasteur (n. 1822) no fueron maestro y alumno: coincidieron como colegas en Estrasburgo, donde Béchamp ocupó en 1854 una cátedra que había tenido Pasteur, y Béchamp dedicó su tesis de 1853 a Pasteur. La «confesión» de Pasteur al morir no consta en las fuentes consultadas. Época y lugar: Francia, en el Segundo Imperio y la Tercera República (1857-1895).",
     "fuentes": [
      {
       "titulo": "Wikipedia: E. Douglas Hume (cita a Geison 1995, p. 275)",
@@ -10750,7 +10750,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un libro de Thomas Cowan sobre el cáncer, que Artur Sala usa para defender que se debe a una desorganización de la célula. Según el NCI el cáncer es una enfermedad genética: cambios en genes (oncogenes, supresores tumorales, reparación del ADN) que descontrolan el crecimiento celular. El libro de Cowan (Chelsea Green, 2019) sostiene que la teoría de los oncogenes es incompleta y atribuye la causa al agua estructurada celular; no hay ensayos que lo respalden.",
+    "resumen": "Qué es: un libro de Thomas Cowan sobre el cáncer, que Artur Sala usa para defender que se debe a una desorganización de la célula. Según el NCI el cáncer es una enfermedad genética: cambios en genes (oncogenes, supresores tumorales, reparación del ADN) que descontrolan el crecimiento celular. El libro de Cowan (Chelsea Green, 2019) sostiene que la teoría de los oncogenes es incompleta y atribuye la causa al agua estructurada celular; no hay ensayos que lo respalden. Época y lugar: Estados Unidos, 2019.",
     "fuentes": [
      {
       "titulo": "Instituto Nacional del Cáncer (EE. UU.): ¿Qué es el cáncer?",
@@ -11390,7 +11390,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: los cuadernos de laboratorio privados de Pasteur, que su familia guardó y donó a la Biblioteca Nacional de Francia, y que permiten comparar lo que anotaba con lo que publicaba. Louis Pasteur Vallery-Radot, nieto de Pasteur, donó sus archivos (191 volúmenes, 152 cuadernos) a la Biblioteca Nacional de Francia en 1964. Geison los estudió y en 1995 mostró diferencias entre lo que Pasteur publicaba y lo que anotaba (vacunas del carbunco y de la rabia). Las fuentes consultadas no recogen ninguna nota de Pasteur que dé la razón a Béchamp; el propio autor dice no haber visto la prueba.",
+    "resumen": "Qué es: los cuadernos de laboratorio privados de Pasteur, que su familia guardó y donó a la Biblioteca Nacional de Francia, y que permiten comparar lo que anotaba con lo que publicaba. Louis Pasteur Vallery-Radot, nieto de Pasteur, donó sus archivos (191 volúmenes, 152 cuadernos) a la Biblioteca Nacional de Francia en 1964. Geison los estudió y en 1995 mostró diferencias entre lo que Pasteur publicaba y lo que anotaba (vacunas del carbunco y de la rabia). Las fuentes consultadas no recogen ninguna nota de Pasteur que dé la razón a Béchamp; el propio autor dice no haber visto la prueba. Época y lugar: Francia, donde la familia de Pasteur donó los cuadernos en 1964, en la Guerra Fría.",
     "fuentes": [
      {
       "titulo": "BnF: Bibliografía del bicentenario de Pasteur (2022)",
@@ -11667,7 +11667,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un programa de cursos anuales que Artur Sala imparte desde 2022 en Plural 21. Artur Sala puso en marcha en 2022 un programa de formación anual en Plural 21, presentado como «universidad» o «Pluriversidad», con cursos de física, química, biología, geología y botánica aplicada a la homeopatía y la espagiria. En el proyecto colaboran Ana María Oliva, Almudena, Alejandro Moreno, Pedro Cano, Rocío Lapuente y Naira, según el propio autor. La información procede del autor y de la web de Plural 21, que difunde sus actividades y el canal «La pluriversidad»: no hay una versión oficial independiente.",
+    "resumen": "Qué es: un programa de cursos anuales que Artur Sala imparte desde 2022 en Plural 21. Artur Sala puso en marcha en 2022 un programa de formación anual en Plural 21, presentado como «universidad» o «Pluriversidad», con cursos de física, química, biología, geología y botánica aplicada a la homeopatía y la espagiria. En el proyecto colaboran Ana María Oliva, Almudena, Alejandro Moreno, Pedro Cano, Rocío Lapuente y Naira, según el propio autor. La información procede del autor y de la web de Plural 21, que difunde sus actividades y el canal «La pluriversidad»: no hay una versión oficial independiente. Época y lugar: Barcelona (España), 2022.",
     "fuentes": [
      {
       "titulo": "Artur Sala: Curso Anual Ciencia Rigurosa",
@@ -12303,7 +12303,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la venta de las bibliotecas de Diderot y Voltaire a la emperatriz rusa Catalina II. Catalina II compró en 1765 la biblioteca de Diderot por 15.000 libras y lo nombró bibliotecario vitalicio; Diderot viajó a San Petersburgo en 1773. La biblioteca de Voltaire la compró a su sobrina en diciembre de 1778, tras su muerte, por 30.000 rublos. Las fechas del autor (1773-1774) no coinciden: 1765 y 1778 son las académicas.",
+    "resumen": "Qué es: la venta de las bibliotecas de Diderot y Voltaire a la emperatriz rusa Catalina II. Catalina II compró en 1765 la biblioteca de Diderot por 15.000 libras y lo nombró bibliotecario vitalicio; Diderot viajó a San Petersburgo en 1773. La biblioteca de Voltaire la compró a su sobrina en diciembre de 1778, tras su muerte, por 30.000 rublos. Las fechas del autor (1773-1774) no coinciden: 1765 y 1778 son las académicas. Época y lugar: Francia y Rusia, en la Ilustración (1773).",
     "fuentes": [
      {
       "titulo": "Britannica: Denis Diderot",
@@ -13162,7 +13162,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Energy Catalyzer (E-Cat), un aparato que Andrea Rossi presentó en 2011 como un reactor de fusión fría que generaba energía a partir de hidrógeno y metales. El Energy Catalyzer (E-Cat) es un supuesto reactor de fusión fría presentado por Andrea Rossi en 2011, con el apoyo de Sergio Focardi. Según sus promotores, calentaba hidrógeno y lo infundía en polvo de níquel, transmutándolo en cobre y produciendo calor excesivo. No ha sido validado de forma independiente, la comunidad científica lo considera no demostrado y la solicitud de patente internacional recibió un informe desfavorable en 2011.",
+    "resumen": "Qué es: el Energy Catalyzer (E-Cat), un aparato que Andrea Rossi presentó en 2011 como un reactor de fusión fría que generaba energía a partir de hidrógeno y metales. El Energy Catalyzer (E-Cat) es un supuesto reactor de fusión fría presentado por Andrea Rossi en 2011, con el apoyo de Sergio Focardi. Según sus promotores, calentaba hidrógeno y lo infundía en polvo de níquel, transmutándolo en cobre y produciendo calor excesivo. No ha sido validado de forma independiente, la comunidad científica lo considera no demostrado y la solicitud de patente internacional recibió un informe desfavorable en 2011. Época y lugar: Italia, 2011.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Energy Catalyzer",
@@ -13920,7 +13920,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el brote de ébola de 2014–2016 en África occidental; la ficha recoge la tesis de un autor sobre su origen y la compara con lo documentado. La epidemia de 2014–2016 en Guinea, Liberia y Sierra Leona fue la mayor de la historia: unos 28.600 casos y 11.300 muertes según la OMS. No hubo vacunación masiva: la vacuna rVSV-ZEBOV (Ervebo, de Merck) se probó en un ensayo en Guinea en 2015 y no se autorizó hasta 2019 (UE en noviembre, EE. UU. en diciembre).",
+    "resumen": "Qué es: el brote de ébola de 2014–2016 en África occidental; la ficha recoge la tesis de un autor sobre su origen y la compara con lo documentado. La epidemia de 2014–2016 en Guinea, Liberia y Sierra Leona fue la mayor de la historia: unos 28.600 casos y 11.300 muertes según la OMS. No hubo vacunación masiva: la vacuna rVSV-ZEBOV (Ervebo, de Merck) se probó en un ensayo en Guinea en 2015 y no se autorizó hasta 2019 (UE en noviembre, EE. UU. en diciembre). Época y lugar: Guinea, Liberia y Sierra Leona (África occidental), 2014-2016.",
     "fuentes": [
      {
       "titulo": "OMS: Enfermedad por el virus del Ebola",
@@ -14141,7 +14141,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la Escuela de Traductores de Toledo, que según la versión oficial trabajó en los siglos XII y XIII y que un autor sitúa en el XVI. La llamada Escuela de Traductores de Toledo trabajó en los siglos XII y XIII (Gerardo de Cremona, c. 1114-1187, tradujo allí el Almagesto de Ptolomeo hacia 1175, tras la toma de Toledo por Alfonso VI en 1085); los especialistas niegan que fuera una institución formal. Situarla en el siglo XVI y bajo los Alba contradice esa cronología; es tesis del autor.",
+    "resumen": "Qué es: la Escuela de Traductores de Toledo, que según la versión oficial trabajó en los siglos XII y XIII y que un autor sitúa en el XVI. La llamada Escuela de Traductores de Toledo trabajó en los siglos XII y XIII (Gerardo de Cremona, c. 1114-1187, tradujo allí el Almagesto de Ptolomeo hacia 1175, tras la toma de Toledo por Alfonso VI en 1085); los especialistas niegan que fuera una institución formal. Situarla en el siglo XVI y bajo los Alba contradice esa cronología; es tesis del autor. Época y lugar: Toledo (Castilla), en la Edad Media (siglos XII-XIII, según la versión oficial).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Toledo School of Translators",
@@ -14857,7 +14857,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki. El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y con conclusión condicional («si existen» esas transmutaciones). No es un experimento secreto ni una confirmación experimental.",
+    "resumen": "Qué es: el Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki. El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y con conclusión condicional («si existen» esas transmutaciones). No es un experimento secreto ni una confirmación experimental. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -15287,7 +15287,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: se ilumina con luz coherente (por ejemplo un láser) una placa con dos rendijas paralelas y se observa la pantalla de detrás. Si la luz fuera solo un chorro de partículas clásicas, se esperarían dos manchas, una por rendija; lo que aparece es una serie de franjas claras y oscuras, un patrón de interferencia, propio de las ondas: las ondas de las dos rendijas se suman en unos puntos y se anulan en otros. Pero la luz siempre se absorbe en la pantalla en puntos concretos, como partículas, y el patrón se forma poco a poco por la densidad de esos impactos. Si se coloca un detector para saber por qué rendija pasa cada partícula, cada una pasa por una sola y el patrón de franjas desaparece. Eso es lo que se llama dualidad onda-partícula. Feynman dijo que contiene «el corazón de la mecánica cuántica». Historia: Thomas Young lo describió en 1801 con luz, como prueba de que la luz es una onda. En 1927 Davisson y Germer, y G. P. Thomson por su parte, mostraron que los electrones se comportan también como ondas. Con electrones y dos rendijas lo hizo por primera vez Claus Jönsson, en Tubinga, en 1961. Después se hizo con átomos y con moléculas de unos 2.000 átomos. Explicación: la mecánica cuántica lo explica sin éter. La interpretación de onda piloto (De Broglie-Bohm) existe, pero es minoritaria.",
+    "resumen": "Qué es: se ilumina con luz coherente (por ejemplo un láser) una placa con dos rendijas paralelas y se observa la pantalla de detrás. Si la luz fuera solo un chorro de partículas clásicas, se esperarían dos manchas, una por rendija; lo que aparece es una serie de franjas claras y oscuras, un patrón de interferencia, propio de las ondas: las ondas de las dos rendijas se suman en unos puntos y se anulan en otros. Pero la luz siempre se absorbe en la pantalla en puntos concretos, como partículas, y el patrón se forma poco a poco por la densidad de esos impactos. Si se coloca un detector para saber por qué rendija pasa cada partícula, cada una pasa por una sola y el patrón de franjas desaparece. Eso es lo que se llama dualidad onda-partícula. Feynman dijo que contiene «el corazón de la mecánica cuántica». Historia: Thomas Young lo describió en 1801 con luz, como prueba de que la luz es una onda. En 1927 Davisson y Germer, y G. P. Thomson por su parte, mostraron que los electrones se comportan también como ondas. Con electrones y dos rendijas lo hizo por primera vez Claus Jönsson, en Tubinga, en 1961. Después se hizo con átomos y con moléculas de unos 2.000 átomos. Explicación: la mecánica cuántica lo explica sin éter. La interpretación de onda piloto (De Broglie-Bohm) existe, pero es minoritaria. Época y lugar: Inglaterra (1801, con luz) y Alemania (1961, con electrones).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Double-slit experiment",
@@ -15616,7 +15616,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: unos experimentos de Pierre Baranger con semillas germinadas, en las que dijo encontrar más sodio, potasio y calcio del que había al principio. El informe del Ejército de EE. UU. de 1978 recoge que Baranger publicó en 1960 sus resultados sobre calcio y fósforo en semillas germinadas, sin hallar la causa; la comunidad científica no ha aceptado una transmutación.",
+    "resumen": "Qué es: unos experimentos de Pierre Baranger con semillas germinadas, en las que dijo encontrar más sodio, potasio y calcio del que había al principio. El informe del Ejército de EE. UU. de 1978 recoge que Baranger publicó en 1960 sus resultados sobre calcio y fósforo en semillas germinadas, sin hallar la causa; la comunidad científica no ha aceptado una transmutación. Época y lugar: Francia, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -15658,7 +15658,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: unos experimentos de 1918 en Boston en los que se intentó contagiar la gripe a voluntarios sanos con secreciones de enfermos. En noviembre y diciembre de 1918, un equipo de la Marina y del Servicio de Salud Pública de EE. UU. (Rosenau, Keegan, Goldberger y Lake) intentó transmitir la gripe a más de 60 voluntarios de Boston con secreciones de enfermos y exposición directa, sin lograrlo; otros ensayos de la época tampoco lo consiguieron. Esos fracasos reflejan los límites del método, no que la gripe no fuera contagiosa: el virus se aisló en 1933 y la pandemia de 1918 se transmitió de persona a persona.",
+    "resumen": "Qué es: unos experimentos de 1918 en Boston en los que se intentó contagiar la gripe a voluntarios sanos con secreciones de enfermos. En noviembre y diciembre de 1918, un equipo de la Marina y del Servicio de Salud Pública de EE. UU. (Rosenau, Keegan, Goldberger y Lake) intentó transmitir la gripe a más de 60 voluntarios de Boston con secreciones de enfermos y exposición directa, sin lograrlo; otros ensayos de la época tampoco lo consiguieron. Esos fracasos reflejan los límites del método, no que la gripe no fuera contagiosa: el virus se aisló en 1933 y la pandemia de 1918 se transmitió de persona a persona. Época y lugar: Boston (Estados Unidos), en el final de la Primera Guerra Mundial (1914-1918) y la pandemia de gripe de 1918.",
     "fuentes": [
      {
       "titulo": "Rosenau et al., «Experiments upon volunteers...» (1921), Influenza Encyclopedia",
@@ -17273,7 +17273,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un aparato que Lester Hendershot presentó en 1928 como un motor sin combustible. Lester Hendershot (1898–1961) presentó en 1928 un «motor sin combustible» que, según él, sacaba energía del campo magnético terrestre; la prensa se hizo eco y militares como el mayor Lanphier lo vieron funcionar. Un crítico atribuyó su marcha a una pila escondida, su propio socio negó que funcionara sin combustible y en 1935 Hendershot reconoció que usaba una pequeña batería y que solo daba potencias mínimas. Nunca se demostró que funcionara sin una fuente de energía.",
+    "resumen": "Qué es: un aparato que Lester Hendershot presentó en 1928 como un motor sin combustible. Lester Hendershot (1898–1961) presentó en 1928 un «motor sin combustible» que, según él, sacaba energía del campo magnético terrestre; la prensa se hizo eco y militares como el mayor Lanphier lo vieron funcionar. Un crítico atribuyó su marcha a una pila escondida, su propio socio negó que funcionara sin combustible y en 1935 Hendershot reconoció que usaba una pequeña batería y que solo daba potencias mínimas. Nunca se demostró que funcionara sin una fuente de energía. Época y lugar: Estados Unidos, en el periodo de entreguerras (1918-1939).",
     "fuentes": [
      {
       "titulo": "Kook Science: Lester Hendershot (recopila la prensa de 1928–1935)",
@@ -19499,7 +19499,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la hipótesis de Heribert Illig y Hans-Ulrich Niemitz de que faltan unos 300 años de historia en la Alta Edad Media. La hipótesis del tiempo fantasma la formuló Heribert Illig en 1991 (y Hans-Ulrich Niemitz la apoyó en 1995): sostiene que los años 614-911 son una invención, con una supuesta conspiración de Otto III y el papa Silvestre II para situarse en el año 1000. Los historiadores la rechazan: la contradicen calendarios de otras regiones y los eclipses anteriores al 600, que encajan con la cronología habitual. El año 1986 que da el autor no coincide con las fuentes consultadas.",
+    "resumen": "Qué es: la hipótesis de Heribert Illig y Hans-Ulrich Niemitz de que faltan unos 300 años de historia en la Alta Edad Media. La hipótesis del tiempo fantasma la formuló Heribert Illig en 1991 (y Hans-Ulrich Niemitz la apoyó en 1995): sostiene que los años 614-911 son una invención, con una supuesta conspiración de Otto III y el papa Silvestre II para situarse en el año 1000. Los historiadores la rechazan: la contradicen calendarios de otras regiones y los eclipses anteriores al 600, que encajan con la cronología habitual. El año 1986 que da el autor no coincide con las fuentes consultadas. Época y lugar: Alemania, a finales de la Guerra Fría (1986-1991).",
     "fuentes": [
      {
       "titulo": "Phantom time conspiracy theory (Wikipedia, resultado de búsqueda)",
@@ -20342,7 +20342,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un mezclador con forma de vórtice, diseñado por Jay Harman y vendido por PAX Scientific, que según Artur Sala aplica ideas de Schauberger. PAX Scientific fue fundada por Jay Harman en 1997 y PAX Water Technologies en 2006; sus mezcladores se promocionan con ahorro energético por su flujo en vórtice. Son datos del fabricante.",
+    "resumen": "Qué es: un mezclador con forma de vórtice, diseñado por Jay Harman y vendido por PAX Scientific, que según Artur Sala aplica ideas de Schauberger. PAX Scientific fue fundada por Jay Harman en 1997 y PAX Water Technologies en 2006; sus mezcladores se promocionan con ahorro energético por su flujo en vórtice. Son datos del fabricante. Época y lugar: Estados Unidos, 1997.",
     "fuentes": [
      {
       "titulo": "PAX Scientific, caso de estudio (Biomimicry)",
@@ -21444,7 +21444,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el ITER (International Thermonuclear Experimental Reactor) es un experimento científico a gran escala, liderado por la Unión Europea, que intenta producir un plasma de fusión con diez veces más potencia térmica que la necesaria para calentarlo. Se construye en Cadarache (Francia) y lo gestiona Euratom. Reactor experimental de fusión que se construye junto a Cadarache (Francia). El acuerdo se firmó en 2006 y la organización nació en 2007; las obras empezaron en 2010. Tras varios retrasos, el inicio de operación está previsto para 2034 y el de deuterio-tritio para 2039. Su objetivo es demostrar una ganancia de energía diez veces mayor que la aportada al plasma, no producir electricidad. Contexto: el 24 de mayo de 2006 los siete socios del proyecto (Unión Europea, Japón, Estados Unidos, Corea del Sur, India, Rusia y China) firmaron en Bruselas el acuerdo internacional para lanzar el reactor de fusión, de tipo tokamak, que se construirá en Cadarache.",
+    "resumen": "Qué es: el ITER (International Thermonuclear Experimental Reactor) es un experimento científico a gran escala, liderado por la Unión Europea, que intenta producir un plasma de fusión con diez veces más potencia térmica que la necesaria para calentarlo. Se construye en Cadarache (Francia) y lo gestiona Euratom. Reactor experimental de fusión que se construye junto a Cadarache (Francia). El acuerdo se firmó en 2006 y la organización nació en 2007; las obras empezaron en 2010. Tras varios retrasos, el inicio de operación está previsto para 2034 y el de deuterio-tritio para 2039. Su objetivo es demostrar una ganancia de energía diez veces mayor que la aportada al plasma, no producir electricidad. Contexto: el 24 de mayo de 2006 los siete socios del proyecto (Unión Europea, Japón, Estados Unidos, Corea del Sur, India, Rusia y China) firmaron en Bruselas el acuerdo internacional para lanzar el reactor de fusión, de tipo tokamak, que se construirá en Cadarache. Época y lugar: Cadarache (Francia), desde 2007, con participación internacional.",
     "fuentes": [
      {
       "titulo": "IPP Max Planck: hitos de ITER",
@@ -22217,7 +22217,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: compromiso ético del ámbito de la medicina que orienta al médico en su profesión. En su forma original regula las obligaciones hacia el maestro y su familia, los discípulos, los colegas y los pacientes. Desde el siglo XIX se generalizó jurar un texto modernizado, distinto según el tiempo y el lugar. El juramento hipocrático es un código ético atribuido a Hipócrates, de hacia 400 a.C., y recoge la invocación a Apolo y Asclepio. Se discute si lo escribió Hipócrates o una escuela posterior. Hoy se juran fórmulas modernizadas, que no son el texto original.",
+    "resumen": "Qué es: compromiso ético del ámbito de la medicina que orienta al médico en su profesión. En su forma original regula las obligaciones hacia el maestro y su familia, los discípulos, los colegas y los pacientes. Desde el siglo XIX se generalizó jurar un texto modernizado, distinto según el tiempo y el lugar. El juramento hipocrático es un código ético atribuido a Hipócrates, de hacia 400 a.C., y recoge la invocación a Apolo y Asclepio. Se discute si lo escribió Hipócrates o una escuela posterior. Hoy se juran fórmulas modernizadas, que no son el texto original. Época y lugar: Grecia, en la Edad Antigua.",
     "fuentes": [
      {
       "titulo": "Britannica: Hippocratic oath",
@@ -23952,7 +23952,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una obra de Artur Sala en varios tomos, publicada por la editorial Cauac desde 2018 y organizada por temas. Magna Ciencia es una obra de Artur Sala publicada por la editorial Cauac; el primer volumen, dedicado al éter y a las transmutaciones nucleares, apareció en 2018, y le siguieron un addendum y nuevos volúmenes. Según el propio autor y la presentación en Plural 21, la obra está organizada por temas y no por autores. El contenido y el alcance de la obra los expone su autor: no hay una versión oficial independiente sobre ella.",
+    "resumen": "Qué es: una obra de Artur Sala en varios tomos, publicada por la editorial Cauac desde 2018 y organizada por temas. Magna Ciencia es una obra de Artur Sala publicada por la editorial Cauac; el primer volumen, dedicado al éter y a las transmutaciones nucleares, apareció en 2018, y le siguieron un addendum y nuevos volúmenes. Según el propio autor y la presentación en Plural 21, la obra está organizada por temas y no por autores. El contenido y el alcance de la obra los expone su autor: no hay una versión oficial independiente sobre ella. Época y lugar: España, desde 2018.",
     "fuentes": [
      {
       "titulo": "Artur Sala: Libros",
@@ -24171,7 +24171,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el hospitalismo de Spitz es un concepto del psicoanalista René Spitz, discípulo de Freud, de comienzos del siglo XX. Spitz observó que la mortalidad en los primeros meses de vida era mucho más alta entre los neonatos que carecían de estímulos benignos, sobre todo cuando en las maternidades se los aislaba de sus madres y quedaban al cargo de enfermeras sustitutas. En 1945 el psicoanalista René Spitz publicó que los bebés criados en instituciones sin cuidado materno sufrían un grave deterioro e incluso morían, aunque estuvieran alimentados; lo llamó «hospitalismo» (en 1946 describió la «depresión anaclítica»). El término es anterior (1897). Después Bowlby desarrolló la teoría del apego.",
+    "resumen": "Qué es: el hospitalismo de Spitz es un concepto del psicoanalista René Spitz, discípulo de Freud, de comienzos del siglo XX. Spitz observó que la mortalidad en los primeros meses de vida era mucho más alta entre los neonatos que carecían de estímulos benignos, sobre todo cuando en las maternidades se los aislaba de sus madres y quedaban al cargo de enfermeras sustitutas. En 1945 el psicoanalista René Spitz publicó que los bebés criados en instituciones sin cuidado materno sufrían un grave deterioro e incluso morían, aunque estuvieran alimentados; lo llamó «hospitalismo» (en 1946 describió la «depresión anaclítica»). El término es anterior (1897). Después Bowlby desarrolló la teoría del apego. Época y lugar: Estados Unidos, en el final de la Segunda Guerra Mundial (1945).",
     "fuentes": [
      {
       "titulo": "Encyclopedia.com: Hospitalism",
@@ -24708,7 +24708,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la teoría de Nikolái Kozyrev, de 1958, según la cual el tiempo es una fuerza activa. Kozyrev expuso su «mecánica causal», en la que el tiempo es una fuerza activa, en 1958. Físicos soviéticos destacados (Artsimovich, Kapitsa, Tamm) la criticaron severamente y no forma parte de la física aceptada. La física oficial explica la energía del Sol por fusión nuclear.",
+    "resumen": "Qué es: la teoría de Nikolái Kozyrev, de 1958, según la cual el tiempo es una fuerza activa. Kozyrev expuso su «mecánica causal», en la que el tiempo es una fuerza activa, en 1958. Físicos soviéticos destacados (Artsimovich, Kapitsa, Tamm) la criticaron severamente y no forma parte de la física aceptada. La física oficial explica la energía del Sol por fusión nuclear. Época y lugar: Unión Soviética, en la Guerra Fría (1958).",
     "fuentes": [
      {
       "titulo": "Memoria sobre la obra de Kozyrev (rmi.tsu.ge, vol. 12)",
@@ -25141,7 +25141,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un modelo del núcleo atómico de Robert Moon (1986), con protones en los vértices de sólidos geométricos regulares encajados unos dentro de otros. Robert J. Moon (1911–1989), físico del Laboratorio Metalúrgico de Chicago en el Proyecto Manhattan, propuso en 1986 un modelo del núcleo con protones en los vértices de sólidos platónicos anidados. Lo difundieron sobre todo publicaciones de la Fusion Energy Foundation y no figura entre los modelos nucleares estándar.",
+    "resumen": "Qué es: un modelo del núcleo atómico de Robert Moon (1986), con protones en los vértices de sólidos geométricos regulares encajados unos dentro de otros. Robert J. Moon (1911–1989), físico del Laboratorio Metalúrgico de Chicago en el Proyecto Manhattan, propuso en 1986 un modelo del núcleo con protones en los vértices de sólidos platónicos anidados. Lo difundieron sobre todo publicaciones de la Fusion Energy Foundation y no figura entre los modelos nucleares estándar. Época y lugar: Estados Unidos, en la Guerra Fría (1986).",
     "fuentes": [
      {
       "titulo": "Robert J. Moon, National Museum of Nuclear Science & History",
@@ -25556,7 +25556,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el cargo de Morris Fishbein como editor de la revista de la Asociación Médica Americana (JAMA) desde 1924, y su campaña contra lo que llamaba curanderismo. Morris Fishbein (1889–1976), médico por Rush Medical College (1912), fue editor del Journal of the American Medical Association de 1924 a 1949 o 1950 y portavoz de la AMA, no su director. Trabajó solo unos meses como médico residente (dos años de formación clínica según otras fuentes) y desde el JAMA persiguió lo que consideraba curanderismo; en 1938 la AMA fue condenada por violar la ley antimonopolio y multada, y él fue absuelto. Las fuentes consultadas no recogen pagos bajo mesa ni un mandato de 40 años (fueron unos 25 como editor jefe).",
+    "resumen": "Qué es: el cargo de Morris Fishbein como editor de la revista de la Asociación Médica Americana (JAMA) desde 1924, y su campaña contra lo que llamaba curanderismo. Morris Fishbein (1889–1976), médico por Rush Medical College (1912), fue editor del Journal of the American Medical Association de 1924 a 1949 o 1950 y portavoz de la AMA, no su director. Trabajó solo unos meses como médico residente (dos años de formación clínica según otras fuentes) y desde el JAMA persiguió lo que consideraba curanderismo; en 1938 la AMA fue condenada por violar la ley antimonopolio y multada, y él fue absuelto. Las fuentes consultadas no recogen pagos bajo mesa ni un mandato de 40 años (fueron unos 25 como editor jefe). Época y lugar: Chicago (Estados Unidos), entre el periodo de entreguerras y la posguerra (1924-1950).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Morris Fishbein",
@@ -26609,7 +26609,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un libro de Linus Pauling (1939) sobre cómo se unen los átomos en las moléculas; la ficha comprueba si dice lo que le atribuye un autor. «The Nature of the Chemical Bond» de Linus Pauling se publicó en 1939 y trata de enlace, resonancia y electronegatividad; en las fuentes consultadas no consta que describa dos estados del agua ni anticipe el «agua EZ» de Pollack, cuya hipótesis de una fase estructurada es criticada por químicos.",
+    "resumen": "Qué es: un libro de Linus Pauling (1939) sobre cómo se unen los átomos en las moléculas; la ficha comprueba si dice lo que le atribuye un autor. «The Nature of the Chemical Bond» de Linus Pauling se publicó en 1939 y trata de enlace, resonancia y electronegatividad; en las fuentes consultadas no consta que describa dos estados del agua ni anticipe el «agua EZ» de Pollack, cuya hipótesis de una fase estructurada es criticada por químicos. Época y lugar: Estados Unidos, en el periodo de entreguerras (1939).",
     "fuentes": [
      {
       "titulo": "Science History: Linus Pauling",
@@ -27905,7 +27905,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una guía de la OMS de junio de 2013 que cambia cómo se describen las fases de una pandemia de gripe. En junio de 2013 la OMS publicó la guía provisional «Pandemic Influenza Risk Management», que sustituye a la de 2009: pasa de seis a cuatro fases globales (interpandémica, alerta, pandemia y transición), define la pandemia como periodo de propagación global de gripe humana por un nuevo subtipo e incorpora la valoración de la gravedad. Antes se declaraba cuando había brotes comunitarios en al menos dos regiones de la OMS y en dos países de una región, así que la descripción del autor es en parte correcta; la OMS dijo que cambiaba el sistema tras las críticas a su gestión de la gripe A de 2009. Es una guía sobre la gripe, no un protocolo general para cualquier enfermedad.",
+    "resumen": "Qué es: una guía de la OMS de junio de 2013 que cambia cómo se describen las fases de una pandemia de gripe. En junio de 2013 la OMS publicó la guía provisional «Pandemic Influenza Risk Management», que sustituye a la de 2009: pasa de seis a cuatro fases globales (interpandémica, alerta, pandemia y transición), define la pandemia como periodo de propagación global de gripe humana por un nuevo subtipo e incorpora la valoración de la gravedad. Antes se declaraba cuando había brotes comunitarios en al menos dos regiones de la OMS y en dos países de una región, así que la descripción del autor es en parte correcta; la OMS dijo que cambiaba el sistema tras las críticas a su gestión de la gripe A de 2009. Es una guía sobre la gripe, no un protocolo general para cualquier enfermedad. Época y lugar: Ginebra (Suiza), sede de la OMS, 2013.",
     "fuentes": [
      {
       "titulo": "KFF: WHO publishes new plan on how to alert the world about possible flu pandemics (2013)",
@@ -28091,7 +28091,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: las críticas a cómo la OMS gestionó la gripe A, el ébola y el zika, y la sospecha de que las farmacéuticas se beneficiaron. En 2010 el comité de salud de la Asamblea Parlamentaria del Consejo de Europa denunció «graves deficiencias» de transparencia en la gestión de la gripe A y la posible influencia de la industria; la OMS y los fabricantes lo negaron y expertos en salud pública lo rechazaron. La OMS declaró la pandemia de H1N1 el 11-6-2009; resultó menos grave de lo temido y varios países quedaron con excedentes de vacunas. En 2013 la OMS simplificó su sistema de alertas tras las críticas. Sobre el ébola (2014–2016) y el zika no se ha contrastado la acusación de inflar el pánico para vender reservas.",
+    "resumen": "Qué es: las críticas a cómo la OMS gestionó la gripe A, el ébola y el zika, y la sospecha de que las farmacéuticas se beneficiaron. En 2010 el comité de salud de la Asamblea Parlamentaria del Consejo de Europa denunció «graves deficiencias» de transparencia en la gestión de la gripe A y la posible influencia de la industria; la OMS y los fabricantes lo negaron y expertos en salud pública lo rechazaron. La OMS declaró la pandemia de H1N1 el 11-6-2009; resultó menos grave de lo temido y varios países quedaron con excedentes de vacunas. En 2013 la OMS simplificó su sistema de alertas tras las críticas. Sobre el ébola (2014–2016) y el zika no se ha contrastado la acusación de inflar el pánico para vender reservas. Época y lugar: Ginebra (Suiza), sede de la OMS, y los países afectados (2009-2016).",
     "fuentes": [
      {
       "titulo": "Consejo de Europa (PACE): Swine flu, unjustified scare, waste of public money",
@@ -29952,7 +29952,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el caso de Pam Reynolds, operada en 1991 con la actividad cerebral detenida, que después contó lo ocurrido en el quirófano; se cita como prueba de percepción sin cerebro. El caso es real: en agosto de 1991 el neurocirujano Robert Spetzler la operó en el Barrow Neurological Institute (Phoenix) con parada cardíaca por hipotermia. Los críticos sostienen que el tiempo «plano» suele exagerarse y que la experiencia ocurrió con anestesia general y cerebro aún activo, horas antes del paro. El anestesiólogo G. M. Woerlee atribuye lo percibido a conciencia bajo anestesia. En el estudio AWARE (Parnia) ningún paciente identificó las imágenes ocultas. Las cifras de temperatura varían según las fuentes: el autor da 10 °C y otra fuente unos 15,6 °C.",
+    "resumen": "Qué es: el caso de Pam Reynolds, operada en 1991 con la actividad cerebral detenida, que después contó lo ocurrido en el quirófano; se cita como prueba de percepción sin cerebro. El caso es real: en agosto de 1991 el neurocirujano Robert Spetzler la operó en el Barrow Neurological Institute (Phoenix) con parada cardíaca por hipotermia. Los críticos sostienen que el tiempo «plano» suele exagerarse y que la experiencia ocurrió con anestesia general y cerebro aún activo, horas antes del paro. El anestesiólogo G. M. Woerlee atribuye lo percibido a conciencia bajo anestesia. En el estudio AWARE (Parnia) ningún paciente identificó las imágenes ocultas. Las cifras de temperatura varían según las fuentes: el autor da 10 °C y otra fuente unos 15,6 °C. Época y lugar: Phoenix (Arizona, Estados Unidos), en 1991, al final de la Guerra Fría.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pam Reynolds case",
@@ -30104,7 +30104,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la COVID-19 es una enfermedad infecciosa causada por el SARS-CoV-2. Produce fiebre, tos, dificultad respiratoria, dolor muscular y fatiga; en los casos graves, neumonía, síndrome de dificultad respiratoria aguda, sepsis y choque circulatorio. Según Wikipedia, hasta 2024 habían muerto 6.881.955 personas. La OMS declaró la pandemia el 11-3-2020. Los CDC y la FDA describen la PCR de SARS-CoV-2 como prueba diseñada para detectar el virus; la afirmación de que no distingue el virus es falsa. El CDC retiró en 2021 el panel PCR original y lo sustituyó por uno multiplex que también detecta gripe.",
+    "resumen": "Qué es: la COVID-19 es una enfermedad infecciosa causada por el SARS-CoV-2. Produce fiebre, tos, dificultad respiratoria, dolor muscular y fatiga; en los casos graves, neumonía, síndrome de dificultad respiratoria aguda, sepsis y choque circulatorio. Según Wikipedia, hasta 2024 habían muerto 6.881.955 personas. La OMS declaró la pandemia el 11-3-2020. Los CDC y la FDA describen la PCR de SARS-CoV-2 como prueba diseñada para detectar el virus; la afirmación de que no distingue el virus es falsa. El CDC retiró en 2021 el panel PCR original y lo sustituyó por uno multiplex que también detecta gripe. Época y lugar: Mundial, con los primeros casos en Wuhan (China) a finales de 2019.",
     "fuentes": [
      {
       "titulo": "OMS: cronología COVID-19",
@@ -30256,7 +30256,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la investigación soviética sobre fenómenos psíquicos, a la que la URSS llamó «psicotrónica». La URSS financió durante décadas investigación sobre fenómenos psíquicos, que llamó «psicotrónica», coordinada en los años 60 a 80 por la Academia de Ciencias y después por el Comité Estatal de Ciencia y Técnica, con participación de Defensa y el KGB; un repaso de 2013 estima su coste en cientos de millones de dólares. Vlail Kaznachéyev dirigió en Novosibirsk el Instituto de Medicina Clínica y Experimental, donde su grupo hizo entre los años 60 y 80 muchos experimentos sobre una posible comunicación no química entre cultivos de células; los intentos de confirmar efectos de este tipo han dado resultados dispares. Las fuentes consultadas no recogen una carrera universitaria de parapsicología ni pruebas de que las leyes físicas cambien con el tiempo.",
+    "resumen": "Qué es: la investigación soviética sobre fenómenos psíquicos, a la que la URSS llamó «psicotrónica». La URSS financió durante décadas investigación sobre fenómenos psíquicos, que llamó «psicotrónica», coordinada en los años 60 a 80 por la Academia de Ciencias y después por el Comité Estatal de Ciencia y Técnica, con participación de Defensa y el KGB; un repaso de 2013 estima su coste en cientos de millones de dólares. Vlail Kaznachéyev dirigió en Novosibirsk el Instituto de Medicina Clínica y Experimental, donde su grupo hizo entre los años 60 y 80 muchos experimentos sobre una posible comunicación no química entre cultivos de células; los intentos de confirmar efectos de este tipo han dado resultados dispares. Las fuentes consultadas no recogen una carrera universitaria de parapsicología ni pruebas de que las leyes físicas cambien con el tiempo. Época y lugar: Unión Soviética, en la Guerra Fría (años 60-1991).",
     "fuentes": [
      {
       "titulo": "S. Kernbach, Unconventional research in USSR and Russia (arXiv, 2013)",
@@ -30495,7 +30495,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la pebrina, una enfermedad del gusano de seda que arruinaba la sericultura francesa y que Pasteur estudió de 1865 a 1870 por encargo del Gobierno. Pasteur estudió la pebrina de 1865 a 1870 por encargo del Gobierno, a petición de su maestro J.-B. Dumas; según Fabre, al empezar no había tenido nunca un capullo en la mano. Hoy se sabe que la causa es un parásito microscópico (Nosema bombycis); Pasteur propuso diagnosticar con microscopio y criar solo de mariposas sanas, y sus métodos se adoptaron en Italia, Austria o Japón. Según los historiadores Ferreira y Martins (1996), Béchamp defendió antes que nadie que era un parásito, Pasteur lo negó durante meses y después cambió de idea sin reconocérselo. La creosota que recomendó Béchamp no se confirmó ni se aplicó de forma general.",
+    "resumen": "Qué es: la pebrina, una enfermedad del gusano de seda que arruinaba la sericultura francesa y que Pasteur estudió de 1865 a 1870 por encargo del Gobierno. Pasteur estudió la pebrina de 1865 a 1870 por encargo del Gobierno, a petición de su maestro J.-B. Dumas; según Fabre, al empezar no había tenido nunca un capullo en la mano. Hoy se sabe que la causa es un parásito microscópico (Nosema bombycis); Pasteur propuso diagnosticar con microscopio y criar solo de mariposas sanas, y sus métodos se adoptaron en Italia, Austria o Japón. Según los historiadores Ferreira y Martins (1996), Béchamp defendió antes que nadie que era un parásito, Pasteur lo negó durante meses y después cambió de idea sin reconocérselo. La creosota que recomendó Béchamp no se confirmó ni se aplicó de forma general. Época y lugar: Francia, en el Segundo Imperio (1852-1870).",
     "fuentes": [
      {
       "titulo": "D. Raichvarg, «Silkworm, science worm», Comptes Rendus Biologies 345 (2022)",
@@ -31121,7 +31121,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: una asociación cultural de Barcelona que organiza cursos y actividades, donde da clases Artur Sala. Plural-21 es una asociación cultural de Barcelona, «Asociación para el cuidado de la vida en un planeta vivo». Según su propia web, su precedente fue C.O.B.R.A. (Centro Orientativo de Bio-regeneración Aplicada), fundado en 1990, y Plural-21 se constituyó en 1999; su cofundador y presidente fue Lluís Botinas. Se financia con cuotas y actividades y declara no aceptar comisiones ni subvenciones; su lema es «Vida, Verdad, Libertad, Identidad». Los datos de funcionamiento y lema proceden de la propia asociación y de su presentador en la charla: no hay una versión oficial independiente.",
+    "resumen": "Qué es: una asociación cultural de Barcelona que organiza cursos y actividades, donde da clases Artur Sala. Plural-21 es una asociación cultural de Barcelona, «Asociación para el cuidado de la vida en un planeta vivo». Según su propia web, su precedente fue C.O.B.R.A. (Centro Orientativo de Bio-regeneración Aplicada), fundado en 1990, y Plural-21 se constituyó en 1999; su cofundador y presidente fue Lluís Botinas. Se financia con cuotas y actividades y declara no aceptar comisiones ni subvenciones; su lema es «Vida, Verdad, Libertad, Identidad». Los datos de funcionamiento y lema proceden de la propia asociación y de su presentador en la charla: no hay una versión oficial independiente. Época y lugar: Barcelona (España), desde 1990.",
     "fuentes": [
      {
       "titulo": "Plural-21: web oficial",
@@ -31295,7 +31295,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un experimento de Jacobo Grinberg publicado en 1994 en el que el cerebro de una persona aislada parece responder al estímulo aplicado a otra. Grinberg-Zylberbaum y su equipo publicaron en 1994, en Physics Essays 7, el artículo «La paradoja de Einstein-Podolsky-Rosen en el cerebro: el potencial transferido». Se han intentado réplicas con resultados dispares: algunas informan un efecto y otro intento, con aislamiento riguroso, no encontró ninguno. No forma parte de la neurociencia aceptada. Grinberg desapareció en México en diciembre de 1994.",
+    "resumen": "Qué es: un experimento de Jacobo Grinberg publicado en 1994 en el que el cerebro de una persona aislada parece responder al estímulo aplicado a otra. Grinberg-Zylberbaum y su equipo publicaron en 1994, en Physics Essays 7, el artículo «La paradoja de Einstein-Podolsky-Rosen en el cerebro: el potencial transferido». Se han intentado réplicas con resultados dispares: algunas informan un efecto y otro intento, con aislamiento riguroso, no encontró ninguno. No forma parte de la neurociencia aceptada. Grinberg desapareció en México en diciembre de 1994. Época y lugar: México, 1994.",
     "fuentes": [
      {
       "titulo": "Society for Psychical Research: Jacobo Grinberg-Zylberbaum",
@@ -31683,7 +31683,7 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "oficial": {
-    "resumen": "Qué es: un laboratorio privado de Kiev, Proton-21, que dijo haber logrado transmutar metales con aceleradores de electrones. El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S. V. Adamenko, con V. I. Vysotskii) publicó entre 2003 y 2004 preimpresiones sobre transmutación en blancos comprimidos por haces de electrones y las presentó en un taller de la Universidad de Bonn en febrero de 2004. La física no ha aceptado esos resultados como transmutación nuclear confirmada y no consta que otros laboratorios los hayan reproducido de forma independiente. Lo que estas fuentes describen es compresión con haces de electrones, no un cóctel de levaduras (MCT); el autor mezcla además a miembros de líneas de trabajo distintas.",
+    "resumen": "Qué es: un laboratorio privado de Kiev, Proton-21, que dijo haber logrado transmutar metales con aceleradores de electrones. El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S. V. Adamenko, con V. I. Vysotskii) publicó entre 2003 y 2004 preimpresiones sobre transmutación en blancos comprimidos por haces de electrones y las presentó en un taller de la Universidad de Bonn en febrero de 2004. La física no ha aceptado esos resultados como transmutación nuclear confirmada y no consta que otros laboratorios los hayan reproducido de forma independiente. Lo que estas fuentes describen es compresión con haces de electrones, no un cóctel de levaduras (MCT); el autor mezcla además a miembros de líneas de trabajo distintas. Época y lugar: Kiev (Ucrania), 2001.",
     "fuentes": [
      {
       "titulo": "Adamenko y Adamenko (2003), arXiv nucl-ex/0307011",
@@ -33071,7 +33071,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: una reunión de la Royal Society de Londres en 1972 sobre la aceleración de la Luna, que un autor cuenta como un debate sin solución. La aceleración secular de la Luna se estudia con eclipses antiguos (Morrison, Stephenson, Newton) y con ocultaciones modernas; esos análisis dan valores del orden de −30″/siglo², y existe literatura previa y posterior al 1972 (Morrison presentó resultados en 1971-72). La reunión de la Royal Society de 1972 la cita el propio Fomenko, pero que dejara «incoherencias» en el siglo X no figura en las fuentes consultadas.",
+    "resumen": "Qué es: una reunión de la Royal Society de Londres en 1972 sobre la aceleración de la Luna, que un autor cuenta como un debate sin solución. La aceleración secular de la Luna se estudia con eclipses antiguos (Morrison, Stephenson, Newton) y con ocultaciones modernas; esos análisis dan valores del orden de −30″/siglo², y existe literatura previa y posterior al 1972 (Morrison presentó resultados en 1971-72). La reunión de la Royal Society de 1972 la cita el propio Fomenko, pero que dejara «incoherencias» en el siglo X no figura en las fuentes consultadas. Época y lugar: Londres (Reino Unido), en la Guerra Fría (1972).",
     "fuentes": [
      {
       "titulo": "Morrison: The secular accelerations of the Moon (1972)",
@@ -35820,7 +35820,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un libro del historiador James Strick, publicado por Harvard University Press en 2015, que analiza los experimentos de Wilhelm Reich con los biones. James E. Strick, historiador de la ciencia en Franklin & Marshall College y luego presidente del Wilhelm Reich Trust, estudió los cuadernos de laboratorio de Reich de los experimentos con biones de 1935-1939 en Noruega, y en 2015 Harvard University Press publicó su libro «Wilhelm Reich, Biologist». Strick escribió que la narrativa dominante desde la muerte de Reich es que no merece la pena mirar con más detalle su ciencia porque no hubo ciencia legítima; la comunidad científica considera pseudociencia la teoría del orgón.",
+    "resumen": "Qué es: un libro del historiador James Strick, publicado por Harvard University Press en 2015, que analiza los experimentos de Wilhelm Reich con los biones. James E. Strick, historiador de la ciencia en Franklin & Marshall College y luego presidente del Wilhelm Reich Trust, estudió los cuadernos de laboratorio de Reich de los experimentos con biones de 1935-1939 en Noruega, y en 2015 Harvard University Press publicó su libro «Wilhelm Reich, Biologist». Strick escribió que la narrativa dominante desde la muerte de Reich es que no merece la pena mirar con más detalle su ciencia porque no hubo ciencia legítima; la comunidad científica considera pseudociencia la teoría del orgón. Época y lugar: Estados Unidos, 2015.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -37029,7 +37029,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: un libro de 2018 de Kharamoos Tjundeshev que sostiene que Batú Kan, nieto de Gengis Kan, fundó el Estado ruso en 1240. La obra existe y su autor es Guennadi (Kharamoos) Tiundeshev, docente de la Universidad Estatal de Jakasia, que sostiene en ella que Batú Kan fue el fundador del Estado ruso. La historiografía académica considera que Batú, nieto de Gengis Kan, consolidó el ulus de Jochi, conocido como Horda de Oro, un Estado mongol que dominó los principados rusos, mientras que el Estado ruso se formó a partir del principado de Moscú entre los siglos XIV y XVI.",
+    "resumen": "Qué es: un libro de 2018 de Kharamoos Tjundeshev que sostiene que Batú Kan, nieto de Gengis Kan, fundó el Estado ruso en 1240. La obra existe y su autor es Guennadi (Kharamoos) Tiundeshev, docente de la Universidad Estatal de Jakasia, que sostiene en ella que Batú Kan fue el fundador del Estado ruso. La historiografía académica considera que Batú, nieto de Gengis Kan, consolidó el ulus de Jochi, conocido como Horda de Oro, un Estado mongol que dominó los principados rusos, mientras que el Estado ruso se formó a partir del principado de Moscú entre los siglos XIV y XVI. Época y lugar: Rusia (Universidad Estatal de Jakasia), 2018.",
     "fuentes": [
      {
       "titulo": "Putin, heredero de los Grandes Kanes mongoles (AsiaNews, sobre el libro de Tjundeshev)",
@@ -37359,7 +37359,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp. 13-17), donde expone la idea de que la especie humana trascienda sus límites. El término ya se había usado antes en otros contextos.",
+    "resumen": "Qué es: el origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp. 13-17), donde expone la idea de que la especie humana trascienda sus límites. El término ya se había usado antes en otros contextos. Época y lugar: Reino Unido, en la posguerra (1951-1957).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Transhumanism",
@@ -39313,7 +39313,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: unas epidemias de viruela ocurridas en ciudades alemanas (Weimar, Hamburgo y Berlín) que un autor atribuye a la variolación, la inoculación de viruela. Christoph Wilhelm Hufeland practicó y defendió en Weimar la inoculación de la viruela (variolización) desde 1781 y describió la epidemia de 1788. La historiografía no atribuye esas epidemias a la variolización: la viruela era endémica, los brotes se sucedían hubiera o no inoculación y no hay pruebas de que la inoculación aumentara la mortalidad global.",
+    "resumen": "Qué es: unas epidemias de viruela ocurridas en ciudades alemanas (Weimar, Hamburgo y Berlín) que un autor atribuye a la variolación, la inoculación de viruela. Christoph Wilhelm Hufeland practicó y defendió en Weimar la inoculación de la viruela (variolización) desde 1781 y describió la epidemia de 1788. La historiografía no atribuye esas epidemias a la variolización: la viruela era endémica, los brotes se sucedían hubiera o no inoculación y no hay pruebas de que la inoculación aumentara la mortalidad global. Época y lugar: Alemania (Weimar, Hamburgo y Berlín), en la Ilustración tardía.",
     "fuentes": [
      {
       "titulo": "Edwardes, «A concise history of small-pox and vaccination in Europe» (1902), Wellcome Collection",
@@ -39817,7 +39817,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la visita de Bill Gates, en noviembre de 2014, a los laboratorios de ENEA en Frascati, un centro que investiga reacciones nucleares de baja energía. Bill Gates visitó en noviembre de 2014 los laboratorios del centro ENEA de Frascati, que trabaja en reacciones nucleares de baja energía; la agencia informó de colaboraciones con EE. UU. Gates preside TerraPower, que desarrolla reactores nucleares de fisión de nueva generación.",
+    "resumen": "Qué es: la visita de Bill Gates, en noviembre de 2014, a los laboratorios de ENEA en Frascati, un centro que investiga reacciones nucleares de baja energía. Bill Gates visitó en noviembre de 2014 los laboratorios del centro ENEA de Frascati, que trabaja en reacciones nucleares de baja energía; la agencia informó de colaboraciones con EE. UU. Gates preside TerraPower, que desarrolla reactores nucleares de fisión de nueva generación. Época y lugar: Frascati (Italia), noviembre de 2014.",
     "fuentes": [
      {
       "titulo": "ENEA (comunicado en italiano, 12-11-2014)",
