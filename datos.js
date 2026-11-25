@@ -6087,7 +6087,7 @@ window.CRONO = {
     "desde": 1720
    },
    "fecha_autor": "1720; en otro pasaje 1708 (=1523)",
-   "resumen": "La Compañía de Jesús se fundó con el voto de Ignacio y seis compañeros en París en 1534 y fue aprobada por Pablo III con la bula del 27 de septiembre de 1540.",
+   "resumen": "La caída de Rodas es la conquista de la isla por el sultán otomano Solimán el Magnífico en 1522, tras un asedio de cinco meses, que expulsó a los Caballeros Hospitalarios y puso fin a la presencia de las órdenes militares nacidas de las cruzadas en Oriente Próximo. La ficha la fecha en 1720 según la cronología alternativa que sigue.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -6107,22 +6107,12 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "La Compañía de Jesús se fundó con el voto de Ignacio y seis compañeros en París en 1534 y fue aprobada por Pablo III con la bula del 27 de septiembre de 1540. Las fechas 1720 y 1725 son del autor y no coinciden con las académicas; la fecha de la caída de Rodas no se ha comprobado en esta pasada.",
+    "resumen": "La caída de Rodas es la conquista de la isla por el sultán otomano Solimán el Magnífico en 1522, tras un asedio de cinco meses, que expulsó a los Caballeros Hospitalarios y puso fin a la presencia de las órdenes militares nacidas de las cruzadas en Oriente Próximo. La ficha la fecha en 1720 según la cronología alternativa que sigue. La fecha académica es 1522: Rubén la sitúa en 1720 (o 1708 en otro pasaje) dentro de su cronología alternativa.",
     "fuentes": [
      {
-      "titulo": "History.com: Jesuit order established (1540)",
-      "url": "https://history.com/this-day-in-history/jesuit-order-established",
-      "consultado": "2026-11-16"
-     },
-     {
-      "titulo": "Wikipedia: Society of Jesus",
-      "url": "https://EN.wikipedia.com/wiki/Jesuit",
-      "consultado": "2026-11-16"
-     },
-     {
-      "titulo": "Catholic Encyclopedia: Society of Jesus",
-      "url": "https://www.catholic.org/encyclopedia/view.php?id=6312",
-      "consultado": "2026-11-16"
+      "titulo": "Wikipedia: Sitio de Rodas (1522)",
+      "url": "https://es.wikipedia.org/wiki/Sitio_de_Rodas_(1522)",
+      "consultado": "2026-11-25"
      }
     ]
    },
