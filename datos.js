@@ -1120,7 +1120,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Acuerdos Generales de Préstamo (GAB) se firmaron en 1962 entre diez países industrializados para dotar de recursos al FMI en caso de necesidad; el NAB (Nuevos Acuerdos de Préstamo) lo amplió después (1998 según el FMI) y los GAB se mantienen como línea secundaria. Que su efecto sea endeudar y colocar corporaciones no forma parte de la versión académica. Los GAB se ampliaron en 1983 (de unos 6.000 a 17.000 millones de DEG). Nocera sitúa el NAB en 1995; el año 1998 del FMI no se ha vuelto a comprobar.",
+    "resumen": "Los Acuerdos Generales de Préstamo (GAB) se firmaron en 1962 entre diez países industrializados para dotar de recursos al FMI en caso de necesidad; el NAB (Nuevos Acuerdos de Préstamo) lo amplió después (1998 según el FMI) y los GAB se mantienen como línea secundaria. Que su efecto sea endeudar y colocar corporaciones no forma parte de la versión académica. Los GAB se ampliaron en 1983 (de unos 6.000 a 17.000 millones de DEG). Según el FMI, los GAB se establecieron en enero de 1962 por decisión de su Directorio Ejecutivo y hoy tienen 11 participantes; el NAB lo aprobó el Directorio en enero de 1997 y estuvo en vigor desde el 17-11-1998, de modo que el 1995 de Nocera no coincide.",
     "fuentes": [
      {
       "titulo": "FMI: acuerdos de préstamo",
@@ -1131,6 +1131,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Group of Ten (IMF)",
       "url": "https://en.wikipedia.org/wiki/Group_of_Ten_(IMF)",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "FMI: General Arrangements to Borrow",
+      "url": "https://www.imf.org/-/media/files/publications/pp/2017/pp122617-general-arrangements-to-borrow.pdf.md",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "FMI: nota de prensa 98/57 (NAB)",
+      "url": "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9857",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -3556,7 +3566,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Se fundó en 1930 en el marco del Plan Young sobre las reparaciones alemanas: sus estatutos se redactaron en Baden-Baden (1929), se aprobaron en La Haya (enero de 1930) y los gobernadores de los bancos centrales los firmaron en Roma el 26 y 27 de febrero de 1930, en una reunión presidida por Bonaldo Stringher, del Banco de Italia, a la que asistieron Hjalmar Schacht (Reichsbank) y Montagu Norman (Banco de Inglaterra); en eso el autor acierta. Abrió en Basilea en mayo de 1930, y su sede actual, de 1977, es en efecto una torre. Tuvo accionistas privados hasta 2005; hoy es propiedad de los bancos centrales de 63 jurisdicciones, que lo gobiernan. Sus comités elaboran estándares (los acuerdos de Basilea) que los países adoptan voluntariamente. En marzo de 1939 transfirió al Reichsbank 23 toneladas de oro checoslovaco con la autorización del Banco de Inglaterra y de Norman, su episodio más polémico; durante la guerra el Reichsbank le pagó en oro procedente en parte del saqueo nazi, y en 1944 la conferencia de Bretton Woods recomendó liquidarlo. En la historia de su fundación no figura ningún Torlonia: por Italia participaron Stringher y Alberto Beneduce.",
+    "resumen": "Se fundó en 1930 en el marco del Plan Young sobre las reparaciones alemanas: sus estatutos se redactaron en Baden-Baden (1929), se aprobaron en La Haya (enero de 1930) y los gobernadores de los bancos centrales los firmaron en Roma el 26 y 27 de febrero de 1930, en una reunión presidida por Bonaldo Stringher, del Banco de Italia, a la que asistieron Hjalmar Schacht (Reichsbank) y Montagu Norman (Banco de Inglaterra); en eso el autor acierta. Abrió en Basilea en mayo de 1930, y su sede actual, de 1977, es en efecto una torre. Tuvo accionistas privados hasta 2005; hoy es propiedad de los bancos centrales de 63 jurisdicciones, que lo gobiernan. Sus comités elaboran estándares (los acuerdos de Basilea) que los países adoptan voluntariamente. En marzo de 1939 transfirió al Reichsbank 23 toneladas de oro checoslovaco con la autorización del Banco de Inglaterra y de Norman, su episodio más polémico; durante la guerra el Reichsbank le pagó en oro procedente en parte del saqueo nazi, y en 1944 la conferencia de Bretton Woods recomendó liquidarlo. En la historia de su fundación no figura ningún Torlonia: por Italia participaron Stringher y Alberto Beneduce. Su primer presidente fue el estadounidense Gates McGarrah (abril de 1930 a mayo de 1933); Schacht participó en el proyecto como presidente del Reichsbank, pero no presidió el BIS.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Bank for International Settlements (leída en una copia de marzo de 2026)",
@@ -3571,6 +3581,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Czechoslovak gold reserve",
       "url": "https://en.wikipedia.org/wiki/Czechoslovak_gold_reserve"
+     },
+     {
+      "titulo": "BIS: historia (Overview)",
+      "url": "https://www.bis.org/about/history/overview",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia: Gates W. McGarrah",
+      "url": "https://en.wikipedia.org/wiki/Gates_W._McGarrah",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -17141,7 +17161,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global presentada por el presidente de State Grid Corporation of China, Liu Zhenya, el 12-11-2015 y apoyada por Xi Jinping. Su papel de pieza de un control mundial es tesis de Nocera. La constitución de GEIDCO en 2016 no se ha vuelto a comprobar.",
+    "resumen": "GEIDCO se constituyó en Pekín en marzo de 2016 a partir de la iniciativa de interconexión eléctrica global presentada por el presidente de State Grid Corporation of China, Liu Zhenya, el 12-11-2015 y apoyada por Xi Jinping. Su papel de pieza de un control mundial es tesis de Nocera. Fuentes de la ONU y de la Universidad de Shandong sitúan la constitución en Pekín en torno al 29-31 de marzo de 2016 (conferencia internacional sobre energía global).",
     "fuentes": [
      {
       "titulo": "Wikipedia: GEIDCO",
@@ -17152,6 +17172,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Global Energy Interconnection",
       "url": "https://en.wikipedia.org/wiki/Global_Energy_Interconnection",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "ONU: Global Energy Interconnection Action Plan (2017)",
+      "url": "https://sustainabledevelopment.un.org/content/documents/171294.GlobalEnergyInterconnectionActionPlantoPromotethe2030AgendaforSustainableDevelopment20171025.pdf",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Universidad de Shandong: GEIDCO",
+      "url": "https://en.sdu.edu.cn/info/1157/4732.htm",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -21081,7 +21111,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres. Los lazos que Nocera describe con tiranías son su interpretación.",
+    "resumen": "La Internacional Socialista se refundó en Fráncfort en 1951 como heredera de la Segunda Internacional (1889) y tiene sede en Londres. Los lazos que Nocera describe con tiranías son su interpretación. El congreso fundacional de Fráncfort se celebró del 30-6 al 3-7-1951; la Internacional Socialista, según su propia web, tiene estatus consultivo de categoría I ante la ONU. Su predecesora, la Internacional Obrera y Socialista, se disolvió en 1940.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Internacional Socialista",
@@ -21092,6 +21122,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Socialist International",
       "url": "https://en.wikipedia.org/wiki/Socialist_International",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Socialist International: Frankfurt, congreso fundacional",
+      "url": "https://www.socialistinternational.org/congresses/i-frankfurt/parties-represented-at-the-founding-congress-of-the-socialist-international/",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Britannica: Socialist International",
+      "url": "https://www.britannica.com/topic/Socialist-International-association-of-political-parties-1951",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -27692,7 +27732,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres. La cifra del 80 % que da Nocera no se ha podido comprobar.",
+    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres. La cifra del 80 % que da Nocera no se ha podido comprobar. El convenio se adoptó en Ginebra el 6-3-1948 y entró en vigor el 17-3-1958 (Colección de Tratados de la ONU); entonces la organización se llamaba OCMI (IMCO) y cambió a OMI después.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Marítima Internacional",
@@ -27703,6 +27743,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): International Maritime Organization",
       "url": "https://en.wikipedia.org/wiki/International_Maritime_Organization",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "OMI: breve historia",
+      "url": "https://www.imo.org/en/about/historyofimo/pages/default.aspx",
+      "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Colección de Tratados de la ONU: Convenio constitutivo de la OMI",
+      "url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XII/XII-1.en.xml",
+      "consultado": "2026-11-25"
      }
     ]
    },
@@ -28021,7 +28071,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003. La sede en Ginebra y la fecha de 1950 de Nocera no coinciden con la versión oficial.",
+    "resumen": "La OMT, con sede en Madrid, se constituyó en 1975 a partir de la Unión Internacional de Organismos Oficiales de Viajes (1925/1947) y es organismo de la ONU desde 2003. La sede en Ginebra y la fecha de 1950 de Nocera no coinciden con la versión oficial. Sus estatutos entraron en vigor el 2-1-1975 y la primera Asamblea General se celebró en Madrid en mayo de 1975; algunas fuentes dan 1974. El antecedente es de 1925, en La Haya.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Mundial del Turismo",
@@ -28032,6 +28082,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): World Tourism Organization",
       "url": "https://en.wikipedia.org/wiki/World_Tourism_Organization",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "UN Tourism: historia",
+      "url": "https://www.untourism.int/history",
+      "consultado": "2026-11-25"
      }
     ]
    },
