@@ -22525,7 +22525,7 @@ window.CRONO = {
     "texto": "23 de octubre de 2026",
     "fuente": "oficial"
    },
-   "resumen": "Según la prensa (AP, Vanguardia, Crónica), el Kehlsteinhaus, el «Nido del Águila» de los Alpes bávaros (1.834 m, construido en 1937–1938), ardió la noche del viernes 23-10-2026; unos 200 efectivos intervinieron y la policía detuvo a un alemán de 33 años cuando bajaba en una moto sin matrícula.",
+   "resumen": "El Kehlsteinhaus, conocido como el «Nido del Águila», es el refugio-mirador construido entre 1937 y 1938 a 1.834 m en los Alpes bávaros para Hitler, que apenas lo usó. La noche del viernes 23 de octubre de 2026 ardió; intervinieron unos 200 efectivos y la policía detuvo a un alemán de 33 años cuando bajaba en una moto sin matrícula.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -22544,7 +22544,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Según la prensa (AP, Vanguardia, Crónica), el Kehlsteinhaus, el «Nido del Águila» de los Alpes bávaros (1.834 m, construido en 1937–1938), ardió la noche del viernes 23-10-2026; unos 200 efectivos intervinieron y la policía detuvo a un alemán de 33 años cuando bajaba en una moto sin matrícula. La fiscalía habló de indicios de posibles trastornos psíquicos y se investiga una eventual motivación política. Desde 1952 funcionaba como restaurante y albergue de montaña; Baviera, propietaria, prometió reconstruirlo. Que el edificio fuese «refugio de Hitler» es la forma popular: el dictador apenas lo usó.",
+    "resumen": "El Kehlsteinhaus, conocido como el «Nido del Águila», es el refugio-mirador construido entre 1937 y 1938 a 1.834 m en los Alpes bávaros para Hitler, que apenas lo usó. La noche del viernes 23 de octubre de 2026 ardió; intervinieron unos 200 efectivos y la policía detuvo a un alemán de 33 años cuando bajaba en una moto sin matrícula. La fiscalía habló de indicios de posibles trastornos psíquicos y se investiga una eventual motivación política. Desde 1952 funcionaba como restaurante y albergue de montaña; Baviera, propietaria, prometió reconstruirlo.",
     "fuentes": [
      {
       "titulo": "Vanguardia: Incendio destruye el «Nido del Águila» (24-10-2026)",
@@ -33641,15 +33641,77 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Primera Guerra Mundial",
       "url": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-25"
      },
      {
       "titulo": "Wikipedia: Armisticio del 11 de noviembre de 1918",
       "url": "https://es.wikipedia.org/wiki/Armisticio_del_11_de_noviembre_de_1918",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Primera Guerra Mundial (1914-1918), llamada entonces la Gran Guerra, enfrentó a los Imperios Centrales —Alemania, Austria-Hungría, el Imperio Otomano y Bulgaria— con los Aliados —Francia, Reino Unido, Rusia, Italia y Estados Unidos, entre otros—. Empezó el 28 de julio de 1914 con la declaración de guerra austrohúngara a Serbia, tras el asesinato del archiduque Francisco Fernando, y terminó con el armisticio del 11 de noviembre de 1918.\n\nSe combatió en toda Europa y también en África, Oriente Medio, el Cáucaso, el Pacífico y el Atlántico. La guerra dejó entre nueve y diez millones de militares muertos, unos veinte millones de heridos y más de siete millones de civiles muertos, y provocó la desaparición de cuatro imperios."
+    },
+    {
+     "titulo": "Por qué estalló: imperios, alianzas y carrera de armamentos",
+     "nivel": "hecho",
+     "texto": "En 1914 Europa dominaba el mundo: reunía una cuarta parte de la población mundial y controlaba el comercio y las finanzas. Pero dentro del continente las rivalidades imperiales se habían agravado, sobre todo por el reparto de África y Asia, al que Alemania e Italia llegaron tarde. El sistema de alianzas venía de lejos: la Liga de los Tres Emperadores de Bismarck (1873), la Doble Alianza austro-alemana (1879) y la Triple Alianza con Italia (1882); enfrente, la Alianza franco-rusa (1892) y los acuerdos de la Entente Cordiale con Francia (1904) y con Rusia (1907).\n\nA eso se sumó la carrera de armamentos. Desde mediados de la década de 1890 Alemania construyó una marina para rivalizar con la británica, y el HMS Dreadnought (1906) relanzó la competición. Entre 1870 y 1913 el gasto militar de Alemania y el Reino Unido se triplicó y el francés se dobló; entre 1908 y 1913 creció un 50 %. En vísperas de la guerra, las Potencias Centrales tenían 138 millones de habitantes y unos 33 millones de hombres movilizables; la Entente y sus colonias, 708 millones y 179 millones. Los Balcanes, el «polvorín de Europa», habían vivido dos guerras en 1912-1913."
+    },
+    {
+     "titulo": "Sarajevo y la crisis de julio",
+     "nivel": "hecho",
+     "texto": "El 28 de junio de 1914 Gavrilo Princip, de la organización Joven Bosnia, mató en Sarajevo al archiduque Francisco Fernando y a su esposa Sofía. La reacción en Austria fue casi indiferente, pero el gobierno austrohúngaro entregó a Serbia un ultimátum el 23 de julio con diez demandas imposibles de aceptar de forma intencionada. Serbia aceptó todas menos la sexta, que exigía una delegación austriaca en la investigación, y el 28 de julio Austria le declaró la guerra.\n\nEl engranaje de alianzas hizo el resto: Rusia movilizó en apoyo de Serbia, Alemania exigió a Rusia y a Francia que se desmovilizaran, declaró la guerra a Rusia el 1 de agosto y a Francia el 3; el 4 invadió Bélgica, y ese mismo día el Reino Unido le declaró la guerra por la violación de la neutralidad belga. En un mes, un atentado en los Balcanes había puesto en pie de guerra a toda Europa."
+    },
+    {
+     "titulo": "1914: la guerra corta que no fue",
+     "nivel": "hecho",
+     "texto": "Todos creían que sería corta. Alemania puso en marcha el plan Schlieffen: debilitar el flanco de Alsacia y Lorena para que los franceses atacaran allí, y barrer Bélgica con el grueso de las tropas para llegar a París. El avance inicial fue rapidísimo —las bajas francesas del primer mes superaron las 260.000—, pero una brecha entre los ejércitos alemanes permitió a franceses y británicos detenerlos en el Marne (5-12 de septiembre) y obligó a retroceder 50 kilómetros.\n\nFracasado el plan, empezó la «carrera hacia el mar» y la guerra de trincheras. El alambre de púas, la ametralladora y una artillería mucho más letal que la de 1870 hicieron imposible el asalto a campo abierto, y las tácticas no habían evolucionado al ritmo de la tecnología. En el este, los rusos invadieron Prusia Oriental y fueron aniquilados en Tannenberg, y en el sur ocuparon Galicia. A finales de 1914 Alemania había ganado terreno, pero había perdido la guerra rápida: era una derrota estratégica."
+    },
+    {
+     "titulo": "1915: gas, Galípoli e Italia",
+     "nivel": "hecho",
+     "texto": "El 22 de abril de 1915, en la segunda batalla de Ypres, Alemania usó por primera vez gas de cloro letal: los franceses abandonaron sus posiciones y se abrió una brecha de seis kilómetros que los alemanes no supieron explotar. Las bajas británicas superaron las alemanas (unos 70.000 frente a 35.000). En Artois y Champaña los aliados gastaron un cuarto de millón de hombres para ganar poco.\n\nEn el este, la ofensiva de Gorlice-Tarnów colapsó el frente ruso y provocó la «Gran retirada» de septiembre: Rusia abandonó Polonia, Lituania y gran parte de Curlandia. En los Dardanelos, la operación de Galípoli ideada por Churchill, con australianos y neozelandeses (ANZAC) y más de 500.000 soldados de la Entente, fracasó ante la resistencia otomana de Mustafa Kemal y se evacuó el 9 de enero de 1916, con medio millón de bajas entre ambos bandos. Italia entró en guerra con la Entente en mayo de 1915 tras el tratado de Londres, a cambio de territorios austríacos."
+    },
+    {
+     "titulo": "1916: Verdún y el Somme",
+     "nivel": "hecho",
+     "texto": "1916 fue el año de las grandes matanzas. La batalla de Verdún empezó el 21 de febrero: 1.500 cañones alemanes bombardearon ocho horas una franja de trece kilómetros y la lucha se prolongó más de nueve meses, con cientos de miles de víctimas, sin que la ciudad cayera. El general Pétain se convirtió en héroe nacional por su defensa y la «Voie sacrée» mantuvo el suministro.\n\nEl 1 de julio comenzó la batalla del Somme, con un bombardeo previo de un millón y medio de proyectiles que no destruyó los refugios alemanes: los británicos tuvieron 57.740 bajas el primer día, de ellas 19.240 muertos, 8.000 en la primera media hora. En cuatro meses y medio avanzaron entre ocho y diez kilómetros. El 15 de septiembre aparecieron los primeros carros de combate. En el este, la ofensiva Brusílov fue la mayor victoria de la Entente en toda la guerra y llevó a Austria-Hungría al borde del colapso, pero costó tantas bajas que un año después el ejército ruso se derrumbó."
+    },
+    {
+     "titulo": "1917: entra Estados Unidos y sale Rusia",
+     "nivel": "hecho",
+     "texto": "En enero de 1917 Alemania reanudó la guerra submarina sin restricciones. El telegrama Zimmermann, en el que Alemania ofrecía a México territorios estadounidenses si entraba en guerra, y el hundimiento de barcos mercantes llevaron a Estados Unidos a declarar la guerra el 2 de abril. Su ejército era minúsculo, pero con la Ley de Servicio Selectivo reclutó a 2,8 millones de hombres y en el verano de 1918 llegaban a Francia más de 10.000 soldados al día.\n\nEn Rusia, la revolución de febrero derribó al zar y la de octubre llevó al poder a los bolcheviques, que firmaron la paz de Brest-Litovsk el 3 de marzo de 1918 y sacaron al país de la guerra. En el frente occidental, el fracaso de la ofensiva de Nivelle provocó motines en 68 divisiones francesas, y la tercera batalla de Ypres dejó más de medio millón de bajas para avanzar ocho kilómetros. En Cambrai, en noviembre, se usaron por primera vez carros de combate en masa."
+    },
+    {
+     "titulo": "1918: la última ofensiva y el armisticio",
+     "nivel": "hecho",
+     "texto": "Ludendorff jugó su última carta en primavera. La ofensiva «Michael» comenzó el 21 de marzo con las nuevas tácticas de infiltración y avanzó 60 kilómetros en pocos días; los alemanes llegaron a menos de 120 kilómetros de París y bombardearon la capital con cañones ferroviarios. Pero sin carros ni motorización no pudieron consolidar el avance, y el 15 de julio la segunda batalla del Marne abrió la contraofensiva aliada.\n\nLa «Ofensiva de los Cien Días» empezó el 8 de agosto en Amiens. Ludendorff lo llamó el «día negro del ejército alemán» y el 14 de agosto el mando alemán asumió que la guerra no podía terminar militarmente. Bulgaria firmó un armisticio el 29 de septiembre; el Imperio Otomano y Austria-Hungría se rindieron en octubre; en Alemania, los motines y la revolución de noviembre acabaron con el káiser. El armisticio se firmó el 11 de noviembre de 1918."
+    },
+    {
+     "titulo": "El dinero: cómo se pagó la guerra",
+     "nivel": "hecho",
+     "texto": "La guerra transformó la economía: los gobiernos tomaron el control de la producción y del abastecimiento, y en Alemania y Francia el gasto público superó el 50 % del PIB (el Reino Unido se acercó). Alemania racionó el pan en noviembre de 1914; el Reino Unido acabó controlando el 94 % de los alimentos y racionó en 1918.\n\nEl coste directo se estima en 956.000 millones de marcos oro: 208.000 millones el Imperio británico, 194.000 Alemania, 134.000 Francia, 129.000 Estados Unidos, 106.000 Rusia, 99.000 Austria-Hungría y 63.000 Italia. Aproximadamente el 87 % se pagó con bonos, deuda y emisión de papel moneda, no con impuestos: la deuda nacional alemana llegó a 145.000 millones de marcos. Solo Alemania gastaba en 1916 entre 60 y 70 millones de marcos diarios. El resultado fue una inflación gigantesca y un cambio de acreedor mundial: el Reino Unido pasó de ser el mayor acreedor a estar entre los más endeudados, y Estados Unidos se convirtió en el nuevo acreedor de Europa."
+    },
+    {
+     "titulo": "Las cuentas humanas y materiales",
+     "nivel": "hecho",
+     "texto": "Alemania movilizó a unos 11 millones de hombres y perdió 1,77 millones; Francia movilizó 7,8 millones y perdió 1,4 millones, con 3,2 millones de heridos; Rusia reclutó 12 millones y perdió 1,85 millones; el Reino Unido, 850.000 soldados; Austria-Hungría, 1,5 millones de 7,8; Italia, 700.000 de más de 5 millones. En proporción, las peores pérdidas fueron las de Serbia —130.000 soldados muertos y 540.000 personas, el 11 % de su población— y Montenegro, con el 16 %.\n\nEl bloqueo naval mató de hambre, según un estudio de la Sociedad de Naciones de 1928, a 424.000 alemanes en el invierno de 1916-1917 (hay estimaciones de hasta 733.000). Millones de heridos quedaron con secuelas permanentes y la proporción de mujeres respecto a hombres se disparó. El Imperio Otomano cometió además el genocidio armenio. El coste de reconstrucción de Bélgica, Serbia y el norte de Francia se estimó en más de 100.000 millones de francos."
+    },
+    {
+     "titulo": "El mundo que dejó",
+     "nivel": "hecho",
+     "texto": "La guerra acabó con cuatro imperios —el alemán, el austrohúngaro, el ruso y el otomano— y con cuatro dinastías: los Romanov, los Osmanlí, los Hohenzollern y los Habsburgo. De sus ruinas salieron nuevos Estados y naciones que recuperaron la independencia. Los tratados de paz se firmaron entre 1919 y 1920, a partir de la Conferencia de Paz de París inaugurada el 18 de enero de 1919 y con la exclusión de Rusia y de los vencidos.\n\nEuropa perdió la hegemonía mundial en favor de Estados Unidos, y las reparaciones impuestas a Alemania —cobradas con préstamos estadounidenses en un circuito que se derrumbó en 1931— envenenaron la posguerra. El descontento, la inflación y el miedo al bolchevismo alimentaron el fascismo italiano y el nazismo alemán. En Rusia, la guerra fue la puerta de la revolución que cambió el siglo."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quedan abiertas las cifras exactas: los muertos militares se sitúan entre nueve y diez millones y los civiles entre siete y trece, sin recuento fiable, y las estimaciones de hambre y enfermedades del bloqueo varían mucho (de 424.000 a 733.000 alemanes). Tampoco hay acuerdo sobre cuánto pesó cada causa en el estallido: la responsabilidad alemana, la carrera de armamentos, las alianzas rígidas o la propia crisis de julio.\n\nEsta ficha no ha leído del artículo las secciones de reclutamiento, experiencia de los soldados, mujeres, apoyo y oposición a la guerra, tecnología y testimonios. Para seguir el dinero falta además la parte de quién prestó a quién: la madeja de préstamos entre Reino Unido, Francia, Estados Unidos y Alemania, y el detalle de la deuda de guerra, que aquí solo se resume con las cifras del gasto."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -35345,7 +35407,6 @@ window.CRONO = {
    "tipo": "hecho",
    "titulo": "Revolución china de 1949",
    "carril": "politica-economia",
-   "naturaleza": "gobiernos",
    "temas": [],
    "fecha": {
     "desde": 1949,
@@ -35358,12 +35419,54 @@ window.CRONO = {
     "resumen": "La revolución china de 1949 fue el resultado final de la larga guerra civil china, que enfrentó al Partido Nacionalista de Chiang Kai-shek con el Partido Comunista Chino dirigido por Mao Zedong.",
     "fuentes": [
      {
-      "titulo": "Wikipedia (es): Revolución china",
-      "url": "https://es.wikipedia.org/wiki/Revolución_china",
-      "consultado": "2026-11-22"
+      "titulo": "Wikipedia: Revolución china de 1949",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_china_de_1949",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Revolución china de 1949 es la revolución social que empezó en 1927 y terminó con la proclamación de la República Popular China el 1 de octubre de 1949. No fue un episodio de un año: fue una guerra civil de más de dos décadas, con una tregua relativa durante la ocupación japonesa (1937-1945), entre el Partido Comunista de China (PCC), fundado en 1921, y el Kuomintang (KMT) de Chiang Kai-shek.\n\nEl punto de partida suele fijarse en la matanza de Shanghái de 1927, cuando Chiang ordenó acabar con los comunistas que hasta entonces eran sus aliados en el Primer Frente Unido. La victoria comunista de 1949 cerró el proceso y dejó a China continental bajo un solo partido."
+    },
+    {
+     "titulo": "Los antecedentes: el siglo de la humillación y el PCC",
+     "nivel": "hecho",
+     "texto": "Durante el siglo anterior, el «siglo de la humillación», China acumuló problemas sociales, económicos y políticos por el imperialismo occidental y japonés y por el declive de la dinastía Qing (1644-1912). Las hambrunas cíclicas y un sistema opresivo de terratenientes mantenían a la masa campesina pobre y sin derechos políticos.\n\nEl Partido Comunista de China lo fundaron en 1921 jóvenes intelectuales urbanos, inspirados por las ideas socialistas europeas y por el éxito de la Revolución rusa de Octubre. En el Primer Frente Unido se alió con el Kuomintang contra los señores de la guerra y los imperialistas. La matanza de Shanghái de 1927, ordenada por Chiang, rompió la alianza y abrió la guerra civil."
+    },
+    {
+     "titulo": "Del proletariado al campo: Mao y la Larga Marcha",
+     "nivel": "hecho",
+     "texto": "El dominio militar nacionalista obligó al PCC a abandonar su estrategia de apelar al proletariado urbano y a establecerse en el campo, como defendía Mao Zedong. Mao ascendió al liderazgo del partido durante la Larga Marcha, en la que el partido estuvo a punto de ser destruido.\n\nEn 1937 la invasión japonesa desencadenó la segunda guerra sino-japonesa y comunistas y nacionalistas formaron un Segundo Frente Unido contra el enemigo común. El PCC aprovechó la situación para reconstruir su movimiento en torno al campesinado, y al terminar la guerra en 1945 ya era una fuerza política y militar con base rural propia."
+    },
+    {
+     "titulo": "1945: la carrera por el territorio y el fracaso de Marshall",
+     "nivel": "hecho",
+     "texto": "El 8 de agosto de 1945 la Unión Soviética declaró la guerra a Japón y al día siguiente invadió el noreste de China, que arrebató a los japoneses en pocos días. Tras la rendición japonesa, comunistas y nacionalistas se apresuraron a ocupar el territorio: los nacionalistas contaron con aviones y barcos estadounidenses y con unos 50.000 marines desembarcados en Shandong y Hebei; los comunistas se concentraron en Manchuria, donde recibieron material japonés cedido por los soviéticos y llegaron a unos 130.000 hombres.\n\nLas negociaciones de Chongqing (28 de agosto a 19 de octubre de 1945) no fructificaron. El general George Marshall llegó en diciembre con la misión de lograr una tregua, un ejército mixto y un Gobierno de coalición; consiguió una tregua el 10 de enero de 1946, pero la desconfianza entre las tres partes la hizo fracasar. En enero de 1947 Marshall se fue y Estados Unidos siguió armando a Chiang."
+    },
+    {
+     "titulo": "La guerra civil, 1946-1949",
+     "nivel": "hecho",
+     "texto": "En julio de 1946 los comunistas formaron el Ejército Popular de Liberación (EPL). Los nacionalistas lanzaron una ofensiva que ocupó 165 ciudades en la segunda mitad de 1946 y tomaron Yan'an en marzo de 1947, pero el avance se agotó: el EPL evitaba las grandes batallas, cedía las ciudades y atacaba unidades aisladas. Desde mediados de 1947 pasó al contraataque en Manchuria.\n\nEntre septiembre de 1948 y enero de 1949 se libraron las tres campañas decisivas: Liao-Shen (12 de septiembre-2 de noviembre de 1948), Huai-Hai (8 de noviembre-10 de enero de 1949) y Ping-Jin (29 de noviembre de 1948-31 de enero de 1949). El ejército nacionalista perdió cerca de un millón de hombres en esos meses. Nankín cayó el 23 de abril de 1949 y Shanghái el 27 de mayo; el 1 de octubre Mao proclamó la República Popular en Pekín. Chiang se refugió en Taiwán el 7 de diciembre y la última ciudad nacionalista del continente, Xichang, cayó el 27 de marzo de 1950."
+    },
+    {
+     "titulo": "¿Por qué ganaron los comunistas?",
+     "nivel": "hecho",
+     "texto": "Las razones militares que señala la fuente son la continuidad del mando (Zhu De, Peng Dehuai, Lin Biao, Chen Yi, Liu Bocheng), una estrategia de aniquilación del enemigo y no de defensa del territorio, una movilidad extrema frente a la rigidez de las guarniciones nacionalistas y la capacidad de pasar de la guerrilla a la guerra convencional y al asedio de ciudades.\n\nLas razones sociales y políticas pesaron igual. En 1946 el PCC sustituyó las reformas moderadas por el reparto radical de la tierra («la tierra para los que la trabajan»), con una ola de violencia contra las élites rurales que en 1948 se frenó para atraer a los campesinos medios; con esa política reclutó a cientos de miles de soldados, más de millón y medio solo en Manchuria. El régimen de Chiang se desmoronaba por la corrupción y por la hiperinflación: en agosto de 1948 un dólar se cambiaba por doce millones de fabis, y la sustitución del fabi por el yuan de oro no lo arregló. La ruina de las clases medias urbanas, base del régimen, empujó a muchos a aceptar a los comunistas."
+    },
+    {
+     "titulo": "El resultado y su impacto",
+     "nivel": "hecho",
+     "texto": "La victoria comunista cambió el equilibrio de poder mundial: China se convirtió en el Estado socialista más grande por población y, tras la ruptura sino-soviética de 1956, en una tercera fuerza dentro de la Guerra Fría. La República Popular dio apoyo directo e indirecto a movimientos comunistas de todo el mundo e inspiró el crecimiento de partidos maoístas en varios países.\n\nEl efecto contrario también fue inmediato: el miedo a la expansión del comunismo en Asia Oriental llevó a Estados Unidos a organizar intervenciones militares en Corea y en el Sudeste Asiático. El PCC sigue gobernando China continental."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quedan abiertas las cifras humanas del proceso: la guerra civil y el reparto de tierras produjeron un número de muertos que la fuente no totaliza, y hay episodios con cifras propias, como el sitio de Changchun, donde se calcula que murieron cien mil personas de hambre.\n\nTambién falta documentar con fuente primaria el peso exacto del apoyo soviético (material japonés, entrega de ciudades, retirada de maquinaria y oro de Manchuria) frente al apoyo estadounidense a Chiang, y el detalle del dinero: quién financió a cada bando y cómo la hiperinflación acabó con la base social del Kuomintang. Seguir el dinero aquí exige los archivos financieros de la República de China y los papeles soviéticos de 1945-1949, que esta ficha no tiene."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -35376,6 +35479,7 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "naturaleza": "gobiernos",
    "solo_oficial": true,
    "vista": "politica"
   },
@@ -35493,10 +35597,62 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Revolución francesa",
       "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_francesa",
-      "consultado": "2026-11-20"
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Revolución francesa es el proceso político y social que entre 1789 y 1799 acabó con el Antiguo Régimen en Francia y fundó un régimen basado en la soberanía nacional. Se suele dividir en tres etapas: la monarquía constitucional (1789-1792), la República radical (1792-1794) y la República conservadora (1794-1799), que terminó con el golpe de Estado del 18 de brumario (9 de noviembre de 1799), cuando Napoleón Bonaparte puso fin al Directorio.\n\nNo fue un bloque homogéneo: dentro de la Revolución hubo al menos dos, la de la burguesía que quería una constitución y derechos, y la de las clases populares urbanas y campesinas que querían además pan y tierra. El pulso entre ambas, y entre los distintos grupos revolucionarios, explica sus giros."
+    },
+    {
+     "titulo": "Las causas: deuda, hambre y privilegios",
+     "nivel": "hecho",
+     "texto": "El detonante fue financiero. La Hacienda real acumulaba déficit desde hacía décadas y la guerra con Gran Bretaña (1778-1783) lo agravó: en 1788 los gastos eran de 629 millones de livres y los ingresos de 503, con un déficit de 126 millones, y la deuda acumulada en 1789 rondaba los 5.000 millones, el triple que en 1774. Luis XVI intentó hacer pagar impuestos a la nobleza y al clero, exentos, y fracasó ante su oposición.\n\nA eso se sumó la crisis de subsistencias: dos malas cosechas en 1787-1789 duplicaron el precio del trigo, y el tratado de libre comercio con Inglaterra (1786) había inundado el mercado de productos más baratos. El campesinado era el 85 % de la población y soportaba diezmos, censos, corveas y monopolios señoriales; la población había pasado de 20 a 26 millones en el siglo. La burguesía, más rica pero sin peso político en una sociedad de estamentos, se sumó al descontento."
+    },
+    {
+     "titulo": "1789: de los Estados Generales a la Bastilla",
+     "nivel": "hecho",
+     "texto": "Los Estados Generales se abrieron el 5 de mayo de 1789. El Tercer Estado exigió el voto por cabeza y, ante la negativa del rey, se proclamó Asamblea Nacional el 16 de junio; el clero se le unió por 149 votos contra 137 y el 20 de junio los diputados juraron en la sala del Juego de Pelota no separarse hasta dar una constitución. El 7 de julio la Asamblea se declaró Constituyente, atribuyéndose un poder superior al del rey.\n\nLa reacción popular llegó el 14 de julio: tras la destitución de Necker y la concentración de 20.000 soldados en torno a París, una milicia de unos 48.000 hombres asaltó la Bastilla, donde se guardaba la pólvora. Hubo un centenar de muertos entre los asaltantes y el gobernador Launay fue asesinado por la multitud. El 15 de julio el rey retiró las tropas y el 17 aceptó la escarapela tricolor. La revolución había triunfado en la capital y se extendió por el país."
+    },
+    {
+     "titulo": "La abolición del feudalismo y la Declaración de Derechos",
+     "nivel": "hecho",
+     "texto": "A finales de julio el «Gran Miedo» se extendió por el campo: los campesinos asaltaron castillos y quemaron archivos señoriales. Para calmar el campo, la Asamblea celebró una sesión urgente la noche del 4 de agosto y acordó la abolición del feudalismo y de los privilegios del clero y la nobleza, además de las aduanas interiores. El decreto, sin embargo, declaró rescatables los derechos señoriales, y los campesinos lo rechazaron con violencia.\n\nEl 26 de agosto se aprobó la Declaración de los Derechos del Hombre y del Ciudadano, con un preámbulo y 17 artículos: igualdad jurídica y ante el impuesto, libertad de opinión y de imprenta, propiedad, seguridad, presunción de inocencia, soberanía nacional y separación de poderes. Dejó fuera a las mujeres: Olympe de Gouges denunció en 1791 esa exclusión con su Declaración de los Derechos de la Mujer y de la Ciudadana, que fue rechazada."
+    },
+    {
+     "titulo": "1791-1792: constitución, Varennes y caída de la monarquía",
+     "nivel": "hecho",
+     "texto": "La Constitución de 1791 consagró la soberanía nacional y la separación de poderes, pero con sufragio censitario: unos 3 millones de ciudadanos «pasivos» sin voto, 4,5 millones de «activos» y solo unas 40.000 personas con renta suficiente para ser diputados. El rey conservaba el veto suspensivo y la Asamblea no podía ser disuelta. La fuga de Luis XVI a Varennes (junio de 1791) rompió la confianza en la monarquía.\n\nEn abril de 1792 la Asamblea declaró la guerra a Austria y Prusia. La guerra fue un desastre al principio: los ejércitos invasores avanzaron hacia París y el manifiesto del duque de Brunswick (25 de julio), que amenazaba con destruir la capital, provocó la insurrección del 10 de agosto: los sans-culottes y los federados asaltaron las Tullerías y la Asamblea suspendió al rey. Se convocaron elecciones por sufragio universal masculino para una Convención Nacional."
+    },
+    {
+     "titulo": "La República: Valmy y la ejecución del rey",
+     "nivel": "hecho",
+     "texto": "Antes de que la Convención se reuniera hubo las masacres de septiembre: entre el 2 y el 5 de septiembre de 1792 se asaltaron las cárceles de París y otras ciudades y murieron unos 1.500 presos, en su mayoría aristócratas y sacerdotes refractarios. El 20 de septiembre el ejército revolucionario detuvo a los prusianos en Valmy y al día siguiente la Convención, elegida por sufragio universal masculino, abrió sus sesiones; el 22 proclamó la República.\n\nEn la Convención chocaron girondinos y jacobinos (La Montaña), con La Llanura en medio. El primer choque fue el juicio del rey: Luis XVI fue declarado culpable de conspiración contra la libertad pública por 387 votos contra 334 y guillotinado el 21 de enero de 1793. La ejecución unió a las cortes europeas en la Primera Coalición y radicalizó la guerra."
+    },
+    {
+     "titulo": "El Terror",
+     "nivel": "hecho",
+     "texto": "En 1793 la República estuvo a punto de caer: derrotas militares, la sublevación realista de la Vendée (marzo) y la revuelta federalista tras la detención de los girondinos el 31 de mayo. La Convención creó el Tribunal Revolucionario y el Comité de Salvación Pública (6 de abril) y aprobó una Constitución (Año I) que nunca se aplicó: «El gobierno de Francia es revolucionario hasta la paz».\n\nCon Robespierre en el Comité desde julio, la Ley de Sospechosos permitió detener y ejecutar por indicios. Entre finales de 1793 y los primeros meses de 1794 se detuvo a unas 400.000 personas y se ejecutó a unas 50.000, muchas sin juicio. Al mismo tiempo se tomaron medidas sociales: abolición definitiva del feudalismo (17 de julio de 1793), máximo de precios y salarios (29 de septiembre) y abolición de la esclavitud en las colonias (4 de febrero de 1794). El Terror se cobró también a María Antonieta, a los hebertistas y a los «indulgentes» de Danton."
+    },
+    {
+     "titulo": "Termidor y el Directorio",
+     "nivel": "hecho",
+     "texto": "El 9 de termidor (27 de julio de 1794) la Convención acusó de tiranía a Robespierre y a sus aliados; fueron detenidos, liberados por la Comuna y apresados de nuevo la madrugada siguiente en el Hôtel de Ville, y guillotinados sin juicio. Con ellos terminó la Revolución jacobina.\n\nLos termidorianos desmontaron el Terror: cerraron el club de los jacobinos, abrieron las prisiones y abolieron el maximum, lo que disparó la inflación y el hambre del «gran invierno» del año III. Hubo después el «Terror Blanco» contra los jacobinos y dos intentos realistas, uno en Quiberon y otro en París el 13 de vendimiario (5 de octubre de 1795), reprimido por el joven general Bonaparte. La Constitución del Año III (1795) instauró el Directorio, con sufragio censitario y dos cámaras. El régimen se sostuvo cuatro años y cayó con el 18 de brumario de 1799."
+    },
+    {
+     "titulo": "El dinero: la deuda que abrió la revolución",
+     "nivel": "hecho",
+     "texto": "La Revolución empezó como una crisis fiscal. El Estado no podía subir más impuestos ni obtener nuevos empréstitos en condiciones razonables, y la nobleza y el clero se negaban a pagar. Cuando la Asamblea abolió los privilegios fiscales, el problema no desapareció: la guerra de 1792 contra Austria y Prusia exigió un esfuerzo enorme y se financió con emisión de asignados, el papel moneda revolucionario, cuya inflación se descontroló.\n\nEn 1793 la Convención intentó frenarla con el maximum general de precios y salarios, y decretó penas de muerte contra los «acaparadores». Al abolirse el maximum tras Termidor, la inflación volvió y el año III fue el del hambre. La guerra, la deuda y el papel moneda son el hilo económico de todo el periodo: cada facción prometió estabilidad y ninguna la consiguió hasta que Bonaparte, con el Consulado, cerró la etapa revolucionaria."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto el reparto exacto de la responsabilidad en el estallido: cuánto pesó la crisis fiscal, cuánto la crisis de subsistencias y cuánto la ofensiva política del Tercer Estado y de la nobleza en la révolte nobiliaire. También las cifras del Terror, que la fuente da globales (unas 400.000 detenciones y unas 50.000 ejecuciones) sin desglose por regiones ni por tipo de juicio.\n\nEl dinero merece un rastro más fino que esta ficha no tiene: la composición de la deuda de 1789 y sus acreedores, la emisión real de asignados año a año, quién ganó y quién perdió con la inflación y con la venta de bienes, y el coste de las guerras. Eso exige fuentes de archivo y series fiscales que aquí no se han consultado."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -35644,7 +35800,7 @@ window.CRONO = {
     "desde": 1917,
     "fuente": "oficial"
    },
-   "resumen": "Caída de los zares; Guerra sostiene como hipótesis que fue montada por los jesuitas y otras fuerzas contra los Romanov.",
+   "resumen": "La Revolución rusa de 1917 acabó con el régimen zarista: en febrero cayó Nicolás II y en octubre los bolcheviques tomaron el poder; la familia imperial fue ejecutada en 1918. La historiografía lo atribuye a la crisis de la guerra, económica y política, y no a un complot de la Compañía de Jesús.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -35680,14 +35836,87 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En febrero de 1917 cayó el zar Nicolás II y en octubre los bolcheviques tomaron el poder; la familia imperial fue ejecutada en 1918. La historiografía lo atribuye a la crisis de la guerra, económica y política, no a un complot de la Compañía de Jesús. Pendiente de contrastar.",
+    "resumen": "La Revolución rusa de 1917 acabó con el régimen zarista: en febrero cayó Nicolás II y se formó un Gobierno provisional; en octubre los bolcheviques tomaron el poder y crearon el Sovnarkom. La familia imperial fue ejecutada en 1918. La historiografía lo atribuye a la crisis de la guerra, económica y política, y no a un complot de la Compañía de Jesús.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Revolución rusa",
-      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_rusa"
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_rusa",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Revolución rusa es el conjunto de sucesos de 1917 que acabaron con el régimen zarista y llevaron al poder a los bolcheviques. En febrero (marzo en el calendario gregoriano: Rusia seguía usando el juliano) cayó Nicolás II y se formó un Gobierno provisional; en octubre (noviembre gregoriano) ese Gobierno fue derribado y sustituido por el Consejo de Comisarios del Pueblo, presidido por Lenin. De ahí salió la Rusia soviética, que en 1922 se convirtió en la Unión Soviética.\n\nNo fue un acto único. Entre febrero y octubre hubo un «doble poder»: el Gobierno provisional tenía el aparato del Estado y los sóviets, el de Petrogrado el primero, la confianza de obreros y soldados. Las crisis se sucedieron —abril, julio, el golpe de Kornílov en agosto— hasta que los bolcheviques, minoritarios en febrero, se hicieron con la mayoría en los sóviets de las grandes ciudades y tomaron el poder."
+    },
+    {
+     "titulo": "La Rusia zarista y las causas",
+     "nivel": "hecho",
+     "texto": "El imperio era una autocracia de tres siglos: la dinastía Románov reinaba desde 1613. La abolición de la servidumbre en 1861 por Alejandro II liberó mano de obra y empujó a los campesinos a las ciudades, donde la industria creció con capital extranjero: casi la mitad de las acciones rusas estaban en manos foráneas. La producción industrial de 1913 era dos veces y media menor que la francesa, seis veces menor que la alemana y catorce veces menor que la estadounidense, y la renta per cápita, inferior a la de Hungría o España.\n\nEl 85 % de la población vivía en el campo y la tierra se repartía mal: crecía el número de campesinos sin tierra, receptivos a las ideas revolucionarias. La derrota ante Japón en 1905 y el Domingo Sangriento del 22 de enero —una manifestación pacífica tiroteada ante el Palacio de Invierno— abrieron la primera revolución y crearon los sóviets. La Gran Guerra agravó todo: 1.700.000 muertos y 5.950.000 heridos, escasez de alimentos y de munición, y un zar que desoyó a la Duma cuando le advirtió del peligro."
+    },
+    {
+     "titulo": "La revolución de febrero",
+     "nivel": "hecho",
+     "texto": "El 23 de febrero (8 de marzo), Día Internacional de la Mujer, las mujeres de Petrogrado se manifestaron para exigir pan y se les unieron los obreros en huelga. En tres días las consignas se politizaron —«¡Abajo la guerra!», «¡Abajo la autocracia!»— y el zar ordenó movilizar la guarnición de la capital. Los soldados dispararon primero contra los manifestantes y después se pasaron a los insurgentes, que se armaron con las armas de los puestos de policía.\n\nEl 2 de marzo (15 gregoriano) Nicolás II abdicó y su hermano, el gran duque Miguel, rechazó la corona al día siguiente. Hubo más de un centenar de víctimas, casi todas manifestantes. La caída del régimen fue tan rápida que sorprendió a propios y extraños, y abrió semanas de entusiasmo: se abolió la pena de muerte, se abrieron las prisiones y se proclamaron las libertades de prensa, reunión y conciencia. Lenin llamó a aquella Rusia «el país más libre del mundo»."
+    },
+    {
+     "titulo": "El doble poder",
+     "nivel": "hecho",
+     "texto": "La Duma formó un Gobierno provisional, primero con Rodzianko y desde el 15 de marzo con el príncipe Lvov, liberal del partido kadete. En paralelo, los sóviets de obreros, campesinos y soldados —el de Petrogrado como principal— se extendieron por todo el país en una semana y tenían la confianza de las clases bajas. La Orden n.º 1, del Sóviet de Petrogrado, prohibió a los oficiales humillar a los soldados y les reconoció derechos de reunión, petición y prensa.\n\nEl programa del Sóviet pedía paz inmediata, tierra para los campesinos, jornada de ocho horas y república democrática; el Gobierno, en cambio, siguió la guerra, no tocó la propiedad de la tierra y aplazó las reformas a una Asamblea Constituyente que nunca llegaba porque millones de votantes estaban en el frente. El Gobierno no podía gobernar sin los sóviets y los sóviets no se atrevían a gobernar solos: de ahí la dualidad, que cristalizó en la figura de Kérenski, socialrevolucionario, vicepresidente del Sóviet y ministro del Gobierno."
+    },
+    {
+     "titulo": "De abril a julio",
+     "nivel": "hecho",
+     "texto": "En abril, la publicación de una nota del Gobierno a los aliados —Rusia no abandonaría la guerra— provocó manifestaciones y los primeros enfrentamientos armados; cayó el ministro Miliukov y entraron socialistas moderados en el Gobierno. Lenin, recién llegado del exilio, publicó las Tesis de abril: todo el poder para los sóviets, confiscación de la tierra, control obrero de las fábricas y república de sóviets. Era una posición minoritaria incluso en su propio partido.\n\nEn julio, la ofensiva lanzada por Kérenski fracasó y los soldados de Petrogrado se negaron a volver al frente. Los bolcheviques, desbordados, se opusieron a un levantamiento prematuro: solo eran mayoría en Petrogrado y Moscú. La represión llegó después: Trotski fue encarcelado, Lenin huyó a Finlandia y se restauró la pena de muerte. La reacción se cebó también con los soldados: el general Kornílov ordenó disparar contra los que abandonaran el frente."
+    },
+    {
+     "titulo": "Kornílov y el giro bolchevique",
+     "nivel": "hecho",
+     "texto": "A finales de agosto de 1917 el general Kornílov envió tres regimientos de caballería contra Petrogrado para aplastar los sóviets y devolver el país a la guerra. El Gobierno no pudo defenderse y los bolcheviques organizaron la resistencia: los obreros cavaron trincheras y los ferroviarios desviaron los trenes a vías muertas hasta que el contingente se disolvió.\n\nEl episodio cambió la correlación de fuerzas. Las masas se rearmaron, los bolcheviques salieron de la semiclandestinidad y el Sóviet de Petrogrado pasó a ser mayoritariamente bolchevique, con Trotski en la presidencia desde el 30 de septiembre. En Moscú, entre junio y septiembre, los bolcheviques pasaron de 75.000 a 198.000 votos mientras socialrevolucionarios y mencheviques se hundían. En el campo, los campesinos se repartieron las tierras por su cuenta durante el verano, sin esperar la reforma prometida."
+    },
+    {
+     "titulo": "La toma del poder en octubre",
+     "nivel": "hecho",
+     "texto": "El Comité Militar Revolucionario del Sóviet de Petrogrado, dirigido por Trotski, preparó la insurrección para la víspera del II Congreso de los Sóviets, que se reunía el 25 de octubre. Los planes se discutieron casi a la vista de todos y Kérenski solo esperaba el desenlace.\n\nEn la noche del 6 al 7 de noviembre (24-25 de octubre juliano) la Guardia Roja ocupó sin resistencia los puentes, las estaciones, el banco central y las centrales de correos y teléfonos, y asaltó el Palacio de Invierno. Hubo cinco muertos y los tranvías siguieron circulando: uno de los acontecimientos más importantes del siglo XX pasó casi inadvertido. El Congreso, con 382 bolcheviques de 562 delegados, ratificó un gobierno formado solo por bolcheviques, el Sovnarkom. Sus primeros decretos: la paz sin anexiones, la tierra para los sóviets campesinos y, el 14 de diciembre, la nacionalización de la banca."
+    },
+    {
+     "titulo": "¿Golpe de Estado o revolución?",
+     "nivel": "hecho",
+     "texto": "El debate empezó el mismo día. La prensa socialista francesa tituló «golpe de Estado»; los propios bolcheviques hablaban entre ellos de «golpe de octubre» y Trotski, en su autobiografía, alternaba «insurrección», «toma del poder» y «golpe de Estado». Rosa Luxemburgo también lo llamó golpe.\n\nMarc Ferro sostiene que, técnicamente, octubre fue un golpe de Estado, pero que no se entiende sin la ebullición revolucionaria del país y el apoyo tácito de las masas a un Gobierno ya desacreditado e impotente. Nicolas Werth lo resume como el choque momentáneo entre un golpe político y una revolución social, antes de que ambos se separaran «hacia décadas de dictadura». La discusión sigue abierta y depende de dónde se ponga el foco: en la capital, donde fue un golpe de minoría; o en el país, donde la autoridad del Estado se había hundido."
+    },
+    {
+     "titulo": "La Constituyente disuelta y la Checa",
+     "nivel": "hecho",
+     "texto": "Las elecciones a la Asamblea Constituyente se celebraron en noviembre de 1917. Los bolcheviques obtuvieron el 25 % de los votos y 175 de los 707 diputados; ganaron los socialrevolucionarios y Víktor Chernov presidió la Asamblea. Se reunió una sola vez: la Guardia Roja la disolvió el 19 de enero de 1918 y murieron veinte manifestantes que protestaron. Fue, según varios historiadores, la decisión que cerró la vía democrática y abrió la guerra civil.\n\nEn diciembre de 1917 se había creado la Checa, la comisión extraordinaria contra el sabotaje y la contrarrevolución, sin base judicial pública y dirigida por Féliks Dzerzhinski. Empezó con unos cien funcionarios y en julio de 1918 tenía 12.000. En los seis primeros meses de 1918 ejecutó a 22 personas; en los seis últimos, a unas 6.000, tras los atentados contra Uritski y Lenin y la sublevación socialrevolucionaria de julio. El «terror rojo» se decretó entonces, como respuesta al «terror blanco» y con el ejemplo jacobino de la Revolución francesa como referencia."
+    },
+    {
+     "titulo": "Brest-Litovsk y el comunismo de guerra",
+     "nivel": "hecho",
+     "texto": "El armisticio con Alemania se firmó el 15 de diciembre de 1917 y la paz el 3 de marzo de 1918. Rusia perdió el 26 % de su población, el 27 % de la superficie cultivada y el 75 % de la producción de hierro y acero, además de Polonia, Lituania, Bielorrusia y Ucrania. Para sostener la guerra civil, el régimen nacionalizó el comercio, la banca, la industria y el artesanado, restableció la disciplina de fábrica (salario a destajo, libreta de trabajo, cierre patronal), impuso las requisas de grano (prodrazvyorstka) y pagó salarios en especie.\n\nLa moneda se hundió y el país volvió al trueque. Moscú y Petrogrado perdieron la mitad de su población y los obreros activos pasaron de tres millones en 1917 a menos de uno en 1921. En marzo de 1921, los marinos de Kronstadt se sublevaron pidiendo sóviets libres y el fin de la policía política; la rebelión se aplastó y el X Congreso del Partido aprobó a la vez la Nueva Política Económica (NEP), una vuelta limitada al mercado, y la prohibición de las tendencias internas."
+    },
+    {
+     "titulo": "La guerra civil y su precio",
+     "nivel": "hecho",
+     "texto": "Entre 1918 y 1921 se enfrentaron los rojos, los blancos —con apoyo de potencias extranjeras— y los verdes, campesinos que rechazaban a ambos. Hubo intervención japonesa y estadounidense en Vladivostok y británica en Múrmansk y Arjánguelsk, y en 1920 una guerra con Polonia que se perdió en el Vístula. Los blancos no ofrecían más que la vuelta al antiguo régimen y la restitución de las tierras, y su retaguardia protagonizó pogromos: unos 150.000 judíos asesinados.\n\nEl Ejército Rojo, fundado por Trotski el 23 de febrero de 1918, integró a 14.000 oficiales zaristas vigilados por comisarios políticos. Las cifras de víctimas siguen discutidas: Nicolas Werth habla de 13 millones de rusos muertos de forma violenta entre 1914 y 1921, de ellos 5 millones por hambre; el demógrafo A. G. Volkov calcula 4,5 millones de muertos en la guerra civil, algo más del 3 % de la población; George Leggett atribuye al Terror Rojo unas 140.000 víctimas."
+    },
+    {
+     "titulo": "Quién se quedó con el poder",
+     "nivel": "hecho",
+     "texto": "La revolución antiautoritaria acabó en un Estado policial de partido único. En marzo de 1921, con Kronstadt recién aplastada, el X Congreso suprimió el derecho de tendencia e implantó el «centralismo democrático». El partido creció como aparato y la burocracia se convirtió en su base social: de ella salió Stalin, secretario general desde el 3 de abril de 1922.\n\nLa revolución mundial que los bolcheviques esperaban no llegó. En Alemania la intentona espartaquista fue reprimida y murieron Liebknecht y Luxemburgo; en Hungría, la república soviética de Béla Kun duró 133 días. En 1919 se fundó en Moscú la III Internacional (Komintern) y la ruptura entre socialdemócratas y comunistas dividió el movimiento obrero. El régimen quedó aislado y fue reconocido por oleadas: Alemania en 1922 (Rapallo), Gran Bretaña, Francia e Italia en 1924, Estados Unidos en 1933 y la Sociedad de Naciones en 1934."
+    },
+    {
+     "titulo": "El dinero: la deuda, los bancos y el «oro alemán»",
+     "nivel": "hecho",
+     "texto": "Rusia era un país endeudado y dependiente del capital extranjero, que poseía casi la mitad de las acciones. La guerra se financió con emisión y deuda y ya antes de febrero los campesinos habían dejado de vender grano a las ciudades. Al llegar al poder, los bolcheviques nacionalizaron la banca el 14 de diciembre de 1917 y a comienzos de 1918 Lenin dejó de reconocer el empréstito ruso, lo que arruinó a miles de rentistas franceses y alimentó el anticomunismo de la clase media europea.\n\nAlemania facilitó el regreso de Lenin desde Suiza atravesando su territorio, con la esperanza de que el pacifismo sacara a Rusia de la guerra. Desde entonces circuló en Rusia y en Occidente la acusación de que Lenin era «agente alemán» y de que los bolcheviques se financiaban con «oro alemán». La fuente recoge la acusación como lo que circulaba, no como un hecho establecido: el alcance real de esa financiación no lo fija el artículo."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Quedan abiertas varias cuestiones que la ficha no resuelve. Primera, las cifras: Werth, Volkov y Leggett no coinciden en los muertos de la guerra civil y el terror, y las diferencias son de millones. Segunda, el dinero: cuánto pesó la financiación alemana de los bolcheviques y qué papel tuvo la banca extranjera antes y después de octubre; la fuente solo recoge que la acusación del «oro alemán» circulaba. Tercera, la violencia: si los campos abiertos por la Checa anticiparon el Gulag estalinista, que la fuente deja explícitamente como cuestión abierta. Cuarta, la responsabilidad: unos historiadores la ponen en la ideología y otros en la dinámica de la guerra y la contrarrevolución.\n\nPara seguir el dinero y el poder harían falta fuentes primarias que esta ficha no tiene: los papeles alemanes del programa de apoyo a los revolucionarios, los archivos financieros soviéticos y la contabilidad de la deuda zarista. Mientras no se consulten, lo que aquí se dice del dinero es lo que dice la fuente abierta, ni más ni menos."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
@@ -37185,8 +37414,8 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "HISTORY: los países neutrales de la Segunda Guerra Mundial",
-      "url": "https://www.history.com/news/neutral-countries-world-war-ii",
-      "consultado": "2026-11-13"
+      "url": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "consultado": "2026-11-25"
      },
      {
       "titulo": "Hispania Nova (UC3M): los neutrales europeos y el Tercer Reich",
@@ -37195,10 +37424,78 @@ window.CRONO = {
      },
      {
       "titulo": "Wikipedia: Segunda Guerra Mundial",
-      "url": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial"
+      "url": "https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "La Segunda Guerra Mundial es el conflicto que enfrentó entre 1939 y 1945 al Eje —Alemania, Italia y Japón, con sus aliados— con los Aliados. En Europa empezó con la invasión alemana de Polonia el 1 de septiembre de 1939; en Asia, la guerra a gran escala había comenzado en julio de 1937 con la invasión japonesa de China. Al principio los Aliados eran solo Polonia, el Reino Unido y Francia; después se sumaron la Unión Soviética (atacada por Alemania en 1941) y Estados Unidos (atacado por Japón en 1941).\n\nTerminó en Europa con la rendición alemana del 7 de mayo de 1945 (el 8 se celebró el Día de la Victoria) y en Asia con la rendición japonesa del 14 de agosto y la firma del Acta de Rendición el 2 de septiembre. Fue la guerra más destructiva de la historia y la única en la que se usaron bombas atómicas."
+    },
+    {
+     "titulo": "Los antecedentes: Versalles, la crisis y el nazismo",
+     "nivel": "hecho",
+     "texto": "En Europa la guerra se entiende como la prolongación de los conflictos no resueltos de 1918. El Tratado de Versalles dejó en Alemania la sensación de una paz impuesta: pérdida de territorios y colonias, reparaciones y un ejército limitado a 100.000 hombres. La teoría de la «puñalada por la espalda» (Dolchstoßlegende), la idea de que la guerra se había perdido por una conspiración interna, alimentó el rencor. La desmovilización dejó en la calle a miles de militares que engrosaron los Freikorps, grupos paramilitares de ideario autoritario.\n\nLa Gran Depresión de los años treinta acabó con la débil República de Weimar. El Partido Nazi creció hasta el 33,1 % de los votos en noviembre de 1932 y Hindenburg nombró canciller a Hitler. El incendio del Reichstag (27 de febrero de 1933) sirvió para ilegalizar a los comunistas; en las elecciones del 5 de marzo el NSDAP logró el 43,9 % y gobernó en coalición con el DNVP. En la noche de los cuchillos largos (30 de junio-1 de julio de 1934) Hitler hizo asesinar a los dirigentes de las SA para ganarse al ejército."
+    },
+    {
+     "titulo": "El camino a la guerra",
+     "nivel": "hecho",
+     "texto": "Hitler restauró el servicio militar, remilitarizó Renania en 1936 y aplicó una política exterior agresiva de pangermanismo y «espacio vital» (Lebensraum). En marzo de 1938 se anexionó Austria (Anschluss); en septiembre, los Acuerdos de Múnich le entregaron los Sudetes con el consentimiento de Francia y el Reino Unido, que creían en el apaciguamiento. En marzo de 1939 ocupó el resto de Checoslovaquia y creó el Protectorado de Bohemia y Moravia.\n\nEl apaciguamiento había fracasado. Polonia rechazó ceder Dánzig y firmó acuerdos de defensa con Francia (19 de mayo de 1939) y el Reino Unido (agosto). El 23 de agosto Alemania y la URSS firmaron el Pacto Ribbentrop-Mólotov, con un protocolo secreto que repartía Europa central en esferas de influencia y aseguraba a Alemania el suministro de petróleo y comida soviéticos. Hitler ya podía invadir Polonia sin miedo a una guerra en dos frentes."
+    },
+    {
+     "titulo": "1939: Polonia y la «guerra de broma»",
+     "nivel": "hecho",
+     "texto": "El 31 de agosto un comando alemán disfrazado de polaco asaltó la emisora de Gliwice en una operación de falsa bandera ordenada por Heydrich y Müller, con un civil asesinado como prueba. Era el pretexto. La invasión empezó a las 4:26 del 1 de septiembre de 1939 con dos grupos de ejércitos y más de 1.500 aviones; el acorazado Schleswig-Holstein abrió fuego contra la península de Westerplatte. El Reino Unido y Francia dieron a Alemania dos días para retirarse y le declararon la guerra.\n\nLa Blitzkrieg no se aplicó todavía del todo en Polonia: la Wehrmacht seguía usando caballería para el reconocimiento y tácticas de cerco tradicionales, con los panzer como apoyo de la infantería. El 17 de septiembre la URSS atacó desde el este y acabó con la Segunda República polaca. En el frente occidental, los primeros meses fueron una «guerra de broma», sin enfrentamientos directos entre las grandes potencias."
+    },
+    {
+     "titulo": "1940: la caída de Francia",
+     "nivel": "hecho",
+     "texto": "El 10 de mayo de 1940 Alemania invadió Luxemburgo, Bélgica, los Países Bajos y Francia. La Blitzkrieg combinó infantería, blindados y aviación en ataques rápidos: las unidades alemanas cruzaron las Ardenas, que los franceses creían infranqueables, y llegaron al Somme, rodeando a los aliados. La Línea Maginot, pensada para una guerra estática, quedó desbordada. Las fuerzas británicas y francesas quedaron cercadas en la bolsa de Dunkerque y se evacuaron por mar.\n\nEl 5 de junio comenzó el Fall Rot: los alemanes rompieron el Somme y el Aisne, Italia entró en guerra el 10 de junio y atacó Francia, y las tropas alemanas ocuparon París el 14 de junio. El armisticio se firmó en Compiègne el 22 de junio y comenzó la ocupación del norte y el oeste de Francia."
+    },
+    {
+     "titulo": "1941: la invasión de la Unión Soviética",
+     "nivel": "hecho",
+     "texto": "El 22 de junio de 1941, con unos 3,5 millones de hombres de tres grupos de ejércitos, Alemania invadió la URSS (Operación Barbarroja). La invasión se había retrasado seis semanas por la campaña de Grecia y Yugoslavia. Al principio los cercos fueron enormes: 400.000 prisioneros en la bolsa de Bialystok-Minsk, 310.000 en Smolensk y unos 600.000 en Kiev, que Hitler llamó la batalla más grande de la historia. La Luftwaffe destruyó 2.700 aviones soviéticos en los dos primeros días, 1.800 de ellos el primero.\n\nPero la Wehrmacht no había calculado bien la resistencia. Los tanques T-34 y KV-1 sorprendieron a los alemanes, que los habían infravalorado. La Operación Tifón (2 de octubre) llegó a 25 kilómetros del Kremlin, pero el invierno, la falta de equipo y la llegada de tropas siberianas pararon el avance; el contraataque de Zhúkov del 5 de diciembre hizo retroceder a los alemanes unos 325 kilómetros. Hasta entonces la invasión había costado a Alemania unos 250.000 muertos y 500.000 heridos."
+    },
+    {
+     "titulo": "El Pacífico: Pearl Harbor y Midway",
+     "nivel": "hecho",
+     "texto": "En el verano de 1941 Estados Unidos, el Reino Unido y los Países Bajos impusieron un embargo de petróleo a Japón, cuya condición para levantarlo era la retirada de China. Japón optó por la guerra: el 7 de diciembre atacó por sorpresa Pearl Harbor, Tailandia, Malaya y Hong Kong. En Pearl Harbor hundió o dañó los acorazados estadounidenses, pero sus cuatro portaaviones estaban en alta mar y los depósitos de combustible quedaron intactos. Estados Unidos declaró la guerra el 8 de diciembre y Alemania el 11.\n\nEn seis meses Japón conquistó casi todo lo que se había propuesto. El punto de inflexión fue Midway: el 5 de junio de 1942 los bombarderos estadounidenses hundieron cuatro portaaviones japoneses a cambio de uno, el Yorktown. La capacidad industrial de Estados Unidos era muy superior y Japón no volvió a tener esa ventaja. En agosto comenzó la batalla de Guadalcanal, que duró seis meses."
+    },
+    {
+     "titulo": "Stalingrado",
+     "nivel": "hecho",
+     "texto": "En 1942 Alemania centró su ofensiva en el sur, hacia el petróleo del Cáucaso y el Volga (Operación Azul, desde el 28 de junio). Stalin esperaba un ataque contra Moscú y desplegó allí la mitad de sus tropas; en el sur solo tenía el 10 %. El 6.º Ejército de Paulus llegó a Stalingrado en septiembre y la lucha callejera fue casa por casa. La Luftwaffe había bombardeado la ciudad y matado a 40.000 personas.\n\nEl 19 de noviembre los soviéticos lanzaron la Operación Urano contra los flancos, cubiertos por tropas rumanas e italianas, y cerraron el cerco en Kalach. Hitler prohibió romperlo y prometió suministros por aire que no llegaron ni a la décima parte de lo prometido. Paulus se rindió el 2 de febrero de 1943: de 300.000 hombres del 6.º Ejército sobrevivieron 91.000 prisioneros, de los que solo unos 5.000 volvieron a Alemania. Fue la batalla más costosa de la historia, con alrededor de dos millones de muertos y heridos entre ambos bandos."
+    },
+    {
+     "titulo": "1944-1945: Normandía y la caída de Berlín",
+     "nivel": "hecho",
+     "texto": "El 6 de junio de 1944 los aliados desembarcaron en Normandía con unas 120 divisiones y dos millones de hombres, tras una campaña de engaño que hizo creer a los alemanes que el ataque sería en Calais. Solo 50.000 alemanes defendían el sector de Normandía y el Muro del Atlántico estaba incompleto. Tras la Operación Cobra (23 de julio) los aliados rompieron el frente, cercaron al 7.º Ejército en Falaise y avanzaron 1.000 kilómetros en dos semanas; París se liberó el 25 de agosto.\n\nEn diciembre Alemania lanzó su última contraofensiva en las Ardenas, que fracasó. En enero de 1945 los soviéticos reanudaron la ofensiva, tomaron Varsovia y llegaron al Óder, a 60 kilómetros de Berlín. El 16 de abril comenzó el asalto a Berlín; Hitler se suicidó el 30 de abril y la ciudad se rindió el 2 de mayo. La rendición alemana se firmó el 7 de mayo en Reims. En Europa había 2,25 millones de soldados estadounidenses y 250.000 de ellos murieron."
+    },
+    {
+     "titulo": "El final en Asia: Hiroshima y Nagasaki",
+     "nivel": "hecho",
+     "texto": "En la Conferencia de Potsdam (17 de julio-2 de agosto de 1945) los aliados acordaron la política para la Alemania ocupada y lanzaron un ultimátum a Japón. Truman decidió usar la bomba atómica: la batalla de Okinawa había mostrado que invadir Japón costaría muchísimas bajas —la estimación oficial era de 1,4 millones de bajas aliadas, aunque hay historiadores que la discuten—. El 6 de agosto un B-29, el Enola Gay, lanzó Little Boy sobre Hiroshima; el 9, Bockscar lanzó Fat Man sobre Nagasaki.\n\nEl 8 de agosto la URSS atacó a Japón en Manchukuo, cumpliendo lo pactado en Yalta, y en menos de dos semanas destruyó el ejército japonés de Manchuria, de aproximadamente un millón de hombres. Japón se rindió el 14 de agosto y firmó el Acta de Rendición el 2 de septiembre. En su alocución, el emperador no mencionó las bombas atómicas pero sí la entrada soviética en la guerra."
+    },
+    {
+     "titulo": "El genocidio",
+     "nivel": "hecho",
+     "texto": "La guerra permitió al régimen nazi llevar al extremo su ideología racista. El mismo septiembre de 1939 Hitler autorizó la exterminación de discapacitados psíquicos y enfermos: la Aktion T4 mató por gas a más de 150.000 personas. Desde 1939 los judíos fueron concentrados en guetos superpoblados y con falta de comida.\n\nEl exterminio sistemático, la Shoah, se puso en marcha primero por la Wehrmacht y los Einsatzgruppen en Polonia y la URSS —la «Shoah por balas»— y desde 1942 con camiones de gas en la URSS y parte de Polonia. Se calcula que unos seis millones de judíos fueron asesinados, junto a otros grupos, en campos como Auschwitz, Treblinka y Majdanek. También hubo deportaciones masivas de homosexuales, eslavos, gitanos, testigos de Jehová, comunistas, republicanos españoles y religiosos."
+    },
+    {
+     "titulo": "El mundo que dejó",
+     "nivel": "hecho",
+     "texto": "La guerra dejó dos superpotencias, Estados Unidos y la URSS, y sustituyó la Sociedad de Naciones por la ONU, cuya carta se firmó en San Francisco el 26 de junio de 1945. Alemania quedó dividida en cuatro zonas de ocupación, que se convirtieron en la República Federal y la República Democrática hasta la reunificación de 1990. La URSS se anexionó Estonia, Letonia, Lituania, el este de Polonia y partes de Finlandia y Rumanía; Polonia recibió Pomerania, Silesia y la mitad de Prusia Oriental.\n\nEn Núremberg y Tokio se juzgó a parte de la jerarquía nazi y japonesa por crímenes contra la humanidad. El Plan Marshall ayudó a reconstruir Alemania y Europa occidental. El Reino Unido salió debilitado y perdió su imperio; los movimientos de independencia de las colonias se generalizaron y dio comienzo la descolonización. Millones de alemanes fueron expulsados de Europa central y el mundo quedó dividido en dos bloques, el capitalista y el comunista, que se enfrentaron en la Guerra Fría hasta 1991."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierta la cifra total de muertos, que esta ficha no da: no se han leído las secciones de estadísticas y medios militares del artículo, y las estimaciones varían mucho según se cuenten militares, civiles, hambrunas y genocidios. Tampoco hay acuerdo sobre el peso de cada causa en el estallido, ni sobre la decisión de usar las bombas atómicas: la estimación de 1,4 millones de bajas que justificó la invasión está discutida por historiadores.\n\nEl rastro del dinero es una pieza que falta: cómo se financió cada bando, qué papel tuvo el saqueo de los territorios ocupados y el trabajo forzado en la economía alemana, y qué coste tuvo la guerra para las arcas de los vencedores. Para seguirlo harían falta los archivos financieros de la Alemania nazi y de los aliados, que aquí no se han consultado. Tampoco se han leído las secciones de África, Oriente Medio, América, China, la batalla del Atlántico ni los apartados de armas y participación latinoamericana y española."
+    }
+   ],
    "conexiones": [
     {
      "id": "onu",
@@ -40250,10 +40547,57 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Tratado de Versalles (1919)",
       "url": "https://es.wikipedia.org/wiki/Tratado_de_Versalles_(1919)",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue y cuándo",
+     "nivel": "hecho",
+     "texto": "El Tratado de Versalles es el acuerdo de paz que terminó con el estado de guerra entre Alemania y los Aliados. Se firmó el 28 de junio de 1919 en la Galería de los Espejos del Palacio de Versalles, exactamente cinco años después del atentado de Sarajevo, y entró en vigor el 10 de enero de 1920.\n\nLo negociaron más de cincuenta países en la Conferencia de Paz de París, durante los seis meses que van del armisticio del 11 de noviembre de 1918 a la firma. No fue el único acuerdo: con Austria se firmó Saint-Germain-en-Laye (19 de septiembre de 1919), con Bulgaria Neuilly (27 de noviembre de 1919), con Hungría Trianon (2 de junio de 1920) y con Turquía Sèvres (10 de agosto de 1920)."
+    },
+    {
+     "titulo": "Cómo se negoció: el Diktat",
+     "nivel": "hecho",
+     "texto": "Las discusiones sobre los términos de la paz empezaron el 18 de enero de 1919. El texto se presentó a Alemania en mayo como única alternativa: rechazarlo habría supuesto reanudar las hostilidades. La delegación alemana, dirigida por el conde Ulrich von Brockdorff-Rantzau, no vio margen de negociación y lo consideró un dictado.\n\nEl día siguiente a la aceptación, el 23 de junio de 1919, fue declarado día de luto en Alemania y se recuerda como «el pecado original» de la recién nacida República de Weimar. El tratado dividió la política interior: la derecha y los nacionalistas rechazaban todo el texto y querían revocarlo; el centro liberal y los socialdemócratas intentaban suavizar las cláusulas más dañinas para evitar otra guerra."
+    },
+    {
+     "titulo": "Los territorios",
+     "nivel": "hecho",
+     "texto": "Alemania pasó de 540.766 km² en 1910 a 468.787 km² en 1925 y perdió todo su imperio colonial. Alsacia y Lorena volvieron a Francia (14.522 km², 1.815.000 habitantes en 1905). El Sarre quedó bajo la Sociedad de Naciones, que cedió a Francia su explotación económica durante quince años, y volvió a Alemania por el plebiscito de 1935. Eupen, Malmedy y Moresnet pasaron a Bélgica; el norte de Schleswig-Holstein, a Dinamarca tras un plebiscito.\n\nPosen y Prusia Occidental, con parte de Silesia, fueron a Polonia (53.800 km² y 4.224.000 habitantes en 1931); Danzig y Memel quedaron como ciudades libres. Las colonias se repartieron entre los vencedores: Togo y Camerún entre Francia y el Reino Unido, África del Sudoeste (la actual Namibia) bajo tutela de la Unión Sudafricana, Tanganica al Reino Unido —con Ruanda y Burundi para Bélgica— y Nueva Guinea Alemana a Australia. Se prohibió expresamente la unión política de Austria con Alemania (Anschluss)."
+    },
+    {
+     "titulo": "El desarme",
+     "nivel": "hecho",
+     "texto": "El ejército alemán quedó reducido a 100.000 hombres y 4.000 oficiales, sin artillería pesada, submarinos ni aviación. Se prohibió fabricar material de guerra, se disolvió el Estado Mayor del Ejército y se suprimió el servicio militar obligatorio. La orilla izquierda del Rin quedó ocupada y Renania desmilitarizada, y el canal de Kiel se internacionalizó.\n\nAlemania tuvo que entregar además material militar y su flota de guerra. Las condiciones estaban pensadas para que el país no pudiera volver a combatir en mucho tiempo: dejaban un ejército pequeño, sin aviación ni submarinos, y una industria militar prohibida."
+    },
+    {
+     "titulo": "El artículo 231 y las reparaciones",
+     "nivel": "hecho",
+     "texto": "El artículo 231 hacía a Alemania y sus aliados responsables de haber causado la guerra, y de ahí salió la base jurídica de las reparaciones. El tratado creó una Comisión de Reparaciones de Guerra con el monto por definir; la cifra quedó fijada después en 132.000 millones de marcos de oro (31.400 millones de dólares y 6.600 millones de libras de la época, unos 642.000 millones de dólares de 2020). Muchos economistas la consideraron excesiva en su momento: superaba las reservas internacionales alemanas.\n\nEl pago no fue solo dinero. Alemania entregó todos sus barcos mercantes de más de 1.400 toneladas y 200.000 toneladas anuales de nuevos barcos, 44 millones de toneladas de carbón y 371.000 cabezas de ganado al año durante cinco años, la mitad de su producción química y farmacéutica y todos sus cables submarinos. La deuda se alargó décadas: el principal se liquidó en 1983 y los intereses, el 3 de octubre de 2010."
+    },
+    {
+     "titulo": "El trabajo: la parte XIII",
+     "nivel": "hecho",
+     "texto": "El tratado no solo repartió territorios y deudas. Su parte XIII, artículos 387 a 427, fijó por primera vez principios laborales comunes: que el trabajo no debe considerarse una mercancía, el derecho de asociación de trabajadores y empresarios, un salario que permita un nivel de vida razonable, la jornada de ocho horas o 48 semanales donde aún no existiera, el descanso semanal de al menos 24 horas, la abolición del trabajo infantil, la igualdad de remuneración entre hombres y mujeres por trabajo de igual valor y sistemas de inspección con participación de mujeres."
+    },
+    {
+     "titulo": "La Sociedad de Naciones y el Senado de EE. UU.",
+     "nivel": "hecho",
+     "texto": "El tratado creó la Sociedad de Naciones, impulsada por el presidente estadounidense Woodrow Wilson, para arbitrar las disputas internacionales y evitar nuevas guerras. Se vetó el ingreso de Alemania y de la Rusia bolchevique, lo que dejó fuera desde el principio a dos potencias.\n\nEl Senado de los Estados Unidos no ratificó el tratado, de modo que el país que había inspirado la organización no entró en ella. Eso redujo desde el primer día el peso de la Sociedad de Naciones."
+    },
+    {
+     "titulo": "La crítica: Keynes y el ascenso de Hitler",
+     "nivel": "hecho",
+     "texto": "La crítica más citada es la del economista británico John Maynard Keynes, que participó en las negociaciones y llamó al tratado «paz cartaginesa»: lo consideraba económicamente impagable y contraproducente. Desde entonces se discute cuánto contribuyó Versalles al ascenso del nazismo. Hitler se opuso al tratado desde el comienzo de su carrera política y lo usó como bandera, y las condiciones —la culpa, las reparaciones, los territorios perdidos— alimentaron el discurso nacionalista.\n\nLos historiadores no lo tienen por causa única: lo sitúan entre las causas, junto a la hiperinflación, la crisis de 1929 y la debilidad de la República de Weimar. Lo que sí consta es que el tratado fue violado abiertamente en los años treinta y que nadie lo impidió."
+    },
+    {
+     "titulo": "Qué queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Queda abierto cuánto pesó exactamente Versalles en la llegada de Hitler frente a la crisis económica y a la política alemana, y cuánto de la hiperinflación de 1923 se debe a las reparaciones y cuánto a la forma de financiarlas. También falta el detalle de la deuda alemana entre 1920 y 2010, que esta ficha resume con una sola fuente, y la negociación interna entre los vencedores, que exigiría leer las actas de la Conferencia de Paz.\n\nSeguir el dinero aquí es seguir la deuda: quién prestó a Alemania el dinero con que pagó, con qué condiciones y qué garantías exigió, es la pieza que falta y no está en esta ficha. Lo que aquí se dice de las cifras es lo que dice la fuente abierta, sin añadidos."
+    }
+   ],
    "citas": [],
    "conexiones": [
     {
