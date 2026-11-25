@@ -801,7 +801,7 @@ window.CRONO = {
     "texto": "abril de 1968",
     "fuente": "oficial"
    },
-   "resumen": "Película de Kubrick que, para el autor, anunció la fecha del 11S.",
+   "resumen": "Película de ciencia ficción de Stanley Kubrick (estreno en abril de 1968, guion con Arthur C. Clarke). En el filme el viaje es a Júpiter (en la novela de Clarke es a Saturno).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -1082,7 +1082,7 @@ window.CRONO = {
     "desde": 1933,
     "fuente": "oficial"
    },
-   "resumen": "Pacto entre la Alemania nazi y autoridades sionistas para la salida de judíos con bienes; el autor lo lee como ayuda nazi a crear Israel.",
+   "resumen": "Pacto entre la Alemania nazi y autoridades sionistas para la salida de judíos con bienes. Acuerdo firmado en agosto de 1933 entre el Ministerio de Economía del Reich, la Federación Sionista de Alemania y el Anglo-Palestine Bank para que los judíos alemanes pudieran emigrar a Palestina llevando parte de su patrimonio en forma de mercancías alemanas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -1706,7 +1706,7 @@ window.CRONO = {
     "texto": "1940–1941"
    },
    "fecha_autor": "máxima de 1917; movimiento posterior a la Primera Guerra Mundial; Hearst se implica en 1932",
-   "resumen": "Movimiento contra la entrada de EE. UU. en la guerra; para el autor, patriotas germanófilos financiados por grandes familias.",
+   "resumen": "Movimiento contra la entrada de EE. UU. en la guerra. Wood como presidente, y se disolvió días después de Pearl Harbor (diciembre de 1941).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2418,7 +2418,7 @@ window.CRONO = {
     "texto": "1921–1926; juicios 1926–1929"
    },
    "fecha_autor": "juicio en 1926",
-   "resumen": "Crímenes por el petróleo que, según el autor, consolidan al FBI ante la prensa.",
+   "resumen": "Entre 1921 y 1926 fueron asesinados varios miembros de la nación Osage en Oklahoma para quedarse con sus derechos de petróleo. La investigación del Bureau of Investigation condenó a William Hale y a sus cómplices.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2508,7 +2508,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1914
    },
-   "resumen": "Asesinato del archiduque Francisco Fernando en 1914, detonante de la Primera Guerra Mundial; el autor lo atribuye a la red revolucionaria de Mazzini.",
+   "resumen": "Asesinato del archiduque Francisco Fernando en 1914, detonante de la Primera Guerra Mundial. El 28 de junio de 1914 Gavrilo Princip, miembro de la organización nacionalista Joven Bosnia (Mlada Bosna), asesinó en Sarajevo al archiduque Francisco Fernando de Austria.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -2623,7 +2623,7 @@ window.CRONO = {
     "texto": "12 de octubre de 2000",
     "fuente": "autor"
    },
-   "resumen": "Ataque a un destructor en Adén; para el autor, falsa bandera en el cumpleaños de Crowley.",
+   "resumen": "El 12-10-2000 una célula de Al Qaeda cometió un atentado suicida con una lancha cargada de explosivos contra el destructor estadounidense USS Cole (DDG-67), anclado en el puerto yemení de Adén.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2669,7 +2669,7 @@ window.CRONO = {
     "desde": 1993,
     "texto": "26 de febrero de 1993"
    },
-   "resumen": "Atentado con camión bomba; el autor destaca el 93 como número crowleyano.",
+   "resumen": "El 26-2-1993, a las 12:17, un camión con 680 kg de explosivos estalló en el aparcamiento subterráneo de la Torre Norte del World Trade Center de Nueva York: murieron seis personas y más de mil resultaron heridas.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2843,7 +2843,7 @@ window.CRONO = {
     "desde": 2005,
     "texto": "9 de noviembre de 2005"
    },
-   "resumen": "Atentados en tres hoteles; el autor los suma a la cadena de falsas banderas.",
+   "resumen": "El 9-11-2005, hacia las 20:50 hora local, tres atentados suicidas coordinados alcanzaron los vestíbulos de los hoteles Grand Hyatt, Radisson SAS y Days Inn de Amán (Jordania), frecuentados por diplomáticos extranjeros.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2884,7 +2884,7 @@ window.CRONO = {
     "desde": 2002,
     "texto": "12 de octubre de 2002"
    },
-   "resumen": "Bombas en Kuta; para el autor, falsa bandera otra vez en el cumpleaños de Crowley.",
+   "resumen": "El 12-10-2002 tres bombas (dos en locales nocturnos de Kuta y una junto al consulado de EE. UU. en Denpasar) mataron a 202 personas; se atribuyó a Jemaah Islamiyah. Britannica fecha los atentados el 11-10-2002 y cuenta 202 muertos; la fecha del 12-10 queda por confirmar.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2925,7 +2925,7 @@ window.CRONO = {
     "desde": 2005,
     "texto": "7 de julio de 2005"
    },
-   "resumen": "Bombas en el metro y un autobús; el autor las ve como falsa bandera y liga la plaza al Instituto Tavistock.",
+   "resumen": "El 7-7-2005 cuatro terroristas suicidas atacaron el metro y un autobús de Londres: murieron 52 personas (más los cuatro atacantes) y unas 700 resultaron heridas.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -2975,7 +2975,7 @@ window.CRONO = {
     "desde": 2004,
     "texto": "11 de marzo de 2004"
    },
-   "resumen": "Atentados en trenes de cercanías; el autor los llama falsa bandera y cuenta 911 días desde el 11S.",
+   "resumen": "El 11-3-2004 diez bombas en cuatro trenes de cercanías de Madrid mataron a 193 personas e hirieron a unas 2.000, tres días antes de las elecciones generales.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -4279,7 +4279,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1898
    },
-   "resumen": "La heroína es un opioide derivado de la morfina y de la adormidera; Bayer la vendió como medicina en 1898, y el autor la relaciona con el opio y el fentanilo.",
+   "resumen": "La heroína es un opioide derivado de la morfina y de la adormidera.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -4539,7 +4539,7 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": null,
-   "resumen": "Emisión muy débil y espontánea de fotones por los seres vivos, sin reacción enzimática específica; el autor la relaciona con un «cuerpo de luz».",
+   "resumen": "Emisión muy débil y espontánea de fotones por los seres vivos, sin reacción enzimática específica. Un biofotón (del griego bio, «vida», y foto, «luz») es un fotón de origen biológico que no resulta de una reacción enzimática específica. Es una quimioluminiscencia de origen biológico que se distingue de la bioluminiscencia por la ausencia de mecanismo enzimático y por su intensidad ultradébil (ultra-weak photon emission).",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -5610,7 +5610,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da fecha",
-   "resumen": "El refugio antiaéreo que, según el autor, Mussolini se hizo construir en Villa Torlonia, con medidas y muros capaces de resistir un ataque atómico.",
+   "resumen": "Entre 1940 y 1943, con Italia ya en guerra, se construyeron bajo Villa Torlonia tres estructuras subterráneas para proteger a Mussolini y su familia: dos refugios antiaéreos y un búnker.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -5660,7 +5660,7 @@ window.CRONO = {
     "desde": 2001,
     "texto": "11 de septiembre de 2001"
    },
-   "resumen": "Bush leía un cuento con niños cuando ocurrió el 11S; el autor lo interpreta como misa negra.",
+   "resumen": "Bush leía un cuento con niños cuando ocurrió el 11S. El 11-9-2001 Bush visitaba la escuela primaria Emma E.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -5776,7 +5776,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Condecoraciones británicas a extranjeros que el autor interpreta como lealtad de agentes.",
+   "resumen": "Los ciudadanos de países cuyo jefe de Estado no es el monarca británico pueden recibir condecoraciones honoríficas, recomendadas por el Foreign Office; no pueden usar el tratamiento de «Sir» o «Dame», aunque sí las siglas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -6208,7 +6208,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "comienzos del siglo XIX"
    },
-   "resumen": "Sociedades secretas revolucionarias italianas del primer tercio del siglo XIX; el autor las tiene por el origen masónico de la unificación.",
+   "resumen": "Sociedades secretas revolucionarias italianas del primer tercio del siglo XIX.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -7017,7 +7017,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Linaje noble romano, príncipes de Arsoli, al que el autor presenta como cabeza de la «nobleza negra», dueño de mafias y del Vaticano.",
+   "resumen": "Los Massimo son una de las grandes familias nobles de Roma, príncipes de Arsoli y duques de Rignano, con palacio propio en la ciudad (el Palazzo Massimo alle Colonne).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -7113,7 +7113,7 @@ window.CRONO = {
     "texto": "desde la Edad Media",
     "fuente": "oficial"
    },
-   "resumen": "Familia romana; para el autor, quizá la más importante de la nobleza negra, detrás del rosacrucismo.",
+   "resumen": "Familia de la nobleza romana documentada desde el siglo XII, de la que salieron varios papas (Celestino III, Nicolás III, Benedicto XIII) y condotieros; rival histórica de los Colonna.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -7627,7 +7627,7 @@ window.CRONO = {
     "texto": "1961–1963"
    },
    "fecha_autor": "1961",
-   "resumen": "Escándalo sexual británico que, para el autor, es un ejemplo de trampa de miel que derriba gobiernos.",
+   "resumen": "En 1961 el ministro de Guerra británico John Profumo mantuvo una relación con Christine Keeler, de 19 años, que también trataba a un diplomático soviético.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -7838,7 +7838,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da año",
-   "resumen": "Policía política creada por el poder bolchevique; el autor subraya que su fundador admiraba a los jesuitas.",
+   "resumen": "Policía política creada por el poder bolchevique. La Checa se creó el 20 de diciembre (7, estilo antiguo) de 1917 y la dirigió Feliks Dzerzhinski, de familia noble polaca y católica, que de niño quiso ser sacerdote; no consta que quisiera ingresar en los jesuitas ni que fuera judío.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -8285,7 +8285,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1850
    },
-   "resumen": "Revista de los jesuitas fundada en Nápoles en 1850; el autor la presenta como puente entre el Vaticano y la creación del Estado italiano.",
+   "resumen": "Revista de los jesuitas fundada en Nápoles en 1850.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -8516,7 +8516,7 @@ window.CRONO = {
     "texto": "décadas de 1970 y 1980",
     "fuente": "autor"
    },
-   "resumen": "Think tanks que, según el autor, fijaron las políticas actuales.",
+   "resumen": "El Club de Roma es un laboratorio de ideas fundado en Roma en 1968, que reúne a un centenar de científicos, economistas, expolíticos e industriales de 52 países preocupados por problemas complejos del mundo; publicó «Los límites del crecimiento» en 1972.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -9451,7 +9451,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1937
    },
-   "resumen": "La carta de Tacchi Venturi a Pacelli (marzo de 1937) con las concesiones que, según el autor, Mussolini prometió a la Iglesia.",
+   "resumen": "La carta de Tacchi Venturi a Pacelli (marzo de 1937) con las concesiones. No hay una versión oficial de esas gestiones concretas; proceden de la correspondencia de Pietro Tacchi Venturi con la Secretaría de Estado vaticana, estudiada a partir de la apertura de los archivos de Pío XI en 2006.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -9965,7 +9965,7 @@ window.CRONO = {
     "desde": 1782,
     "fuente": "oficial"
    },
-   "resumen": "Reunión masónica que el autor presenta como encuentro de jesuitas, masones e illuminati.",
+   "resumen": "Convento masónico convocado por Fernando, duque de Brunswick, gran maestre de la Estricta Observancia, que se abrió el 16 de julio de 1782 en Wilhelmsbad, cerca de Hanau.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -10226,7 +10226,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "septiembre de 1940 (según el autor)"
    },
-   "resumen": "Grupo de militares y empresarios que el autor ve como heredero de America First y base del «cuarto Reich».",
+   "resumen": "El American Security Council se fundó en 1955 como organización anticomunista de empresarios y exagentes del FBI; el America First Committee, que presidió el general Robert E.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -10508,7 +10508,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1812
    },
-   "resumen": "Constitución aprobada en Sicilia en 1812 bajo influencia británica, que abolió el feudalismo; el autor culpa de la mafia a ese cambio legal.",
+   "resumen": "Constitución aprobada en Sicilia en 1812 bajo influencia británica, que abolió el feudalismo. La Constitución siciliana de 1812 fue aprobada por el parlamento de Sicilia bajo la presión de lord William Bentinck, comandante británico de la isla.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -11312,7 +11312,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Un punto en el que el autor y la versión oficial coinciden en parte.",
+   "resumen": "El Banco de Inglaterra explicó en 2014 que la mayor parte del dinero lo crean los bancos comerciales al conceder préstamos: el préstamo genera a la vez un depósito, un apunte en la cuenta.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -11414,7 +11414,7 @@ window.CRONO = {
     "texto": "23-12-1913"
    },
    "fecha_autor": "tras el hundimiento del Titanic (1912)",
-   "resumen": "Banco central de EE. UU.; para el autor, hito ligado a House, Wilson y, simbólicamente, al Titanic.",
+   "resumen": "La Reserva Federal se creó con la Ley de la Reserva Federal firmada por Woodrow Wilson el 23-12-1913; Edward Mandell House fue asesor clave de Wilson.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -11980,7 +11980,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1914
    },
-   "resumen": "Reparto de Europa central y oriental entre los imperios alemán, austrohúngaro, ruso y otomano en vísperas de la Gran Guerra; el autor lo presenta como el tablero previo al conflicto.",
+   "resumen": "Reparto de Europa central y oriental entre los imperios alemán, austrohúngaro, ruso y otomano en vísperas de la Gran Guerra.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -13166,7 +13166,7 @@ window.CRONO = {
     "desde": 1990,
     "texto": "11 de septiembre de 1990"
    },
-   "resumen": "Discurso ante el Congreso, once años antes del 11S, que el autor lee como anuncio.",
+   "resumen": "El 11-9-1990, ante el Congreso, George H. W.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -13218,7 +13218,7 @@ window.CRONO = {
     "texto": "17-1-1961"
    },
    "fecha_autor": "1955",
-   "resumen": "Aviso sobre el complejo militar industrial; el autor lo sitúa en 1955.",
+   "resumen": "Aviso sobre el complejo militar industrial. El 17-1-1961 Dwight D.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -13496,7 +13496,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "siglo VIII"
    },
-   "resumen": "Documento apócrifo que fundó el poder temporal del papado; el autor llama «fraude constantiniano» a la base de los Estados Pontificios.",
+   "resumen": "Documento apócrifo que fundó el poder temporal del papado. La Donación de Constantino es un documento apócrifo, redactado probablemente en el siglo VIII, por el que se atribuía al papa Silvestre I la soberanía sobre Roma y Occidente.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -15464,7 +15464,7 @@ window.CRONO = {
     "desde": 1884,
     "texto": "5 de agosto de 1884"
    },
-   "resumen": "Piedra colocada en ceremonia masónica 82 años antes que la del WTC, según el autor.",
+   "resumen": "Piedra colocada en ceremonia masónica 82 años antes que la del WTC. El NPS confirma una ceremonia de colocación de la piedra angular del pedestal el 5-8-1884 (obras iniciadas en 1883).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -15644,7 +15644,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1978
    },
-   "resumen": "Revisión bibliográfica de Solomon Goldfein para el Ejército de EE. UU. sobre las transmutaciones biológicas de Kervran y Komaki, que el autor presenta como experimento secreto que confirmó a Kervran.",
+   "resumen": "El Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -16018,7 +16018,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "1962",
-   "resumen": "Un jardín en botella sellada sigue vivo décadas después; el autor lo usa junto a una pregunta de Lakhovsky como prueba de que la vida crea materia.",
+   "resumen": "Un jardín en botella sellada sigue vivo décadas después. Un jardín cerrado en una garrafa de vidrio, plantado por David Latimer en 1960, que sigue vivo sin que se le añada nada desde 1972.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -16387,7 +16387,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1919-1920 (publicado en febrero de 1920)"
    },
-   "resumen": "Estudio de condicionamiento de un miedo en un bebé con una rata blanca y un ruido fuerte, que el autor usa como ejemplo de cómo se forman los complejos.",
+   "resumen": "Un experimento de psicología de 1920 en el que se condicionó el miedo a una rata blanca en un bebé al unirla a un ruido fuerte. John B.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -16537,7 +16537,7 @@ window.CRONO = {
     "hasta": 1960
    },
    "fecha_autor": "artículo de 1959",
-   "resumen": "Pierre Baranger, según el autor, replicó diez años a Herzeele y publicó en 1959 que las plantas generaban sodio, potasio y calcio.",
+   "resumen": "Unos experimentos de Pierre Baranger con semillas germinadas, en las que dijo encontrar más sodio, potasio y calcio del que había al principio.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -17065,7 +17065,7 @@ window.CRONO = {
     "desde": 1931,
     "texto": "desde 1931"
    },
-   "resumen": "Una de las cinco familias de la mafia neoyorquina, dirigida por John Gotti entre 1985 y 2002; según el autor, propiedad de la nobleza romana.",
+   "resumen": "Una de las cinco familias de la mafia neoyorquina, dirigida por John Gotti entre 1985 y 2002.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -17264,7 +17264,7 @@ window.CRONO = {
     "texto": "6 de diciembre de 1969",
     "fuente": "oficial"
    },
-   "resumen": "Concierto en el que murió un asistente; el autor lo ve como ritual crowleyano.",
+   "resumen": "El 6-12-1969, en el concierto gratuito de Altamont (California), Meredith Hunter, un joven asistente, murió apuñalado por un miembro de los Hells Angels (que hacían de seguridad) durante la actuación de los Rolling Stones.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -17932,7 +17932,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "medieval"
    },
-   "resumen": "Sociedad secreta supuestamente medieval de la península ibérica; el autor la señala como origen de la mafia.",
+   "resumen": "Sociedad secreta supuestamente medieval de la península ibérica.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -18108,7 +18108,7 @@ window.CRONO = {
     "desde": 2010,
     "fuente": "oficial"
    },
-   "resumen": "Frase de Gates sobre vacunas y población que el autor ve como plan de despoblación.",
+   "resumen": "En una charla TED de febrero de 2010 sobre emisiones de CO2, Bill Gates dijo que con mejor sanidad y vacunas se podría reducir el crecimiento de la población en un 10-15 %.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -18391,7 +18391,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "finales del siglo XIX",
-   "resumen": "Orden esotérica británica que el autor liga a familias nobles.",
+   "resumen": "Orden de magia ceremonial fundada en Londres a finales del siglo XIX —el templo Isis-Urania se abrió en 1888— por William Wynn Westcott, Samuel Liddell Mathers y William Robert Woodman.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -18524,7 +18524,7 @@ window.CRONO = {
     "politica-economia"
    ],
    "fecha": null,
-   "resumen": "Proyecto de un Estado judío entre el Éufrates y el Nilo que los autores de la tertulia consideran el objetivo real de la guerra.",
+   "resumen": "El «Gran Israel» (Eretz Israel) es, en el sionismo revisionista y en sectores religiosos, la reivindicación de un Estado judío sobre el territorio entre el Éufrates y el Nilo; la corriente mayoritaria lo interpreta como reivindicación histórica y religiosa, no como frontera política.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -18630,7 +18630,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "El escalón financiero que el autor sitúa por encima de la ONU.",
+   "resumen": "Son instituciones distintas: la Reserva Federal (1913) es el banco central de EE. UU.; el FMI y el Banco Mundial nacieron en Bretton Woods (1944) y desde 1947 son organismos especializados de la ONU, aunque funcionan con independencia; el BCE nació en 1998.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -18729,7 +18729,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "tras la muerte de Rhodes (1902)",
-   "resumen": "Red de herederos de Cecil Rhodes que, según el autor citando a Quigley, sirve de base al Imperio wasp.",
+   "resumen": "El grupo de la Mesa Redonda fue una red de políticos y académicos imperiales británicos organizada hacia 1909–1910 en torno a Alfred Milner, con fondos del Rhodes Trust; editaba la revista The Round Table.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -19166,7 +19166,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "noviembre de 1935 (el artículo que comenta Tacchi Venturi)",
-   "resumen": "La invasión italiana de Etiopía (1935-1936) y la conversación que, según el autor, Tacchi Venturi tuvo con Mussolini sobre ella.",
+   "resumen": "La invasión italiana de Etiopía (1935-1936). Las potencias no reconocieron formalmente la anexión hasta 1938.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -21544,7 +21544,7 @@ window.CRONO = {
     "texto": "1945 – 1962 (según «Lobo gris»)",
     "fuente": "autor"
    },
-   "resumen": "Teorías que recoge el autor sobre un Hitler vivo en Argentina; no toma partido, pero ve a Hitler como chivo expiatorio.",
+   "resumen": "Hitler se suicidó en el búnker de Berlín el 30 de abril de 1945. Los soviéticos difundieron dudas en 1945, pero los testimonios y el examen de sus restos dentales, revisados de nuevo en 2017–2018, confirman la muerte.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -21665,7 +21665,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "15 de febrero de 1898"
    },
-   "resumen": "Explosión en La Habana que, para el autor, fue falsa bandera vendida por Hearst.",
+   "resumen": "El acorazado USS Maine (no un submarino) explotó y se hundió en La Habana el 15-2-1898 con unos 260 muertos. La causa sigue discutida (una mina en 1898 y 1911; un incendio en una carbonera, según un estudio de 1976).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -22789,7 +22789,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«comienzos de los años 60»",
-   "resumen": "Texto que se presenta como informe secreto del gobierno de EE. UU. sobre cómo la paz amenazaría la economía, citado por el autor como antecedente de 2020.",
+   "resumen": "«The Report from Iron Mountain» se publicó en 1967 (Dial Press) como supuesto informe secreto de un grupo de estudio del gobierno de EE.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -23265,7 +23265,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1873
    },
-   "resumen": "Colegio jesuita de Roma, fundado en 1873, por el que pasó Mario Draghi; el autor lo presenta como instrumento de poder de la familia Massimo.",
+   "resumen": "Colegio jesuita de Roma, fundado en 1873, por el que pasó Mario Draghi.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23614,7 +23614,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "1790 y 1798",
-   "resumen": "Edward Jenner (1749-1823), médico inglés, descubrió la vacuna contra la viruela, la primera del mundo; el autor lo critica.",
+   "resumen": "Edward Jenner (1749-1823), médico inglés, descubrió la vacuna contra la viruela, la primera del mundo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23833,7 +23833,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Serie de directores de la CIA que, según el autor, se formaron en universidades jesuitas, como prueba de que la orden dirige la inteligencia estadounidense.",
+   "resumen": "Varios directores de la CIA sí estudiaron en universidades jesuitas: George Tenet se graduó en la Escuela de Servicio Exterior de Georgetown, Leon Panetta en la Universidad de Santa Clara y John Brennan en Fordham.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -23980,7 +23980,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1831–1834"
    },
-   "resumen": "Organización fundada por Mazzini para una Italia unida y republicana, con ramas europeas; el autor la hace matriz de la Joven Serbia del atentado de Sarajevo.",
+   "resumen": "Organización fundada por Mazzini para una Italia unida y republicana, con ramas europeas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24046,7 +24046,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1848–1870"
    },
-   "resumen": "Papel de los judíos italianos en el Risorgimento; el autor los tiene por el grupo más activo a favor de la unificación.",
+   "resumen": "Papel de los judíos italianos en el Risorgimento.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24098,7 +24098,7 @@ window.CRONO = {
     "texto": "hace más de 2.500 años"
    },
    "fecha_autor": "hace más de 2.500 años",
-   "resumen": "Compromiso ético de los médicos atribuido a Hipócrates, que invoca a dioses griegos y que el autor critica por eso.",
+   "resumen": "Compromiso ético del ámbito de la medicina que orienta al médico en su profesión. En su forma original regula las obligaciones hacia el maestro y su familia, los discípulos, los colegas y los pacientes.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -24505,7 +24505,7 @@ window.CRONO = {
     "desde": 2023
    },
    "fecha_autor": "4-10-2023",
-   "resumen": "Exhortación del Papa sobre la crisis climática, que el autor ve como nueva religión mundial.",
+   "resumen": "Exhortación apostólica del papa Francisco publicada el 4 de octubre de 2023, continuación de Laudato si', sobre la crisis climática. Constata que las respuestas globales son insuficientes y reclama cooperación multilateral y organismos internacionales con mecanismos efectivos de control, revisión y sanción.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -24552,7 +24552,7 @@ window.CRONO = {
    "fecha": {
     "desde": 2015
    },
-   "resumen": "Encíclica ecológica de 2015; el autor la ve como palanca política de los jesuitas con la Agenda 2030.",
+   "resumen": "Laudato si', publicada en junio de 2015, es la encíclica del papa Francisco sobre el cuidado de la casa común: presenta el cambio climático como un problema moral y ecológico y pide cambiar los modelos de producción y consumo.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -24797,7 +24797,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "años antes del siglo XIX",
-   "resumen": "La ley de conservación de la masa, publicada por Lavoisier en su tratado de 1789; el autor sostiene que la vida puede eludirla.",
+   "resumen": "La ley de conservación de la masa, publicada por Lavoisier en su tratado de 1789. El principio, formulado por Lavoisier en 1789, de que en una reacción química la masa total no cambia: lo que se gasta en un lado aparece en otro.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -25012,7 +25012,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«tras escorarse hacia el bando católico» (no da año; la cuestión judía cambia en los años 30)",
-   "resumen": "Las leyes raciales de 1938 y las 44 cartas con que, según el autor, el jesuita Tacchi Venturi intercedió por los judíos ante Mussolini.",
+   "resumen": "Las leyes raciales de 1938 y las 44 cartas con. El régimen fascista aprobó en 1938 las leyes raciales: el «Manifiesto de la raza» (julio) y las leyes de septiembre-noviembre excluyeron a los judíos de la escuela, el ejército y la administración pública y les retiraron la ciudadanía.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -25446,7 +25446,7 @@ window.CRONO = {
     "texto": "años 70 (descubierta en 1981)",
     "fuente": "oficial"
    },
-   "resumen": "Logia de Licio Gelli; para el autor, prueba de la unión entre mafia, logias y Vaticano.",
+   "resumen": "Logia masónica que Licio Gelli convirtió en una red secreta de políticos, militares, empresarios y periodistas. La lista de miembros apareció en 1981 y la logia se disolvió por ley en 1982.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -25981,7 +25981,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1848
    },
-   "resumen": "Texto fundacional del comunismo; el autor duda de que su autoría sea solo de Marx y apunta a un libro de Clinton Roosevelt de 1841.",
+   "resumen": "El Manifiesto del Partido Comunista se publicó en Londres en febrero de 1848, firmado por Marx y Engels por encargo de la Liga de los Comunistas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -26199,7 +26199,7 @@ window.CRONO = {
     "desde": 1830,
     "hasta": 1835
    },
-   "resumen": "Marx se educó en casa hasta los 12 años y luego pasó cinco años en un liceo de Tréveris que el autor llama «escuela jesuita».",
+   "resumen": "Marx fue educado en casa hasta 1830 e ingresó a los 12 años en el Friedrich-Wilhelm-Gymnasium de Tréveris, donde estuvo hasta 1835.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -26489,7 +26489,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "17 de junio de 1933"
    },
-   "resumen": "Tiroteo en el que mueren agentes de la ley; para el autor, da armas y jurisdicción al FBI.",
+   "resumen": "Tiroteo en el que mueren agentes de la ley. El 17-6-1933, al intentar liberar al preso Frank Nash en la estación de Kansas City, murieron Nash y cuatro agentes de la ley (un agente del FBI y tres policías).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -26822,7 +26822,7 @@ window.CRONO = {
     "desde": 1997,
     "texto": "2 de julio de 1997"
    },
-   "resumen": "Película que, según un post leído por el autor, fue un ensayo ritual del 11S.",
+   "resumen": "Comedia de ciencia ficción de Barry Sonnenfeld (estreno en EE. UU. el 2-7-1997) basada en un cómic. Las coincidencias numéricas con el 11S (1533 días, 237×11…) no tienen respaldo documental y dependen de qué fecha o medida se elija.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -27078,7 +27078,7 @@ window.CRONO = {
     "ciencia-saber"
    ],
    "fecha": null,
-   "resumen": "El gasto sanitario de EE. UU. fue el 18,3 % del PIB en 2021 (19,7 % en 2020 y 17,6 % en 2019), según los CMS: algo más que el 15 % que cita el autor.",
+   "resumen": "El gasto sanitario de EE. UU. fue el 18,3 % del PIB en 2021 (19,7 % en 2020 y 17,6 % en 2019), según los CMS.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -27951,7 +27951,7 @@ window.CRONO = {
     "desde": 2011,
     "texto": "2 de mayo de 2011"
    },
-   "resumen": "Operación en Pakistán; el autor ve en la foto de la Casa Blanca seis jesuitas y una boda real cuatro días antes.",
+   "resumen": "El 2-5-2011 fuerzas especiales de EE. UU. mataron a Osama bin Laden en Abbottabad (Pakistán); su cuerpo se arrojó al mar. La boda de William y Catherine fue el 29-4-2011.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -29047,7 +29047,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Aristocracia de origen italiano que, según el autor, vigila el sistema desde la cúspide.",
+   "resumen": "En la historiografía, «nobleza negra» designa a las familias de la aristocracia romana que siguieron leales al Papa tras la toma de Roma en 1870 (en señal de luto, según la tradición).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -29331,7 +29331,7 @@ window.CRONO = {
     "desde": 1974,
     "fuente": "oficial"
    },
-   "resumen": "Informe de seguridad nacional sobre población que el autor lee como plan de despoblación.",
+   "resumen": "El NSSM 200 se encargó el 24-4-1974 (firmado por Kissinger) para estudiar las implicaciones del crecimiento de la población mundial para la seguridad y los intereses de EE. UU., y se completó en diciembre de 1974.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -29534,7 +29534,7 @@ window.CRONO = {
     "texto": "16 de febrero de 1968",
     "fuente": "oficial"
    },
-   "resumen": "Año en que el 911 pasó a ser número de emergencias; para el autor, la fórmula mágica del 9-11.",
+   "resumen": "Año en que el 911 pasó a ser número de emergencias. El 911 es un número telefónico de emergencias de Canadá y Estados Unidos, uno de los ocho códigos N11 del Plan de Numeración de Norteamérica: al marcarlo se conecta con un centro de despacho de emergencias.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -29719,7 +29719,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1916
    },
-   "resumen": "Nota de paz alemana de diciembre de 1916, rechazada por los Aliados; el autor la presenta como un armisticio aceptado de antemano por Londres.",
+   "resumen": "Nota de paz alemana de diciembre de 1916, rechazada por los Aliados.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -30009,7 +30009,7 @@ window.CRONO = {
     "desde": 1948,
     "fuente": "oficial"
    },
-   "resumen": "Creación de la OMS, que el autor dice dirigir en secreto por la casa de Glücksburg.",
+   "resumen": "La Constitución de la OMS se adoptó el 22-7-1946 y entró en vigor el 7-4-1948; la primera Asamblea Mundial de la Salud se abrió en Ginebra el 24-6-1948.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -30858,7 +30858,7 @@ window.CRONO = {
    "carril": "religion",
    "temas": [],
    "fecha": null,
-   "resumen": "Orden dinástica que el autor considera muy poderosa.",
+   "resumen": "Orden dinástica de caballería vinculada a la Casa de Borbón-Dos Sicilias. Su gran maestrazgo lo disputan dos ramas de la familia.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -31472,7 +31472,7 @@ window.CRONO = {
     "desde": 1911,
     "hasta": 1917
    },
-   "resumen": "Sociedad secreta nacionalista serbia dirigida por Dimitrijević, que armó a los autores del atentado de Sarajevo.",
+   "resumen": "La Mano Negra (Unificación o Muerte) fue una sociedad secreta nacionalista serbia fundada en 1911 por oficiales, con Dragutin Dimitrijević «Apis» al frente.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -32529,7 +32529,7 @@ window.CRONO = {
     "desde": 1949,
     "fuente": "autor"
    },
-   "resumen": "Grupo neonazi de James Madole; según el autor, unió fascismo, ocultismo y satanismo.",
+   "resumen": "Pequeño partido neonazi estadounidense fundado en 1949 y dirigido por James H. Madole hasta su muerte en 1979.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -33600,7 +33600,7 @@ window.CRONO = {
     "desde": 1914,
     "hasta": 1918
    },
-   "resumen": "Conflicto entre los Imperios Centrales y los Aliados; el autor lo lee como un escalón de una agenda oculta y discute sus cifras y consecuencias.",
+   "resumen": "Conflicto entre los Imperios Centrales y los Aliados. Las estimaciones habituales hablan de unos diez millones de militares y entre siete y trece millones de civiles muertos; no hay un recuento exacto.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -33686,7 +33686,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1987
    },
-   "resumen": "El BPI goza en Suiza de inviolabilidad de sus edificios, exención fiscal e inmunidad de sus directivos; el autor lo presenta como un banco opaco y sin responsabilidad.",
+   "resumen": "El BPI goza en Suiza de inviolabilidad de sus edificios, exención fiscal e inmunidad de sus directivos. El estatuto jurídico del BPI en Suiza lo regula el Acuerdo de Sede firmado con el Consejo Federal suizo el 10 de febrero de 1987, que confirma los privilegios e inmunidades que el banco tiene desde su fundación en 1930; la Carta constitutiva de 1930 ya recogía exenciones fiscales.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -33760,7 +33760,7 @@ window.CRONO = {
     "desde": 1903,
     "texto": "1903 (publicados en ruso)"
    },
-   "resumen": "Falsificación antisemita que, según el autor, contribuyó a envenenar Europa antes de la guerra.",
+   "resumen": "Los Protocolos de los Sabios de Sion son un texto antisemita publicado en ruso en 1903, que finge revelar un plan judío de dominación mundial.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -33809,7 +33809,7 @@ window.CRONO = {
     "margen": 3
    },
    "fecha_autor": "principios de este milenio; 2013–2014",
-   "resumen": "Grupo ucraniano que, según el autor, transmutó cobre y plomo con aceleradores de electrones y propuso un cóctel de levaduras (MCT) para reducir la semivida de residuos radiactivos.",
+   "resumen": "Un laboratorio privado de Kiev, Proton-21, que dijo haber logrado transmutar metales con aceleradores de electrones. El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -33903,7 +33903,7 @@ window.CRONO = {
     "texto": "16 de julio de 1945",
     "fuente": "oficial"
    },
-   "resumen": "Primera explosión de un arma nuclear, realizada por Estados Unidos el 16 de julio de 1945 con una bomba de plutonio; para el autor y Kenneth Grant, un ritual.",
+   "resumen": "Primera explosión de un arma nuclear, realizada por Estados Unidos el 16 de julio de 1945 con una bomba de plutonio.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -34209,7 +34209,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "siglo XVII",
-   "resumen": "Pueblos misioneros guaraníes que el autor presenta como origen del comunismo moderno.",
+   "resumen": "Las reducciones fueron misiones jesuitas entre los guaraníes (desde 1609) con propiedad comunal parcial; se clausuraron con la expulsión de la Compañía de los dominios españoles (1767-1768).",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -34275,7 +34275,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1969
    },
-   "resumen": "Reforma de la corte papal tras la cual solo sobreviven unas pocas familias aristocráticas; el autor señala a los Torlonia.",
+   "resumen": "Reforma de la corte papal tras la cual solo sobreviven unas pocas familias aristocráticas. El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968 (no 1969): rebautizó la Corte Pontificia como Casa Pontificia y suprimió los títulos de nobleza de la corte.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -34800,7 +34800,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "1970–1978"
    },
-   "resumen": "Casino de Atlantic City y empresa de seguridad con exagentes de CIA y FBI, que para el autor conectan a Trump con la CIA.",
+   "resumen": "Casino de Atlantic City y empresa de seguridad con exagentes de CIA y FBI.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -35117,7 +35117,7 @@ window.CRONO = {
    "fecha": {
     "desde": 2013
    },
-   "resumen": "Los gobernadores de los grandes bancos centrales se reúnen cada dos meses en la sede del BPI en Basilea; el autor describe el comité de 2013 y sostiene que sus decisiones, secretas, afectan a todos.",
+   "resumen": "Los gobernadores de los grandes bancos centrales se reúnen cada dos meses en la sede del BPI en Basilea. El Comité Consultivo Económico es un grupo informal de los gobernadores del consejo del BPI, más los de India y Brasil y el director general; prepara propuestas para la Reunión de Economía Global (30 bancos centrales, cerca de cuatro quintos del PIB mundial).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -35953,7 +35953,7 @@ window.CRONO = {
     "desde": 1614,
     "fuente": "oficial"
    },
-   "resumen": "Orden esotérica que el autor acusa de guerra química y de controlar la OMS y la FDA.",
+   "resumen": "El rosacrucismo es un movimiento esotérico europeo que nace de tres manifiestos anónimos publicados en Alemania entre 1614 y 1616 —Fama Fraternitatis, Confessio Fraternitatis y Las bodas químicas de Christian Rosenkreutz—, atribuidos a Johann Valentin Andreae.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -36419,7 +36419,7 @@ window.CRONO = {
     "texto": "1665 – s. XVIII",
     "fuente": "oficial"
    },
-   "resumen": "Movimientos mesiánicos judíos; según el autor, creen que el pecado acelera la llegada de su Mesías.",
+   "resumen": "El sabateísmo nació en 1665 cuando Sabbatai Zeví (1626–1676) se proclamó mesías; se convirtió al islam en 1666. En el siglo XVIII Jacob Frank (1726–1791) encabezó en Polonia una corriente heredera, el frankismo, cuyos seguidores se bautizaron en masa.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -36462,7 +36462,7 @@ window.CRONO = {
     "aprox": true,
     "texto": "2025-2026"
    },
-   "resumen": "Serie de ataques que, según el autor, hicieron fracasar las negociaciones de paz de Trump.",
+   "resumen": "En 2025-2026 hubo ataques que coincidieron con negociaciones: la operación ucraniana con drones contra bases rusas (junio de 2025), el asesinato de científicos y mandos iraníes atribuido a Israel y el bombardeo israelí de Doha contra dirigentes de Hamás (septiembre de 2025).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -36649,7 +36649,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "toma de posesión de Trump",
-   "resumen": "Gesto de Musk con el brazo extendido en el acto de investidura de 2025, que el autor interpreta como saludo nazi.",
+   "resumen": "El 20 de enero de 2025, en un acto de celebración de la investidura de Trump en el Capital One Arena, Elon Musk hizo dos veces un gesto con el brazo extendido que numerosos críticos e historiadores compararon con el saludo nazi.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -36708,7 +36708,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«nada más tomar el poder» (no da año)",
-   "resumen": "El rescate del Banco de Roma, entidad ligada al Vaticano, como una de las primeras medidas proclericales del fascismo según el autor.",
+   "resumen": "El Banco di Roma, en dificultades desde la guerra de Libia, fue saneado en 1923 con un consorcio bancario y el apoyo del Estado y del Banco de Italia.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -36812,7 +36812,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "verano de 2025"
    },
-   "resumen": "Dos polémicas del verano de 2025 que el autor presenta como operaciones psicológicas mediáticas.",
+   "resumen": "Hechos: el 9-7-2025 un vecino de 68 años fue agredido en Torre Pacheco (Murcia), supuestamente por tres hombres de origen magrebí; siguieron varias noches de disturbios xenófobos con detenidos y despliegue de la Guardia Civil, que Amnistía Internacional calificó de violencia racista.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -36969,7 +36969,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "1932"
    },
-   "resumen": "Secuestro y muerte del bebé de Lindbergh; el autor se queda con la versión oficial.",
+   "resumen": "Secuestro y muerte del bebé de Lindbergh. El 1-3-1932 fue secuestrado Charles Augustus Lindbergh Jr., hijo de 20 meses del aviador, en Hopewell (Nueva Jersey).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -37484,7 +37484,7 @@ window.CRONO = {
     "desde": 1832,
     "fuente": "oficial"
    },
-   "resumen": "Sociedades secretas de Yale y Harvard que el autor liga a élites, los Bush y los Russell.",
+   "resumen": "Skull and Bones es una sociedad secreta de estudiantes de último curso de Yale, fundada en 1832. Su patrimonio lo administra la Russell Trust Association.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -37715,7 +37715,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "11-7-1902"
    },
-   "resumen": "Sociedad angloestadounidense que el autor presenta como núcleo secreto del poder wasp, con Astor, Morgan, Rockefeller y Dulles.",
+   "resumen": "La Pilgrims Society es una asociación de amistad entre Reino Unido y EE. UU. con rama en Londres (1902) y rama en Nueva York (1903); cuenta entre sus miembros a banqueros, políticos y diplomáticos.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -38935,7 +38935,7 @@ window.CRONO = {
     "texto": "s. X a.C. (según la tradición)",
     "fuente": "oficial"
    },
-   "resumen": "Primer templo de Jerusalén; para el autor, modelo de El Escorial y objetivo del sionismo, que quiere reconstruirlo.",
+   "resumen": "Según la Biblia, lo construyó Salomón en Jerusalén hacia el siglo X a.C.; fue destruido por Babilonia en 587/586 a.C. No hay restos arqueológicos identificados con seguridad.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -40217,7 +40217,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1919
    },
-   "resumen": "Paz impuesta a Alemania en 1919; el autor la considera una humillación deliberada que provocó el nazismo.",
+   "resumen": "El Tratado de Versalles se firmó el 28 de junio de 1919 en la Galería de los Espejos y entró en vigor en enero de 1920. Los historiadores discuten cuánto contribuyó al ascenso del nazismo, pero lo sitúan entre sus causas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -40478,7 +40478,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1984
    },
-   "resumen": "Venta de condominios a un mafioso ruso y multa al casino Taj Mahal por blanqueo, según el autor.",
+   "resumen": "Venta de condominios a un mafioso ruso y multa al casino Taj Mahal por blanqueo. En 1984 David Bogatin, emigrado soviético, compró cinco apartamentos en la Trump Tower por unos seis millones de dólares; el Gobierno estadounidense los confiscó después al considerarlos pagados con dinero ilícito.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -41658,7 +41658,7 @@ window.CRONO = {
     "desde": 1629,
     "hasta": 1701
    },
-   "resumen": "Harvard, Yale y Columbia como instituciones nacidas de cartas coloniales, que el autor llama propiedad de la Corona.",
+   "resumen": "Harvard nació en 1636 por acuerdo de la legislatura de la colonia de la bahía de Massachusetts y recibió su carta en 1650; Yale fue creada en 1701 por la Asamblea de Connecticut y Columbia se fundó en 1754 como King's College con carta real de Jorge II.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -41799,7 +41799,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1516
    },
-   "resumen": "Obra del humanista católico Tomás Moro; el autor la presenta como base sobre la que Marx y Hegel desarrollaron su tesis.",
+   "resumen": "*Utopía* se publicó en 1516 y describe una isla con propiedad común; se la cita como precursora del pensamiento socialista y Moro figura entre los nombres del obelisco soviético de 1918.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -41973,7 +41973,7 @@ window.CRONO = {
     "desde": 1718
    },
    "fecha_autor": "1714 y 1718",
-   "resumen": "Lady Montagu da a conocer en Inglaterra la inoculación turca; el autor sostiene que fue una operación del gobierno.",
+   "resumen": "Lady Montagu da a conocer en Inglaterra la inoculación turca.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -42026,7 +42026,7 @@ window.CRONO = {
     "texto": "c. 1600",
     "fuente": "autor"
    },
-   "resumen": "La red proveneciana en Inglaterra según el autor.",
+   "resumen": "Robert Cecil fue secretario de Estado de Jacobo I y Henry Wotton, embajador en Venecia (1604–1624, con interrupciones) y amigo de Sarpi.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -42626,7 +42626,7 @@ window.CRONO = {
     "texto": "siglo XIII en adelante"
    },
    "fecha_autor": "«desde el siglo XIII», según la enciclopedia católica",
-   "resumen": "Franciscanos, dominicos y jesuitas hicieron de la pobreza y la propiedad común un ideal; para el autor, antecedente del Manifiesto comunista.",
+   "resumen": "Franciscanos, dominicos y jesuitas hicieron de la pobreza y la propiedad común un ideal.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -43023,7 +43023,7 @@ window.CRONO = {
     "hasta": 2001,
     "fuente": "oficial"
    },
-   "resumen": "Complejo de Nueva York cuya destrucción el autor lee como rito masónico y hermético.",
+   "resumen": "Las obras del World Trade Center empezaron en 1966 y se inauguró en 1973; las torres gemelas fueron destruidas el 11-9-2001. El One World Trade Center abrió el 3-11-2014 y mide 1776 pies (año de la Declaración de Independencia).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -43123,7 +43123,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1961
    },
-   "resumen": "Nacimiento del WWF y quiénes lo dirigieron, según el autor.",
+   "resumen": "Nacimiento del WWF y quiénes lo dirigieron. El WWF (World Wildlife Fund, hoy World Wide Fund for Nature) se fundó el 29-4-1961 en Morges (Suiza), impulsado por Julian Huxley, Peter Scott, Max Nicholson y Anton Rupert, entre otros.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -43866,7 +43866,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1891
    },
-   "resumen": "Masón confederado; según el autor, el águila bicéfala preside su obra.",
+   "resumen": "Albert Pike (Boston, 29-12-1809 – Washington, 2-4-1891), abogado y general confederado, fue Soberano Gran Comendador de la jurisdicción sur del Rito Escocés de 1859 hasta su muerte.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -45272,7 +45272,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "vivo": true,
-   "resumen": "Superior general de los jesuitas; para el autor, el «papa negro».",
+   "resumen": "Arturo Marcelino Sosa Abascal (Caracas, 1948), jesuita venezolano, superior general de la Compañía de Jesús desde 2016, el primero no europeo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -45386,7 +45386,7 @@ window.CRONO = {
     "hasta": 1890,
     "fuente": "oficial"
    },
-   "resumen": "Banquero estadounidense de origen alemán y agente de los Rothschild; el autor lo presenta como masón que patrocinó a los jesuitas.",
+   "resumen": "Banquero estadounidense de origen alemán y agente de los Rothschild.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -45641,7 +45641,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1598
    },
-   "resumen": "Humanista de Felipe II; para el autor, llevó la cábala a El Escorial.",
+   "resumen": "Benito Arias Montano (Fregenal de la Sierra, c. 1525–1527 – Sevilla, 6-7-1598), humanista, teólogo, filólogo y hebraísta español, figura central del humanismo cristiano del siglo XVI.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -46442,7 +46442,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "5-7-1853 – 26-3-1902"
    },
-   "resumen": "Magnate minero cuya herencia, para el autor, sostiene el Imperio wasp.",
+   "resumen": "Cecil Rhodes (1853–1902), magnate minero (De Beers), político colonial e imperialista. Su testamento creó las becas Rhodes y el Rhodes Trust.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -46610,7 +46610,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "4-2-1902 – 26-8-1974"
    },
-   "resumen": "Aviador y portavoz de America First; para el autor, preludio de Trump.",
+   "resumen": "Charles Lindbergh (1902–1974), aviador, hizo en 1927 el primer vuelo transatlántico en solitario.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -48195,7 +48195,7 @@ window.CRONO = {
     "hasta": 1891,
     "fuente": "oficial"
    },
-   "resumen": "Diplomático y periodista estadounidense, partidario de la Confederación; el autor lo presenta como patrocinador de los jesuitas.",
+   "resumen": "Diplomático y periodista estadounidense, partidario de la Confederación. No consta que patrocinara a los jesuitas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -49036,7 +49036,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 2010
    },
-   "resumen": "Autor de «Secretos de la Reserva Federal»; el autor lo cita y señala su pasado neonazi.",
+   "resumen": "Autor de «Secretos de la Reserva Federal». Eustace Clarence Mullins Jr. (9-3-1923 – 2-2-2010), escritor estadounidense descrito como supremacista blanco, teórico de la conspiración antisemita y negacionista del Holocausto.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -49157,7 +49157,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1972
    },
-   "resumen": "Poeta estadounidense; para el autor, testigo de la traición de los misterios antiguos.",
+   "resumen": "Ezra Pound (Hailey, Idaho, 30-10-1885 – Venecia, 1-11-1972), poeta modernista, autor de los «Cantos».",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -49950,7 +49950,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1572
    },
-   "resumen": "Bisnieto de Alejandro VI; según el autor, cofundador de los jesuitas.",
+   "resumen": "Francisco de Borja y Aragón (Gandía, 28-10-1510 – Roma, 30-9-1572), IV duque de Gandía, I marqués de Lombay, grande de España y virrey de Cataluña; bisnieto del papa Alejandro VI (Rodrigo de Borja) por parte de padre.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -50058,7 +50058,7 @@ window.CRONO = {
     "hasta": 1914,
     "fuente": "oficial"
    },
-   "resumen": "Archiduque de Austria y heredero del trono austrohúngaro, asesinado en Sarajevo en 1914; el autor lo presenta como la víctima que abrió la Primera Guerra Mundial.",
+   "resumen": "Archiduque de Austria y heredero del trono austrohúngaro, asesinado en Sarajevo en 1914. Francisco Fernando de Habsburgo-Este (Graz, 18-12-1863 – Sarajevo, 28-6-1914), archiduque de Austria y, desde 1896, heredero del trono austrohúngaro.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -50319,7 +50319,7 @@ window.CRONO = {
     "hasta": 1869,
     "fuente": "oficial"
    },
-   "resumen": "Decimocuarto presidente de los Estados Unidos (1853-1857); el autor dice que su cónsul en Londres alojó a Mazzini.",
+   "resumen": "Decimocuarto presidente de los Estados Unidos (1853-1857).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -50691,7 +50691,7 @@ window.CRONO = {
     "hasta": 1918,
     "fuente": "oficial"
    },
-   "resumen": "Nacionalista serbobosnio que asesinó al archiduque Francisco Fernando en Sarajevo; el autor lo hace miembro de la red de Mazzini.",
+   "resumen": "Nacionalista serbobosnio que asesinó al archiduque Francisco Fernando en Sarajevo. Gavrilo Princip (25-7-1894 – 28-4-1918), serbobosnio de la Joven Bosnia, organización que buscaba acabar con el dominio austrohúngaro en Bosnia y Herzegovina.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -50865,7 +50865,7 @@ window.CRONO = {
     "hasta": 1831,
     "fuente": "oficial"
    },
-   "resumen": "Filósofo alemán, mentor de Marx según el autor.",
+   "resumen": "Filósofo alemán (Stuttgart, 1770 – Berlín, 1831), figura central del idealismo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -51444,7 +51444,7 @@ window.CRONO = {
     "hasta": 1882,
     "fuente": "oficial"
    },
-   "resumen": "Militar y revolucionario italiano, héroe del Risorgimento; el autor lo presenta primero como mazziniano y después como apoyo militar de la monarquía de los Saboya.",
+   "resumen": "Militar y revolucionario italiano, héroe del Risorgimento. Se afilió a la Joven Italia en 1833 y fue iniciado en la masonería en 1844, en Montevideo, en la logia Asilo de la Virtud.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -51507,7 +51507,7 @@ window.CRONO = {
     "hasta": 1872,
     "fuente": "oficial"
    },
-   "resumen": "Revolucionario genovés, dirigente republicano del Risorgimento; el autor lo pone al frente de la unificación y en la órbita del bando angloveneciano.",
+   "resumen": "Revolucionario genovés, dirigente republicano del Risorgimento. Defendió una Italia unida y republicana y formó parte del triunvirato de la República Romana (1849).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -51903,7 +51903,7 @@ window.CRONO = {
     "hasta": 1941,
     "fuente": "oficial"
    },
-   "resumen": "Emperador alemán y último rey de Prusia; el autor lo sitúa al frente del imperio alemán en vísperas de la Gran Guerra.",
+   "resumen": "Emperador alemán y último rey de Prusia. Murió en el exilio en los Países Bajos.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -53389,7 +53389,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "24-12-1905 – 5-4-1976"
    },
-   "resumen": "Industrial y aviador; para el autor, enemigo del conglomerado del que habla y víctima de su manipulación.",
+   "resumen": "Howard Hughes (1905–1976), industrial, aviador y productor de cine. Murió el 5-4-1976 en pleno vuelo hacia Houston tras años de aislamiento, con mala salud y adicción a analgésicos.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -54225,7 +54225,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1849 – 1936"
    },
-   "resumen": "Fisiólogo ruso, Nobel de 1904, conocido por el reflejo condicionado, que el autor cita como modelo del condicionamiento clásico.",
+   "resumen": "Ivan Petrovich Pávlov (14-9-1849 – 27-2-1936) fue un fisiólogo ruso, premio Nobel de Fisiología o Medicina en 1904 por su trabajo sobre las glándulas digestivas; formuló las leyes del reflejo condicionado.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -54278,7 +54278,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1-1-1895 – 2-5-1972"
    },
-   "resumen": "Director del FBI de 1924 a 1972; para el autor, homosexual anti homosexuales que gobernó extorsionando a presidentes.",
+   "resumen": "J. Edgar Hoover (1895–1972) dirigió el Bureau of Investigation y después el FBI de 1924 a 1972. Profesionalizó la agencia (archivo central de huellas, laboratorio científico) y cuidó su imagen pública. Se documenta que mantuvo archivos reservados y espió a figuras como Martin Luther King.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -56671,7 +56671,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1974
    },
-   "resumen": "Presidente argentino; según el autor, acogió a nazis y su dinero.",
+   "resumen": "Presidente de Argentina de 1946 a 1955 y de 1973 a 1974. Tras su derrocamiento en 1955 pasó por Paraguay, Venezuela y la República Dominicana antes de instalarse en Madrid en 1960.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -56916,7 +56916,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1974
    },
-   "resumen": "Filósofo tradicionalista; para el autor, el inspirador del MSI.",
+   "resumen": "Julius Evola (Roma, 19-5-1898 – 11-6-1974), filósofo y esoterista italiano, autor de «Imperialismo pagano» (1928), «Rebelión contra el mundo moderno» (1934) y «Los hombres y las ruinas» (1953).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -57251,7 +57251,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1990
    },
-   "resumen": "Príncipe católico alemán; según el autor, de las SA y apoyo del fascismo.",
+   "resumen": "Noble católico alemán (1904–1990), jefe de la casa principesca desde 1952. En 1948 sucedió a su padre como presidente del Comité Central de los Católicos Alemanes, cuya actividad había cesado bajo el nazismo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -58085,7 +58085,7 @@ window.CRONO = {
     "hasta": 1865,
     "fuente": "oficial"
    },
-   "resumen": "Político británico, secretario de Exteriores y primer ministro; el autor lo cita como uno de los contactos de Mazzini en Londres.",
+   "resumen": "Político británico, secretario de Exteriores y primer ministro.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -58128,7 +58128,7 @@ window.CRONO = {
     "hasta": 1839,
     "fuente": "oficial"
    },
-   "resumen": "Militar y político británico, comandante en Sicilia durante la ocupación aliada; el autor le atribuye la constitución siciliana de 1812.",
+   "resumen": "Militar y político británico, comandante en Sicilia durante la ocupación aliada.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -58175,7 +58175,7 @@ window.CRONO = {
     "hasta": 1941,
     "fuente": "oficial"
    },
-   "resumen": "Jurista estadounidense y dirigente sionista; el autor lo presenta como agente de los Rothschild en 1916.",
+   "resumen": "Jurista estadounidense y dirigente sionista. Louis Brandeis (1856-1941) fue un jurista estadounidense, magistrado del Tribunal Supremo desde 1916 y destacado dirigente sionista.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -58858,7 +58858,7 @@ window.CRONO = {
     "hasta": 1976,
     "fuente": "oficial"
    },
-   "resumen": "Dirigente fundador de la República Popular China; el autor lo presenta como discípulo de Teilhard de Chardin.",
+   "resumen": "Dirigente fundador de la República Popular China. Mao Zedong (Shaoshan, 26-12-1893 – Pekín, 9-9-1976) dirigió el Partido Comunista Chino, proclamó la República Popular el 1-10-1949 y la gobernó hasta su muerte.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -59083,7 +59083,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1945
    },
-   "resumen": "Secretario de Hitler; según el autor, escapó a Argentina y gestionó el dinero nazi.",
+   "resumen": "Jefe de la Cancillería del Partido y secretario de Hitler. Murió en Berlín el 2 de mayo de 1945 al intentar huir; sus restos aparecieron en 1972 y un análisis de ADN los confirmó en 1998.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -59859,7 +59859,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 2019
    },
-   "resumen": "Satanista y oficial de operaciones psicológicas; para el autor, de familia de la nobleza negra.",
+   "resumen": "Satanista y oficial de operaciones psicológicas. No consta ningún vínculo de su familia con la nobleza italiana.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -61086,7 +61086,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1975
    },
-   "resumen": "Comando de las SS; para el autor, eje de la internacional fascista de posguerra.",
+   "resumen": "Oficial de las Waffen-SS famoso por el rescate de Mussolini (1943). Escapó en 1948 de un campo de internamiento y vivió en España desde 1950, donde murió en 1975.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -61287,7 +61287,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 1549
    },
-   "resumen": "Alessandro Farnese; para el autor, los Farnese crearon a los jesuitas.",
+   "resumen": "Alessandro Farnese, papa de 1534 a 1549. Aprobó la Compañía de Jesús en 1540 con la bula Regimini militantis Ecclesiae y convocó el concilio de Trento.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -62734,7 +62734,7 @@ window.CRONO = {
     "hasta": 1878,
     "fuente": "oficial"
    },
-   "resumen": "Papa de 1846 a 1878 y último soberano de los Estados Pontificios; el autor lo presenta como la referencia de la nobleza negra.",
+   "resumen": "Papa de 1846 a 1878 y último soberano de los Estados Pontificios.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -63519,7 +63519,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1895 – 1983"
    },
-   "resumen": "Arquitecto e inventor estadounidense que acuñó o divulgó el término «tensegridad», aplicado por el autor al cuerpo humano.",
+   "resumen": "Richard Buckminster Fuller (12-7-1895 – 1-7-1983) fue un arquitecto, inventor y teórico de sistemas estadounidense, conocido por las cúpulas geodésicas y por popularizar el término «tensegridad», que patentó en 1962.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -64040,7 +64040,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1923 – 2008"
    },
-   "resumen": "Cirujano ortopédico estadounidense, pionero de la bioelectricidad, citado por el autor como precursor de un sistema bioeléctrico paralelo al nervioso.",
+   "resumen": "Robert Otto Becker (31-5-1923 – 14-5-2008) fue un cirujano ortopédico estadounidense del hospital de veteranos de Syracuse, conocido por su investigación en bioelectricidad y regeneración y por alertar sobre las líneas de alta tensión.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -64290,7 +64290,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1898 – 1935"
    },
-   "resumen": "Ayudante de investigación de Watson en Johns Hopkins y coautora del estudio del pequeño Albert; el autor escribe su apellido «Wayner».",
+   "resumen": "Ayudante de investigación de Watson en Johns Hopkins y coautora del estudio del pequeño Albert.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -64343,7 +64343,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "20-2-1927 – 2-8-1986"
    },
-   "resumen": "Abogado de McCarthy, de la mafia y de Trump; para el autor, discípulo de Hoover en la extorsión.",
+   "resumen": "Abogado de McCarthy, de la mafia y de Trump. Roy Cohn (1927–1986) fue abogado estadounidense: fiscal en el caso Rosenberg, consejero del senador McCarthy y después abogado de Donald Trump y de clientes ligados a la mafia neoyorquina.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -64465,7 +64465,7 @@ window.CRONO = {
     "desde": 1888,
     "hasta": 1971
    },
-   "resumen": "Inventor estadounidense del microscopio de sus «partículas polimórficas» y de la Beam Ray Machine, que según el autor destruía microorganismos por resonancia.",
+   "resumen": "Inventor estadounidense del microscopio de sus «partículas polimórficas» y de la Beam Ray Machine.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -65796,7 +65796,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "25-3-1921 – 15-4-2004"
    },
-   "resumen": "Detective privado ligado, según el autor, a OSS, CIA y trampas de miel; usado por Cohn y Trump.",
+   "resumen": "Thomas Corbally (1921–2004), empresario estadounidense en Londres, conocido por su papel en el caso Profumo (1961–63). Su pasado como agente de la OSS o la CIA no consta como dato comprobado: lo revisará el contrastador.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -66463,7 +66463,7 @@ window.CRONO = {
     "hasta": 1878,
     "fuente": "oficial"
    },
-   "resumen": "Rey de Cerdeña y primer rey de Italia (1861-1878); el autor lo pone al frente del bando monárquico de la unificación.",
+   "resumen": "Rey de Cerdeña y primer rey de Italia (1861-1878).",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -66801,7 +66801,7 @@ window.CRONO = {
     "fuente": "oficial",
     "aprox": false
    },
-   "resumen": "El autor escribe Kammeyer, pero la grafía alemana es Wilhelm Kammeier: nació el 3 de octubre de 1889 en Nienstädt y murió el 3 de junio de 1959 en Arnstadt; fue maestro e historiador aficionado en Schaumburg-Lippe y la bibliografía académica lo cataloga como pseudocientífico (Horst Fuhrmann, «Der Fall Kammeier»).",
+   "resumen": "Wilhelm Kammeier (Nienstädt, 3-10-1889 – Arnstadt, 3-6-1959) fue maestro e historiador aficionado en Schaumburg-Lippe; la bibliografía académica lo cataloga como pseudocientífico.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -67152,7 +67152,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "29-4-1863 – 14-8-1951"
    },
-   "resumen": "Magnate de la prensa; para el autor, germanófilo que impulsó America First y fabricó la guerra de 1898.",
+   "resumen": "William Randolph Hearst (1863–1951), magnate de la prensa estadounidense. Se discute el alcance de sus simpatías por Alemania en los años treinta.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -69048,7 +69048,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "sin fecha",
-   "resumen": "El ciclo de Krebs es la ruta de reacciones químicas con la que las células obtienen energía del alimento; el autor dice que solo tres de sus reacciones están confirmadas y que el balance de ATP no cuadra.",
+   "resumen": "El ciclo de Krebs es la ruta de reacciones químicas con la que las células obtienen energía del alimento.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -69732,7 +69732,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "siglos V–IV a.C."
    },
-   "resumen": "Templos griegos donde los enfermos dormían esperando la cura; origen del caduceo según el autor.",
+   "resumen": "El culto a Asclepio, dios griego de la medicina, tenía santuarios (asclepieia) como Epidauro, Cos o Pérgamo, donde los enfermos dormían en el recinto (incubación) esperando un sueño con la cura.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -70901,7 +70901,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "sin fecha",
-   "resumen": "La fijación de nitrógeno convierte el nitrógeno del aire en amoniaco, que sirve de fertilizante; la hace la industria (Haber-Bosch) y también ciertas bacterias. El autor lo toma como prueba de una energía del éter.",
+   "resumen": "El nitrógeno es el 78,1 % del aire, pero como molécula (N2) es muy estable y casi inerte; fijarlo es convertirlo en amoniaco, que al oxidarse forma nitritos y nitratos, esenciales para el ácido nítrico y los fertilizantes.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -71473,7 +71473,7 @@ window.CRONO = {
    "carril": "religion",
    "temas": [],
    "fecha": null,
-   "resumen": "Dios romano de dos caras, que mira al pasado y al futuro; para el autor, clave de los ciclos del poder.",
+   "resumen": "Dios romano de dos caras, que mira al pasado y al futuro. Jano, dios romano de los comienzos, las puertas y los tránsitos, representado con dos caras que miran al pasado y al futuro.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -73377,7 +73377,7 @@ window.CRONO = {
     "margen": 5
    },
    "fecha_autor": "siglo XIX",
-   "resumen": "Relato de varios experimentadores (Vauquelin con gallinas, Lawes y Gilbert en Inglaterra, Herzeele en 1883) que, según el autor, habrían visto crecer la masa mineral de seres vivos.",
+   "resumen": "Relato de varios experimentadores (Vauquelin con gallinas, Lawes y Gilbert en Inglaterra, Herzeele en 1883). Louis-Nicolas Vauquelin analizó en 1799 la cáscara de huevo de gallinas, y el informe del Ejército de EE. UU. de 1978 recoge que Prout (1822) y Baranger (1960) hicieron observaciones parecidas; ninguna se considera prueba de transmutación.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -75135,7 +75135,7 @@ window.CRONO = {
     "desde": 1973
    },
    "fecha_autor": "hacia 1962 (prueba en Argelia)",
-   "resumen": "Kervran aplicó su idea a la geología (libro de 1973); según el autor, una prueba nuclear en Argelia y un experimento con granito a 850 °C y 50 kilobares probarían transmutaciones en el interior de la Tierra.",
+   "resumen": "Kervran aplicó su idea a la geología (libro de 1973).",
    "segun": [
     {
      "autor": "artur-sala",
