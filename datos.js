@@ -23532,7 +23532,7 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Flexner Report",
       "url": "https://en.wikipedia.org/wiki/Flexner_Report",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-26"
      },
      {
       "titulo": "Philanthropy Roundtable: Legacy of Learning (Flexner y el General Education Board)",
@@ -23548,6 +23548,16 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Era progresista",
       "url": "https://es.wikipedia.org/wiki/Era_progresista",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Abraham Flexner",
+      "url": "https://en.wikipedia.org/wiki/Abraham_Flexner",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): General Education Board",
+      "url": "https://en.wikipedia.org/wiki/General_Education_Board",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -23571,6 +23581,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "La medicina estadounidense antes del informe",
+     "nivel": "hecho",
+     "texto": "En el siglo XIX la medicina en Estados Unidos apenas estaba regulada ni sostenida por el Gobierno. Abrir una facultad era fácil: muchas eran pequeñas escuelas privadas con ánimo de lucro, propiedad de uno o varios médicos, sin vínculo con una universidad, que vivían de las matrículas, daban el título a los dos años y dejaban el laboratorio y la disección como optativos. Competían con ellas la homeopatía, la osteopatía, la medicina ecléctica, la naturopatía, la quiropráctica y la electroterapia."
+    },
+    {
+     "titulo": "El encargo",
+     "nivel": "hecho",
+     "texto": "En 1904 la Asociación Médica Estadounidense creó su Consejo de Educación Médica para reorganizar la enseñanza; el consejo quería estudiantes mejor preparados, procedentes de la clase alta instruida. En 1908, para acelerar el cierre de las escuelas que no cumplían sus normas, recurrió a la Fundación Carnegie para el Avance de la Enseñanza.\n\nEl presidente de la fundación, Henry Pritchett, partidario de la reforma, eligió a Abraham Flexner (1866-1959), que no era médico, científico ni profesor de medicina: licenciado en clásicas, había dirigido en Louisville una escuela privada y publicado en 1908 una crítica de la universidad estadounidense. Según su biografía, lo eligió por cómo escribía y por su desdén hacia la enseñanza tradicional. Visitó las 155 escuelas de medicina que funcionaban en Norteamérica. Su hermano Simon, cuyos estudios de medicina había ayudado a pagar, era investigador del Instituto Rockefeller de Investigación Médica (1901-1935)."
+    },
+    {
+     "titulo": "Lo que recomendó",
+     "nivel": "hecho",
+     "texto": "El informe (1910, Boletín n.º 4 de la fundación) es un libro que describe y juzga escuela por escuela. Tomó como modelo la facultad de Johns Hopkins, inspirada en la enseñanza alemana, y pidió reducir las escuelas de 155 a 31, exigir bachillerato y al menos dos años de universidad, estudios de cuatro años, enseñanza científica con investigación, profesorado a tiempo completo, control de la docencia en los hospitales y más financiación. Las escuelas con ánimo de lucro debían cerrar o integrarse en una universidad.\n\nEl capítulo 11 atacó a las juntas estatales que daban las licencias, que veía débiles, incompetentes o ligadas a intereses políticos."
+    },
+    {
+     "titulo": "Los cierres",
+     "nivel": "hecho",
+     "texto": "En 1904 había 160 instituciones que concedían el título de médico, con más de 28.000 estudiantes; en 1920 eran 85, con 13.800, y en 1935 quedaban 66, de las que 57 formaban parte de una universidad. Entre 1910 y 1935 más de la mitad se fusionaron o cerraron, en buena medida porque las juntas estatales fueron adoptando y aplicando las recomendaciones. En Canadá solo consideró inadecuada una y no se cerró ninguna.\n\nA las escuelas que enseñaban homeopatía, medicina ecléctica, naturopatía, electroterapia y otras se les dijo que las quitaran o perderían la acreditación y el apoyo económico; la mayoría se plegó o cerró. Parte de la osteopatía se adaptó. La calidad media de los médicos subió, y la profesión pasó a ser lucrativa y respetada; la enseñanza se centró en la enfermedad y la salud pública quedó aparte."
+    },
+    {
+     "titulo": "Estudiantes negros y mujeres",
+     "nivel": "hecho",
+     "texto": "Flexner propuso cerrar todas las escuelas médicas históricamente negras menos dos: quedaron Howard y Meharry y cerraron otras cinco. Sostuvo que el médico negro debía atender solo a pacientes negros, en un papel subordinado y centrado en la higiene más que en la cirugía, también como protección de la población blanca. El historiador Thomas N. Bonner rechaza que perjudicara a las escuelas negras y sostiene que trabajó para salvar las dos que más médicos formaban.\n\nSobre las mujeres escribió que, ya admitidas, mostraban cada vez menos interés; al informe se le critica haber contribuido a que casi desaparecieran de la profesión entre 1910 y 1970. En 2020 la asociación de facultades de medicina retiró su nombre de un premio por sus escritos racistas y sexistas."
+    },
+    {
+     "titulo": "El dinero",
+     "nivel": "hecho",
+     "texto": "El estudio lo hizo la Fundación Carnegie. John D. Rockefeller apoyó el cambio con muchos millones a universidades y hospitales. Su General Education Board existía ya antes del informe (aunque el artículo inglés sobre este la presenta como creada para esa transición): nació en 1902 con un millón de dólares suyos, ampliada con 10 millones en 1905 y 32 en 1907, y que llegó a recibir de la familia más de 180 millones, dedicados sobre todo a la enseñanza superior y las facultades de medicina y a la agricultura del sur. Flexner estuvo en esa junta de 1912 a 1925 y fue su secretario desde 1917; con dinero de la Fundación Rockefeller influyó además en la formación médica en Europa.\n\nLa junta financió también a Howard y Meharry, con preferencia por que sus titulados se quedaran en el sur rural. El mismo artículo sobre la junta da dos finales distintos: que dejó de actuar por separado en 1960 y que cerró en 1964."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el capital usó el informe para imponer en universidades y revistas la medicina que le convenía, ligada a Pasteur y al petróleo; Rockefeller y Carnegie, con la fórmula «problema, reacción, solución», enviaron a Flexner, que no era médico, y el resultado sería causa directa de la mayoría de los problemas de salud actuales.\n\nSegún Artur Sala, es un eslabón, tras el darwinismo, en la cadena que llevó a la apropiación de la industria farmacéutica después de la Segunda Guerra Mundial.\n\nSegún Rubén Avilés, Carnegie y Rockefeller lo usaron para imponer la medicina farmacológica y cerrar escuelas alternativas, aunque Rockefeller prefería la homeopatía y murió a los 97 años con su médico homeópata."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coinciden con las fuentes que Flexner no era médico, que el estudio salió de una fundación de un gran capital, que otra gran fortuna financió después la reforma y que cerraron muchas escuelas alternativas. Las fuentes añaden un actor que los autores citados no nombran en la ficha: el consejo de la propia asociación médica, que fue quien lo encargó y que quería menos escuelas.\n\nEn lo leído no aparece el interés del petróleo, el control de las revistas ni la preferencia de Rockefeller por la homeopatía. Para seguir el dinero habría que revisar a qué facultades fueron las donaciones y con qué condiciones, en los archivos de la General Education Board. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -25940,7 +25992,17 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: E. Douglas Hume",
       "url": "https://en.wikipedia.org/wiki/E._Douglas_Hume",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Montague Leverson",
+      "url": "https://en.wikipedia.org/wiki/Montague_Leverson",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Antoine Béchamp",
+      "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -25956,6 +26018,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "La autora",
+     "nivel": "hecho",
+     "texto": "Ethel Douglas Hume (Batticaloa, Ceilán, 1874 – 1950) fue una escritora británica contraria a la vivisección y defensora de los animales, vegetariana, opuesta a las vacunas y negadora de la teoría de los gérmenes: en 1933 sostenía que el cólera o la disentería demostraban mal saneamiento y no esa teoría. En 1915 ya había publicado un ensayo sobre la obra bacteriológica de Béchamp."
+    },
+    {
+     "titulo": "El libro",
+     "nivel": "hecho",
+     "texto": "«Béchamp or Pasteur? A Lost Chapter in the History of Biology» salió en 1923, tuvo muchas ediciones y reimpresiones (entre ellas la de 1932) y se reeditó en 1989 como «Pasteur Exposed». Sostiene que Pasteur plagió las teorías de Béchamp y se basa en manuscritos de Montague Leverson."
+    },
+    {
+     "titulo": "Montague Leverson",
+     "nivel": "hecho",
+     "texto": "Leverson (Londres, 1830 – 1925) fue un abogado británico que, acusado de quedarse con fondos de clientes, huyó a Francia y después a Estados Unidos. Allí fue ranchero y abogado, ejerció como médico homeópata y fue una figura destacada contra la vacunación y contra la teoría de los gérmenes. En 1912 publicó en Londres su traducción de «La sangre y su tercer elemento», de Béchamp."
+    },
+    {
+     "titulo": "La recepción",
+     "nivel": "hecho",
+     "texto": "En 1924 la revista Nature comentó que la mayor parte del trabajo de Béchamp había quedado desacreditado por inexacto y que la autora dedicaba buena parte del libro a sus ideas contra los microbios y las vacunas. William Fearon (1928) lo vio más ocupado en los defectos de Pasteur que en los méritos de Béchamp, y en 1934 reseñas de «The Quarterly Review of Biology» e «Isis» lo trataron como propaganda contra la vivisección y la vacunación. Los primeros reseñadores no sabían que era una mujer.\n\nEl historiador Gerald Geison escribió que el libro sí revela que Pasteur trató muy mal a Béchamp, pero que no le persuade de que lo plagiara en ningún sentido relevante. Los historiadores lo han criticado y lo citan los partidarios de la medicina alternativa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, la historia de Béchamp se conoce gracias a dos libros que se intentó hacer desaparecer, el de Hume, que fecha en 1926, y otro de 1941 cuyo autor no recuerda, ambos libres de derechos y descargables."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que la autora y su fuente defendieran causas propias obliga a comprobar cada afirmación del libro contra los documentos, no a darla por falsa: Geison acepta una parte y rechaza otra.\n\nLa primera edición es de 1923; la fecha de 1926 no aparece en lo leído, como tampoco ningún intento de hacer desaparecer los libros. No se ha comprobado su situación de derechos. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -33508,7 +33602,22 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Pébrine",
       "url": "https://en.wikipedia.org/wiki/P%C3%A9brine",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (fr): Pébrine",
+      "url": "https://fr.wikipedia.org/wiki/P%C3%A9brine",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Louis Pasteur",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): E. Douglas Hume",
+      "url": "https://en.wikipedia.org/wiki/E._Douglas_Hume",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -33520,6 +33629,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "La enfermedad",
+     "nivel": "hecho",
+     "texto": "La pebrina toma su nombre de las manchas oscuras, como granos de pimienta, de los gusanos enfermos, que no logran hilar el capullo. La causan parásitos microsporidios, sobre todo Nosema bombycis, nombrado en 1857 por Nägeli. Infecta los huevos: una mariposa portadora puede no mostrar señales y toda su descendencia muere en estado de larva. A mediados del siglo XIX arrasó las crías de gusano de seda.\n\nGuérin-Méneville había señalado el organismo en 1849, confundiéndolo con otra enfermedad, la muscardina. Lo estudiaron después Cornalia, Leydig, Balbiani, Béchamp y Pasteur; las partículas que se veían se llamaban corpúsculos de Cornalia."
+    },
+    {
+     "titulo": "El encargo a Pasteur",
+     "nivel": "hecho",
+     "texto": "En 1865 Jean-Baptiste Dumas, químico, senador y antiguo ministro de Agricultura y Comercio, pidió a Pasteur que estudiara la plaga. Hizo cinco estancias largas en Alès entre junio de 1865 y 1869. Empezó creyendo que la pebrina y la flacidez, otra enfermedad del gusano, eran la misma; no las distinguió hasta 1867."
+    },
+    {
+     "titulo": "¿Era un parásito?",
+     "nivel": "hecho",
+     "texto": "Pasteur comenzó negando la naturaleza parasitaria de la pebrina, que varios estudiosos, en especial Béchamp, daban por establecida; ni siquiera una nota de Balbiani de agosto de 1866 le hizo cambiar de inmediato, y no lo hizo hasta 1867. El artículo inglés sobre la pebrina atribuye a Béchamp haber sido el primero en reconocer la causa."
+    },
+    {
+     "titulo": "El remedio y su alcance",
+     "nivel": "hecho",
+     "texto": "Aun antes de entender la causa, Pasteur difundió un método de selección: triturar una muestra de crisálidas, buscar los corpúsculos al microscopio y destinar a reproducción solo las partidas con muy pocas infectadas. Se parecía a uno propuesto unos años antes por Osimo, cuyas pruebas no habían sido concluyentes. Con él frenó la pebrina y salvó buena parte de la sericultura de las Cevenas.\n\nLa flacidez siguió. En 1878 Pasteur lo admitió y lo atribuyó a que los criadores no seguían sus consejos; en 1884 Balbiani reconoció que el método práctico había remediado la pebrina, aunque el avance de la otra enfermedad lo contrarrestaba. La sericultura francesa no quedó a salvo."
+    },
+    {
+     "titulo": "Lo que se escribió sobre el mérito",
+     "nivel": "hecho",
+     "texto": "La disputa alimentó la acusación de plagio contra Pasteur. El historiador Gerald Geison, crítico con Pasteur en otros asuntos, escribió que el libro de Ethel Douglas Hume sí muestra que Pasteur trató muy mal a Béchamp, pero que no le convence de que lo plagiara en ningún sentido relevante."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Béchamp descubrió que la enfermedad venía de un desarrollo anómalo de las microzimas y propuso combatirla con creosota; los pocos sederos que le hicieron caso siguieron produciendo, y Pasteur, que no había visto nunca un gusano de seda, se llevó el mérito."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay una tensión que conviene mirar: lo que las fuentes reconocen a Béchamp es haber visto antes que la causa era un parásito; la explicación que Sala le atribuye es un desarrollo anómalo de las propias microzimas. Son causas distintas, una que llega de fuera y otra que nace dentro.\n\nPara resolverlo habría que leer las comunicaciones de Béchamp de 1865 a 1867 y ver qué escribió en cada fecha. Los artículos leídos hoy no hablan de la creosota. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -40301,7 +40447,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la teoría celular se formuló por primera vez a mediados del siglo XIX y dice que los organismos vivos están formados por células, unidad estructural básica de todos ellos, y que todas las células proceden de células preexistentes. Sus tres principios: todos los organismos se componen de una o más células; la célula es la unidad básica de estructura y organización; y las células surgen de células preexistentes. Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen. Contexto: según Wikipedia, a comienzos del siglo XVII Marcello Malpighi investigó la organización de las plantas y describió pequeñas estructuras que luego se llamaron «cellulae», por la propuesta de Hooke. Se discutió si la célula era un ser real o una cavidad; después se estableció que lo observado era la pared celular y que la célula era completa y compleja. Época y lugar: los Estados alemanes de la Confederación Germánica (1815-1866), bajo la presidencia de Austria, donde trabajaron Schleiden, Schwann y Virchow.",
+    "resumen": "Qué es: la teoría celular se formuló por primera vez a mediados del siglo XIX y dice que los organismos vivos están formados por células, unidad estructural básica de todos ellos, y que todas las células proceden de células preexistentes. Sus tres principios: todos los organismos se componen de una o más células; la célula es la unidad básica de estructura y organización; y las células surgen de células preexistentes. Schleiden (plantas, 1838) y Schwann (animales, 1839) propusieron que todos los seres vivos están hechos de células. En 1855 Virchow difundió que toda célula procede de otra («omnis cellula e cellula»), idea que Remak había publicado en 1852. Es la base de la biología moderna. Las metástasis, que el autor dice que no se han demostrado, están documentadas: según el Instituto Nacional del Cáncer de EE. UU., células de un tumor invaden los tejidos cercanos, viajan por la sangre o la linfa y forman tumores nuevos que conservan los rasgos del tumor de origen. Contexto: según Wikipedia, Robert Hooke llamó «células» (en latín, «cellulae») en 1665 a las celdillas que vio en el corcho, y Marcello Malpighi (1628-1694) publicó en 1675 y 1679 su «Anatome plantarum», sobre la estructura de las plantas. Se discutió si la célula era un ser real o una cavidad; después se estableció que lo observado era la pared celular y que la célula era completa y compleja. Época y lugar: los Estados alemanes de la Confederación Germánica (1815-1866), bajo la presidencia de Austria, donde trabajaron Schleiden, Schwann y Virchow.",
     "fuentes": [
      {
       "titulo": "Spektrum, Lexikon der Biologie: Zelltheorie",
@@ -40331,6 +40477,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Cell theory",
       "url": "https://en.wikipedia.org/wiki/Cell_theory",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Marcello Malpighi",
+      "url": "https://es.wikipedia.org/wiki/Marcello_Malpighi",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Marcello Malpighi",
+      "url": "https://en.wikipedia.org/wiki/Marcello_Malpighi",
       "consultado": "2026-11-26"
      }
     ]
@@ -43385,6 +43541,26 @@ window.CRONO = {
       "titulo": "Wikipedia: Variolation",
       "url": "https://Www.wikipedia.org/wiki/Variolation",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Variolation",
+      "url": "https://en.wikipedia.org/wiki/Variolation",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Lady Mary Wortley Montagu",
+      "url": "https://en.wikipedia.org/wiki/Lady_Mary_Wortley_Montagu",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Variolización",
+      "url": "https://es.wikipedia.org/wiki/Variolizaci%C3%B3n",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Edward Jenner",
+      "url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -43400,6 +43576,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "En qué consistía",
+     "nivel": "hecho",
+     "texto": "La variolización ponía en rasguños de la piel costras molidas o líquido de las pústulas de un enfermo de viruela, buscando una forma leve que dejara inmunidad. Moría entre el 1 y el 2 % de los inoculados, frente a cerca del 30 % de quienes cogían la viruela de forma natural, y el paciente se recuperaba en dos a cuatro semanas. Podía contagiar a otros."
+    },
+    {
+     "titulo": "Un método mucho más antiguo",
+     "nivel": "hecho",
+     "texto": "Su uso más antiguo documentado es chino: desde el siglo XVI, y según algunas fuentes desde el XI, se soplaba polvo de costras por la nariz; el emperador Kangxi lo hizo aplicar a sus hijos y a sus tropas. Se practicaba también en África y Oriente Próximo; en Gales consta desde hacia 1600. Los relatos que la sitúan en la India en tiempos antiguos están discutidos."
+    },
+    {
+     "titulo": "Las primeras noticias en Londres",
+     "nivel": "hecho",
+     "texto": "En 1700 la Royal Society recibió dos informes sobre la práctica china y no hizo nada. El médico Emmanuel Timoni, que la había visto en Constantinopla, envió una descripción detallada que se publicó en las «Philosophical Transactions» en 1714; también la dio a conocer otro médico, Pylarino. En Boston, el pastor Cotton Mather la conoció por Onésimo, un africano."
+    },
+    {
+     "titulo": "Lady Montagu",
+     "nivel": "hecho",
+     "texto": "Mary Wortley Montagu (nacida en 1689), esposa del embajador británico ante el Imperio otomano, había perdido un hermano por la viruela en 1713 y quedó marcada por ella en 1715. En abril de 1717 describió en una carta la inoculación que practicaban mujeres mayores, y en marzo de 1718 hizo inocular allí a su hijo, de casi cinco años, con ayuda del cirujano de la embajada, Charles Maitland.\n\nYa en Londres, en la epidemia de 1721, Maitland inoculó a su hija. En agosto se ofreció la prueba a presos de Newgate condenados a muerte a cambio de la libertad; todos sobrevivieron (un artículo cuenta seis y otro siete). En 1722 se inoculó a dos hijas de la princesa de Gales, Carolina, y Montagu publicó con seudónimo un artículo en su defensa. Encontró fuerte resistencia médica por tratarse de un remedio popular."
+    },
+    {
+     "titulo": "Riesgos y negocio",
+     "nivel": "hecho",
+     "texto": "Hubo muertes y complicaciones; en 1783 murió por ella el príncipe Octavio, hijo de Jorge III. Los médicos tendieron a reservarse una técnica sencilla, añadiendo sangrías y cortes profundos. La familia Sutton, desde Suffolk, ideó hacia 1762 un método más suave que mantuvo en secreto y explotó con una red de casas de inoculación y franquicias a cambio de parte de los beneficios; en 1770 decían haber tratado a más de 300.000 personas. Daniel Sutton publicó el secreto en 1796.\n\nLa vacuna de Jenner la fue sustituyendo, y en 1840 el Gobierno británico la prohibió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en 1714 el Gobierno británico creó la «falsa noticia» de la variolación turca, Lady Montagu la promovió en 1718 y murieron muchos inoculados, con 25.000 muertes más en Londres."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En 1714 hay un hecho documentado: la Royal Society publicó el relato de Timoni. Las fuentes no lo presentan como una invención del Gobierno y recogen la práctica en lugares y siglos anteriores. Que hubo muertes sí consta; la cifra de 25.000 no aparece en lo leído.\n\nPara comprobarla habría que ir a los registros de mortalidad de Londres de esos años. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
