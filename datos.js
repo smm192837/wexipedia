@@ -891,9 +891,46 @@ window.CRONO = {
       "titulo": "Wikipedia: Alois Hitler",
       "url": "https://es.wikipedia.org/wiki/Alois_Hitler",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia: Maria Schicklgruber",
+      "url": "https://es.wikipedia.org/wiki/Maria_Schicklgruber",
+      "consultado": "2026-11-25"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Alois Hitler (nacido Alois Schicklgruber; Zwettl, Imperio austriaco, 6 de junio de 1837 - Leonding, Imperio austrohúngaro, 3 de enero de 1903) fue un funcionario de aduanas austríaco, padre de Adolf Hitler. Nacido hijo de una campesina soltera de 42 años, Maria Anna Schicklgruber, cuyo familia había vivido en la zona por generaciones. Después de bautizado en Döllersheim, el espacio para el nombre del padre en el certificado de bautismo se dejó en blanco y el sacerdote escribió «Ilegítimo»."
+    },
+    {
+     "titulo": "Carrera",
+     "nivel": "hecho",
+     "texto": "En 1855, a los 18 años, Alois se unió a los guardias fronterizos del Ministerio de Hacienda austríaco en la administración pública. Cinco años después alcanzó el rango de Finanzwach Oberaufseher (Suboficial). En 1864, tras entrenamiento especial y algunos exámenes, había avanzado notablemente y estaba sirviendo en Linz. Más tarde se convirtió en inspector de aduanas en Braunau am Inn en 1875. Aun así no podía ascender más en su carrera funcionarial ya que carecía de los grados escolares y académicos exigidos."
+    },
+    {
+     "titulo": "Cambio de apellido",
+     "nivel": "hecho",
+     "texto": "Como joven funcionario de aduanas, utilizó su apellido de nacimiento Schicklgruber, pero a mediados de 1876, a los 39 años y bien establecido en su carrera, pidió permiso para usar el de su padrastro. Se presentó ante un párroco en Döllersheim y afirmó que su padre era Johann Georg Hiedler, quien se había casado con su madre y ahora quería legitimar su apellido paterno. Tres familiares aparecieron con él en calidad de testigos, uno de ellos fue Johann Nepomuk Hüttler, el hijo legal. El sacerdote accedió a modificar los registros, las autoridades civiles procesaron automáticamente la decisión de la Iglesia, y Alois Schicklgruber tenía un nuevo apellido: «Alois Hitler»."
+    },
+    {
+     "titulo": "Padre biológico",
+     "nivel": "tesis",
+     "texto": "Los historiadores han analizado a tres candidatos como el padre biológico de Alois: Johann Georg Hiedler, Johann Nepomuk Hüttler y Leopold Frankenberger. En este último caso, Hitler descendería de una supuesta familia judía. La mayoría de los historiadores, sin embargo, están convencidos de que el padre de Alois fue Johann Georg Hiedler, quien era su padrastro y después de su muerte cedió legalmente su apellido."
+    },
+    {
+     "titulo": "Matrimonios e hijos",
+     "nivel": "hecho",
+     "texto": "El 7 de enero de 1885 contrajo matrimonio con su sobrina o sobrina segunda (dependiendo de a quién se considere su padre legítimo) Klara Pölzl, con quien tuvo seis hijos, de los cuales solo dos de ellos llegaron a la edad adulta: Adolf y Paula Hitler. Hijos de Alois: Alois Hitler Jr. (1882-1956), Angela Hitler (1883-1949), Gustav Hitler (1885-87), Ida Hitler (1886-88), Otto Hitler (1887-87), Adolf Hitler (1889-1945), Edmund Hitler (1894-1900) y Paula Hitler (1896-1960)."
+    },
+    {
+     "titulo": "Retiro y muerte",
+     "nivel": "hecho",
+     "texto": "En febrero de 1895, Alois compró una parcela de 3,6 hectáreas en Hafeld, cerca de Lambach, aproximadamente a 30 millas (48 km) al suroeste de Linz. Se mudó con su familia a la granja y se retiró el 25 de junio de ese mismo año, a los 58 años, tras 40 años en el servicio de aduanas. Encontró difícil la agricultura, perdió dinero y se redujo el valor de la propiedad. En la mañana del 3 de enero de 1903, Alois se dirigió a la Gasthaus Wiesinger como usualmente lo hacía para beber su copa matutina de vino. Allí sufrió un colapso, fue llevado a la habitación adyacente y allí falleció probablemente de un derrame pleural, a los 65 años."
+    }
+   ],
    "conexiones": [
     {
      "id": "adolf-hitler",
