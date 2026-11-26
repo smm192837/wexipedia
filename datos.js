@@ -40024,6 +40024,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Wilhelm Reich",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Matei Iagher, reseña de «Wilhelm Reich, Biologist» (History of the Human Sciences, 2017)",
+      "url": "https://www.histhum.com/2017/01/",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "New Books Network: James E. Strick, «Wilhelm Reich, Biologist»",
+      "url": "https://newbooksnetwork.com/james-e-strick-wilhelm-reich-biologist-harvard-up-2015",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Schweitzer: «Sparks of Life», datos y descripción de la edición",
+      "url": "https://www.schweitzer-online.de/en/buch/Strick/Sparks-Life/9780674009998/A2997143/",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -40047,6 +40062,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El autor y el libro",
+     "nivel": "hecho",
+     "texto": "James E. Strick es historiador de la ciencia en el Franklin & Marshall College. «Wilhelm Reich, Biologist» lo publicó Harvard University Press en 2015; tiene 467 páginas y siete capítulos, centrados en el trabajo de laboratorio de Reich en Oslo entre 1934 y 1939. Según la Wikipedia, Strick presidió después el Wilhelm Reich Trust."
+    },
+    {
+     "titulo": "Por qué no se había hecho antes",
+     "nivel": "hecho",
+     "texto": "El principal biógrafo de Reich, Myron Sharaf, advirtió en 1983 que no tenía competencia para juzgar su obra científica y que lo publicado no era fiable. El archivo de Reich no se abrió hasta 2007. Strick trabajó con los cuadernos de laboratorio, la correspondencia, los papeles y las imágenes para reconstruir sus métodos."
+    },
+    {
+     "titulo": "Qué sostiene Strick",
+     "nivel": "tesis",
+     "texto": "Según la reseña de Matei Iagher, Strick busca rehabilitar a Reich: su trabajo sobre el origen de la vida estaba arraigado en investigación seria y puntera, y las reacciones que provocó deben entenderse como las que recibe una ciencia revolucionaria, en el sentido de Kuhn. Reconstruye cómo Reich llegó a los biones observando musgo en remojo y cómo preparaba distintas variedades.\n\nSostiene que las dos críticas principales, contaminación por bacterias del aire y confusión con el movimiento browniano, erraban el blanco: Reich esterilizaba más de lo habitual entonces (en un caso llevó hollín a la incandescencia antes de echarlo al cultivo) y usaba un microscopio puntero del que otros carecían, lo que explicaría que no vieran los mismos movimientos. El filósofo francés Roger du Teil hizo controles y buscó apoyos en Francia, pero Reich no consiguió que la comunidad académica validara su trabajo. La reseña anota un dato curioso: los biones se formaban antes cuando los preparados se hervían."
+    },
+    {
+     "titulo": "El contexto y el dinero, según Strick",
+     "nivel": "tesis",
+     "texto": "Para Strick, el ambiente académico de Oslo no toleró a un judío materialista dialéctico, sin título en biología y con ideas radicales sobre la sexualidad, el origen de la vida y el cáncer. Y sus detractores noruegos tenían un interés propio: competían por la misma financiación de la Fundación Rockefeller, el único gran financiador disponible en la Depresión (página 227 del libro, según la reseña)."
+    },
+    {
+     "titulo": "Cómo se ha recibido",
+     "nivel": "tesis",
+     "texto": "Iagher lo considera un estudio equilibrado y muy documentado, que probablemente sea la referencia sobre ese periodo, y a la vez señala que apenas trata la vertiente psicológica y que se detiene en 1939. Añade que decidir qué era lo que Reich veía no le corresponde al historiador, y que sus experimentos quedan tan lejos de la biología posterior que cuesta juzgarlos hoy. La presentación de New Books Network lo describe como ameno y claro y destaca que cierra con trabajo experimental reciente."
+    },
+    {
+     "titulo": "El libro anterior: «Sparks of Life»",
+     "nivel": "hecho",
+     "texto": "Strick había publicado en Harvard University Press «Sparks of Life. Darwinism and the Victorian Debates over Spontaneous Generation», sobre la disputa inglesa por la generación espontánea entre 1860 y 1880, con figuras como Henry Charlton Bastian y John Tyndall. La edición en tapa blanda es del 15 de octubre de 2002; las referencias de reseñas académicas, vistas solo en un buscador, fechan la de tapa dura en 2000. Según la editorial, el libro vincula aquel debate con las peleas entre los propios darwinistas y muestra que hasta el término «biogénesis» se disputaba."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, que descubrió tarde el libro de 2015, Strick revela la importancia de Roger du Teil para descartar la contaminación por bacterias del aire. Sobre el anterior, que fecha en 2002, dice que trata a Pouchet y Béchamp frente a Pasteur y la tindalización, que denuncia trampas en los experimentos de los matraces de cuello de cisne y una historia que falseó datos para enterrar la teoría humoral."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El 2002 que da Sala coincide con la edición en tapa blanda, así que parece una cuestión de edición y no un error. Lo que Sala dice sobre trampas y datos falseados no aparece en la descripción de la editorial y no se ha comprobado.\n\nEl dato de la financiación Rockefeller merece seguirse: habría que leer la página citada y, si es posible, los archivos de la fundación. Al pesar la tesis conviene saber que Strick presidió el fideicomiso que custodia el legado de Reich; eso no la invalida. Las reseñas leídas son favorables; no se ha leído ninguna crítica ni los libros. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -68855,6 +68912,16 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Wilhelm Reich Trial, 1956",
       "url": "https://www.encyclopedia.com/law/law-magazines/wilhelm-reich-trial-1956",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm Reich",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "JSTOR Daily: Wilhelm Reich, twice burned",
+      "url": "https://daily.jstor.org/wilhelm-reich-twice-burned",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -68890,6 +68957,63 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Infancia y guerra",
+     "nivel": "hecho",
+     "texto": "Wilhelm Reich nació el 24 de marzo de 1897 en Dobzau (Galicia, entonces Austria-Hungría), en una familia judía que poco después se mudó a un pueblo de Bucovina, donde su padre llevaba una explotación ganadera. Tuvo una hermana que murió de niña y un hermano menor, Robert. Estudió en casa hasta los doce años. Contó a su padre la relación de su madre con el preceptor; tras un largo periodo de malos tratos, ella se suicidó el 1 de octubre de 1910, y Reich se culpó.\n\nSu padre murió de tuberculosis en 1914 y el hijo llevó la explotación mientras terminaba el bachillerato. La invasión rusa de 1915 obligó a los hermanos a huir y lo perdieron todo. Sirvió en el ejército austrohúngaro de 1915 a 1918, los dos últimos años como teniente en el frente italiano. Robert murió de tuberculosis en 1926."
+    },
+    {
+     "titulo": "Viena: medicina y Freud",
+     "nivel": "hecho",
+     "texto": "Acabada la guerra llegó a Viena sin recursos. Se matriculó en derecho, pasó a medicina tras un semestre y en 1919 conoció a Freud, al interesarse por la sexología. Empezó a tratar pacientes siendo estudiante y en 1920 ingresó en la Sociedad Psicoanalítica de Viena. Se doctoró en 1922 y estudió neuropsiquiatría en la clínica de Julius Wagner-Jauregg.\n\nDe 1922 a 1930 trabajó en el ambulatorio psicoanalítico gratuito de Viena, del que fue subdirector desde 1924; dirigió además el seminario de técnica terapéutica, al que asistió desde 1927 Fritz Perls. De allí salió su teoría de la «coraza caracterial», recogida en «Análisis del carácter» (1933). En 1922 se casó con Annie Pink, también psicoanalista, con quien tuvo dos hijas."
+    },
+    {
+     "titulo": "Política y ruptura (1927-1934)",
+     "nivel": "hecho",
+     "texto": "La represión de julio de 1927 en Viena lo radicalizó: militó en partidos comunistas, abrió consultas sexuales gratuitas, viajó a la URSS y, desde Berlín en 1930, intentó unir marxismo y psicoanálisis. En 1933 publicó «La psicología de masas del fascismo», salió de Alemania, rompió con los comunistas y sus libros ardieron en las quemas nazis. En 1934 quedó fuera de la Asociación Psicoanalítica Internacional. El detalle está en las fichas de la ruptura y de la quema de libros."
+    },
+    {
+     "titulo": "Noruega (1934-1939)",
+     "nivel": "hecho",
+     "texto": "En Oslo investigó las cargas eléctricas de la piel y después los «biones», las vesículas que consideraba intermedias entre lo vivo y lo no vivo. En 1938 sufrió una campaña de prensa y las objeciones de científicos noruegos por contaminación de sus preparados. En agosto de 1939 partió a Estados Unidos. El detalle está en la ficha de los biones."
+    },
+    {
+     "titulo": "Estados Unidos (1939-1947)",
+     "nivel": "hecho",
+     "texto": "Theodore Wolfe, profesor de psiquiatría de Columbia, le consiguió una invitación de la New School de Nueva York y avaló con otro discípulo su visado. Reich dio clase allí hasta 1941, empezó a construir acumuladores de orgón en 1940 y creó el instituto y la editorial dedicados a sus ideas.\n\nEl 12 de diciembre de 1941 el FBI lo detuvo y lo retuvo en Ellis Island hasta el 5 de enero; la agencia reconoció en 1943 el error y cerró el expediente, al parecer por confusión con otro William Reich. En 1942 compró en Maine la finca de Orgonon. En 1944 nació su hijo Peter, de su relación con Ilse Ollendorf, con quien se casó en 1946, año en que obtuvo la nacionalidad estadounidense."
+    },
+    {
+     "titulo": "Denuncias sobre el centro infantil",
+     "nivel": "tesis",
+     "texto": "En 1950 fundó un centro de investigación sobre la infancia para prevenir la «coraza» desde el nacimiento. Según el biógrafo Christopher Turner, varias personas atendidas de niñas contaron después abusos sexuales por parte de terapeutas, no de Reich, y otras el daño físico que causaban las presiones sobre el cuerpo. En 1952 hubo una queja ante la sociedad médica de Nueva York; el caso se abandonó cuando Reich aceptó cerrar el centro."
+    },
+    {
+     "titulo": "Proceso, prisión y muerte",
+     "nivel": "hecho",
+     "texto": "Tras artículos críticos en 1947 la FDA investigó los acumuladores; en 1954 un juez prohibió su envío entre estados y en 1956, condenado por desacato, recibió dos años de cárcel y se destruyeron sus publicaciones. Entró en prisión en marzo de 1957. Un psiquiatra de la cárcel de Danbury anotó paranoia con delirios de grandeza y persecución; el nuevo examen en Lewisburg lo consideró mentalmente competente, aunque podría descompensarse bajo presión. Murió allí el 3 de noviembre de 1957, de un fallo cardíaco, días antes de poder salir en libertad condicional."
+    },
+    {
+     "titulo": "Qué se ha dicho de su salud mental",
+     "nivel": "tesis",
+     "texto": "Paul Federn, que lo analizó en 1922, dijo después haber visto una esquizofrenia incipiente y lo llamó psicópata; Sándor Rado, otro de sus analistas, lo declaró esquizofrénico en 1931. Su hija Lore, psiquiatra, aventuró un trastorno bipolar. Su biógrafo Myron Sharaf sostiene que los psicoanalistas tendían a declarar enfermo a quien se apartaba, y que cada grupo fechaba la locura de Reich según la parte de su obra que le disgustaba."
+    },
+    {
+     "titulo": "Herencia",
+     "nivel": "hecho",
+     "texto": "Su trabajo sobre el carácter influyó en la psicología del yo y está en el origen de la psicoterapia corporal, de la terapia Gestalt de Perls, de la bioenergética de su discípulo Alexander Lowen y de la terapia primal. Acuñó la expresión «revolución sexual» y los estudiantes de 1968 lo recuperaron. La editorial Farrar, Straus and Giroux reimprimió sus obras desde 1960; sus seguidores fundaron una revista (1967) y un colegio de orgonomía (1968), y Orgonon alberga su museo. Su archivo en Harvard se abrió en 2007. La teoría del orgón se considera pseudociencia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Reich es «el genio de los genios» y el científico proscrito más importante de la historia; sitúa su nacimiento en Bucovina, su llegada a Viena hacia 1921, la de Noruega en 1935 y la de Estados Unidos en 1940, donde la editorial le habría dado ingresos para volver a la investigación básica; afirma que su obra la quemaron comunistas, nazis y Estados Unidos.\n\nSegún Sergio Trallero, Reich metió en un «cajón de sastre» fuerzas formativas y movimiento, y el éter tradicional es otra cosa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Frente a las fuentes leídas, hay diferencias de fecha en lo que cuenta Sala: Viena hacia 1918-1919 y no 1921, Oslo en 1934 y no 1935, Estados Unidos en agosto de 1939 y no 1940. Sobre el lugar de nacimiento, Dobzau está en Galicia y la familia pasó pronto a Bucovina. La muerte de su hermano Robert sí aparece, en la Wikipedia alemana.\n\nBuena parte de lo que se cuenta de su vida descansa en Sharaf, que fue alumno y paciente suyo y cuya mujer lo dejó por Reich en 1954; conviene contrastarlo con documentos del archivo de Harvard. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
