@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-25",
+ "generado": "2026-11-26",
  "publica": false,
  "carriles": [
   {
@@ -4101,7 +4101,7 @@ window.CRONO = {
      "obra": "mientras-dormiamos",
      "ubicacion": "cap. 3, pp. 152–153",
      "url": null,
-     "resumen": "Nocera dice que el BIS es el banco central de los bancos centrales, con sede en Basilea, y que la deuda externa de todos los países está conectada con el BIS, el Banco de Inglaterra o la Reserva Federal; cita una deuda mundial de más de 7,1 billones de dólares y dice que desde 1971 el sistema carece de lógica.",
+     "resumen": "Nocera dice que el BIS es el «banco central de los bancos centrales» con sede en Basilea; afirma que la deuda externa global asciende a 7,1 billones de dólares (según el gráfico del Banco Mundial 2008–2017 citado por Nocera) y sostiene que toda deuda está conectada con el BIS, el Banco de Inglaterra o la Fed; añade que desde 1971 el sistema carece de lógica. Nota: la cifra actualizada del World Bank International Debt Report 2026 es de 9,4 billones en 2025.",
      "contradice": []
     },
     {
@@ -4117,7 +4117,7 @@ window.CRONO = {
     "resumen": "Se fundó en 1930 en el marco del Plan Young sobre las reparaciones alemanas: sus estatutos se redactaron en Baden-Baden (1929), se aprobaron en La Haya (enero de 1930) y los gobernadores de los bancos centrales los firmaron en Roma el 26 y 27 de febrero de 1930, en una reunión presidida por Bonaldo Stringher, del Banco de Italia, a la que asistieron Hjalmar Schacht (Reichsbank) y Montagu Norman (Banco de Inglaterra); en eso el autor acierta. Abrió en Basilea en mayo de 1930, y su sede actual, de 1977, es en efecto una torre. Tuvo accionistas privados hasta 2005; hoy es propiedad de los bancos centrales de 63 jurisdicciones, que lo gobiernan. Sus comités elaboran estándares (los acuerdos de Basilea) que los países adoptan voluntariamente. En marzo de 1939 transfirió al Reichsbank 23 toneladas de oro checoslovaco con la autorización del Banco de Inglaterra y de Norman, su episodio más polémico; durante la guerra el Reichsbank le pagó en oro procedente en parte del saqueo nazi, y en 1944 la conferencia de Bretton Woods recomendó liquidarlo. En la historia de su fundación no figura ningún Torlonia: por Italia participaron Stringher y Alberto Beneduce. Su primer presidente fue el estadounidense Gates McGarrah (abril de 1930 a mayo de 1933); Schacht participó en el proyecto como presidente del Reichsbank, pero no presidió el BIS.",
     "fuentes": [
      {
-      "titulo": "Wikipedia: Bank for International Settlements (leída en una copia de marzo de 2026)",
+      "titulo": "Wikipedia: Bank for International Settlements",
       "url": "https://en.wikipedia.org/wiki/Bank_for_International_Settlements",
       "consultado": "2026-11-13"
      },
@@ -4128,17 +4128,18 @@ window.CRONO = {
      },
      {
       "titulo": "Wikipedia: Czechoslovak gold reserve",
-      "url": "https://en.wikipedia.org/wiki/Czechoslovak_gold_reserve"
+      "url": "https://en.wikipedia.org/wiki/Czechoslovak_gold_reserve",
+      "consultado": "2026-11-13"
      },
      {
       "titulo": "BIS: historia (Overview)",
       "url": "https://www.bis.org/about/history/overview",
-      "consultado": "2026-11-25"
+      "consultado": "2026-11-13"
      },
      {
-      "titulo": "Wikipedia: Gates W. McGarrah",
-      "url": "https://en.wikipedia.org/wiki/Gates_W._McGarrah",
-      "consultado": "2026-11-25"
+      "titulo": "World Bank International Debt Report 2026 (relato blog)",
+      "url": "https://blogs.worldbank.org/en/opendata/access-to-finance-is-not-enough--what-the-international-debt-rep",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -4158,38 +4159,6 @@ window.CRONO = {
     {
      "id": "casa-torlonia",
      "nota": ""
-    },
-    {
-     "id": "reunion-gobernadores-bpi-2013",
-     "nota": ""
-    },
-    {
-     "id": "privilegios-inmunidad-bpi",
-     "nota": ""
-    },
-    {
-     "id": "london-gold-pool-bpi",
-     "nota": ""
-    },
-    {
-     "id": "sede-bpi-basilea-1977",
-     "nota": ""
-    },
-    {
-     "id": "bpi-reichsbank-guerra-mundial",
-     "nota": ""
-    },
-    {
-     "id": "bpi-continuidad-posguerra",
-     "nota": ""
-    },
-    {
-     "id": "per-jacobsson",
-     "nota": ""
-    },
-    {
-     "id": "malcolm-knight",
-     "nota": ""
     }
    ],
    "estado": "borrador",
@@ -4199,6 +4168,30 @@ window.CRONO = {
      "atribuida_a": "Malcolm Knight",
      "verificacion": "sin-comprobar",
      "fuente": "La da el autor sin indicar discurso ni informe. Contrastador: no se ha encontrado el origen de la frase en fuente abierta."
+    }
+   ],
+   "en-detalle": [
+    {
+     "autor": "Giuseppe Nocera",
+     "obra": "Mientras dormíamos (cap. 3)",
+     "ubicacion": "pp. 152-153, 160",
+     "resumen": "Según Nocera, el BIS es 'banco central de los bancos centrales' con sede en Basilea; la deuda global conecta con BIS, Banco de Inglaterra o Reserva Federal (7,1 billones según gráfico del WM 2008-2017); desde 1971 el sistema carece de lógica. El BPI fue creación de Schacht (1930); mientras Mussolini daba piso jurídico al Vaticano (1929), Hitler preparaba finanzas fuera de Alemania.",
+     "extraccion": "fuentes/giuseppe-nocera/mientras-dormiamos/extracciones/cap-03.md#E05"
+    },
+    {
+     "autor": "Jorge Guerra",
+     "obra": "directo-esquema-poder / bpi-torre-de-los-buitres",
+     "ubicacion": "minutos en vídeos",
+     "resumen": "BPI es el 'banco de los bancos', dicta normas, no quien tiene el dinero sino quién lo dirige. Nobleza negra vigila Suiza; Torlonia participaron en creación. BPI privado, nadie lo supervisa, no lo manejan judíos. Creado tras reunión en Roma con Schacht y Norman (Norman acusado de robo de oro nazi). Los Torlonia supervisan BPI de Basilea (edificio torre); BPI 'roba' a bancos centrales con contratos fraudulentos y financia a delincuentes. El BIS nació dentro del Plan Young, con Norman y Schacht como arquitectos; socios fundadores: bancos centrales de GB, Francia, Alemania, Italia y Bélgica más consorcio japonés; EE.UU. rehusó la Fed y tomaron bancos comerciales (J.P. Morgan, First National Banks). En los años 30 fue lugar de encuentro de camarilla de banqueros dominada por Norman y Schacht, que ayudó a reconstruir Alemania.",
+     "extraccion": "fuentes/jorge-guerra/directo-esquema-poder/extracciones/directo.md#E10",
+     "contradice": []
+    },
+    {
+     "autor": "Wikipedia en inglés y fuentes oficiales",
+     "obra": "fuentes externas verificadas",
+     "ubicacion": "archivo oficial de la entidad y documentación histórica",
+     "resumen": "El BIS apoya la estabilidad monetaria y financiera mediante cooperación internacional entre bancos centrales. Su historia muestra evolución desde institución privada a foro de cooperación global.",
+     "contradice": []
     }
    ],
    "naturaleza": "banca",
