@@ -12503,6 +12503,16 @@ window.CRONO = {
       "titulo": "Geison, The Private Science of Louis Pasteur (1995), índice",
       "url": "https://www.fulcrum.org/concern/monographs/bv73c1964",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Louis Pasteur",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Gerald L. Geison",
+      "url": "https://en.wikipedia.org/wiki/Gerald_L._Geison",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -12518,6 +12528,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Un secreto de casi un siglo",
+     "nivel": "hecho",
+     "texto": "En 1878 Pasteur pidió a su familia que no enseñara nunca sus cuadernos de laboratorio, y según la fuente no permitía a otros en su laboratorio llevar los suyos. La familia cumplió y heredó los papeles en secreto. En 1964 su nieto y último descendiente varón, Louis Pasteur Vallery-Radot, los donó a la Biblioteca Nacional de Francia, con restricciones para los historiadores hasta su muerte en 1971; los documentos no tuvieron signatura hasta 1985."
+    },
+    {
+     "titulo": "Geison, 1995",
+     "nivel": "hecho",
+     "texto": "Gerald L. Geison (1943-2001), historiador estadounidense de la biología del siglo XIX, publicó en el centenario de la muerte de Pasteur «La ciencia privada de Louis Pasteur», que compara los cuadernos con lo publicado. Concluyó que Pasteur había dado relatos engañosos en algunos de sus descubrimientos más importantes. Su propósito declarado no era rebajar su grandeza, sino presentar un Pasteur para nuestro tiempo."
+    },
+    {
+     "titulo": "El carbunco y Pouilly-le-Fort",
+     "nivel": "hecho",
+     "texto": "En julio de 1880 se presentó en la Academia de Ciencias una vacuna contra el carbunco del veterinario Henry Toussaint, que mataba el bacilo con calor y después con fenol. Pasteur objetó que una vacuna así no podía funcionar. En su laboratorio, Émile Roux y Charles Chamberland dudaban de la fiabilidad de la vacuna atenuada, y Chamberland preparó en secreto otra, inactivada con productos químicos.\n\nEn el ensayo público de Pouilly-le-Fort, en mayo y junio de 1881, con 58 ovejas, 2 cabras y 10 vacas, la mitad vacunadas, las ovejas y cabras vacunadas sobrevivieron y las no vacunadas habían muerto o morían el 2 de junio ante más de 200 espectadores. Pasteur presentó el preparado como vacuna viva; los cuadernos muestran que se usó una inactivada con dicromato potásico, parecida al método de Toussaint. El mismo artículo de la fuente describe la vacuna de Toussaint en un lugar como bacilos muertos y en otro como atenuada."
+    },
+    {
+     "titulo": "La rabia",
+     "nivel": "hecho",
+     "texto": "El 6 de julio de 1885 se trató a Joseph Meister, de nueve años, mordido por un perro rabioso, con 13 inoculaciones en 11 días. Pasteur no era médico: las inyecciones las puso Jacques-Joseph Grancher; Roux, que sí lo era, se negó a participar en el ensayo. Meister estaba bien tres meses después.\n\nPasteur escribió que antes había probado la vacuna en 50 perros; según Geison, los cuadernos muestran 11. Los cuadernos revelan además que había tratado a dos personas antes de Meister: una sobrevivió, quizá sin tener rabia, y otra murió. En 1886 trató a 350 personas, de las que solo una desarrolló la enfermedad, y en 1887 se puso en marcha el Instituto Pasteur con donaciones de muchos países."
+    },
+    {
+     "titulo": "La discusión sobre el libro",
+     "nivel": "hecho",
+     "texto": "El libro causó gran polémica. Hubo reseñas que lo elogiaron por abrir el secreto del laboratorio, y científicos que lo tomaron como un ataque a la ciencia. Max Perutz escribió en 1995 que las pruebas de Geison eran forzadas y no resistían el examen, y que quien obraba mal era Geison. El inmunólogo Patrice Debré, tras revisar los documentos, concluyó en 1998 que Pasteur, pese a su genio, tuvo faltas. En 2019 Joseph Gal sostuvo que las críticas de Geison sobre el trabajo de Pasteur en la quiralidad de las moléculas carecen de base."
+    },
+    {
+     "titulo": "Béchamp en el asunto de la pebrina",
+     "nivel": "hecho",
+     "texto": "Fuera de los cuadernos, la biografía de Pasteur reconoce que en la enfermedad del gusano de seda empezó negando que fuera parasitaria, cosa que varios estudiosos, entre ellos Béchamp, daban por establecida, y que no cambió de opinión hasta 1867."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, se cuenta que el nieto de Pasteur, tras leer un libro crítico de 1941, revisó en 1970 los papeles de su abuelo y encontró escrito que Béchamp tenía razón; advierte que nunca ha visto la prueba y pide el documento a quien lo tenga.\n\nSegún Jorge Guerra, Geison, doctor por Yale, reveló en 1995 a partir de los cuadernos privados discrepancias sorprendentes con lo que Pasteur decía en público, sin pretender restarle grandeza."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo que sostiene Guerra sobre Geison coincide con las fuentes leídas, que añaden las réplicas. Que Pasteur diera una versión distinta de sus métodos no demuestra por sí solo que Béchamp tuviera razón sobre las microzimas: son cuestiones separadas.\n\nEn lo leído hoy no aparece la nota que menciona Sala. No se ha leído el libro de Geison ni los cuadernos; para cerrar el asunto habría que consultar ambos. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -24384,12 +24436,17 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Edward Jenner",
       "url": "https://es.wikipedia.org/wiki/Edward_Jenner",
-      "consultado": "2026-11-24"
+      "consultado": "2026-11-26"
      },
      {
       "titulo": "Wikipedia (es): Jorge III del Reino Unido",
       "url": "https://es.wikipedia.org/wiki/Jorge_III_del_Reino_Unido",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Edward Jenner",
+      "url": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -24405,6 +24462,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La viruela y la variolización",
+     "nivel": "hecho",
+     "texto": "En tiempos de Jenner la viruela mataba en torno al 10 % de la población mundial, y hasta el 20 % en ciudades y pueblos. Contra ella se usaba la variolización: infectar a propósito con material de un enfermo, porque la viruela se pasaba una sola vez. Lady Mary Wortley Montagu la importó a Gran Bretaña en 1721 tras verla en Constantinopla, y en 1766 Daniel Bernoulli analizó los datos de mortalidad para demostrar su eficacia. Tenía riesgos graves y los inoculados podían contagiar a otros.\n\nEl propio Jenner fue inoculado de niño; el artículo español cuenta que a los ocho años, con cuarentena de cuarenta días en un establo."
+    },
+    {
+     "titulo": "Antes de Jenner",
+     "nivel": "hecho",
+     "texto": "La idea de que la viruela de las vacas protege no empezó con él. John Fewster lo advirtió en 1768, y a partir de 1770 al menos cinco personas en Inglaterra y Alemania la probaron con éxito, entre ellas el agricultor de Dorset Benjamin Jesty, que la aplicó en su familia en la epidemia de 1774, y Plett en 1791. En Francia, Rabaut-Pommier hizo observaciones parecidas en 1780. Jenner pudo conocer lo de Jesty.\n\nLa historia de que a Jenner le dio la idea el cutis sin marcas de las lecheras sale de una especulación de su biógrafo John Baron y, según la versión inglesa, parece un mito; la española la cuenta como conocimiento común del que partió."
+    },
+    {
+     "titulo": "Quién era",
+     "nivel": "hecho",
+     "texto": "Nacido en Berkeley (Gloucestershire) el 17 de mayo de 1749, hijo del vicario, quedó huérfano a los cinco años. A los trece entró de aprendiz de un cirujano, en 1770 se formó en Londres con John Hunter, desde 1773 ejerció en su pueblo y en 1792 obtuvo el doctorado en medicina en St Andrews. Entró en la Royal Society por su estudio sobre el cuco, publicado en 1788."
+    },
+    {
+     "titulo": "El experimento de 1796",
+     "nivel": "hecho",
+     "texto": "El 14 de mayo de 1796 inoculó a James Phipps, de ocho años, hijo de su jardinero, con pus de las ampollas de la mano de la lechera Sarah Nelmes, contagiada por la vaca Blossom. El niño tuvo fiebre y malestar. El 1 de julio le inoculó material de viruela, y más adelante otra vez, sin que enfermara. Su aportación propia fue comprobar así la inmunidad y mostrar que el pus protector podía pasarse de persona a persona.\n\nLa Royal Society no publicó su primer texto. En 1798, tras más casos, publicó la «Investigación» con 23 casos, entre ellos su hijo Robert, de once meses. La versión inglesa dice que algunas conclusiones eran correctas y otras erróneas."
+    },
+    {
+     "titulo": "Resistencia, difusión y límites",
+     "nivel": "hecho",
+     "texto": "La profesión médica tardó en aceptar el método y hubo oposición; una sátira de 1802 dibujaba a los vacunados con partes de vaca creciéndoles en el cuerpo. La vacuna se extendió por Europa; entre 1803 y 1806 la expedición española de Francisco Javier de Balmis la llevó a América, Filipinas, Macao y China, y Napoleón hizo vacunar a sus tropas.\n\nLa protección no resultó absoluta: desde 1811 Jenner observó en Londres bastantes casos de viruela en vacunados, aunque mucho más leves. En 1840 el Gobierno británico prohibió la variolización y ofreció la vacuna gratis."
+    },
+    {
+     "titulo": "Dinero y reconocimiento",
+     "nivel": "hecho",
+     "texto": "Dedicado a la vacunación, dejó en buena parte su consulta. Con apoyo de colegas y del rey, el Parlamento le concedió 10.000 libras en 1802 y otras 20.000 tras confirmar el Colegio de Médicos su eficacia (1807 según el texto; su propia cronología en español pone 1806). Presidió desde 1803 una sociedad para difundir la vacuna, que cerró en 1809, y en 1808 se creó con ayuda pública un instituto nacional de vacunación del que se apartó. Se hizo maestro masón en diciembre de 1802 y en 1821 fue nombrado médico extraordinario de Jorge IV. Murió el 26 de enero de 1823.\n\nLa viruela se declaró erradicada en 1980 según la versión inglesa; la española pone 1979."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Jenner, masón, probó su mezcla en su hijo de diez meses en 1790, que quedó con retraso; vacunó a John Baker en 1798, que murió, y a una embarazada que perdió el bebé."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes confirman que Jenner fue masón, desde 1802, y que incluyó en su publicación a un hijo de once meses: Robert, nacido en 1797. Su hijo mayor, Edward, nació en 1789 y en 1790 habría tenido alrededor de un año. Los dos artículos leídos hoy no recogen una inoculación en 1790 ni mencionan a John Baker o a una embarazada.\n\nPara comprobarlo hay que leer la «Investigación» de 1798 y las notas o la biografía de Baron. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -40222,12 +40321,17 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Teoría celular",
       "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_celular",
-      "consultado": "2026-11-24"
+      "consultado": "2026-11-26"
      },
      {
       "titulo": "Wikipedia (es): Confederación Germánica",
       "url": "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Germ%C3%A1nica",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Cell theory",
+      "url": "https://en.wikipedia.org/wiki/Cell_theory",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -40243,6 +40347,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Ver la célula: el microscopio",
+     "nivel": "hecho",
+     "texto": "Los microscopios compuestos aparecen en Europa hacia 1620. En «Micrographia» (1665), Robert Hooke describió en láminas de corcho una multitud de poros que llamó células, del latín «cella», cuarto pequeño. Lo que veía eran las paredes vacías del tejido vegetal, y no las creyó vivas.\n\nAnton van Leeuwenhoek, con lentes de una sola pieza que él mismo tallaba y que llegaban a unos 270 aumentos, vio seres que se movían, los «animálculos», entre ellos bacterias; en una carta a la Royal Society de 1676 sostuvo que, al moverse, estaban vivos."
+    },
+    {
+     "titulo": "De la pared a la unidad viva",
+     "nivel": "hecho",
+     "texto": "Los tejidos animales, más frágiles, se estudiaron más tarde. A finales del siglo XVIII Xavier Bichat definió el tejido. En 1804 Karl Rudolphi y J. H. F. Link fueron premiados en Gotinga por demostrar que cada célula tiene su propia pared, frente a la idea de que las compartían. Henri Dutrochet llamó a la célula elemento fundamental de la organización y unidad fisiológica, y en 1831 Robert Brown describió el núcleo."
+    },
+    {
+     "titulo": "Schleiden y Schwann (1838-1839)",
+     "nivel": "hecho",
+     "texto": "El botánico Matthias Schleiden propuso que todas las partes de las plantas están hechas de células, y el fisiólogo Theodor Schwann extendió la idea a los animales en 1839. De ahí salieron dos principios: todo organismo se compone de una o más células y la célula es su unidad básica.\n\nNo todo lo que dijeron se sostuvo. Schleiden creía que las células nacían por una especie de cristalización, dentro o fuera de otras, y presentó como propia una idea que Barthélemy Dumortier había expuesto años antes. Esa formación libre fue refutada en los años 1850 por Robert Remak, Rudolf Virchow y Albert Kölliker."
+    },
+    {
+     "titulo": "Toda célula procede de otra",
+     "nivel": "hecho",
+     "texto": "Remak publicó en 1852 observaciones sobre la división celular y sostuvo que las células nuevas salen de la bipartición de otras. En 1855 Virchow añadió el tercer principio y lo popularizó con el aforismo «omnis cellula e cellula», que la versión española atribuye en origen a François-Vincent Raspail. Se ha sugerido que Virchow plagió a Remak.\n\nCon ello terminaron las especulaciones sobre una sustancia informe de la que nacerían las células, y la continuidad entre células llevó a August Weismann a la idea de línea germinal."
+    },
+    {
+     "titulo": "La aceptación",
+     "nivel": "hecho",
+     "texto": "La teoría se debatió durante el siglo XIX. El artículo español atribuye su aceptación definitiva a los experimentos de Pasteur sobre la multiplicación de microorganismos de una sola célula. Santiago Ramón y Cajal la extendió al tejido nervioso, el último que faltaba, con la doctrina de la neurona, apoyándose en las tinciones de plata de Camillo Golgi; ambos recibieron el Nobel en 1906."
+    },
+    {
+     "titulo": "La teoría hoy y sus bordes",
+     "nivel": "hecho",
+     "texto": "La versión moderna añade que las células nacen por división, que en ellas ocurren las funciones vitales y el flujo de energía y que contienen el material genético. El principal límite discutido son los virus: quienes los consideran seres vivos no aceptan que todo lo vivo esté hecho de células.\n\nSobre cómo funciona la célula por dentro hubo otra disputa, entre quienes atribuían sus propiedades a la membrana y quienes las atribuían al protoplasma. La teoría de la membrana, con sus bombas de iones, la acepta la gran mayoría de los fisiólogos; una minoría, asociada sobre todo a Gilbert Ling (1962), queda fuera de la corriente principal."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, mientras Schwann, Henle y Virchow levantaban la teoría celular, Béchamp observaba que la célula cambiaba y atribuía el cambio a la microzima. Atribuye a Virchow la idea de metástasis, que en su opinión jamás se ha probado, y sostiene que la teoría celular actual hay que descartarla porque hace 130 o 140 años se sabía más sobre la célula que ahora."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La historia leída muestra que la teoría se corrigió por dentro (la formación libre de células cayó en veinte años), lo que no equivale a que haya que descartarla. Para valorar la afirmación de que antes se sabía más habría que concretar qué observación de entonces se ha perdido.\n\nQueda por documentar la prioridad entre Remak y Virchow con sus textos y quién financiaba los laboratorios y las cátedras alemanas de la época. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -73615,6 +73761,26 @@ window.CRONO = {
       "titulo": "Wikipedia: Antoine Béchamp",
       "url": "https://www.wikipedia.org/wiki/Antoine_Bechamp",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Antoine Béchamp",
+      "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Antoine Béchamp",
+      "url": "https://es.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (fr): Antoine Béchamp",
+      "url": "https://fr.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Louis Pasteur",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -73634,6 +73800,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "De la fermentación a las microzimas",
+     "nivel": "hecho",
+     "texto": "En 1855 Antoine Béchamp experimentó con disoluciones de azúcar de caña y concluyó que el agua causaba su transformación. En 1858 cambió de conclusión: la fermentación dependía del crecimiento de mohos, que necesitaban aire. Se consideró el primero en mostrar el papel de los microorganismos; Pasteur trabajaba en lo mismo desde 1857 y la disputa por la prioridad duró toda su vida.\n\nEl nombre «microzymas» («pequeñas enzimas») aparece hacia 1866-1867. Los libros principales sobre ellas son «La teoría del microzima y la teoría celular» (1870), «Les microzymas» (1883) y «La sangre y su tercer elemento» (1886)."
+    },
+    {
+     "titulo": "Qué eran, según Béchamp",
+     "nivel": "hecho",
+     "texto": "Béchamp sostuvo que las granulaciones que veía en los líquidos del cuerpo eran las unidades elementales de la vida. Producirían enzimas, formarían células y, en condiciones favorables, evolucionarían a bacterias, que seguirían viviendo después de morir la célula de la que salieron. Afirmaba además que la materia orgánica protegida de los gérmenes del aire se altera y fermenta porque lleva dentro los agentes de esa alteración.\n\nDe ahí se oponía a la teoría celular, porque la célula no sería la unidad mínima, y a la teoría de los gérmenes: negaba que una bacteria invadiera un animal sano, y atribuía la enfermedad a las condiciones que desestabilizan las microzimas propias. El artículo francés sitúa esta tesis dentro de la generación espontánea, porque el organismo sería quien crea las bacterias."
+    },
+    {
+     "titulo": "La «zimasa» y Buchner",
+     "nivel": "hecho",
+     "texto": "El químico alemán Buchner mostró en 1897 la fermentación alcohólica sin levadura viva con un extracto que llamó zimasa. El artículo español presenta a Béchamp como descubridor de la zimasa que Buchner aisló treinta años después, y algunos autores, como Philippe Decourt y Milton Wainwright, concluyen o parecen concluir que Buchner se llevó una gloria ajena.\n\nEl francés lo discute: lo que Béchamp llamó zimasa era la invertasa, que desdobla el azúcar de caña, y el propio Béchamp escribió que podía dejarla con azúcar cuanto tiempo se quisiera sin que se formara alcohol."
+    },
+    {
+     "titulo": "Cómo se recibieron",
+     "nivel": "hecho",
+     "texto": "Las tesis fueron siempre muy minoritarias y la biología actual no reconoce las microzimas. Jules Tissot, profesor de fisiología en el Museo de Historia Natural de París, creyó confirmarlas con fotografías de células. Fundó en 1948 la liga «Santé et Liberté», que en 1954 se fusionó con una asociación de padres de víctimas de la vacunación en una liga contra la vacunación obligatoria; la liga cambió de nombre en 1964 y se escindió en 1992.\n\nHoy las mantienen pequeños grupos de medicina alternativa, de microscopía en campo oscuro y de oposición a las vacunas. Algunos acusan a Pasteur de plagiar y silenciar a Béchamp; K. L. Manchester considera injustificada la acusación de plagio. El propio Béchamp la formuló en vida."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, en 1858 Béchamp descubrió que la fermentación la produce una partícula más pequeña que la célula, la microzima; esas partículas serían los ladrillos de las células, capaces de deshacerse y rehacerse según el entorno, y la célula no sería la unidad mínima de la vida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha de 1858 que da Sala coincide con el cambio de conclusión de Béchamp sobre los mohos; el nombre de microzima es posterior según lo leído. Que hubiera granulaciones visibles al microscopio no prueba lo que Béchamp les atribuía.\n\nPara zanjar lo de la zimasa habría que leer la memoria original de Béchamp. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -76171,6 +76369,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Antoine Béchamp",
       "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
       "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Antoine Béchamp",
+      "url": "https://es.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (fr): Antoine Béchamp",
+      "url": "https://fr.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -76204,7 +76412,7 @@ window.CRONO = {
     {
      "titulo": "Antoine Béchamp",
      "nivel": "hecho",
-     "texto": "Béchamp (Bassing, 1816 – 1908) pasó de los 7 a los 18 años en Bucarest, se doctoró en ciencias (1853) y en medicina (1856) en Estrasburgo, donde fue profesor de química, y enseñó en Montpellier hasta 1876, cuando pasó a ser decano de la Facultad Católica de Medicina de Lille. Como químico desarrolló la reducción que lleva su nombre, que abarató la anilina de los tintes sintéticos, y sintetizó el ácido arsanílico, del que Paul Ehrlich derivó más tarde el salvarsán.\n\nSu rivalidad con Pasteur fue primero por la prioridad al atribuir la fermentación a microorganismos, después por la pebrina del gusano de seda y al final por la validez misma de la teoría de los gérmenes. En Lille la disputa llevó a intentos de incluir su obra en el Índice de libros prohibidos; se retiró en 1886, se instaló en París con un pequeño laboratorio en la Sorbona y murió a los 91 años, cuando la versión de Pasteur ya dominaba."
+     "texto": "Béchamp (Bassing, 1816 – 1908) pasó parte de su juventud en Bucarest (de los 7 a los 18 años según unas fuentes, desde los 11 según el artículo francés), se doctoró en ciencias (1853) y en medicina (1856) en Estrasburgo, donde fue profesor de química, y enseñó en Montpellier hasta 1876, cuando pasó a ser decano de la Facultad Católica de Medicina de Lille. Como químico desarrolló la reducción que lleva su nombre, que abarató la anilina de los tintes sintéticos, y sintetizó el ácido arsanílico, del que Paul Ehrlich derivó más tarde el salvarsán.\n\nSu rivalidad con Pasteur fue primero por la prioridad al atribuir la fermentación a microorganismos, después por la pebrina del gusano de seda y al final por la validez misma de la teoría de los gérmenes. Dejó Lille en medio de la polémica (en 1886 según los artículos inglés y español, en 1888 según el francés), se instaló en París con un pequeño laboratorio en la Sorbona y murió a los 91 años, cuando la versión de Pasteur ya dominaba. Sobre el Índice de libros prohibidos las fuentes se contradicen: el inglés dice que la disputa llevó a intentos de incluir la obra de Béchamp, y el español, que fue él quien propuso incluir la de su rival; el francés habla de hostilidad de las autoridades eclesiásticas."
     },
     {
      "titulo": "Qué sostiene la teoría del terreno",
