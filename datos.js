@@ -5037,6 +5037,11 @@ window.CRONO = {
       "titulo": "Wikipedia (de): Orgon",
       "url": "https://de.wikipedia.org/wiki/Orgon",
       "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Matei Iagher, reseña de «Wilhelm Reich, Biologist» (History of the Human Sciences, 2017)",
+      "url": "https://www.histhum.com/2017/01/",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -5091,6 +5096,16 @@ window.CRONO = {
      "texto": "El archivo de Reich en Harvard se abrió en noviembre de 2007, cincuenta años después de su muerte. El historiador James Strick estudió los cuadernos de laboratorio noruegos y en «Wilhelm Reich, Biologist» (Harvard University Press, 2015) sostiene que aquel trabajo estaba a la vanguardia de la microscopía óptica y de la filmación a intervalos, y que el relato que lo reduce a pseudociencia es incorrecto. La Wikipedia indica que Strick fue después presidente del Wilhelm Reich Trust.\n\nLa posición científica dominante sigue siendo la de rechazo: la teoría del orgón, que salió de estos experimentos, se considera pseudociencia."
     },
     {
+     "titulo": "Los controles, según Strick",
+     "nivel": "tesis",
+     "texto": "El historiador James Strick, según la reseña de Matei Iagher sobre su libro de 2015, dedica un capítulo a la colaboración con el filósofo francés Roger du Teil, que se interesó pronto por los biones, se ofreció a hacer experimentos de control y buscó apoyos entre sus colegas en Francia.\n\nStrick sostiene que las dos objeciones principales, bacterias llegadas por el aire y confusión con el movimiento browniano, no daban en el blanco. Reich esterilizaba más de lo que exigían los procedimientos de la época: en un caso llevó hollín a la incandescencia, temperatura que habría matado cualquier bacteria corriente, antes de introducirlo en el medio de cultivo. Y usaba un microscopio puntero que pocos laboratorios tenían, lo que explicaría que otros no vieran los mismos movimientos.\n\nLa propia reseña señala algo que llama curioso: los biones se formaban antes cuando los preparados se hervían. Reich no consiguió que la comunidad académica validara su trabajo."
+    },
+    {
+     "titulo": "El dinero, según Strick",
+     "nivel": "tesis",
+     "texto": "Según la misma reseña, Strick sostiene que los detractores noruegos de Reich tenían un interés propio en desacreditarlo: competían por la misma financiación de la Fundación Rockefeller, el único gran financiador disponible durante la Depresión (página 227 del libro). Lo sitúa en un ambiente académico pequeño, poco dispuesto a aceptar a un judío materialista dialéctico, sin título en biología y con ideas radicales sobre la sexualidad, el origen de la vida y el cáncer."
+    },
+    {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
      "texto": "Según Artur Sala, Reich trabajó en Noruega con tres microscopios Reichert y vio que restos de musgo y césped desprendían partículas iguales, transparentes y pulsantes que se organizaban en amebas y paramecios, y que el carbón, el hollín y la arena daban partículas iguales; concluyó que la unidad de vida no es la célula sino esa partícula. Sala destaca un matraz aislado hecho con el biólogo marsellés Roger Du Teil contra la objeción del aire y sostiene que con el marco de Pasteur la hipótesis era imposible de admitir. Cuenta además que James Strick recibió un artículo de científicos coreanos que replicaba los experimentos sin nombrar a Reich. En otra charla atribuye el movimiento de las partículas a cargas del agua que Reich no conocía.\n\nSegún Nacho López Cabanas, Reich relacionó la pulsación y el aura azulada de los biones con el orgón, y por la amenaza que suponía para la biología y la física la «mafia» logró su condena de 1956 y la quema de sus obras."
@@ -5098,7 +5113,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El punto que decide la disputa es el control de la contaminación. En lo leído consta el examen de Kreyberg sobre un preparado y la opinión de Thjøtta sobre una muestra, y consta que Reich pidió una comisión; no consta que en 1938 se hiciera una réplica independiente y completa. Una muestra contaminada no examina toda la serie, y la falta de réplica tampoco la confirma.\n\nNo se han leído «Die Bione», el libro de Strick ni la respuesta de la Academia de Ciencias francesa a la comunicación de Du Teil, ni se han localizado las réplicas de las que habla Sala. Es una lectura de trabajo de Nexus, no un dato."
+     "texto": "El punto que decide la disputa es el control de la contaminación. Constan el examen de Kreyberg sobre un preparado, la opinión de Thjøtta sobre una muestra y la petición de Reich de una comisión; Strick defiende que los controles de Reich eran suficientes. En lo leído no consta que en 1938 se hiciera una réplica independiente y completa. Una muestra contaminada no examina toda la serie, y la falta de réplica tampoco la confirma. Esterilizar un ingrediente no asegura que siga estéril el preparado al abrirlo o mezclarlo.\n\nLa competencia por el dinero de Rockefeller, si se confirma, explicaría un interés, no quién tenía razón sobre las bacterias. Habría que leer la página citada y, si es posible, los archivos de la fundación.\n\nNo se han leído «Die Bione», el libro de Strick (aquí solo llega por una reseña favorable) ni la respuesta de la Academia de Ciencias francesa a la comunicación de Du Teil, ni se han localizado las réplicas de las que habla Sala. Es una lectura de trabajo de Nexus, no un dato."
     }
    ],
    "vista": "ciencia"
