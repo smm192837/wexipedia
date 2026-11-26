@@ -5020,7 +5020,7 @@ window.CRONO = {
      },
      {
       "titulo": "Wikipedia: Orgone",
-      "url": "https://www.Wikipedia.com/wiki/Orgone",
+      "url": "https://en.wikipedia.org/wiki/Orgone",
       "consultado": "2026-11-12"
      },
      {
@@ -37779,7 +37779,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el distanciamiento de Wilhelm Reich de Freud y de la sociedad psicoanalítica en los años 30, y su paso a un método propio, la vegetoterapia caracteroanalítica. Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica internacional cancelaba su contrato para publicar «Análisis del carácter». En noviembre de 1933 fue excluido del Partido Comunista danés, sin haber ingresado nunca, por su defensa de la sexualidad adolescente y por «La psicología de masas del fascismo». Se trasladó a Oslo en 1934. La expulsión formal de la asociación psicoanalítica no consta en las fuentes consultadas.",
+    "resumen": "Qué es: el distanciamiento de Wilhelm Reich de Freud y de la sociedad psicoanalítica en los años 30, y su paso a un método propio, la vegetoterapia caracteroanalítica. Desde 1930 Reich trató a pacientes fuera de los límites del psicoanálisis y presentó los principios de su «vegetoterapia caracteroanalítica» en agosto de 1934, en el XIII Congreso Internacional de Psicoanálisis, en Lucerna. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica internacional cancelaba su contrato para publicar «Análisis del carácter». En noviembre de 1933 fue excluido del Partido Comunista danés, sin haber ingresado nunca, por su defensa de la sexualidad adolescente y por «La psicología de masas del fascismo». En agosto de 1934, en el congreso de Lucerna, quedó fuera de la Asociación Psicoanalítica Internacional; las fuentes difieren en la forma (que se le pidió que dimitiera o que se le comunicó la exclusión). Se trasladó a Oslo en 1934.",
     "fuentes": [
      {
       "titulo": "Wikipedia (en): Wilhelm Reich",
@@ -37858,7 +37858,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La versión oficial de esta ficha dice que la expulsión formal no constaba en las fuentes consultadas; las leídas hoy sí la sitúan en 1934, aunque difieren en la forma (petición de dimisión o exclusión). El motivo tampoco es único: teoría, política y estrategia ante el nazismo aparecen juntas.\n\nNo consta en lo leído que en 1931 se le impidiera hablar, y la llegada a Oslo se fecha en 1934, no en 1935 (un apartado de la Wikipedia alemana dice 1935). Faltan por leer las actas del congreso y la biografía de Sharaf. Es una lectura de trabajo de Nexus, no un dato."
+     "texto": "Las fuentes leídas sitúan la salida de la Asociación en 1934, pero difieren en la forma (petición de dimisión o exclusión). El motivo tampoco es único: teoría, política y estrategia ante el nazismo aparecen juntas.\n\nNo consta en lo leído que en 1931 se le impidiera hablar, y la llegada a Oslo se fecha en 1934, no en 1935 (un apartado de la Wikipedia alemana dice 1935). Faltan por leer las actas del congreso y la biografía de Sharaf. Es una lectura de trabajo de Nexus, no un dato."
     }
    ],
    "vista": "ciencia"
@@ -75260,7 +75260,7 @@ window.CRONO = {
     "fuentes": [
      {
       "titulo": "Wikipedia: Pleomorphism (microbiology)",
-      "url": "https://en.Wikipedia.com/wiki/Pleomorphism_(microbiology)",
+      "url": "https://en.wikipedia.org/wiki/Pleomorphism_(microbiology)",
       "consultado": "2026-11-12"
      },
      {
