@@ -5161,6 +5161,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Orgone",
       "url": "https://en.wikipedia.org/wiki/Orgone",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Matei Iagher, reseña de «Wilhelm Reich, Biologist» (History of the Human Sciences, 2017)",
+      "url": "https://www.histhum.com/2017/01/",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): List of unproven and disproven cancer treatments",
+      "url": "https://en.wikipedia.org/wiki/List_of_unproven_and_disproven_cancer_treatments",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (de): Orgon",
+      "url": "https://de.wikipedia.org/wiki/Orgon",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -5180,6 +5195,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El libro",
+     "nivel": "hecho",
+     "texto": "«La biopatía del cáncer» apareció en 1948 como segundo volumen de «El descubrimiento del orgón», cuyo primero era «La función del orgasmo». Hay traducción inglesa de 1973 y la alemana se titula «Der Krebs» (1974). Aquí no se ha leído el libro: lo que sigue viene de resúmenes de terceros."
+    },
+    {
+     "titulo": "Qué sostenía Reich",
+     "nivel": "tesis",
+     "texto": "Reich decía ver dos clases de biones: unos azules, que llamó PA, y otros menores, rojos y en forma de lanceta, los bacilos T (de «Tod», muerte). Escribió que había encontrado bacilos T en tejido canceroso en descomposición de un hospital y que, inyectados en ratones, causaban inflamación y cáncer.\n\nSu explicación era que, cuando la energía orgónica disminuye en las células por la edad o una lesión, estas se descomponen en biones; empiezan a formarse bacilos T y la muerte llega por su crecimiento desbordado. Para Reich, la falta o el bloqueo de orgón estaba en la raíz de muchas enfermedades, y del cáncer sobre todo."
+    },
+    {
+     "titulo": "Cómo llegó a la idea, según Strick",
+     "nivel": "tesis",
+     "texto": "Según la reseña de Matei Iagher sobre el libro de James Strick, Reich había teorizado que el cáncer era una enfermedad nacida dentro del cuerpo, a partir de biones de materia orgánica en desintegración, mucho antes de mirar tejido canceroso al microscopio. Después ideó experimentos para comprobarlo, algunos frustrados por su ruptura con uno de los principales especialistas en cáncer de Oslo."
+    },
+    {
+     "titulo": "De la teoría a los enfermos",
+     "nivel": "hecho",
+     "texto": "En Estados Unidos, Reich construyó desde 1940 acumuladores de orgón y los probó en ratones con cáncer. En julio de 1941 escribió a sus seguidores que el orgón destruía tumores. Sin licencia para ejercer la medicina en el país, empezó a probar las cajas en personas con cáncer y con esquizofrenia; el padre de una niña de ocho años enferma lo denunció ante la Asociación Médica Americana. La agencia de alimentos y medicamentos investigó desde 1947 las propiedades curativas que se atribuían al aparato, y en 1954 un juez prohibió su envío entre estados."
+    },
+    {
+     "titulo": "Qué dice la medicina",
+     "nivel": "hecho",
+     "texto": "No hay apoyo empírico para el orgón en medicina ni en física, y la comunidad científica lo considera pseudociencia. El orgón y su acumulador figuran en la lista de tratamientos del cáncer no probados o refutados de la Wikipedia, que recoge el juicio de Quackwatch: quienes han investigado las ideas de Reich no han hallado prueba alguna de que esa energía exista."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, el libro reúne artículos sobre el cáncer; en él Reich destaca el crecimiento caótico de las células tumorales, comparable a un crecimiento entrópico, conoce el efecto Warburg y observa que las diminutas partículas podían actuar contra los tejidos tumorales."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no consta que nadie reprodujera que los bacilos T causan cáncer. Inyectar a un ratón un preparado que puede llevar bacterias y ver inflamación o enfermedad no separa la causa sin controles que aquí no se conocen.\n\nQue Reich citara el efecto Warburg, como dice Sala, no se ha comprobado; y aun si lo citó, un hecho metabólico establecido no confirma la teoría del orgón. Faltan por leer el libro, incluido el capítulo II (donde está el experimento XX). Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -12959,6 +13011,31 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Generación espontánea",
       "url": "https://es.wikipedia.org/wiki/Generaci%C3%B3n_espont%C3%A1nea",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Henry Charlton Bastian",
+      "url": "https://en.wikipedia.org/wiki/Henry_Charlton_Bastian",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Spontaneous generation",
+      "url": "https://en.wikipedia.org/wiki/Spontaneous_generation",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): John Tyndall",
+      "url": "https://en.wikipedia.org/wiki/John_Tyndall",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): X Club",
+      "url": "https://en.wikipedia.org/wiki/X_Club",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Hektoen International: John Tyndall (J. M. S. Pearce)",
+      "url": "https://hekint.org/?p=26179",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -12982,6 +13059,58 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "De dónde venía la cuestión",
+     "nivel": "hecho",
+     "texto": "En 1668 Francesco Redi mostró que los gusanos de la carne no aparecían si las moscas no podían alcanzarla. En 1745 John Needham vio enturbiarse caldos hervidos y sellados, y Lazzaro Spallanzani, en 1768, no obtuvo crecimiento al hervirlos ya cerrados y con parte del aire fuera, lo que dejaba la duda de si el aire era necesario. En 1837 Cagniard de la Tour y Schwann describieron la levadura como ser vivo que se reproduce.\n\nA finales de la década de 1850 Louis Pasteur usó matraces de cuello de cisne, abiertos al aire pero que retenían el polvo, y los caldos hervidos no criaban nada hasta que se inclinaban. En 1862 la Academia de Ciencias francesa convocó un premio sobre el asunto. Hubo objeciones minoritarias que no siempre eran infundadas: los experimentos eran mucho más difíciles de lo que cuentan los relatos populares."
+    },
+    {
+     "titulo": "Quién era Bastian",
+     "nivel": "hecho",
+     "texto": "Henry Charlton Bastian (Truro, 1837 – 1915) fue médico y neurólogo, doctor en 1866, miembro de la Royal Society desde 1868 y profesor de anatomía patológica en University College de Londres desde 1867. Creía haber visto al microscopio aparecer organismos a partir de materia sin vida y a partir de otra materia orgánica, y por ello discutía la teoría de los gérmenes. Publicó, entre otros, «The Beginnings of Life» (1872)."
+    },
+    {
+     "titulo": "Una disputa entre darwinistas, según Strick",
+     "nivel": "tesis",
+     "texto": "El historiador James Strick sostiene que Bastian era uno de los jóvenes evolucionistas más dotados de los años sesenta, apadrinado por Huxley: para él, como para muchos, la evolución exigía un origen natural de los primeros seres. Le apoyaban Richard Owen y Alfred Russel Wallace, y Darwin siguió sus experimentos con interés, aunque él y Huxley querían evitar las viejas asociaciones de la generación espontánea con el materialismo y el radicalismo político.\n\nEn septiembre de 1870, ante la Asociación Británica para el Avance de la Ciencia, Huxley se desmarcó: la vida habría surgido de la materia inerte, pero a lo largo de millones de años y en las condiciones de un pasado remoto; los experimentos que pretendían verlo hoy, entre ellos los de Bastian, estaban mal hechos."
+    },
+    {
+     "titulo": "Las palabras en disputa",
+     "nivel": "hecho",
+     "texto": "En 1870 Bastian usó «biogénesis» para la formación de vida a partir de materia sin vida. Poco después Huxley propuso para eso «abiogénesis» y se quedó con «biogénesis» para la vida que procede de otra vida, que es el sentido que ha perdurado."
+    },
+    {
+     "titulo": "Médicos contra físicos",
+     "nivel": "tesis",
+     "texto": "Según Strick, muchos médicos científicos seguían la teoría zimótica de Liebig, en la que los gérmenes eran a lo sumo un producto de la enfermedad, y planteaban objeciones serias: si el germen es la enfermedad, ¿por qué en una epidemia no enferman todos? Hasta que la inmunología no dio respuestas, esas dudas pesaron. También circulaban teorías de unidades vivas menores y el pleomorfismo de Nägeli, que dejaban sitio a la generación espontánea.\n\nTyndall, convertido pronto a una versión muy simple de la teoría de los gérmenes, acusó a Bastian de descuido y añadió comentarios ofensivos contra los médicos. Se abrió una brecha entre médicos y científicos no médicos que duró lo que el debate, de 1870 a 1878."
+    },
+    {
+     "titulo": "Las esporas",
+     "nivel": "hecho",
+     "texto": "En 1875 Tyndall obtuvo aire sin partículas en una caja con las paredes untadas de glicerina y vio que los caldos hervidos se conservaban meses en ella. En 1876 no logró repetirlo siempre: algunos se pudrían. Halló esporas bacterianas resistentes al calor, llegadas con el heno que había en el laboratorio, apoyándose en trabajos de Ferdinand Cohn, y en 1877 describió cómo destruirlas con calentamientos sucesivos."
+    },
+    {
+     "titulo": "El X Club",
+     "nivel": "hecho",
+     "texto": "Tyndall y Huxley pertenecían al X Club, nueve científicos que cenaban juntos cada mes desde noviembre de 1864 hasta 1893, defendían a Darwin y una ciencia libre de tutela religiosa, y querían reformar la Royal Society. Entre 1873 y 1885 tres de sus miembros, Hooker, Spottiswoode y Huxley, se sucedieron en la presidencia de esa sociedad. Ya entonces se les acusó de tener demasiada influencia; Huxley sostenía que el club solo servía para no perder la amistad."
+    },
+    {
+     "titulo": "El poder, según Strick",
+     "nivel": "tesis",
+     "texto": "Strick sostiene que la Royal Society de los años setenta, dominada por el X Club, fue hostil a Bastian y favorable a Tyndall, y que los artículos de uno y otro recibieron un trato desigual al publicarse. Las esporas suelen presentarse como la prueba decisiva, pero en parte se ve así a posteriori: Tyndall tuvo que contradecir algunos de sus experimentos de 1875-1876 para defender el hallazgo, sus aliados lo pasaron por alto y pocos partidarios de Bastian quedaron convencidos.\n\nSu conclusión es que los experimentos por sí solos no decidían el resultado y que el declive de la generación espontánea debió tanto a la derrota de una facción darwinista frente a otra, y a cambios teóricos y técnicos, como a cualquier experimento."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, el episodio es el eco victoriano de Béchamp contra Pasteur, con Bastian frente a Darwin y Tyndall, y es poco conocido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay dos lecturas en lo leído. J. M. S. Pearce presenta las esporas como la explicación que desarmó a los críticos de Pasteur; Strick, como un argumento que pesó junto con el control de las instituciones. No se excluyen: las esporas explican fallos reales y el trato desigual, si se confirma, explica cómo se zanjó. Sala coloca a Darwin enfrente de Bastian; lo que cuenta Strick lo matiza: Darwin siguió sus experimentos con interés y dudó sobre el asunto hasta cerca de 1877, aunque quería evitar ciertas asociaciones.\n\nEn lo leído no aparece quién financiaba a cada bando. Faltan por leer «Sparks of Life» y los archivos de la Royal Society sobre los artículos de ambos. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -41289,6 +41418,31 @@ window.CRONO = {
       "titulo": "Hektoen International: John Tyndall",
       "url": "https://hekint.org/?p=26179",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Tyndallization",
+      "url": "https://en.wikipedia.org/wiki/Tyndallization",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): Tindalización",
+      "url": "https://es.wikipedia.org/wiki/Tindalizaci%C3%B3n",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): John Tyndall",
+      "url": "https://en.wikipedia.org/wiki/John_Tyndall",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Encyclopedia.com: Bastian, Henry Charlton (artículo firmado por James E. Strick)",
+      "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/henry-charlton-bastian",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): John Tyndall",
+      "url": "https://es.wikipedia.org/wiki/John_Tyndall",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -41300,6 +41454,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "El problema",
+     "nivel": "hecho",
+     "texto": "Hervir mata las bacterias activas, pero algunas forman esporas capaces de aguantar la ebullición y germinar después. Quien hervía un caldo y lo veía pudrirse podía creer que la vida había surgido en él."
+    },
+    {
+     "titulo": "Cómo se descubrió",
+     "nivel": "hecho",
+     "texto": "Tyndall construyó una caja de madera con ventanas y untó sus paredes con glicerina: a los pocos días, el polvo se había pegado y el aire quedaba sin partículas visibles ni con luz intensa. En 1875 los caldos y la orina hervidos se conservaban meses dentro de ella y se pudrían en pocos días al aire corriente. En 1876 algunos se estropearon dentro de la caja. Averiguó que estaban contaminados con esporas secas procedentes del heno del laboratorio y, apoyándose en Ferdinand Cohn, sostuvo que esas formas sobrevivían al hervor."
+    },
+    {
+     "titulo": "El método",
+     "nivel": "hecho",
+     "texto": "Se calienta la sustancia hasta el punto de ebullición, o poco menos, durante unos 15 minutos, tres días seguidos. Entre uno y otro se guarda húmeda y templada para que las esporas supervivientes germinen; ya convertidas en bacterias, el calentamiento siguiente las mata. Fue la primera manera eficaz conocida de eliminar las esporas."
+    },
+    {
+     "titulo": "Hoy",
+     "nivel": "hecho",
+     "texto": "Lo habitual es el autoclave: 121 °C a presión durante 15 minutos. La tindalización funciona bien en la práctica pero no se considera del todo fiable, porque alguna espora puede sobrevivir; se reserva para lo que no soporta la presión, como semillas o ciertos alimentos."
+    },
+    {
+     "titulo": "Su peso en el debate, según Strick",
+     "nivel": "tesis",
+     "texto": "Para el historiador James Strick, el hallazgo de las esporas se suele tomar como el experimento decisivo contra la generación espontánea, pero esa lectura es en parte posterior: Tyndall tuvo que contradecir algunos de sus ensayos de 1875-1876 y pocos partidarios de Bastian se dieron por convencidos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Tyndall, al que llama el «Pasteur inglés», sería el padre de la asepsia moderna; la tindalización acaba incluso con las bacterias esporuladas. Añade que investigó los coloides y que figura entre los fundadores de la química materialista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La Wikipedia en español fecha el método en 1887; la versión de esta ficha, con una bibliografía médica, lo fecha en 1877, que encaja con los experimentos de 1875-1876. Parece una errata de aquella, sin confirmar. Tyndall era irlandés, no inglés. Lo de padre de la asepsia y de la química materialista no aparece en lo leído. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -58108,6 +58299,16 @@ window.CRONO = {
       "titulo": "Wikipedia: John Tyndall",
       "url": "https://es.wikipedia.org/wiki/John_Tyndall",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): John Tyndall",
+      "url": "https://en.wikipedia.org/wiki/John_Tyndall",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): X Club",
+      "url": "https://en.wikipedia.org/wiki/X_Club",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -58123,6 +58324,58 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Orígenes",
+     "nivel": "hecho",
+     "texto": "John Tyndall nació el 2 de agosto de 1820 en Leighlinbridge (condado de Carlow, Irlanda). Estudió en escuelas locales y en 1839 entró como delineante en el servicio cartográfico, primero en Irlanda y desde 1842 en Gran Bretaña. Entre 1844 y 1847, en plena fiebre del ferrocarril, ganó bien planificando líneas. En 1847 pasó a enseñar matemáticas y topografía en el colegio de Queenwood, donde se hizo amigo del químico Edward Frankland, y en 1848 se fueron a Marburgo a estudiar con Robert Bunsen. Se doctoró en 1850."
+    },
+    {
+     "titulo": "La Royal Institution",
+     "nivel": "hecho",
+     "texto": "Sus trabajos sobre magnetismo y diamagnetismo le dieron nombre. En 1852 ingresó en la Royal Society y en 1853, con la estima de Michael Faraday, fue nombrado profesor de física de la Royal Institution, puesto que ocupó hasta 1887; más tarde sucedió a Faraday al frente de ella. Fue uno de los grandes divulgadores de su siglo, con conferencias muy concurridas y más de una docena de libros."
+    },
+    {
+     "titulo": "Calor, gases y cielo",
+     "nivel": "hecho",
+     "texto": "Desde la primavera de 1859 midió cómo absorben el calor radiante los gases: demostró que el vapor de agua es el que más absorbe y que otros, como el dióxido de carbono, también lo hacen, base de lo que hoy se llama efecto invernadero. Eunice Newton Foote había publicado en 1856 experimentos sobre el calentamiento de esos gases, sin distinguir la radiación infrarroja. Estudió la dispersión de la luz por partículas en suspensión, el efecto Tyndall, y con él explicó el azul del cielo, aunque luego se vio que lo causan las propias moléculas del aire. Su método para medir el dióxido de carbono en el aliento está en el origen de un control usado hoy en anestesia."
+    },
+    {
+     "titulo": "Gérmenes",
+     "nivel": "hecho",
+     "texto": "El aire sin polvo que necesitaba para sus medidas lo llevó a los microbios: en 1875-1877 mostró que los caldos se conservan en aire sin partículas, descubrió por qué a veces fallaba (esporas resistentes al calor) e ideó la esterilización por calentamientos sucesivos. Inventó además una capucha filtrante para bomberos."
+    },
+    {
+     "titulo": "Montañas",
+     "nivel": "hecho",
+     "texto": "Desde 1856 fue a los Alpes casi cada verano. Estuvo en la primera cordada que subió al Weisshorn (1861), dirigió una de las primeras al Cervino (1868) y estudió el movimiento de los glaciares, con una agria disputa sobre prioridades frente a James Forbes."
+    },
+    {
+     "titulo": "Ciencia, religión y política",
+     "nivel": "hecho",
+     "texto": "Miembro del X Club, defendió a Darwin y la separación entre ciencia y religión. Su discurso como presidente de la Asociación Británica en Belfast (1874), que negaba a la religión autoridad sobre el conocimiento, ocupó portadas. En política se opuso con dureza a la autonomía de Irlanda, que veía como entregar a los no católicos al poder del clero, y al final de su vida donó dinero a la causa unionista."
+    },
+    {
+     "titulo": "El dinero",
+     "nivel": "hecho",
+     "texto": "Sus libros y conferencias le dieron una posición acomodada, sin que consten patentes comerciales. Cobró como asesor científico a tiempo parcial de organismos semipúblicos, de lo que donó una parte, y entregó lo ganado en su gira por Estados Unidos de 1872 a un fideicomiso para fomentar la ciencia allí. Al morir dejó 22.122 libras, cuando un policía de Londres ganaba unas 80 al año."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "Se casó en 1876 con Louisa Hamilton. Se retiró con mala salud y tomaba hidrato de cloral contra el insomnio; murió el 4 de diciembre de 1893 por una sobredosis accidental que le administró su mujer. Ella se quedó con sus papeles y su biografía oficial no apareció hasta 1945."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Tyndall es el «Pasteur inglés», padre de la asepsia y de la química materialista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes no coinciden en el oficio del padre: la Wikipedia inglesa dice que era policía local y Hektoen International, que zapatero. Tyndall era irlandés, así que «inglés» solo vale como apodo. Las etiquetas de padre de la asepsia y de la química materialista no aparecen en lo leído. Su papel en la disputa con Bastian y el peso del X Club se tratan en la ficha de ese debate. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
