@@ -5027,6 +5027,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Wilhelm Reich",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm Reich",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (de): Orgon",
+      "url": "https://de.wikipedia.org/wiki/Orgon",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -5054,6 +5064,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "De la teoría del orgasmo al microscopio",
+     "nivel": "hecho",
+     "texto": "En octubre de 1934 Wilhelm Reich se instaló en Oslo, invitado por el profesor de psicología Harald Schjelderup a dar clases sobre análisis del carácter. Allí se quedó cinco años. Quería dar base biológica a su teoría del orgasmo y averiguar si la libido de Freud era algo físico, eléctrico o químico, influido por el internista Friedrich Kraus, que describía el organismo como un sistema de carga y descarga eléctrica.\n\nAl no conseguir trabajar con institutos universitarios montó laboratorio propio, con microscopios, equipo de microfilmación e instrumentos eléctricos. En 1935 compró un oscilógrafo para medir cargas en la piel de voluntarios; después pasó a la microbiología."
+    },
+    {
+     "titulo": "Qué hizo y qué dijo ver",
+     "nivel": "hecho",
+     "texto": "Entre 1934 y 1939 observó protozoos y preparó cultivos con hierba, arena, hierro y tejido animal, que hervía y a los que añadía potasio y gelatina. Tras calentar materiales hasta la incandescencia escribió que veía vesículas azules luminosas. Las llamó biones y las consideraba una forma de vida rudimentaria, a medio camino entre lo vivo y lo no vivo. Kari Berggrav hizo las fotografías y películas.\n\nSostuvo que, al verter la mezcla enfriada en medios de cultivo, nacían bacterias, y descartaba que vinieran del aire o de los materiales. Distinguió los biones azules, que llamó PA, de otros rojos en forma de lanceta, los bacilos T (de «Tod», muerte), a los que en «La biopatía del cáncer» (1948) relacionó con el cáncer. Publicó los experimentos en Oslo en febrero de 1938 como «Die Bione»."
+    },
+    {
+     "titulo": "La objeción: contaminación",
+     "nivel": "hecho",
+     "texto": "En 1937 varios científicos noruegos calificaron la teoría de disparate. Reich dejó que el patólogo Leiv Kreyberg examinara al microscopio uno de sus preparados. Kreyberg concluyó que el caldo era estéril, pero que las bacterias eran estafilococos corrientes, de modo que los controles contra los gérmenes del aire no eran tan seguros como Reich creía. Theodor Thjøtta, del instituto bacteriológico de Oslo, a quien Reich envió una muestra, señaló también la contaminación aérea.\n\nReich respondió que Kreyberg no había sabido reconocer células cancerosas vivas; Kreyberg le reprochó ignorar nociones básicas de bacteriología y anatomía."
+    },
+    {
+     "titulo": "La campaña de prensa y el visado",
+     "nivel": "hecho",
+     "texto": "El diario liberal Tidens Tegn abrió una campaña contra Reich. Entre marzo y diciembre de 1938 salieron más de 165 artículos y cartas contra su trabajo en 13 periódicos; los más sonados, en Aftenposten, con las críticas de Kreyberg y Thjøtta. Reich pidió una comisión que repitiera los experimentos; ante la petición de un estudio de control detallado, Kreyberg contestó que el trabajo no lo merecía.\n\nSu visado había vencido en febrero. Le apoyaron el antropólogo Bronisław Malinowski, el pedagogo A. S. Neill y el escritor Sigurd Hoel. El Gobierno acabó permitiéndole seguir, pero un decreto posterior exigió licencia para ejercer el psicoanálisis, y a Reich no se le concedió. En agosto de 1939 partió a Estados Unidos."
+    },
+    {
+     "titulo": "La revisión histórica reciente",
+     "nivel": "hecho",
+     "texto": "El archivo de Reich en Harvard se abrió en noviembre de 2007, cincuenta años después de su muerte. El historiador James Strick estudió los cuadernos de laboratorio noruegos y en «Wilhelm Reich, Biologist» (Harvard University Press, 2015) sostiene que aquel trabajo estaba a la vanguardia de la microscopía óptica y de la filmación a intervalos, y que el relato que lo reduce a pseudociencia es incorrecto. La Wikipedia indica que Strick fue después presidente del Wilhelm Reich Trust.\n\nLa posición científica dominante sigue siendo la de rechazo: la teoría del orgón, que salió de estos experimentos, se considera pseudociencia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Reich trabajó en Noruega con tres microscopios Reichert y vio que restos de musgo y césped desprendían partículas iguales, transparentes y pulsantes que se organizaban en amebas y paramecios, y que el carbón, el hollín y la arena daban partículas iguales; concluyó que la unidad de vida no es la célula sino esa partícula. Sala destaca un matraz aislado hecho con el biólogo marsellés Roger Du Teil contra la objeción del aire y sostiene que con el marco de Pasteur la hipótesis era imposible de admitir. Cuenta además que James Strick recibió un artículo de científicos coreanos que replicaba los experimentos sin nombrar a Reich. En otra charla atribuye el movimiento de las partículas a cargas del agua que Reich no conocía.\n\nSegún Nacho López Cabanas, Reich relacionó la pulsación y el aura azulada de los biones con el orgón, y por la amenaza que suponía para la biología y la física la «mafia» logró su condena de 1956 y la quema de sus obras."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El punto que decide la disputa es el control de la contaminación. En lo leído consta el examen de Kreyberg sobre un preparado y la opinión de Thjøtta sobre una muestra, y consta que Reich pidió una comisión; no consta que en 1938 se hiciera una réplica independiente y completa. Una muestra contaminada no examina toda la serie, y la falta de réplica tampoco la confirma.\n\nNo se han leído «Die Bione», el libro de Strick ni la respuesta de la Academia de Ciencias francesa a la comunicación de Du Teil, ni se han localizado las réplicas de las que habla Sala. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -17267,6 +17314,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Orgone",
       "url": "https://en.wikipedia.org/wiki/Orgone",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Roger M. Wilcox, «Experiment XX» (página personal escéptica, 2002)",
+      "url": "http://www.rogermwilcox.com/Reich/experiment_xx.html",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -17286,6 +17338,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es el número y cuándo empezó",
+     "nivel": "hecho",
+     "texto": "El nombre indica que fue el vigésimo de la larga serie de experimentos con biones. Reich lo empezó en diciembre de 1944 en Orgonon, su laboratorio de Rangeley (Maine), y lo describió en «La biopatía del cáncer» (capítulo II, apartado 6). Aquí se conoce a través de la crítica de Roger M. Wilcox, que cita ese texto; el libro no se ha leído."
+    },
+    {
+     "titulo": "Lo que contó Reich",
+     "nivel": "tesis",
+     "texto": "Según el relato de Reich que cita Wilcox, se tamizaba tierra de jardín, se hervía una hora (o se metía media hora en autoclave a 120 °C) y se filtraba, lo que daba un líquido transparente pero amarillento: el «agua de biones de tierra». Reich quería estudiar su fluorescencia tras dejar ampollas selladas en distintas condiciones: en el laboratorio, en un acumulador pequeño, en la sala de rayos X, al aire libre y enterradas.\n\nTres semanas después, las ampollas que habían quedado fuera y se habían congelado mostraban copos al descongelarse. Examinados a 3.000 aumentos, Reich describió biones que se contraían y expandían, y dijo haber repetido el resultado filtrando y congelando agua transparente. Concluyó que la energía orgónica libre en el agua puede organizarse en materia viva, y escribió que meses después los copos se desarrollaron en protozoos que se multiplicaban."
+    },
+    {
+     "titulo": "Las objeciones de un crítico",
+     "nivel": "tesis",
+     "texto": "Wilcox (página personal, 2002) sostiene que el color amarillo prueba que el agua llevaba sustancias disueltas o partículas demasiado finas para verse, que Reich no indicó qué filtro usó y que los copos se formaron con ese material al congelarse, no de la nada. Añade que un microscopio óptico no gana detalle por encima de unos 1.400 aumentos, de modo que el pulso visto a 3.000 pudo ser un artefacto; que los copos no mostraban división ni alimentación, y que los protozoos serían contaminación."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, en el preparado número 20, de finales de 1944, Reich comprobó que las partículas se acumulaban con más fuerza en un punto según su potencial orgónico y que podían actuar contra tejidos tumorales; para el autor, la energía orgónica, capaz de crear orden desde el caos, es la responsable de los seres vivos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha de arranque coincide en las dos versiones. El contenido no del todo: Wilcox describe copos que aparecen en agua congelada; Sala habla de acumulación según el potencial orgónico y de efecto sobre tumores. Pueden ser partes distintas del mismo experimento o una diferencia de lectura; solo el capítulo original lo aclara.\n\nLas fuentes accesibles son partidarias de Reich o la de un crítico particular; no se ha encontrado un estudio académico independiente sobre este experimento. En la búsqueda aparecen referencias a réplicas en círculos afines a Reich, no leídas. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -35292,6 +35371,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Wilhelm Reich",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm Reich",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): Wilhelm Reich",
+      "url": "https://es.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): The Mass Psychology of Fascism",
+      "url": "https://en.wikipedia.org/wiki/The_Mass_Psychology_of_Fascism",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -35303,6 +35397,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "1933: Alemania",
+     "nivel": "hecho",
+     "texto": "El 2 de marzo de 1933 el diario nazi Völkischer Beobachter atacó el libro de Reich sobre la lucha sexual de la juventud, y al día siguiente Reich salió para Viena. El 10 de mayo de 1933, en las quemas organizadas por el régimen, ardieron sus libros, entre ellos «La psicología de masas del fascismo». A finales de 1939 se le retiró la nacionalidad alemana y quedó apátrida hasta 1946.\n\nEse mismo año 1933 su libro le costó también la ruptura con los comunistas, que lo consideraron contrario a su línea."
+    },
+    {
+     "titulo": "Estados Unidos: cómo empezó el caso",
+     "nivel": "hecho",
+     "texto": "En abril y mayo de 1947 Mildred Edie Brady publicó en Harper's y The New Republic artículos contra Reich. En julio, el director médico de la Comisión Federal de Comercio pidió a la agencia de alimentos y medicamentos (FDA) que investigara las propiedades curativas atribuidas al orgón. El investigador halló que se habían construido 250 acumuladores; la agencia lo calificó de fraude de primer orden y, según el biógrafo Myron Sharaf, sospechaba además de un negocio sexual."
+    },
+    {
+     "titulo": "La orden judicial de 1954",
+     "nivel": "hecho",
+     "texto": "En febrero de 1954 la fiscalía federal de Maine pidió prohibir el envío de acumuladores entre estados y su publicidad, con base en la ley de alimentos, medicamentos y cosméticos. Reich se negó a comparecer: escribió al juez que ningún tribunal podía juzgar su trabajo sobre la energía orgónica. La orden se concedió en rebeldía el 19 de marzo de 1954: destruir acumuladores, piezas e instrucciones y retener varios libros que mencionaban el orgón.\n\nJSTOR Daily fecha la orden en 1947; el resto de las fuentes leídas, en 1954."
+    },
+    {
+     "titulo": "El desacato y la condena",
+     "nivel": "hecho",
+     "texto": "En mayo de 1956, con Reich en Arizona, un colaborador envió por correo a otro estado una pieza de acumulador que le había pedido un inspector de la FDA haciéndose pasar por cliente. Reich y el médico Michael Silvert fueron acusados de desacato. Reich reconoció la infracción pero se declaró inocente. El 7 de mayo de 1956 el jurado lo declaró culpable: dos años de prisión para él, un año y un día para Silvert, 10.000 dólares de multa a su fundación y destrucción de acumuladores y publicaciones relacionadas."
+    },
+    {
+     "titulo": "La destrucción de 1956",
+     "nivel": "hecho",
+     "texto": "El 5 de junio, ante dos agentes de la FDA, amigos de Reich y su hijo Peter destrozaron a hachazos los tres acumuladores que quedaban en Orgonon. El 26 de junio se destruyó material de promoción, incluidos 251 ejemplares de sus libros, y el 23 de julio los acumuladores de Nueva York. El 23 de agosto ardieron en el incinerador de Gansevoort seis toneladas de libros, revistas y papeles.\n\nCayeron obras anteriores a la teoría del orgón, como «La revolución sexual», «Análisis del carácter» y «La psicología de masas del fascismo», porque en las ediciones inglesas Reich había añadido referencias a él. Según un colaborador, la propia editorial de Reich tuvo que pagar el transporte; los agentes debían limitarse a observar. La asociación de libertades civiles ACLU había criticado la quema de junio, con poco eco."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "El tribunal de apelación confirmó la sentencia el 11 de diciembre de 1956 y el Supremo rechazó revisarla el 25 de febrero de 1957. Reich entró en prisión el 12 de marzo y murió en la penitenciaría de Lewisburg el 3 de noviembre de 1957, de un fallo cardíaco. A partir de 1960 la editorial Farrar, Straus and Giroux reimprimió sus obras principales. La quema se cita como uno de los peores casos de censura en la historia de Estados Unidos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, la obra de Reich ardió primero por mano de los comunistas, después de los nazis (por ser judío y por «La psicología de masas del fascismo») y en 1956 por orden directa del Gobierno de Estados Unidos. Lo presenta como el mayor ejemplo de cómo el materialismo tritura el conocimiento."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las quemas nazi y estadounidense están documentadas; de una quema comunista o soviética no aparece nada en lo leído, que sí recoge su expulsión de los partidos comunistas. En Estados Unidos la iniciativa fue de una agencia del Gobierno y la orden la dictó un juez: las dos cosas son ciertas y no son lo mismo.\n\nQuedan por leer el texto de la orden de 1954 y el expediente judicial, para saber qué libros se mandaba retener y cuáles destruir. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -37649,6 +37785,26 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Wilhelm Reich",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm Reich",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (de): Orgon",
+      "url": "https://de.wikipedia.org/wiki/Orgon",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): Wilhelm Reich",
+      "url": "https://es.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Vegetotherapy",
+      "url": "https://en.wikipedia.org/wiki/Vegetotherapy",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -37668,6 +37824,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El discípulo prometedor",
+     "nivel": "hecho",
+     "texto": "Reich se formó en la Viena de Freud. Su primer libro, sobre el carácter impulsivo (1925), le dio reconocimiento, y en 1927 Freud gestionó su entrada en la directiva de la Sociedad Psicoanalítica de Viena, pese a la objeción de Paul Federn, que había sido analista de Reich."
+    },
+    {
+     "titulo": "El desacuerdo sobre el orgasmo",
+     "nivel": "hecho",
+     "texto": "Desde 1924 Reich publicó sobre la «potencia orgástica»: la salud psíquica dependería de la capacidad de descargar por completo la excitación sexual, y su falta estaría en la raíz de las neurosis. Freud lo llamaba el caballo de batalla de Reich. En 1927 Reich le dedicó «La función del orgasmo»; Freud respondió tarde y con tibieza, y en 1928 escribió que las neurosis no tenían una causa única. La Wikipedia alemana sitúa el origen del conflicto hacia 1926 y subraya que Reich se negaba a ver la represión sexual como una necesidad de la cultura."
+    },
+    {
+     "titulo": "La política",
+     "nivel": "hecho",
+     "texto": "La matanza de manifestantes de julio de 1927 en Viena radicalizó a Reich, y lo llevó al partido comunista austriaco. Abrió consultas de orientación sexual gratuitas para trabajadores, viajó a la Unión Soviética en 1929 y trató de unir a Marx y Freud. En Berlín, desde 1930, militó en el partido comunista alemán y organizó la «Sexpol».\n\nEl partido dejó de publicarle por su defensa de la sexualidad adolescente. El 24 de marzo de 1933 Freud le comunicó que la editorial psicoanalítica cancelaba el contrato de «Análisis del carácter», según Sharaf casi seguro por esa misma postura."
+    },
+    {
+     "titulo": "La vegetoterapia",
+     "nivel": "hecho",
+     "texto": "Desde 1930 trabajó fuera de las reglas del psicoanálisis: se sentaba frente al paciente, contestaba sus preguntas y, tras observar que el cuerpo cambiaba con la terapia, empezó a tocar. Pedía desnudarse en parte, presionaba con fuerza las zonas tensas para disolver la «coraza muscular» y buscaba lo que llamó el reflejo del orgasmo. Presentó los principios en agosto de 1934, en el congreso de Lucerna.\n\nEl psicoanalista Otto Fenichel le reconoció efectos positivos, pero objetó que el cambio corporal podía quedar disociado de la mente y que el material liberado necesitaba elaboración posterior. Cuando Reich creyó haber descubierto el orgón, el método dio paso a la «terapia psiquiátrica del orgón»."
+    },
+    {
+     "titulo": "Lucerna, 1934: fuera de la Asociación",
+     "nivel": "hecho",
+     "texto": "Las tres Wikipedias leídas coinciden en que Reich salió de la Asociación Psicoanalítica Internacional en 1934. La inglesa cuenta que en el congreso de Lucerna, tras presentar su ponencia, se le pidió que se fuera o se le comunicó que quedaba excluido, por anteponer sus ideas políticas comunistas a las de Freud; señala también un clima de apaciguamiento ante el nazismo y la oposición de Ernest Jones, presidente de la Asociación, de Federn y de Max Eitingon. Antes, su nombre se había omitido de la lista de miembros alemanes.\n\nLa alemana habla de exclusión sin debate de fondo. Según su biógrafo Sharaf y su hija Lore, quien decidió fue Anna Freud, más que su padre. En Londres, los analistas que lo entrevistaron para un posible traslado lo juzgaron insuficientemente analizado. En octubre de 1934 se instaló en Oslo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Freud tuvo a Reich por su alumno más importante y la relación acabó muy mal: el choque venía de que Reich rechazaba que el individuo debiera adaptarse a la sociedad, porque las enfermedades serían de la sociedad, en línea con la idea del terreno. Fue expulsado de la sociedad psicoanalítica (en 1931 se le impidió hablar), llegó a Noruega en 1935, y la vegetoterapia, que entiende la salud como equilibrio entre expansión y contracción, le dio las sustancias de los experimentos con biones. El autor valora el psicoanálisis de forma muy crítica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial de esta ficha dice que la expulsión formal no constaba en las fuentes consultadas; las leídas hoy sí la sitúan en 1934, aunque difieren en la forma (petición de dimisión o exclusión). El motivo tampoco es único: teoría, política y estrategia ante el nazismo aparecen juntas.\n\nNo consta en lo leído que en 1931 se le impidiera hablar, y la llegada a Oslo se fecha en 1934, no en 1935 (un apartado de la Wikipedia alemana dice 1935). Faltan por leer las actas del congreso y la biografía de Sharaf. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -71669,6 +71862,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Wilhelm Reich",
       "url": "https://en.wikipedia.org/wiki/Wilhelm_Reich",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (de): Orgon",
+      "url": "https://de.wikipedia.org/wiki/Orgon",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm Reich",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_Reich",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -71688,6 +71891,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De los biones al orgón",
+     "nivel": "hecho",
+     "texto": "La idea salió de los biones. Al principio Reich intentó explicarlos con la física conocida, como fenómenos eléctricos o radiactivos; al no conseguirlo postuló una energía biológica propia. Según la Wikipedia alemana, en el verano de 1939 se convenció de que un cultivo de biones obtenido de arena de mar movía un electroscopio; la inglesa sitúa su primer anuncio poco después de llegar a Nueva York ese año.\n\nEl nombre combina la raíz de «orgasmo» y «organismo». El anuncio es anterior a 1942, que es año de publicaciones: entonces apareció en inglés «La función del orgasmo», presentada como primer volumen de «El descubrimiento del orgón»."
+    },
+    {
+     "titulo": "Qué sostenía Reich",
+     "nivel": "hecho",
+     "texto": "Para Reich el orgón estaba en el suelo y en el aire, en todas partes, y era azul o gris azulado. Decía que la humanidad había partido en dos su conocimiento de él: el éter para el aspecto físico y Dios para el espiritual. Veía manifestaciones en el color del cielo, las auroras o el fuego de San Telmo, y lo consideraba presente en protozoos, glóbulos rojos, células cancerosas y clorofila.\n\nLo concebía como un principio contrario a la entropía, creador de organización, y atribuía a su falta o bloqueo muchas enfermedades, sobre todo el cáncer."
+    },
+    {
+     "titulo": "Los acumuladores",
+     "nivel": "hecho",
+     "texto": "En 1940 empezó a construir cajas con capas de material orgánico y metal sobre la idea de la jaula de Faraday; la primera de tamaño humano es de diciembre de ese año. Afirmaba que dentro la concentración era de tres a cinco veces mayor que en el aire. En julio de 1941 escribió a sus seguidores que el orgón destruía tumores y, sin licencia para ejercer la medicina en Estados Unidos, probó las cajas con enfermos de cáncer y de esquizofrenia.\n\nEn mayo de 1941 perdió su puesto en la New School tras comunicar al director que había salvado vidas con el aparato. Hacia 1942 fundó el Orgone Institute y en noviembre de ese año compró en Maine la finca que llamó Orgonon."
+    },
+    {
+     "titulo": "La prueba de Einstein",
+     "nivel": "hecho",
+     "texto": "Reich escribió a Albert Einstein el 30 de diciembre de 1940 y se reunieron el 13 de enero de 1941, durante unas cinco horas. Le entregó un acumulador pequeño y Einstein lo estudió en su sótano unos diez días. Comprobó que había una diferencia de temperatura. Un ayudante le hizo notar que el suelo estaba más frío que el techo, y Einstein concluyó que el efecto se debía a la convección y al gradiente de temperatura de la habitación. El 7 de febrero escribió que daba el asunto por resuelto.\n\nReich contestó con una carta de 25 páginas en la que describía variantes del montaje (con una placa encima, envuelto, colgado, enterrado, al aire libre) en las que la diferencia seguía. Einstein no respondió hasta que, tres años después, Reich amenazó con publicar el intercambio; pidió que no se usara su nombre como propaganda. Reich lo publicó en 1953."
+    },
+    {
+     "titulo": "Qué ha dicho la ciencia después",
+     "nivel": "hecho",
+     "texto": "La comunidad científica considera el orgón un concepto pseudocientífico, sin apoyo empírico en medicina ni en física. El centro estadounidense de salud complementaria lo cita entre las «energías supuestas», que no se han podido medir con métodos reproducibles.\n\nLa Wikipedia alemana recoge un proyecto de la Universidad Libre de Berlín (1990-1994) que reconstruyó los experimentos: se observaron los mismos fenómenos descritos por Reich, pero el análisis del diseño y la medición moderna los explicaron con efectos físicos clásicos, sin indicio de una energía vital. Menciona además trabajos universitarios en Marburgo y Viena."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, la orgonomía intentó eludir el segundo principio de la termodinámica, que presenta como un tabú: en su artículo de 1942 Reich habla de una energía que crea orden y de una «descarga mecánica» ligada a la muerte celular. El orgón sería un mar de energía virtual, un éter, que se divide en ambas, comparable al yin y el yang."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay una distinción que conviene no perder: que se mida una diferencia de temperatura no dice a qué se debe. Einstein la atribuyó a la habitación, Reich sostuvo que persistía al cambiar las condiciones, y el estudio de Berlín que se cita la explica con física clásica.\n\nNo se han leído el artículo de 1942, la correspondencia con Einstein ni los trabajos de Berlín, Marburgo y Viena; los resultados de estos dos últimos no constan en lo leído. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
