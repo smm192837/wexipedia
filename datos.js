@@ -34143,12 +34143,22 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Postulados de Koch",
       "url": "https://es.wikipedia.org/wiki/Postulados_de_Koch",
-      "consultado": "2026-11-24"
+      "consultado": "2026-11-26"
      },
      {
       "titulo": "Wikipedia (es): Imperio alemán",
       "url": "https://es.wikipedia.org/wiki/Imperio_alem%C3%A1n",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Koch's postulates",
+      "url": "https://en.wikipedia.org/wiki/Koch%27s_postulates",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Teoría microbiana de la enfermedad",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_microbiana_de_la_enfermedad",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -34164,6 +34174,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El experimento de partida: el carbunco",
+     "nivel": "hecho",
+     "texto": "Koch trabajó con Bacillus anthracis. Inyectó una pequeña cantidad de sangre de un ratón enfermo en uno sano, que enfermó de carbunco, y repitió el paso de animal en animal una veintena de veces. Después cultivó la bacteria en caldos nutritivos, fuera del animal, y mostró que, incluso tras muchos traspasos de cultivo, seguía causando la enfermedad al inocularla en un animal sano."
+    },
+    {
+     "titulo": "La formulación (1884 y 1890)",
+     "nivel": "hecho",
+     "texto": "Los criterios se formularon en 1884; la versión inglesa de la Wikipedia los atribuye a Koch y Friedrich Loeffler, sobre ideas anteriores de Jakob Henle, de ahí el nombre de postulados de Henle-Koch. Koch los afinó y publicó en 1890 y los aplicó a la causa de la tuberculosis y del cólera.\n\nSon cuatro: el microorganismo debe estar en los enfermos y no en los sanos; debe aislarse y crecer en cultivo puro; ese cultivo debe causar la enfermedad al introducirlo en un organismo sano susceptible; y del animal así enfermado debe volver a aislarse el mismo microorganismo."
+    },
+    {
+     "titulo": "Donde fallan",
+     "nivel": "hecho",
+     "texto": "El propio Koch sabía que la bacteria del cólera aparecía en enfermos y en sanos, y abandonó la exigencia universal del primer postulado al encontrar portadores sin síntomas de cólera y después de fiebre tifoidea. Hoy se sabe que las infecciones sin síntomas son frecuentes, sobre todo en virus: el de la polio solo paraliza a una pequeña parte de los infectados.\n\nEl segundo no sirve para agentes que no crecen en cultivo puro, como los virus, que necesitan una célula. El tercero dice «debería» y no «debe», porque los experimentos con tuberculosis y cólera mostraron que no todos los expuestos se infectan, por su estado de salud, por inmunidad adquirida o por la genética. Tampoco encajan bien un mismo agente que causa varias enfermedades (varicela y herpes zóster), una enfermedad con muchas causas (meningitis) ni las bacterias que viven en biopelículas o que dependen de otras especies.\n\nA principios de los años ochenta, Barry Marshall y Robin Warren vieron rechazada al principio su tesis de que Helicobacter pylori contribuye a la úlcera péptica porque no todos los infectados la desarrollan."
+    },
+    {
+     "titulo": "Qué se usa hoy",
+     "nivel": "hecho",
+     "texto": "Desde los años cincuenta se consideran superados para la investigación epidemiológica, aunque se siguen enseñando como método histórico. En salud pública los han desplazado en gran parte otros criterios, como los de Bradford Hill. En 1988 Stanley Falkow propuso unos postulados moleculares para identificar los genes de virulencia, y hay versiones adaptadas para los priones. La secuenciación de ADN permite además comprobar si los genes de un patógeno aparecen solo en los infectados.\n\nLas fuentes no coinciden en el tono: el artículo español sobre la teoría microbiana dice que los postulados se siguen utilizando; el inglés, que han sido sustituidos en gran parte. El inglés recoge también que el negacionismo del VIH alega que no cumple el segundo, una objeción que valdría para cualquier virus."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, como los microbios están presentes en todos los humanos, el primer postulado queda invalidado y con él los demás."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El punto de partida de la tesis coincide en parte con lo que reconoce la fuente: el primer postulado, tomado al pie de la letra, no se cumple siempre, y Koch lo dejó de exigir. La conclusión de que caen los demás y con ellos la causa microbiana no está en las fuentes leídas, que responden con otros criterios de causalidad.\n\nQueda por leer los textos originales de 1884 y 1890 para saber qué escribió cada uno y con qué palabras. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -72002,7 +72044,7 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Éter (física)",
       "url": "https://es.wikipedia.org/wiki/%C3%89ter_(f%C3%ADsica)",
-      "consultado": "2026-11-24"
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -72034,6 +72076,63 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Un medio para la luz: el siglo XVII",
+     "nivel": "hecho",
+     "texto": "Robert Boyle defendió un éter de partículas sutiles que explicaba las interacciones mecánicas entre cuerpos y fenómenos como el magnetismo. Christiaan Huygens propuso que la luz es una onda que viaja por un éter, pero solo podía imaginarla longitudinal, como el sonido, y así no se explicaba la doble refracción de ciertos cristales.\n\nIsaac Newton defendió que la luz son corpúsculos y rechazó que llenara el espacio un medio que frenaría a planetas y cometas. Aun así, en su «Óptica» (1704) recurrió a un medio etéreo que transmite vibraciones para explicar la refracción y la difracción."
+    },
+    {
+     "titulo": "La aberración de la luz",
+     "nivel": "hecho",
+     "texto": "Buscando el paralaje de las estrellas, James Bradley encontró que sus posiciones aparentes cambian a lo largo del año según la velocidad de la Tierra: la aberración estelar. La explicó con los corpúsculos de Newton, sumando las dos velocidades, y con ello estimó la velocidad de la luz. Explicarla con ondas era más difícil: el éter tenía que estar quieto mientras la Tierra lo atravesaba sin efecto aparente."
+    },
+    {
+     "titulo": "Triunfa la onda y el éter se vuelve sólido",
+     "nivel": "hecho",
+     "texto": "A comienzos del siglo XIX, Thomas Young y Augustin-Jean Fresnel recuperaron la teoría ondulatoria al proponer que la luz es una onda transversal, lo que explicaba la polarización y la doble refracción; tras una serie de experimentos de difracción se abandonó el modelo de partículas.\n\nPero una onda transversal parece pedir un medio que se comporte como un sólido. Augustin-Louis Cauchy ensayó propiedades de arrastre y de compresibilidad negativa, George Green señaló que un fluido así sería inestable y George Stokes propuso un éter rígido para las frecuencias muy altas y fluido para los movimientos lentos, como la resina."
+    },
+    {
+     "titulo": "Maxwell: la luz es electromagnética",
+     "nivel": "hecho",
+     "texto": "En 1856 Weber y Kohlrausch midieron la relación entre las unidades electromagnética y electrostática de carga, ligada a la velocidad de la luz, y en 1857 Kirchhoff halló que una señal recorre un cable a esa velocidad. En 1861 James Clerk Maxwell modeló las líneas de fuerza de Faraday con un mar de vórtices moleculares, hecho en parte de éter, y concluyó que la luz es una ondulación del mismo medio que causa la electricidad y el magnetismo. En 1864 reformuló la teoría con muchos menos detalles sobre el medio.\n\nSus ecuaciones daban una velocidad fija para las ondas electromagnéticas en el vacío, y en la física de Newton eso solo vale en un sistema de referencia: el éter en reposo pasó a ser ese sistema absoluto. Maxwell propuso modelos mecánicos de ruedas y engranajes, y George FitzGerald llegó a construir uno."
+    },
+    {
+     "titulo": "Un material imposible",
+     "nivel": "hecho",
+     "texto": "Al éter se le pedía llenar el espacio como un fluido, ser millones de veces más rígido que el acero para sostener las frecuencias de la luz, no tener masa ni viscosidad para no alterar las órbitas y ser transparente, incompresible y continuo. Los físicos conocían los problemas, pero la hipótesis estaba tan asentada que se daba por hecha; lord Salisbury ironizó con que el éter era poco más que el sujeto del verbo «ondular»."
+    },
+    {
+     "titulo": "¿Arrastra la materia al éter?",
+     "nivel": "hecho",
+     "texto": "Fresnel (1818) propuso un éter casi inmóvil, arrastrado solo en parte por los cuerpos transparentes; Stokes (1844), uno arrastrado por completo. El segundo no cuadraba con la aberración. Fizeau confirmó en 1851 la fórmula de Fresnel, aunque después Wilhelm Veltmann mostró que, al depender el índice de refracción del color, habría hecho falta un éter distinto para cada frecuencia.\n\nMuchos experimentos buscaron efectos del movimiento de la Tierra proporcionales a v/c (Arago en 1810, Hoek en 1868, Airy en 1871, Mascart en 1872, entre otros) y dieron resultado negativo, como permitía la teoría de Fresnel. Algún resultado positivo, como el de Klinkerfues (1870), se atribuyó a error al repetirlo."
+    },
+    {
+     "titulo": "La búsqueda del viento de éter",
+     "nivel": "hecho",
+     "texto": "Los experimentos de segundo orden sí debían dar señal. El de Michelson y Morley, publicado en 1887 (el ensayo de 1881 no fue concluyente), esperaba un desplazamiento de unas 0,4 franjas y observó cerca de 0,01, compatible con cero. Dieron también resultado nulo Rayleigh y Brace (1902 y 1904) con la doble refracción y Trouton y Noble (1903) con condensadores. Lodge no halló arrastre junto a masas en rotación (1893 y 1897), ni Hammar entre dos bloques de plomo (1935). El experimento de Michelson, Gale y Pearson (1925) midió el efecto de la rotación terrestre, compatible con la relatividad y también con teorías no relativistas.\n\nDayton Miller anunció resultados positivos en los años veinte; nadie los reprodujo y un reanálisis posterior concluyó que había subestimado el efecto de la temperatura. Otros experimentadores han afirmado resultados positivos, que la física no ha aceptado porque chocan con medidas de alta precisión coherentes con la relatividad."
+    },
+    {
+     "titulo": "Lorentz, Poincaré y 1905",
+     "nivel": "hecho",
+     "texto": "Para salvar el éter inmóvil, FitzGerald y Lorentz propusieron que los cuerpos se contraen en la dirección del movimiento, lo que anularía el efecto en el interferómetro. Entre 1892 y 1904 Hendrik Lorentz construyó una teoría de electrones y éter, con la contracción de longitudes y un «tiempo local»; de ese trabajo y del de Joseph Larmor salieron las transformaciones de Lorentz. Henri Poincaré formuló el principio de relatividad, pero conservó un éter indetectable.\n\nEn 1905 la relatividad especial de Albert Einstein obtuvo las mismas matemáticas sin referirse a ningún éter, y la hipótesis cayó por innecesaria. La aceptación fue rápida, ayudada por la defensa de Max Planck y la formulación de Hermann Minkowski. El mismo año Einstein trató la luz como partículas, que no necesitan medio."
+    },
+    {
+     "titulo": "Después de 1905",
+     "nivel": "hecho",
+     "texto": "Lorentz siguió usando el éter y hacia 1911 decía que, con ese nombre u otro, hacía falta un portador de los campos. En 1920 Einstein afirmó que, según la relatividad general, el espacio tiene cualidades físicas y en ese sentido hay un éter, al que no se puede aplicar la idea de movimiento. Paul Dirac volvió a proponerlo en 1951, sin apoyo de la mayoría, y John Bell sugirió en 1986 que había sido rechazado por razones filosóficas. Algunos describen el vacío cuántico como un equivalente moderno."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, Maxwell entendía el vacío lleno de éter, como el agua que necesita un barco; Tesla resucitó la idea y no se le hizo caso, y hoy hablar de éter es tabú en la física.\n\nSegún Artur Sala, el éter se enterró por consenso teórico en 1927 y no por un experimento, quedan problemas como el efecto Casimir sin resolver sin él, y la materia oscura, la energía oscura, el corrimiento al rojo y el Big Bang serían distintos «vientos» de un mismo éter.\n\nSegún Sergio Trallero, el éter tradicional es un principio metafísico anterior a los cuatro elementos, ligado al oído y al verbo, que no debe confundirse con el akasha de la nueva era."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La palabra nombra cosas distintas: el medio mecánico del siglo XIX, con un sistema en reposo; el espacio con propiedades físicas de Einstein en 1920; y el principio metafísico del que habla Trallero. Lo que se abandonó es lo primero; citar lo segundo no lo recupera.\n\nEn el artículo leído no aparece ninguna decisión de 1927. Quedaría por documentar qué pasó ese año según Sala y quién financió los experimentos de deriva del éter. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -74355,12 +74454,27 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Günther Enderlein",
       "url": "https://en.wikipedia.org/wiki/G%C3%BCnther_Enderlein",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-26"
      },
      {
       "titulo": "Wikipedia (es): Pleomorfismo (microbiología)",
       "url": "https://es.wikipedia.org/wiki/Pleomorfismo_(microbiolog%C3%ADa)",
-      "consultado": "2026-11-24"
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Pleomorphism (microbiology)",
+      "url": "https://en.wikipedia.org/wiki/Pleomorphism_(microbiology)",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): 714-X",
+      "url": "https://en.wikipedia.org/wiki/714-X",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Antoine Béchamp",
+      "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -74393,6 +74507,48 @@ window.CRONO = {
      "atribuida_a": "Helena P. Blavatsky",
      "verificacion": "sin-comprobar",
      "fuente": "Epígrafe de la p. 121 del libro; la redacción aparece atribuida a Blavatsky en Theosophy Wiki (https://theosophy.wiki/en/Life), pero no se localizó la obra y la página original"
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Dos sentidos de la misma palabra",
+     "nivel": "hecho",
+     "texto": "Pleomorfismo viene del griego «más» y «forma». En la microbiología actual es la capacidad de algunos microorganismos de alterar su forma, sus funciones o su modo de reproducción según el ambiente, entendida como variación de la célula y no como un cambio heredable de esos caracteres, como se creía antes.\n\nEn las primeras décadas del siglo XX la palabra nombraba una idea mucho más fuerte: que las bacterias cambian drásticamente de forma, de biología o de reproducción según las señales del medio."
+    },
+    {
+     "titulo": "Monomorfistas contra pleomorfistas",
+     "nivel": "hecho",
+     "texto": "Aquella idea dividió a los microbiólogos en dos escuelas. Entre los pleomorfistas figuran Antoine Béchamp, Ernst Almquist, Günther Enderlein, Albert Calmette, Gaston Naessens, Royal Raymond Rife y Lida Mattman. El monomorfismo, apoyado por Pasteur, Rudolf Virchow, Ferdinand Cohn y Koch, acabó siendo el paradigma dominante: se acepta casi universalmente que cada célula bacteriana procede de otra anterior de forma y tamaño prácticamente iguales.\n\nSerguéi Vinogradski tomó una posición intermedia. Estaba de acuerdo con el monomorfismo, pero señaló errores en los dos lados: unos pleomorfistas no distinguían clases morfológicas, y Cohn y Koch dejaban fuera especies de forma variable que no crecen en cultivo puro. Interpretó lo que otros llamaban pleomorfismo como etapas de un ciclo de desarrollo."
+    },
+    {
+     "titulo": "Béchamp y las microzimas",
+     "nivel": "hecho",
+     "texto": "El biólogo y químico francés Antoine Béchamp (1816 – 1908) propuso en el siglo XIX que unas entidades microscópicas, las microzimas, son componentes fundamentales de los seres vivos y dan lugar a distintas formas microbianas según las condiciones. Lo planteó en oposición a la teoría de los gérmenes; su obra «La sangre y su tercer elemento» recoge esos argumentos. La biología actual no acepta estas ideas y las trata como parte de la historia del pensamiento microbiológico."
+    },
+    {
+     "titulo": "Günther Enderlein y la «ciclogenia»",
+     "nivel": "hecho",
+     "texto": "Enderlein (Leipzig, 1872 – 1968) fue zoólogo y publicó más de 500 trabajos, sobre todo de insectos. Desde 1933 dirigió la producción de una pequeña farmacéutica, Sanum, y en 1944 fundó en Berlín su propia empresa, IBICA; ambas se fusionaron en 1975 en Sanum-Kehlbeck.\n\nEn 1925 publicó «Bakterien-Cyklogenie». Partiendo de Béchamp, de Wilhelm von Brehmer y de sus observaciones al microscopio, sostuvo que en todo animal y planta hay partículas proteicas diminutas e inofensivas, los protitos (de 1 a 10 nanómetros), que pasan por un ciclo de formas hasta convertirse en bacterias u hongos patógenos si se rompe la convivencia, algo que llamó «mochlosis». Describió sobre todo dos ciclos, el del hongo Mucor racemosus y el del Aspergillus niger, y los relacionó con enfermedades de la sangre, el pulmón y el cáncer.\n\nRecomendó una dieta vegetariana cruda y desarrolló remedios homeopáticos como Mucokehl y Utilin. Sus hipótesis sobre el pleomorfismo y el cáncer se consideran refutadas; la «terapia Sanum», basada en ellas, se ha descartado como charlatanería, aunque sigue en la medicina alternativa."
+    },
+    {
+     "titulo": "Gaston Naessens y el 714-X",
+     "nivel": "hecho",
+     "texto": "Naessens, francés, fue juzgado en Francia por ejercer la medicina sin título, se trasladó a Quebec y siguió allí su investigación desde principios de los años setenta. En 1989 fue detenido y luego absuelto de la acusación de complicidad en homicidio, tras morir una persona enferma de cáncer que usaba su producto y había rechazado el tratamiento convencional.\n\nEl producto, 714-X, se vende como remedio contra el cáncer y otras enfermedades, y sus vendedores dicen que contrarresta el daño de los «somátidos», una supuesta forma de vida desconocida para la ciencia. No hay pruebas científicas de que sirva contra ningún cáncer ni estudios publicados en humanos; la FDA prohibió su importación y venta como fraude sanitario y un análisis suyo halló un 94 % de agua y menos de un 0,01 % de alcanfor. En Canadá se puede obtener por vía médica mediante un programa de acceso especial, que un juez federal restableció en 2006 con condiciones."
+    },
+    {
+     "titulo": "Lo que hoy se acepta",
+     "nivel": "hecho",
+     "texto": "Se ha demostrado que algunas bacterias cambian mucho de forma. El ejemplo aceptado es Helicobacter pylori, que existe como hélice y como coco; también se describe diferenciación en Legionella pneumophila, y Deinococcus radiodurans cambia según los nutrientes. En los virus, las distintas apariencias no son verdadero pleomorfismo, porque cada virión no cambia de forma.\n\nEl concepto sigue siendo discutido: hoy muchos científicos lo ven como respuesta bacteriana a la presión del ambiente, por ejemplo la pérdida de marcadores antigénicos ante los antibióticos. En 1997 el microbiólogo Milton Wainwright escribió que el pleomorfismo no tenía amplia aceptación. Varios pasajes del artículo en español están marcados como pendientes de cita."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Béchamp puso las bases y entre los años veinte y cuarenta, con mejores microscopios ópticos, siguieron Enderlein, con el análisis de sangre en campo oscuro, Naessens y Wilhelm Reich, con los biones; todos acabaron mal.\n\nSegún Nacho López Cabanas, el monomorfismo de Pasteur se opone al pleomorfismo de Béchamp, en el que un mismo microorganismo cambia de forma según el medio, el pH y el oxígeno, los gérmenes son un síntoma y la solución sería restablecer el medio interior. Considera probable que el origen de la vida esté en esas partículas (microzimas, biones, somátidos, protitos) y sostiene que la ciencia relegó la teoría."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que ciertas bacterias cambien de forma no demuestra los ciclos de Béchamp, Enderlein o Naessens, que pasan de partículas diminutas a bacterias y hongos. Son dos afirmaciones distintas y la prueba de la primera no sirve para la segunda.\n\nPara contrastar la tesis fuerte habría que seguir en cultivo cerrado y con identificación genética si un mismo organismo recorre esas formas. En lo leído hoy no consta ningún trabajo así. Es una hipótesis de trabajo de Nexus, no un dato."
     }
    ],
    "vista": "ciencia"
@@ -76000,6 +76156,21 @@ window.CRONO = {
       "titulo": "Science-Based Medicine: «Your terrain, your fault» (2025)",
       "url": "https://sciencebasedmedicine.org/your-terrain-your-fault-germ-theory-denial-2025/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: Teoría microbiana de la enfermedad",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_microbiana_de_la_enfermedad",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Germ theory denialism",
+      "url": "https://en.wikipedia.org/wiki/Germ_theory_denialism",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (en): Antoine Béchamp",
+      "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -76019,6 +76190,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antes de los gérmenes",
+     "nivel": "hecho",
+     "texto": "Desde Hipócrates hasta Pasteur, la medicina antigua explicaba la enfermedad sobre todo como algo que venía de dentro, por un desequilibrio de los humores. Convivían con esa explicación otras, como la de los miasmas.\n\nLa idea de que algo invisible transmite la enfermedad es antigua: aparece en Lucrecio, que habla de «semillas» en el aire, y en 1546 Girolamo Fracastoro sostuvo que las epidemias las causan agentes vivos que pasan por contacto, por objetos o por el aire. Francesco Redi (1668) dio una prueba contra la generación espontánea con carne en frascos abiertos, tapados y cubiertos con gasa. Anton van Leeuwenhoek observó los microorganismos por primera vez, y en 1835 Agostino Bassi atribuyó a un agente vivo y contagioso la muscardina del gusano de seda."
+    },
+    {
+     "titulo": "Cómo se impuso la teoría de los gérmenes",
+     "nivel": "hecho",
+     "texto": "En 1847, en el Hospital General de Viena, Ignaz Semmelweis relacionó la fiebre puerperal con los médicos que reconocían a las parturientas viniendo de las autopsias. Al obligarlos a lavarse las manos con agua y cal, la mortalidad bajó de alrededor del 30 % a menos del 2 %; aun así, la mayor parte de la medicina vienesa lo atacó. En 1854, John Snow situó en la fuente de Broad Street, en el Soho de Londres, el foco de un brote de cólera, en contra de la explicación por miasmas.\n\nEntre 1860 y 1864, Louis Pasteur mostró que los microorganismos de los caldos hervidos llegaban de fuera y no se generaban solos. Robert Koch probó la teoría con sus trabajos sobre la tuberculosis, fijó los criterios que hoy se llaman postulados de Koch y recibió el Nobel de Medicina en 1905. La fuente atribuye a esa teoría el impulso de la esterilización, la higiene frente al contagio, las vacunas y los antibióticos."
+    },
+    {
+     "titulo": "Antoine Béchamp",
+     "nivel": "hecho",
+     "texto": "Béchamp (Bassing, 1816 – 1908) pasó de los 7 a los 18 años en Bucarest, se doctoró en ciencias (1853) y en medicina (1856) en Estrasburgo, donde fue profesor de química, y enseñó en Montpellier hasta 1876, cuando pasó a ser decano de la Facultad Católica de Medicina de Lille. Como químico desarrolló la reducción que lleva su nombre, que abarató la anilina de los tintes sintéticos, y sintetizó el ácido arsanílico, del que Paul Ehrlich derivó más tarde el salvarsán.\n\nSu rivalidad con Pasteur fue primero por la prioridad al atribuir la fermentación a microorganismos, después por la pebrina del gusano de seda y al final por la validez misma de la teoría de los gérmenes. En Lille la disputa llevó a intentos de incluir su obra en el Índice de libros prohibidos; se retiró en 1886, se instaló en París con un pequeño laboratorio en la Sorbona y murió a los 91 años, cuando la versión de Pasteur ya dominaba."
+    },
+    {
+     "titulo": "Qué sostiene la teoría del terreno",
+     "nivel": "hecho",
+     "texto": "Béchamp llamó microzimas a unas granulaciones que consideraba las unidades elementales de la vida, capaces de producir enzimas y células y de transformarse según el ambiente. Negaba que una bacteria pudiera invadir un animal sano y enfermarlo: para él, las condiciones desfavorables del organismo desestabilizan sus propias microzimas, que producen bacterias patógenas y descomponen el tejido.\n\nLa teoría del terreno es una variante de esas ideas: la enfermedad depende de la composición del cuerpo, y los gérmenes acuden como carroñeros al tejido debilitado. Béchamp daba importancia al pH: un medio ácido atraería a los gérmenes y uno alcalino los repelería. Las fuentes la presentan como una teoría médica obsoleta, y la negación actual de la teoría de los gérmenes, que se apoya en ella, como una creencia pseudocientífica contraria a más de un siglo de experimentos y observaciones."
+    },
+    {
+     "titulo": "Lo que sí reconoce la medicina sobre el terreno",
+     "nivel": "hecho",
+     "texto": "La teoría microbiana admite que, aunque el patógeno sea la causa principal de una enfermedad infecciosa, la herencia, la nutrición, el estado del sistema inmunitario, el ambiente y la higiene influyen a menudo en que una persona expuesta se infecte y en la gravedad del cuadro.\n\nLa gran caída de la mortalidad del siglo XIX vino de cortar la transmisión de patógenos con higiene y saneamiento; uno de los primeros movimientos que negaban los gérmenes, el movimiento sanitario, fue sin embargo central en la salud pública de Estados Unidos. La obra de Béchamp sobre cómo el terreno afecta a la enfermedad puede tener implicaciones en la investigación actual del microbioma, mientras que su teoría de las microzimas está rechazada y la mantienen grupos pequeños, sobre todo en la medicina alternativa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, el terreno lo determina todo y el microbio aparece como respuesta a un cambio del terreno, no como causa; pone de ejemplo el bacilo de Koch en la tuberculosis y compara las dos medicinas con una pecera sucia: la de Pasteur vacunaría a los peces y la del terreno limpiaría el agua. Con este segundo paradigma, dice, los hospitales serían centros que ayudan a la naturaleza a curar.\n\nSegún Jorge Guerra, sin el triunfo de Pasteur sobre Béchamp no existiría la industria farmacéutica, que crecía junto a la del petróleo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay que separar dos afirmaciones que a menudo van juntas. Que el estado del cuerpo influye en quién enferma está reconocido; que el microbio sea consecuencia y no causa es lo que se considera descartado.\n\nLas fuentes leídas hoy no dicen quién financió a cada bando ni relacionan el triunfo de Pasteur con el negocio farmacéutico o petrolero. Para seguir el dinero habría que documentar quién pagó los laboratorios de Pasteur y de Béchamp, sus patentes y sus encargos industriales. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
