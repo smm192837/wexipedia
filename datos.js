@@ -14837,6 +14837,11 @@ window.CRONO = {
       "titulo": "The Collected Papers of Albert Einstein, vol. 7, doc. 38",
       "url": "https://einsteinpapers.press.princeton.edu/vol7-trans/197",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Teorías sobre el éter",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADas_sobre_el_%C3%A9ter",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -14863,6 +14868,53 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La conferencia",
+     "nivel": "hecho",
+     "texto": "El 5 de mayo de 1920 Albert Einstein pronunció en la Universidad de Leiden, en alemán, una conferencia titulada «El éter y la teoría de la relatividad». La traducción inglesa la publicó Methuen, en Londres, en 1922. Lo que sigue resume esa traducción, tal como la reproduce la Universidad de St Andrews."
+    },
+    {
+     "titulo": "Por qué hubo éter, según Einstein",
+     "nivel": "hecho",
+     "texto": "Einstein empieza preguntando por qué los físicos añadieron a la materia ordinaria una segunda clase de materia. Señala dos caminos. El primero es la gravedad: Newton la describió como una acción a distancia, algo que incomodaba porque en la experiencia solo se actúa por contacto, y una salida era suponer un medio que la transmitiera. El segundo es la luz: cuando en la primera mitad del siglo XIX se vio su parecido con las ondas elásticas, se dio por seguro que vibraba un medio que llenaba el universo.\n\nComo la luz se polariza, ese medio debía comportarse como un sólido: un éter casi rígido y en reposo. El experimento de Fizeau y la aberración de la luz parecían apoyarlo."
+    },
+    {
+     "titulo": "De Maxwell a Lorentz",
+     "nivel": "hecho",
+     "texto": "Para Maxwell el éter aún tenía propiedades mecánicas, pero ni él ni sus seguidores lograron un modelo mecánico satisfactorio: las leyes eran claras y las explicaciones mecánicas, torpes. Con Hertz, la materia y el éter quedaron cargando a la vez con estados mecánicos y eléctricos sin relación comprensible entre sí, y la teoría chocaba con el experimento de Fizeau.\n\nLorentz resolvió el problema quitando al éter sus propiedades mecánicas y a la materia las electromagnéticas. Einstein dice, medio en broma, que la única propiedad mecánica que Lorentz le dejó al éter fue la inmovilidad."
+    },
+    {
+     "titulo": "Lo que quitó la relatividad especial",
+     "nivel": "hecho",
+     "texto": "La relatividad especial hace válidas las mismas ecuaciones en cualquier sistema que se mueva de manera uniforme. Suponer un éter en reposo respecto de uno solo de ellos introducía una desigualdad en la teoría que nada en la experiencia respaldaba, y a Einstein le parecía inaceptable.\n\nLa salida que parecía natural era negar el éter. Pero Einstein sostiene que la relatividad especial no obliga a ello: se puede admitir un éter si no se le atribuye ningún estado de movimiento, es decir, si se le quita el último rasgo mecánico. Prohíbe, eso sí, imaginarlo hecho de partículas que puedan seguirse en el tiempo. Añade que, dentro de esa teoría, la hipótesis parece al principio vacía, porque las ecuaciones no la necesitan."
+    },
+    {
+     "titulo": "El «éter» de la relatividad general",
+     "nivel": "hecho",
+     "texto": "El argumento a favor es este: negar el éter es afirmar que el espacio vacío no tiene ninguna cualidad física, y la mecánica no encaja con eso, porque un cuerpo que gira se comporta de otro modo que uno que no gira. Newton lo resolvió tratando el espacio como algo real; Einstein dice que bien podría haberlo llamado éter. Mach intentó evitarlo remitiendo la inercia al conjunto de las masas del universo.\n\nEn la relatividad general las medidas del espacio y del tiempo cambian de un punto a otro y dependen en parte de la materia: hacen falta diez funciones, los potenciales gravitatorios, para describir un espacio que ya no puede llamarse físicamente vacío. A eso llama Einstein el éter de la relatividad general: un medio sin cualidades mecánicas ni de movimiento, que contribuye a determinar lo que ocurre y cuyo estado en cada lugar depende de la materia y del entorno."
+    },
+    {
+     "titulo": "Cómo termina y qué dejó pendiente",
+     "nivel": "hecho",
+     "texto": "La conclusión tiene dos mitades. La primera: según la relatividad general el espacio tiene cualidades físicas, y en ese sentido existe un éter sin el cual no habría propagación de la luz, ni reglas, ni relojes. La segunda: ese éter no puede pensarse como un medio ponderable, compuesto de partes que se sigan en el tiempo, y no se le puede aplicar la idea de movimiento.\n\nEinstein deja abierto qué papel tendría en la estructura de las partículas elementales. Veía como un gran avance unir en una sola teoría el campo gravitatorio y el electromagnético (menciona un intento de Hermann Weyl que no creía que fuera a sostenerse) y advertía que la teoría cuántica podía poner límites a las teorías de campos."
+    },
+    {
+     "titulo": "Qué recorrido tuvo",
+     "nivel": "hecho",
+     "texto": "Einstein usó a veces la palabra éter para el campo gravitatorio. Historiadores como John Stachel sostienen que no se contradice con haberlo abandonado en 1905, porque a este nuevo éter no le atribuye sustancia ni movimiento. El uso de la palabra encontró poco apoyo y no tuvo papel en el desarrollo posterior de la física.\n\nMás tarde algunos físicos, como Paul Dirac o Robert B. Laughlin, compararon el vacío cuántico con un éter. Paul Davies marca la diferencia principal: el vacío cuántico no tiene un sistema de referencia privilegiado ni un reposo respecto del cual medir el movimiento. La hipótesis concreta de Dirac no obtuvo apoyo mayoritario."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, con la relatividad general Einstein acabó reconociendo que el éter es necesario: el espacio tiene propiedades físicas y sin éter es impensable; añade que algo vacío no podría curvarse."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las frases que recoge el autor sobre las propiedades físicas del espacio están en la conferencia. Lo que la lectura completa añade es que el mismo párrafo final le niega partes y movimiento: no es el éter luminífero que servía de soporte mecánico a la luz. Cuánto se parece este éter al que defienden hoy los autores es discutible, y la palabra sola no lo decide.\n\nNo se han leído el original alemán ni la edición de los Collected Papers, y en lo leído no consta por qué Einstein eligió este tema para Leiden. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -15207,6 +15259,21 @@ window.CRONO = {
       "titulo": "Patente US 685.957, texto (tesla220)",
       "url": "https://tesla220.github.io/patents/pdf/US685957.pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Patente US 685.958, «Method of utilizing radiant energy» (Google Patents)",
+      "url": "https://patents.google.com/patent/US685958A/en",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Photoelectric effect",
+      "url": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: Radiant energy",
+      "url": "https://en.wikipedia.org/wiki/Radiant_energy",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -15222,6 +15289,43 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Dos patentes el mismo día",
+     "nivel": "hecho",
+     "texto": "El 21 de marzo de 1901 Nikola Tesla, residente en Manhattan, presentó dos solicitudes gemelas: «Aparato para la utilización de energía radiante» y «Método de utilización de energía radiante». Las dos patentes, US 685.957 y US 685.958, se concedieron el 5 de noviembre de 1901."
+    },
+    {
+     "titulo": "Qué es el aparato",
+     "nivel": "hecho",
+     "texto": "Una placa metálica aislada, expuesta a la radiación, se conecta a un terminal de un condensador. El otro terminal se une a algo que aporte o retire electricidad: lo más cómodo, dice Tesla, es la tierra, aunque sirve también una batería u otro conductor. Mientras la placa recibe los rayos, el condensador se va cargando; un interruptor automático cierra el circuito cuando la carga basta y la descarga acciona un aparato.\n\nLos ejemplos son modestos y concretos: un electroimán que hace avanzar una rueda de trinquete, un montaje en el que la descarga solo abre y cierra un circuito alimentado por otra fuente, y otro con un tubo de rayos Röntgen como emisor. Tesla indica que, variando o cortando la fuente, se pueden transmitir señales. Recomienda un condensador muy bien aislado, de mica, porque la energía llega muy despacio, y una placa lo más grande, limpia y pulida posible, ya que lo recogido es aproximadamente proporcional a la superficie."
+    },
+    {
+     "titulo": "Qué llamaba Tesla «energía radiante»",
+     "nivel": "hecho",
+     "texto": "El texto parte de que ciertas radiaciones, como la luz ultravioleta, los rayos catódicos o los rayos Röntgen, cargan y descargan conductores. La fuente puede ser el Sol u otra artificial, como una lámpara de arco o un tubo Röntgen.\n\nTesla recoge que esas radiaciones se consideraban entonces vibraciones del éter de longitud de onda muy corta, y se aparta de esa explicación: cree, en línea con una teoría suya anterior, que las fuentes lanzan a gran velocidad partículas diminutas de materia electrizada. En el caso del Sol, partículas con carga positiva que van cargando la placa, mientras la tierra suministra la carga negativa. La corriente que describe es débil; afirma haber observado que la carga continúa casi indefinidamente, hasta llegar a perforar el aislante."
+    },
+    {
+     "titulo": "El fenómeno que ya se estaba estudiando",
+     "nivel": "hecho",
+     "texto": "Que la luz actúa sobre cuerpos electrizados se investigaba desde antes. Heinrich Hertz observó en 1887 que la radiación ultravioleta influía en las chispas de su receptor; Wilhelm Hallwachs mostró que una placa de zinc iluminada con ultravioleta cambia de carga; Aleksandr Stoletov midió el efecto entre 1888 y 1891, y J. J. Thomson identificó en 1897 las partículas emitidas con las de los rayos catódicos, después llamadas electrones.\n\nEn 1902 Philipp Lenard observó que la energía de cada electrón no dependía de la intensidad de la luz. Einstein propuso en 1905 que la luz entrega su energía en paquetes, y las medidas de Robert Millikan de 1914 apoyaron su modelo. Es lo que se conoce como efecto fotoeléctrico. El texto de la patente no cita a ninguno de estos investigadores."
+    },
+    {
+     "titulo": "Lo que hoy significa la expresión",
+     "nivel": "hecho",
+     "texto": "En la física actual «energía radiante» es la energía de la radiación electromagnética (y también de la gravitatoria). Se mide en julios y se usa sobre todo en radiometría, energía solar, calefacción e iluminación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, Tesla descubrió la «energía radiante» o «electricidad fría», que otros investigadores retomaron después; sería energía libre sacada del vacío, que resolvería la escasez, y las élites no la difunden porque su poder depende de esa escasez.\n\nSegún Artur Sala, el átomo sigue vibrando acoplado a un campo de energía, el éter de las tradiciones, del que se podría extraer energía fuera del paradigma establecido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La patente describe cómo recoger energía que llega de una fuente exterior (el Sol, una lámpara o un tubo) y almacenarla en un condensador. En el texto leído no aparecen la «electricidad fría», la energía libre ni la extracción de energía del vacío, y el éter solo se nombra al exponer la opinión de la que Tesla se aparta. La patente, por sí sola, no sostiene esas tesis; tampoco dice nada sobre ellas.\n\nEl montaje recuerda al efecto fotoeléctrico, aunque la patente no lo llama así. El texto no da cifras de potencia. Queda por documentar de dónde sale la expresión «electricidad fría», quiénes retomaron el aparato y si hay alguna prueba de que se frenara su difusión. Es una lectura de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -33701,6 +33805,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Nikola Tesla",
       "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia: Wardenclyffe Tower",
+      "url": "https://en.wikipedia.org/wiki/Wardenclyffe_Tower",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia: World Wireless System",
+      "url": "https://en.wikipedia.org/wiki/World_Wireless_System",
+      "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): Nikola Tesla",
+      "url": "https://es.wikipedia.org/wiki/Nikola_Tesla",
+      "consultado": "2026-11-26"
      }
     ]
    },
@@ -33719,6 +33838,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El documento",
+     "nivel": "hecho",
+     "texto": "«Arte de transmitir energía eléctrica a través de los medios naturales». Nikola Tesla lo solicitó el 16 de mayo de 1900, la solicitud se renovó el 17 de junio de 1902 y la patente 787.412 se concedió el 18 de abril de 1905."
+    },
+    {
+     "titulo": "De dónde parte: las tormentas",
+     "nivel": "hecho",
+     "texto": "Tesla cuenta que, estudiando el efecto de los rayos sobre la tierra, sus receptores a veces dejaban de responder cuando debían hacerlo. Lo atribuyó a ondas estacionarias: zonas de máximo y de nulo que seguían a la tormenta al alejarse, con longitudes de entre 25 y 70 kilómetros aproximadamente. De ahí concluyó que el globo, pese a su tamaño, puede comportarse como un conductor de dimensiones limitadas, en el que las ondas llegan lejos, se reflejan y vuelven. La patente no nombra el lugar; según Wikipedia, sus grandes experimentos de esa época fueron en Colorado Springs, en 1899."
+    },
+    {
+     "titulo": "El aparato y sus usos",
+     "nivel": "hecho",
+     "texto": "El emisor es un transformador: una bobina primaria de pocas vueltas alimentada por oscilaciones potentes y una secundaria en espiral con un extremo unido a tierra y el otro a un terminal elevado, afinada en resonancia, con un conductor de un cuarto de longitud de onda o un múltiplo impar. Tesla afirma haber alcanzado así flujos de energía de decenas de miles de caballos. El receptor acumula los impulsos en un condensador y los descarga a intervalos.\n\nLos usos que propone son de señal tanto como de energía: transmitir mensajes, dar la hora, manejar aparatos a distancia y calcular la posición, la distancia o la velocidad de un barco leyendo las ondas fijas sobre el globo. Las reivindicaciones protegen establecer ondas estacionarias en la tierra, utilizarlas en receptores lejanos y variar o desplazar su posición."
+    },
+    {
+     "titulo": "Las condiciones y la famosa velocidad",
+     "nivel": "hecho",
+     "texto": "Tesla fija requisitos para que la Tierra resuene: el diámetro que pasa por el punto de emisión debe ser un múltiplo impar del cuarto de longitud de onda; la frecuencia debe ser menor de 20.000 por segundo, con un mínimo de 6, para que se irradie muy poco en forma de ondas hertzianas; y el tren de ondas debe durar al menos unos 0,08484 segundos, que es lo que tardaría en ir sobre la superficie hasta las antípodas y volver a una velocidad media de unos 471.240 kilómetros por segundo.\n\nSostiene que el planeta transmite esas oscilaciones lentas como un conductor liso, sin distorsión ni atenuación apreciables, y que las proyecciones de todos los nodos y vientres sobre el diámetro terrestre son iguales. En el texto leído no aparece ninguna mención a ondas longitudinales ni al éter."
+    },
+    {
+     "titulo": "El dinero: Morgan y la torre",
+     "nivel": "hecho",
+     "texto": "Para los experimentos de Colorado, John Jacob Astor IV invirtió 100.000 dólares en la compañía de Tesla. En marzo de 1901 J. P. Morgan firmó la entrega de 150.000 dólares para una estación en Long Island (Wardenclyffe) a cambio del 51 % de la empresa y de las patentes inalámbricas, según los artículos consultados, que no describen igual el reparto. George Westinghouse no quiso asociarse, pero prestó 6.000 dólares.\n\nEl encargo era enviar mensajes a Inglaterra y a los barcos. En julio de 1901 Tesla amplió el proyecto para incluir transmisión de energía y competir con la radio de Marconi, y pidió más dinero; Morgan se negó. En diciembre Marconi transmitió la letra S a través del Atlántico. En 1903 Morgan reiteró su negativa, el pánico bursátil secó otras inversiones y en 1905 expiraron patentes de corriente alterna que daban ingresos a Tesla.\n\nLa actividad cesó entre 1905 y 1906. Tesla hipotecó la propiedad a George Boldt, dueño del hotel Waldorf-Astoria, y la torre se derribó para chatarra en 1917. Sobre la pérdida de la propiedad las fuentes difieren: la Wikipedia en español la sitúa en 1915 y la inglesa habla de la ejecución hipotecaria, con una apelación de Tesla perdida en 1922."
+    },
+    {
+     "titulo": "¿Llegó a funcionar?",
+     "nivel": "hecho",
+     "texto": "Está documentado con fotografías que en Colorado Springs encendió lámparas cercanas al laboratorio, a distancias de hasta 591 metros. Hay afirmaciones de mayores alcances (Tesla dijo en 1916 haber recogido datos de transmisión y recepción a unos 16 kilómetros, y su biógrafo John O'Neill escribió que encendió lámparas a 42), pero sus notas no aclaran que lograra transmitir a gran distancia y Wardenclyffe nunca entró en servicio.\n\nLa opinión científica actual es que su plan para transmitir grandes potencias no habría funcionado: entendía mal parte de la física, sobreestimaba la conductividad de la tierra y de la atmósfera e infravaloraba mucho las pérdidas con la distancia. Tesla había descartado las ondas de radio porque, como muchos físicos entonces, creía que viajarían en línea recta y se perderían en el espacio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, en la patente 787.412 Tesla describe ondas que se propagan por la Tierra a π/2 veces la velocidad de la luz (unos 471.000 km/s), prueba de que manejaba otra forma de electricidad."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Una cuenta propia ayuda a leer la cifra. 471.240 es, redondeando, π/2 por 300.000. Si algo recorriera a la velocidad de la luz el diámetro de la Tierra, ida y vuelta (unos 25.450 km), tardaría cerca de 0,085 segundos, el tiempo que da la patente; repartir sobre la superficie el recorrido hasta las antípodas y la vuelta (unos 40.000 km) en ese mismo tiempo da unos 471.000 km/s. La patente dice además que los nodos quedan igualmente espaciados si se proyectan sobre el diámetro.\n\nEso apunta a que la cifra es un promedio geométrico sobre la superficie: la proyección de un avance uniforme a la velocidad de la luz a lo largo del diámetro, que sobre la superficie parece más rápido cerca del emisor y de las antípodas. Si esta lectura es correcta, el número no exige otra electricidad. No demuestra que la Tierra transmita así la energía, ni se ha comprobado con un estudio especializado sobre la patente. Es una hipótesis de trabajo de Nexus, no un dato."
+    }
+   ],
    "vista": "ciencia"
   },
   {
