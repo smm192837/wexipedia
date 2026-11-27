@@ -1520,6 +1520,21 @@ window.CRONO = {
       "titulo": "IISD: informe diario del 25-9-2015",
       "url": "https://enb.iisd.org/events/un-sustainable-development-summit-2015/daily-report-25-september-2015",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Objetivos de Desarrollo Sostenible",
+      "url": "https://es.wikipedia.org/wiki/Objetivos_de_Desarrollo_Sostenible",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Sustainable Development Goals",
+      "url": "https://en.wikipedia.org/wiki/Sustainable_Development_Goals",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "La Agenda para el Desarrollo Sostenible - Desarrollo Sostenible",
+      "url": "https://www.un.org/sustainabledevelopment/es/development-agenda/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1535,6 +1550,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El desarrollo sostenible venía formulándose en la ONU desde el informe de 1987; en 2000 se aprobaron ocho Objetivos del Milenio con horizonte 2015."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Los 193 Estados miembros pactaron el documento «Transformar nuestro mundo» y la Asamblea General lo aprobó el 25 de septiembre de 2015 (resolución 70/1): 17 objetivos y 169 metas sobre pobreza, salud, educación, igualdad, agua, energía, clima o instituciones, con seguimiento en un foro político de alto nivel y exámenes voluntarios de cada país. Cuenta con financiación pública y privada y se debate ya qué la sucederá."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, se lanzó con el papa Francisco y Obama presentes y sus objetivos buscan acelerar el control de los recursos del planeta y de las necesidades humanas bajo apariencia de protección."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La aprobación y las intervenciones de aquellos días constan en la versión oficial. Los objetivos no son un tratado con fuerza coactiva; que sirvan a un gobierno mundial es tesis del autor, sin apoyo en lo leído. También tienen oposición política, por ejemplo en España."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -3421,6 +3458,16 @@ window.CRONO = {
       "titulo": "Wikipedia — 2005 Amman bombings",
       "url": "https://en.wikipedia.org/wiki/2005_Amman_bombings",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): 2005 Amman bombings",
+      "url": "https://en.wikipedia.org/wiki/2005_Amman_bombings",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Atentados de Amán de 2005",
+      "url": "https://es.wikipedia.org/wiki/Atentados_de_Am%C3%A1n_de_2005",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -3431,6 +3478,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Al Qaeda en Irak, dirigida por el jordano Abu Musab al-Zarqaui, extendía su campaña a Jordania; uno de los hoteles ya había sido objetivo de un complot frustrado en 2000."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 9 de noviembre de 2005, desde las 20:50, tres suicidas atacaron los hoteles Grand Hyatt, Radisson SAS y Days Inn de Amán, frecuentados por diplomáticos. En el Radisson la bomba estalló en un salón donde se celebraba una boda palestina. Las primeras cifras hablaron de 67 muertos y 300 heridos; el gobierno las rebajó y el artículo en inglés cierra en 57 muertos y 115 heridos. Al Qaeda en Irak lo reivindicó enseguida."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue una falsa bandera; destaca la fecha «9-11»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hubo reivindicación y nada leído apoya la falsa bandera; la coincidencia de cifras de la fecha no es prueba."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -3462,6 +3531,11 @@ window.CRONO = {
       "titulo": "Britannica: 2002 Bali Bombings",
       "url": "https://www.britannica.com/event/2002-Bali-Bombings",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): 2002 Bali bombings",
+      "url": "https://en.wikipedia.org/wiki/2002_Bali_bombings",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -3472,6 +3546,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Jemaah Islamiyah, grupo yihadista del sudeste asiático, preparaba atentados en Indonesia a comienzos de los 2000."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 12 de octubre de 2002, hacia las 23:05, en la zona turística de Kuta, un terrorista suicida detonó un chaleco en el Paddy's Pub y veinte segundos después otro hizo estallar una furgoneta frente al Sari Club; una tercera bomba estalló junto al consulado de EE. UU. en Denpasar. Murieron 202 personas, la mayoría turistas occidentales y 38 indonesios, y 209 quedaron heridas: el peor atentado de la historia de Indonesia. Tres condenados fueron fusilados en 2008 y otros implicados murieron en operaciones policiales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue una falsa bandera, con unos 200 muertos y 200 heridos, que coincide con el cumpleaños de Crowley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La autoría yihadista está establecida judicialmente; nada leído apoya una falsa bandera. La versión oficial dejaba la fecha del 12 por confirmar frente al 11 de Britannica: el artículo leído da el 12."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -9137,6 +9233,21 @@ window.CRONO = {
       "titulo": "Moncloa.com: el exjuez Sáenz de Tejada declara como investigado (3-11-2026)",
       "url": "https://www.moncloa.com/2026/11/03/biedma-caso-cloacas-3461010/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "David Sánchez, hermano de Pedro Sánchez, condenado a 9 años de inhabilitación por prevaricación | Euronews",
+      "url": "https://es.euronews.com/2026/07/14/david-sanchez-condenado-a-nueve-anos-de-inhabilitacion-por-prevaricacion",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "La Audiencia de Badajoz condena al hermano de Pedro Sánchez a nueve años de inhabilitación por prevaricación - LegalToday",
+      "url": "https://www.legaltoday.com/?p=193358",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "La jueza Beatriz Biedma pide la imputación del exjuez Sáenz de Tejada en el caso Leire Díez",
+      "url": "https://www.eldiario.es/1_cf3dde",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9147,6 +9258,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 2016 y 2017 la Diputación de Badajoz, presidida por el socialista Miguel Ángel Gallardo, creó y adjudicó una plaza a David Sánchez, hermano del entonces secretario general del PSOE."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La jueza Beatriz Biedma instruyó la causa. El 14 de julio de 2026 la Audiencia Provincial condenó a Sánchez a nueve años de inhabilitación por prevaricación y a Gallardo a 18, al considerar vulnerados el mérito y la capacidad en un plan concertado. La Fiscalía había pedido la absolución de ambos y el Gobierno discrepó. La sentencia era recurrible ante el Tribunal Superior de Extremadura, así que no era firme."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la «mafia del PSOE» llegó a contactar con mafias de Badajoz para asesinar a la jueza que acusó y sentenció al hermano de Sánchez."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La jueza instruyó, no sentenció. Existe una causa aparte, ligada a Leire Díez, con una denuncia sobre contactos y propuestas de violencia contra ella; no hay condena por esos hechos y un investigado los niega. Que fuera una orden del partido no está probado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -12915,6 +13048,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Luiz Philippe of Orléans-Braganza",
       "url": "https://en.wikipedia.org/wiki/Luiz_Philippe_of_Orl%C3%A9ans-Braganza",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Conservadores da América Latina se unem para 'impedir a volta da esquerda' - Jornal de Brasília",
+      "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/conservadores-da-america-latina-se-unem-para-impedir-a-volta-da-esquerda/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Luiz Philippe de Orléans e Bragança",
+      "url": "https://es.wikipedia.org/wiki/Luiz_Philippe_de_Orl%C3%A9ans_e_Bragan%C3%A7a",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12930,6 +13073,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La derecha latinoamericana quiso responder al Foro de São Paulo, que reúne a partidos de izquierda desde los años ochenta, tras la victoria de Jair Bolsonaro en octubre de 2018."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La primera Cumbre Conservadora de las Américas se celebró en Foz do Iguaçu el 8 de diciembre de 2018, con figuras del futuro gobierno e ideólogos conservadores; según la versión oficial la organizó Eduardo Bolsonaro y la abrió Olavo de Carvalho. Participó Luiz Philippe de Orléans-Braganza, descendiente de los emperadores, formado en Stanford y el INSEAD, antiguo empleado de JP Morgan y Lazard y recién elegido diputado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, hubo en noviembre una convención abierta por un descendiente de la familia imperial, y por eso anticipó que nada de lo prometido se cumpliría."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El encuentro existió, en diciembre y no en noviembre; según la versión oficial no lo abrió el descendiente imperial. La conclusión sobre las promesas es opinión del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -13287,6 +13452,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): International Criminal Court",
       "url": "https://en.wikipedia.org/wiki/International_Criminal_Court",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Corte Penal Internacional",
+      "url": "https://es.wikipedia.org/wiki/Corte_Penal_Internacional",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): International Criminal Court",
+      "url": "https://en.wikipedia.org/wiki/International_Criminal_Court",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -13298,6 +13473,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La idea de un tribunal penal permanente se debatió durante décadas y se impulsó tras los genocidios de Yugoslavia y Ruanda; antes hubo tribunales creados para casos concretos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Estatuto se aprobó en la conferencia de Roma el 17 de julio de 1998 y entró en vigor el 1 de julio de 2002, tras 60 ratificaciones. Con sede en La Haya, juzga a personas por genocidio, crímenes de guerra, de lesa humanidad y de agresión, es autónoma y actúa de forma complementaria a la justicia de cada país; la gobierna una asamblea de Estados parte. No es la Corte Internacional de Justicia, que juzga pleitos entre Estados. EE. UU., Rusia, China, India e Israel, entre otros, no forman parte, y Trump volvió a sancionarla."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, forma parte del entramado global y, si se lograra la Agenda 2030, la Asamblea General sería el congreso del mundo y la Corte Internacional de Justicia, la corte suprema."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que las mayores potencias queden fuera choca con la idea de una justicia mundial única. La proyección sobre la Agenda 2030 es del autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -20698,6 +20895,16 @@ window.CRONO = {
       "titulo": "Reuters (19-10-2012), recogido por KFF: PAHO y su «alianza» con la industria de alimentos y bebidas",
       "url": "https://www.kff.org/f2be4cc/",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "WHO donors in 2014 (US, Gates Foundation, UK, GAVI and Canada): Setting the agenda for global public health?",
+      "url": "https://www.keionline.org/?p=22755",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "WHO too reliant on funding from donor organizations, paper argues | CIDRAP",
+      "url": "https://www.cidrap.umn.edu/public-health/who-too-reliant-funding-donor-organizations-paper-argues",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -20712,6 +20919,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Organización Mundial de la Salud se financia con cuotas obligatorias de sus Estados y con contribuciones voluntarias, que el donante destina a lo que decide."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 2014 las voluntarias sumaron unos 2.002 millones de dólares, en torno al 80 % del presupuesto, frente a 492 millones de cuotas. EE. UU. aportó unos 300 millones y la Fundación Gates 256; también figuran Reino Unido, la alianza de vacunas GAVI, Canadá, Rotary y la Comisión Europea, y alguna farmacéutica."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Según un análisis publicado en «BMJ Global Health», la Fundación Gates puso el 9,5 % de los ingresos de la OMS entre 2010 y 2023, segundo financiador tras EE. UU., y entre 2000 y 2024 dio 5.500 millones en 640 donaciones, sobre todo para enfermedades infecciosas como la polio. Los autores advierten de la dependencia del dinero condicionado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la mayor parte del dinero es privado y sobre todo farmacéutico; Gates habría puesto 185 millones en 2015 y cuatro fabricantes de vacunas 90; la OMS y su oficina americana reciben donaciones de empresas de bebidas y alimentos, y la cobertura universal sirve para orientar la opinión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El peso de las voluntarias y de Gates está comprobado. Que la mayoría sea farmacéutica no lo muestran las fuentes leídas, encabezadas por Estados y fundaciones. Las donaciones de alimentación a la oficina americana las confirma la versión oficial con una investigación de Reuters; los 185 millones siguen sin contrastar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -21418,6 +21652,16 @@ window.CRONO = {
       "titulo": "AAP FactCheck (6-11-2024)",
       "url": "https://www.aap.com.au/factcheck/bill-gates-vaccination-tedtalk-hasnt-been-scrubbed/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Bill Gates didn’t say he wanted to use vaccines to reduce the population – PolitiFact",
+      "url": "https://politifact.com/factchecks/2021/oct/11/blog-posting/bill-gates-didnt-say-he-wanted-use-vaccines-reduce/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Bill Gates vaccination TedTalk hasn't been 'scrubbed' | AAP",
+      "url": "https://www.aap.com.au/factcheck/bill-gates-vaccination-tedtalk-hasnt-been-scrubbed/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21433,6 +21677,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Gates y su fundación venían defendiendo que menos mortalidad infantil lleva a las familias a tener menos hijos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En una charla TED de febrero de 2010, centrada en la energía y las emisiones de CO2, dijo que el mundo iba de 6.800 millones a unos 9.000 y que haciéndolo muy bien en vacunas, sanidad y salud reproductiva se podría reducir esa cifra quizá un 10 o 15 %. La charla completa dura unos 27 minutos y sigue disponible."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Gates declara el mundo superpoblado, propone vacunas para frenar el crecimiento y financia vacunas mortales. Según Jorge Guerra, es un conocido impulsor de la reducción de la población mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La frase es real; los verificadores la explican como una bajada del ritmo de crecimiento por la menor mortalidad, no como una reducción de la población existente. No hay nada leído que apoye que financie vacunas mortales."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -21480,6 +21746,16 @@ window.CRONO = {
       "titulo": "Universidad de Shandong: GEIDCO",
       "url": "https://en.sdu.edu.cn/info/1157/4732.htm",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Global Energy Interconnection",
+      "url": "https://en.wikipedia.org/wiki/Global_Energy_Interconnection",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Li Shouxin Attended the 2016 International Conference on Global Energy Interconnec-Shandong University",
+      "url": "https://en.sdu.edu.cn/info/1157/4732.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21491,6 +21767,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La empresa estatal china de la red eléctrica, State Grid, ideó una interconexión mundial en ultra alta tensión; su presidente, Liu Zhenya, la presentó en un taller en noviembre de 2015 con apoyo de Xi Jinping."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La organización para desarrollarla se inauguró en Pekín el 30 y 31 de marzo de 2016, en una conferencia internacional, con un consejo de quince miembros entre ellos State Grid, China Huaneng y la Universidad de Shandong. El proyecto prevé una red de dieciocho líneas troncales que una unos 80 países con redes inteligentes y mucha energía renovable, en fases a lo largo de cincuenta años."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, es la organización con la que China busca protagonismo en el control energético dentro de un posible gobierno mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ambición china de liderar la infraestructura eléctrica consta; es una propuesta, no una red construida. El gobierno mundial es tesis del autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -29652,6 +29950,16 @@ window.CRONO = {
       "titulo": "SlideShare: Rockefeller Foundation y GBN, mayo de 2010",
       "url": "https://www.slideshare.net/ICJ-ICC/the-rockefeller-foundation-232875101",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Scenarios For The Future Of Technology And International Development : Rockefeller Foundation; Global Business Network : Free Download, Borrow, and St",
+      "url": "https://archive.org/details/RockefellerPlandemic2010",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "https://www.slideshare.net/ICJ-ICC/the-rockefeller-foundation-232875101",
+      "url": "https://www.slideshare.net/ICJ-ICC/the-rockefeller-foundation-232875101",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29670,6 +29978,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las fundaciones encargan ejercicios de escenarios para pensar futuros posibles; la Fundación Rockefeller lo hizo sobre tecnología y desarrollo a quince o veinte años vista."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En mayo de 2010 publicó con Global Business Network cuatro escenarios, según dos incertidumbres: la alineación política y económica mundial y la capacidad de adaptación. En «Lock Step», escrito en pasado, una gripe de aves silvestres golpea en 2012, infecta a casi el 20 % de la población y mata a 8 millones en siete meses; los gobiernos imponen controles autoritarios, que funcionan mejor en unos países que en otros y acaban generando rechazo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el golpe de estado mundial de 2020 se plasmó además en este informe de la Fundación Rockefeller."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El documento y su parecido en algunos puntos con 2020 son comprobables. La propia fundación lo presenta como escenario, no como plan ni predicción; leerlo como plan es tesis del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -32915,6 +33245,11 @@ window.CRONO = {
       "titulo": "Britannica: Killing of Osama bin Laden",
       "url": "https://www.britannica.com/event/Killing-of-Osama-bin-Laden",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Killing of Osama bin Laden",
+      "url": "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -32925,6 +33260,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Bin Laden, fundador de Al Qaeda y organizador del 11 de septiembre, era buscado desde la guerra de Afganistán; escapó a Pakistán tras la batalla de Tora Bora en 2001, según se ha alegado con apoyo pakistaní."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En la operación Lanza de Neptuno, aprobada por Obama y dirigida con la CIA, un equipo SEAL en dos helicópteros salidos de Afganistán lo mató el 2 de mayo de 2011 en Abbottabad. Obama siguió la incursión desde la sala de crisis. Según EE. UU., el cadáver se trasladó a un portaaviones y se arrojó al mar con rito musulmán porque ningún país lo aceptaba. Pakistán protestó por la violación de su soberanía y negó haberlo protegido."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, en la foto de la sala había seis jesuitas, Obama y Osama formaban un par, el cadáver no se mostró y la boda real de días antes fue un rito sacrificial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es cierto que las fotos y pruebas de ADN se clasificaron, lo que alimentó dudas, y que se cuestionó no haberlo capturado vivo. Los jesuitas y la lectura ritual no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -37873,6 +38230,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Palantir Technologies",
       "url": "https://en.wikipedia.org/wiki/Palantir_Technologies"
+     },
+     {
+      "titulo": "Wikipedia (en): Palantir",
+      "url": "https://en.wikipedia.org/wiki/Palantir",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Palantir Technologies",
+      "url": "https://es.wikipedia.org/wiki/Palantir_Technologies",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37887,6 +38254,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Peter Thiel, ya rico tras vender PayPal, quiso aplicar al contraterrorismo las técnicas de análisis de datos; el nombre viene de la piedra vidente de Tolkien."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se fundó en 2003 en Palo Alto con Alex Karp, Stephen Cohen, Joe Lonsdale y Nathan Gettings; hoy cotiza en bolsa y tiene sede en Miami. Desarrolla plataformas de integración y análisis de datos como Gotham, para agencias, y Foundry y Metropolis, para empresas. Sus primeros clientes fueron agencias de inteligencia de EE. UU.; hoy incluye gobiernos, el ministerio de Defensa israelí y compañías privadas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La CIA colaboró dando acceso a sus analistas e invirtiendo a través de su filial In-Q-Tel. Alemania frenó su uso federal en 2023 aunque algunos estados lo emplean."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, que Thiel naciera en Hesse y Karp se formara en la Universidad Goethe muestra qué familias mueven los hilos al poner de presidentes a multimillonarios y tecnócratas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos datos biográficos constan; ninguna relación con la casa de Hesse aparece en lo leído, y un lugar de nacimiento o de estudios no la prueba. El vínculo con la inteligencia sí es comprobable."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -41838,9 +42232,41 @@ window.CRONO = {
       "titulo": "Banco de Inglaterra: comunicado del ECC, 10-9-2012",
       "url": "https://www.bankofengland.co.uk/-/media/boe/files/news/2012/september/economic-consultative-committee-statement-on-libor",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Economic Consultative Committee statement on LIBOR | Bank for International Settlements",
+      "url": "https://www.bis.org/media-releases/20120910-economic-consultative-committee-statement-libor",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Mervyn King lands three BIS roles; new BCBS chair named - Risk.net",
+      "url": "https://www.risk.net/node/2081789",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El BPI de Basilea reúne desde su origen a los gobernadores de bancos centrales; las reuniones de gobernadores del G10 dieron paso a los foros actuales."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Comité Consultivo Económico, grupo reducido de gobernadores, prepara las propuestas para la Reunión de Economía Global, con unos 30 bancos centrales que suman cerca de cuatro quintos del PIB mundial. Mervyn King, gobernador del Banco de Inglaterra, fue nombrado presidente de ambos desde noviembre de 2011 por tres años, y en septiembre de 2012 firmó un comunicado del comité sobre el escándalo del Líbor. Dejó el banco inglés en junio de 2013; Carstens presidía la reunión global desde 2013."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, 18 banqueros centrales se reúnen cada dos meses en una torre circular, deciden en secreto asuntos políticos con dinero público y parecen más poderosos que los políticos; añade etiquetas propias sobre algunos de ellos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las reuniones, su presidencia y su peso constan. La cifra de 18 asistentes y las etiquetas personales no aparecen en lo leído; la reserva de las discusiones es la base real de la crítica."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -46885,6 +47311,21 @@ window.CRONO = {
       "titulo": "/Film: Why Fox Cancelled The X-Files Spin-Off The Lone Gunmen",
       "url": "https://www.slashfilm.com/1823699/why-fox-cancelled-the-x-files-spin-off-the-lone-gunmen",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Los pistoleros solitarios",
+      "url": "https://es.wikipedia.org/wiki/Los_pistoleros_solitarios",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): The Lone Gunmen (TV series)",
+      "url": "https://en.wikipedia.org/wiki/The_Lone_Gunmen_(TV_series)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Why Fox Cancelled The X-Files Spin-Off The Lone Gunmen",
+      "url": "https://www.slashfilm.com/1823699/why-fox-cancelled-the-x-files-spin-off-the-lone-gunmen",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -46899,6 +47340,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los «pistoleros solitarios», tres aficionados a las conspiraciones del gobierno, nacieron como secundarios de «Expediente X» en 1994."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Su serie propia estrenó el piloto en Fox el 4 de marzo de 2001, seis meses antes del 11 de septiembre. En él descubren un complot de los servicios secretos de EE. UU. para estrellar por control remoto un Boeing 727 contra las Torres Gemelas, y consiguen impedirlo. Pese a buenas críticas, la audiencia cayó y la serie se canceló tras trece episodios."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el piloto mostraba a la CIA y al gobierno planeando estrellar el avión para culpar a terroristas y provocar una guerra en Oriente Medio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El argumento del avión consta. Que anunciara o preparara algo no tiene prueba: es una coincidencia llamativa entre una ficción y un hecho posterior."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
