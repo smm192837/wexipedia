@@ -7709,11 +7709,43 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Knights of Columbus",
       "url": "https://en.wikipedia.org/wiki/Knights_of_Columbus"
+     },
+     {
+      "titulo": "Wikipedia (es): Caballeros de Colón",
+      "url": "https://es.wikipedia.org/wiki/Caballeros_de_Col%C3%B3n",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "El sacerdote Michael McGivney reunió a un grupo en su parroquia de New Haven en octubre de 1881 y Connecticut reconoció la orden el 29 de marzo de 1882. Quería una sociedad de ayuda mutua para católicos obreros e inmigrantes, alternativa a las sociedades que la Iglesia les vetaba. El nombre homenajea a Colón, héroe para muchos católicos estadounidenses."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El seguro original daba 1.000 dólares a la viuda, pagados con cuotas por fallecimiento. Hoy su aseguradora tiene más de dos millones de pólizas y más de 124.000 millones de dólares en seguro de vida vigente; la orden posee una gestora de inversiones y declara más de 2,2 millones de miembros. Se han criticado sueldos de siete cifras de sus directivos."
+    },
+    {
+     "titulo": "Influencia",
+     "nivel": "hecho",
+     "texto": "Tiene papel político defendiendo posiciones católicas. El historiador Massimo Faggioli cree que su filantropía puede crear influencia mediante dinero en lugares como Roma o Washington."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que copan servicios de inteligencia y policía en EE. UU. y que condecoraron a Foch en 1921. Rubén Avilés la presenta como orden de la familia Colonna al servicio de un neoimperio romano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo buscado no aparece presencia destacada en inteligencia o policía ni relación con los Colonna; la condecoración a Foch tampoco se ha localizado."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -11085,6 +11117,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Civiltà Cattolica",
       "url": "https://es.wikipedia.org/wiki/Civilt%C3%A0_Cattolica",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): La Civiltà Cattolica",
+      "url": "https://en.wikipedia.org/wiki/La_Civilt%C3%A0_Cattolica",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11111,6 +11148,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Un grupo de jesuitas la creó en Nápoles en 1850, con Carlo Maria Curci de director y primer número el 6 de abril, contra liberales y masones en plena unificación italiana. La escribieron en italiano; el general Roothaan recelaba de que la Compañía entrara en política."
+    },
+    {
+     "titulo": "Seguir el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "Pío IX la apoyó, quería un instrumento moderno, y se publicó con fondos papales. La censura napolitana la llevó a Roma ese mismo año y pasó a ser voz oficiosa de la Santa Sede; la Secretaría de Estado revisa y aprueba sus textos."
+    },
+    {
+     "titulo": "Su papel",
+     "nivel": "hecho",
+     "texto": "Intervino en la preparación del Syllabus (1864), combatió el liberalismo y el modernismo y durante décadas fue una de las revistas católicas más influyentes y la más abiertamente antisemita: publicó propaganda antijudía mucho antes del fascismo, incluida la calumnia del crimen ritual, pese a que papas la habían condenado."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra cuenta su nacimiento entre jesuitas exiliados, una biografía de Mazzini sorprendentemente favorable según el Morning Chronicle de 1851, y sostiene que, con los Protocolos, inoculó el veneno que corrompía Europa antes de la guerra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su antisemitismo está documentado. La biografía de Mazzini no aparece en los pasajes leídos. Un historiador católico, Hales, sostiene que no era órgano oficial."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -18848,6 +18912,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los carbonarios eran un grupo revolucionario anticlerical activo en Italia. Algunos sostenían que las condenas de 1738 y 1751 contra la masonería no les alcanzaban."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Pío VII la promulgó el 13 de septiembre de 1821: rechazó ese argumento, vinculó a los carbonarios con la masonería y extendió a ellos y a sus escritos las prohibiciones anteriores."
+    },
+    {
+     "titulo": "Las acusaciones",
+     "nivel": "hecho",
+     "texto": "Les reprochó fingir respeto por la religión católica mientras buscaban el indiferentismo, la libertad religiosa total y la desaparición del poder de la Iglesia, profanar a Cristo en sus ceremonias y despreciar los sacramentos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es la acusación del papa; solo se ha leído un artículo breve y no la versión de los carbonarios."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -22644,6 +22735,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Rusia había protegido a la Compañía precisamente cuando casi todos los demás estados se volvían contra ella: allí tuvo superiores propios y siguió activa tras la supresión de 1773."
+    },
+    {
+     "titulo": "Dos pasos",
+     "nivel": "hecho",
+     "texto": "Alejandro I los expulsó de San Petersburgo en 1815 y de todo el imperio en 1820, casi a la vez que moría el general Brzozowski (5 de febrero de 1820)."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "La biografía leída describe un zar cada vez más conservador desde 1815, bajo la influencia de Metternich, y una política de someter a los rutenos a la jurisdicción latina; al mismo tiempo no se opuso a que cortesanos suyos se hicieran católicos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que en 1820 el zar los echó y que, aun así, Stalin reconoce que estaban presentes en el seminario de Tiflis."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos fechas constan; los motivos concretos del decreto no aparecen en los pasajes leídos. Sobre Tiflis, véase la ficha del seminario: lo que dice Stalin es «métodos jesuíticos»."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -23556,6 +23674,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Cuestión romana",
       "url": "https://es.wikipedia.org/wiki/Cuesti%C3%B3n_romana",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Roman question",
+      "url": "https://en.wikipedia.org/wiki/Roman_question",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -23582,6 +23705,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1860 casi todos los dominios papales habían pasado a manos piamontesas y en marzo de 1861 el Parlamento italiano declaró Roma capital, pero no pudo instalarse en ella. La guarnición francesa se retiró con la guerra franco-prusiana."
+    },
+    {
+     "titulo": "La toma",
+     "nivel": "hecho",
+     "texto": "El 20 de septiembre de 1870, tras tres horas de cañoneo, los bersaglieri entraron por la brecha de Porta Pia; murieron 49 soldados italianos y 19 zuavos pontificios. Roma y el Lacio se anexionaron tras un plebiscito."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La Ley de Garantías de 13 de mayo de 1871 ofrecía honores de soberano, embajadores y una asignación anual. Pío IX la rechazó para no parecer «capellán del rey» y los papas quedaron recluidos por decisión propia hasta 1929, cuando los Pactos de Letrán cerraron la cuestión con una compensación menor de la que habría correspondido por aquella ley."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que el miedo a desaparecer desató una campaña católica contra masones y judíos que sigue hoy en internet. Rubén Avilés ve en 1870 la reunificación con los Saboya y llama nobleza negra a las familias que apoyaron al papa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La campaña antimasónica y antijudía del XIX consta; su continuidad directa hasta las redes actuales es juicio del autor."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -24911,6 +25061,11 @@ window.CRONO = {
       "titulo": "Hermetic Order of the Golden Dawn",
       "url": "https://en.wikipedia.org/wiki/Hermetic_Order_of_the_Golden_Dawn",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden Hermética de la Aurora Dorada",
+      "url": "https://es.wikipedia.org/wiki/Orden_Herm%C3%A9tica_de_la_Aurora_Dorada",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -24922,6 +25077,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Los documentos",
+     "nivel": "hecho",
+     "texto": "Parte de los llamados Manuscritos Cifrados, que el masón Woodford pasó en 1886 a William Wynn Westcott, quien los descifró en 1887. Westcott dijo haberse carteado con una rosacruz alemana, Anna Sprengel, que habría autorizado la orden."
+    },
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Westcott, Mathers y Woodman, masones y de la Societas Rosicruciana in Anglia, abrieron en 1888 el templo Isis-Urania en Londres, con grados jerárquicos. A diferencia de la masonería, admitía mujeres en igualdad."
+    },
+    {
+     "titulo": "Crisis",
+     "nivel": "hecho",
+     "texto": "A finales de los noventa crecieron las disputas con Mathers; en 1900 la iniciación de Crowley en París contra el criterio de los adeptos londinenses fue el detonante, Londres se declaró independiente, Yeats acabó dimitiendo y la orden se fragmentó."
+    },
+    {
+     "titulo": "Influencia",
+     "nivel": "hecho",
+     "texto": "Inspiró buena parte de la magia ceremonial posterior, incluidas Thelema y la Wicca."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés dice que los Medici, con otras familias (Dreyfus, Sassoon, Pritzker), administran la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo buscado no aparece ninguna de esas familias."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -28845,6 +29032,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Humanum genus",
       "url": "https://es.wikipedia.org/wiki/Humanum_genus",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Humanum genus",
+      "url": "https://en.wikipedia.org/wiki/Humanum_genus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28861,6 +29053,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "Llega con la industrialización, el marxismo y la pérdida de Roma en 1870, y tras condenas de la masonería en 1738, 1751, 1821, 1826 y 1829."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "León XIII la promulgó el 20 de abril de 1884. Plantea con san Agustín dos ciudades enfrentadas, describe la doctrina masónica como naturalismo que conduce al indiferentismo religioso, critica su disciplina sobre los miembros y su proyecto de educación laica, soberanía popular y separación de Iglesia y Estado."
+    },
+    {
+     "titulo": "Respuesta",
+     "nivel": "hecho",
+     "texto": "Albert Pike, dirigente del Rito Escocés en el sur de EE. UU., publicó una réplica. La Santa Sede mantuvo su juicio negativo en la declaración de 1983."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es la visión de la Iglesia sobre la masonería; no se ha leído aquí la réplica de Pike."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -30182,6 +30401,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Infalibilidad pontificia",
       "url": "https://es.wikipedia.org/wiki/Infalibilidad_pontificia",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Papal infallibility",
+      "url": "https://en.wikipedia.org/wiki/Papal_infallibility",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30193,6 +30417,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La idea, según sus defensores, estaba en la teología medieval y era mayoritaria en la Contrarreforma; se apoya en la primacía de Pedro. En el propio concilio hubo padres y teólogos contrarios al dogma o a definirlo."
+    },
+    {
+     "titulo": "Qué se definió",
+     "nivel": "hecho",
+     "texto": "El 18 de julio de 1870 la constitución Pastor aeternus del Vaticano I declaró infalibles las definiciones ex cathedra en fe y moral. No significa que el papa no pueda pecar ni equivocarse en lo demás. El Vaticano II la ratificó."
+    },
+    {
+     "titulo": "Uso",
+     "nivel": "hecho",
+     "texto": "Se discute si se ejerce rara vez y de forma explícita o a menudo. El ejemplo claro es la definición de la Asunción por Pío XII en 1950."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hipotesis",
+     "texto": "Coincide en el tiempo con la pérdida del poder temporal: la autoridad espiritual se concentra cuando el territorio desaparece. Es una observación de Nexus, no una causa demostrada."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra fija en 1870 el final de la toma de control del Vaticano por la Compañía."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no hay base para una toma de control jesuita."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -32155,6 +32411,33 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La presencia jesuita arranca con Francisco Javier en 1549, quien ya quería fundar una universidad en la capital; después vinieron la prohibición del siglo XVII y la vuelta tras la apertura Meiji."
+    },
+    {
+     "titulo": "La universidad",
+     "nivel": "hecho",
+     "texto": "La Compañía abrió en Tokio en 1913 una escuela especial, que obtuvo rango universitario en 1928, el primer centro católico que lo logró en Japón. Es la Universidad Sofía (Jōchi), privada, con sede en Yotsuya."
+    },
+    {
+     "titulo": "Peso actual",
+     "nivel": "hecho",
+     "texto": "Se la cuenta entre las tres mejores universidades privadas del país, con unos 12.000 estudiantes de grado y más de 1.300 de posgrado según la fuente en inglés. Entre sus antiguos alumnos figura el general jesuita Adolfo Nicolás en la lista de personas vinculadas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, al no poder cristianizar Japón, los jesuitas alteraron el rumbo de sus dinastías y a comienzos del XX manejaron a uno de sus líderes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la obra educativa. No se ha hallado respaldo para el manejo de la dinastía ni se identifica al líder."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -32542,6 +32825,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El origen del término",
+     "nivel": "hecho",
+     "texto": "Un estudio en The Review of Politics dice que uno de los primeros en usar «justicia social» fue Antonio Rosmini y subraya que los orígenes y el sentido de la expresión son poco claros."
+    },
+    {
+     "titulo": "Taparelli",
+     "nivel": "hecho",
+     "texto": "El historiador Thomas Behr presenta a Luigi Taparelli como pionero católico de una política basada en el derecho natural tomista, colaborador de La Civiltà Cattolica, cuya influencia se ve en las encíclicas sociales, incluidas sus ideas de justicia social y subsidiariedad. Su tratado principal no se ha traducido al inglés."
+    },
+    {
+     "titulo": "Entre dos posiciones",
+     "nivel": "hecho",
+     "texto": "Behr lo sitúa entre los teóricos de los derechos naturales como Hobbes y Locke y los teóricos opuestos a ellos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que el jesuita Taparelli, contemporáneo del trabajo de Marx, fue el primero en usar la justicia social junto a la ciencia del socialismo, apoyándose en un «Fuentes» sin identificar."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La prioridad entre Taparelli y Rosmini se discute. No se ha leído el artículo completo de The Review of Politics, solo su resumen, ni se ha identificado a «Fuentes»."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -36472,6 +36782,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Mirari vos",
       "url": "https://es.wikipedia.org/wiki/Mirari_vos",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Mirari vos",
+      "url": "https://en.wikipedia.org/wiki/Mirari_vos",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36484,6 +36799,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En octubre de 1830 Lamennais, Montalembert y Lacordaire fundaron L'Avenir, que defendía a la vez la autoridad del papa y las libertades modernas, con separación de Iglesia y Estado y renuncia a privilegios: el catolicismo liberal."
+    },
+    {
+     "titulo": "La presión",
+     "nivel": "hecho",
+     "texto": "Gobiernos que garantizaban la estabilidad de los Estados Pontificios pidieron una condena, y los consejeros del papa creían que callar equivalía a aprobar a Lamennais."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Publicada en agosto de 1832, critica esas ideas sin nombrarlo: condena el indiferentismo y, como fruto suyo, la libertad de conciencia, de culto y de prensa y la separación, y defiende el derecho divino de los reyes frente a la soberanía popular."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "El interés por la estabilidad de los dominios del papa pesó en la condena, según la fuente en inglés."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Cuánto fue presión de las cortes y cuánto convicción doctrinal admite discusión."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -47180,6 +47527,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Rerum novarum",
       "url": "https://es.wikipedia.org/wiki/Rerum_novarum",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Rerum novarum",
+      "url": "https://en.wikipedia.org/wiki/Rerum_novarum",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -47192,6 +47544,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "La Revolución Industrial, el movimiento obrero y el socialismo planteaban la «cuestión social», y la Iglesia quería además frenar la descristianización de los trabajadores."
+    },
+    {
+     "titulo": "Quién la preparó",
+     "nivel": "hecho",
+     "texto": "El primer borrador es de Tommaso Zigliara; influyeron el teólogo Ketteler y el cardenal Manning, y colaboró el secretario de cartas latinas Tarozzi."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Publicada el 15 de mayo de 1891, defiende sindicatos y salario suficiente, afirma la propiedad privada como derecho natural dentro de la justicia y rechaza tanto el socialismo de Estado como el capitalismo sin reglas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Busca un equilibrio entre capital y trabajo; de ella parten el distributismo y la democracia cristiana."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "La han continuado encíclicas como Quadragesimo anno (1931) o Centesimus annus (1991)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Se discute su lectura: católicos socialistas subrayan su carácter anticapitalista y niegan que rechace todo socialismo."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -49200,6 +49589,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Entrada",
+     "nivel": "hecho",
+     "texto": "Un artículo de Steiner sobre un cuento de Goethe, en 1899, hizo que los teósofos lo invitaran; desde 1902 dirigió la sección alemana. Desde el principio puso en el centro a Cristo, que en la teosofía era un maestro entre otros."
+    },
+    {
+     "titulo": "Roces",
+     "nivel": "hecho",
+     "texto": "En el congreso de Múnich de 1907 se vieron sus diferencias con Annie Besant: Steiner quería una vía occidental propia."
+    },
+    {
+     "titulo": "Ruptura",
+     "nivel": "hecho",
+     "texto": "Leadbeater y Besant presentaron al joven Krishnamurti como instructor del mundo y encarnación de Maitreya. Steiner lo rechazó y vetó en su sección a los miembros de la Orden de la Estrella de Oriente, lo que contravenía los estatutos; fundó la Sociedad Antroposófica a finales de 1912 y Besant retiró la carta a la sección alemana. La mayoría de los teósofos de habla alemana lo siguió. Krishnamurti repudió ese papel en 1929."
+    },
+    {
+     "titulo": "La guerra de acusaciones",
+     "nivel": "hecho",
+     "texto": "Steiner acusó a la presidenta de arbitrariedad; los antropósofos se ofendieron cuando Besant afirmó falsamente que a Steiner lo habían educado los jesuitas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala sitúa su entrada en 1904 (o 1902), explica el choque por el peso del pensamiento oriental frente a Jesucristo y ata la ruptura al caso Krishnamurti."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El relato del autor coincide en lo esencial. Según la misma fuente, Steiner dijo después que nunca se consideró parte del movimiento teosófico, y se discute su afiliación formal."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -49665,6 +50086,33 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El encargo",
+     "nivel": "hecho",
+     "texto": "Se concibió como templo expiatorio pagado con limosnas y donaciones, en un solar de Sant Martí de Provençals, dedicado a la Sagrada Familia como pedía el sacerdote Josep Manyanet."
+    },
+    {
+     "titulo": "Comienzo",
+     "nivel": "hecho",
+     "texto": "El arquitecto diocesano Francisco de Paula del Villar hizo un proyecto neogótico; el 19 de marzo de 1882 el obispo Urquinaona puso la primera piedra. Discrepancias llevaron a que en 1883 lo asumiera Gaudí. En 1885 se celebraron las primeras misas en la capilla de San José de la cripta."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En 1890 una gran donación anónima animó a Gaudí a ampliar el proyecto y a levantar la fachada del Nacimiento, empezada en 1891; el novelista Julià Bretos la atribuye a Isabel Bolet, viuda de un comerciante de Sants."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés plantea si la obra no empezó en realidad en el año 882."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El inicio en 1882 está documentado por la propia basílica; no se ha hallado nada que apunte al año 882."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -51825,6 +52273,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Gregorio Pietro Agagianian",
       "url": "https://en.wikipedia.org/wiki/Gregorio_Pietro_Agagianian",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Gregorio Pedro XV Agagianian",
+      "url": "https://es.wikipedia.org/wiki/Gregorio_Pedro_XV_Agagianian",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51855,6 +52308,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El ingreso",
+     "nivel": "hecho",
+     "texto": "Stalin dejó la escuela en 1894 y ganó una plaza gratuita en el seminario teológico de Tiflis, ortodoxo. Detestaba la rutina de oraciones y clases; un compañero escribió que se sentían presos."
+    },
+    {
+     "titulo": "Rebeldía y salida",
+     "nivel": "hecho",
+     "texto": "Entró en una organización secreta, Mesame Dasi, donde conoció a socialistas. Salió en mayo de 1899: el libro de conducta dice que fue expulsado por poco fiable políticamente, él sostuvo que fue por hacer propaganda marxista, y su madre dio otra versión."
+    },
+    {
+     "titulo": "Lo que dijo sobre los jesuitas",
+     "nivel": "hecho",
+     "texto": "En la entrevista con Emil Ludwig explicó que se hizo revolucionario por protesta contra el régimen humillante y los «métodos jesuíticos» del seminario; reconoció a los jesuitas constancia y método, pero reprochó el espionaje y la intromisión en las conciencias."
+    },
+    {
+     "titulo": "Agagianian",
+     "nivel": "hecho",
+     "texto": "Gregorio Pedro Agagianian nació en Ajaltsije en 1895, estudió en un seminario de Tiflis y en Roma, y llegó a cardenal."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra cuenta que Stalin coincidió allí con Agagianian y cita a Aleksándrov (1947) sobre el «régimen jesuítico»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Agagianian tenía tres años cuando Stalin salió, así que no coincidieron como seminaristas. «Jesuítico» es un calificativo de Stalin sobre un centro ortodoxo."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
