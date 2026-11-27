@@ -12695,6 +12695,11 @@ window.CRONO = {
       "titulo": "O. Akopyan, Boscovich, Copernicus and Cosmological Authority (2025)",
       "url": "https://hrcak.srce.hr/index.php/clanak/478729",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Compañía de Jesús",
+      "url": "https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Jes%C3%BAs",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12743,6 +12748,48 @@ window.CRONO = {
      "atribuida_a": "André Dupin",
      "verificacion": "dudosa",
      "fuente": "No aparece en obras de Dupin ni en fuentes de referencia: búsquedas en francés, inglés y español sin resultado (12-11-2026). Circula sin obra ni fecha."
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Ignacio de Loyola y seis compañeros, entre ellos Francisco Javier, Fabro y Laínez, hicieron votos en 1534; Pablo III aprobó la orden en septiembre de 1540. Los primeros se dispersaron enseguida: Rodrigues a Portugal, Javier a Oriente, Fabro por Europa."
+    },
+    {
+     "titulo": "Gobierno",
+     "nivel": "hecho",
+     "texto": "El órgano supremo es la Congregación General, que se reúne al morir el general o para asuntos graves. El superior general tiene la curia en Roma."
+    },
+    {
+     "titulo": "Expansión",
+     "nivel": "hecho",
+     "texto": "Fundó colegios a petición de ciudades, participó en Trento y en la reforma católica y desarrolló misiones en India, China, Japón, Canadá y las reducciones sudamericanas."
+    },
+    {
+     "titulo": "Conflictos",
+     "nivel": "hecho",
+     "texto": "Chocó con la Inglaterra isabelina, Luis XIV, el regalismo español, la Alemania de Bismarck, gobiernos liberales y regímenes comunistas. Expulsada desde 1759 de buena parte de Europa y sus colonias, suprimida en 1773, volvió en 1814."
+    },
+    {
+     "titulo": "Hoy",
+     "nivel": "hecho",
+     "texto": "Trabaja en 112 países; con 15.306 miembros en 2020 la fuente la da como la mayor orden religiosa católica, centrada en educación, investigación, acción social y misión."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hipotesis",
+     "texto": "Educar élites y aconsejar a gobernantes da influencia real, y eso explica parte de las expulsiones; no demuestra un mando secreto sobre estados, bancos o servicios."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra, Rubén Avilés, Guillermo Mas Arellano, Giuseppe Nocera y Artur Sala la presentan como ejército o servicio de inteligencia de Roma, vinculado a la nobleza negra, la banca, las revoluciones y el adoctrinamiento; el detalle de cada tesis está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes confirman la red educativa, la obediencia al general y al papa y las expulsiones. Las tesis de control global no tienen respaldo en lo leído."
     }
    ],
    "naturaleza": "logias",
@@ -14905,6 +14952,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El Estado",
+     "nivel": "hecho",
+     "texto": "Tras 59 años en que los papas se recluyeron, los Pactos de Letrán de 1929 reconocieron mutuamente a Italia y la Santa Sede y crearon el Estado de la Ciudad del Vaticano."
+    },
+    {
+     "titulo": "Las bulas del siglo XV",
+     "nivel": "hecho",
+     "texto": "El 30 de marzo de 2023 el Vaticano repudió la «doctrina del descubrimiento», apoyada en bulas que legitimaron la apropiación de tierras indígenas; afirmó que no reflejaban la igual dignidad de esos pueblos y que nunca se consideraron expresión de la fe. La agencia AP lo presentó como reconocimiento de su complicidad en abusos coloniales."
+    },
+    {
+     "titulo": "Los príncipes del solio",
+     "nivel": "hecho",
+     "texto": "El título de príncipe asistente era el mayor honor para un laico en la corte; lo tuvieron los jefes de los Colonna y, de 1735 a 1958, los Orsini. No se usa desde la reforma de 1968."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hipotesis",
+     "texto": "Las bulas dieron cobertura jurídica a potencias coloniales: ahí el poder religioso y el económico se tocaron de forma documentada. Eso no equivale a una propiedad del planeta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra describe una corporación de linajes romanos dueña del planeta, informada por 400.000 sacerdotes y gobernada por príncipes; Rubén Avilés, la mayor red de inteligencia del mundo; Giuseppe Nocera la sitúa en el centro de una estructura con la City y el Distrito de Columbia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No hay respaldo para la propiedad del mundo. Las finanzas del Vaticano no se tratan en las fuentes leídas aquí."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -25417,6 +25496,11 @@ window.CRONO = {
       "titulo": "Britannica: Zionism",
       "url": "https://www.britannica.com/topic/Zionism",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Greater Israel",
+      "url": "https://en.wikipedia.org/wiki/Greater_Israel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25432,6 +25516,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El nombre",
+     "nivel": "hecho",
+     "texto": "«Eretz Israel completo» se usa con sentidos distintos: el Estado reconocido más el Golán, Cisjordania y Gaza, o una región mucho mayor, del Nilo al Éufrates."
+    },
+    {
+     "titulo": "La base bíblica",
+     "nivel": "hecho",
+     "texto": "La Biblia da límites que varían: Génesis 15 describe la tierra desde el arroyo de Egipto hasta el Éufrates, prometida a la descendencia de Abraham; Números 34 y Ezequiel 47 dan una más reducida, y otros pasajes dicen «de Dan a Beerseba»."
+    },
+    {
+     "titulo": "Política",
+     "nivel": "hecho",
+     "texto": "Grupos revisionistas como Betar e Irgún consideraban Gran Israel el territorio del Mandato, con Transjordania. El gobierno de las tres primeras décadas aceptó la partición; la oposición revisionista, origen del Likud, reclamaba la tierra entera. La conquista de 1967 reavivó la idea."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo liga a discursos bíblicos de políticos estadounidenses y del embajador israelí, lo entiende como teocracia que exigiría el tercer templo y cree imposible conquistar y conservar el territorio mayor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Existe como reivindicación de sectores; no es la frontera reclamada oficialmente en lo leído. Las declaraciones concretas que cita el autor no se han comprobado."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -33491,6 +33602,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Exhortación fechada el 4 de octubre de 2023, ocho años después de Laudato si', dirigida a todas las personas de buena voluntad sobre la crisis climática."
+    },
+    {
+     "titulo": "El argumento",
+     "nivel": "hecho",
+     "texto": "Dice que las respuestas no bastan, rechaza tanto la negación como diagnósticos apocalípticos poco fundados, advierte de posibles puntos sin retorno y critica el paradigma tecnocrático y la idea de crecimiento ilimitado, también ante la inteligencia artificial."
+    },
+    {
+     "titulo": "Seguir el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "Denuncia que quienes tienen más recursos influyen en la opinión con publicidad e información falsa para proyectos contaminantes."
+    },
+    {
+     "titulo": "Gobierno mundial",
+     "nivel": "hecho",
+     "texto": "Pide favorecer acuerdos multilaterales entre Estados y distingue expresamente el multilateralismo de una autoridad mundial concentrada en una persona o una élite."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés sostiene que busca crear una nueva religión mundial ecologista y un gobierno mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El texto rechaza la lectura de un poder mundial concentrado; la «nueva religión» es interpretación del autor."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -33528,6 +33671,11 @@ window.CRONO = {
       "titulo": "Au siège de l'ONU, le Pape François appelle à protéger l'environnement et lutter contre l'exclusion",
       "url": "https://www.un.org/sustainabledevelopment/fr/2015/09/25/au-siege-de-lonu-le-pape-francois-appelle-a-proteger-lenvironnement-et-lutter-contre-lexclusion/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Laudato si'",
+      "url": "https://es.wikipedia.org/wiki/Laudato_si%27",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33547,6 +33695,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "La encíclica",
+     "nivel": "hecho",
+     "texto": "Firmada el 24 de mayo de 2015 y presentada el 18 de junio, es la segunda de Francisco, se inscribe en la doctrina social y propone una «ecología integral», con crítica del consumismo y del desarrollo irresponsable y llamada a una acción mundial."
+    },
+    {
+     "titulo": "En la ONU",
+     "nivel": "hecho",
+     "texto": "En su discurso ante la ONU en 2015, Francisco unió ambiente y exclusión y pidió reformar organismos como el Consejo de Seguridad y las instituciones financieras."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Pidió que esos organismos no sometan a los países en desarrollo a sistemas de crédito asfixiantes, para limitar abusos y usura."
+    },
+    {
+     "titulo": "Críticas",
+     "nivel": "tesis",
+     "texto": "El físico Lawrence Krauss la elogia en la intención pero la ve incompleta por partir de la teología."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés ve la encíclica, el viaje a la ONU y una delegación jesuita de 2019 como presión de la Compañía por la «justicia ambiental»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El respaldo a la agenda ambiental es público; atribuirlo a una dirección jesuita es del autor."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -42550,6 +42730,11 @@ window.CRONO = {
       "titulo": "DVIDS: Reception aboard USS Enterprise (19-10-2012)",
       "url": "https://www.dvidshub.net/image/763740/reception-aboard-uss-enterprise",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Sagrada Orden Militar Constantiniana de San Jorge",
+      "url": "https://es.wikipedia.org/wiki/Sagrada_Orden_Militar_Constantiniana_de_San_Jorge",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -42560,6 +42745,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "La leyenda",
+     "nivel": "tesis",
+     "texto": "La orden se ha presentado como creación de Constantino tras el Puente Milvio (312) o del emperador Isaac Ángelo en 1190."
+    },
+    {
+     "titulo": "Lo documentado",
+     "nivel": "hecho",
+     "texto": "Esos orígenes son apócrifos; entre quienes los promovieron hubo falsificadores y buscadores de títulos. El gran maestrazgo pasó a Francesco Farnese el 11 de enero de 1698, confirmado por el emperador Leopoldo I y por Inocencio XII en 1699, con sucesión por primogenitura masculina, y de los Farnese a los Borbones."
+    },
+    {
+     "titulo": "La disputa",
+     "nivel": "hecho",
+     "texto": "Hoy se disputan el maestrazgo dos pretendientes a la jefatura de la casa de Borbón-Dos Sicilias, Pedro y Carlos."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hipotesis",
+     "texto": "Las órdenes dinásticas sirven para mantener el rango de casas que ya no reinan; es una observación de Nexus."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra, Rubén Avilés y Giuseppe Nocera le atribuyen acuerdos con Estados Unidos, pasaportes, estatus en la ONU y autoridad sobre otras órdenes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la recepción a bordo del USS Enterprise en 2012. No se han hallado acuerdos con el gobierno estadounidense."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -42895,6 +43112,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Heredera de los hospitalarios de Jerusalén, es orden religiosa y a la vez sujeto de derecho internacional, con misión permanente ante la ONU desde 1994."
+    },
+    {
+     "titulo": "La diplomacia",
+     "nivel": "hecho",
+     "texto": "Declara relaciones con 118 países y la Unión Europea y acuerdos de cooperación con más de 50 Estados, que según la propia orden sirven para facilitar la ayuda humanitaria, entrar en zonas de crisis e importar material sanitario."
+    },
+    {
+     "titulo": "Dirección",
+     "nivel": "hecho",
+     "texto": "John Dunlap, socio de un bufete de Nueva York y de los pocos profesos de la orden, fue nombrado lugarteniente del gran maestre por Francisco en junio de 2022 y en 2023 pasó a gran maestre."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Su actividad declarada es sobre todo sanitaria, con decenas de miles de voluntarios y empleados; en las páginas leídas no se detalla su presupuesto."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guerra, Avilés, Mas Arellano y Nocera la presentan como red de familias nobles con inmunidad, instrumento de inteligencia ligado a la CIA o a la nobleza negra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las cifras y el estatus constan por fuentes propias de la orden. La inmunidad es de sus diplomáticos acreditados; el uso como servicio de inteligencia no está respaldado en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -44320,6 +44569,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Superior general de la Compañía de Jesús",
       "url": "https://es.wikipedia.org/wiki/Superior_General_de_la_Compañía_de_Jesús",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Superior general of the Society of Jesus",
+      "url": "https://en.wikipedia.org/wiki/Superior_general_of_the_Society_of_Jesus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44342,6 +44596,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El apodo",
+     "nivel": "hecho",
+     "texto": "«Papa negro» se llama al superior general de los jesuitas, cuyo título formal es prepósito general. Viene del color de las sotanas frente al blanco del papa y de la imagen, extendida en países protestantes en los siglos XVI y XVII, del poder de la Compañía sobre la Iglesia."
+    },
+    {
+     "titulo": "El cargo",
+     "nivel": "hecho",
+     "texto": "El primero fue Ignacio de Loyola (1541-1556) y el trigésimo primero es Arturo Sosa, elegido el 14 de octubre de 2016."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano habla de profecías sobre un papa negro y uno blanco, añade un «papa gris» de la familia Orsini que algunos teóricos creen la persona más poderosa, y atribuye a los tres un culto a Saturno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El apodo consta. En lo leído no hay papa gris ni culto a Saturno."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -48339,6 +48615,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El hallazgo",
+     "nivel": "hecho",
+     "texto": "La paleógrafa Barbara Frale identificó en 2001, en los archivos vaticanos, el pergamino de Chinon, fechado en agosto de 1308 y escrito por tres cardenales; había quedado olvidado por una referencia de catálogo vaga desde 1628."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "tesis",
+     "texto": "Según Frale, muestra que Clemente V absolvió de herejía al último maestre, Jacques de Molay, y a la dirección. La orden se disolvió igualmente en 1312, al parecer bajo la presión de Felipe IV."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La edición de 2007 de las actas, con réplica del pergamino, salió en 799 ejemplares a 5.900 euros. En el siglo XIV, la fuente señala el interés del rey en las riquezas del Temple."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera sostiene que en octubre de 2007 el Vaticano reconoció la inocencia templaria y que casi a la vez Isabel II reconoció una Orden del Templo de Salomón, que describe como principado sin territorio con pasaportes y presencia en la ONU."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Publicar un documento medieval no restaura ninguna orden. El reconocimiento por Isabel II no aparece en lo leído."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -54263,6 +54566,11 @@ window.CRONO = {
       "titulo": "Britannica: Temple of Jerusalem",
       "url": "https://www.britannica.com/topic/Temple-of-Jerusalem",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Third Temple",
+      "url": "https://en.wikipedia.org/wiki/Third_Temple",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54278,6 +54586,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La esperanza",
+     "nivel": "hecho",
+     "texto": "La visión del santuario transformado de Ezequiel funda expectativas mesiánicas. En la teología judía tradicional el templo depende de la llegada del Mesías, y los rabinos difieren en si lo construirá o bajará del cielo."
+    },
+    {
+     "titulo": "Los obstáculos",
+     "nivel": "hecho",
+     "texto": "La ley religiosa sobre pureza impide, para la mayoría, pisar las zonas sagradas mientras no haya cenizas de la vaca roja. La explanada, Haram al-Sharif, alberga Al-Aqsa y la Cúpula de la Roca, tercer lugar santo del islam, bajo clérigos musulmanes y con seguridad policial israelí."
+    },
+    {
+     "titulo": "Quién lo promueve",
+     "nivel": "hecho",
+     "texto": "Una minoría ortodoxa, como el Instituto del Templo, quiere construirlo hoy; el rabino Goren lo defendió desde los años sesenta frente a la prohibición de otros rabinos."
+    },
+    {
+     "titulo": "Conflicto",
+     "nivel": "hecho",
+     "texto": "En 1996 la apertura de un túnel arqueológico junto al recinto desató disturbios con unos 80 muertos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano cita a Pete Hegseth llamando milagros a 1917, 1948 y 1967 y viendo posible restablecer el templo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No hay plan de Estado en lo leído. La cita de Hegseth no se ha comprobado."
+    }
+   ],
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -95779,6 +96119,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Jano",
       "url": "https://es.wikipedia.org/wiki/Jano",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Janus",
+      "url": "https://en.wikipedia.org/wiki/Janus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -95793,6 +96138,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El dios",
+     "nivel": "hecho",
+     "texto": "Uno de los dioses más antiguos de Roma, de los comienzos, las puertas y los tránsitos, también del tiempo y la dualidad, representado con dos caras. Se le invocaba antes que a cualquier otro."
+    },
+    {
+     "titulo": "El calendario y la ciudad",
+     "nivel": "hecho",
+     "texto": "Enero lleva su nombre y se le invocaba el primer día; el monte Janículo también le debe el nombre."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "tesis",
+     "texto": "Según el mito, inventó el dinero y fue el primero en acuñar moneda, y el as lleva su efigie; también se le atribuyen la navegación y la agricultura."
+    },
+    {
+     "titulo": "Debate",
+     "nivel": "hecho",
+     "texto": "Su naturaleza se discute: la mayoría de estudiosos reúne sus funciones en presidir todo comienzo y transición; otros lo identifican con la luz, el Sol o la Luna."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo ve como el dios de la iniciación y clave de un tiempo cíclico cuyos símbolos usarían quienes quieren renovar los ciclos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La lectura iniciática es del autor; su libro no se ha consultado."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
