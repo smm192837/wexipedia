@@ -2674,6 +2674,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La conspiración",
+     "nivel": "hecho",
+     "texto": "El 28 de junio de 1914 jóvenes de la Joven Bosnia atentaron en Sarajevo contra el archiduque Francisco Fernando. Detrás estaban Dimitrijević, jefe del espionaje serbio, el mayor Tankosić y el agente Malobabić. Tankosić entrenó a los ejecutores y les dio bombas, pistolas, dinero, cianuro y un mapa; Malobabić facilitó la ruta clandestina. El alcance completo de la conspiración no está aclarado."
+    },
+    {
+     "titulo": "El día",
+     "nivel": "hecho",
+     "texto": "Al paso de la comitiva varios conjurados no actuaron y Čabrinović lanzó una bomba que falló su objetivo. Más tarde el coche se detuvo para dar marcha atrás, el motor se paró y Princip disparó dos veces a quemarropa con una pistola FN Modelo 1910, matando al archiduque y a su esposa Sofía."
+    },
+    {
+     "titulo": "Juicios y consecuencias",
+     "nivel": "hecho",
+     "texto": "Los apresados en Bosnia fueron juzgados en Sarajevo en octubre de 1914; los oficiales serbios, por un tribunal serbio en Salónica en 1916-1917, que acabó con tres ejecutados. El atentado desencadenó la crisis que llevó a la guerra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que el ejecutor pertenecía a la «Joven Serbia», una organización mazziniana, que la bomba hirió a otros del cortejo y que Princip disparó cuando el coche se detuvo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El relato del día coincide. La organización se llamaba Joven Bosnia y en lo leído su apoyo vino de oficiales serbios, no de una red de Mazzini.\n\nAbierto: cuánto sabía el gobierno serbio."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -13294,6 +13321,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Austria-Hungría",
+     "nivel": "hecho",
+     "texto": "Creada en 1867 tras la derrota austriaca frente a Prusia, unía bajo un mismo Habsburgo dos Estados con parlamentos, gobiernos y tribunales propios, sin ciudadanía ni bandera comunes. Ocupaba Bosnia desde 1878 y la incorporó en 1908. Se disolvió en 1918."
+    },
+    {
+     "titulo": "El Imperio otomano",
+     "nivel": "hecho",
+     "texto": "Estado multiétnico gobernado por la dinastía osmanlí, que en su apogeo de los siglos XVI y XVII se extendía por tres continentes. En la Gran Guerra combatió con las Potencias Centrales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra presenta el tablero de 1914 como un reparto entre cuatro imperios: Habsburgo, Románov, alemán y otomano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La descripción es la habitual y coincide con la versión oficial. Hoy solo se han leído las entradas del austrohúngaro y del otomano; faltan el alemán y el ruso. Quedan fuera del recuento los imperios británico y francés, que también combatieron."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -26106,6 +26155,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "Movimiento revolucionario fundado por estudiantes en mayo de 1911 en Bosnia y Herzegovina, como respuesta a la anexión austrohúngara de 1908. Buscaba liberar Bosnia y unir a los eslavos del sur con Serbia. Lo formaban sobre todo escolares serbobosnios, pero también musulmanes y croatas de Bosnia."
+    },
+    {
+     "titulo": "Ideas y miembros",
+     "nivel": "hecho",
+     "texto": "Se inspiraba en el romanticismo alemán, el anarquismo, el socialismo revolucionario ruso, Dostoievski, Nietzsche y la memoria de la batalla de Kosovo. Entre sus miembros estuvieron Gavrilo Princip, Trifko Grabež, Nedeljko Čabrinović, Danilo Ilić, Muhamed Mehmedbašić y el futuro Nobel Ivo Andrić."
+    },
+    {
+     "titulo": "Relación con la Mano Negra",
+     "nivel": "hecho",
+     "texto": "Sus miembros ejecutaron el atentado de Sarajevo. Según lo leído, solo uno tuvo contactos con la organización serbia Unificación o Muerte, la Mano Negra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sitúa a Princip militando desde joven en ella antes de pasar a la Mano Negra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La militancia consta. En lo leído no aparece Mazzini entre sus inspiradores.\n\nQue «solo un miembro» tuviera contacto contrasta con el reparto de armas por oficiales serbios que cuenta la entrada sobre el atentado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -31668,6 +31744,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "El National Foreign Trade Council es una asociación empresarial estadounidense dedicada a política de comercio internacional y fiscalidad, con sede en Washington."
+    },
+    {
+     "titulo": "Origen y acción",
+     "nivel": "hecho",
+     "texto": "Se creó en 1914 por una resolución de la primera convención nacional de comercio exterior; su primer presidente fue James Farrell, entonces presidente de U.S. Steel. Empezó con el comercio con el Caribe y Latinoamérica. Defiende financiación a la exportación para sus socios y ganó en el Tribunal Supremo el caso que anuló una ley de Massachusetts sobre Birmania."
+    },
+    {
+     "titulo": "Rufus Yerxa",
+     "nivel": "hecho",
+     "texto": "Abogado y antiguo funcionario estadounidense, fue representante comercial adjunto con George H. W. Bush y Clinton, once años director general adjunto de la OMC y presidente del consejo de 2016 a 2021."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera lo presenta como una de las organizaciones de la estructura global y destaca que su presidente fue subdirector de la OMC, situándolo en 2002."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso de Yerxa de la OMC al consejo consta, pero presidió el consejo de 2016 a 2021, no en 2002.\n\nEs un ejemplo claro de puerta giratoria entre un organismo y una asociación empresarial."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -32522,6 +32625,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El contexto",
+     "nivel": "hecho",
+     "texto": "En 1916 la guerra se alargaba más de lo previsto; en Alemania hubo las primeras protestas por restricciones de comida, inflación y desorganización, y la Entente había planeado ofensivas coordinadas."
+    },
+    {
+     "titulo": "La oferta",
+     "nivel": "hecho",
+     "texto": "Tras la toma de Bucarest, las Potencias Centrales, con Austria-Hungría a la cabeza según lo leído, ofrecieron la paz a la Entente el 12 de diciembre de 1916. Fue rechazada el 30 de diciembre."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que en 1916 Alemania iba ganando y ofreció a Gran Bretaña un armisticio sin exigencias, que los británicos vieron con buenos ojos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La oferta existió, dirigida a la Entente y rechazada. En lo leído no consta que fuera sin condiciones ni que Londres la viera bien, ni la gestión de Brandeis.\n\nLa fecha del rechazo difiere de la versión oficial, que habla de enero de 1917; puede haber más de una respuesta."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -34283,6 +34408,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Unificación o Muerte, la Mano Negra, fue una sociedad secreta militar serbia fundada en 1911 por conspiradores del golpe de 1903. Giraba en torno a Dragutin Dimitrijević, Apis, jefe del espionaje del Estado Mayor desde 1913. Exigía obediencia total y ordenaba ejecutar a quienes consideraba enemigos."
+    },
+    {
+     "titulo": "Programa",
+     "nivel": "hecho",
+     "texto": "Quería unir en un Estado a todos los serbios y a los eslavos del sur bajo mando serbio, enfrentándose a Austria-Hungría. Su revista se llamaba Pijemont, en alusión al papel de Piamonte en la unificación italiana. Reforzó el peso de los conspiradores en la corte, el Parlamento y los gobiernos."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "Chocó con el poder civil. Dimitrijević y otros fueron detenidos en 1916 y juzgados en Salónica en 1917, en un proceso muy discutido que los acusó de conspirar contra la dinastía, planear la muerte del regente y negociar con Alemania. Se supone que el príncipe Alejandro quería acabar con su influencia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra la describe como organización secreta militar que quería liberar los territorios serbios y construir la Gran Serbia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La descripción coincide con lo leído. El modelo italiano aparece en el nombre de la revista, lo que no implica relación con la red de Mazzini."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -35996,6 +36148,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El arma",
+     "nivel": "hecho",
+     "texto": "Gavrilo Princip disparó el 28 de junio de 1914 con una pistola FN Modelo 1910."
+    },
+    {
+     "titulo": "Su recorrido",
+     "nivel": "hecho",
+     "texto": "Las autoridades la confiscaron y se entregó, con la camisa ensangrentada del archiduque, a Anton Puntigam, sacerdote jesuita amigo cercano suyo, que dio los últimos sacramentos a la pareja. Los jesuitas austriacos las conservaron hasta que las ofrecieron en préstamo a un museo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que la pistola quedó en manos del jesuita que asistió a los archiduques y que años después los jesuitas la entregaron al museo militar de Viena."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coincide con lo leído. Que el arma acabara con el confesor y amigo de la víctima no indica por sí mismo relación con la conspiración."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
