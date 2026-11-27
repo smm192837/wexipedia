@@ -5348,9 +5348,36 @@ window.CRONO = {
       "titulo": "Britannica: Dmitry Donskoy",
       "url": "https://www.britannica.com/print/article/167042",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Batalla de Kulikovo",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Kulikovo",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "A finales de los años 1370 Dmitri, príncipe de Moscú, aprovechó las divisiones tártaras para afirmar cierta independencia. Mamái, que aspiraba a dirigir la Horda de Oro, llevó un ejército a imponer su autoridad."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 8 de septiembre de 1380 Dmitri cruzó el Don y le hizo frente; en las filas de Mamái había alanos, circasianos, rusos y genoveses. Mamái fue derrotado y perdió la pugna por la Horda, pero dos años después el nuevo jefe, Toqtamish, saqueó Moscú hasta que Dmitri aceptó pagar un tributo elevado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue una guerra civil religiosa entre dos ramas del cristianismo que ganó la apostólica; un icono de Yaroslavl hallado en 1959 mostraría pistolas, y después se fundó Moscú."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La batalla consta y Britannica señala que no liberó a Rusia del dominio mongol, aunque borró el recuerdo de la colaboración de Moscú con él. En lo buscado no aparecen la guerra religiosa ni el icono."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -11152,6 +11179,16 @@ window.CRONO = {
       "titulo": "Christopher Columbus: Legacy (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/biography/Christopher-Columbus/Legacy",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Descubrimiento de América",
+      "url": "https://es.wikipedia.org/wiki/Descubrimiento_de_Am%C3%A9rica",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Cristóbal Colón",
+      "url": "https://es.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11163,6 +11200,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Colón, tras fracasar en Portugal, buscaba llegar a Asia navegando al oeste. El 17 de abril de 1492 firmó con los Reyes Católicos las Capitulaciones de Santa Fe."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La expedición, al mando de Colón y por mandato de Isabel y Fernando, llegó el 12 de octubre de 1492 a Guanahani, en las Bahamas. Desde el segundo viaje avanzaron a la vez los descubrimientos, la conquista y la invasión."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Las Capitulaciones concedían a Colón los cargos de almirante, virrey y gobernador y una décima parte de las riquezas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, un grabado de 1493 muestra a Colón vestido de khan, con animales como en el arca y la bandera de Vladímir; el diluvio de Noé sería esta colonización «hordiana-otomana»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El viaje consta como empresa de la corona castellana y aragonesa. En lo buscado no aparecen el grabado ni nada que ligue la expedición con mongoles u otomanos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18130,9 +18194,41 @@ window.CRONO = {
       "titulo": "The Map as History: Pêro da Covilhã",
       "url": "https://www.the-map-as-history.com/Age-of-Discovery/the-voyage-of-pero-da-covilha",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Preste Juan",
+      "url": "https://es.wikipedia.org/wiki/Preste_Juan",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La leyenda de un rey cristiano en Oriente o en África oriental, el Preste Juan, pesó en la política y la navegación portuguesas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1487 Juan II envió a Pêro da Covilhã y Afonso de Paiva por el Mediterráneo y Egipto en busca de las especias y del Preste Juan en Etiopía. Fueron por Barcelona, Nápoles, Rodas, Alejandría y El Cairo; en 1488 bajaron por el mar Rojo hasta Adén, donde se separaron. En paralelo, Bartolomeu Dias dobló el extremo sur de África en 1488."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El objetivo comercial era conocer en origen el negocio de las especias; los enviados llevaban cuatrocientos cruzados de oro y una carta de crédito para banqueros europeos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el 10 de octubre de 1486 Juan II mandó dos misiones para aliarse contra los turcos, lo que marca el arranque de la colonización europea del mundo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las misiones constan, con salida en mayo de 1487 según lo leído. Que iniciaran la colonización mundial es interpretación del autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -22270,9 +22366,36 @@ window.CRONO = {
       "titulo": "Hussey: The Byzantine Empire Takes Shape 324-717 (The Byzantine World)",
       "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781003610878-1/byzantine-empire-takes-shape-324%E2%80%93717-hussey",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Constantinopla",
+      "url": "https://es.wikipedia.org/wiki/Constantinopla",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La ciudad se levantó sobre la colonia griega de Bizancio, fundada hacia 667 a. C., en un lugar estratégico entre Europa y Asia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Constantino ordenó la nueva ciudad y la consagró el 11 de mayo de 330 como Nueva Roma y capital. Lo fue del Imperio romano, del de Oriente, del Imperio latino y del otomano hasta 1922; hasta el siglo XIII se la tuvo por la mayor y más rica de Europa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, siguiendo a Fomenko, la Nueva Roma no la fundó Constantino en el siglo IV sino alguien hacia 1380, y duró poco."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La datación en 330 es la de las fuentes leídas, que encadenan imperios en la ciudad desde entonces. Hacia 1380 Constantinopla llevaba siglos documentada como capital; en lo buscado nada apoya la nueva fecha."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34514,9 +34637,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Grand Duchy of Moscow (archivo web)",
       "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20110217171856/http://en.wikipedia.org/wiki/Grand_Duchy_of_Moscow",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Zarato ruso",
+      "url": "https://es.wikipedia.org/wiki/Zarato_ruso",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Según Treccani, desde 1328, con Iván Kalitá, Moscú empezó su expansión; con Iván III (1462-1505) se unificó la gran Moscovia y en 1480 quedó derrotada definitivamente la Horda de Oro."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Iván IV subió al trono de zar en 1547 y transformó el Estado. Tras su reinado, la Época de los Problemas trajo luchas de boyardos, revueltas y la ocupación extranjera del Kremlin."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en el siglo XVI Moscú pasó a ser la capital, con arquitectos traídos de todas partes; Heródoto la describiría como un laberinto egipcio, la Biblia como la Jerusalén restaurada, y las fortalezas en estrella serían obra tártara."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Moscú era centro del principado desde el siglo XIV. Heródoto escribió unos mil ochocientos años antes; en lo buscado no aparece nada sobre las otras identificaciones."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -46851,6 +47001,16 @@ window.CRONO = {
       "titulo": "Frederick III, Holy Roman emperor (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/biography/Frederick-III-Holy-Roman-emperor",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Iván III de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_III_de_Rusia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Double-headed eagle",
+      "url": "https://en.wikipedia.org/wiki/Double-headed_eagle",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -46862,6 +47022,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El sello de Iván III llevaba a san Jorge matando al dragón, símbolo del principado de Moscú; la heráldica rusa se remonta a los sellos privados de los soberanos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1472 Iván III se casó con Sofía Paleóloga, sobrina del último emperador bizantino, y tras el matrimonio apareció en el sello estatal el águila bicéfala como símbolo de la herencia de Bizancio. Más tarde el escudo cambió varias veces."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, desde Iván III desaparecen de los sellos las inscripciones incomprensibles, y el sello de Federico III es idéntico al suyo porque bajo ese nombre se describe al mismo zar."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La adopción del águila consta. En las fuentes leídas no aparece Federico III ni la comparación de sellos; compartir el emblema no identifica a las personas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -52571,6 +52753,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Alexander Garden Obelisk",
       "url": "https://en.wikipedia.org/wiki/Alexander_Garden_Obelisk",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Utopía (Tomás Moro)",
+      "url": "https://es.wikipedia.org/wiki/Utop%C3%ADa_(Tom%C3%A1s_Moro)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Utopia (book)",
+      "url": "https://en.wikipedia.org/wiki/Utopia_(book)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52590,6 +52782,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Moro escribió la obra a raíz de su estancia en Flandes en una embajada. La primera parte es un diálogo sobre política y economía que alude a la Inglaterra de su tiempo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se publicó en 1516. El viajero Rafael Hitlodeo critica males de Europa, como la afición de los reyes a la guerra o la pena de muerte por robo, y la segunda parte describe la isla de Utopía, una comunidad pacífica con propiedad común de los bienes y autoridades elegidas por voto."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue la base sobre la que Marx y Hegel construyeron su tesis."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La propiedad común consta, y según la versión oficial se la cita como precursora del pensamiento socialista. En lo buscado no aparece nada que muestre que Hegel partiera de ella."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -62153,6 +62367,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Felipe II de España",
       "url": "https://es.wikipedia.org/wiki/Felipe II de España",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Felipe II de España",
+      "url": "https://es.wikipedia.org/wiki/Felipe_II_de_Espa%C3%B1a",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Philip II of Spain",
+      "url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62172,6 +62396,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo de Carlos I e Isabel de Portugal, nacido en Valladolid el 21 de mayo de 1527; murió en El Escorial el 13 de septiembre de 1598."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Rey de España desde 1556, de Portugal desde 1580 y rey consorte de Inglaterra de 1554 a 1558. Se veía como defensor de la Europa católica, venció en Lepanto y financió a la Liga Católica francesa. Terminó El Escorial en 1584, creó su biblioteca, que organizó Benito Arias Montano, y un gabinete de alquimia. Declaró bancarrotas en 1557, 1560, 1569, 1575 y 1596."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, levantó El Escorial, la construcción que más se parece al templo de Salomón, asesorado por Arias Montano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que Arias Montano organizó la biblioteca. En lo buscado no aparecen Salomón ni su asesoramiento en la arquitectura."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -63288,6 +63534,11 @@ window.CRONO = {
       "titulo": "Wikipedia: François Hotman",
       "url": "https://es.wikipedia.org/wiki/Fran%C3%A7ois_Hotman",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Francisco Hotman",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Hotman",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63299,6 +63550,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y escritor francés nacido en París el 23 de agosto de 1524 y muerto en Basilea en febrero de 1590. En 1548 fue a Ginebra como secretario de Calvino."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en Lausana y Estrasburgo. Tras la matanza de San Bartolomé de 1572 se refugió en Ginebra y en 1573 publicó «Franco-Gallia», en defensa de un gobierno representativo y una monarquía electiva; se le cuenta entre los pensadores monarcómanos junto a Beza y Duplessis-Mornay. En 1580 fue nombrado consejero de Enrique de Navarra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, formaba parte de la red calvinista de Sarpi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su calvinismo y sus vínculos con Ginebra y Navarra constan. En lo buscado no aparece Sarpi."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -69305,6 +69578,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Jean Bodin",
       "url": "https://es.wikipedia.org/wiki/Jean_Bodin",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Jean Bodin",
+      "url": "https://en.wikipedia.org/wiki/Jean_Bodin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69316,6 +69594,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Intelectual francés nacido en Angers en 1530 y muerto en Laon en 1596, que escribió de filosofía, derecho, política y economía."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En «Los seis libros de la República» fijó el concepto de soberanía y las bases teóricas de la monarquía absoluta. En 1568 explicó la subida de precios sobre todo por el aumento del oro y la plata, además de los monopolios. En «Démonomanie des sorciers» propuso formas de torturar a supuestos brujos, criticadas por colegas suyos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, siguiendo a Gauthier, Juan de Mariana se opone a Bodin, teórico del poder real absoluto y del derecho divino, por justificar la tiranía."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel como fundador del absolutismo consta. En lo buscado no aparece la oposición expresa de Mariana, y el libro de Gauthier no se ha abierto."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -71215,6 +71515,11 @@ window.CRONO = {
       "titulo": "Wikipedia (fr): Marianne",
       "url": "https://fr.wikipedia.org/wiki/Marianne",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Juan de Mariana",
+      "url": "https://en.wikipedia.org/wiki/Juan_de_Mariana",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71242,6 +71547,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jesuita, teólogo e historiador nacido en Talavera el 2 de abril de 1536 y muerto en Toledo en 1624. Ingresó en la Compañía y profesó en 1554; enseñó en Roma, donde tuvo de alumno a Belarmino, en Sicilia y en París."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En «De rege» (1599), escrito a petición del preceptor de Felipe III, sus acusadores vieron una justificación del tiranicidio, y el parlamento de París lo quemó en 1610 tras el asesinato de Enrique IV, cuyo asesino declaró no conocerlo. Su tratado contra la alteración de la moneda, que denuncia la devaluación para pagar gastos del Estado, le costó año y medio de encierro en Madrid."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, siguiendo a Florence Gauthier, puso la soberanía en el pueblo, por encima del rey, y «Marianne» vendría de él; tesis del autor es que contó con el aval del general jesuita y fue pieza de un juego a favor de la nobleza negra veneciana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El choque con el poder consta. La Wikipedia en español afirma que «Marianne» deriva de Mariana; otras fichas leídas antes recogen un origen en una canción occitana de 1792, así que queda discutido. En lo buscado no aparece el aval del general."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
