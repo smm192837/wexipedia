@@ -2830,6 +2830,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Masacre de Bolonia",
       "url": "https://es.wikipedia.org/wiki/Masacre_de_Bolonia",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Matanza de Bolonia",
+      "url": "https://es.wikipedia.org/wiki/Matanza_de_Bolonia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Bologna massacre",
+      "url": "https://en.wikipedia.org/wiki/Bologna_massacre",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -2848,6 +2858,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Italia vivía los «años de plomo», con atentados de extrema derecha y extrema izquierda y la llamada «estrategia de la tensión»."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 2 de agosto de 1980 una maleta bomba en la sala de espera de la estación mató a 85 personas e hirió a más de 200. El Estado apuntó primero a una causa fortuita y a las Brigadas Rojas, aunque la justicia atribuyó el atentado a los neofascistas NAR. Hubo desvíos de la investigación desde los servicios secretos: el general Musumeci, de la P2, fue condenado por pistas falsas. Investigaciones de los años 2020 señalaron a Licio Gelli y miembros de la P2 como instigadores, y en 2022 Paolo Bellini fue condenado a cadena perpetua; según la versión oficial, de forma definitiva en 2025."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue una operación de falsa bandera financiada por David Rockefeller y la Comisión Trilateral."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El desvío desde los servicios y el señalamiento de Gelli constan. Rockefeller y la Trilateral no aparecen en lo leído ni, según la versión oficial, en las sentencias."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -9910,6 +9942,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Anton Rupert",
       "url": "https://en.wikipedia.org/wiki/Anton_Rupert",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Anton Rupert",
+      "url": "https://es.wikipedia.org/wiki/Anton_Rupert",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9925,6 +9962,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El WWF, fundado en 1961, necesitaba financiar su propia administración."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El fondo «1001» se creó en 1970; según la versión oficial por iniciativa de Bernardo de Holanda y Anton Rupert, con 1001 donantes que aportaban 10.000 dólares. Rupert, empresario sudafricano del grupo Rembrandt, era cofundador del WWF y presidió su rama sudafricana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en los años setenta Bernardo y Anton Rupert crearon el club, de 10.000 dólares por miembro, para financiar el WWF."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La creación en 1970 y la cuota constan. El artículo en inglés sobre el WWF atribuye la creación a Bernardo con el duque de Edimburgo y otros; el de Rupert lo liga a él sin cita. Un libro crítico habla de la influencia opaca de sus miembros, que el WWF niega."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9962,11 +10021,48 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Comisión Trilateral",
       "url": "https://es.wikipedia.org/wiki/Comisión_Trilateral"
+     },
+     {
+      "titulo": "Wikipedia (es): Club de Roma",
+      "url": "https://es.wikipedia.org/wiki/Club_de_Roma",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Club of Rome",
+      "url": "https://en.wikipedia.org/wiki/Club_of_Rome",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Comisión Trilateral",
+      "url": "https://es.wikipedia.org/wiki/Comisi%C3%B3n_Trilateral",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En los años sesenta creció la preocupación por la población, los recursos y la contaminación. En abril de 1968 el italiano Aurelio Peccei y el escocés Alexander King reunieron en Roma a científicos y políticos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Club de Roma se constituyó dos años después bajo ley suiza y encargó al MIT «Los límites del crecimiento» (1972): sus simulaciones indicaban que la producción y el consumo no podían crecer sin fin. La crisis del petróleo de 1973 le dio eco, vendió millones de ejemplares y provocó reacciones a favor del crecimiento, por ejemplo en la OCDE. La Comisión Trilateral la fundó David Rockefeller en 1973. Ambos son foros privados."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, en los años setenta y ochenta definieron las políticas sobre población, medio ambiente y economía que se aplican hasta hoy."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su influencia en el debate consta, incluidas las críticas de neomaltusianismo; que definieran las políticas vigentes es tesis del autor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -20065,11 +20161,38 @@ window.CRONO = {
       "titulo": "Britannica: hippie",
       "url": "https://www.britannica.com/topic/hippie/Be-ins-music-festivals-and-other-public-gatherings",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Altamont Free Concert",
+      "url": "https://en.wikipedia.org/wiki/Altamont_Free_Concert",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los Rolling Stones, criticados por el precio de las entradas de su gira estadounidense de 1969, quisieron cerrarla con un concierto gratuito, que algunos veían como un «Woodstock del oeste»."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se celebró el 6 de diciembre de 1969 en el circuito de Altamont, con unas 300.000 personas y los Hells Angels como seguridad, según algunas versiones pagados con cerveza, lo que otros niegan. Los Grateful Dead cancelaron por la violencia. Durante la actuación de los Stones, Meredith Hunter sacó un revólver y el motero Alan Passaro lo apuñaló hasta matarlo; hubo además tres muertes accidentales. Passaro fue juzgado en 1971 y absuelto al entender el jurado, a la vista de las imágenes, que actuó en defensa propia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue un ritual crowleyano en el que un Ángel del Infierno disparó a un asistente justo antes del concierto de los Stones, en un festival con Grateful Dead."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No hubo disparo de un Ángel ni antes del concierto: fue un apuñalamiento durante la actuación, y los Grateful Dead no tocaron. Nada leído apoya un ritual. La versión oficial dice no haber comprobado el desenlace judicial; el artículo leído recoge la absolución."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -20356,11 +20479,48 @@ window.CRONO = {
       "titulo": "Wikipedia: Foro Económico Mundial",
       "url": "https://es.wikipedia.org/wiki/Foro Económico Mundial",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Foro Económico Mundial",
+      "url": "https://es.wikipedia.org/wiki/Foro_Econ%C3%B3mico_Mundial",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): World Economic Forum",
+      "url": "https://en.wikipedia.org/wiki/World_Economic_Forum",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1971 Klaus Schwab, profesor de política empresarial en Ginebra, invitó a 444 ejecutivos de Europa occidental a un primer simposio europeo de gestión en Davos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Los políticos fueron invitados desde enero de 1974 y en 1987 el foro tomó su nombre actual. Es una organización sin ánimo de lucro con sede en Cologny, junto a Ginebra, conocida por su reunión anual de dirigentes empresariales y políticos, periodistas e intelectuales; ha servido de terreno neutral para negociaciones. En 2020 lanzó el «Gran Reinicio». Se le critica el coste público de su seguridad, la falta de transparencia y una élite desligada de las sociedades."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Se financia con sus miembros: desde 2005 la cuota anual básica era de 42.500 francos suizos más 18.000 por la asamblea, y los socios estratégicos pagaban entre 250.000 y 500.000."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, ya hizo su daño, está en caída libre y sus objetivos no se lanzan para cumplirse sino para crear nichos de negocio. Según Giuseppe Nocera, es un «ventilador» de mercados donde grandes proyectos se deciden sin licitación, funciona por niveles de pago y lanza ideas como redes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las cuotas por niveles constan y apoyan parte de lo que dice Nocera. Que allí se adjudiquen proyectos o se dicte a los políticos no aparece en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -29263,6 +29423,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Propaganda Due",
       "url": "https://es.wikipedia.org/wiki/Propaganda_Due",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Propaganda Due",
+      "url": "https://es.wikipedia.org/wiki/Propaganda_Due",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Propaganda Due",
+      "url": "https://en.wikipedia.org/wiki/Propaganda_Due",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29281,6 +29451,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La logia masónica Propaganda Due existía desde el siglo XIX dentro del Gran Oriente de Italia, que le retiró el reconocimiento en 1976."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Licio Gelli, al frente desde 1970, la convirtió en una red clandestina que entre 1965 y 1981 condicionó la política italiana colocando afines en la magistratura, el Parlamento, el ejército y la prensa. En marzo de 1981 la policía halló en su casa de Arezzo una lista de más de 900 nombres, con antiguos primeros ministros, parlamentarios, militares, banqueros e industriales. Fue disuelta por ley en 1982 e investigada por una comisión parlamentaria presidida por Tina Anselmi."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El escándalo se cruzó con la quiebra del Banco Ambrosiano de Roberto Calvi, en parte del banco vaticano; Calvi apareció muerto en Londres en 1982, primero como suicidio y después como asesinato."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la P2 dejó al descubierto la relación entre mafia, logias y Vaticano, y no por una filtración; la vincula a Gladio y al golpe Borghese."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La lista salió de un registro policial, no de una difusión voluntaria. Un general implicado en el golpe Borghese figura en lo leído, pero eso no prueba que la logia naciera de Gladio."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -33261,6 +33458,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Johann von Leers",
       "url": "https://es.wikipedia.org/wiki/Johann_von_Leers",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Skorzeny",
+      "url": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Johann von Leers",
+      "url": "https://en.wikipedia.org/wiki/Johann_von_Leers",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33279,6 +33486,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras la derrota alemana, antiguos nazis buscaron refugio en países dispuestos a aprovechar su experiencia militar y de propaganda."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1953 Skorzeny fue a Egipto, enviado por Gehlen según el artículo, como asesor militar de Naguib, y formó un equipo de antiguos oficiales de las SS y la Wehrmacht para instruir al ejército; planeó además incursiones de árabes entrenados desde Gaza en 1953-1954, entre ellos Arafat. Johann von Leers, propagandista nazi, llegó desde Argentina, se convirtió al islam como Omar Amin y asesoró al departamento de información con Naguib y Nasser."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, El Cairo acogió a miles de nazis, Nasser, «elegido por la CIA», pidió ayuda y Gehlen recomendó a Skorzeny; en 1962 el Mossad reclutó a Skorzeny, que listó a científicos alemanes, asesinó a Heinz Krug y envió una carta bomba en operaciones dirigidas por Shamir."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el asesoramiento de Skorzeny y el papel de Von Leers. La versión oficial dice que el entrenamiento de Arafat no está documentado y el artículo en inglés sobre Skorzeny lo afirma: conviene contrastarlo. La cifra de miles y que Nasser fuera elegido por la CIA no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -33925,6 +34154,11 @@ window.CRONO = {
       "titulo": "Biblioteca Nixon: NSSM 200 (PDF)",
       "url": "https://www.nixonlibrary.gov/sites/default/files/virtuallibrary/documents/nssm/nssm_200.pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Historical Documents - Office of the Historian",
+      "url": "https://history.state.gov/historicaldocuments/frus1969-76ve14p1/d113",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33940,6 +34174,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En los años setenta el crecimiento de la población mundial se trataba en EE. UU. como asunto de seguridad."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 24 de abril de 1974 Kissinger firmó, por orden del presidente, el memorando que encargaba estudiar cómo afectaba ese crecimiento a la seguridad y los intereses exteriores de EE. UU. hasta el año 2000: desarrollo de los países pobres, demanda de exportaciones, competencia por recursos e inestabilidad, y qué actuaciones proponer. Pedía tener presente que la política de población toca la dignidad de la persona y evitar imponer criterios. Lo debía entregar un comité de subsecretarios; según la versión oficial el estudio se completó en diciembre."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Kissinger escribió un informe de control de población con esterilización y anticonceptivos inyectables."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído hoy es el encargo, no el informe final: en él Kissinger ordena el estudio, no lo escribe, y no menciona esterilización. El contenido del informe de diciembre no se ha abierto."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -33980,6 +34236,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Mafia Capitale",
       "url": "https://it.wikipedia.org/wiki/Mafia_Capitale",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Nuclei Armati Rivoluzionari",
+      "url": "https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Nuclei Armati Rivoluzionari",
+      "url": "https://en.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Mafia Capitale",
+      "url": "https://it.wikipedia.org/wiki/Mafia_Capitale",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33994,6 +34265,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Nacieron en los «años de plomo» italianos, en Roma, dentro del movimiento de 1977, entre militantes de extrema derecha que rechazaban a la vieja generación golpista."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Los fundaron Valerio y Cristiano Fioravanti, Francesca Mambro, Dario Pedretti y Alessandro Alibrandi. Practicaron un terrorismo de «espontaneísmo armado», con atentados, asaltos a bancos y asesinatos, hasta comienzos de los ochenta. Varios de sus miembros fueron condenados por la matanza de Bolonia de 1980. Massimo Carminati, entre la delincuencia y la subversión, hizo de enlace con la banda de la Magliana y décadas después fue condenado en la causa «Mafia Capitale»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la familia Massimo dirigió el crimen organizado de Roma y estuvo detrás de los NAR, encabezados por su agente Carminati, llamado «el último rey de Roma»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El enlace de Carminati con la Magliana consta; la relación con la familia Massimo no aparece, y el nombre de pila Massimo no la prueba. Los NAR tuvieron otros dirigentes."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -34025,6 +34318,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Nuevo Orden Europeo",
       "url": "https://es.wikipedia.org/wiki/Nuevo_Orden_Europeo_(organización)",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): New European Order",
+      "url": "https://en.wikipedia.org/wiki/New_European_Order",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): European Social Movement",
+      "url": "https://en.wikipedia.org/wiki/European_Social_Movement",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34047,6 +34350,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El Movimiento Social Italiano tejió a finales de los cuarenta contactos con grupos afines de Europa y en 1950 reunió en Roma a Mosley, defensor de «Europa, una nación», a la Falange y a otras figuras de extrema derecha."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En el congreso de Malmö de 1951 nació el Movimiento Social Europeo, con Per Engdahl al frente de un consejo que incluía al italiano De Marsanich, al francés Bardèche y al alemán Priester. Los que lo veían poco racista y anticomunista, con René Binet, rompieron y formaron ese año en Zúrich, con Amaudruz, una oficina de enlace que en 1954 tomó el nombre de Nuevo Orden Europeo, con secretaría en Lausana y un programa de jerarquía racial. A sus reuniones asistieron miembros de la Falange, el MSI y el Partido Socialista del Reich; en 1955 se dividió por el Tirol del Sur."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, por iniciativa del MSI nació el Movimiento Social Europeo, inspirado en Mosley, y el más radical Nuevo Orden Europeo, con la Falange y el Partido Socialista del Reich: volvía el nuevo orden anunciado por Hitler."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El relato del autor coincide en lo esencial con lo leído. Que fuera el regreso del proyecto de Hitler es su lectura; la ideología racial de la escisión sí consta."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -34505,6 +34830,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Organisation of Islamic Cooperation",
       "url": "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización para la Cooperación Islámica",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_para_la_Cooperaci%C3%B3n_Isl%C3%A1mica",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Organisation of Islamic Cooperation",
+      "url": "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34516,6 +34851,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El incendio de la mezquita de Al-Aqsa en Jerusalén, el 21 de agosto de 1969, llevó a convocar una cumbre de jefes de Estado musulmanes."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La organización se creó en la conferencia de Rabat de 1969, se formalizó dos años después y en 2011 cambió «Conferencia» por «Cooperación». Con sede en Yeda, agrupa a 57 Estados y dice ser la voz colectiva del mundo musulmán. Tiene cumbre, consejo de ministros, secretaría y organismos como el Banco Islámico de Desarrollo y la organización cultural ISESCO."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, tiene organismos especializados como la ONU y presencia en Nueva York, Ginebra y Bruselas, y por ello la ONU adopta una postura blanda con la «invasión islámica» de Europa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los organismos constan. La conclusión sobre la ONU y la inmigración es opinión del autor y no tiene apoyo en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -35034,6 +35391,21 @@ window.CRONO = {
       "titulo": "UN Tourism: historia",
       "url": "https://www.untourism.int/history",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización Mundial del Turismo",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_del_Turismo",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): United Nations World Tourism Organization",
+      "url": "https://en.wikipedia.org/wiki/United_Nations_World_Tourism_Organization",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "History | UN Tourism",
+      "url": "https://www.untourism.int/history",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -35045,6 +35417,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Su antecedente es una unión internacional de organismos de turismo nacida en La Haya en 1925 y convertida después en la unión de organismos oficiales de viajes."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La organización se constituyó en 1975, con primera asamblea en Madrid en mayo, donde tiene la sede. Colaboró con la ONU desde 1976-1977 y es organismo especializado desde 2003. Hoy se llama ONU Turismo y reúne unos 160 Estados y cientos de miembros privados y locales; promueve el turismo y publica estadísticas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, existe desde 1950, con sede en Ginebra, y controla el turismo mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La sede es Madrid y la constitución, de 1975: los dos datos del autor no coinciden. El control del turismo no aparece en lo leído; es un foro de Estados y entidades."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -38322,6 +38716,16 @@ window.CRONO = {
       "titulo": "Investopedia: Petrodollar",
       "url": "https://www.investopedia.com/terms/p/petrodollar.asp",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Petrodollar recycling",
+      "url": "https://en.wikipedia.org/wiki/Petrodollar_recycling",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Petrodólar",
+      "url": "https://es.wikipedia.org/wiki/Petrod%C3%B3lar",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38333,6 +38737,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El petróleo se negociaba ya mayoritariamente en dólares cuando las subidas de precio de principios de los años setenta dieron enormes excedentes a los exportadores."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El término «petrodólar» se acuñó en 1973, atribuido al economista Ibrahim Oweiss o a Peter Peterson. Designa los dólares que cobran los productores y su reinversión: entre 1974 y 1981 buena parte volvió a EE. UU. y a la banca occidental, como recomendaba el FMI, y los países importadores en desarrollo vieron crecer su deuda un 150 % entre 1973 y 1977. En 2018 China lanzó contratos de petróleo en yuanes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, un pacto de 1971 de Kissinger con la OPEP obliga a comprar dólares para pagar el crudo, y si cae EE. UU. no puede pagar su deuda; desde 2023 Arabia Saudí negocia cobrar en yuanes a China."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes leídas hoy no recogen un acuerdo en 1971 entre EE. UU. y Arabia Saudí, que sí afirma la versión oficial: hay que contrastarlo. Los críticos citados ven en el sistema una explotación de los países en desarrollo; la negociación saudí de 2023 no se ha comprobado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -40614,6 +41040,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Resorts Casino Hotel",
       "url": "https://www.wikiwand.com/en/articles/Resorts_Casino_Hotel",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Resorts International",
+      "url": "https://en.wikipedia.org/wiki/Resorts_International",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Resorts International, Inc. — Company History",
+      "url": "https://www.company-histories.com/Resorts-International-Inc-Company-History.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -40636,6 +41072,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La empresa era una fabricante de pinturas, Mary Carter Paint, comprada en 1958 por inversores y considerada ampliamente una tapadera de la CIA para pagar al ejército de exiliados cubanos. Con James Crosby al frente se pasó al negocio turístico en las Bahamas y en 1968 tomó el nombre de Resorts International."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Resorts financió en 1970 Intertel, firma privada de seguridad e inteligencia, para mantener al crimen organizado fuera de su casino de las Bahamas; trabajó también para Howard Hughes y para el sha en el exilio. En 1978 abrió en Atlantic City el primer casino de la ciudad. Tras morir Crosby en 1986, Trump compró el control en julio de 1987 por 79 millones; en 1988 la empresa pasó a Merv Griffin, que la financió con bonos basura y la llevó a la quiebra en 1989."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, tras morir Hughes la empresa pasó de las Bahamas a Atlantic City; Crosby creó Intertel con antiguos hombres de la CIA y el FBI como pantalla; Trump la dirigió por consejo de Cohn y entró así en los planes de la CIA y la mafia; David Rockefeller era accionista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan Intertel, las fechas, el paso de Trump y la fama de tapadera de la antecesora. Resorts compró terrenos en Atlantic City de cara al referéndum de 1976; en lo leído no se liga la expansión con la muerte de Hughes, a quien Intertel dio seguridad. Cohn, Rockefeller y la inferencia sobre Trump no aparecen."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -43354,9 +43812,41 @@ window.CRONO = {
       "titulo": "Wikipedia: BIS Tower",
       "url": "https://en.wikipedia.org/wiki/BIS_Tower",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Torre BIS",
+      "url": "https://es.wikipedia.org/wiki/Torre_BIS",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "About the Bank for International Settlements | Bank for International Settlements",
+      "url": "https://www.bis.org/about/buildings.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Al fundarse en 1930, el Banco de Pagos Internacionales fijó su sede en Basilea y alquiló por dos años el Grand Hôtel et Savoy Hôtel Univers, junto a la estación."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Aquella sede provisional se compró en 1949 y duró hasta los años setenta. Un referéndum local aprobó con un 69 % el proyecto de torre de Martin Burckhardt, construida entre 1972 y 1977; el banco empezó a trabajar en ella el 21 de marzo de 1977 y la inauguró el 9 de mayo. Mide 69,5 metros y sigue siendo su sede, en la Centralbahnplatz."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, de 1930 a 1977 el banco ocupó un hotel cerca de la estación, con la entrada oculta tras una chocolatería, y en 1977 se trasladó frente a la estación."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El hotel y la fecha coinciden. La entrada tras una chocolatería no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
