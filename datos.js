@@ -61611,6 +61611,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Enrique IV de Francia",
       "url": "https://es.wikipedia.org/wiki/Enrique IV de Francia",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Enrique IV de Francia",
+      "url": "https://es.wikipedia.org/wiki/Enrique_IV_de_Francia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61622,6 +61627,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Pau en diciembre de 1553, bautizado católico y educado calvinista por su madre; rey de Navarra desde 1572 y primer Borbón en el trono de Francia desde 1589. Fue asesinado en París el 14 de mayo de 1610."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Escapó por poco en San Bartolomé y mandó las fuerzas protestantes. Se convirtió al catolicismo el 25 de julio de 1593, fue coronado en 1594 y dio en 1598 el Edicto de Nantes. Saneó las finanzas, impulsó la agricultura y el comercio y las primeras colonias francesas en América. Casó en 1600 con María de Médici."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, tenía como asesor a Duplessis-Mornay, de la red de Sarpi; se convirtió en 1595 y tomó confesor jesuita, con lo que los jesuitas entraron en Francia, y a esa solución atribuye su asesinato."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La conversión consta en 1593, no en 1595, y el asesino fue un fanático católico. En lo buscado no aparecen el confesor jesuita ni la relación con el crimen."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -72812,6 +72839,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Leonardo Donato",
       "url": "https://es.wikipedia.org/wiki/Leonardo_Donato",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Leonardo Donato",
+      "url": "https://en.wikipedia.org/wiki/Leonardo_Donato",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72827,6 +72859,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Venecia el 12 de febrero de 1536 en una familia de comerciantes, convirtió con su sentido de los negocios el patrimonio familiar en una fortuna. Murió en julio de 1612."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Opuesto a las ambiciones papales, ya se había enfrentado al cardenal Borghese, luego Pablo V. Fue dux desde enero de 1606; aconsejado por Sarpi rechazó la protesta del papa y, tras el interdicto de abril, ordenó al clero veneciano ignorarlo y seguir diciendo misa bajo pena de expulsión."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, amenazó al papa con la apostasía."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su postura antipapal alimentó rumores de que era protestante en secreto, de lo que los historiadores no han hallado pruebas. En lo leído no aparece una amenaza de apostasía."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -77751,6 +77805,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Paolo Sarpi",
       "url": "https://es.wikipedia.org/wiki/Paolo_Sarpi"
+     },
+     {
+      "titulo": "Wikipedia (en): Paolo Sarpi",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -77786,6 +77845,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Fraile servita veneciano, nacido el 14 de agosto de 1552 y muerto el 15 de enero de 1623; teólogo, historiador, matemático, anatomista y polemista. Entró muy joven en la orden y en 1570 defendió en Mantua más de trescientas tesis."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Defendió a Venecia en el interdicto y sobrevivió en 1607 a un atentado. Su «Historia del concilio de Trento» se publicó en Londres en 1619 con seudónimo; sus obras están en el Índice. Descubrió válvulas en los vasos sanguíneos y la contractilidad del iris, y se cree que pudo anticiparse a Harvey en la circulación. Sus escritos inspiraron a Hobbes y a Gibbon."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue el alma de la revolución de los Giovani, de cuyo entorno salen el nuevo sistema financiero y los cambios que diseñan el mundo desde 1600; forjó una mente materialista, extendió el empirismo, trató con Bacon e influyó en Adam Smith, y su política habría impuesto la banca central."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel contra Roma, sus trabajos científicos y su influjo en Hobbes constan; la Wikipedia en español dice además que meditaba separar a Venecia de la Iglesia romana al morir. En lo buscado no aparecen la banca central, Adam Smith ni el magnetismo."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -78792,6 +78873,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Felipe de Mornay",
       "url": "https://es.wikipedia.org/wiki/Felipe_de_Mornay",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Philippe de Mornay",
+      "url": "https://en.wikipedia.org/wiki/Philippe_de_Mornay",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78811,6 +78897,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor protestante francés, señor de Plessis Marly, nacido el 5 de noviembre de 1549 y muerto en noviembre de 1623. Estudió derecho en Heidelberg y, en 1566, hebreo y alemán en Padua."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Apologista y diplomático hugonote, pasó a ser la mano derecha de Enrique de Navarra y lo representó en Inglaterra y los Países Bajos. Se le tiene por probable autor de las «Vindiciae contra tyrannos» (1579). Tras la conversión del rey en 1593 se fue apartando de la corte y fundó en 1599 la academia hugonote de Saumur."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, asesor de Enrique de Navarra que pasó por Padua, formaba parte de la red calvinista de Sarpi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso por Padua y el cargo junto a Enrique constan. En lo buscado no aparece Sarpi."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
