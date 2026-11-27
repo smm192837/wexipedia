@@ -2326,6 +2326,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Archivo Apostólico Vaticano",
       "url": "https://es.wikipedia.org/wiki/Archivo_Apost%C3%B3lico_Vaticano",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Vatican Apostolic Archive",
+      "url": "https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -2344,6 +2349,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El archivo",
+     "nivel": "hecho",
+     "texto": "Es propiedad personal del papa; «secreto» significaba privado. Guarda unos 85 kilómetros de estanterías."
+    },
+    {
+     "titulo": "La apertura",
+     "nivel": "hecho",
+     "texto": "La ficha fecha en septiembre de 2006 el acceso a los fondos de Pío XI (1922-1939). La Santa Sede abre los archivos por pontificados completos; desde 2006 los archiveros preparaban además millones de páginas del siguiente, el de Pío XII."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "Quien decide qué periodo se consulta es el propio papa, lo que condiciona qué historia se puede escribir y cuándo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que esos papeles presentan a Tacchi Venturi de forma muy distinta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La nota de la Santa Sede que cita la ficha es un PDF que no se ha podido leer ahora. No se han visto los documentos sobre Tacchi Venturi."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -10514,6 +10546,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "Se fundó en Estados Unidos en julio de 1965 como editorial, el National Institute for the Research in Kabbalah, por Philip Berg y el rabino Levi Krakovsky, probablemente para financiar la escuela cabalística de Brandwein en Jerusalén. Después Berg y su esposa Karen lo rehicieron en Nueva York."
+    },
+    {
+     "titulo": "Hoy",
+     "nivel": "hecho",
+     "texto": "Es una entidad sin ánimo de lucro en Los Ángeles con más de cincuenta sedes y fieles famosos como Madonna."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Desde 2011 el fisco y el FBI lo investigaron por irregularidades financieras tras abandonarse un proyecto escolar en Malaui con millones de donantes sin justificar."
+    },
+    {
+     "titulo": "Críticas",
+     "nivel": "hecho",
+     "texto": "Se le ha acusado de atraer a ricos y vulnerables prometiendo salud y riqueza, y llegó a afirmar que el agua que vendía ayudaba contra el cáncer, algo sin base médica."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lista famosos miembros y llama «hechicería» con mensajes subliminales al cine y los videoclips de Hollywood."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No consta el resultado final de la investigación en lo leído ni apoyo a la lectura del cine como magia."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -12718,6 +12782,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Archivo Apostólico Vaticano",
       "url": "https://es.wikipedia.org/wiki/Archivo_Apost%C3%B3lico_Vaticano",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Pietro Tacchi Venturi",
+      "url": "https://en.wikipedia.org/wiki/Pietro_Tacchi_Venturi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12736,6 +12805,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El intermediario",
+     "nivel": "hecho",
+     "texto": "Pietro Tacchi Venturi (1861-1956), jesuita e historiador tenido por antisemita, hizo de enlace oficioso entre Mussolini y Pío XI y Pío XII, fue confesor del dictador y su consejero religioso."
+    },
+    {
+     "titulo": "Cómo ganó ese papel",
+     "nivel": "hecho",
+     "texto": "Conocía a Mussolini desde 1922, empezó el acercamiento logrando que regalara al Vaticano la biblioteca Chigi y participó en la negociación de Letrán, donde nominalmente el jefe negociador era Francesco Pacelli."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "Según Susan Zuccotti, tenía una habilidad notable para llegar donde no llegaban los diplomáticos oficiales; él se presentaba como simple mensajero."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra recoge una carta de marzo de 1937 a Pacelli con compromisos de Mussolini sobre una publicación, una hoja protestante, la blasfemia en el ejército de África Oriental, bodas en Venecia Julia y parroquias de Milán."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes leídos no aparece esa carta ni sus puntos: haría falta el documento del archivo de Pío XI."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -12962,11 +13058,48 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Concilio Vaticano II",
       "url": "https://es.wikipedia.org/wiki/Concilio_Vaticano_II"
+     },
+     {
+      "titulo": "Wikipedia (en): Second Vatican Council",
+      "url": "https://en.wikipedia.org/wiki/Second_Vatican_Council",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde los años cincuenta teólogos se alejaban del neoescolasticismo y volvían a la Biblia y los Padres; Pío XII advirtió contra esas corrientes en Humani generis (1950). Juan XXIII anunció el concilio el 25 de enero de 1959 para poner al día la Iglesia."
+    },
+    {
+     "titulo": "Preparación y sesiones",
+     "nivel": "hecho",
+     "texto": "Diez comisiones con cientos de obispos y expertos redactaron borradores. Se celebraron cuatro sesiones en San Pedro del 11 de octubre de 1962 al 8 de diciembre de 1965."
+    },
+    {
+     "titulo": "Qué aprobó",
+     "nivel": "hecho",
+     "texto": "Cuatro constituciones, nueve decretos y tres declaraciones; permitió las lenguas vernáculas en la liturgia conservando el latín y cambió las relaciones con otros cristianos, el judaísmo y el Estado secular."
+    },
+    {
+     "titulo": "Las dos alas",
+     "nivel": "hecho",
+     "texto": "Un sector conservador, con Ottaviani, Siri, Ruffini y Lefebvre, chocó con peritos como Rahner, Congar, De Lubac o Murray, algunos antes sancionados."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que los tradicionalistas lo ven como un engaño y que el Vaticano quedó en manos angloveneciana; Rubén Avilés lo fecha en 1959 como abrazo del catolicismo al capitalismo global."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Se sigue debatiendo cuánto de los cambios viene del concilio y cuánto de su «espíritu». La toma por un imperio angloveneciano no aparece en lo leído."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -29384,6 +29517,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Iglesia de Satán",
       "url": "https://es.wikipedia.org/wiki/Iglesia_de_Satán",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Church of Satan",
+      "url": "https://en.wikipedia.org/wiki/Church_of_Satan",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29398,6 +29536,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "LaVey la creó en San Francisco el 30 de abril de 1966. Su filosofía es atea y simbólica: Satán representa valores, no un ser. La Biblia Satánica y ella vendieron en sus primeros años casi un millón de ejemplares."
+    },
+    {
+     "titulo": "Cismas",
+     "nivel": "hecho",
+     "texto": "En 1975 Michael Aquino, editor del boletín, se fue y fundó el Templo de Set, que según se dijo nació con más de 500 miembros (LaVey sostuvo que 29). A la muerte de LaVey en 1997 hubo disputa sucesoria; en 2001 pasó a Peter Gilmore."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Un pleito de la pareja de LaVey, Diane Hegarty, le obligó a vender la «Casa Negra» y lo arruinó. Según The Washington Post (1998), nunca pasó de 300 miembros."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano llama primero a Aquino fundador y luego precisa que fundó el Templo de Set; relaciona a Madole y su entorno con la Iglesia de LaVey."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las cifras de miembros no coinciden y la organización no publica sus listas."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -30364,6 +30529,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El edificio",
+     "nivel": "hecho",
+     "texto": "Steiner lo concibió como obra de arte total: doble cúpula de madera sobre base de hormigón, vidrieras, pinturas sobre la evolución humana y columnas talladas. Empezado en 1913, se inauguró en septiembre de 1920."
+    },
+    {
+     "titulo": "El fuego",
+     "nivel": "hecho",
+     "texto": "La noche de fin de año de 1922 ardió hasta los cimientos pese a antropósofos y bomberos. Solo murió Jakob Ott, relojero y antropósofo local, a quien se acusó falsamente, ya muerto, de ser el incendiario."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "El segundo edificio, de hormigón, se terminó en 1928 y sigue en uso."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala lo menciona con dudas, un año antes de la muerte de Steiner."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El relato popular dice que fue provocado, pero nunca se probó. Steiner murió en 1925, algo más de dos años después."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -32425,7 +32617,7 @@ window.CRONO = {
     {
      "titulo": "Peso actual",
      "nivel": "hecho",
-     "texto": "Se la cuenta entre las tres mejores universidades privadas del país, con unos 12.000 estudiantes de grado y más de 1.300 de posgrado según la fuente en inglés. Entre sus antiguos alumnos figura el general jesuita Adolfo Nicolás en la lista de personas vinculadas."
+     "texto": "Se la cuenta entre las tres mejores universidades privadas del país, con unos 12.000 estudiantes de grado y más de 1.300 de posgrado según la fuente en inglés. La fuente en español incluye entre sus personas destacadas al general jesuita Adolfo Nicolás."
     },
     {
      "titulo": "Qué dice el autor",
@@ -33607,6 +33799,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El protagonista",
+     "nivel": "hecho",
+     "texto": "Edmund Walsh (nacido en 1885, sacerdote en 1916) organizó en 1919 la Escuela de Servicio Exterior de Georgetown."
+    },
+    {
+     "titulo": "La misión de 1922",
+     "nivel": "hecho",
+     "texto": "El Vaticano le encargó coordinar la misión pontificia de socorro contra la hambruna en Rusia, con cocinas católicas donde esperaban y comían niños."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Walsh fue un anticomunista declarado y una autoridad sobre la Rusia soviética; medió en México en 1929 y asesoró en Núremberg en 1945-1946."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que en 1922 Lenin volvió a admitir oficialmente a los jesuitas en Rusia, dentro de su relación con la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta una misión de socorro dirigida por un jesuita, no una readmisión formal de la Compañía. El título de la ficha enuncia la tesis del autor como hecho. La página de CNEWA no se pudo abrir."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -34176,6 +34395,11 @@ window.CRONO = {
       "titulo": "Britannica — The Book of the Law",
       "url": "https://www.britannica.com/topic/The-Book-of-Law",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): The Book of the Law",
+      "url": "https://en.wikipedia.org/wiki/The_Book_of_the_Law",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34190,6 +34414,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El relato",
+     "nivel": "tesis",
+     "texto": "Según Crowley, todo empezó el 16 de marzo de 1904 con un ritual en la Cámara del Rey de la Gran Pirámide, junto a su esposa Rose Kelly; un ser sobrehumano, Aiwass, le habría dictado el libro en El Cairo los días 8, 9 y 10 de abril, una hora cada día."
+    },
+    {
+     "titulo": "El texto",
+     "nivel": "hecho",
+     "texto": "Tiene tres capítulos atribuidos a Nuit, Hadit y Ra-Hoor-Khuit; Rose Kelly corrigió dos frases del manuscrito. Es el libro central de Thelema; Crowley le cambió el título de Liber L a Liber AL en 1921. Su precepto principal es «haz lo que quieras»."
+    },
+    {
+     "titulo": "Qué anuncia",
+     "nivel": "tesis",
+     "texto": "Para Crowley marcaba una nueva etapa de la humanidad, el «eón de Horus»."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano cuenta que Crowley contacta en El Cairo con la entidad y canaliza su obra fundamental, hermética y críptica, y saca de ella que el 11 es el número sagrado del nuevo eón."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El dictado no puede comprobarse: solo consta el testimonio de Crowley. El propio Crowley escribió que surgían dudas serias sobre el método por el que obtuvo el libro. La Britannica no se pudo abrir."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -38470,6 +38721,11 @@ window.CRONO = {
       "titulo": "Wikipedia (francés): Benito Mussolini, distinciones",
       "url": "https://fr.wikipedia.org/wiki/Benito_Mussolini",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Benito Mussolini",
+      "url": "https://es.wikipedia.org/wiki/Benito_Mussolini",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38484,6 +38740,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "Mussolini presidía el gobierno italiano desde 1922. En esos años buscó el entendimiento con la Iglesia que culminó en los pactos de 1929."
+    },
+    {
+     "titulo": "El dato",
+     "nivel": "hecho",
+     "texto": "La ficha recoge la concesión del grado de bailío gran cruz de honor y devoción el 2 de abril de 1923, que aparece en listas de condecoraciones."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que Mussolini recibió una condecoración de la Orden de Malta, que describe como católica, aristocrática y conservadora."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes releídos de las biografías en francés, español e inglés no se ha localizado la concesión; falta una fuente de la propia Orden o un documento. Conviene tratar la fecha y el grado como pendientes de confirmar."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -42053,6 +42331,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Opus Dei",
       "url": "https://es.wikipedia.org/wiki/Opus_Dei"
+     },
+     {
+      "titulo": "Wikipedia (en): Opus Dei",
+      "url": "https://en.wikipedia.org/wiki/Opus_Dei",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -42067,6 +42350,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación y crecimiento",
+     "nivel": "hecho",
+     "texto": "Escrivá lo fundó en Madrid el 2 de octubre de 1928. Lo aprobó el obispo de Madrid en 1941 y la Santa Sede en 1950; creció en la España franquista y desde 1945 fuera. Muerto Escrivá en 1975 le sucedió Del Portillo; en 1982 se erigió en prelatura personal. Escrivá fue canonizado en 2002."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La prelatura declara tener pocos bienes (la sede de Roma y algunos lugares), no incluidos los de sus miembros, y financiarse sobre todo con aportaciones y con ingresos de iniciativas educativas y asistenciales. Un estudio de John Allen atribuía a su entorno unos 2.800 millones de dólares en 2005."
+    },
+    {
+     "titulo": "Poder y controversia",
+     "nivel": "hecho",
+     "texto": "Varios miembros, como Alberto Ullastres, fueron ministros de Franco, y los críticos lo ven como penetración en la cúpula del régimen. Desde 2022 las reformas de Francisco lo hacen depender del Dicasterio para el Clero."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo ve creado a imagen de los jesuitas para captar al catolicismo conservador y rico; Rubén Avilés señala su peso en el mundo jurídico y fecha el IESE en 1958."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No se ha hallado que naciera a imagen de la Compañía como plan. La cifra patrimonial depende de qué se cuente como propio."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -43516,6 +43826,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Pactos de Letrán",
       "url": "https://es.wikipedia.org/wiki/Pactos_de_Letrán"
+     },
+     {
+      "titulo": "Wikipedia (en): Lateran Treaty",
+      "url": "https://en.wikipedia.org/wiki/Lateran_Treaty",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -43530,6 +43845,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde 1870 los papas se consideraban prisioneros; habían rechazado la oferta italiana de usar palacios y recibir una renta anual de 3.250.000 liras porque querían independencia política."
+    },
+    {
+     "titulo": "Qué se firmó",
+     "nivel": "hecho",
+     "texto": "El 11 de febrero de 1929 Gasparri y Mussolini firmaron un tratado que reconocía el Estado de la Ciudad del Vaticano, una convención financiera y un concordato."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La convención compensaba como arreglo definitivo las pérdidas de 1870 y se reconocieron extraterritorialidad y exenciones fiscales a palacios, basílicas e institutos."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "El concordato dio a la Iglesia peso en la escuela: enseñanza religiosa también en centros estatales, crucifijo en aulas y tribunales y ventajas a colegios confesionales. La Constitución de 1948 los reconoció y se revisaron en 1984-1985, cuando Italia dejó de definirse como Estado católico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés y Jorge Guerra sostienen que los Saboya crearon el Estado vaticano a través de Mussolini; Guerra resume la firma, las relaciones restablecidas y las 44 hectáreas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Mussolini firmó en nombre del rey; que la iniciativa fuera de la dinastía es interpretación de los autores."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -46992,6 +47339,33 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "Pablo VI firmó el motu proprio el 28 de marzo de 1968, incómodo con la pompa: muchos cargos eran ya puramente honoríficos. La Corte pasó a ser Casa Pontificia, dividida en Capilla y Familia."
+    },
+    {
+     "titulo": "Qué cambió",
+     "nivel": "hecho",
+     "texto": "Los cargos quedan vacantes al vacar la sede y ninguno es hereditario; se suprimieron o transformaron oficios como los cardenales palatinos y el intendente hereditario."
+    },
+    {
+     "titulo": "El príncipe asistente al solio",
+     "nivel": "hecho",
+     "texto": "Era un título hereditario desde el siglo XVI, disputado entre Colonna y Orsini hasta que Benedicto XIII estableció la alternancia; los Orsini lo tuvieron hasta 1958. Desde 1968 no se usa, aunque no se suprimió formalmente según Wikipedia."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra atribuye la reforma a los «anglovenecianos», dice que los Torlonia resistieron y que Alessandro Torlonia y Marco Antonio Colonna ostentan hoy ese honor hereditario."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ficha está fechada en 1969 y las fuentes dan 1968. El texto latino no se pudo abrir."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -51671,6 +52045,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Nació el 28 de diciembre de 1912 en Colonia con unos 3.000 miembros; formaban el consejo Marie von Sivers, Michael Bauer y Carl Unger, con Steiner como asesor y conferenciante."
+    },
+    {
+     "titulo": "Refundación",
+     "nivel": "hecho",
+     "texto": "En la Navidad de 1923 se refundó en Dornach como Sociedad Antroposófica General, con una Escuela de Ciencia Espiritual y sede en el Goetheanum. Hoy tiene sociedades nacionales en muchos países."
+    },
+    {
+     "titulo": "Crisis",
+     "nivel": "hecho",
+     "texto": "El régimen nazi la prohibió en Alemania el 1 de noviembre de 1935 por sus «estrechas relaciones» con el extranjero; según historiadores, Steiner atraía y a la vez inquietaba al nazismo y sostuvo posturas contradictorias sobre los judíos. De los años treinta a los sesenta, disputas por los derechos de sus libros y la dirección espiritual la partieron en grupos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala dice que Steiner la funda en Dornach tras dejar la teosofía y que, tras el incendio, el segundo Goetheanum es hoy su sede."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La primera fundación fue en Colonia, no en Dornach, según la fuente; Dornach es la sede y el lugar de la refundación."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -53547,11 +53948,43 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Teología de la liberación",
       "url": "https://es.wikipedia.org/wiki/Teología_de_la_liberación"
+     },
+     {
+      "titulo": "Wikipedia (en): Liberation theology",
+      "url": "https://en.wikipedia.org/wiki/Liberation_theology",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Raíces",
+     "nivel": "hecho",
+     "texto": "Surge en América Latina en los sesenta de las comunidades de base, el Vaticano II y Medellín (1968), con antecedentes como los curas obreros franceses. Los primeros en usar el nombre fueron Rubem Alves, presbiteriano, y Gustavo Gutiérrez."
+    },
+    {
+     "titulo": "Qué sostiene",
+     "nivel": "hecho",
+     "texto": "Opción preferencial por los pobres y lectura del Evangelio desde los oprimidos, apoyada en las ciencias sociales; usa análisis marxista, sobre todo de clase y estructuras, sin adoptar el marxismo entero según la fuente en inglés. Hubo vertiente protestante."
+    },
+    {
+     "titulo": "Conflicto",
+     "nivel": "hecho",
+     "texto": "Juan Pablo II y la congregación de Ratzinger criticaron lo que veían como exceso marxista."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra la llama marxismo puro forjado por jesuitas, origen de las FARC, guerrillas iberoamericanas y en parte ETA."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hubo jesuitas influyentes, pero los iniciadores citados no lo eran. FARC (1964) y ETA (1959) son anteriores a 1968."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -54049,6 +54482,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Thelema",
       "url": "https://es.wikipedia.org/wiki/Thelema",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Thelema",
+      "url": "https://en.wikipedia.org/wiki/Thelema",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54059,6 +54497,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La palabra y Rabelais",
+     "nivel": "hecho",
+     "texto": "«Thelema» es voluntad en griego. La Hypnerotomachia Poliphili tiene un personaje Thelemia e influyó en Rabelais, que imaginó en Gargantúa una abadía de Thélème cuya única regla era hacer lo que se quisiera. En el XVIII Francis Dashwood puso la máxima en la puerta de su club de Medmenham."
+    },
+    {
+     "titulo": "Crowley",
+     "nivel": "hecho",
+     "texto": "En 1904 afirmó recibir el Libro de la Ley y sobre él fundó un movimiento religioso y filosófico cuyo centro es descubrir y seguir la «verdadera voluntad». Toma sus principales deidades de la mitología egipcia, con Nuit como la más alta."
+    },
+    {
+     "titulo": "La orden",
+     "nivel": "hecho",
+     "texto": "En 1912 Theodor Reuss, jefe de la Ordo Templi Orientis, acusó a Crowley de publicar un secreto de magia sexual de la orden; acabó iniciándolo en su grado máximo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano explica que «voluntad» y «amor» suman 93 en gematría, saludo de los thelemitas, y que el lema viene de Rabelais y tiene once sílabas en inglés."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El antecedente de Rabelais consta. El valor de las correspondencias numéricas es doctrina interna."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
