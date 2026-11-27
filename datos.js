@@ -47826,6 +47826,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Dictador alemán de origen austriaco (Braunau, 1889 – Berlín, 1945), hijo de un agente de aduanas, Alois Hitler, hijo ilegítimo que llevó 39 años el apellido de su madre, Schicklgruber, hasta ser reconocido en 1876."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en 1919 en el Partido Obrero Alemán y lo dirigió desde 1921. Tras un golpe fallido en Múnich escribió en prisión parte de Mein Kampf. Canciller en 1933 y Führer desde 1934, estableció un régimen totalitario, inició la Segunda Guerra Mundial en 1939 y fue figura clave del Holocausto, el genocidio de unos 11 millones de personas, entre ellas judíos, gitanos, eslavos, personas con discapacidad, homosexuales y opositores. Se suicidó en 1945."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, descendería por su abuela de un linaje Rothschild; Hearst publicó artículos suyos, según Quigley; Hitler veía a Estados Unidos como principal país eugenésico y el Tercer Reich habría fracasado para que triunfara un cuarto. Hay más afirmaciones en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído no menciona ningún antepasado Rothschild; que nadie lo haya refutado no sería prueba. Lo de los artículos concuerda con lo leído sobre Hearst, que publicó a dirigentes nazis.\n\nPendiente al seguir el dinero: quién financió al partido (ver Schacht)."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -52662,6 +52684,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Publicista austriaco-estadounidense (1891-1995), doble sobrino de Freud, llamado padre de las relaciones públicas."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Escribió Crystallizing Public Opinion (1923) y Propaganda (1928), donde describe a las masas como irracionales y manejables con psicología. Trabajó para grandes empresas, gobiernos y políticos. En 1929 promovió el tabaco femenino como «antorchas de la libertad» para American Tobacco, y en los años cincuenta trabajó para United Fruit en torno al derrocamiento, orquestado por la CIA, del gobierno electo de Guatemala (1954)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, pasó por el comité de información de la guerra y aplicó el psicoanálisis a la propaganda: Propaganda, las antorchas de la libertad, el desayuno de huevos con beicon y el reloj de pulsera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las campañas del tabaco y su doctrina constan. En lo leído hoy no se han comprobado el beicon ni el reloj.\n\nGuatemala es un caso documentado de interés empresarial, propaganda y golpe."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -53609,6 +53653,11 @@ window.CRONO = {
       "titulo": "Niedersächsische Bibliographie",
       "url": "https://personen.niedersaechsische-bibliographie.de/person/export/1043206558",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (de): Stephan zu Schaumburg-Lippe",
+      "url": "https://de.wikipedia.org/wiki/Stephan_zu_Schaumburg-Lippe",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53620,6 +53669,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Príncipe alemán (Stadthagen, 1891 – Kempfenhausen, 1965), hijo del príncipe Jorge de Schaumburg-Lippe y hermano del último soberano, Adolfo II."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Militar y después diplomático: Sofía desde 1922, luego Roma, Río de Janeiro y Buenos Aires. Entró en el partido nazi en 1930 y en las SS, donde llegó a teniente coronel; fue vicejefe regional de la organización exterior del partido para Sudamérica. Bormann presionó para ascenderlo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la estancia San Ramón de Bariloche era suya."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su cargo nazi en Sudamérica y su paso por Buenos Aires constan. En lo leído no aparece la estancia.\n\nPendiente: registros de propiedad de Bariloche."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -57196,6 +57267,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor alemán (Friburgo, 1891 – 1968), hijo de un músico, doctor en lingüística comparada en 1914."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Teórico del racismo científico y la eugenesia, llamado «el papa de la raza»; su obra de 1929 popularizó el nordicismo y dividió a los europeos en supuestas razas. Himmler admiró sus escritos. Catedrático de teoría racial en Jena en 1930, afiliado nazi en 1932, enseñó en Berlín y Friburgo hasta 1945 y fue honrado por el régimen."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, asistió al encuentro fundacional de la Liga del Norte."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en la doctrina racial nazi está documentado; sus teorías carecen de validez. En lo leído no se ha localizado ese encuentro."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -62277,6 +62370,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Marino alemán (cerca de Berlín, 1891 – Aumühle, 1980), en submarinos desde 1916."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Mandó la Kriegsmarine desde 1943. El testamento de Hitler lo nombró presidente del Reich (30 de abril a 23 de mayo de 1945) y ordenó la rendición. En Núremberg fue condenado a diez años por crímenes contra la paz y de guerra, entre otras cosas por la guerra submarina ilimitada; salió en 1956."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el testamento lo nombró presidente, y en 1943 dijo que los submarinos habían construido un paraíso inexpugnable para el Führer, origen de las especulaciones sobre Hitler vivo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El nombramiento consta. La frase no aparece en lo leído.\n\nPendiente: su fuente original."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -69263,6 +69378,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Aviador, explorador y contraalmirante estadounidense (Winchester, 1888 – Boston, 1957)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Afirmó haber sobrevolado el Polo Norte en 1926 con Floyd Bennett, lo que le dio fama y financiación; las dudas se confirmaron en 1996 al aparecer su diario, con anotaciones de sextante borradas y rehechas. En 1928-1930 estableció la base Little America y sobrevoló el Polo Sur (29 de noviembre de 1929). Invernó solo en 1934. Organizó la operación Highjump (1946-1947), maniobras para probar equipo y tropa en condiciones antárticas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano cuenta que, según la leyenda, Highjump fue una invasión rechazada por platillos nazis."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído describe Highjump como maniobras militares. El propio autor lo presenta como leyenda."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -69899,6 +70036,16 @@ window.CRONO = {
       "titulo": "BPI: Roger Auboin, nota biográfica",
       "url": "https://www.bis.org/about/biora.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (fr): Roger Auboin",
+      "url": "https://fr.wikipedia.org/wiki/Roger_Auboin",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "BIS: antiguos directivos del banco",
+      "url": "https://www.bis.org/about/formerofficials.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69910,6 +70057,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista y alto funcionario francés (París, 1891 – 1974), formado en Derecho, filosofía y Ciencias Políticas; entró en el Consejo de Estado."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Jefe de gabinete de Painlevé (1925), asesor del Banco de Francia en Rumanía (1929-1932), columnista y breve responsable de economía. Director general del Banco de Pagos Internacionales de 1938 a 1958; participó en el coloquio Walter Lippmann. Según la fuente leída, autorizó el 15 de marzo de 1939 el traspaso al Reichsbank del oro checoslovaco depositado en Londres, mientras Checoslovaquia era invadida. En 1944 Londres y Washington decidieron suprimir el banco, que Keynes defendió; recuperó su situación en 1948."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo cita como el director general francés del banco durante la guerra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo consta.\n\nSobre el oro checoslovaco, lo leído atribuye la autorización a Auboin, y la biografía de Montagu Norman la atribuye a este; pueden ser pasos distintos de la misma operación. Merece contraste con los archivos del banco."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -71809,6 +71978,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero estadounidense (San Luis, 1889 – 1970), graduado en Harvard en 1911."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en 1916 en el National City Bank para abrir oficina en Ginebra, combatió en la Primera Guerra Mundial y trabajó en Lee, Higginson. Presidió el Banco de Pagos Internacionales durante la guerra; su relación estrecha con el Tercer Reich es polémica. El banco recibió del Reichsbank, como intereses, oro que después se demostró saqueado a los bancos centrales belga y neerlandés. Amigo de familia de Allen Dulles. En 1941 negó que el banco sirviera para eludir los controles contra el Eje. De 1946 a 1954 trabajó en el Chase National Bank."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo señala como el presidente estadounidense del banco durante la guerra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo consta. La fuente leída da fechas incoherentes (hasta junio de 1943, con reelección en 1942); la versión oficial dice 1940-1946.\n\nLectura de trabajo de Nexus: oro saqueado y relación con la inteligencia estadounidense en el mismo despacho; merece seguirse."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
