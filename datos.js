@@ -6867,6 +6867,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Carbonarios",
       "url": "https://es.wikipedia.org/wiki/Carbonarios",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Carbonari",
+      "url": "https://en.wikipedia.org/wiki/Carbonari",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -6886,6 +6891,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quiénes eran",
+     "nivel": "hecho",
+     "texto": "Red informal de sociedades secretas revolucionarias activa en Italia desde hacia 1800 hasta 1831. Querían derribar el absolutismo y conseguir una constitución, monárquica o republicana, sin un programa concreto de gobierno, lo que permitió reunir a gente de tendencias distintas. Usaban el lenguaje del oficio de carbonero: «buenos primos», «barraca», y «paganos» para los de fuera."
+    },
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "No está claro dónde nacieron. Se hicieron notar en el reino de Nápoles durante las guerras napoleónicas, primero contra la política de Murat y después contra Fernando I. Lo más probable es que fueran una rama de la masonería, dentro de la difusión de las ideas de la Revolución francesa. Documentos propios los remontaban a la Francia medieval y a Francisco I, algo que no se puede verificar."
+    },
+    {
+     "titulo": "Las revoluciones",
+     "nivel": "hecho",
+     "texto": "Tras 1815 el movimiento se volvió patriótico y antiaustriaco. En julio de 1820 dos oficiales, Morelli y Silvati, iniciaron en Nápoles la revuelta que arrancó a Fernando I una constitución, y hubo después alzamiento en Piamonte. En 1821 un ejército de la Santa Alianza aplastó el movimiento.\n\nEn 1831 se alzaron en los Estados Pontificios y en Módena; Ciro Menotti fue traicionado por el duque Francisco IV y ejecutado. Fue el último gran intento. Su modelo se imitó en Francia, España y Portugal, y alimentó la unificación italiana."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fueron una organización secreta y revolucionaria de tintes masónicos que lanzó las primeras proclamas de la unificación. En otro pasaje los hace venir de Iberia, aunque se les suponga origen francés, y los pinta como católicos que defendían su fe y cuyos métodos se imitaron después."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El carácter secreto, la afinidad masónica y el papel en la unificación concuerdan con lo leído. El origen ibérico no aparece, y el perfil de defensores de la fe no encaja con su presentación como oposición dura en los Estados Pontificios; había una secta católica rival, los Calderari, escindida de ellos en 1813.\n\nPendiente: de dónde toma el autor el origen ibérico."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -27902,6 +27934,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Marianne es la figura alegórica de la República Francesa: una mujer con gorro frigio que representa la libertad, la igualdad y la fraternidad. El nombre lo usaron tanto partidarios como adversarios de la República."
+    },
+    {
+     "titulo": "Primera aparición",
+     "nivel": "hecho",
+     "texto": "La primera vez que consta como símbolo de la República es en una canción en occitano, La garisou de Marianno, compuesta por el zapatero y poeta Guillaume Lavabre, de Puylaurens, probablemente en octubre de 1792, pocos días después de proclamarse la República. La relación entre la canción y el símbolo no se estableció hasta 1976."
+    },
+    {
+     "titulo": "Se discute de dónde viene el nombre",
+     "nivel": "hecho",
+     "texto": "La historiadora Florence Gauthier propone una referencia a Juan de Mariana (1536-1624), jesuita español de la Escuela de Salamanca que enseñó en París entre 1569 y 1574 y defendió que el poder viene del pueblo y que es legítimo resistir al tirano, incluso matándolo. Los partidarios del Antiguo Régimen habrían llamado «marianos» a los revolucionarios.\n\nEl historiador Maurice Agulhon es más prudente: Marie-Anne era un nombre muy común en medios populares, usado primero como mote de burla contra la República. Propone también otro origen posible, más culto: Mariamne, esposa de Herodes. No se pronuncia por ninguno."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, siguiendo a Florence Gauthier, el nombre procede del jesuita Juan de Mariana, y los adversarios de la República usaban «marianos» como término despectivo, según otro historiador que cita (la transcripción dice «Emil Apolis»; sin comprobar)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La tesis tiene una autora académica detrás y la versión francesa la presenta en condicional, como una posibilidad. Convive con la explicación del nombre popular; ninguna está probada.\n\nPendientes: el texto de Gauthier, el libro de Agulhon Marianne au combat y comprobar quién es el historiador que la transcripción deja ilegible."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -30208,6 +30267,11 @@ window.CRONO = {
       "titulo": "Wikipedia: French invasion of Malta",
       "url": "https://en.wikipedia.org/wiki/French_invasion_of_Malta",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Ocupación francesa de Malta",
+      "url": "https://es.wikipedia.org/wiki/Ocupaci%C3%B3n_francesa_de_Malta",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30223,6 +30287,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La orden antes de la invasión",
+     "nivel": "hecho",
+     "texto": "La Orden de San Juan declinaba en el siglo XVIII porque su función de combatir a los musulmanes quedaba anticuada. Dependía de Francia para sus ingresos y la mayoría de sus miembros eran franceses; la Revolución le quitó buena parte de las rentas y en 1792 tenía graves apuros. Su posición y sus fortificaciones interesaban a las potencias."
+    },
+    {
+     "titulo": "La toma de la isla",
+     "nivel": "hecho",
+     "texto": "La flota de Bonaparte, con más de 30.000 hombres, iba camino de Egipto y llegó a La Valeta el 9 de junio de 1798. El gran maestre, Ferdinand von Hompesch, solo permitió entrar los barcos de dos en dos. Los franceses desembarcaron el 11 de junio; muchos caballeros franceses abandonaron la orden, otros resistieron poco, y unos 2.000 milicianos malteses aguantaron un día.\n\nHompesch entregó Malta a cambio de propiedades y pensiones en Francia para él y sus caballeros."
+    },
+    {
+     "titulo": "Reformas, rebelión y final",
+     "nivel": "hecho",
+     "texto": "Bonaparte pasó seis días en la isla, abolió la nobleza, la esclavitud, el feudalismo y la Inquisición y reorganizó el gobierno. Los franceses no pagaron las deudas de la orden ni las pensiones, subieron impuestos, limitaron privilegios de la Iglesia y empezaron a saquear templos. En tres meses los malteses se rebelaron, con ayuda británica, napolitana y portuguesa. La guarnición se rindió a los británicos en 1800, que gobernaron 164 años."
+    },
+    {
+     "titulo": "Qué fue de la orden",
+     "nivel": "hecho",
+     "texto": "El gran maestre y muchos caballeros salieron con pocos bienes. Los acogió el zar Pablo I de Rusia, a quien algunos proclamaron gran maestre. La orden evolucionó hasta la actual Orden Soberana de Malta, con soberanía pero sin territorio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Napoleón, «el peón anglo-veneciano», expulsó a los caballeros, tras lo cual la orden tuvo poco protagonismo hasta la Primera Guerra Mundial; la conquista habría permitido a los jesuitas subordinar a la Orden de Malta hasta hoy."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La expulsión consta. En lo leído no aparece ninguna intervención jesuita ni subordinación posterior; además la Compañía estaba suprimida entre 1773 y 1814, salvo en algunos países como Rusia, donde acabó refugiándose parte de la orden de Malta.\n\nLectura de trabajo de Nexus: esa coincidencia en Rusia es una pista que se puede mirar, no una prueba. Pendiente la historia de la orden entre 1798 y 1834."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -30272,9 +30368,41 @@ window.CRONO = {
       "titulo": "Vatican Apostolic Archive (Wikipedia, resultado de búsqueda)",
       "url": "https://en.wikipedia.org/wiki/Vatican_Apostolic_Archive",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (en): Roman Republic (1798–1799)",
+      "url": "https://en.wikipedia.org/wiki/Roman_Republic_(1798%E2%80%931799)",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los Estados Pontificios formaban parte de la Primera Coalición. En febrero de 1797 los franceses vencieron en Faenza y Pío VI firmó el tratado de Tolentino. El 27 de diciembre de 1797 el general Duphot, agregado de la embajada francesa en Roma, murió en un tumulto, y el Directorio decidió responder."
+    },
+    {
+     "titulo": "La República Romana",
+     "nivel": "hecho",
+     "texto": "Berthier ocupó Roma el 11 de febrero de 1798 y proclamó la República el 15. Pío VI fue apresado, sacado de Roma el 20 y llevado a Francia, donde murió. Gaspard Monge y Pierre Daunou organizaron las instituciones según el modelo francés.\n\nEl ejército de ocupación se amotinó pronto por las pagas atrasadas y por los saqueos. Nápoles invadió la república en noviembre de 1798, los franceses recuperaron Roma en diciembre, y la restauración pontificia llegó entre 1799 y 1800."
+    },
+    {
+     "titulo": "El botín y los archivos",
+     "nivel": "hecho",
+     "texto": "Desde el armisticio de 1796 Francia exigió al papa obras de arte y quinientos manuscritos, y el tratado de Tolentino aumentó las exigencias. En 1809 Napoleón ordenó trasladar a París todo el Archivo Vaticano; para 1813 habían salido más de 3.000 cajas. En 1814 se ordenó devolverlo con poco dinero, y se perdió una parte importante; un estudioso de la época la calculaba entre un cuarto y un tercio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los archivos de Aviñón se trasladan al Vaticano en 1783, Napoleón ocupa Roma y el Vaticano en 1798, y el Archivo Secreto se crea en 1795 (que corresponde a 1910 en su cronología), con origen en la Biblioteca Vaticana de 1633 (1448) y en la Biblioteca Imperial de Constantinopla, destruida en 1638 (1453)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ocupación de 1798 consta. El artículo sobre el archivo sitúa en 1612, con Pablo V, la orden de reunir los documentos de la Iglesia en un solo lugar, lo que no encaja con una creación en 1795. En lo leído no se ha comprobado el traslado de 1783 ni la relación con Constantinopla."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -30319,6 +30447,11 @@ window.CRONO = {
       "titulo": "Allen Z. Hertz — Napoleon's Proclamation to Jews Known to Ottomans (Times of Israel)",
       "url": "https://blogs.timesofisrael.com/napoleons-proclamation-to-jews-known-to-ottomans/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Napoleon and the Jews",
+      "url": "https://en.wikipedia.org/wiki/Napoleon_and_the_Jews",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30334,6 +30467,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Napoleón y la emancipación",
+     "nivel": "hecho",
+     "texto": "La Revolución francesa dio a los judíos de Francia la ciudadanía en pie de igualdad. En los países conquistados, Napoleón levantó restricciones sobre guetos, distintivos, propiedad, culto y oficios. También limitó los préstamos con el decreto de 1806 sobre judíos y usura, restringió migraciones, exigió nombres formales y reguló el culto mediante consistorios. Los historiadores discuten sus intenciones."
+    },
+    {
+     "titulo": "Lo que se publicó en 1799",
+     "nivel": "hecho",
+     "texto": "El 22 de mayo de 1799, durante el sitio de Acre, la Gazette Nationale publicó una nota breve: Bonaparte habría invitado a los judíos de Asia y África a reunirse bajo su bandera para restablecer la antigua Jerusalén, y habría armado ya a muchos. La campaña fracasó y el plan nunca se ejecutó."
+    },
+    {
+     "titulo": "Cómo se interpreta",
+     "nivel": "hecho",
+     "texto": "Nathan Schur la considera propaganda para ganar apoyos en la región. Ronald Schechter cree que el periódico recogía un rumor, porque no hay documentos de que Napoleón planeara algo así. Se ha sugerido que buscaba atraer a Haim Farhi, consejero judío del gobernador de Acre, que dirigió la defensa.\n\nEn febrero de 1799 Thomas Corbet, protestante irlandés al servicio de Francia, había recomendado por carta al Directorio que Napoleón llamara a los judíos; no se sabe cuál fue la respuesta."
+    },
+    {
+     "titulo": "La versión larga de 1940",
+     "nivel": "hecho",
+     "texto": "En 1940 el historiador Franz Kobler publicó, en la revista oficial de la Organización Sionista Mundial, una «carta a la nación judía» que decía haber hallado en traducción alemana. Su autenticidad es muy dudosa: en 141 años no había aparecido ningún original francés, ni entero ni en parte."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Napoleón fue el primer sionista político, porque llamó a los judíos a establecerse en Jerusalén y a conquistarla por las armas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la noticia de prensa de 1799; no consta el texto de la proclama ni que existiera. La tesis descansa sobre un hecho discutido.\n\nPendientes: los libros de Schur y Schechter y buscar rastro de la proclama en archivos franceses u otomanos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -45910,6 +46075,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Province of Maryland",
       "url": "https://en.wikipedia.org/wiki/Province_of_Maryland"
+     },
+     {
+      "titulo": "Wikipedia (en): Residence Act",
+      "url": "https://en.wikipedia.org/wiki/Residence_Act",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): The Pentagon",
+      "url": "https://en.wikipedia.org/wiki/The_Pentagon",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -45924,6 +46099,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo se decidió la capital",
+     "nivel": "hecho",
+     "texto": "La Ley de Residencia, firmada por George Washington el 16 de julio de 1790, fijó la capital permanente junto al río Potomac, dejó a Filadelfia como sede provisional y puso como plazo diciembre de 1800.\n\nSalió de un acuerdo entre James Madison, Thomas Jefferson y Alexander Hamilton: el norte aceptó la ubicación sureña y a cambio el gobierno federal asumió las deudas de guerra de los estados, que interesaba sobre todo a los norteños."
+    },
+    {
+     "titulo": "El territorio",
+     "nivel": "hecho",
+     "texto": "El distrito se formó con tierras cedidas por Maryland y Virginia. En 1846 el Congreso devolvió a Virginia la parte que había cedido, incluida Alejandría, cuyo comercio de esclavos pesó en la petición; quedó solo la parte de Maryland."
+    },
+    {
+     "titulo": "Maryland, los católicos y los jesuitas",
+     "nivel": "hecho",
+     "texto": "George Calvert, primer barón de Baltimore, converso al catolicismo, quería un refugio para católicos ingleses; la carta de la colonia se concedió en 1632 a su hijo Cecil. Algunos historiadores la ven como compensación por el cargo que perdió el padre; el rey tenía además razones prácticas frente a los neerlandeses.\n\nLos primeros colonos, unos 200, llegaron en 1634 y en su mayoría eran protestantes. El jesuita Andrew White celebró la misa de llegada y el primer asentamiento se llamó St. Mary’s City. La colonia promovió una tolerancia religiosa pionera, con conflictos frecuentes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, si la City es el brazo financiero, Washington es el poder de las armas, con normas propias y símbolos de fasces romanas; el Pentágono imitaría el palacio de los Farnese en Caprarola. Sostiene que detrás del nacimiento de EE. UU. estuvo el Vaticano: Maryland remite a María, Virginia a la Virgen y los jesuitas fueron los primeros en llegar.\n\nEn la entrevista citada por Rubén Avilés se mencionan además el jesuita sentado entre los candidatos en una cena electoral y un túnel entre Roma y Washington del que habría hablado Hillary Clinton."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay un origen católico real en Maryland y presencia jesuita desde el primer viaje, pero con mayoría protestante entre los colonos, y la capital salió de un trato político y de deuda. La versión oficial de la ficha atribuye los nombres de Maryland y Virginia a dos reinas, no a la Virgen.\n\nEn lo leído la forma del Pentágono se explica por el solar de Arlington Farms. No se ha consultado nada sobre Caprarola ni sobre las otras afirmaciones de la entrevista."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
