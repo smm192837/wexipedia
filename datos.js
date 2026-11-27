@@ -55293,7 +55293,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Estudió dos años en Fordham, universidad jesuita (1964–1966), antes de pasar a Wharton. Su abogado en los años setenta y ochenta, Roy Cohn, defendió también a jefes mafiosos. La ofensiva «León ascendente» la lanzó Israel el 13 de junio de 2025, un mes después de la elección de León XIV; EE. UU. bombardeó instalaciones nucleares iraníes el 22 de junio. Sobre las fotos con el duque de Castro o con los Caetani no hay versión oficial.",
+    "resumen": "Donald John Trump (Nueva York, 14-6-1946), empresario inmobiliario, personalidad televisiva y político republicano estadounidense; presidente de EE. UU. de 2017 a 2021 y de nuevo desde 2025. Estudió dos años en Fordham, universidad jesuita (1964–1966), antes de pasar a Wharton. Su abogado en los años setenta y ochenta, Roy Cohn, defendió también a jefes mafiosos. La ofensiva «León ascendente» la lanzó Israel el 13 de junio de 2025, un mes después de la elección de León XIV; EE. UU. bombardeó instalaciones nucleares iraníes el 22 de junio. Sobre las fotos con el duque de Castro o con los Caetani no hay versión oficial.",
     "fuentes": [
      {
       "titulo": "Congressional Research Service: U.S. Strikes on Nuclear Sites in Iran (23-6-2025)",
@@ -56838,7 +56838,7 @@ window.CRONO = {
     "fuente": "oficial",
     "hasta": 2010
    },
-   "resumen": "Autor de «Secretos de la Reserva Federal». Eustace Clarence Mullins Jr. (9-3-1923 – 2-2-2010), escritor estadounidense descrito como supremacista blanco, teórico de la conspiración antisemita y negacionista del Holocausto.",
+   "resumen": "Eustace Clarence Mullins Jr. (9-3-1923 – 2-2-2010), escritor estadounidense descrito como supremacista blanco, teórico de la conspiración antisemita y negacionista del Holocausto; autor de «Los secretos de la Reserva Federal».",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -57531,7 +57531,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Historiador francés (Lunéville, 1902 – Cluses, 1985), figura de la Escuela de los Annales. Autor de «El Mediterráneo y el mundo mediterráneo en la época de Felipe II» (1949) y de «Civilización material, economía y capitalismo»; distinguió tiempo corto, coyuntura y larga duración.",
+    "resumen": "Historiador francés (Luméville-en-Ornois, Mosa, 1902 – Cluses, 1985), figura de la Escuela de los Annales. Autor de «El Mediterráneo y el mundo mediterráneo en la época de Felipe II» (1949) y de «Civilización material, economía y capitalismo»; distinguió tiempo corto, coyuntura y larga duración.",
     "fuentes": [
      {
       "titulo": "Axios Press",
@@ -57546,6 +57546,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Fernand Braudel",
       "url": "https://es.wikipedia.org/wiki/Fernand_Braudel",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Académie française: Fernand Braudel",
+      "url": "https://www.academie-francaise.fr/les-immortels/fernand-braudel",
       "consultado": "2026-11-27"
      }
     ]
@@ -57577,7 +57582,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El artículo leído nombra a Venecia entre los centros sucesivos del capitalismo, pero en los pasajes leídos no aparece la frase sobre los astilleros ni el siglo XIV. Sobre el nacimiento, la versión oficial dice Lunéville y el artículo leído dice Luméville-en-Ornois (Mosa), que es otro lugar: conviene contrastarlo."
+     "texto": "El artículo leído nombra a Venecia entre los centros sucesivos del capitalismo, pero en los pasajes leídos no aparece la frase sobre los astilleros ni el siglo XIV. El lugar de nacimiento, Luméville-en-Ornois (Mosa), lo confirma la biografía de la Académie française."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -65657,7 +65662,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nació en Roma en 1938 y vivió parte de su infancia en Estoril. Franco lo designó sucesor en 1969. Abdicó en 2014 y en 2020 se instaló en Abu Dabi tras las investigaciones sobre su fortuna, archivadas en 2022. Nació en Roma en 1938, durante el exilio de la familia real.",
+    "resumen": "Juan Carlos I (Roma, 5-1-1938), rey de España de 1975 a 2014, hijo de Juan de Borbón. Nació durante el exilio de la familia real y vivió parte de su infancia en Estoril. Franco lo designó sucesor en 1969 y fue proclamado rey el 22 de noviembre de 1975. Abdicó en 2014 en su hijo Felipe VI y en 2020 se instaló en Abu Dabi tras las investigaciones sobre su fortuna, archivadas en 2022.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Juan Carlos I",
@@ -66597,7 +66602,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Noble católico alemán (1904–1990), jefe de la casa principesca desde 1952. En 1948 sucedió a su padre como presidente del Comité Central de los Católicos Alemanes, cuya actividad había cesado bajo el nazismo. En 1937 denunció a su primo Hubertus, crítico de la persecución nazi de los católicos. Su militancia en las SA no se ha podido comprobar en las fuentes consultadas. Su hijo es Alois Konstantin. El banco Merck Finck administró desde 1938 y compró después el banco vienés de los Rothschild.",
+    "resumen": "Noble católico alemán (1904–1990), jefe de la casa principesca desde 1952. En 1948 sucedió a su padre como presidente del Comité Central de los Católicos Alemanes, cuya actividad había cesado bajo el nazismo. En 1937 denunció a su primo Hubertus, crítico de la persecución nazi de los católicos. Según sus biografías en la Wikipedia en alemán y en inglés, durante el nazismo fue miembro de las SA; no se ha hallado una fuente primaria que lo documente. Su hijo es Alois Konstantin. El banco Merck Finck administró desde 1938 y compró después el banco vienés de los Rothschild.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Karl, Prince of Löwenstein-Wertheim-Rosenberg",
@@ -66617,6 +66622,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Charles, Prince of Löwenstein-Wertheim-Rosenberg (1904–1990)",
       "url": "https://en.wikipedia.org/wiki/Charles,_Prince_of_L%C3%B6wenstein-Wertheim-Rosenberg_(1904%E2%80%931990)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Karl zu Löwenstein-Wertheim-Rosenberg",
+      "url": "https://de.wikipedia.org/wiki/Karl_zu_L%C3%B6wenstein-Wertheim-Rosenberg",
       "consultado": "2026-11-27"
      }
     ]
@@ -66647,7 +66657,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La versión oficial dice que la militancia en las SA no se ha podido comprobar; el artículo en inglés leído hoy la afirma: conviene revisarla. Lo leído habla de organizaciones del entorno de la prensa de Hugenberg, no de que él financiara prensa católica. Merck Finck, los Rothschild y Thomas Bernhard no aparecen."
+     "texto": "La militancia en las SA la afirman las Wikipedias en alemán y en inglés, sin nota al pie en esa frase en la alemana; no se ha hallado una fuente primaria. Lo leído habla de organizaciones del entorno de la prensa de Hugenberg, no de que él financiara prensa católica. Merck Finck, los Rothschild y Thomas Bernhard no aparecen."
     }
    ],
    "naturaleza": "gobiernos",
@@ -75052,7 +75062,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "20-2-1927 – 2-8-1986"
    },
-   "resumen": "Abogado de McCarthy, de la mafia y de Trump. Roy Cohn (1927–1986) fue abogado estadounidense: fiscal en el caso Rosenberg, consejero del senador McCarthy y después abogado de Donald Trump y de clientes ligados a la mafia neoyorquina.",
+   "resumen": "Roy Cohn (1927–1986) fue abogado estadounidense: fiscal en el caso Rosenberg, consejero del senador McCarthy y después abogado de Donald Trump y de clientes ligados a la mafia neoyorquina.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -76689,7 +76699,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "25-3-1921 – 15-4-2004"
    },
-   "resumen": "Thomas Corbally (1921–2004), empresario estadounidense en Londres, conocido por su papel en el caso Profumo (1961–63). Su pasado como agente de la OSS o la CIA no consta como dato comprobado: lo revisará el contrastador.",
+   "resumen": "Thomas Corbally (1921–2004), empresario e investigador privado estadounidense, conocido por su relación con el caso Profumo (1963).",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -76725,7 +76735,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Thomas Corbally (1921–2004), empresario estadounidense en Londres, conocido por su papel en el caso Profumo (1961–63). Su pasado como agente de la OSS o la CIA no consta como dato comprobado: lo revisará el contrastador.",
+    "resumen": "Thomas Corbally (Newark, 25-3-1921 – Nueva York, 15-4-2004), empresario e investigador privado estadounidense. Tras la Segunda Guerra Mundial trabajó en la Alemania ocupada para el «War Department Detachment», que un historiador del Centro de Historia Militar del Ejército de EE. UU., consultado por BuzzFeed News, identifica como el nombre de cobertura de la CIA. En 1963 vivía en Londres y se vio envuelto en el caso Profumo; más tarde colaboró con la consultora de investigación Kroll. En lo consultado no consta que perteneciera a la OSS.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Thomas Corbally",
@@ -76735,6 +76745,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Thomas Corbally",
       "url": "https://en.wikipedia.org/wiki/Thomas_Corbally",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "BuzzFeed News (Eamon Javers): This Private Investigator Was The Original Most Interesting Man In The World",
+      "url": "https://www.buzzfeednews.com/article/eamonjavers/this-private-investigator-was-the-original-most-interesting",
       "consultado": "2026-11-27"
      }
     ]
@@ -76767,7 +76782,7 @@ window.CRONO = {
     {
      "titulo": "Qué hizo",
      "nivel": "hecho",
-     "texto": "Sirvió en la aviación canadiense hasta 1943 y después trabajó al menos hasta 1949 en la Alemania ocupada como civil de un destacamento del Departamento de Guerra que se cree que era tapadera de los servicios de inteligencia estadounidenses. Participó en las investigaciones del caso Profumo, fue objeto de dos investigaciones del FBI en los años sesenta y durante muchos años hizo trabajos de espionaje industrial para la consultora Kroll. Se le atribuyen amistades muy dispares, entre ellas Kennedy, Kissinger y Roy Cohn."
+     "texto": "Sirvió en la aviación canadiense hasta 1943 y después trabajó al menos hasta 1949 en la Alemania ocupada como civil de un destacamento del Departamento de Guerra que se cree que era tapadera de los servicios de inteligencia estadounidenses; un historiador del ejército, consultado por BuzzFeed News, lo identifica con la CIA. Participó en las investigaciones del caso Profumo, fue objeto de dos investigaciones del FBI en los años sesenta y durante muchos años hizo trabajos de espionaje industrial para la consultora Kroll. Se le atribuyen amistades muy dispares, entre ellas Kennedy, Kissinger y Roy Cohn."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -76777,7 +76792,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Su papel en Profumo consta. La condición de agente solo aparece como creencia sobre la tapadera en la que trabajó; Trump, las trampas de miel y el Waldorf Astoria no aparecen en lo leído."
+     "texto": "Su papel en Profumo consta. Su trabajo bajo la cobertura de la CIA en Alemania lo sostiene el reportaje de BuzzFeed News; la pertenencia a la OSS no aparece; Trump, las trampas de miel y el Waldorf Astoria no aparecen en lo leído."
     }
    ],
    "naturaleza": "gobiernos",
