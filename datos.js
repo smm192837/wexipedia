@@ -11538,6 +11538,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "La idea fue de Daniel Dunlop, que quería reunir expertos de todo el mundo sobre energía. En 1923 organizó comités nacionales, y en 1924 la primera World Power Conference reunió en Londres a 1.700 expertos de 40 países, que el 11 de julio decidieron crear una organización permanente con Dunlop de secretario general."
+    },
+    {
+     "titulo": "Evolución",
+     "nivel": "hecho",
+     "texto": "Pasó a llamarse World Energy Conference en 1968 y World Energy Council en 1989. Tiene sede en Londres, está acreditado ante la ONU, cubre todas las fuentes de energía y reúne a más de 3.000 organizaciones en más de 90 países: gobiernos, empresas públicas y privadas, universidades y ONG. Publica estudios y asesora estrategias energéticas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera lo presenta como cúspide de la energía, con los cárteles energéticos por debajo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su tamaño y acreditación constan, según su propia descripción. En lo leído no aparece capacidad de mando sobre empresas ni cárteles.\n\nPendiente: quién lo financia y qué decisiones ha influido."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -14067,6 +14089,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El marco",
+     "nivel": "hecho",
+     "texto": "La ley del 3 de diciembre de 1922 dio al gobierno de Mussolini poder para legislar por decreto hasta finales de 1923. Con él se aprobó la reforma Gentile, obra del filósofo Giovanni Gentile, ministro de Instrucción, con Giuseppe Lombardo Radice; Mussolini la llamó «la más fascista» de las reformas."
+    },
+    {
+     "titulo": "La religión en la escuela",
+     "nivel": "hecho",
+     "texto": "La enseñanza católica quedó como fundamento y coronación de la escuela primaria, obligatoria desde primero, con maestros aprobados por la autoridad eclesiástica; los padres podían renunciar para ocuparse ellos, y el alumno permanecía en el aula. Gentile defendía que la doctrina religiosa era el mayor logro intelectual al alcance de las clases populares. La enseñanza se daba solo en italiano."
+    },
+    {
+     "titulo": "Duración",
+     "nivel": "hecho",
+     "texto": "Sus líneas esenciales siguieron en vigor ya en la República."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que el gobierno fascista empezó con medidas favorables al clero: catequesis en la escuela, crucifijos en dependencias oficiales y obra en templos dañados por la guerra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La religión obligatoria consta. En lo leído no se tratan los crucifijos ni las iglesias; la versión oficial los recoge.\n\nEl motivo declarado por Gentile era filosófico y de Estado, lo que no excluye el interés de ganar apoyo católico."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -30518,6 +30567,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién era Lamont",
+     "nivel": "hecho",
+     "texto": "Thomas Lamont (1870-1948), hijo de un pastor metodista de pocos recursos, estudió en Harvard, empezó de periodista y pasó a los negocios y a la banca; presidió el comité que renegoció la deuda exterior de México."
+    },
+    {
+     "titulo": "El préstamo a Italia",
+     "nivel": "hecho",
+     "texto": "Se describió como una especie de «misionero» del fascismo italiano y consiguió para el gobierno de Mussolini un préstamo de 100 millones de dólares. Después consideró intolerable la guerra de Etiopía de 1935, y en 1940 la policía fascista detuvo al representante de J. P. Morgan en Italia, Giovanni Fummi."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo presenta como el mayor valedor de Mussolini en el mundo anglosajón y presidente de los Peregrinos (1939-1945); dice que presionó junto a Morgan para un crédito de 50 millones en 1925 y cita una reunión de Morgan con Mussolini ese año."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El apoyo y el préstamo constan, de 100 millones, no 50.\n\nLas fechas difieren: la entrada leída lo sitúa en 1926 y la versión oficial, con documentos del Departamento de Estado, en noviembre de 1925. En lo leído no aparecen los Peregrinos ni la reunión."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -31086,6 +31157,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Vladímir Lenin",
       "url": "https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Lenin",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Lenin",
+      "url": "https://es.wikipedia.org/wiki/Lenin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31105,6 +31181,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La enfermedad",
+     "nivel": "hecho",
+     "texto": "Lenin conservaba una bala en el cuello de un atentado, extraída en 1922; en mayo de ese año sufrió un primer infarto cerebral y en diciembre otro que lo dejó en silla de ruedas. En marzo de 1923, tras saber de un altercado entre Krúpskaya y Stalin, sufrió el tercero y perdió el habla."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "Entre diciembre de 1922 y marzo de 1923 solo pudo dictar artículos, algunos secretos; había decidido dejar un testamento al partido. Murió en Gorki el 21 de enero de 1924."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra habla de una «oportuna» muerte de quien no veía a Stalin capacitado para gobernar, que abrió paso a un «títere» elegido por «oscuras sombras del poder»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La enfermedad larga y progresiva está descrita y explica la muerte sin intervención de nadie. En lo leído no hay indicio de que fuera provocada.\n\nQue Stalin se benefició es cierto; no prueba causa."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -31349,6 +31447,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Anticlerical de origen",
+     "nivel": "hecho",
+     "texto": "Mussolini atacó con dureza el cristianismo y la Iglesia en su etapa socialista, pidió expulsar del partido a quienes aceptaran ritos religiosos y fue expulsado en 1914 del Partido Socialista por su nacionalismo."
+    },
+    {
+     "titulo": "El acercamiento",
+     "nivel": "hecho",
+     "texto": "En el poder buscó apoyo apaciguando a la mayoría católica: en 1924 comulgaron tres de sus hijos y en 1925 se casó por la Iglesia. En 1929 firmó los Pactos de Letrán. Tras acuerdos de 1931, Pío XI le concedió en 1932 la Orden de la Espuela de Oro, segunda condecoración papal, y Mussolini visitó la Santa Sede."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que un plan liberal acabó en dictadura, alianza con Hitler, cierre de logias y persecución de judíos; presenta a Mussolini como títere, con un jesuita en medio, y como fracaso de los «anglovenecianos» y victoria de los «nacionalcatólicos»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hubo pacto y beneficio mutuo, documentados. Un trato entre dos poderes no es lo mismo que dirigir a una de las partes, y el pasado anticlerical apunta a un cálculo. En lo leído no aparece el jesuita.\n\nPendiente: los choques entre la Santa Sede y el régimen."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -36517,6 +36637,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Richard von Coudenhove-Kalergi",
       "url": "https://es.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi"
+     },
+     {
+      "titulo": "Wikipedia (en): Kalergi Plan",
+      "url": "https://en.wikipedia.org/wiki/Kalergi_Plan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Richard von Coudenhove-Kalergi",
+      "url": "https://en.wikipedia.org/wiki/Richard_von_Coudenhove-Kalergi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36528,6 +36658,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "El llamado «plan Kalergi» es una teoría conspirativa de extrema derecha y antisemita: afirma que Richard Coudenhove-Kalergi urdió sustituir a los europeos blancos mediante la inmigración."
+    },
+    {
+     "titulo": "De dónde sale",
+     "nivel": "hecho",
+     "texto": "Parte de un pasaje de su libro Praktischer Idealismus (1925), donde predecía que la humanidad futura sería mestiza. El neonazi austriaco Gerd Honsik difundió la idea en un libro de 2005. Circula con citas deformadas, como la falsa de que los judíos gobernarían Europa. Organizaciones antirracistas lo describen como versión de la teoría del «genocidio blanco», y el diario Linkiesta lo comparó con los Protocolos."
+    },
+    {
+     "titulo": "Quién fue Kalergi",
+     "nivel": "hecho",
+     "texto": "Político y filósofo (1894-1972), hijo de un diplomático austrohúngaro y de una japonesa, pionero de la integración europea y presidente de la Unión Paneuropea durante 49 años."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera lo cita como ejemplo de señalar al ejecutor y no a los verdaderos ideólogos, que para él serían los Habsburgo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Una predicción en un libro no es un plan: no hay documento que describa medidas para ejecutarlo. En lo leído no aparecen los Habsburgo como ideólogos.\n\nSe recoge con aviso por su carácter antisemita."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -40795,6 +40952,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El banco",
+     "nivel": "hecho",
+     "texto": "Lo fundaron en 1880 nobles romanos: el príncipe Bandini, el duque Francesco Borghese y el marqués Mereghi, con el príncipe Placido Gabrielli de presidente. Con Ernesto Pacelli (1903-1915) se expandió por Italia y fue el primer banco italiano con filiales en el extranjero."
+    },
+    {
+     "titulo": "Libia y la crisis",
+     "nivel": "hecho",
+     "texto": "Cerrado el paso en Italia por la Banca Commerciale y el Credito Italiano, se volcó en el Mediterráneo, sobre todo en Libia; según lo leído, la guerra de Giolitti contra Turquía se decidió también para salvarlo de la quiebra y la expropiación. Después el banco central lo refinanció por temor a otro hundimiento como el de la Banca di Sconto."
+    },
+    {
+     "titulo": "Salida",
+     "nivel": "hecho",
+     "texto": "En 1923, ya con el fascismo, lo tomó la Società Nazionale Mobiliare, participada por un consorcio público de crédito industrial y por los dos grandes bancos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sitúa medidas favorables al clero en el arranque del gobierno fascista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El rescate con dinero ligado al Estado consta. En los pasajes leídos no se menciona el interés del Vaticano, que la versión oficial sí recoge.\n\nSeguir el dinero: nobleza romana en el capital, una guerra colonial ligada a sus cuentas y un rescate público."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
