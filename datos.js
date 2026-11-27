@@ -5703,6 +5703,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Bohemian Grove",
       "url": "https://es.wikipedia.org/wiki/Bohemian_Grove"
+     },
+     {
+      "titulo": "Wikipedia (en): Bohemian Grove",
+      "url": "https://en.wikipedia.org/wiki/Bohemian_Grove",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -5717,6 +5722,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El club y el campamento",
+     "nivel": "hecho",
+     "texto": "El Bohemian Club de San Francisco lo fundaron periodistas en 1872 y creció con socios de otros ámbitos. El campamento nació en 1878 como despedida de un socio actor, Henry Edwards, con menos de cien asistentes en el condado de Marin, y se repitió. El club alquiló el terreno actual desde 1893 y lo compró en 1899. Hoy son más de dos semanas a mediados de julio en Monte Rio, con invitados de la política, la empresa y las artes."
+    },
+    {
+     "titulo": "La ceremonia",
+     "nivel": "hecho",
+     "texto": "La «Cremation of Care» es una representación teatral hecha desde 1881 por socios: se quema a «la preocupación» ante la estatua de un búho que oculta equipos eléctricos y de sonido. La grabación de la voz del búho fue durante años la del periodista Walter Cronkite."
+    },
+    {
+     "titulo": "Episodios documentados",
+     "nivel": "hecho",
+     "texto": "En septiembre de 1942 se celebró allí una reunión de planificación temprana del proyecto Manhattan, con Ernest Lawrence, Robert Oppenheimer y representantes de universidades, industria y ejército. En julio de 2000 Alex Jones entró y grabó la ceremonia a escondidas; la llamó sacrificio ritual, descripción que otras informaciones no apoyan."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, allí se simulan sacrificios ante un búho que representa a Moloch, y el búho enlaza con los Torlonia, príncipes de Civitella Cesi («civetta» significa búho)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay una quema simbólica ante un búho; la identificación con Moloch y con un sacrificio viene de relatos conspirativos. El nombre del principado y la palabra italiana para búho no prueban relación alguna, y en lo leído no aparecen los Torlonia.\n\nLectura de trabajo de Nexus: lo comprobable y relevante es que un club privado reúne a gente con poder y que allí se trató de un programa de Estado. Pendiente: listas de asistentes y qué se acordó."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -17408,6 +17440,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Expedición de los Mil",
       "url": "https://es.wikipedia.org/wiki/Expedici%C3%B3n_de_los_Mil"
+     },
+     {
+      "titulo": "Wikipedia (en): Expedition of the Thousand",
+      "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17423,6 +17460,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién la quiso",
+     "nivel": "hecho",
+     "texto": "Fue la única acción que decidieron juntos Mazzini, Garibaldi, Víctor Manuel II y Cavour, con fines distintos. Unos mil voluntarios salieron de Quarto, junto a Génova, y desembarcaron en Marsala el 11 de mayo de 1860. Antes habían ido a Sicilia agitadores como Rosolino Pilo y Francesco Crispi para ganar apoyos."
+    },
+    {
+     "titulo": "El desembarco y los barcos británicos",
+     "nivel": "hecho",
+     "texto": "Dos buques de la Marina británica en el puerto de Marsala, Argus e Intrepid, disuadieron a los barcos borbónicos de intervenir. El historiador Trevelyan sostiene que no hicieron nada, ni podían: tenían las calderas apagadas y parte de la tripulación en tierra. En Palermo los británicos negaron pólvora a Garibaldi."
+    },
+    {
+     "titulo": "Cómo ganaron con tan pocos",
+     "nivel": "hecho",
+     "texto": "En Calatafimi (15 de mayo) los Mil, con unos 500 insurgentes, se enfrentaron a unos 3.000 soldados. Una insurrección ayudó a tomar Palermo. Llegaron más de veinte expediciones con unos 21.000 voluntarios además de los primeros mil, y se sumaron sicilianos y calabreses.\n\nEl ejército borbónico tenía unos 90.000 soldados en activo y más de 50.000 de reserva, pero en el continente gran parte se disolvió o resistió poco. En el Volturno unos 50.000 borbónicos perdieron ante fuerzas de la mitad de tamaño. Gaeta cayó en febrero de 1861 ante el ejército sardo."
+    },
+    {
+     "titulo": "La sospecha de soborno",
+     "nivel": "hecho",
+     "texto": "Algunas interpretaciones atribuyen victorias a oficiales borbónicos comprados; según el artículo, en realidad los generales estaban divididos. También hubo dinero y voluntarios llegados de Europa y América."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera no cree que mil hombres vencieran a más de 120.000 y concluye que es un engaño. Jorge Guerra dice que Mazzini puso a Garibaldi al frente y que salió adelante por la ayuda de la Cosa Nostra y de dos buques británicos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La objeción de Nocera tiene respuesta documentada: no fueron mil contra todo un ejército, porque los refuerzos superaron con mucho al contingente inicial y el ejército se deshizo. Los dos buques existieron; su efecto se discute.\n\nEn lo leído sobre la expedición no aparece la Cosa Nostra; sí contactos con familias influyentes sicilianas, sin que se las califique de mafiosas."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -26847,6 +26916,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El problema que resolvía",
+     "nivel": "hecho",
+     "texto": "La ley orgánica de 1801 dejó en el distrito un condado y gobiernos municipales separados. Tras la guerra civil la población creció un 75 % hasta casi 132.000 habitantes en 1870; había calles de tierra y faltaba saneamiento, y algunos congresistas propusieron llevar la capital al oeste, a lo que el presidente Grant se negó."
+    },
+    {
+     "titulo": "Qué hizo la ley",
+     "nivel": "hecho",
+     "texto": "Revocó las cartas de Washington y Georgetown y las unió con el condado en un gobierno territorial: gobernador y consejo de once nombrados, una asamblea elegida de 22 miembros y una junta de obras públicas. No creó una ciudad nueva."
+    },
+    {
+     "titulo": "Cómo acabó",
+     "nivel": "hecho",
+     "texto": "El gobernador Alexander Shepherd, nombrado en 1873, modernizó la ciudad gastando el triple de lo presupuestado y la dejó en quiebra. En 1874 el Congreso sustituyó el gobierno territorial por tres comisionados nombrados; el gobierno directo del Congreso duró hasta la ley de autonomía de 1973."
+    },
+    {
+     "titulo": "La frase «corporación federal»",
+     "nivel": "hecho",
+     "texto": "El apartado 15 de 28 U.S.C. § 3002 dice que «United States» significa una corporación federal, una agencia u otra entidad de Estados Unidos, o un organismo instrumental suyo. La sección empieza limitando las definiciones a ese capítulo, y se añadió en 1990, no en 1871.\n\nEl artículo sobre la ley atribuye la tesis de que convirtió al país en una empresa a un malentendido de la expresión «corporación municipal», forma jurídica de la mayoría de ciudades y condados. La usa el movimiento de los «ciudadanos soberanos» y la retomaron seguidores de QAnon."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, la ley creó un gobierno «incorporado» y con ella EE. UU. pasó a ser una corporación, con derechos convertidos en privilegios; habría mediado un trato con banqueros como los Rothschild de Londres, y marcaría el origen del «gobierno en la sombra». Se apoya en la definición de 28 U.S.C. § 3002."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La definición que cita existe, pero rige para un capítulo sobre cobro de deudas federales y es de 119 años después. En lo leído no consta ningún acuerdo con los Rothschild.\n\nPendiente: el texto de la ley de 1871 y las cuentas de la quiebra de Shepherd, que es donde se puede seguir el dinero."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -27825,6 +27926,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Tilman Fertitta",
       "url": "https://www.wikipedia.org/wiki/Tilman_Fertitta",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Sicilian Mafia",
+      "url": "https://en.wikipedia.org/wiki/Sicilian_Mafia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27843,6 +27949,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El terreno: fin del feudalismo y unidad",
+     "nivel": "hecho",
+     "texto": "La mafia nació en el siglo XIX del paso del feudalismo al capitalismo y de la unión con Italia. Con el régimen feudal la nobleza tenía casi toda la tierra y aplicaba la ley con ejércitos privados y tribunales señoriales. Desde 1812 los barones vendieron o arrendaron tierras; tras 1860 el Estado repartió suelo público y eclesiástico. Los propietarios pasaron de 2.000 en 1812 a 20.000 en 1861."
+    },
+    {
+     "titulo": "Un Estado débil",
+     "nivel": "hecho",
+     "texto": "Había más pleitos, contratos y bienes que proteger, los barones disolvieron sus tropas y la nueva autoridad no daba abasto: a menudo menos de 350 policías en activo para toda la isla. Crecieron el bandolerismo y el robo. Propietarios y comerciantes recurrieron a árbitros y protectores al margen de la ley, que se organizaron en los primeros clanes.\n\nEn los pueblos se formaron «compañías de armas», a menudo con antiguos delincuentes, para perseguir ladrones y recuperar lo robado a cambio de una comisión. Salvatore Lupo las considera una protomafia."
+    },
+    {
+     "titulo": "Dónde y con qué negocios",
+     "nivel": "hecho",
+     "texto": "Fue sobre todo un fenómeno del oeste de Sicilia, muy ligado a los cultivos de cítricos y a la ganadería, fáciles de sabotear. Un estudio de 2015 relaciona su aparición con los municipios con azufre, la principal exportación. Leopoldo Franchetti la llamó en 1876 «industria de la violencia»; Diego Gambetta, en 1993, cartel de empresas de protección."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés sostiene que la dirigen familias de la nobleza, que nació en Brancaccio y que los Massimo, Torlonia y Borghese son dueños de organizaciones en varios países. Giuseppe Nocera la sitúa tras la caída del reino, para proteger a grandes terratenientes, controlada por príncipes. Jorge Guerra la atribuye a la constitución de 1812 y la cree manejada por la nobleza negra. Las acusaciones contra personas concretas están en «Según los autores» y no tienen prueba en la ficha."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo documentado apoya parte del cuadro: el fin del feudalismo en 1812 y la protección de propietarios están en el origen. No consta que la nobleza la dirigiera ni la dirija, ni nada sobre Brancaccio o los Massimo como fundadores.\n\nLectura de trabajo de Nexus: al seguir el dinero, el origen descrito es un mercado de protección en cítricos, ganado y azufre. Pendiente: quién poseía esas fincas y minas y a quién pagaban."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -36046,6 +36179,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Rothschild banking family of Naples",
       "url": "https://en.wikipedia.org/wiki/Rothschild_banking_family_of_Naples"
+     },
+     {
+      "titulo": "Wikipedia (it): Banca del Fucino",
+      "url": "https://it.wikipedia.org/wiki/Banca_del_Fucino",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44143,6 +44281,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Por qué se creó",
+     "nivel": "hecho",
+     "texto": "El telégrafo cambió las comunicaciones. Entre 1849 y 1865 hubo acuerdos bilaterales y regionales, y se vio que hacía falta un convenio general para normalizar equipos, instrucciones de operación, tarifas y contabilidad. El gobierno francés reunió en París, del 1 de marzo al 17 de mayo de 1865, a veinte Estados europeos, y allí se firmó el convenio y nació la Unión Telegráfica Internacional."
+    },
+    {
+     "titulo": "Ampliación y paso a la ONU",
+     "nivel": "hecho",
+     "texto": "En 1906 una conferencia en Berlín creó la Unión Radiotelegráfica, cuya secretaría asumió la oficina telegráfica. En 1932 las dos se fusionaron como Unión Internacional de Telecomunicaciones. El acuerdo con la ONU del 15 de noviembre de 1947, en vigor desde 1949, la hizo agencia especializada. Es la agencia más antigua de la ONU."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera destaca que el sistema de Naciones Unidas la incorporó en 1947 y cuenta que conocer su alcance, tras estudiar telecomunicaciones, fue una de sus mayores decepciones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La incorporación fue un acuerdo entre la unión y la ONU. La valoración del autor es personal y la ficha no recoge qué hechos concretos la apoyan.\n\nPendiente: quién decide hoy en sus órganos y quién la financia."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -44474,6 +44634,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Unificación de Italia",
       "url": "https://es.wikipedia.org/wiki/Unificaci%C3%B3n_de_Italia"
+     },
+     {
+      "titulo": "Wikipedia (en): Unification of Italy",
+      "url": "https://en.wikipedia.org/wiki/Unification_of_Italy",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Expedition of the Thousand",
+      "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44509,6 +44679,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "El Risorgimento, movimiento político y social del XIX, se inspiró en las rebeliones de las décadas de 1820 y 1830 contra el orden de Viena y se aceleró con las revoluciones de 1848. Sus figuras principales fueron Víctor Manuel II, Cavour, Garibaldi y Mazzini."
+    },
+    {
+     "titulo": "Guerra y diplomacia",
+     "nivel": "hecho",
+     "texto": "El reino de Cerdeña ganó crédito ante las potencias aliándose con Gran Bretaña y Francia en la guerra de Crimea (1855). Cavour pactó en secreto con Napoleón III, provocó a Austria y en 1859 estalló la guerra, con las victorias de Magenta y Solferino.\n\nCerdeña se anexionó Lombardía y, en marzo de 1860, la Italia central, incluidas las legaciones pontificias; a cambio cedió Saboya y Niza a Francia."
+    },
+    {
+     "titulo": "Del sur a Roma",
+     "nivel": "hecho",
+     "texto": "En 1860 la expedición de Garibaldi conquistó las Dos Sicilias y un plebiscito las unió a Cerdeña. El Reino de Italia se proclamó el 17 de marzo de 1861. El ejército italiano cruzó la frontera pontificia en septiembre de 1870 y tomó Roma, designada capital en 1871. Trento y Trieste llegaron en 1918."
+    },
+    {
+     "titulo": "Resistencia posterior",
+     "nivel": "hecho",
+     "texto": "En el antiguo reino del sur surgió el bandolerismo, que obligó a mantener unos 140.000 soldados piamonteses. La historiografía italiana lo trató tradicionalmente con dureza, en contraste con el heroísmo atribuido a la unificación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera sostiene que no fue unificación sino una estafa pactada por los Saboya, los Pallavicini, los Grimaldi y otras familias, que crearon figuras como Mazzini o Garibaldi, y que la emigración del sur empezó hacia 1870 por el empobrecimiento.\n\nJorge Guerra la atribuye al bando anglo-veneciano, contra el poder papal, con bancos centrales según el modelo de otros países, y cree que a la mayoría de los italianos les era indiferente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el acuerdo entre un rey y potencias extranjeras, la cesión de territorios como pago y una resistencia armada larga en el sur. En lo leído no consta un pacto de esas familias ni que los dirigentes fueran personajes fabricados.\n\nPendientes: la financiación de la guerra, los bancos y las cifras de emigración."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -45197,6 +45399,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El problema",
+     "nivel": "hecho",
+     "texto": "Los tratados postales bilaterales podían tardar años; el de Estados Unidos con Francia se negoció desde 1852, se firmó en 1857 y caducó. El director general de Correos estadounidense, Montgomery Blair, impulsó en 1863 un congreso en París que fijó principios sin llegar a acuerdo."
+    },
+    {
+     "titulo": "El tratado de Berna",
+     "nivel": "hecho",
+     "texto": "La victoria alemana de 1870 despejó el camino. Con tarifas unificadas dentro del nuevo imperio, el director de Correos alemán, Heinrich von Stephan, convocó un congreso en 1874. El tratado de Berna, del 9 de octubre, firmado por 21 países, 19 europeos, creó la Unión General de Correos, con tarifa uniforme e igual trato para el correo extranjero y el interior. En 1878 tomó el nombre de Unión Postal Universal."
+    },
+    {
+     "titulo": "Reparto de ingresos y ONU",
+     "nivel": "hecho",
+     "texto": "El tratado dejaba al país de origen todo el franqueo, suponiendo que cada carta traería respuesta; los flujos desiguales obligaron después a revisarlo. En 1948 pasó a ser agencia especializada de la ONU. Tiene hoy 192 miembros y sede en Berna."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera cuenta que la unión fue absorbida por la ONU al terminar la Segunda Guerra Mundial y la cita como ejemplo del control de los servicios de correo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso a la ONU en 1948 consta; «absorbida» es la palabra del autor para una relación de agencia especializada. La ficha no recoge qué control concreto describe.\n\nPendiente: las normas actuales de reparto de costes entre países."
+    }
+   ],
    "vista": "politica"
   },
   {
