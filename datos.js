@@ -9206,7 +9206,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Massimo son una de las grandes familias nobles de Roma, príncipes de Arsoli y duques de Rignano, con palacio propio en la ciudad (el Palazzo Massimo alle Colonne). Reclaman descender de la gens Fabia romana y han emparentado con la nobleza europea. Las fuentes de referencia no registran ningún papa de esta familia, y no hay constancia de que posean mafias, del Vaticano ni de la Orden de Malta.",
+    "resumen": "Los Massimo son una de las grandes familias nobles de Roma, príncipes de Arsoli y duques de Rignano, con palacio propio en la ciudad (el Palazzo Massimo alle Colonne). Reclaman descender de la gens Fabia romana y han emparentado con la nobleza europea. A la familia se le atribuyen dos papas santos, Anastasio I y Pascual I, atribución que en general se considera legendaria. No hay constancia de que posean mafias, el Vaticano ni la Orden de Malta.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Massimo (familia)",
@@ -21984,7 +21984,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dos presidentes de EE. UU. (1989–1993 y 2001–2009). George H. W. Bush dirigió la CIA en 1976–1977, y su sede se llama George Bush Center for Intelligence desde 1999. La genealogía documenta un origen inglés (siglo XVII), no alemán. Prescott Bush, padre y abuelo de los presidentes, fue uno de los siete directores de la Union Banking Corporation, que llevaba en Nueva York los intereses del industrial Fritz Thyssen, financiador temprano de Hitler; el Gobierno de EE. UU. incautó el banco en octubre de 1942. Los documentos no muestran que Bush ayudara directamente a los nazis y no se presentaron cargos contra los directores estadounidenses; en el vínculo con la Union Banking, Guillermo Mas Arellano acierta.",
+    "resumen": "Dos presidentes de EE. UU. (1989–1993 y 2001–2009). George H. W. Bush dirigió la CIA en 1976–1977, y su sede se llama George Bush Center for Intelligence desde 1999. La línea del apellido se documenta en Inglaterra en el siglo XVII y la familia se describe como de ascendencia sobre todo inglesa y alemana; no se ha encontrado en lo consultado que descienda de los Von dem Bussche. Prescott Bush, padre y abuelo de los presidentes, fue uno de los siete directores de la Union Banking Corporation, que llevaba en Nueva York los intereses del industrial Fritz Thyssen, financiador temprano de Hitler; el Gobierno de EE. UU. incautó el banco en octubre de 1942. Los documentos no muestran que Bush ayudara directamente a los nazis y no se presentaron cargos contra los directores estadounidenses; en el vínculo con la Union Banking, Guillermo Mas Arellano acierta.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Union Banking Corporation",
@@ -22041,7 +22041,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El cargo en la Union Banking consta. La ficha dice que el origen es inglés y no alemán, y lo leído habla de ambas ascendencias, sin mencionar a los Von dem Bussche. En los pasajes buscados no aparecen MAGA ni la logia."
+     "texto": "El cargo en la Union Banking consta. Lo leído describe ascendencia inglesa y alemana, sin mencionar a los Von dem Bussche. En los pasajes buscados no aparecen MAGA ni la logia."
     }
    ],
    "naturaleza": "gobiernos",
@@ -30512,7 +30512,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Varios directores de la CIA sí estudiaron en universidades jesuitas: George Tenet se graduó en la Escuela de Servicio Exterior de Georgetown, Leon Panetta en la Universidad de Santa Clara y John Brennan en Fordham. Otros de los citados no: Robert Gates se formó en William & Mary y David Petraeus en West Point. Tener un título de una universidad jesuita no implica pertenecer a la orden ni que esta dirija la agencia.",
+    "resumen": "Varios directores de la CIA sí estudiaron en universidades jesuitas: George Tenet se graduó en la Escuela de Servicio Exterior de Georgetown, Leon Panetta en la Universidad de Santa Clara y John Brennan en Fordham. Robert Gates se graduó en William & Mary, pero se doctoró en Georgetown en 1974. David Petraeus se graduó en West Point; en Georgetown hizo una estancia como becario militar en 1994-1995. Tener un título de una universidad jesuita no implica pertenecer a la orden ni que esta dirija la agencia.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Director of the Central Intelligence Agency",
@@ -30566,7 +30566,7 @@ window.CRONO = {
     {
      "titulo": "Dónde estudiaron",
      "nivel": "hecho",
-     "texto": "George Tenet se graduó en 1976 en la Escuela de Servicio Exterior de Georgetown; Leon Panetta estudió derecho en la universidad jesuita de Santa Clara; John Brennan se graduó en Fordham en 1977. David Petraeus salió de West Point en 1974. Robert Gates se graduó en William & Mary en 1965 e hizo después, en 1974, un doctorado en Georgetown."
+     "texto": "George Tenet se graduó en 1976 en la Escuela de Servicio Exterior de Georgetown; Leon Panetta estudió derecho en la universidad jesuita de Santa Clara; John Brennan se graduó en Fordham en 1977. David Petraeus salió de West Point en 1974. Robert Gates se graduó en William & Mary en 1965 e hizo después, en 1974, un doctorado en Georgetown. Petraeus completó allí una estancia como becario militar en 1994-1995."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -30576,7 +30576,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El paso de varios por centros jesuitas consta, incluido Gates por su doctorado, aunque la versión oficial de la ficha lo cuenta entre los que no. En lo buscado no consta ese paso para Petraeus ni se han comprobado Morell y Clapper. Un título no prueba dependencia de la orden."
+     "texto": "El paso de varios por centros jesuitas consta, incluidos Gates por su doctorado y Petraeus por una estancia que no es un título. No se han comprobado Morell ni Clapper. Un título no prueba dependencia de la orden."
     }
    ],
    "naturaleza": "gobiernos",
