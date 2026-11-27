@@ -58423,6 +58423,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Gante el 24 de febrero de 1500, hijo de Juana I y Felipe el Hermoso, heredó el patrimonio borgoñón y austriaco por un lado y Castilla, Aragón y sus dominios por otro. Murió en Yuste en 1558."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Rey de España desde 1516 y emperador desde 1520, revivió la idea de monarquía universal. La elección le costó 852.000 florines en sobornos a los príncipes, de los que banqueros de Augsburgo como los Fugger pusieron 544.000. Guerreó contra Francia, los otomanos y la Reforma endeudado con banqueros alemanes e italianos y apoyado en la plata de América. Aceptó la Paz de Augsburgo, abdicó en 1555-1556 y dividió la herencia entre su hijo Felipe y su hermano Fernando."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, su imperio del águila bicéfala pertenecía a los mismos grupos de poder que el angloimperio. Según Jorge Guerra, siguiendo a Gauthier, fue el último gran defensor de la monarquía universal católica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La idea de monarquía universal consta. En lo buscado no aparece nada sobre grupos comunes con un poder inglés."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -59053,9 +59075,41 @@ window.CRONO = {
       "titulo": "Wikipedia (versión simple): Columbus",
       "url": "https://simple.wikipedia.com/wiki/Christopher_Columbus",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Cristóbal Colón",
+      "url": "https://es.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Christopher Columbus",
+      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Navegante nacido, según la hipótesis más extendida, en Génova hacia 1451; su origen se discute y circulan teorías alternativas (catalana, mallorquina, gallega, entre otras), en general rechazadas por los principales expertos. Murió en Valladolid en 1506."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sin éxito en Portugal, logró en 1492 el apoyo de Isabel I; zarpó de Palos el 3 de agosto y llegó a las Bahamas el 12 de octubre. Hizo cuatro viajes. Como gobernador fue acusado de brutalidad y destituido; los taínos sufrieron tributo, repartimientos y venta como esclavos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue en realidad Pedro Madruga, conde de Caminha, caballero de la Orden de Cristo que se llevó mapas y ocultó su nombre, emparentado con los Colonna."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo buscado no aparece Pedro Madruga. La fuente recoge una hipótesis gallega y dice que los documentos en que se apoyó en su origen fueron tenidos por falsos o manipulados."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -59087,6 +59141,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Dante Alighieri",
       "url": "https://es.wikipedia.org/wiki/Dante_Alighieri",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Dante Alighieri",
+      "url": "https://en.wikipedia.org/wiki/Dante_Alighieri",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59097,6 +59156,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Florencia hacia mayo de 1265, de familia güelfa; murió en Rávena el 14 de septiembre de 1321."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Combatió en Campaldino en 1289 y en 1300 fue uno de los seis magistrados más altos de Florencia, cuando Bonifacio VIII preparaba la ocupación de la ciudad. Fue desterrado. Escribió la «Divina comedia» y, en latín, «De Monarchia», que defiende una monarquía universal autónoma y la separación entre Iglesia y Estado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, güelfo por familia, era gibelino por ideas, y dejó testimonio de la corrupción del papado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen güelfo y el ideario imperial de «De Monarchia» constan. Llamarlo gibelino es una lectura de sus ideas; la fuente subraya su defensa de la autonomía del poder civil."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -59612,9 +59693,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Dmitry Donskoy",
       "url": "https://en.wikipedia.org/wiki/Dmitry_Donskoy",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Dmitri Donskói",
+      "url": "https://es.wikipedia.org/wiki/Dmitri_Donsk%C3%B3i",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Moscú el 12 de octubre de 1350, hijo de Iván II, quedó príncipe a los nueve años y fue gran príncipe de Vladímir desde 1363."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Dobló el territorio moscovita, fue el primer príncipe de Moscú que desafió abiertamente a los tártaros y venció a Mamái en Kulikovo en 1380. El kan Toqtamish arrasó después Moscú; Dmitri le juró lealtad y recuperó el cargo de recaudador. Unió de forma permanente los tronos de Moscú y Vladímir. Murió en 1389 y la Iglesia ortodoxa lo canonizó en 1988."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Kulikovo fue una guerra civil religiosa entre dos ramas del cristianismo, un icono de Yaroslavl mostraría pistolas y después se fundó Moscú."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La victoria consta. En lo buscado no aparecen la guerra religiosa ni el icono, y Moscú existía antes: Dmitri ya era su príncipe."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -62454,6 +62562,11 @@ window.CRONO = {
       "titulo": "Universidad de Murcia (Digitum)",
       "url": "https://digitum.um.es/digitum/handle/10201/43266?mode=full",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Fernando Vázquez de Menchaca",
+      "url": "https://es.wikipedia.org/wiki/Fernando_V%C3%A1zquez_de_Menchaca",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62473,6 +62586,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista y humanista nacido en Valladolid en 1512 y muerto en Sevilla en 1569, miembro de la Escuela de Salamanca."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estudió la prescripción como origen jurídico de la propiedad, sobre la idea de que por derecho natural al principio todo era común, y sostuvo que los mares no se pueden apropiar, lo que inspiró a Grocio. Sus argumentos republicanos los usaron los rebeldes holandeses y Samuel Rutherford."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Locke es «casi un calco» de Vázquez de Menchaca."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fuente lo señala como precedente del iusnaturalismo de Hobbes, Locke y Rousseau. Que Locke lo copiara no se ha comprobado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -63815,9 +63950,41 @@ window.CRONO = {
       "titulo": "History.com: Genghis Khan",
       "url": "https://www.history.com/topics/east-asia/genghis-khan",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Gengis Kan",
+      "url": "https://es.wikipedia.org/wiki/Gengis_Kan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Genghis Khan",
+      "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido Temuyín hacia 1162, murió en agosto de 1227 durante la campaña contra el imperio tanguto."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Unificó las tribus nómadas de Mongolia, fue el primer gran kan y conquistó gran parte de Asia central y China. Muchos cronistas e historiadores describen sus campañas como una destrucción sin precedentes; las estimaciones de muertos van de unos cuatro millones a muchos más."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, murió joven hacia 1343, asesinado, fue enterrado en Guiza y los historiadores lo desdoblaron en varios personajes, entre ellos san Jorge y Rurik."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes buscados no aparece nada que sitúe su muerte en 1343 o en Egipto ni que lo identifique con los personajes citados, que las fuentes convencionales separan en siglos distintos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -66677,9 +66844,41 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Cortés, Hernán",
       "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/cortes-hernan-c-1485-1547",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Hernán Cortés",
+      "url": "https://es.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Hernán Cortés",
+      "url": "https://en.wikipedia.org/wiki/Hern%C3%A1n_Cort%C3%A9s",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Medellín en 1485 en una familia hidalga, pasó a La Española y Cuba, donde fue encomendero y alcalde de Baracoa. Murió en Castilleja de la Cuesta en diciembre de 1547."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1519 partió contra las órdenes del gobernador Velázquez, se alió con pueblos indígenas con la ayuda de doña Marina como intérprete y tomó Tenochtitlan el 13 de agosto de 1521. Recibió escudo de armas e ingresó en la Orden de Santiago en 1525; fue marqués del Valle de Oaxaca, pero el cargo de virrey fue para Antonio de Mendoza."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue un Láscaris, conde de Ribagorza, y su escudo permitiría a los reyes hispanos proclamar derechos sobre territorios ligados a esos símbolos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La filiación leída es otra: hijo de Martín Cortés de Monroy y Catalina Pizarro. En lo buscado no aparecen Láscaris ni Ribagorza; los elementos del escudo no se han analizado."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -67884,9 +68083,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Ivan I of Moscow",
       "url": "https://en.wikipedia.org/wiki/Ivan_I_of_Moscow",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Iván I de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_I_de_Rusia",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Iván I Danílovich, apodado Kalitá («bolsa de dinero»), nacido hacia 1288, heredó el principado de Moscú al morir su hermano Yuri."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1327 el kan Uzbek lo envió a aplastar la revuelta de Tver; en 1331 quedó como único gran príncipe de Vladímir. Cobró el tributo a otros príncipes y con ese dinero desarrolló Moscú, adonde el metropolita trasladó su residencia. Murió en marzo de 1340."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Iván Kalitá o Batu Kan, nieto de Gengis, creó en Italia Roma y el Vaticano e instituyó el papado; «Vaticano» sería «Batu Kan»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Sus lazos con la Horda como recaudador constan. Batu pertenece al siglo anterior y en lo buscado no hay nada sobre Italia: la identificación no tiene apoyo en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -71187,6 +71413,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Juan I de Inglaterra",
       "url": "https://es.wikipedia.org/wiki/Juan_I_de_Inglaterra",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): John, King of England",
+      "url": "https://en.wikipedia.org/wiki/John,_King_of_England",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71198,6 +71429,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Menor de los hijos de Enrique II y Leonor de Aquitania, nacido en diciembre de 1166 sin expectativa de grandes territorios; fue rey desde 1199, a la muerte de Ricardo I."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Perdió Normandía y gran parte de Aquitania frente a Felipe II de Francia. Su pleito con Inocencio III le valió la excomunión en 1209, resuelta en 1213. Derrotados sus aliados en Bouvines (1214), los barones se alzaron contra su fiscalidad; la Carta Magna de 1215 no se cumplió, estalló la guerra civil y murió de disentería a fines de 1216."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el Vaticano dio potestades a reyes ingleses como él a cambio de que cedieran libertad."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que arregló su conflicto con el papa y que este le apoyó contra los barones. En lo buscado no aparece un intercambio de potestades como el que plantea el autor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -74344,6 +74597,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Martín de Azpilcueta",
       "url": "https://es.wikipedia.org/wiki/Martín_de_Azpilcueta",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Martín de Azpilcueta",
+      "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_de_Azpilcueta",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74359,6 +74617,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Canonista, teólogo y economista navarro, el «Doctor Navarro», nacido en Barásoain el 13 de diciembre de 1492, pariente de Francisco Javier. Murió en Roma en junio de 1586."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en Salamanca desde 1524 y en Coimbra de 1538 a 1555. Defendió ante la Inquisición al arzobispo Carranza, a cuyo proceso se trasladó a Roma con ochenta años. Formuló en 1556 una teoría cuantitativa del dinero, trató el dinero como una mercancía más y legitimó el interés frente a la prohibición de la usura."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue amigo y protector de Sarpi frente a la curia, el mayor economista salmantino, y defendió que cambiar dinero con beneficio es lícito."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su defensa del cambio con beneficio consta. En lo buscado no aparece Sarpi; la amistad queda sin comprobar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -82701,6 +82981,16 @@ window.CRONO = {
       "titulo": "Thomas More — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Thomas-More-English-humanist-and-statesman",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Tomás Moro",
+      "url": "https://es.wikipedia.org/wiki/Tom%C3%A1s_Moro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Thomas More",
+      "url": "https://en.wikipedia.org/wiki/Thomas_More",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -82716,6 +83006,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista y humanista nacido en Londres el 7 de febrero de 1478; pensó en hacerse monje y siguió como laico con prácticas ascéticas. Entró en el Parlamento en 1504."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó «Utopía» en Lovaina en 1516, sobre una sociedad ideal en una isla. Fue lord canciller de Enrique VIII de 1529 a 1532; al oponerse al matrimonio con Ana Bolena y rechazar el Acta de Supremacía fue condenado por traición y decapitado el 6 de julio de 1535. Pío XI lo canonizó en 1935 y Juan Pablo II lo hizo patrón de gobernantes y políticos en 2000."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue un humanista católico cuya «Utopía» es precedente del comunismo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su catolicismo y la consideración de precursor del socialismo utópico constan en la fuente. Que de él derive el comunismo moderno es una lectura más amplia."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -83609,9 +83921,36 @@ window.CRONO = {
       "titulo": "Wikipedia: William Montagu, 2nd Earl of Salisbury",
       "url": "https://en.wikipedia.org/wiki/William_Montagu,_2nd_Earl_of_Salisbury",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Guillermo de Montaigu (1328-1397)",
+      "url": "https://es.wikipedia.org/wiki/Guillermo_de_Montaigu_(1328-1397)",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Noble inglés nacido en Donyatt (Somerset) el 25 de junio de 1328, hijo mayor del primer conde de Salisbury; heredó el título en 1344. Fue además rey de Man. Murió en 1397."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en la Orden de la Jarretera en su fundación, en 1348. Mandó tropas en Francia, incluida la retaguardia del Príncipe Negro en Poitiers (1356), negoció el tratado de Brétigny y estuvo en el consejo del rey. Su primer matrimonio, con Juana de Kent, quedó anulado por el enlace secreto anterior de ella."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue cofundador de la Orden de la Jarretera dentro del linaje que atribuye a Montagu Norman."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su condición de caballero fundador consta. El vínculo genealógico con Montagu Norman no se ha comprobado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
