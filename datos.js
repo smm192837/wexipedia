@@ -20514,6 +20514,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "Salió del círculo de jóvenes colaboradores de Alfred Milner en Sudáfrica (el «Kindergarten»), que desde 1906 se reunía en Johannesburgo. El movimiento se fundó en una conferencia en Plas Newydd, Gales, del 4 al 6 de septiembre de 1909: la idea era de Milner, la estructura de Lionel Curtis y Philip Kerr fue secretario."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Desde 1910 publicó The Round Table sobre la política del Imperio. Buscaba una unión más estrecha de Gran Bretaña y sus colonias autónomas, para Curtis una federación imperial; otros, como Leo Amery, y el consenso posterior pidieron solo cooperación. Creó grupos en Canadá, Sudáfrica, Australia, Nueva Zelanda y Terranova. Al no haber acuerdo, Curtis publicó solo en 1916 su libro sobre la Commonwealth."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano, apoyándose en Quigley, lo presenta como heredero de Cecil Rhodes, ligado a America First y a la Liga Anticomunista Mundial, y paso previo a los Peregrinos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El grupo y su proyecto imperial constan, con discrepancias internas. Los Peregrinos son anteriores (1902), así que no pueden surgir de la Mesa Redonda. En lo leído no aparecen America First ni la Liga Anticomunista.\n\nPendiente: las cuentas del Rhodes Trust, que la versión oficial da como financiador."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -28852,6 +28874,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Grande Oriente d'Italia",
       "url": "https://it.wikipedia.org/wiki/Grande_Oriente_d%27Italia",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Gran loggia d'Italia degli Alam",
+      "url": "https://it.wikipedia.org/wiki/Gran_loggia_d'Italia_degli_Alam",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28874,6 +28901,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La escisión",
+     "nivel": "hecho",
+     "texto": "El Grande Oriente de Italia, creado en Milán en 1805, es la obediencia masónica más antigua del país. El 24 de junio de 1908 se separó un grupo del Rito Escocés encabezado por Saverio Fera, que dio lugar a la Gran Logia de Italia de Piazza del Gesù, fundada formalmente en 1910."
+    },
+    {
+     "titulo": "El motivo",
+     "nivel": "hecho",
+     "texto": "Fue político: bajo el gran maestre Ettore Ferrari el Grande Oriente seguía una línea radical y anticlerical, y los escindidos eran más conservadores y conciliadores con la Iglesia. El detonante fue la propuesta de censurar a diputados masones que no votaron suprimir la religión en la escuela primaria."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "De nueve logias iniciales pasó a cincuenta en un año, superó al Grande Oriente en el sur y obtuvo reconocimiento internacional en 1912. El fascismo prohibió la masonería en 1925."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que había muchos masones entre los fascistas y que su eliminación dio a la Iglesia un espacio exclusivo, recomendando en 1929 borrar de las listas a anticlericales y masones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La escisión de 1908 consta. La relación con las elecciones de 1929 no se ha leído.\n\nLa división entre una masonería anticlerical y otra conciliadora es un dato que no encaja con tratarla como un bloque."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -30263,6 +30317,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Surgió en la Inglaterra de comienzos del siglo XX para prevenir la delincuencia y formar «buenos ciudadanos» con un método de vida al aire libre inspirado en la experiencia militar del general Robert Baden-Powell. En 1907 se hizo el primer campamento en la isla de Brownsea con 20 muchachos, hijos de militares que habían servido con él y de obreros de Londres."
+    },
+    {
+     "titulo": "El manual y la expansión",
+     "nivel": "hecho",
+     "texto": "Escultismo para muchachos (1908) recogió el método, perfeccionado después por Vera Barclay y Roland Phillips. La palabra ya se había usado en publicaciones de aventuras, entre ellas una serie sudafricana de 1900 durante la guerra de los bóeres. Hoy está en 165 países y territorios con unos 60 millones de miembros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de autores."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no se trata quién financió su expansión."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -36786,6 +36862,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Protocolos de los Sabios de Sion",
       "url": "https://es.wikipedia.org/wiki/Protocolos_de_los_sabios_de_Si%C3%B3n",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Los protocolos de los sabios de Sion",
+      "url": "https://es.wikipedia.org/wiki/Los_protocolos_de_los_sabios_de_Sion",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36801,6 +36882,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Libelo antisemita compilado en el Imperio ruso a principios del siglo XX a partir de textos ficticios, para justificar los pogromos. Finge recoger reuniones de supuestos «sabios» que planean una conspiración judeomasónica para dominar el mundo. Es falso."
+    },
+    {
+     "titulo": "Cómo se fabricó",
+     "nivel": "hecho",
+     "texto": "No pudo escribirse antes de 1901, porque alude a los asesinatos de Humberto I (1900) y McKinley (1901); la edición de Serguéi Nilus lleva las fechas 1902-1903. Cesare De Michelis sostiene que nació meses después de un congreso sionista ruso de 1902 como parodia para círculos antisemitas y luego se publicó como auténtico. En 1921 The Times mostró que plagiaba el Diálogo en el infierno de Maurice Joly, una sátira contra Napoleón III."
+    },
+    {
+     "titulo": "Efectos",
+     "nivel": "hecho",
+     "texto": "Es la publicación antisemita más difundida de la época contemporánea. Hitler la usaba como ilustración de supuestos designios judíos y sigue circulando en redes extremistas e internet."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que Europa estaba corrompida por un veneno que atribuye sobre todo a esta falsificación y a la revista jesuita Civiltà Cattolica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La falsedad del texto está probada. En lo leído no se trata de Civiltà Cattolica.\n\nPendiente: revisar qué publicó la revista sobre los judíos en esos años."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -41433,6 +41541,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Sociedad angloestadounidense fundada el 16 de julio de 1902 por Harry Brittain para promover, en palabras del diplomático Joseph Choate, la buena voluntad y la paz entre Estados Unidos y Gran Bretaña. La primera reunión informal británica reunió a Brittain, Charles Rolls y dos militares; la rama estadounidense se reunió por primera vez en el Waldorf Astoria de Nueva York el 13 de enero de 1903."
+    },
+    {
+     "titulo": "Quiénes y para qué",
+     "nivel": "hecho",
+     "texto": "Funcionó como canal semioficial entre los dos gobiernos en un momento de acercamiento de las élites. Conectó a familias como Astor, Du Pont, Rockefeller, Carnegie, Morgan y Vanderbilt con la nobleza y la realeza británicas, con bancos y grupos de prensa. Los primeros socios estadounidenses eran casi todos blancos protestantes de la costa este."
+    },
+    {
+     "titulo": "Miembros y actos",
+     "nivel": "hecho",
+     "texto": "Han sido socios, entre otros, Kissinger, Thatcher, Volcker, Shultz y Henry Luce; la familia real, los secretarios de Estado y los embajadores suelen serlo por razón del cargo. Ofrece cenas de bienvenida a cada embajador estadounidense en Londres, y Churchill habló en ella en marzo de 1941."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, se fundó el 11 de julio de 1902 en Nueva York con ramas dominadas por los Astor, defendió la neutralidad hasta Pearl Harbor y una alianza angloamericana y germánica, y tuvo entre sus miembros a los hermanos Dulles; admite que no hay pruebas de que Trump pertenezca."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La composición de élite y el papel de canal entre gobiernos constan. La fecha y el lugar de fundación que da el autor no coinciden con lo leído, y no aparecen los Dulles ni la postura sobre Alemania.\n\nPendiente: las listas de socios de los años treinta."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -42324,6 +42459,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antes de la reforma",
+     "nivel": "hecho",
+     "texto": "En el siglo XIX la medicina estadounidense apenas estaba regulada, las licencias estatales eran pocas y se aplicaban poco, y había muchas facultades de calidad muy desigual. La Asociación Médica Americana creó en 1904 un consejo de educación médica para reformarla, con requisitos de acceso y un plan de dos años de ciencias y dos de clínica."
+    },
+    {
+     "titulo": "El informe y sus efectos",
+     "nivel": "hecho",
+     "texto": "El informe Flexner (1910), bajo la Fundación Carnegie, pidió exigencias más altas, enseñanza según la ciencia establecida y centralización, y concluyó que sobraban facultades y médicos. Cerca de la mitad de las escuelas se fusionaron o cerraron. Las de electroterapia y otras alternativas cerraron, y se desacreditó la homeopatía, la osteopatía tradicional, la medicina ecléctica y la botánica no contrastada."
+    },
+    {
+     "titulo": "Otros efectos",
+     "nivel": "hecho",
+     "texto": "Quedaron solo dos facultades para estudiantes negros y las universidades redujeron la admisión de mujeres."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Rockefeller, Carnegie y J. P. Morgan, a los que llama «sionistas», presionaron a legisladores para favorecer la medicina de fármacos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El impulso de una asociación profesional y una fundación, y el cierre de escuelas, constan. En lo leído no aparece J. P. Morgan ni un plan de «sionistas», etiqueta sin apoyo.\n\nPendiente: los archivos de la AMA y de las fundaciones sobre la presión legislativa."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -44700,6 +44862,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "La obra",
+     "nivel": "hecho",
+     "texto": "A Modern Utopia (1905) es una novela ensayo de H. G. Wells, de estructura narrativa compleja. Es conocida por la idea de que una orden nobiliaria voluntaria, los samuráis, podría gobernar un Estado mundial «cinético y no estático» y resolver cómo combinar progreso y estabilidad política."
+    },
+    {
+     "titulo": "El autor",
+     "nivel": "hecho",
+     "texto": "Wells (1866-1946) fue escritor y crítico social, de visión progresista a escala global, pionero de la ciencia ficción y breve miembro de la Sociedad Fabiana. Anticipó en sus obras aviones, tanques, armas nucleares y viajes espaciales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra describe en ella un Estado mundial con samuráis, humanidad vegana y sin razas, trabajo físico casi obsoleto y moneda de energía."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El Estado mundial y los samuráis constan. En lo leído hoy no se han comprobado la dieta, las razas ni la moneda de energía.\n\nSe puede comprobar leyendo la propia obra."
+    }
+   ],
    "vista": "politica"
   },
   {
