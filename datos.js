@@ -8523,6 +8523,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Familia Farnesio",
       "url": "https://es.wikipedia.org/wiki/Familia_Farnesio"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Farnesio",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Farnesio",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Farnese",
+      "url": "https://en.wikipedia.org/wiki/House_of_Farnese",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8538,6 +8548,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia se remonta hacia el año 984 y toma su nombre de una de sus posesiones más antiguas, Castrum Farneti. Subió con Ranuccio el Viejo, protegido del papa Eugenio IV, y enlazó con los Orsini y los Caetani."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Dio al papa Pablo III y gobernó el ducado de Parma de 1545 a 1731. Construyó o adquirió el Palacio Farnesio de Roma, la villa de Caprarola, la iglesia del Gesù y el palacio de la Pilotta. Al morir sin heredero directo Antonio Farnesio en 1731, el ducado pasó a Carlos de Borbón, hijo de Isabel de Farnesio y Felipe V y luego rey de España."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Su ascenso se apoyó en el favor papal y en matrimonios con las grandes familias romanas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, la Farnesina es de los Farnese y Carlos de Borbón de Sicilia es su descendiente directo. Según Rubén Avilés, fueron un linaje militar, su título pasó a los Borbones italianos, establecieron oficialmente a los jesuitas y su fortaleza de Caprarola fue la base del Pentágono."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La herencia a los Borbones por Isabel de Farnesio consta. La iglesia del Gesù se liga a la familia, pero en lo buscado no aparece que ella estableciera a los jesuitas, ni nada sobre la Farnesina o el Pentágono."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -12478,6 +12515,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El principado otomano nació hacia 1299 en Bitinia, en el noroeste de Anatolia, como uno más de los estados en competencia. La Peste Negra devastó desde 1347 las ciudades y zonas sedentarias de Anatolia y los Balcanes, y las primeras incursiones otomanas en los Balcanes empezaron poco después."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Hacia 1453 el principado se había convertido en un imperio. Su poder se apoyaba en coaliciones con jefes tribales turcos y aliados y vasallos balcánicos. La peste fue recurrente en los siglos siguientes y el comercio de larga distancia que trajo la expansión contribuyó a difundirla; a mediados del siglo XVI los otomanos habían mejorado su salud pública."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los khanes decidieron exterminar a la población enferma y esa operación sería la conquista otomana del siglo XV, descrita en la Biblia como la caída de Babilonia o la conquista de la tierra prometida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes discrepan sobre el peso de la peste: una la tiene por factor casi seguro del éxito en los Balcanes y la otra lo considera discutido. En ninguna aparece una decisión de exterminar enfermos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18334,6 +18393,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Escuela de Salamanca",
       "url": "https://es.wikipedia.org/wiki/Escuela_de_Salamanca"
+     },
+     {
+      "titulo": "Wikipedia (en): School of Salamanca",
+      "url": "https://en.wikipedia.org/wiki/School_of_Salamanca",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18361,6 +18425,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Se llama así al renacimiento del pensamiento, sobre todo teológico y jurídico, que siguió a la labor de Francisco de Vitoria en Salamanca. Ya en 1517 mercaderes españoles de Amberes consultaron a Vitoria, entonces en la Sorbona, sobre la legitimidad de comerciar para enriquecerse."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Sus miembros reformularon el derecho natural y estudiaron la guerra justa, la propiedad y la economía. Azpilcueta observó que donde los metales preciosos eran escasos los precios eran más bajos que donde abundaban; con Luis de Alcalá y Luis de Molina desarrolló una teoría del valor. Su influjo llegó a universidades de otros países y a América. En los años cincuenta del siglo XX, Schumpeter reivindicó su aportación al origen de la ciencia económica."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El problema que estudiaron nació del comercio y de la llegada de metales de América: qué precio es justo y si es lícito ganar dinero comerciando."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, bancos de Augsburgo, Amberes y Génova, de familias de la nobleza negra, financiaron la escuela con la Corona en bancarrota; fue cuna de un liberalismo contrario al monopolio hispano e influyó en Suárez, Grocio, Law, Quesnay, Smith y las declaraciones de derechos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La aportación económica y jurídica consta. En los pasajes buscados no aparece que la financiaran banqueros; la cadena de influencias hasta 1789 queda sin comprobar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -22134,6 +22225,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Garduña",
       "url": "https://es.wikipedia.org/wiki/Gardu%C3%B1a",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): La Garduña (sociedad secreta)",
+      "url": "https://es.wikipedia.org/wiki/La_Gardu%C3%B1a_(sociedad_secreta)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -22149,6 +22245,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Según el relato, se habría formado en Toledo hacia 1412 a partir de bandas que robaban en casas de musulmanes y judíos con la excusa de colaborar con la Inquisición o en connivencia con ella."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La tradición la describe como sociedad secreta con juramentos, nueve grados y cuartel general en Sevilla. Un supuesto «Libro Mayor» se habría hallado en 1821 al detener a su jefe, y los dirigentes habrían sido ejecutados en 1822; el libro y las pruebas se habrían perdido en un incendio de la Audiencia de Sevilla en 1918. Sus fuentes son muy discutidas y varios historiadores cuestionan que existiera, porque solo hay testimonios literarios: León Arsenal e Hipólito Sanchiz remontan todas a «Misterios de la Inquisición española», firmado por Víctor de Féréal, texto novelado que consideran propaganda anticlerical."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, a la mafia se le atribuye un origen medieval en la península ibérica, donde actuaba la Garduña, sociedad secreta dedicada a matar herejes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que la leyenda circula consta; que la sociedad existiera no está probado. La fecha de fundación varía entre la ficha (1417) y lo leído (hacia 1412)."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -28530,9 +28648,36 @@ window.CRONO = {
       "titulo": "Ivan the Terrible, Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Ivan_the_Terrible",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Iván IV de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_IV_de_Rusia",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Iván IV, nieto de Iván III, sucedió de niño a su padre Basilio III en 1533 y fue el primer zar coronado, en 1547."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Conquistó los kanatos de Kazán y Astracán, gobernó al principio con un consejo (la Rada) del que formaba parte Adáshev, del que luego se deshizo, y abrió la guerra de Livonia (1558-1583), que arruinó el país sin lograr su objetivo. Creó la oprichnina, responsable de purgas y de la matanza de Nóvgorod, y la abolió en 1572 tras su fracaso frente a los tártaros de Crimea. En 1575 proclamó gran príncipe a Simeón Bekbulátovich, gobernante nominal durante cerca de un año mientras él conservaba el poder. Murió en marzo de 1584."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, bajo «Iván el Terrible» se mezclan cuatro zares: Iván, su hijo Dmitri, un hermano menor educado por los Zajarin-Romanov y Simeón Bekbulátovich."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los episodios que el autor reparte entre varios zares, incluido Simeón, constan como etapas de un mismo reinado. En lo buscado no aparece ningún historiador que sostenga cuatro personas; el primer Dmitri murió al poco de nacer."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34616,9 +34761,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Mongol conquest of Western Xia",
       "url": "https://en.wikipedia.org/wiki/Mongol_conquest_of_Western_Xia",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Gengis Kan",
+      "url": "https://es.wikipedia.org/wiki/Gengis_Kan",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Temuyín, nacido entre 1155 y 1167 (c. 1162 es la fecha usual), unió las tribus mongolas, fue el primer gran kan y emprendió campañas sobre China y Asia central."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Murió el 18 o el 25 de agosto de 1227, mientras sus tropas asediaban la capital de los Xia occidentales; la muerte se guardó en secreto y la ciudad cayó al mes siguiente. Rashid al-Din y la Historia de Yuan hablan de una enfermedad, quizá malaria, y circularon otras leyendas. Fue trasladado a Mongolia y enterrado en la montaña Burkhan Khaldun o cerca, en un lugar elegido por él que quedó vedado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Gengis Kan murió joven hacia 1343, asesinado, fue embalsamado y enterrado en la necrópolis de Guiza, y fue desdoblado en varios personajes, entre ellos san Jorge y Rurik."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes leídas fechan la muerte más de un siglo antes y sitúan el entierro en Mongolia. La causa y el lugar exacto de la tumba siguen sin saberse; en lo buscado no aparece nada sobre Egipto."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -38290,6 +38462,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Orden de la Jarretera",
       "url": "https://es.wikipedia.org/wiki/Orden_de_la_Jarretera"
+     },
+     {
+      "titulo": "Wikipedia (en): Order of the Garter",
+      "url": "https://en.wikipedia.org/wiki/Order_of_the_Garter",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38309,6 +38486,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Se sabe poco con certeza sobre su origen porque los registros más antiguos se perdieron en incendios. Se cuenta la leyenda de la liga caída en un baile y otra teoría ve un intento de revivir la Mesa Redonda de Arturo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Eduardo III la fundó hacia 1348. La orden medieval la formaban el rey, el Príncipe Negro y sus compañeros; entre los primeros figura William Montacute, segundo conde de Salisbury (1328-1397). Es la orden de caballería más antigua e importante del Reino Unido. Admite como extranjeros a monarcas de otros estados, y las incorporaciones son un regalo personal del soberano."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los templarios no desaparecieron, sino que se convirtieron en órdenes como esta, fundada por los Montagu, de origen templario, y por eso el rey de España trabajaría para la corona británica. Jorge Guerra sitúa al segundo conde de Salisbury como cofundador en el linaje que atribuye a Montagu Norman."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia de un Montacute entre los primeros caballeros consta. En lo buscado no aparecen los templarios, y entrar como caballero extranjero no implica servicio a la corona británica según lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -52350,6 +52549,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Leyenda negra española",
       "url": "https://es.wikipedia.org/wiki/Leyenda_negra_española"
+     },
+     {
+      "titulo": "Wikipedia (es): Virreinato de Nueva España",
+      "url": "https://es.wikipedia.org/wiki/Virreinato_de_Nueva_Espa%C3%B1a",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): New Spain",
+      "url": "https://en.wikipedia.org/wiki/New_Spain",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52360,6 +52569,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tenochtitlan cayó el 13 de agosto de 1521 tras el asedio de Cortés y sus aliados indígenas; la viruela, que portaban algunos españoles, había matado a Cuitláhuac."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El virreinato se creó el 8 de marzo de 1535, con Antonio de Mendoza como primer virrey y la Ciudad de México como capital; abarcó América del Norte y Central y territorios de Asia y Oceanía. Entró en crisis a comienzos del XIX y se deshizo con la independencia de México en 1821."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La minería y la agricultura fueron sus actividades principales. La fuente recoge la crítica de Eduardo Galeano: las minas exigieron grandes desplazamientos, trabajo forzado y entrega de tierras por los indígenas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la leyenda negra no tiene sentido ante lo que se construyó, hubo un periodo en que allí se vivía mejor que en la mayoría de Europa y hay que revisar esa historia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La creación y las fechas constan. La comparación del nivel de vida con Europa se discute entre historiadores y no se ha comprobado en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
