@@ -8047,6 +8047,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: John, King of England",
       "url": "https://en.wikipedia.org/wiki/John,_King_of_England"
+     },
+     {
+      "titulo": "Wikipedia (en): Magna Carta",
+      "url": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8057,6 +8062,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Juan sin Tierra, muy impopular entre sus barones, se había declarado vasallo del papa en 1213 y confiaba en la ayuda de Inocencio III."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Los barones renunciaron a sus lazos feudales y tomaron Londres. La carta, redactada en primer lugar por el arzobispo Stephen Langton, se otorgó en Runnymede el 15 de junio de 1215: protegía derechos de la Iglesia, a los barones frente a detenciones ilegales, el acceso a la justicia y limitaba las cargas feudales, con un consejo de veinticinco barones. Ninguna parte cumplió; en carta del 24 de agosto el papa la declaró vergonzosa, ilegal y nula por arrancada a la fuerza, y sus comisionados excomulgaron a los rebeldes. Siguió la primera guerra de los Barones; la regencia de Enrique III la volvió a promulgar en 1216, recortada."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, a reyes como Juan sin Tierra se les dieron potestades a cambio de ceder libertad, y desde la Carta Magna el Vaticano estuvo detrás de la City. Según Giuseppe Nocera, la Carta supone la entrega de Inglaterra al Estado Pontificio, con privilegios para la City, y es base jurídica de EE. UU."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El vasallaje de 1213 y la influencia posterior en la Constitución estadounidense constan. El papa anuló la carta de 1215 y los londinenses apoyaron a los rebeldes que él excomulgó: eso no encaja con leerla como la entrega de Inglaterra a Roma."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -8204,6 +8231,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Casa de Habsburgo",
       "url": "https://es.wikipedia.org/wiki/Casa_de_Habsburgo"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Habsburg",
+      "url": "https://en.wikipedia.org/wiki/House_of_Habsburg",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8219,6 +8251,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia procede de un castillo de Argovia, en la actual Suiza, que dio nombre al linaje; el conde Radbot (c. 985-1045) se hizo con él como vasallo del duque de Suabia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Rodolfo I fue elegido rey de romanos en 1273 y venció a Ottokar II de Bohemia, con lo que la casa ganó Austria y Estiria, entre otras tierras. Desde 1438 ocupó casi sin interrupción el trono del Sacro Imperio hasta su disolución en 1806. Con Carlos V se dividió en dos ramas: la española se extinguió en 1700 y la austriaca, en línea masculina, en 1780, continuada por los Habsburgo-Lorena. Reinó en Hungría y Bohemia hasta 1918, en España de 1516 a 1700 y en México de 1863 a 1867."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Su expansión se apoyó en una política de matrimonios: Borgoña con Maximiliano I, España con Juana, y Portugal heredado por Felipe II en 1580."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, los Habsburgo fueron los verdaderos ideólogos del «plan Kalergi» y la monarquía de Liechtenstein es en realidad Habsburgo. Según Jorge Guerra, han aspirado siempre a reinar en México y su imperio desapareció con la Gran Guerra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El imperio mexicano de Maximiliano y el fin en 1918 constan. En lo buscado no aparecen Kalergi ni Liechtenstein."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -8517,6 +8576,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Casa de Grimaldi",
       "url": "https://es.wikipedia.org/wiki/Casa_de_Grimaldi"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Grimaldi",
+      "url": "https://en.wikipedia.org/wiki/House_of_Grimaldi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8532,6 +8596,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia desciende de Grimaldo, estadista genovés que fue cónsul de Génova en el siglo XII; sus descendientes se hicieron una de las familias poderosas de la ciudad, en el bando güelfo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la tradición, Francisco Grimaldi tomó Mónaco en 1297 con sus hombres disfrazados de franciscanos; la Wikipedia en inglés considera el relato en gran parte anecdótico. Franceses revolucionarios ocuparon Mónaco en 1792 y lo tuvieron hasta 1815; el Congreso de Viena restableció el principado. Desde 1731 reinan por línea femenina los Goyon-Matignon."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Los Grimaldi dieron a Génova dogos, cardenales, ministros y militares."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, los Grimaldi pactaron la unificación de Italia con los Saboya y los Pallavicini. Según Jorge Guerra, crearon Mónaco con dinero que se llevaron del sur de Italia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen genovés y el señorío de Mónaco constan. En los pasajes buscados no aparece un pacto sobre la unificación italiana ni dinero traído del sur."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -14575,9 +14666,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Latin Empire",
       "url": "https://en.wikipedia.org/wiki/Latin_Empire",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio latino",
+      "url": "https://es.wikipedia.org/wiki/Imperio_latino",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Cuarta Cruzada se convocó para recuperar Jerusalén, pero una cadena de hechos económicos y políticos acabó con los cruzados saqueando Constantinopla. El plan inicial era reponer en el trono al emperador depuesto Isaac II."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1204 los jefes cruzados, con la República de Venecia, fundaron sobre las tierras conquistadas el Imperio latino, con un emperador católico, pensado para sustituir al bizantino. Duró hasta 1261."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la guerra de Troya y la guerra gótica son relatos hechos a partir de las cruzadas de los siglos XI-XIII, y la caída de Troya coincide con la de la Nueva Roma de Constantinopla, identificada con la Jerusalén de la Biblia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las cruzadas y la toma de 1204 constan. La identificación con Troya es tesis de la Nueva Cronología; en lo buscado no aparece nada que la apoye."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -16973,9 +17091,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Pier Luigi de Borgia",
       "url": "https://en.wikipedia.org/wiki/Pier_Luigi_de_Borgia,_1st_Duke_of_Gand%C3%ADa",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Pedro Luis de Borja",
+      "url": "https://es.wikipedia.org/wiki/Pedro_Luis_de_Borja",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Pedro Luis de Borja (c. 1468-1488), primogénito ilegítimo del cardenal Rodrigo de Borja, fue legitimado por Sixto IV en 1481 y reconocido como hijo suyo en enero de 1483."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la versión oficial de la ficha, Fernando II de Aragón le vendió Gandía el 3 de diciembre de 1485 y ese año se concedió el título; la Wikipedia en inglés habla de un ducado restablecido como favor al padre. En su testamento de agosto de 1488 Pedro Luis dejó el ducado a su hermano Juan y un legado a su hermana Lucrecia."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Antes de ser duque compró grandes propiedades en la zona mediante un acuerdo económico con los marqueses de Moya."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el rey de Aragón dio Gandía a los Láscaris en 1296 (documento de Jaime II en el Archivo de la Corona de Aragón) y la compra de Rodrigo Borgia en 1483 sería en realidad de 1668, con saltos de fechas ligados al origen del Vaticano; cita a Láscaris Comneno (2011)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El ducado de los Borja en 1485 consta. En lo buscado no aparecen los Láscaris, la donación de 1296 ni la datación en 1668; el documento de Jaime II y la obra citada no se han abierto."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -18976,9 +19126,41 @@ window.CRONO = {
       "titulo": "Treccani: Làscaris",
       "url": "https://www.treccani.it/enciclopedia/lascaris/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Riúrik",
+      "url": "https://es.wikipedia.org/wiki/Ri%C3%BArik",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Empire of Nicaea",
+      "url": "https://en.wikipedia.org/wiki/Empire_of_Nicaea",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Riúrik fue un jefe varego que en 862 ganó el control de Ládoga, se asentó cerca de Nóvgorod y murió en 879; fundó la dinastía que gobernó la Rus de Kiev y luego Moscú hasta el siglo XVI. Eneas pertenece a la tradición mitológica grecorromana."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La fractura del Imperio bizantino en 1204 dio lugar a estados sucesores: el Imperio de Nicea, creado por la familia Láscaris, el de Trebisonda y el Despotado de Epiro. Nicea reclamó la continuidad imperial y recuperó Constantinopla en 1261."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en 1261 el gobernador de Nicea tomó Constantinopla con ayuda de la Horda, sus familias huyeron y se formaron estados sucesores como Nicea y Vladímir-Súzdal; el troyano Eneas llegó a Rusia, donde aparece en las crónicas como Rurik, y unió los principados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La existencia de los estados sucesores consta, aunque nacieron en 1204 y no en 1261. En lo leído no hay vínculo entre Eneas y Rurik ni se cuenta Vladímir-Súzdal entre los sucesores."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19497,9 +19679,46 @@ window.CRONO = {
       "titulo": "Wikipedia: History of Byzantium",
       "url": "https://en.m.wikipedia.org/wiki/History_of_Byzantium",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): History of the Byzantine Empire",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Byzantine_Empire",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Historia del Imperio bizantino",
+      "url": "https://es.wikipedia.org/wiki/Historia_del_Imperio_bizantino",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Constantino fundó Constantinopla en 330 sobre Bizancio, a caballo de las rutas entre Oriente y Occidente y como base para guardar el Danubio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Bajo la dinastía macedónica (siglos IX-XI) el imperio volvió a expandirse y vivió un renacimiento de dos siglos, que acabó con la pérdida de gran parte de Asia Menor tras Manzikert (1071). Los varegos o rusos atacaron Constantinopla desde 860. Con los Comneno creció el contacto con los latinos y los mercaderes venecianos e italianos se instalaron en gran número en la capital. Las murallas no fueron superadas hasta 1204."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La posición de Constantinopla en el cruce de rutas dio al imperio una riqueza que lo hizo respetado y codiciado. A los latinos se les calcula unas 60.000 personas en la capital en época comnena."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el imperio de los siglos X-XII, sin transporte terrestre, se expandió por mares y ríos (Mediterráneo, mar Negro, Danubio, Dniéper, Don, Volga), no controló el interior de Eurasia, que solo se pobló con la Horda rusa, y colapsó en 1204."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La importancia de las rutas y la quiebra de 1204 constan. En los pasajes buscados no aparece que careciera de transporte terrestre; la tesis del poblamiento por la «Horda» no está en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -22603,9 +22822,46 @@ window.CRONO = {
       "titulo": "Encyclopaedia of Islam: Bātūʾids",
       "url": "https://referenceworks.brill.com/display/entries/EIEO/SIM-1291.xml",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio mongol",
+      "url": "https://es.wikipedia.org/wiki/Imperio_mongol",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Horda de Oro",
+      "url": "https://es.wikipedia.org/wiki/Horda_de_Oro",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Temuyín unió bajo su mando a las tribus mongolas y en 1206 fue proclamado gran kan con el nombre de Gengis Kan."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El imperio mongol llegó a ser el mayor de territorios continuos de la historia, desde Manchuria hasta el Danubio. A finales de la década de 1230 los mongoles de Batu invadieron la Rus, con una enorme mortandad, y redujeron a vasallaje la mayoría de sus principados; en 1241 vencieron en Legnica. El imperio decayó en el siglo XIV, entre otras causas por la peste negra."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La llamada «paz mongola» favoreció durante algo menos de un siglo, desde mediados del XIII, el comercio y el intercambio de ideas con Occidente, como muestran los viajes de Marco Polo y de otros mercaderes y misioneros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la Horda fue un ejército creado por la Rusia de Rostov cuyos khanes se consideraban herederos de Roma; los conquistadores mongoles de Rusia no habrían existido, el «yugo» lo inventaron historiadores alemanes de los Romanov, Gengis Kan sería un príncipe de Moscú y el proyecto mongol, el del pueblo de Israel."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La invasión y el vasallaje de los principados rusos constan en las fuentes leídas, lo contrario de la tesis del autor, que es de la Nueva Cronología. En lo buscado no aparecen las identificaciones que propone."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -38713,6 +38969,11 @@ window.CRONO = {
       "titulo": "The Bourgeois Revolution (edición del Manifiesto comunista)",
       "url": "https://www.laphamsquarterly.org/revolutions/bourgeois-revolution",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Pre-Marxist communism",
+      "url": "https://en.wikipedia.org/wiki/Pre-Marxist_communism",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38740,6 +39001,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Se han buscado ideas comunistas antiguas en los pitagóricos, en «La República» de Platón y, quizá con más razón, en la comunidad de bienes de la Iglesia primitiva que describen los Hechos de los Apóstoles."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En el siglo XVI Tomás Moro describió en «Utopía» una sociedad de propiedad común, y Müntzer encabezó un movimiento anabaptista en la guerra de los campesinos alemanes; en la guerra civil inglesa destacaron los cavadores (diggers). Entre finales del XVIII y mediados del XIX el término se desarrolla con Fourier, Blanqui, Proudhon, Saint-Simon, Weitling o Cabet; a Owen a veces se le cuenta entre ellos, y sus seguidores popularizaron la palabra en inglés."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el modelo social comunista nace del cristianismo (órdenes, Moro, reducciones, Taparelli, Rosmini) y no de ninguna tradición ajena."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los antecedentes cristianos constan como uno entre varios, junto a los griegos y a los ilustrados. En lo buscado no aparece que el comunismo moderno derive de las órdenes católicas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -41239,6 +41522,16 @@ window.CRONO = {
       "titulo": "Egypt (The Ancient World, Taylor & Francis)",
       "url": "https://www.taylorfrancis.com/chapters/mono/10.4324/9781315700281-39/egypt-sarolta-anna-takacs-eric-cline",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Antiguo Egipto",
+      "url": "https://es.wikipedia.org/wiki/Antiguo_Egipto",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Early Dynastic Period of Egypt",
+      "url": "https://en.wikipedia.org/wiki/Early_Dynastic_Period_of_Egypt",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -41250,6 +41543,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Antes de la primera dinastía, hacia 3300 a. C., Egipto estaba dividido en dos reinos, Alto y Bajo Egipto, tras un largo periodo predinástico de asentamientos a lo largo del Nilo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La historia de Egipto como Estado unificado empieza hacia 3050 a. C. con Menes (Narmer). En el Imperio Antiguo (c. 2686-2181 a. C.) la capital quedó fijada en Menfis. El periodo helenístico (332-30 a. C.), con la dinastía ptolemaica, terminó cuando Egipto pasó a ser provincia romana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el primer gran estado nació en el delta del Nilo y casi toda la historia del Egipto «antiguo» sucedió en la Edad Media, nunca antes del siglo XI, con la capital cerca de Alejandría; los jesuitas empezaron a construir su historia «antigua» a finales del XVIII."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cronología convencional sitúa el Estado egipcio unos cuatro mil años antes de lo que propone el autor. La propia fuente advierte que es una cronología convencional, aceptada durante el siglo XX. En lo buscado no aparece nada que apoye la datación medieval ni el papel de los jesuitas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -47733,6 +48048,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Orden del Temple",
       "url": "https://es.wikipedia.org/wiki/Orden_del_Temple",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Caballeros templarios",
+      "url": "https://es.wikipedia.org/wiki/Caballeros_templarios",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -47744,6 +48069,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La orden fue fundada en 1118 o 1119 por nueve caballeros franceses encabezados por Hugo de Payns, tras la primera cruzada, para proteger a los peregrinos a Jerusalén."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Ante la escasez de moneda y el riesgo de viajar con metálico, entregaban documentos para recobrar en otra encomienda lo depositado; hacia 1150 emitían cartas de crédito a los peregrinos. La Wikipedia les atribuye libros de cuentas, pagarés e incluso la primera letra de cambio, y habla de una forma primitiva del banco moderno. La pérdida de Tierra Santa les quitó apoyos; en 1307 Felipe IV de Francia, muy endeudado con la orden, apresó a muchos de ellos, y Clemente V la disolvió en 1312."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Ofrecían intereses menos usurarios que los de otros prestamistas, según la fuente. El rey que los persiguió era uno de sus grandes deudores, y el cese de su actividad bancaria dio paso, según la Wikipedia en español, a un monopolio tribal."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los templarios idearon en el siglo XII el dinero asociado a la deuda y la banca internacional, y sus familias acogieron después a los Rothschild bajo control."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Sus servicios financieros constan. En los pasajes buscados no aparece que inventaran el dinero ligado a la deuda ni la relación con los Rothschild."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -48610,6 +48962,21 @@ window.CRONO = {
       "titulo": "Wikipedia: María de Antioquía (pretendiente)",
       "url": "https://en.wikipedia.org/wiki/Maria_of_Antioch_(pretender)",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Reino de Jerusalén",
+      "url": "https://es.wikipedia.org/wiki/Reino_de_Jerusal%C3%A9n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Kingdom of Jerusalem",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Jerusalem",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Monarch of Jerusalem",
+      "url": "https://en.wikipedia.org/wiki/Monarch_of_Jerusalem",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -48625,6 +48992,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El reino de Jerusalén, nacido de las cruzadas, acumuló en el siglo XIII pretensiones rivales; en 1269 María de Antioquía reclamó el trono frente a Hugo III de Chipre sin ser atendida."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1277 Carlos de Anjou compró el título a un pretendiente; nunca pisó Acre y su representante fue rechazado por la nobleza local. La pretensión quedó ligada al reino de Nápoles, feudo papal, por lo que los papas solían refrendar ambos títulos. En 1441 Nápoles pasó a Alfonso V de Aragón y desde entonces lo reclamaron los reyes de España; sigue en uso y lo ostenta Felipe VI."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "También lo reclamaron Otón de Habsburgo, hasta 1958, y los reyes de Italia, hasta 1946."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, María de Antioquía vendió sus derechos a Carlos de Anjou en 1277, Fernando el Católico unió el título a la Corona de Aragón en 1504 y la Corona española está supeditada al Vaticano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cadena del título consta en líneas generales, con 1441 como paso a Aragón. La condición de feudo papal se refiere a Nápoles; en lo leído no aparece que hoy la Corona dependa del Vaticano por este título."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -48714,9 +49108,41 @@ window.CRONO = {
       "titulo": "Reconquest of Constantinople (Wikipedia, resultado de búsqueda)",
       "url": "https://www.wikipedia.com/wiki/Recapture_of_Constantinople",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (en): Reconquest of Constantinople",
+      "url": "https://en.wikipedia.org/wiki/Reconquest_of_Constantinople",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Reconquista de Constantinopla",
+      "url": "https://es.wikipedia.org/wiki/Reconquista_de_Constantinopla",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde 1204 Constantinopla era capital del Imperio latino. Tras vencer en Pelagonia en 1259, Miguel VIII Paleólogo, emperador de Nicea, quedó libre para recuperarla; al Imperio latino apenas le quedaban la ciudad y sus alrededores."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1261 tropas de Nicea mandadas por Alejo Estrategópulo supieron que la guarnición latina y la flota veneciana aliada estaban fuera, en una incursión contra una isla del mar Negro, y aprovecharon para tomar la ciudad. Acababan 57 años de ocupación y se restauró el Imperio bizantino con los Paleólogo, que la conservaron hasta 1453."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el gobernador de Nicea tomó Constantinopla con ayuda de la Horda, lo que decidió la guerra de Troya, una «primera guerra mundial» religiosa, y acabó con el Imperio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha y Nicea coinciden. El resultado leído fue restaurar el imperio, no acabar con él, y en los pasajes buscados no aparecen la Horda ni Troya."
+    }
+   ],
    "vista": "politica"
   },
   {
