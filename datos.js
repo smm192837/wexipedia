@@ -12702,6 +12702,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (referencia de prueba, sin contrastar)",
       "url": "https://es.wikipedia.org/wiki/Concilio_de_Trento"
+     },
+     {
+      "titulo": "Wikipedia (en): Council of Trent",
+      "url": "https://en.wikipedia.org/wiki/Council_of_Trent",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12713,6 +12718,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El Quinto Concilio de Letrán cerró en marzo de 1517 sin abordar la crisis que estallaría meses después con las 95 tesis. En Alemania se pidió un concilio, con el apoyo de Carlos V; Clemente VII se opuso, de acuerdo con Francisco I. Pablo III intentó reunirlo en Mantua y en Vicenza antes de lograrlo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se abrió en Trento el 13 de diciembre de 1545 y tuvo veinticinco sesiones en tres periodos hasta 1563, con un traslado a Bolonia en 1547 por una epidemia. Los protestantes no acudieron."
+    },
+    {
+     "titulo": "Qué decidió",
+     "nivel": "hecho",
+     "texto": "Fijó la doctrina sobre Escritura y tradición, sacramentos, justificación e indulgencias, reafirmó el celibato y la autoridad papal, ordenó crear seminarios y marcó la disciplina de la Contrarreforma. Desde entonces los párrocos deben llevar registros."
+    },
+    {
+     "titulo": "Seguir el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "El calendario del concilio dependió de las guerras entre Carlos V y Francisco I y de la desconfianza del emperador ante la neutralidad del papa; dificultades económicas en Mantua obligaron a moverlo en 1537."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la historia del concilio escrita por Sarpi anunció la ruptura definitiva con Roma y con España. Rubén Avilés usa una cronología propia en la que 1748 equivale a 1563 y sostiene que allí el papa se proclamó pastor universal."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fechas oficiales constan por documentación abundante; la cronología desplazada que propone Avilés no tiene apoyo en las fuentes leídas."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -16021,6 +16058,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La bula renovó normas anteriores, como la señal distintiva en la ropa del IV Concilio de Letrán (1215), y contradijo la línea de Gregorio I, que en 598 había reconocido a los judíos sus fiestas, sus prácticas y sus propiedades."
+    },
+    {
+     "titulo": "Qué impuso",
+     "nivel": "hecho",
+     "texto": "Pablo IV la emitió el 14 de julio de 1555. Encerró a los cerca de 2.000 judíos de Roma en un gueto amurallado con puertas cerradas de noche, les impuso distintivos amarillos y sermones obligatorios, limitó las sinagogas y prohibió que médicos judíos atendieran a cristianos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Les prohibió poseer inmuebles, les obligó a vender los que tenían y los redujo a oficios como la trapería, la reventa, la pesca al por menor o el préstamo prendario. La historiadora Serena di Nepi muestra que banqueros judíos siguieron operando con socios cristianos."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Pío IV impulsó guetos en la mayoría de las ciudades italianas y Pío V los recomendó a estados vecinos. Los Estados Pontificios desaparecieron en 1870."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El texto de la bula declara como fin incentivar la conversión; no se ha leído un estudio sobre cuántas conversiones produjo."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -16333,6 +16402,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Decet Romanum Pontificem",
       "url": "https://es.wikipedia.org/wiki/Decet_Romanum_Pontificem",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Decet Romanum Pontificem",
+      "url": "https://en.wikipedia.org/wiki/Decet_Romanum_Pontificem",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16349,6 +16423,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1520 la bula Exsurge Domine había censurado cuarenta y una tesis de Lutero y le exigía retractarse. Lutero respondió quemando su ejemplar el 10 de diciembre de 1520 junto a la puerta Elster de Wittenberg."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 3 de enero de 1521 León X firmó Decet Romanum Pontificem («conviene al pontífice romano»), que hizo efectiva la excomunión. Alcanzaba a Lutero y a algunos de los suyos, entre ellos Andreas Karlstadt."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "A finales del siglo XX los luteranos, en diálogo con la Iglesia católica, pidieron que se levantara la excomunión; la Curia respondió que la costumbre es levantarla solo a personas vivas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El título lo comparten otras bulas, una de 1596 y otra de 1622, así que conviene citarla con su año."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -17706,6 +17807,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Lo establecido",
+     "nivel": "hecho",
+     "texto": "El cristianismo surgió en el siglo I a partir del judaísmo, se dividió en 1054 entre Oriente y Occidente y de nuevo desde 1517 con la Reforma. El budismo nace en la India siglos antes."
+    },
+    {
+     "titulo": "El caso del islam",
+     "nivel": "hecho",
+     "texto": "Según la tradición recogida por la BBC, Mahoma nació en La Meca en 570 y en 610 tuvo la primera revelación, que siguió recibiendo el resto de su vida: el islam es casi mil años anterior a finales del siglo XVI."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, hasta finales del siglo XVI hubo un solo cristianismo que se repartió en ortodoxia, catolicismo, islam, judaísmo, budismo y otras, con sus símbolos; la religión comparada del siglo XIX lo habría entendido al revés por seguir la cronología de Scaliger."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es parte de una cronología alternativa que las fuentes no admiten. Solo se pudo abrir la página de la BBC; la Britannica denegó el acceso."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -28825,6 +28948,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Iglesia del Gesù",
       "url": "https://es.wikipedia.org/wiki/Iglesia_del_Ges%C3%B9",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Church of the Gesù",
+      "url": "https://en.wikipedia.org/wiki/Church_of_the_Ges%C3%B9",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28843,6 +28971,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Ignacio de Loyola encargó en 1551 un primer templo a Nanni di Baccio Bigio; Miguel Ángel lo rediseñó en 1554 y se ofreció a proyectarlo gratis, pero la obra quedó sin hacer."
+    },
+    {
+     "titulo": "La obra",
+     "nivel": "hecho",
+     "texto": "En 1568 el cardenal Alejandro Farnesio, nieto de Pablo III, encargó la iglesia a Vignola, siendo general Francisco de Borja. Muerto Vignola en 1573, Giacomo della Porta rehízo la fachada. Se terminó en 1584 y fue modelo de iglesias jesuitas en todo el mundo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La pagó el cardenal Farnesio, cuyo abuelo había aprobado la Compañía. El original de una de sus esculturas fue fundido por orden de Pío VI, probablemente para pagar las reparaciones a Napoleón del Tratado de Tolentino (1797)."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el templo lleva el apellido Farnese, su fachada muestra a Loyola humillando a los herejes y el anagrama IHS esconde divinidades del inframundo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El mecenazgo Farnese consta. IHS es un monograma cristiano del nombre de Jesús; no se ha hallado apoyo a la lectura pagana."
+    }
+   ],
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -30257,6 +30412,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Inter gravissimas",
       "url": "https://en.wikipedia.org/wiki/Inter_gravissimas",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Inter Gravissimas",
+      "url": "https://es.wikipedia.org/wiki/Inter_Gravissimas",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30269,6 +30429,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El problema",
+     "nivel": "hecho",
+     "texto": "El calendario juliano, fijado por Julio César, se había ido desfasando respecto al movimiento aparente del Sol, lo que afectaba a la fecha de la Pascua."
+    },
+    {
+     "titulo": "La reforma",
+     "nivel": "hecho",
+     "texto": "Gregorio XIII firmó la bula el 24 de febrero de 1582. Se suprimieron diez días (al 4 de octubre de 1582 siguió el 15), se devolvió el equinoccio hacia el 21 de marzo y se fijaron nuevas tablas pascuales."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La bula previó que los diez días suprimidos no contaran al calcular vencimientos de préstamos, impuestos y similares."
+    },
+    {
+     "titulo": "Alcance",
+     "nivel": "hecho",
+     "texto": "Se adoptó poco a poco y hoy rige en casi todo el mundo; las iglesias ortodoxas que no la aplicaron a su liturgia hablan del «nuevo estilo»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha de adopción varió de un país a otro; aquí no se detalla."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -36236,6 +36428,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Monasterio de San Lorenzo de El Escorial",
       "url": "https://es.wikipedia.org/wiki/Monasterio_de_San_Lorenzo_de_El_Escorial",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): El Escorial",
+      "url": "https://en.wikipedia.org/wiki/El_Escorial",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36250,6 +36447,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Por qué se hizo",
+     "nivel": "hecho",
+     "texto": "Felipe II lo promovió, entre otras razones, para conmemorar la victoria de San Quintín (10 de agosto de 1557, San Lorenzo) y como panteón de su dinastía. La carta de fundación, de 1567, habla de devoción al santo y de la victoria recibida en su fiesta sin nombrar la guerra."
+    },
+    {
+     "titulo": "Cómo se construyó",
+     "nivel": "hecho",
+     "texto": "Las obras duraron de 1563 a 1584. Lo ideó Juan Bautista de Toledo y lo continuó Juan de Herrera, con otros maestros. Reúne palacio, basílica, panteón, biblioteca, colegio y monasterio, fundado con monjes jerónimos y ocupado hoy por agustinos."
+    },
+    {
+     "titulo": "La idea del templo de Salomón",
+     "nivel": "hecho",
+     "texto": "El programa del edificio subraya la comparación de Felipe II con Salomón, con un fresco en la biblioteca. El origen de la traza es discutido: la forma de parrilla asociada a San Lorenzo solo apareció cuando Herrera eliminó torres del proyecto, y no era exclusiva de este edificio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, es la construcción que más se parece al templo de Salomón y Felipe II la levantó asesorado por Arias Montano, formado en la Familia Caritatis, que habría llevado la cábala a su geometría."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La inspiración salomónica es una interpretación discutida. El papel de la Familia Caritatis en la geometría no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -45640,6 +45864,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El contexto",
+     "nivel": "hecho",
+     "texto": "En el Sacro Imperio faltaba una autoridad central fuerte: mientras en Inglaterra, Francia o Dinamarca se formaban iglesias del reino, en Alemania eran los príncipes territoriales quienes mandaban sobre las iglesias de sus tierras, un proceso con raíces en los acuerdos del papado con el emperador y algunos príncipes en la década de 1440."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Las reformas de Lutero en Wittenberg, Zwinglio en Zúrich y Calvino en Ginebra se difundieron con folletos y polémicas y produjeron cismas. En el Imperio se extendieron la confesión luterana y después la reformada. Según la versión oficial de la ficha, Carlos V venció a la Liga de Esmalcalda en 1546-1547 y la Paz de Augsburgo (1555) reconoció la coexistencia."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hipotesis",
+     "texto": "La fuente leída habla de quién mandaba sobre las iglesias territoriales; no se ha leído aquí nada sobre los bienes que cambiaron de manos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, lo que los libros llaman Reforma fue una rebelión de gobernadores alemanes que querían independencia política y militar; el imperio preparó una campaña que los conspiradores frustraron, y el partido prooccidental ganó en el siglo XVII y dividió el imperio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que los príncipes ganaron autonomía frente al emperador y a Roma consta. La campaña imperial frustrada y el relato de un imperio dividido tal como lo cuenta el autor no aparecen en lo leído. La Britannica, citada por la ficha, no se pudo abrir."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -45934,6 +46185,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Regnans in Excelsis",
       "url": "https://en.wikipedia.org/wiki/Regnans_in_Excelsis",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Regnans in Excelsis",
+      "url": "https://es.wikipedia.org/wiki/Regnans_in_Excelsis",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -45941,6 +46197,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Roma se había reconciliado con Inglaterra bajo María I. Tras su muerte en 1558, el Parlamento de Isabel I restableció en 1559 la independencia de la Iglesia de Inglaterra."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "El 25 de febrero de 1570 Pío V declaró hereje a Isabel, a la que llama pretendida reina, liberó a sus súbditos de toda lealtad, incluso jurada, y excomulgó a quien obedeciera sus órdenes. Le reprocha, entre otras cosas, haber sacado del Consejo Real a la nobleza."
+    },
+    {
+     "titulo": "Quién empujaba",
+     "nivel": "hipotesis",
+     "texto": "La fuente en castellano observa que llegó once años después del cambio religioso y considera probable la presión de Felipe II, del duque de Norfolk o de María Estuardo, todos interesados en derribar a la reina; es una conjetura."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No se han leído aquí sus efectos sobre los católicos ingleses."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -51054,6 +51337,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Sublimis Deus",
       "url": "https://es.wikipedia.org/wiki/Sublimis_Deus",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Sublimis Deus",
+      "url": "https://en.wikipedia.org/wiki/Sublimis_Deus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51070,6 +51358,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Se discutía si los indígenas de América eran «esclavos por naturaleza» y cómo los trataban conquistadores y colonos. El dominico Julián Garcés, obispo de Tlaxcala, escribió al papa defendiendo que no merecían un trato discriminatorio; se cree que influyeron también los testimonios de Bernardino de Minaya y Domingo de Betanzos."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Pablo III la promulgó el 2 de junio de 1537. Declara a los indígenas seres racionales con derecho a la libertad y a sus propiedades aunque no sean cristianos, prohíbe esclavizarlos, incluidos los pueblos aún por descubrir, y pide evangelizarlos."
+    },
+    {
+     "titulo": "Alcance",
+     "nivel": "hecho",
+     "texto": "Pesó en la controversia de Valladolid y sus principios pasaron a las Leyes Nuevas de Carlos V, que a menudo no se cumplieron."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Lo que estaba en juego era el trabajo indígena. La bula no condenó la trata de africanos, que impulsaban la monarquía española y el Sacro Imperio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Se discute la relación de esta bula con los documentos llamados Veritas ipsa, Unigenitus Deus y Pastorale officium; el historiador Alberto de la Hera cree que los dos primeros son versiones de la misma."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -94025,6 +94345,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El problema",
+     "nivel": "hecho",
+     "texto": "En los evangelios María Magdalena es discípula, testigo de la crucifixión y primera en ver al resucitado. La figura de prostituta arrepentida nace de confundirla con María de Betania y con la pecadora anónima de Lucas 7."
+    },
+    {
+     "titulo": "Cómo se fijó la confusión",
+     "nivel": "hecho",
+     "texto": "Gregorio Magno unió las tres figuras en una homilía del año 591 y la lectura duró siglos, también en el arte de la Contrarreforma; la Iglesia católica la corrigió en 1969. L'Osservatore Romano la sigue señalando como un prejuicio que perdura en la predicación."
+    },
+    {
+     "titulo": "Otras tradiciones",
+     "nivel": "hecho",
+     "texto": "La leyenda medieval la presentó como ermitaña, y el llamado Evangelio de María, de los textos gnósticos, alimenta lecturas modernas discutidas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el mito de la Magdalena va ligado a un cambio de era en la segunda mitad del siglo XVI, cuando el cristianismo se vuelve imperial y militar y la mujer queda estigmatizada."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La confusión está documentada desde el siglo VI, mil años antes de la fecha del autor. No se ha hallado base para situar el origen de la figura en el XVI."
+    }
+   ],
    "vista": "religion"
   },
   {
