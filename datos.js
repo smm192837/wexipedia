@@ -11250,6 +11250,16 @@ window.CRONO = {
       "titulo": "Swift Equine Warfare and the Rise of Mongol Power (Cambridge University Press)",
       "url": "https://www.cambridge.org/core/books/abs/how-transformative-innovations-shaped-the-rise-of-nations/swift-equine-warfare-and-the-rise-of-mongol-power/662A71569C938AF5593EF3EE3B2CBBD7",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio mongol",
+      "url": "https://es.wikipedia.org/wiki/Imperio_mongol",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Poblamiento de América",
+      "url": "https://es.wikipedia.org/wiki/Poblamiento_de_Am%C3%A9rica",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11261,6 +11271,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Temuyín unió las tribus mongolas y fue proclamado Gengis Kan en 1206."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Entre 1206 y 1368 los mongoles crearon el mayor imperio terrestre continuo, de Corea al Danubio y el Mediterráneo oriental. La evidencia arqueológica y genética apunta a que los primeros pobladores de América llegaron del extremo noreste de Asia, mucho antes; las culturas mesoamericanas tenían registros escritos desde siglos antes de nuestra era."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, entre los siglos XIV y XVI el imperio mongol colonizó de forma más o menos pacífica Eurasia y América: mayas, incas, mogoles de la India, mamelucos y samuráis vendrían de la Horda rusa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El imperio euroasiático consta. En lo leído no aparece ninguna presencia mongola en América, y las inscripciones mayas son muy anteriores al siglo XIII."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -14945,6 +14977,16 @@ window.CRONO = {
       "titulo": "Crusades (Wikipedia, copia archivada)",
       "url": "https://eresources.nlb.gov.sg/webarchives/wayback/20220115044233/https://en.wikipedia.org/wiki/Crusades",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Franco-Mongol alliance",
+      "url": "https://en.wikipedia.org/wiki/Franco-Mongol_alliance",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Alianza franco-mongola",
+      "url": "https://es.wikipedia.org/wiki/Alianza_franco-mongola",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -14956,6 +14998,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los francos de Oriente y los mongoles del Ilkanato de Persia negociaron una alianza contra los mamelucos desde Hulagu y sus sucesores, sin llegar a cerrarla."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Entre 1281 y 1312 los mongoles invadieron Siria varias veces, en ocasiones intentando operar con los francos, pero las dificultades logísticas hacían que las fuerzas llegaran con meses de diferencia. Acre cayó en 1291. Gazán, convertido al islam, tomó Alepo en 1299 y llamó a los francos de Chipre. En 1302 cayó la isleta de Ruad, último apoyo cruzado en Tierra Santa. Los historiadores discuten si una alianza habría cambiado el equilibrio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, las cruzadas con éxito del siglo XIV se hicieron con los mongoles y la división entre islam, ortodoxia y Roma ocurrió solo en los siglos XVI-XVII."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las negociaciones y acciones conjuntas frustradas de finales del XIII y principios del XIV constan. En lo leído no aparecen cruzadas con éxito en el XIV."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -28693,9 +28757,41 @@ window.CRONO = {
       "titulo": "Britannica: Russia - Tatar rule",
       "url": "https://www.britannica.com/place/Russia/Tatar-rule",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Invasión mongola de Europa",
+      "url": "https://es.wikipedia.org/wiki/Invasi%C3%B3n_mongola_de_Europa",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Mongol invasions of Georgia",
+      "url": "https://en.wikipedia.org/wiki/Mongol_invasions_of_Georgia",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los mongoles de Subutai y Jebe ya habían derrotado a georgianos y armenios en incursiones tempranas antes de pasar a la Rus."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La conquista del Cáucaso empezó en 1236; Georgia reconoció al gran kan en 1243 y quedó sometida a tributo, y el dominio mongol allí duró hasta finales de la década de 1330. En Europa tomaron Kiev, arrasaron Sandomierz, Lublin y Cracovia, vencieron a Enrique el Piadoso en Liegnitz y a Bela IV en Mohi y devastaron Hungría en 1241. Al morir el gran kan Ogodei se retiraron."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, hacia 1323 los mongoles entraron en el Cáucaso, destruyeron Ani hacia 1336, tomaron Kiev hacia 1338, devastaron Polonia y hacia 1341 vencieron a Enrique de Silesia y entraron en Hungría."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La secuencia que describe el autor coincide con la de 1236-1242, casi un siglo antes. En lo leído no aparece una segunda invasión entre 1323 y 1341; que en los años treinta del XIV acaba el dominio mongol en el Cáucaso sí consta."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -51657,6 +51753,16 @@ window.CRONO = {
       "titulo": "Genghis Khan (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/biography/Genghis-Khan",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Yuri de Moscú",
+      "url": "https://es.wikipedia.org/wiki/Yuri_de_Mosc%C3%BA",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Yury of Moscow",
+      "url": "https://en.wikipedia.org/wiki/Yury_of_Moscow",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51668,6 +51774,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Yuri (Gueorgui) Danílovich (1281-1325), hijo mayor del primer príncipe de Moscú y hermano de Iván Kalitá, fue príncipe de Moscú desde 1303 y disputó a Miguel de Tver el título de gran príncipe de Vladímir, que concedía el kan."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Pasó dos años en la Horda de Oro, selló alianza con Uzbek Kan casándose con su hermana Konchaka y en 1317 fue nombrado gran príncipe de Vladímir. Al volver con fuerzas mongolas fue derrotado por Tver; su esposa murió presa y él acusó a Miguel de envenenarla. Murió en 1325."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El ascenso de Moscú dependió del favor del kan en su rivalidad con Tver."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en 1318 el príncipe de Moscú Yuri, que identifica con Gengis Kan, empezó la unión de Rusia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que con Yuri Moscú subió de rango. Gengis Kan había muerto en 1227; en lo leído nada permite identificar a los dos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -56319,9 +56452,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Andronikos I Komnenos (nacimiento hacia 1118-1120, muerte 12-9-1185)",
       "url": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Andrónico I Comneno",
+      "url": "https://es.wikipedia.org/wiki/Andr%C3%B3nico_I_Comneno",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Constantinopla hacia 1118, sobrino de Juan II y nieto de Alejo I Comneno. Llevó una vida aventurera, con proscripciones, cárceles y exilios."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Usurpó el trono a Alejo II y reinó desde 1183. Empezó con una administración honrada, pero su populismo y su autoritarismo lo enfrentaron a la aristocracia y respondió con un régimen de terror. En 1185, con la amenaza normanda, un motín alzó a Isaac II Ángelo y Andrónico murió de forma atroz el 12 de septiembre."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Jesucristo fue en realidad Andrónico I, depuesto y crucificado en 1185 en Beykoz, identificado con el Gólgota."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las reformas, el odio de la nobleza y la caída de 1185 constan. En lo leído no hay nada que lo identifique con Jesús ni sitúe su muerte en Beykoz; la identificación contradice la datación convencional en más de mil años."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -57912,6 +58072,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Carlomagno",
       "url": "https://es.wikipedia.org/wiki/Carlomagno",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Charlemagne",
+      "url": "https://en.wikipedia.org/wiki/Charlemagne",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57923,6 +58088,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo de Pipino el Breve y Bertrada de Laon, nacido en abril de 742 según la Wikipedia en español (la fecha se discute) y muerto en Aquisgrán el 28 de enero de 814."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Rey de los francos desde 768 y de los lombardos desde 774, unió la mayor parte de Europa occidental y central, protegió al papado y fue coronado emperador por León III en la Navidad del 800. La Iglesia ortodoxa miró con recelo su apoyo a la cláusula Filioque y la preferencia del papa frente a la emperatriz Irene."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, las monarquías nacen en época carolingia: caído su imperio, el Vaticano fue nombrando a las familias y cediéndoles poder."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La alianza entre Carlomagno y el papado consta. En los pasajes buscados no aparece un reparto papal de familias reales tras su imperio."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -58134,6 +58321,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Carlos Martel",
       "url": "https://es.wikipedia.org/wiki/Carlos_Martel",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Charles Martel",
+      "url": "https://en.wikipedia.org/wiki/Charles_Martel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58149,6 +58341,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jefe militar franco nacido en Herstal hacia 686, hijo de Pipino de Heristal y bastardo para la sucesión; murió en Quierzy en octubre de 741."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Al morir su padre en 714, Plectruda quiso apartarlo y lo encarceló, pero las revueltas le abrieron paso. Fue mayordomo de palacio de Austrasia desde 715 y gobernante efectivo de los francos; restauró el gobierno central y devolvió a los francos el dominio de la Galia. Su hijo Pipino el Breve llegó a rey."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, las monarquías descienden en buena parte de Carlos Martel, pero los judíos no."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que de él arranca la línea carolingia. En lo buscado no se trata la descendencia de las monarquías posteriores en conjunto, y lo que el autor dice de los judíos remite a una discusión genealógica que no se ha contrastado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64861,6 +65075,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/William_of_Gellone",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Guillermo I de Tolosa",
+      "url": "https://es.wikipedia.org/wiki/Guillermo_I_de_Tolosa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64872,6 +65091,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Conde de Tolosa en tiempos carolingios, nacido hacia 755 y muerto el 28 de mayo de 812."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Gobernó Tolosa hasta 804, cuando se retiró a un monasterio, en Gellone. La Iglesia lo canonizó en 1066."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los judíos no descienden de Guillermo de Tolosa, y el libro que lo sostiene parte de una premisa errónea."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no se ha buscado con éxito el libro al que se refiere el autor ni el debate sobre un origen judío de su linaje, que queda sin contrastar."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -71270,6 +71511,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Justiniano I",
       "url": "https://es.wikipedia.org/wiki/Justiniano_I",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Justinian I",
+      "url": "https://en.wikipedia.org/wiki/Justinian_I",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71285,6 +71531,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Tauresio hacia 482, fue emperador romano de Oriente desde el 1 de agosto de 527 hasta su muerte en Constantinopla en noviembre de 565. Se le considera el último emperador que tenía el latín por lengua materna."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Quiso restaurar el Imperio romano clásico: sus generales Belisario y Narsés conquistaron el reino vándalo del norte de África y el ostrogodo de Italia, y recuperó el sur de Hispania. Mandó compilar el derecho romano en el Corpus iuris civilis, de larga influencia posterior."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el Vaticano se considera heredero del Imperio romano por el «testamento de Justiniano»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La compilación jurídica consta. En los pasajes buscados no aparece ningún testamento que dejara el imperio o su autoridad al papado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
