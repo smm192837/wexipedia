@@ -48319,6 +48319,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor y filósofo británico (Godalming, 1894 – Los Ángeles, 1963), de una familia de intelectuales: nieto del biólogo Thomas Huxley y hermano de Julian. Estudió en Eton; una enfermedad lo dejó casi ciego año y medio."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Profesor breve en Eton, novelista y ensayista crítico de las convenciones sociales, interesado en misticismo y parapsicología. En 1932 escribió Un mundo feliz, distopía de una sociedad gobernada por el condicionamiento."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue miembro de la Sociedad Fabiana, imaginó un futuro de humanos diseñados y previó dictaduras que necesitarían el consentimiento de los gobernados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La novela y su tema constan. En lo leído no aparece la militancia fabiana.\n\nPendiente: fuentes de la Sociedad Fabiana sobre sus socios."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -48711,6 +48733,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Allen_Dulles.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Allen Dulles",
+      "url": "https://es.wikipedia.org/wiki/Allen_Dulles",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -48730,6 +48757,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y jefe de inteligencia estadounidense (Watertown, 1893 – Washington, 1969), hermano menor de John Foster Dulles."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue directivo del bufete Sullivan & Cromwell y consejero y accionista de la financiera británica Schroders. En la OSS desde Suiza obtuvo documentos del diplomático alemán antinazi Fritz Kolbe. Primer director civil de la CIA durante más de ocho años: golpes en Guatemala e Irán, operación Paperclip para llevarse científicos y proyectos nazis, programa MK Ultra y el fracaso de Bahía de Cochinos. Después formó parte de la comisión Warren."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, de la Orden de Malta, contrató a exnazis en Egipto y figuraba en la Sociedad de los Peregrinos como su hermano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El reclutamiento de personal del régimen nazi mediante Paperclip está en lo leído; lo de Egipto, la Orden de Malta y los Peregrinos no aparece.\n\nLectura de trabajo de Nexus: abogado de grandes finanzas, consejero de banca y jefe de la inteligencia en la misma persona."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -54936,6 +54985,11 @@ window.CRONO = {
       "titulo": "Vikidia",
       "url": "https://fr.vikidia.org/wiki/Franco",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Francisco Franco",
+      "url": "https://es.wikipedia.org/wiki/Francisco_Franco",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54951,6 +55005,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y dictador español (Ferrol, 1892 – Madrid, 1975)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Destinado en Canarias, se sumó en julio de 1936 al golpe de Sanjurjo y Mola contra la República al frente del Ejército de África; fracasado el golpe, empezó la guerra civil. Jefe del bando sublevado desde el 1 de octubre de 1936 y del partido único desde 1937, instauró tras ganar una dictadura con influencia de los totalitarismos alemán e italiano. Hubo una durísima represión, con víctimas que lo leído sitúa en torno a varios cientos de miles, y un gran exilio. En la guerra mundial pasó de neutral a no beligerante a instancias de Mussolini. Gobernó hasta su muerte."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, debía su victoria a Hitler y Mussolini, convirtió España en bastión del espionaje alemán y protegió a Skorzeny."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia de las potencias del Eje consta. En lo leído hoy no aparece Skorzeny; la versión oficial recoge que vivió en Madrid.\n\nPendiente al seguir el dinero: quién financió el golpe y la guerra."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55571,6 +55647,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Serbobosnio (Obljaj, 1894 – Terezín, 1918), de una familia con nueve hijos de los que murieron seis."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1911 entró en la Joven Bosnia, que buscaba separar Bosnia de Austria-Hungría y unirla a Serbia. Quiso alistarse en las guerrillas serbias del mayor Tankosić, miembro de la Mano Negra, y fue rechazado por su estatura. A los 19 años asesinó al archiduque y a su esposa. En el juicio se declaró nacionalista yugoslavo. Condenado a veinte años, murió de tuberculosis en prisión."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo hace miembro de la «Joven Serbia», grupo de Mazzini, desde joven en la Joven Bosnia y después en la Mano Negra de Dimitrijević, y cuenta que disparó cuando el coche se detuvo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La pertenencia a la Joven Bosnia y el contacto con un miembro de la Mano Negra constan. La organización de Mazzini no era la suya: la inspiración es otra cosa (ver la ficha de la Joven Italia)."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -58102,6 +58200,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y aviador alemán (Rosenheim, 1893 – Núremberg, 1946), as de la Primera Guerra Mundial y criminal de guerra nazi."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En el partido desde 1922, fue herido en el golpe de 1923 y quedó adicto a la morfina. Ministro en 1933, fundó la Gestapo, mandó la Luftwaffe desde 1935 y, al frente del plan cuatrienal, puso la economía al servicio de la guerra; segundo hombre del régimen hacia 1940. Condenado a muerte en Núremberg por conspiración, crímenes contra la paz, de guerra y contra la humanidad, se suicidó antes de la ejecución."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, autorizó la expedición alemana a la Antártida de 1938-1939."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su control de la economía hace plausible que pasara por él, pero en lo leído hoy no aparece la expedición."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64488,6 +64608,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Revolucionario, teórico y dictador chino (Shaoshan, 1893 – Pekín, 1976), fundador y máximo dirigente del Partido Comunista de China."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Condujo la Larga Marcha en la guerra civil, pactó un frente contra Japón y venció a Chiang Kai-shek; proclamó la República Popular en 1949. Dio al campesinado el papel central, apartándose del modelo soviético. Fue responsable de la gran hambruna de 1959-1961, tras la que fue apartado; recuperó el poder con la Revolución Cultural (1966), con persecuciones masivas y culto a la personalidad."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que Teilhard de Chardin fue su mentor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece Teilhard.\n\nPendiente: fechas y lugares en que pudieran haber coincidido."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -67979,6 +68121,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista sueco (Tanum, 1894 – 1963), hijo de un veterinario; estudió Derecho y Economía en Upsala, influido por Wicksell."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1920 entró en la secretaría de la Sociedad de Naciones por recomendación de Cassel, a petición de Marcus Wallenberg padre. Primer economista jefe del Banco de Pagos Internacionales (1931-1956) y director gerente del Fondo Monetario Internacional desde 1956 hasta su muerte."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como fundador de la red de tecnócratas que circula entre el Banco de Pagos, el Fondo y los bancos centrales, y temprano defensor del federalismo europeo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su trayectoria por tres organismos consta, y la recomendación ligada a los Wallenberg. En lo leído no aparece su federalismo.\n\nPendiente: sus escritos sobre Europa."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
