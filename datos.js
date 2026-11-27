@@ -49615,6 +49615,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y aristócrata escocés (1848-1930), de formación filosófica; sobrino de lord Salisbury por su madre. Estudió en Eton y Cambridge."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Diputado desde 1874, secretario de su tío, secretario para Irlanda (1887-1891), primer ministro (1902-1905), en cuyo mandato llegó la Entente Cordiale, primer lord del Almirantazgo (1915) y ministro de Exteriores (1916-1919). En 1917 firmó la declaración, dirigida a lord Rothschild, de apoyo a un hogar nacional judío en Palestina."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como el ministro sionista que en noviembre de 1917 hizo esa declaración."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La declaración consta. En lo leído no se describen sus convicciones sionistas previas.\n\nPendiente: quién redactó y negoció el texto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -50847,6 +50869,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: Cecil Rhodes",
       "url": "https://www.britannica.com/biography/Cecil-Rhodes",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Cecil Rhodes",
+      "url": "https://es.wikipedia.org/wiki/Cecil_Rhodes",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50861,6 +50888,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario minero y político británico (1853-1902), hijo de un vicario, enviado a Sudáfrica a los 17 años por salud."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en los diamantes en Kimberley y en dos décadas casi dominó el mercado mundial; fundó la De Beers. Diputado desde 1881 y primer ministro del Cabo (1890-1896), expropió tierras a africanos y endureció los requisitos de voto para excluir a los negros. Su Compañía Británica de Sudáfrica colonizó los territorios llamados Rodesia. Dimitió tras la incursión de Jameson. Supremacista blanco e imperialista, creó las becas Rhodes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, dejó su fortuna para continuar un imperio británico y estadounidense, de donde surgen la Mesa Redonda y los Peregrinos; fue el único que tuvo a los Rothschild trabajando para él, y estos pusieron después a trabajar a los Rockefeller."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El proyecto imperial y las becas constan. En lo leído no aparecen la Mesa Redonda, los Peregrinos ni los Rothschild.\n\nLectura de trabajo de Nexus: la financiación de la De Beers es el punto donde comprobar la tesis."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -50960,6 +51009,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com — Bonaparte, Charles Joseph",
       "url": "https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/bonaparte-charles-joseph",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Charles Joseph Bonaparte",
+      "url": "https://en.wikipedia.org/wiki/Charles_Joseph_Bonaparte",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50975,6 +51029,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado estadounidense (Baltimore, 1851-1921), nieto de Jérôme Bonaparte, hermano de Napoleón I, y de Elizabeth Patterson. La rama americana no usó títulos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Graduado en Harvard, ejerció en Baltimore y destacó en los movimientos de reforma municipal y nacional; fundó la Reform League de Baltimore (1885), presidió la Liga Municipal Nacional y defendió el voto de los negros. Con Theodore Roosevelt fue secretario de Marina y fiscal general, cargo en el que creó el Bureau of Investigation, origen del FBI."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, un Bonaparte estadounidense, al que llama sobrino de Napoleón, fue fiscal general y ayudó a fundar el FBI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo y la fundación constan. El parentesco es de sobrino nieto, no de sobrino."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -52436,6 +52512,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo menor de James Mayer de Rothschild, fundador de la rama de París (1845-1934). Casado con su prima Adelheid, de la rama de Nápoles."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "No tomó parte activa en la banca: fue coleccionista y mecenas, con grandes donaciones al Louvre. Desde 1882 compró tierras en la Palestina otomana, financió Rishon LeZion y supervisó los asentamientos en cinco viajes. En 1924 creó una sociedad de colonización que adquirió más de 500 km²; se calcula que gastó más de 50 millones de dólares. Acabó apartándose de la política de construir un Estado judío y defendió la industrialización y el respeto a la población árabe."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los Rothschild compraban tierras en Palestina desde 1882 y la guerra les vino muy bien; en 1901 los colonos le pidieron que se apartara y él contestó que había creado el Yishuv solo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las compras desde 1882 constan, y que Edmond se distinguía en esto de otros Rothschild. En lo leído no aparece el episodio de 1901 ni el beneficio con la guerra."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -54001,6 +54099,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Mariscal francés (Tarbes, 1851 – París, 1929), de familia católica de clase media; educado en colegios jesuitas de Tarbes, Rodez y Metz."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Politécnico y artillero, profesor y director de la Escuela de Guerra, autor de Des principes de la guerre. En 1914 destacó en el Marne; dirigió el grupo de ejércitos del norte en 1915-1916 con muchas bajas. En marzo de 1918 recibió el mando supremo aliado, coordinó los ejércitos hasta la victoria y presidió el armisticio de Compiègne. Se le atribuye haber llamado a Versalles un armisticio de veinte años."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra detalla su formación jesuita y su hermano jesuita, lo ve agresivo hasta la imprudencia en 1914-1916, y cuenta condecoraciones de los Caballeros de Colón y de Georgetown en 1921 y un discurso atribuyendo su éxito a los jesuitas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La educación jesuita y el mando de 1918 constan. En lo leído no aparecen los honores de 1921 ni el discurso; la versión oficial de la ficha recoge los honores."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -54527,6 +54647,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Archiduque austriaco (Graz, 1863 – Sarajevo, 1914), sobrino del emperador Francisco José; heredó de Francisco V de Módena una de las mayores fortunas de Austria."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Militar y viajero; tras las muertes del príncipe Rodolfo y de su padre quedó como heredero. Se casó en 1900 con Sofía Chotek en matrimonio morganático, sin derechos para sus hijos, contra la corte. Visitó Inglaterra en 1913. Su asesinato desencadenó la declaración de guerra a Serbia y la Primera Guerra Mundial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que su asesinato fue el pistoletazo de salida de la guerra, el 28 de junio de 1914, tras salir ileso de un primer atentado con bombas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La secuencia general consta. Ver la ficha del atentado de Sarajevo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -56434,6 +56576,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Último emperador alemán y rey de Prusia (Berlín, 1859 – Doorn, 1941), nieto mayor de la reina Victoria y primo de Jorge V y de la zarina."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Reinó de 1888 a 1918. Destituyó a Bismarck en 1890, impulsó una política mundial asertiva y una flota de acorazados que rivalizara con la británica, cuyo coste provocó crisis financieras. Sus declaraciones causaron escándalos. Amigo de Francisco Fernando; en la guerra fue apartado por el mando militar. Abdicó y murió exiliado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra presenta el imperio alemán de 1914 como uno de los cuatro que se repartían Europa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El peso de Alemania entre las potencias es compatible con lo leído. Pendiente: quién financió la expansión naval."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -56625,6 +56789,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor británico (Bromley, 1866 – Londres, 1946), de familia de clase media baja empobrecida."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Padre de la ciencia ficción moderna: La máquina del tiempo, La isla del doctor Moreau, El hombre invisible, La guerra de los mundos. Fue crítico social y futurista de visión progresista global, izquierdista toda su vida, miembro breve de la Sociedad Fabiana y cuatro veces candidato al Nobel."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo señala como fabiano y autor de The New World Order (1940), con planes de gobierno socialista mundial y una declaración de derechos que inspiró la de la ONU; ve en sus novelas un adelanto de la modificación genética."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La militancia fabiana y la visión global constan. En lo leído no aparecen el libro de 1940 ni su relación con la declaración de la ONU; la versión oficial recoge el primero.\n\nEl año de nacimiento aparece como 1867 en un pasaje de la fuente y como 1866 en otro."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -62460,6 +62646,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Leopoldo_Torlonia",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (it): Leopoldo Torlonia",
+      "url": "https://it.wikipedia.org/wiki/Leopoldo_Torlonia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62475,6 +62666,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político italiano (Roma, 1853 – Frascati, 1918), de la familia Torlonia, hijo de Giulio Torlonia, duque de Poli y Guadagnolo, y de Teresa Chigi Albani."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en el ayuntamiento de Roma en 1877, recién licenciado, y ese año fue diputado de la derecha. Actuó como alcalde desde mayo de 1882 y lo fue formalmente desde 1887. Por visitar al cardenal vicario para felicitar al papa León XIII, Crispi hizo que el rey lo destituyera a finales de 1887. Estuvo implicado en el escándalo de la Banca Romana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue político y caballero de Malta y estuvo implicado en el escándalo de la Banca Romana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La implicación en el escándalo la afirma también la fuente leída, sin detallarla. La Orden de Malta no aparece.\n\nLas fechas de la destitución no coinciden: la versión oficial dice mayo de 1887 y lo leído, 31 de diciembre de 1887."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62967,6 +63180,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista estadounidense (Louisville, 1856 – 1941), de padres judíos emigrados de Bohemia; se graduó en Harvard a los veinte años."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Abogado de causas públicas en Boston, combatió monopolios ferroviarios, ayudó a crear la Reserva Federal y a idear la Comisión de Comercio, y en El dinero de otras personas propuso frenar a los grandes bancos. Magistrado del Tribunal Supremo (1916-1939). Desde 1914 presidió el comité sionista provisional y puso dinero propio en la causa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los Rothschild, mediante su agente Brandeis, enviaron a Londres una delegación con promesa de apoyo estadounidense a cambio de tierras palestinas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su dirección sionista consta. En lo leído aparece como crítico de la concentración bancaria, no como agente, y no consta la delegación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -70702,6 +70937,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Periodista, escritor y doctor en Derecho (Budapest, 1860 – 1904), de familia judía acomodada, liberal y laica."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Corresponsal en París del Neue Freie Presse (1891-1895), pasó del ideal de asimilación al de un Estado propio. Escribió El Estado judío, no logró atraer a Hirsch ni a Rothschild y buscó que el sultán cediera parte de Siria a cambio de ayuda financiera. En 1897 fundó el periódico Die Welt con gasto propio y presidió el congreso de Basilea hasta su muerte."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, era un judío asimilado y los judíos eran jázaros sin religión ni cultura común; le atribuye la idea de que empeorar el sufrimiento judío serviría a sus planes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta su asimilación previa. Lo de los jázaros choca con la versión oficial de la ficha del movimiento sionista. La cita sobre el sufrimiento se discute: según Efraim Karsh, la lectura que hace Benny Morris de los diarios omite frases; lo leído trata de la compra de tierras, y esa frase concreta no aparece.\n\nLa negativa inicial de Rothschild contradice que el proyecto partiera de la familia."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -72286,6 +72543,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: William Randolph Hearst",
       "url": "https://www.britannica.com/money/William-Randolph-Hearst",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): William Randolph Hearst",
+      "url": "https://es.wikipedia.org/wiki/William_Randolph_Hearst",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72304,6 +72566,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Magnate de la prensa estadounidense (San Francisco, 1863 – 1951), hijo de un millonario de las minas que fue senador."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Levantó un imperio de 28 periódicos, revistas y radios, que usó como instrumento político y de negocio, con prensa amarilla: empujó a la guerra de 1898 y combatió la Revolución mexicana, donde tenía enormes propiedades. Apoyó a Roosevelt en 1932-1934, se volvió aislacionista y, tras la llegada de Hitler, ordenó cobertura favorable y publicó artículos de dirigentes nazis."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, se declaró proalemán en 1920, se implicó en America First en 1932 buscando inversores como Morgan o Rockefeller, inventó el desastre del Maine como falsa bandera y publicó artículos de Hitler, según Quigley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La simpatía nazi de los años treinta y la campaña sobre el Maine constan; que el hundimiento fuera una operación propia no. En lo leído no aparecen America First ni esos inversores.\n\nLectura de trabajo de Nexus: sus propiedades en México son un caso claro de interés económico detrás de la línea editorial."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
