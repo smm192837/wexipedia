@@ -10444,6 +10444,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Cibeles, la Gran Madre de Frigia, tenía su centro en Pesinunte; la precede la diosa Kubaba, de la Edad del Bronce."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 204 a. C., en plena segunda guerra púnica y siguiendo los libros sibilinos y el oráculo de Delfos, Roma trajo de Pesinunte la piedra negra de la diosa, con templo en el Palatino. En la colina Vaticana hubo un santuario, el Phrygianum; las obras de la basílica de San Pedro descubrieron unas 24 dedicatorias a la Magna Mater y Atis, la mayoría de romanos de alto rango tras el sacrificio de un toro."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, la diosa llegó en 204 a. C., su templo y el circo de Calígula y Nerón ocupaban la colina Vaticana y Claudio reformó el culto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La llegada de la diosa y el santuario vaticano constan. Que en el mismo lugar haya luego una basílica cristiana no demuestra continuidad de culto."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -12397,6 +12419,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Chronography of 354",
       "url": "https://en.wikipedia.org/wiki/Chronography_of_354",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Concilio de Nicea I",
+      "url": "https://es.wikipedia.org/wiki/Concilio_de_Nicea_I",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Chronograph of 354",
+      "url": "https://en.wikipedia.org/wiki/Chronograph_of_354",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12416,6 +12448,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La disputa que lo motivó surgió en Alejandría entre 318 y 322, sobre la naturaleza de Jesús y su relación con Dios Padre."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Constantino convocó a los obispos en Nicea de Bitinia, en el palacio imperial, en 325, y asistió a las sesiones; pudo presidir Osio de Córdoba. Las fuentes discrepan en las fechas: de mayo a julio o del 20 de mayo al 19 de junio. Resolvió la cuestión arriana, redactó la primera parte del credo, fijó la observancia uniforme de la Pascua y dictó cánones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, Constantino, como Pontífice Máximo, reunió a los obispos para tener un solo credo, no votaba pero marcaba el rumbo; el debate arriano era secundario para Roma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La convocatoria imperial y la búsqueda de consenso en la Iglesia dentro del imperio constan. Cuánto pesó el interés político frente al doctrinal es discusión abierta; la fecha de Navidad no sale de este concilio según lo leído."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -12576,6 +12630,11 @@ window.CRONO = {
       "titulo": "Britannica: Concilio de Calcedonia",
       "url": "https://britannica.com/event/Council-of-Chalcedon",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Concilio ecuménico",
+      "url": "https://es.wikipedia.org/wiki/Concilio_ecum%C3%A9nico",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12587,6 +12646,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Un concilio ecuménico reúne a los obispos para definir doctrina y disciplina. El edicto de Tesalónica, del 27 de febrero de 380, de Teodosio, hizo del cristianismo niceno la religión oficial del imperio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Al año siguiente Teodosio convocó el primer concilio de Constantinopla. El de 869-870, convocado por Basilio I, depuso a Focio; la Iglesia católica lo cuenta como octavo y la ortodoxa no lo acepta. Después, los concilios que Roma reconoce se celebraron en Occidente."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, los ocho primeros concilios en Oriente y siete en Occidente tuvieron patrocinio imperial, y concluye que el Imperio controlaba así la Iglesia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El patrocinio imperial de concilios consta. Qué concilios son ecuménicos depende de cada Iglesia, y el grado de control tendría que verse concilio por concilio."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -16367,6 +16448,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "La palabra",
+     "nivel": "hecho",
+     "texto": "El Evangelio de Juan usa «speira» para la tropa que detiene a Jesús."
+    },
+    {
+     "titulo": "Qué significa",
+     "nivel": "hecho",
+     "texto": "La palabra, de origen latino, designa algo enrollado y por extensión un cuerpo de soldados; suele traducirse por cohorte, la décima parte de una legión, unos 600 hombres, o 500 a 1.000 en tropas auxiliares. El léxico leído recoge también usos para unidades menores, como un manípulo, o para grupos de guardianes levitas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, apoyado en Mauro Biglino, eran unos 600 soldados romanos, señal de que Roma veía en Jesús una amenaza política seria."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El sentido de cohorte es posible y frecuente, pero la palabra admite destacamentos menores, así que la cifra no se deduce del término solo."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -36847,6 +36950,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Chronography of 354",
       "url": "https://en.wikipedia.org/wiki/Chronography_of_354",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Chronograph of 354",
+      "url": "https://en.wikipedia.org/wiki/Chronograph_of_354",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36862,6 +36970,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El dios Sol",
+     "nivel": "hecho",
+     "texto": "Sol Invictus fue el dios solar oficial del Imperio tardío. Aureliano reactivó su culto en 274, lo promovió como divinidad suprema y consagró su templo el 25 de diciembre de ese año; Constantino puso fin a su preeminencia."
+    },
+    {
+     "titulo": "La fecha",
+     "nivel": "hecho",
+     "texto": "La fiesta del «Natalis Invicti» del 25 de diciembre figura en el Cronógrafo de 354, en una parte redactada en 336 según la mayoría de historiadores, que registra también el nacimiento de Cristo ese día. Hijmans discute que se refiera al Sol, y se ha sugerido que la fiesta pagana pudo reaccionar a la cristiana y no al revés. La Iglesia antigua llamó a Jesús «verdadero Sol»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el 25 de diciembre coincidía con el solsticio y con las fiestas de muchos dioses, e incluye una lista de «hijos de dioses» celebrados esos días, de Atis y Horus a Krishna y Jesús."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La coincidencia solar y cristiana consta, pero quién influyó en quién se discute. En los pasajes buscados no aparecen las fechas de la lista de dioses."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -40881,11 +41011,38 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Historicity of Jesus",
       "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+     },
+     {
+      "titulo": "Wikipedia (es): Historicidad de Jesús",
+      "url": "https://es.wikipedia.org/wiki/Historicidad_de_Jes%C3%BAs",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La cuestión",
+     "nivel": "hecho",
+     "texto": "El cristianismo surge en torno a Jesús de Nazaret en la Judea del siglo I; se discute qué episodios de los evangelios son históricos."
+    },
+    {
+     "titulo": "El estado de los estudios",
+     "nivel": "hecho",
+     "texto": "Hay un consenso casi universal entre los estudiosos en que Jesús existió, apoyado en fuentes cristianas y no cristianas como Josefo y Tácito; sobre su retrato hay poco acuerdo. La teoría de que nunca existió, formulada en el XIX, es marginal. Los milagros y la resurrección se consideran cuestión de fe."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, que no conoce el libro de Atwill, el cristianismo fue creado. Guillermo Mas Arellano sostiene que los mismos que crearon antiguos mitos inventaron judaísmo, cristianismo e islam como caras de un sistema, y plantea sin confirmarlo un culto a Saturno detrás."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La existencia histórica de Jesús es la posición académica. En los pasajes buscados no aparece una fabricación deliberada de las religiones; es tesis de los autores."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -50107,6 +50264,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Melqart",
       "url": "https://es.wikipedia.org/wiki/Melqart",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Melkart",
+      "url": "https://es.wikipedia.org/wiki/Melkart",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50117,6 +50279,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El dios",
+     "nivel": "hecho",
+     "texto": "Melkart era la divinidad fenicia protectora de Tiro, una forma de Baal; su nombre significa «rey de la ciudad»."
+    },
+    {
+     "titulo": "Su culto",
+     "nivel": "hecho",
+     "texto": "Nació como dios agrícola, de muerte y resurrección anual, con rasgos marinos, y pasó a patrón de la colonización y la navegación. Su culto, centrado en el fuego sagrado, se extendió por las colonias de Tiro; el santuario de Cádiz, junto al estrecho, alimentó la leyenda de las columnas de Melkart, luego de Heracles y de Hércules."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, hay indicios, que no puede probar, de que el templo de Salomón se inspiró en el de Melkart situado en España."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El culto en la península consta. En lo leído no aparece que el templo de Jerusalén copiara al de Cádiz; la Biblia solo cuenta, según la ficha, la ayuda de Tiro a Salomón."
+    }
+   ],
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -50168,6 +50352,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Templo de Salomón",
       "url": "https://es.wikipedia.org/wiki/Templo_de_Salomón",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Templo de Salomón",
+      "url": "https://es.wikipedia.org/wiki/Templo_de_Salom%C3%B3n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Solomon's Temple",
+      "url": "https://en.wikipedia.org/wiki/Solomon's_Temple",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50186,6 +50380,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Según el relato bíblico, David tomó Jerusalén, llevó allí el Arca y eligió el monte Moriah para un templo que Dios reservó a su hijo Salomón."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El relato lo da por terminado en 957 a. C., con madera y un artesano enviados desde Tiro, y por saqueado y destruido en 586/587 a. C. por Nabucodonosor II, con la deportación a Babilonia. No se han hallado pruebas directas del edificio, y desde los años ochenta algunos estudiosos dudan de que existiera ya en el siglo X o creen que era modesto. Sus descripciones inspiraron edificios posteriores; la Wikipedia en inglés afirma que El Escorial se trazó a partir de ellas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el sionismo planea reconstruirlo por tercera vez a la espera de un mesías; El Escorial es lo más parecido, levantado por Felipe II con el consejo de Arias Montano; y el modelo del templo pudo ser el de Melkart."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La inspiración de El Escorial tiene un apoyo en lo leído, sin que ahí aparezca Arias Montano. La existencia del primer templo no tiene prueba arqueológica directa. Nada de lo buscado atribuye un plan de reconstrucción al sionismo en conjunto."
+    }
+   ],
    "naturaleza": "arquitecturas",
    "vista": "religion"
   },
@@ -89216,6 +89432,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Asclepieion",
       "url": "https://wikipedia.com/wiki/Asclepion",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Asclepieion",
+      "url": "https://en.wikipedia.org/wiki/Asclepieion",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Asclepeion",
+      "url": "https://es.wikipedia.org/wiki/Asclepeion",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -89231,6 +89457,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El culto",
+     "nivel": "hecho",
+     "texto": "Asclepio era en el mito griego un médico semidiós capaz de resucitar muertos; sus templos curativos, los asclepeia, atraían peregrinos."
+    },
+    {
+     "titulo": "Los santuarios",
+     "nivel": "hecho",
+     "texto": "Se han hallado más de 300, como los de Epidauro, Cos, Atenas, Corinto y Pérgamo. Tras baños, purgas y dieta venía la incubación: el enfermo dormía en el recinto esperando que Asclepio o sus hijas Higía y Panacea se le aparecieran en sueños. En Epidauro, tablas de hacia 350 a. C. recogen unos 70 casos. La vara con la serpiente de Asclepio sigue usándose como símbolo médico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, de este culto vienen los hospitales y el caduceo como símbolo de la medicina."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El símbolo médico leído es la vara de Asclepio, con una serpiente; en lo buscado no aparece el caduceo. En Cos había un conjunto hospitalario para peregrinos, pero que de ahí vengan los hospitales no queda establecido."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -90844,6 +91092,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Alquimia (etimología)",
       "url": "https://es.wikipedia.org/wiki/Alquimia",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Hermeticism",
+      "url": "https://en.wikipedia.org/wiki/Hermeticism",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -90859,6 +91112,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Tradición filosófica y religiosa basada en los «Hermética», textos atribuidos a Hermes Trismegisto, combinación helenística del dios griego Hermes y el egipcio Thot."
+    },
+    {
+     "titulo": "Los textos y su recorrido",
+     "nivel": "hecho",
+     "texto": "Se escribieron entre hacia 300 a. C. y 1200 d. C.; el Corpus Hermeticum reúne diecisiete tratados griegos de los siglos I al III, con influencias platónicas, pitagóricas y estoicas. Casaubon sostuvo que no eran tan antiguos como pretendían; su origen egipcio o griego se ha defendido en ambos sentidos. La «Tabla de Esmeralda» aparece primero en una fuente árabe de fines del VIII o principios del IX. En el Renacimiento, las traducciones de Ficino y Lazzarelli y la medicina de Paracelso le dieron nueva vida; la alquimia se llamó a menudo «arte hermético»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Sergio Trallero, la astrología occidental viene del hermetismo, de Grecia y Egipto, y llegó a la cristiandad medieval por los árabes; hermetismo y alquimia serían casi sinónimos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso árabe de textos herméticos y el vínculo con la alquimia constan. La práctica alquímica es anterior y más amplia que el hermetismo, así que no son lo mismo; el origen de la astrología occidental es más complejo que una sola vía."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -93998,6 +94273,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Sol Invictus",
       "url": "https://es.wikipedia.org/wiki/Sol_Invictus",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Saturnalia",
+      "url": "https://en.wikipedia.org/wiki/Saturnalia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -94020,6 +94300,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La fiesta",
+     "nivel": "hecho",
+     "texto": "Fiesta romana en honor de Saturno, probablemente ligada al fin de la siembra de invierno, cuando descansaba toda la familia campesina, esclavos incluidos."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Se celebraba oficialmente el 17 de diciembre, con sacrificios, banquete público y el grito «Io, Saturnalia», y de modo popular se alargaba hasta el 23, con regalos y relajación de las normas sociales. Se reforzó tras la derrota del lago Trasimeno. Macrobio dedicó a ella sus «Saturnales», donde expone un monoteísmo solar."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, es la fiesta principal de las élites, oculta bajo el calendario cristiano; Cristo no nació en diciembre, la fecha viene del Sol Invicto y la mitra papal remite a Mitra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cercanía de las fechas con la Navidad y el Sol Invicto es tema conocido; los estudiosos discuten desde cuándo consta la fiesta solar del 25. En los pasajes buscados no aparece una celebración de élites ni la relación entre mitra y Mitra."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
