@@ -1968,6 +1968,11 @@ window.CRONO = {
       "titulo": "Иоганн Шлезвиг-Гольштейнский (Wikipedia en ruso)",
       "url": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A8%D0%BB%D0%B5%D0%B7%D0%B2%D0%B8%D0%B3-%D0%93%D0%BE%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D1%81%D0%BA%D0%B8%D0%B9",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): John, Prince of Schleswig-Holstein",
+      "url": "https://en.wikipedia.org/wiki/John,_Prince_of_Schleswig-Holstein",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1979,6 +1984,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El duque Juan (Hans) de Schleswig-Holstein, hermano del rey Cristián IV de Dinamarca, nacido en 1583, fue a Moscú como prometido de Xenia, hija del zar Borís Godunov."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Aceptó instalarse como príncipe en Rusia, fue recibido con gran alegría y murió de forma inesperada en Moscú el 28 de octubre de 1602. Los cronistas citados cuentan que la zarina y la princesa lo vieron a través de una celosía, porque los moscovitas no mostraban a sus esposas e hijas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en 1602 el príncipe vio una escolta de 24 doncellas a caballo con la cara cubierta; las amazonas griegas serían copia de las mujeres a caballo de los zares."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El viaje y la muerte del príncipe constan. En las dos biografías leídas no se ha buscado con éxito la escolta, que queda apoyada solo en la versión oficial; la relación con las amazonas griegas no tiene apoyo en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -4937,6 +4964,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Banco di Santo Spirito",
       "url": "https://en.wikipedia.org/wiki/Banco_di_Santo_Spirito",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco di Santo Spirito",
+      "url": "https://es.wikipedia.org/wiki/Banco_di_Santo_Spirito",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -4955,6 +4987,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El archihospital del Santo Spirito, fundado en 1201, arrastraba dificultades económicas crecientes durante el siglo XVI."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Pablo V, un Borghese, fundó el banco el 13 de diciembre de 1605. Dio nuevos ingresos al hospital, que era su dueño, y desde 1607 el banco supervisó sus cuentas. Fue el primer banco público de depósito de Roma y el más antiguo en activo en la ciudad hasta su fusión de 1992."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Financió iglesias, hospitales, comercio y obras públicas, como el acueducto de Trajano."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, lo fundaron los Borghese por medio de Pablo V, y tras pasar a Banca di Roma y Capitalia acabó en UniCredit, que firmó después contratos con Santander, Warburg Pincus y General Atlantic."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación por un papa Borghese consta. La Wikipedia en inglés lo llama primer banco central de Europa por encima de las ciudades-estado; la versión oficial recuerda bancos públicos anteriores. Los contratos de UniCredit no se han comprobado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -8153,6 +8212,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Palacio Borghese",
       "url": "https://es.wikipedia.org/wiki/Palacio_Borghese"
+     },
+     {
+      "titulo": "Wikipedia (es): Familia Borghese",
+      "url": "https://es.wikipedia.org/wiki/Familia_Borghese",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Borghese",
+      "url": "https://en.wikipedia.org/wiki/House_of_Borghese",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8175,6 +8244,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Familia originaria de Siena, cuyo nombre viene de Borghese, nieto de un mercader de lanas del siglo XIII. Marcantonio I se trasladó a Roma en 1541 y la familia subió deprisa."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1605 Camillo Borghese fue elegido papa como Pablo V. Hizo a un hermano duque y general del ejército pontificio, a otro castellano de Sant'Angelo y cardenal a su sobrino Scipione, mecenas de Bernini y origen de la Galería Borghese. Marcantonio II recibió de Felipe III el principado de Sulmona y la grandeza de España. Una de las ramas actuales es la Borghese-Torlonia. Junio Valerio Borghese (1906-1974), oficial de marina, fundó en 1967 un partido de extrema derecha y se refugió en España tras ser acusado de intentar un golpe."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El ascenso se apoyó en el nepotismo del papado de Pablo V, que repartió cargos y títulos entre sus parientes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el nombre de Pablo V en la fachada de San Pedro reafirma la unión con el Vaticano, «Borghese» alude a burgueses y banqueros, fundaron el banco del Santo Spirito, Junio Valerio fue comandante naval de Mussolini y se aliaron con los Massimo. Según Jorge Guerra, dieron un papa y cuatro cardenales y enlazaron con los Torlonia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papa, los cardenales y la rama Torlonia constan. En lo buscado no aparece el enlace con los Massimo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -21041,6 +21137,11 @@ window.CRONO = {
       "titulo": "Wikipedia: George Soros",
       "url": "https://en.wikipedia.org/wiki/George_Soros",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Judío de la corte",
+      "url": "https://es.wikipedia.org/wiki/Jud%C3%ADo_de_la_corte",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21056,6 +21157,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Excluidos de muchos oficios, algunos judíos ocuparon desde la Edad Media el nicho del préstamo: la prohibición de la usura obligaba a los cristianos, no a ellos. Sufrieron matanzas y expulsiones repetidas en Europa occidental."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El «judío de corte» como figura aparece a comienzos del siglo XVII. Si moría el señor que lo protegía, podía acabar desterrado o ejecutado, como Joseph Süß Oppenheimer en Württemberg en 1737-1738. A finales del XVIII algunos, entre ellos Bleichröder, Mayer Amschel Rothschild y Seligmann, separaron sus negocios de las cortes y crearon bancos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La restricción religiosa creó rentas de monopolio en el préstamo, más rentable que otras actividades, según la fuente."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los monarcas usaban a banqueros judíos como escudo y las casas reales siguen creando multimillonarios, como Soros (Schwartz de nacimiento), factor de corte de Karl Schwarzenberg. Según Jorge Guerra, expulsarlos era borrar deuda y la banca judía sionista es hoy el ministerio de Economía de un gobierno mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El riesgo que corrían y el cambio de apellido de la familia Soros en 1936, como protección frente al antisemitismo, constan. En lo buscado no aparece relación con Schwarzenberg; la idea de un gobierno mundial de banqueros judíos no tiene apoyo en lo leído y repite un tópico antisemita."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -23905,6 +24033,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Estonia oriental era vulnerable por las divisiones de la Orden Livonia y sus conflictos con el arzobispado de Riga y unas ciudades cada vez más protestantes."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1558 Iván IV la invadió en busca de un asidero en el Báltico, y empezaron más de veinte años de guerra. Con sus rivales ocupados, Moscú tuvo éxitos iniciales y hacia 1560 dominaba Narva, Dorpat y buena parte del interior, lo que provocó la intervención de otras potencias. En 1571 el kan de Crimea saqueó e incendió Moscú. Iván lanzó otra ofensiva desde 1572 sin tomar Reval ni Riga, y la guerra terminó en 1582-1583."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, tras reprimir Kazán la Horda envió tropas al oeste para someter Europa; los historiadores reducirían a una guerra por Livonia lo que fue una campaña punitiva."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La guerra consta como disputa por el Báltico entre varios estados. En lo leído no aparece ninguna Horda que mandara las tropas; la fuerza tártara que figura atacó a Moscú."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -39709,6 +39859,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Horacio Pallavicino nació en Génova hacia 1540, de una familia que gestionaba el monopolio papal del alumbre. Pasó por Amberes como agente del negocio y se estableció en Inglaterra, donde con la reina María fue recaudador de impuestos papales."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la tradición, al morir María renunció al catolicismo y, quedándose con lo recaudado para el papa, puso la base de una fortuna enorme. Fue agente financiero y político: prestó a Isabel I, a Enrique de Navarra y a los Países Bajos. Murió en 1600."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Prestaba siempre con interés usurario; Isabel le debía tanto que se decía que de él dependía la suerte del reino, y en una ocasión dio a Enrique de Navarra cien mil coronas francesas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la casa Pallavicini no perdió influencia en el siglo XIV y financió a Isabel contra España porque ya se había decidido que sus herederos serían los ingleses."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los préstamos de un Pallavicino a Isabel constan. En lo leído no aparece un plan de la casa ni una decisión previa sobre la herencia; la fuente trata a un individuo y distingue la rama genovesa de la mayor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -49497,9 +49674,41 @@ window.CRONO = {
       "titulo": "Khazar (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/topic/Khazar",
       "consultado": "2026-11-19"
+     },
+     {
+      "titulo": "Wikipedia (en): Khanate of Kazan",
+      "url": "https://en.wikipedia.org/wiki/Khanate_of_Kazan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Kanato de Kazán",
+      "url": "https://es.wikipedia.org/wiki/Kanato_de_Kaz%C3%A1n",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El kanato de Kazán, en el Volga medio, en el antiguo territorio de la Bulgaria del Volga, fue uno de los estados sucesores de la Horda de Oro, con una historia de guerras con Moscú."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Tras un asedio de más de cuarenta días, los rusos volaron las murallas y tomaron la ciudad el 2 de octubre de 1552 (calendario juliano); el kan Yadegar fue llevado a Moscú, la mayoría de los defensores murió y la población sufrió una matanza. La administración del kanato se liquidó; hubo rebeliones, y la resistencia de los mari duró hasta 1557. Una oficina del gobierno ruso impuso rusificación y cristianización forzosas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Kazán (kanato de Jazaria) se había convertido en centro del judaísmo, su rey quiso separarse del imperio e Iván reprimió la rebelión; añade que los jázaros adoraban a Saturno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La toma de 1552 consta, como conquista de un estado musulmán, no como represión de un reino judío. En lo buscado no aparecen los jázaros: según la versión oficial su kaganato había desaparecido siglos antes."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -52299,6 +52508,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Henry Wotton",
       "url": "https://en.wikipedia.org/wiki/Henry_Wotton"
+     },
+     {
+      "titulo": "Wikipedia (es): Henry Wotton",
+      "url": "https://es.wikipedia.org/wiki/Henry_Wotton",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52314,6 +52528,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Henry Wotton (1568-1639), escritor y diplomático inglés, estudió en Winchester y Oxford."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Pasó gran parte de unos veinte años como embajador en Venecia, ayudó al dux frente a las pretensiones eclesiásticas y se relacionó estrechamente con Paolo Sarpi, cuya historia del concilio de Trento se enviaba al rey Jacobo a medida que se escribía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Robert Cecil y William Cavendish, con Francis Bacon, encabezaban el «Venetian Party» de Londres, el primer partido político inglés, y Wotton reclutó en Oxford su círculo proveneciano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación de Wotton con Venecia y Sarpi consta. En lo leído no aparece un partido con ese nombre; según la versión oficial, la expresión viene de autores modernos y los partidos ingleses son posteriores."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
