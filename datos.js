@@ -63893,6 +63893,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista francés de la escuela fisiocrática y médico cirujano, nacido el 4 de junio de 1694 y muerto en Versalles en diciembre de 1774."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó en 1758 el «Tableau économique», base de las ideas fisiocráticas y quizá la primera obra que intentó describir analíticamente el funcionamiento de la economía. En «Le despotisme de la Chine» (1767) apoyó el despotismo ilustrado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la Escuela de Salamanca influyó en él."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes buscados no aparece Salamanca; la influencia queda sin comprobar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -68470,6 +68492,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Isabel de Farnesio",
       "url": "https://es.wikipedia.org/wiki/Isabel_de_Farnesio",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Isabel Farnesio",
+      "url": "https://es.wikipedia.org/wiki/Isabel_Farnesio",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Elisabeth Farnese",
+      "url": "https://en.wikipedia.org/wiki/Elisabeth_Farnese",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68484,6 +68516,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Aristócrata italiana nacida en Parma el 25 de octubre de 1692, descendiente de Alejandro Farnesio y heredera de la sucesión parmesana; murió en Aranjuez en julio de 1766."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Casó por poderes con Felipe V en septiembre de 1714, boda impulsada por Alberoni, y ejerció de hecho el poder ante la frecuente incapacidad mental del rey. Su ambiciosa política exterior provocó la guerra contra la Cuádruple Alianza; con las guerras de sucesión polaca y austriaca situó a sus hijos en Nápoles, Sicilia y Parma, y casó a sus hijas con las casas de Francia, Portugal y Saboya. Fue madre de Carlos III."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, su boda con Felipe V dio origen a las dos ramas borbónicas italianas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que sus hijos se sentaron en los tronos italianos de Nápoles, Sicilia y Parma, lo que apoya en lo esencial la afirmación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
