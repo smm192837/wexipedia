@@ -8530,6 +8530,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: House of Hesse",
       "url": "https://en.wikipedia.org/wiki/House_of_Hesse"
+     },
+     {
+      "titulo": "Wikipedia (en): Hessian (soldier)",
+      "url": "https://en.wikipedia.org/wiki/Hessian_(soldier)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Mayer Amschel Rothschild",
+      "url": "https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8548,6 +8558,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde finales del XVI la casa se dividió en ramas, sobre todo Hesse-Kassel y Hesse-Darmstadt. Varios estados alemanes pobres vivían de alquilar tropas, y Hesse-Kassel, el más militarizado de Europa, fue su principal proveedor."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Sus soldados se alquilaron a Suecia, a Gran Bretaña y a otros ejércitos; en la guerra de independencia de EE. UU. combatieron entre 30.000 y 37.000 «hessianos», cerca de una cuarta parte de las tropas británicas, aunque no todos eran de Hesse. En la Guerra de Sucesión Austriaca, Gran Bretaña y Baviera emplearon hessianos unos contra otros. Hesse-Kassel pasó a electorado en 1803 y Prusia lo anexionó en 1866. Los Battenberg, rama morganática de Hesse-Darmstadt, adoptaron en 1917 en Gran Bretaña el nombre Mountbatten."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Mayer Amschel Rothschild, cuyo padre ya proveía de monedas al príncipe, obtuvo en 1769 el título de factor de la corte, se convirtió en banquero del futuro Guillermo IX y gestionó los pagos británicos por el alquiler de los mercenarios."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la casa está por encima de los Windsor, creó el apellido Mountbatten que estos llevan por línea masculina, «creó» a los Rothschild y sus mercenarios luchaban en los dos bandos, con los Rothschild financiando a ambos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El alquiler de tropas, que en una guerra estuvieron en los dos bandos, y el vínculo con Rothschild constan. Según la versión oficial, la casa real sigue siendo Windsor y Mountbatten no es su línea masculina. En lo buscado no aparece que los Rothschild financiaran a las dos partes."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -10270,6 +10307,16 @@ window.CRONO = {
       "titulo": "Britannica: China",
       "url": "https://www.britannica.com/place/China",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Reform and opening up",
+      "url": "https://en.wikipedia.org/wiki/Reform_and_opening_up",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Jesuit missions in China",
+      "url": "https://en.wikipedia.org/wiki/Jesuit_missions_in_China",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -10281,6 +10328,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1582 los jesuitas reemprendieron la misión en China, con Matteo Ricci entre otros, llevando ciencia, matemáticas, astronomía y artes occidentales a la corte y dialogando con los letrados confucianos."
+    },
+    {
+     "titulo": "La reforma",
+     "nivel": "hecho",
+     "texto": "Tras la muerte de Mao en 1976, el Partido Comunista lanzó el 18 de diciembre de 1978, con Deng Xiaoping, la reforma y apertura: primero descolectivizó el campo, abrió el país a la inversión extranjera y permitió empresas privadas; después privatizó o cedió en contrato buena parte de la industria estatal, aunque mantuvo monopolios. Las reformas políticas se detuvieron con Tiananmén en 1989."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el capitalismo y el socialismo chinos son occidentales, los jesuitas operaban allí con Felipe II y Rockefeller escribió en 1973 que era un gran experimento social."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia jesuita en tiempos de Felipe II y la entrada de capital extranjero constan, con una reforma decidida por el partido chino. El texto de Rockefeller de 1973 no se ha podido localizar. En lo leído no aparece un diseño occidental del sistema."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -17986,6 +18055,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La universidad",
+     "nivel": "hecho",
+     "texto": "Georgetown, en Washington, es una universidad privada jesuita fundada por el obispo John Carroll en 1789: la institución católica de educación superior más antigua de EE. UU. y la primera con carta federal."
+    },
+    {
+     "titulo": "Quiénes estudiaron allí",
+     "nivel": "hecho",
+     "texto": "Entre sus antiguos alumnos figuran Bill Clinton (1968, Escuela de Servicio Exterior), Alexander Haig, Robert Gates y John Kelly, y jefes de Estado extranjeros como Felipe VI, Abdalá II de Jordania o José Manuel Barroso, que fue primer ministro de Portugal. Donald Trump se graduó en economía en Wharton (Universidad de Pensilvania) en 1968."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Trump se formó con los jesuitas en Fordham, sus hijos y Clinton pasaron por Georgetown, Biden suma honores de centros de la orden y actúa al servicio de los Borbones, y muchos jefes militares, y el rey de España, tienen educación jesuita."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso de varios dirigentes por centros jesuitas consta. Haber estudiado allí no muestra obediencia a la orden. En los pasajes buscados no aparecen los honores de Biden ni vínculo con los Borbones."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -18257,6 +18348,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Eje de la Resistencia",
       "url": "https://es.wikipedia.org/wiki/Eje_de_la_Resistencia",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Axis of Resistance",
+      "url": "https://en.wikipedia.org/wiki/Axis_of_Resistance",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18268,6 +18364,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Alianza antisionista y antiestadounidense dirigida por Irán, formada sobre todo por organizaciones chiíes como Hezbolá en Líbano, las milicias de Irak y los hutíes de Yemen, y en ocasiones por grupos palestinos suníes como Hamás y la Yihad Islámica."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Según la Wikipedia en español, el nombre lo usó en 2002 el diario libio Al-Zahf Al-Akhdar como réplica al «eje del mal» de George W. Bush. Siria formó parte hasta la caída de Asad a finales de 2024. Entre 2014 y 2017, fuerzas ligadas a Irán dirigidas por Qasem Soleimani y las estadounidenses combatieron de hecho a la vez contra el Estado Islámico; el eje también ha atacado tropas de EE. UU. en Irak."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Irán gastaba, según una estimación, unos 700 millones de dólares al año en apoyo militar y logístico, a través de la Fuerza Quds. Su apoyo se explica en parte por la «defensa avanzada», mantener el choque lejos de sus fronteras."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, mientras Israel y EE. UU. necesitan ganar, a Irán le basta resistir y además debilita el petrodólar; el martirio de Soleimani en 2020 refuerza esa resistencia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La composición de la alianza y su financiación iraní constan. Que resistir equivalga a ganar o que debilite el petrodólar son valoraciones del autor, sin comprobar. Los hechos son recientes y pueden cambiar."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
