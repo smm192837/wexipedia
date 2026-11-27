@@ -7671,6 +7671,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "Los Buonaparte eran patricios de Sarzana, San Miniato y Florencia; no se conoce la relación entre la rama florentina y las otras. El primero conocido en Sarzana es Gianfaldo, hacia 1200.\n\nFrancesco Buonaparte, mercenario a caballo al servicio del Banco de San Jorge de Génova, pasó en 1490 a Córcega, que ese banco controlaba, y se casó con la hija del representante del banco en Ajaccio. Sus descendientes ocuparon cargos municipales. Carlo, padre de Napoleón, obtuvo patente de nobleza del rey de Francia en 1771."
+    },
+    {
+     "titulo": "El imperio",
+     "nivel": "hecho",
+     "texto": "Napoleón I transformó la República en Imperio en 1804, cinco años después del golpe del 18 de brumario. Puso a parientes en tronos de Estados dependientes: España, Nápoles, Holanda y Westfalia, entre otros. La dinastía cayó tras Waterloo y la restauración borbónica.\n\nLuis Napoleón fue presidente de la República y después emperador como Napoleón III (1852-1870), depuesto durante la guerra franco-prusiana."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "El hijo de Napoleón III murió en 1879 combatiendo contra los zulúes. La jefatura de la familia está hoy disputada entre Charles Napoléon y su hijo Jean-Christophe, nombrado heredero en el testamento de su abuelo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la casa seguiría gobernando Francia sin mostrarse, con apoyo de Roma, de la nobleza italiana, de casas banqueras francesas y de la Legión de Honor, y el presidente sería una pantalla. La vincula a familias florentinas y les atribuye actividades criminales sin que el vídeo aporte pruebas. El detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen italiano y el paso a Córcega constan, y el de Córcega pasa por un banco genovés, algo que la tesis no menciona. En lo leído no hay gobierno oculto ni actividad criminal.\n\nLectura de trabajo de Nexus: el vínculo documentado con el Banco de San Jorge es una pista que se puede seguir, referida al siglo XV, no al presente."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -11359,6 +11386,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Constitución siciliana de 1812",
       "url": "https://es.wikipedia.org/wiki/Constituci%C3%B3n_siciliana_de_1812",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Costituzione siciliana del 1812",
+      "url": "https://it.wikipedia.org/wiki/Costituzione_siciliana_del_1812",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11374,6 +11406,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Fernando de Borbón se refugió en Palermo en 1798 y de nuevo en 1806, huyendo de los franceses. En 1810 pidió dinero al Parlamento siciliano, que dio poco y reclamó una constitución.\n\nArbitró lord William Bentinck, representante británico, cuya flota protegía la isla. El rey, antes que firmar, nombró regente a su hijo Francisco en enero de 1812; Bentinck asumió el mando militar."
+    },
+    {
+     "titulo": "Qué se aprobó",
+     "nivel": "hecho",
+     "texto": "La redactó el abad Paolo Balsamo por encargo de los jefes reformistas, los príncipes de Castelnuovo y de Belmonte. Quiso conservar las leyes antiguas del país tomando como guía el modelo británico, descartando el francés y el de Cádiz por demasiado democráticos. El Parlamento la aprobó el 18 de julio y el regente la promulgó el 10 de agosto de 1812."
+    },
+    {
+     "titulo": "Cómo acabó",
+     "nivel": "hecho",
+     "texto": "Fernando evitó aplicarla al recuperar el poder en 1814, dejó de convocar el Parlamento tras volver a Nápoles en 1815 y en diciembre de 1816 suprimió el Reino de Sicilia al fundirlo en las Dos Sicilias. Cayó en desuso sin derogación formal. El Parlamento la proclamó de nuevo en la revuelta de 1820, sofocada ese año y el siguiente."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el conde Giuseppe Gaetani y Landolina, diputado por voluntad de Bentinck, participó en su redacción; con ella se abolió el feudalismo y se adoptó el common law inglés, y a eso atribuye el desarrollo de la mafia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia británica y de Bentinck consta. El artículo leído habla de un modelo inglés adaptado, no de adoptar el common law, y no menciona a Gaetani ni la mafia.\n\nPendiente: el texto de la constitución y estudios sobre la relación entre el fin del feudalismo y la violencia privada en el campo siciliano."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -16150,6 +16209,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antes de la derrota",
+     "nivel": "hecho",
+     "texto": "Federico II fijó las bases de la escuela primaria con el reglamento general de 1763, redactado por Johann Julius Hecker, que había fundado en 1748 el primer seminario de maestros. Obligaba a niños y niñas a ir a la escuela, pagada sobre todo por los municipios, desde los 5 hasta los 13 o 14 años. Enseñaba a leer y escribir, canto y religión, e inculcaba deber, sobriedad y disciplina. En Francia y Gran Bretaña la obligatoriedad no llegó hasta la década de 1880."
+    },
+    {
+     "titulo": "La reforma tras Jena",
+     "nivel": "hecho",
+     "texto": "La derrota de Jena-Auerstedt (1806) ante el ejército francés abrió paso a quienes pedían mejorar la educación. Fichte, en sus Discursos a la nación alemana (1807), pidió formar la personalidad de los alumnos para que usaran su propia cabeza al servicio de un futuro Estado alemán.\n\nEn 1809 Wilhelm von Humboldt, ya al frente de la educación, defendió una formación general de ideal neohumanista, con libertad académica y sin distinción de estamento u oficio. El coste del instituto y de la universidad seguía separando a las clases sociales."
+    },
+    {
+     "titulo": "Difusión y debate",
+     "nivel": "hecho",
+     "texto": "El modelo se extendió por Europa y a Estados Unidos, que adoptó algunos aspectos. Sus críticos sostienen que estaba pensado para la obediencia y el control social, una educación de fábrica."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, cuando Napoleón venció a Prusia con un ejército menor, Prusia rehízo su sistema educativo como un ensayo militar de adoctrinamiento que, junto al modelo jesuita, sería la «máquina de aplastar» que barrió el pensamiento vitalista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación entre la derrota y la reforma consta. La crítica de adoctrinamiento existe también fuera del autor. Pero la escuela obligatoria era anterior a Napoleón y la reforma de Humboldt se declaraba contraria a formar solo para obedecer.\n\nEn lo leído no aparece nada sobre jesuitas ni sobre el vitalismo; no se ha comprobado la cifra de los ejércitos en Jena."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -26415,6 +26501,16 @@ window.CRONO = {
       "titulo": "Elysée — Los títulos honoríficos del presidente de la República",
       "url": "https://www.elysee.fr/les-titres-honorifiques-du-president-de-la-republique",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Legión de Honor",
+      "url": "https://es.wikipedia.org/wiki/Legi%C3%B3n_de_Honor",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (fr): Ordre national de la Légion d'honneur",
+      "url": "https://fr.wikipedia.org/wiki/Ordre_national_de_la_L%C3%A9gion_d'honneur",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -26434,6 +26530,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo se creó",
+     "nivel": "hecho",
+     "texto": "La Revolución de 1789 había abolido las condecoraciones del Antiguo Régimen. El primer cónsul, Napoleón Bonaparte, volvió a una distinción pública con la ley del 29 floreal del año X (19 de mayo de 1802), que premia méritos civiles y militares. Hubo críticas: se la llamó chupete para adultos.\n\nLas primeras entregas solemnes fueron en 1804: el 15 de julio en los Inválidos de París y el 16 de agosto en el campamento de Boulogne, donde se preparaba el desembarco en Inglaterra."
+    },
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Es una comunidad formada por sus miembros, con personalidad jurídica de derecho público, patrimonio y estatuto propios, regida por un código. La entrega el presidente de la República y se concede a franceses y extranjeros.\n\nSe calcula en torno a un millón de condecorados desde 1804; en 2016 había unos 93.000 vivos y el máximo permitido es 125.000. La primera mujer fue la sargento Marie-Angélique Duchemin, en 1851."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, es el cuerpo con el que los Bonaparte reúnen a banqueros y empresarios afines: junta a muchos multimillonarios y directivos de grandes empresas y bancos. Recuerda además que el presidente francés es gran maestre y canónigo honorario de San Juan de Letrán."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que haya empresarios y banqueros condecorados es compatible con una orden que premia también méritos civiles. En lo leído no consta ningún control de la familia Bonaparte sobre la orden: su máxima autoridad es el jefe del Estado.\n\nLectura de trabajo de Nexus: para probar la tesis habría que comparar la proporción de banqueros y empresarios entre los condecorados con la de otros grupos. No se ha hecho."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34427,6 +34545,16 @@ window.CRONO = {
       "titulo": "A Concise History of Italy: The liberal state and the social question, 1870-1900 (Cambridge University Press)",
       "url": "https://www.cambridge.org/core/books/abs/concise-history-of-italy/liberal-state-and-the-social-question-18701900/AE5B3D667C2D62F254CE60E376814376",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Congress of Vienna",
+      "url": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Treaty of Paris (1814)",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1814)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34438,6 +34566,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El tratado y el congreso",
+     "nivel": "hecho",
+     "texto": "El tratado de París del 30 de mayo de 1814 puso fin a la guerra entre Francia y la Sexta Coalición. El Congreso de Viena, presidido por Metternich, se reunió de septiembre de 1814 a junio de 1815 con representantes de las potencias europeas salvo el Imperio otomano.\n\nBuscaba una paz duradera equilibrando a las grandes potencias y contener los movimientos revolucionarios, liberales y bonapartistas. Las decisiones principales las tomaron las cuatro grandes potencias."
+    },
+    {
+     "titulo": "Italia y Suiza",
+     "nivel": "hecho",
+     "texto": "El papa recuperó sus Estados, salvo Aviñón y el Condado Venaissin. El rey de Cerdeña recibió Piamonte, Niza, Saboya y Génova, acabando con la breve república restaurada. Murat conservó al principio Nápoles; su apoyo a Napoleón en los Cien Días devolvió el reino a los Borbones.\n\nSe garantizó la neutralidad de los 22 cantones suizos y se les recomendó con firmeza un pacto federal."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la partición final del imperio terminó en el siglo XIX: en 1814 cae Napoleón, Italia se fractura, desaparece la República de Génova y nace la Confederación Suiza como Estado papal, con origen de los Estados Pontificios y la Guardia Suiza; en 1870 Italia se reunifica con los Saboya, y la «nobleza negra» fueron las familias romanas que apoyaron al papa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coinciden la caída de Napoleón y el fin de Génova. Los Estados Pontificios se restauraron, no nacieron entonces, y de la Confederación Suiza consta una garantía de neutralidad, no una condición de Estado papal.\n\nEn lo leído no se trata la Guardia Suiza ni la nobleza negra."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -36914,6 +37064,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Reino de las Dos Sicilias",
       "url": "https://es.wikipedia.org/wiki/Reino_de_las_Dos_Sicilias"
+     },
+     {
+      "titulo": "Wikipedia (en): Kingdom of the Two Sicilies",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Two_Sicilies",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36933,6 +37088,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué era",
+     "nivel": "hecho",
+     "texto": "Reino del sur de Italia bajo los Borbón-Dos Sicilias, de 1816 a 1861, formado al unir los reinos de Nápoles y de Sicilia. Era el mayor Estado italiano en población y superficie. Garibaldi derrocó al rey en 1860, hubo plebiscito de unión con el reino de Cerdeña y en 1861 se proclamó el Reino de Italia."
+    },
+    {
+     "titulo": "Lo que apunta a prosperidad",
+     "nivel": "hecho",
+     "texto": "La versión española recoge que tenía las mejores finanzas públicas de los Estados italianos anteriores a la unificación y más de dos tercios del oro de la península, la moneda más fuerte y la mayor flota mercante de Italia, con unos 9.800 buques.\n\nLa fábrica de Pietrarsa, cerca de Nápoles, era la mayor planta industrial de la península y hacía cañones, raíles y locomotoras; estaban además el astillero de Castellammare, las ferrerías de Calabria y el azufre siciliano, que cubría casi toda la demanda mundial. Salerno concentraba más de 10.000 obreros textiles."
+    },
+    {
+     "titulo": "Lo que apunta a atraso",
+     "nivel": "hecho",
+     "texto": "La versión inglesa subraya la concentración de la tierra en pocas familias nobles, un proletariado rural muy pobre y ciudades con poca industria, incapaces de absorber la población del campo. La española admite déficit entre 1848 y 1860."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera sostiene, apoyándose en un gráfico, que estaba entre los cinco primeros países del mundo hasta mediados del XIX, con la siderurgia más importante del momento, exportación de manufacturas y el principal puerto del Mediterráneo.\n\nJorge Guerra lo pinta como un territorio muy próspero en manos de los Borbón-Dos Sicilias, a los que llama herederos de los Farnese y nobleza negra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay datos de fortaleza fiscal e industrias punteras y datos de pobreza rural; se pueden sostener a la vez. En lo leído no aparece ninguna clasificación mundial que lo ponga entre los cinco primeros.\n\nPendiente: el gráfico que usa Nocera y estudios de historia económica con comparaciones por habitante."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -46174,6 +46356,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué hacía Nathan Rothschild",
+     "nivel": "hecho",
+     "texto": "Desde 1809 comerciaba con oro en lingotes. Desde 1811, en trato con el comisario general John Charles Herries, se encargó de hacer llegar el dinero de las pagas a las tropas de Wellington en Portugal y España y, más tarde, los subsidios británicos a los aliados."
+    },
+    {
+     "titulo": "Cómo nació la historia",
+     "nivel": "hecho",
+     "texto": "En la década de 1840, en un ambiente de ataques socialistas franceses a los Rothschild y a los «financieros judíos», Mathieu-Dairnvaell publicó en 1846, con seudónimo, un panfleto que contaba que Nathan supo antes que nadie el resultado de Waterloo y especuló para hacerse una fortuna. John Reeves la adornó en 1887 y la repitieron relatos posteriores, como el de Frederic Morton o una película estadounidense de 1934."
+    },
+    {
+     "titulo": "Lo que dicen los historiadores",
+     "nivel": "hecho",
+     "texto": "Niall Ferguson admite que los correos de la familia llegaron antes a Londres, pero sostiene que, como los Rothschild habían apostado por una campaña larga, las pérdidas superaron lo ganado con los bonos. La fortuna creció a lo largo de años, sobre todo por financiar al ejército de Wellington con operaciones de cambio, especulación con bonos y comisiones.\n\nBrian Cathcart niega que Rothschild fuera el primero en Londres en saberlo y sitúa la primera noticia en el despacho de Wellington, recibido la noche del 21 de junio. La explicación de las palomas mensajeras se discute; el archivo Rothschild cree probable que la noticia llegara por correos a caballo."
+    },
+    {
+     "titulo": "Una discrepancia",
+     "nivel": "hecho",
+     "texto": "Ferguson y Cathcart no coinciden sobre quién supo primero la noticia. Los dos rechazan, por caminos distintos, que de ahí saliera el golpe del relato popular."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra cita el episodio como popular y sitúa el control absoluto de Gran Bretaña en «1915», que por contexto es 1815."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: al seguir el dinero, lo documentado es el negocio de financiar la guerra durante años, no una jugada de un día. En lo leído no consta ningún control de la familia sobre Gran Bretaña.\n\nPendientes: los libros de Ferguson y Cathcart."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
