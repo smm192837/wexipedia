@@ -49018,6 +49018,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Crítico, dramaturgo y político soviético (Poltava, 1875 – Menton, 1933), marxista desde los quince años; estudió en Zúrich."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estuvo con los bolcheviques hasta 1905, se distanció de Lenin defendiendo unir marxismo y religión («construcción de Dios») y volvió en 1917. Comisario de Educación hasta 1929, impulsó la alfabetización, protegió teatros y artistas, fundó con Bogdánov el Proletkult y participó en un juicio teatral contra Dios. La reforma escolar fracasó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, un documento del archivo del KGB lo da como miembro del Gran Oriente de Francia; le atribuye la frase «lo que necesitamos es odio»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparecen la masonería ni la frase.\n\nPendiente: la referencia exacta del documento."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -52357,6 +52379,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Coronel serbio (Belgrado, 1876 – Salónica, 1917), apodado Apis, del Estado Mayor."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Organizó desde 1901 una red de oficiales que en 1903 asesinó al rey Alejandro y a la reina Draga; fue herido y tratado como héroe, y la red sostuvo al nuevo rey. Dirigió la Mano Negra, presuntamente implicada en el atentado de Sarajevo. Fue ejecutado en 1917; en 1953 el Tribunal Supremo de Serbia lo declaró inocente por falta de pruebas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como jefe de la Mano Negra, organización secreta militar por la Gran Serbia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La jefatura consta. Su responsabilidad en el atentado se da por no probada en lo leído."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -53815,6 +53859,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Feliks Dzerzhinski",
       "url": "https://es.wikipedia.org/wiki/Feliks_Dzerzhinski",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Félix Dzerzhinski",
+      "url": "https://es.wikipedia.org/wiki/F%C3%A9lix_Dzerzhinski",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53826,6 +53875,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Revolucionario soviético de origen polaco (1877 – Moscú, 1926), de la baja nobleza, educado en un catolicismo y nacionalismo intensos; de niño quiso ser sacerdote."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Dejó la fe en 1894 al conocer el marxismo, abandonó los estudios en 1896 y pasó once años preso entre fugas y destierros. En 1917 fundó la Checa, policía política del Terror Rojo. Al formarla se investigó una huelga de funcionarios que, según lo leído, financiaban industriales y banqueros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como católico fanático y admirador de los jesuitas, que quiso entrar en la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La religiosidad juvenil y la vocación sacerdotal constan; que dejó la fe a los diecisiete también. En lo leído no aparecen los jesuitas."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -58076,6 +58147,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Financiero alemán (1877-1970), doctor en Economía por Kiel en 1899; entró en el Dresdner Bank en 1903."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En la ocupación de Bélgica fue apartado por favorecer contactos con su antiguo banco. Presidente del Reichsbank (1923-1930), estabilizó el marco y colaboró en el plan Young. Ayudó a Hitler a reunir fondos y en 1932 promovió una petición de industriales para nombrarlo canciller. Volvió al Reichsbank y fue ministro de Economía (1934-1937), con gasto oculto, controles y bonos Mefo. Cesado en 1939, acabó preso en Dachau; en Núremberg fue absuelto."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés y Jorge Guerra lo señalan como creador del BPI con Norman; Guerra añade que era masón del Rito Escocés conectado con el Banco de Inglaterra, que The New York Times lo llamó «piloto de hierro de las finanzas nazis» y que fue de los directores del BPI acusados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El apoyo financiero y político a Hitler y la amistad con Norman están documentados. En lo leído no aparece la masonería.\n\nVer las fichas del BPI."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -62828,6 +62921,11 @@ window.CRONO = {
       "titulo": "Leon Trotsky — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Leon-Trotsky",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): León Trotski",
+      "url": "https://es.wikipedia.org/wiki/Le%C3%B3n_Trotski",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62843,6 +62941,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Revolucionario y teórico ruso (Yánovka, 1879 – Ciudad de México, 1940), hijo de pequeños terratenientes judíos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En el partido desde 1898, desterrado y fugado, presidió el sóviet de San Petersburgo en 1905 y el de Petrogrado en 1917. Organizó la Revolución de Octubre, negoció Brest-Litovsk y creó el Ejército Rojo (1918-1925), apoyando el Terror Rojo. Desplazado por Stalin, fue expulsado en 1929 y asesinado en México."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo cita como masón y como quien habló de masones entre los bolcheviques en el IV Congreso de la Internacional."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece su militancia masónica.\n\nPendiente: el acta del IV Congreso (1922), donde se puede comprobar lo que se dijo sobre la masonería."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -65427,6 +65547,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Bank for International Settlements (leída en una copia de marzo de 2026)",
       "url": "https://en.wikipedia.org/wiki/Bank_for_International_Settlements",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Montagu Norman, 1st Baron Norman",
+      "url": "https://en.wikipedia.org/wiki/Montagu_Norman,_1st_Baron_Norman",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -65454,6 +65579,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero inglés (1871-1950) de familia de banqueros: su abuelo materno, Mark Collet, ya había sido gobernador del Banco de Inglaterra. Estudió en Eton y un año en Cambridge."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó en Martins Bank y en Brown, Shipley (Londres y Nueva York), luchó en la guerra de los bóeres, fue consejero del Banco de Inglaterra desde 1907 y gobernador de 1920 a 1944. Impulsó la toma de un banco en Viena y la creación de otro en Praga y defendió la vuelta al patrón oro en 1925. Amigo íntimo de Schacht, padrino de un nieto suyo. Según el historiador David Blaazer, autorizó a sabiendas en marzo de 1939 el traspaso de oro checoslovaco a la Alemania nazi, y volvió a apoyar traspasos ya empezada la guerra, que el gobierno bloqueó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, participó en la creación del BPI y fue acusado del robo de oro de territorios ocupados. Jorge Guerra lo presenta como arquitecto del BPI con Schacht, cabeza de una camarilla de banqueros centrales, y de un linaje italiano de pares desde 1149."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La amistad con Schacht, el BPI y el oro checoslovaco constan. En lo leído su familia es de banqueros; no aparece el linaje italiano.\n\nLectura de trabajo de Nexus: es uno de los casos mejor documentados de decisión de un banquero central al margen de su gobierno."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -70734,6 +70881,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Dirigente soviético de origen georgiano (Gori, 1878 – Moscú, 1953), de familia pobre; estudió en el seminario de Tiflis, donde entró en el movimiento revolucionario."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Bolchevique desde 1903, consiguió fondos con atracos a bancos y otros delitos, dirigió Pravda y sufrió cárcel y destierros. Secretario general desde 1922, usó el cargo para controlar el partido; tras la muerte de Lenin eliminó rivales, ejecutó a antiguos aliados y se hizo dictador en los años treinta, con colectivización, industrialización forzosa y purgas. Dirigió la URSS en la guerra mundial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Nacho López Cabanas cuenta que en 1936 mandó detener a los científicos de Púlkovo, entre ellos Kozyrev; Guillermo Mas Arellano, que dijo en Potsdam que Hitler vivía en España o Argentina; Jorge Guerra, que se discute si fue jesuita."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El seminario donde estudió era un seminario teológico de Tiflis; en lo leído no aparece vínculo jesuita. Lo de Púlkovo y Potsdam no figura en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -72894,9 +73063,36 @@ window.CRONO = {
       "titulo": "Order of the Garter (Wikipedia, resultado de búsqueda)",
       "url": "https://en.wikipedia.org/wiki/Order_of_the_Garter",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Winston Churchill",
+      "url": "https://es.wikipedia.org/wiki/Winston_Churchill",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político, militar y escritor británico (Blenheim, 1874 – Londres, 1965), descendiente del primer duque de Marlborough; su madre era hija del empresario estadounidense Leonard Jerome."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Militar y corresponsal, diputado casi sin interrupción de 1900 a 1964; pasó de conservador a liberal y volvió. Dirigió como primer lord del Almirantazgo la campaña de Galípoli, un desastre que le costó el cargo (la comisión no lo culpó personalmente). Primer ministro en 1940-45 y 1951-55 y Nobel de Literatura. En 1901 entró en una logia masónica de Londres y llegó a maestro. Se le critica por Dresde, la hambruna de Bengala y su visión imperial y comentarios racistas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo hace responsable de la hambruna de Bengala con unos 5 millones de muertos, de Galípoli, de gasear a civiles en Irak en 1920 y de Dresde, niega que sea suya la frase sobre los vencedores y recorre su genealogía hasta la Orden de la Jarretera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído: la hambruna combina la pérdida del arroz birmano, un ciclón y la guerra, con críticas a su lentitud agravadas por las notas de Amery; Dresde, atacada por unos 1.200 bombarderos y llena de refugiados, formaba parte de una campaña que él impulsó y que luego lamentó.\n\nLas cifras del autor y el uso de gas en Irak no se han comprobado; hay fichas propias para esos hechos."
+    }
+   ],
    "vista": "politica"
   },
   {
