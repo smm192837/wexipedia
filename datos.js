@@ -11725,6 +11725,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): America First Committee",
       "url": "https://en.wikipedia.org/wiki/America_First_Committee",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Congressional Record, 10-9-1998: homenaje a John M. Fisher",
+      "url": "https://www.govinfo.gov/content/pkg/CREC-1998-09-10/html/CREC-1998-09-10-pt1-PgE1688-4.htm",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Spartacus Educational: American Security Council",
+      "url": "https://spartacus-educational.com/JFKamericansc.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11747,7 +11757,7 @@ window.CRONO = {
     {
      "titulo": "El Consejo",
      "nivel": "hecho",
-     "texto": "Según lo leído, el American Security Council lo fundó en 1954 Robert E. Wood, expresidente de Sears. Una fundación asociada, creada en 1958 por John Fisher como instituto de estrategia, se fusionó con él en 1997 y busca influir en la política exterior con el lema de la paz por la fuerza."
+     "texto": "El American Security Council nació en 1955, impulsado por Robert E. Wood, presidente del consejo de Sears; John Fisher, antiguo agente del FBI y jefe de seguridad de la empresa, lo organizó. Una fundación asociada, creada en 1958 por John Fisher como instituto de estrategia, se fusionó con él en 1997 y busca influir en la política exterior con el lema de la paz por la fuerza."
     },
     {
      "titulo": "Influencia",
@@ -11762,7 +11772,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La continuidad personal existe: Wood presidió America First y fundó el consejo. Son organizaciones distintas.\n\nEl año de fundación difiere entre lo leído (1954) y la versión oficial (1955)."
+     "texto": "La continuidad personal existe: Wood presidió America First y fundó el consejo. Son organizaciones distintas.\n\nContrastado el año: el Congressional Record (1998) y Spartacus Educational dan 1955; el 1954 de la Wikipedia en inglés queda aislado."
     }
    ],
    "naturaleza": "gobiernos",
@@ -28362,7 +28372,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El régimen fascista aprobó en 1938 las leyes raciales: el «Manifiesto de la raza» (julio) y las leyes de septiembre-noviembre excluyeron a los judíos de la escuela, el ejército y la administración pública y les retiraron la ciudadanía. Pietro Tacchi Venturi intercedió ante Mussolini por casos concretos; la edición de Robert A. Maryks («Pouring Jewish Water into Fascist Wine», Brill, 2017) reúne 139 cartas de víctimas de las leyes y sus familiares dirigidas al jesuita, no 44.",
+    "resumen": "El régimen fascista aprobó en 1938 las leyes raciales: el «Manifiesto de la raza» (julio) y las leyes de septiembre-noviembre excluyeron a los judíos de la escuela, el ejército y la administración pública y les retiraron la ciudadanía. Pietro Tacchi Venturi intercedió ante Mussolini por casos concretos; según la obra de Robert A. Maryks («Pouring Jewish Water into Fascist Wine»), los archivos conservan 44 cartas del jesuita a Mussolini pidiendo excepciones para judíos italianos (volumen de 2012), y el segundo volumen (Brill, 2017) edita además 139 cartas cruzadas entre las víctimas de las leyes, sus familiares y el jesuita.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Leyes raciales fascistas",
@@ -28377,6 +28387,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (it): Leggi razziali fasciste",
       "url": "https://it.wikipedia.org/wiki/Leggi_razziali_fasciste",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Crux (2024): artículo sobre Pietro Tacchi Venturi, que cita las 44 cartas del libro de Maryks",
+      "url": "https://cruxnow.com/news-analysis/2024/07/postcards-from-italy-a-classic-example-of-john-paul-iis-charge-to-learn-rome",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "AbeBooks: sinopsis del segundo volumen de «Pouring Jewish Water into Fascist Wine» (139 cartas)",
+      "url": "https://www.abebooks.com/9789004329690/Pouring-Jewish-Water-Fascist-Wine-9004329692/plp",
       "consultado": "2026-11-27"
      }
     ]
@@ -28425,7 +28445,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El choque entre el papa y Mussolini por el racismo aparece en lo leído, con el jesuita de intermediario.\n\nLa versión oficial corrige la cifra: la edición de Maryks reúne 139 cartas dirigidas al jesuita por víctimas y familiares. El autor habla de cartas escritas por él, así que conviene comprobar que ambas cifras cuentan lo mismo."
+     "texto": "El choque entre el papa y Mussolini por el racismo aparece en lo leído, con el jesuita de intermediario.\n\nLas dos cifras tienen apoyo y cuentan cosas distintas: 44 cartas del jesuita a Mussolini (volumen de 2012, según un artículo de Crux) y 139 cartas cruzadas con los afectados (segundo volumen, según su sinopsis). El libro no se ha abierto."
     }
    ],
    "naturaleza": "gobiernos",
@@ -31404,7 +31424,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El apoyo y el préstamo constan, de 100 millones, no 50.\n\nLas fechas difieren: la entrada leída lo sitúa en 1926 y la versión oficial, con documentos del Departamento de Estado, en noviembre de 1925. En lo leído no aparecen los Peregrinos ni la reunión."
+     "texto": "El apoyo y el préstamo constan, de 100 millones, no 50.\n\nContrastada la fecha: según la carta de J. P. Morgan & Co. al secretario de Estado, el contrato del préstamo se firmó el 18 de noviembre de 1925. El 1926 de una entrada leída antes queda descartado. En lo leído no aparecen los Peregrinos ni la reunión."
     }
    ],
    "naturaleza": "banca",
@@ -33932,12 +33952,22 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 12 de diciembre de 1916 el canciller alemán Bethmann Hollweg dirigió una nota a los Aliados ofreciendo negociaciones de paz, sin condiciones concretas y desde una posición de fuerza. Los Aliados la rechazaron en enero de 1917. No consta ningún ofrecimiento de armisticio a Gran Bretaña ni una gestión de Brandeis en ese marco.",
+    "resumen": "El 12 de diciembre de 1916 el canciller alemán Bethmann Hollweg dirigió una nota a los Aliados ofreciendo negociaciones de paz, sin condiciones concretas y desde una posición de fuerza. Los Aliados la rechazaron con una nota colectiva del 30 de diciembre de 1916, que Estados Unidos remitió a las potencias centrales el 2 de enero de 1917. No consta ningún ofrecimiento de armisticio a Gran Bretaña ni una gestión de Brandeis en ese marco.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Primera Guerra Mundial",
       "url": "https://es.wikipedia.org/wiki/Primera_Guerra_Mundial",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "FRUS 1916, suplemento, doc. 178: respuesta de los gobiernos aliados",
+      "url": "https://history.state.gov/historicaldocuments/frus1916Supp/d178",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "FRUS 1916, suplemento, doc. 186: remisión de la nota aliada a las potencias centrales",
+      "url": "https://history.state.gov/historicaldocuments/frus1916Supp/d186",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33972,7 +34002,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La oferta existió, dirigida a la Entente y rechazada. En lo leído no consta que fuera sin condiciones ni que Londres la viera bien, ni la gestión de Brandeis.\n\nLa fecha del rechazo difiere de la versión oficial, que habla de enero de 1917; puede haber más de una respuesta."
+     "texto": "La oferta existió, dirigida a la Entente y rechazada. En lo leído no consta que fuera sin condiciones ni que Londres la viera bien, ni la gestión de Brandeis.\n\nContrastada la fecha: la nota aliada es del 30 de diciembre de 1916 y Estados Unidos la remitió a las potencias centrales el 2 de enero de 1917."
     }
    ],
    "naturaleza": "conflictos-belicos",
@@ -50895,7 +50925,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alessandro Torlonia (1800-1886), banquero italiano, príncipe de Civitella Cesi. Financió al papado, desecó el lago Fucino (1854-1875) y reunió la colección de esculturas antiguas que lleva su nombre.",
+    "resumen": "Alessandro Torlonia (1800-1886), banquero italiano, príncipe de Civitella Cesi. Financió al papado, desecó el lago Fucino (obras desde 1854; el lago se declaró desecado en 1878) y reunió la colección de esculturas antiguas que lleva su nombre.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -50910,6 +50940,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Alessandro Torlonia, 2nd Prince of Civitella-Cesi",
       "url": "https://en.wikipedia.org/wiki/Alessandro_Torlonia,_2nd_Prince_of_Civitella-Cesi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Treccani, Dizionario Biografico degli Italiani: Torlonia, Alessandro Raffaele",
+      "url": "https://www.treccani.it/enciclopedia/alessandro-raffaele-torlonia_(Dizionario-Biografico)/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Fucino",
+      "url": "https://it.wikipedia.org/wiki/Fucino",
       "consultado": "2026-11-27"
      }
     ]
@@ -50945,7 +50985,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Las obras en la villa y el acuerdo coinciden en fechas; en lo leído no se relaciona el templo con el préstamo.\n\nLectura de trabajo de Nexus: el monopolio de sal y tabaco es una pieza clave al seguir el dinero.\n\nLas fechas del desecamiento no coinciden entre fuentes (1862-1873 aquí; 1854-1875 en la versión oficial)."
+     "texto": "Las obras en la villa y el acuerdo coinciden en fechas; en lo leído no se relaciona el templo con el préstamo.\n\nLectura de trabajo de Nexus: el monopolio de sal y tabaco es una pieza clave al seguir el dinero.\n\nContrastadas las fechas del desecamiento: las obras empezaron en 1854 y el lago se declaró desecado en 1878; Treccani fecha el empeño de Torlonia entre 1856 y 1878. El 1862-1873 de una fuente leída antes queda aislado."
     }
    ],
    "naturaleza": "gobiernos",
@@ -65734,7 +65774,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Leopoldo Torlonia (25-7-1853 – 23-10-1918), noble y político italiano, tercer duque de Poli y Guadagnolo, hermano de Marino Torlonia y tío de Alessandro Torlonia (5.º príncipe de Civitella-Cesi). Fue alcalde de Roma de mayo de 1882 a mayo de 1887, año en que fue destituido.",
+    "resumen": "Leopoldo Torlonia (25-7-1853 – 23-10-1918), noble y político italiano, tercer duque de Poli y Guadagnolo, hermano de Marino Torlonia y tío de Alessandro Torlonia (5.º príncipe de Civitella-Cesi). Gobernó Roma como alcalde en funciones desde mayo de 1882 y fue alcalde desde el 7 de mayo de 1887; ese mismo año fue destituido (la ficha del Senado italiano fecha el fin el 31 de diciembre).",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -65744,6 +65784,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (it): Leopoldo Torlonia",
       "url": "https://it.wikipedia.org/wiki/Leopoldo_Torlonia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Senado de la República Italiana: ficha del senador Leopoldo Torlonia",
+      "url": "https://patrimonio.archivio.senato.it/repertorio-senatori-regno/senatore/IT-SEN-SEN0001-002222/torlonia-leopoldo",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Treccani: Torlonia, Leopoldo, duca",
+      "url": "https://www.treccani.it/enciclopedia/torlonia-leopoldo-duca/",
       "consultado": "2026-11-27"
      }
     ]
@@ -65779,7 +65829,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La implicación en el escándalo la afirma también la fuente leída, sin detallarla. La Orden de Malta no aparece.\n\nLas fechas de la destitución no coinciden: la versión oficial dice mayo de 1887 y lo leído, 31 de diciembre de 1887."
+     "texto": "La implicación en el escándalo la afirma también la fuente leída, sin detallarla. La Orden de Malta no aparece.\n\nContrastada la fecha: la ficha del Senado italiano lo da como alcalde en funciones desde mayo de 1882 y como alcalde del 7 de mayo al 31 de diciembre de 1887."
     }
    ],
    "naturaleza": "gobiernos",
@@ -67921,6 +67971,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Antony C. Sutton (críticas a su trilogía)",
       "url": "https://en.wikipedia.org/wiki/Antony_C._Sutton",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Jewish Virtual Library: Warburg",
+      "url": "https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0020_0_20614.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -67959,7 +68014,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Fue perseguido como judío y perdió el banco. En lo leído no consta financiación al aparato militar nazi más allá de su puesto en el Reichsbank, ni relación con los Borghese.\n\nLo leído fecha su entrada en el consejo del Reichsbank desde 1933; la versión oficial, de 1924 a 1933. Pendiente de contrastar."
+     "texto": "Fue perseguido como judío y perdió el banco. En lo leído no consta financiación al aparato militar nazi más allá de su puesto en el Reichsbank, ni relación con los Borghese.\n\nContrastado: la Neue Deutsche Biographie y la Jewish Virtual Library fechan su entrada en el Consejo General del Reichsbank en 1924, y la primera añade que siguió hasta su disolución en otoño de 1933. El «desde 1933» de una fuente leída antes queda aislado."
     }
    ],
    "naturaleza": "banca",
