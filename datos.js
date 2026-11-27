@@ -1704,6 +1704,21 @@ window.CRONO = {
       "titulo": "El fuero de los mozárabes: estudio sobre la repoblación de Toledo por Alfonso VI",
       "url": "https://www.jstage.jst.go.jp/article/hispanica1965/2007/51/2007_51_149/_article",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Alba",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Alba",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Conquista de Toledo (1085)",
+      "url": "https://es.wikipedia.org/wiki/Conquista_de_Toledo_(1085)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Escuela de Traductores de Toledo",
+      "url": "https://es.wikipedia.org/wiki/Escuela_de_Traductores_de_Toledo",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1715,6 +1730,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Alfonso VI conquistó la taifa de Toledo en 1085."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según el Censo-Guía de Archivos, la Casa de Alba remonta sus orígenes a Pedro, conde de Carrión, en el siglo XI, y tiene su primer hito en Garcí Álvarez de Toledo, señor de Valdecorneja (1359-1370). Fernán Álvarez de Toledo recibió el condado de Alba y su hijo fue el primer duque de Alba de Tormes en 1472. El nombre de Escuela de Traductores de Toledo designa las traducciones hechas allí desde el siglo XII."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Alba serían Comneno: el primer «Toledo» fue Pedro Comneno, príncipe griego nacido en 1053, que ocupó la ciudad y le dio nombre; cita a Láscaris Comneno y a Miniati, y atribuye a la familia la creación de la Escuela de Traductores en el siglo XVI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece ningún Comneno. El archivo menciona un Pedro del siglo XI como origen de la casa, pero conde de Carrión; la coincidencia de nombre y época no prueba la identidad. La Escuela de Traductores es anterior en cuatro siglos a la fecha del autor. Las obras que cita no se han abierto."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -5130,6 +5167,11 @@ window.CRONO = {
       "titulo": "Basilea: historia (bs.ch)",
       "url": "https://www.bs.ch/en/schwerpunkte/portrait/heart-europe/history-basel",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Basel",
+      "url": "https://en.wikipedia.org/wiki/Basel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -5149,6 +5191,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los celtas se asentaron a orillas del Rin y en el 44 a. C. los romanos fundaron Augusta Raurica, a unos kilómetros de la actual Basilea, según la Wikipedia en español, que sitúa por entonces una fortificación en la colina de la catedral."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El nombre de Basilea aparece escrito en 374, con motivo de una estancia del emperador Valentiniano I. La ciudad fue sede episcopal, acogió el concilio de 1431-1449, ingresó en la Confederación Suiza en 1501, adoptó la Reforma en 1529 con Ecolampadio y celebró en 1897 el primer Congreso Sionista, convocado por Herzl. Un grupo reducido de familias ricas, el «Daig», formó una aristocracia urbana de hecho. Ginebra expulsó a su obispo en 1536, fue con Calvino el principal foco del calvinismo, quedó anexionada a Francia de 1798 a 1813 y se sumó a la Confederación en 1815."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Basilea alberga la sede del Banco de Pagos Internacionales y es un centro mundial de la industria farmacéutica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, Basilea nunca dejó de estar vinculada económicamente a los Estados Pontificios, sus escudos mezclan símbolos del Sacro Imperio y del Vaticano, la bandera suiza refleja la cruz templaria y Ginebra volvió al dominio del Papado en 1814."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fechas de la historia de las dos ciudades constan. En los pasajes buscados no aparece un vínculo económico con los Estados Pontificios. Lo leído dice que Ginebra se sumó a la Confederación en 1815 y no recoge una vuelta al Papado."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -8803,6 +8872,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Karl, Prince of Löwenstein-Wertheim-Rosenberg",
       "url": "https://en.wikipedia.org/wiki/Charles,_Prince_of_L%C3%B6wenstein-Wertheim-Rosenberg_(1904%E2%80%931990)",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Orsini",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Orsini",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Orsini family",
+      "url": "https://en.wikipedia.org/wiki/Orsini_family",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8826,6 +8905,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El linaje puede remontarse a un Ursus de Paro registrado en Roma en 998; la leyenda familiar lo hace descender de la dinastía Julio-Claudia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Su auge empezó con Celestino III (1191-1198), cuyos repartos a sus sobrinos fundaron el patrimonio de la familia. Dieron además a Nicolás III y Benedicto XIII, muchos cardenales y condotieros. Fueron güelfos, partidarios del papa, en rivalidad secular con los Colonna, y forman parte de la «nobleza negra» romana. Tuvieron el cargo de príncipes asistentes al solio hasta 1958. Karl, príncipe de Löwenstein-Wertheim-Rosenberg, fue miembro de las SA en la época nazi y presidió el Comité Central de los Católicos Alemanes de 1948 a 1967."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, detrás de los rosacruces estaban los Orsini, unidos a los Rosenberg; habrían tenido ramificaciones criminales, negocios diversos y un papel en el pánico por el ébola, y vincula a la rama Löwenstein con el banco Merck Finck y los Rothschild de Viena. Giuseppe Nocera los cita entre las familias con poder y Jorge Guerra señala que en 1958 los Torlonia les sucedieron como asistentes al solio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El fin del cargo en 1958 consta. En lo buscado no aparecen los rosacruces, el ébola ni los negocios criminales. Los Löwenstein-Wertheim-Rosenberg son una casa alemana distinta de los Orsini; Merck Finck no sale en el artículo leído sobre Karl."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9510,6 +9611,16 @@ window.CRONO = {
       "titulo": "Res Gestae divi Augusti (Fordham)",
       "url": "https://sourcebooks.web.fordham.edu/ancient/14resgestae.asp",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Publio Sulpicio Quirinio (cónsul 12 a. C.)",
+      "url": "https://es.wikipedia.org/wiki/Publio_Sulpicio_Quirinio_(c%C3%B3nsul_12_a._C.)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Quirinius",
+      "url": "https://en.wikipedia.org/wiki/Quirinius",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9521,6 +9632,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En las «Res Gestae», la relación de sus hechos que mandó inscribir y de la que se conserva copia en un templo de Ankara, Augusto cuenta que hizo el censo de los ciudadanos romanos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la traducción leída, en su sexto consulado, con Agripa de colega, contó 4.063.000 ciudadanos; en el 8 a. C., 4.230.000; y en el 14 d. C., con Tiberio, 4.937.000. Otro censo es el de Quirinio: nombrado legado de Siria tras la destitución de Arquelao, hizo en Judea, el año 6 d. C., el recuento de los bienes para fijar el impuesto. Según Flavio Josefo, provocó una revuelta encabezada por Judas el Galileo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, Augusto ordenó hacia el 4 a. C. un censo en todos los territorios que contaba personas, casas y patrimonio, muestra de la «manía de control» del Imperio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El censo de bienes con fines fiscales consta para Judea en el año 6 d. C. En lo leído no aparece un censo de todo el Imperio hacia el 4 a. C.; las cifras de Augusto son de ciudadanos. El Evangelio de Lucas liga el censo de Quirinio al nacimiento de Jesús y el de Mateo sitúa el nacimiento bajo Herodes, muerto antes: la contradicción sigue discutida. La traducción leída da 4.230.000 para el 8 a. C. y la ficha 4.233.000."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -10041,6 +10174,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Hacia el año 43 las legiones romanas establecieron Londinium donde hoy está la City; su puente sobre el Támesis la convirtió en nudo de caminos y puerto comercial hasta su abandono en el siglo V. No se han hallado señales de un asentamiento anterior de importancia. Tácito la alabó como centro de comercio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1067 Guillermo el Conquistador concedió una carta a los ciudadanos. De su «comuna» salió la City of London Corporation: obtuvieron en 1189 el derecho a nombrar alcalde con el consentimiento del rey y desde 1215 a elegirlo. La libertad de la City consta desde 1237 y va ligada a los gremios (livery companies). Londres se mantuvo con los barones contra Juan sin Tierra y por ello cayó bajo la censura de la Iglesia: en 1215 los delegados papales mandaron excomulgar a los rebeldes, con los londinenses los primeros."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La City es hoy uno de los grandes centros financieros del mundo, con el Banco de Inglaterra, la Bolsa de Londres y una fuerte industria del seguro."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la City la creó Roma, sus insignias remiten a los templarios y desde la Carta Magna la conformó el Vaticano, con los Rothschild al frente de sus banqueros. Rubén Avilés la presenta como monopolio del comercio de un imperio británico sionista y destaca a un Falcó y a los Borbón-Dos Sicilias; Guillermo Mas Arellano sostiene que manda por encima de Wall Street; Giuseppe Nocera subraya que se gobierna a sí misma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen romano y el gobierno propio constan. En los pasajes leídos sobre la Carta Magna, el papado actúa contra Londres, lo contrario de una City creada por el Vaticano. No aparecen en lo buscado los templarios ni los Rothschild."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -12684,6 +12844,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Solidus (coin)",
       "url": "https://en.wikipedia.org/wiki/Solidus_(coin)",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Solidus",
+      "url": "https://en.wikipedia.org/wiki/Solidus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12699,6 +12864,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En el siglo III la emisión de moneda sin valor propio para pagar el gasto público trajo una inflación desbocada, y Diocleciano intentó sin éxito restablecer una acuñación fiable de plata y vellón. Él mismo introdujo el sólido de oro en emisiones pequeñas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Constantino lo relanzó para circulación general hacia 312, a razón de 72 piezas por libra de oro, unos 4,5 gramos; fue patrón de las monedas bizantina y europeas durante más de mil años. Renunció a restaurar la plata, y las piezas de bronce siguieron devaluándose junto al patrón oro. Fundó Constantinopla sobre Bizancio en 324 y la inauguró el 11 de mayo de 330. Apoyó con dinero a la Iglesia, levantó basílicas, entre ellas la antigua de San Pedro, y eximió al clero de ciertos impuestos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La acuñación creciente fue unida a su política religiosa, con la confiscación de estatuas de oro, plata y bronce. El autor antiguo de «De rebus bellicis» sostenía que la política monetaria ensanchó la distancia entre clases: el oro estable favorecía a los ricos y los pobres cargaban con un bronce cada vez peor."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, Constantino, para costear la expansión, emitió dinero por decreto sin valor intrínseco, usó el credo y el clero para detectar focos de rebelión y mandó construir la basílica de San Pedro."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La basílica consta, y también que hubo moneda de bronce de valor fiduciario; pero la gran reforma de Constantino fue una moneda de oro, lo contrario de una moneda sin respaldo. En lo buscado no aparece el uso del clero para detectar rebeliones."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -13206,6 +13398,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Carlomagno",
       "url": "https://es.wikipedia.org/wiki/Carlomagno",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Charlemagne",
+      "url": "https://en.wikipedia.org/wiki/Charlemagne",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -13225,6 +13422,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Carlomagno, hijo de Pipino el Breve, era rey de los francos desde 768 y de los lombardos desde 774. Ya en 754 él y su hermano habían sido ungidos por el papa Esteban junto a su padre. Su linaje se remonta a Arnulfo de Metz y Pipino de Landen."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 25 de diciembre de 800 León III lo coronó emperador en Roma, aprovechando la deposición de Constantino VI y que el trono imperial se consideraba vacante por ocuparlo una mujer, Irene. La corte de Constantinopla se indignó y no reconoció el título; tras un proyecto de boda frustrado hubo guerra. El imperio carolingio se considera la primera fase del Sacro Imperio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, ese Sacro Imperio continúa en realidad el Imperio romano, Carlomagno descendería de prefectos romanos de la Galia y de la dinastía Flavia, y desde entonces todo monarca necesitó la legitimidad del papa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La coronación consta. En los pasajes buscados no aparece una ascendencia Flavia, y que desde entonces todo monarca dependiera del papa es lectura del autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -13484,11 +13703,38 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Corpus iuris civilis",
       "url": "https://es.wikipedia.org/wiki/Corpus_iuris_civilis"
+     },
+     {
+      "titulo": "Wikipedia (en): Corpus Juris Civilis",
+      "url": "https://en.wikipedia.org/wiki/Corpus_Juris_Civilis",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Justiniano I (527-565) quiso reunir en una obra las constituciones imperiales desde Adriano, con sus muchas variantes, y la jurisprudencia romana."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Código apareció en 529. Después encargó a Triboniano y otros dieciséis juristas el Digesto, extractos ordenados por materias de los jurisconsultos más célebres; se sumaron las Instituciones y las Novelas. Redescubierto y adoptado por los glosadores de Bolonia, fue la base del derecho de los países de tradición civil e influyó en el derecho canónico: se decía que la Iglesia vivía según la ley romana. Se imprimió en Ginebra en 1583 al cuidado de Dionisio Godofredo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Roma y el Vaticano heredan el Imperio romano por el «testamento de Justiniano», fuente del poder que cedieron a muchos reyes, y el derecho canónico da al Papa poder sobre quien use el derecho civil."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la influencia del derecho romano en el canónico. En los pasajes buscados no aparece un «testamento de Justiniano» ni que usar el derecho civil someta al Papa."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -15528,6 +15774,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El denario fue la moneda de plata habitual de Roma desde su introducción hacia el 211 a. C., durante la segunda guerra púnica. Augusto mantuvo el patrón de 84 piezas por libra."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En el año 64, tras el incendio de Roma, Nerón lo rebajó a 96 piezas por libra, y sus sucesores siguieron bajando la ley: de más del 90 % de plata en el siglo I se pasó al 56,5 % con Septimio Severo. En 215 Caracalla introdujo el antoniniano, que acabó desplazando al denario con Gordiano III; con ese nombre aún se acuñaron pequeñas piezas de vellón tras la reforma de Aureliano de 274. En 301 el edicto de precios máximos de Diocleciano fijó topes, por ejemplo 8 denarios por un sextario de vino corriente."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el denario nació con un 95 % de plata, Nerón mezcló bronce para acuñar más piezas, los precios subieron y Diocleciano respondió con precios máximos; cita a Joseph Peden: una libra de oro pasó de 50.000 denarios a 20 millones en 37 años."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La rebaja progresiva y el edicto constan. En lo buscado no aparecen Peden ni sus cifras, que siguen sin comprobar."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -21482,6 +21750,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Nápoles",
       "url": "https://es.wikipedia.org/wiki/N%C3%A1poles"
+     },
+     {
+      "titulo": "Wikipedia (en): Naples",
+      "url": "https://en.wikipedia.org/wiki/Naples",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21493,6 +21766,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La costa de Campania fue zona de colonización griega. Según la Wikipedia en español, los colonos dejaron la isla donde estaban, huyendo de fenómenos geológicos, y fundaron Cumas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En el siglo VIII a. C. existía el asentamiento de Parténope en la colina de Pizzofalcone y en el VI a. C. se refundó como Neápolis, «ciudad nueva», según la Wikipedia en inglés. La española da otras fechas: Parténope fundada por los cumanos en el siglo VII a. C. (aunque en su introducción habla del VIII) y el nombre de Neápolis al menos desde el V a. C. Fue una polis importante de la Magna Grecia y luego ciudad romana. En el mito, Parténope es una de las sirenas que quisieron seducir a Odiseo y cuyo cuerpo llegó a esa costa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el puerto de Nápoles pudo crearse hacia el siglo VI a. C. y fueron los griegos quienes fundaron la ciudad, ligada a la sirena Parténope de la Odisea."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación griega consta en lo leído y el siglo VI coincide con la refundación como Neápolis en la versión en inglés. Las fuentes no concuerdan entre sí en el siglo de Parténope. No se ha encontrado nada sobre la creación del puerto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -29454,6 +29749,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Norman conquest of England",
       "url": "https://en.wikipedia.org/wiki/Norman_conquest_of_England",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Norman Conquest",
+      "url": "https://en.wikipedia.org/wiki/Norman_Conquest",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29469,6 +29769,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Eduardo el Confesor murió sin hijos en enero de 1066 y le sucedió Haroldo Godwinson. Guillermo de Normandía reclamó el trono por parentesco."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Guillermo desembarcó en el sur y venció en Hastings el 14 de octubre de 1066; no se asentó del todo hasta 1072. Según el cronista Guillermo de Poitiers contó con el consentimiento de Alejandro II, simbolizado en un estandarte papal, pero se toma con cautela: el papa aprobó la conquista cuando ya había triunfado y ninguna otra fuente habla de apoyo previo. Los legados papales impusieron penitencias al rey y a sus hombres por Hastings y las campañas posteriores. Hubo una purga de prelados: Stigand fue depuesto y Lanfranco recibió Canterbury."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Guillermo confiscó las tierras de aristócratas ingleses que se resistieron y parte de las riquezas de los monasterios."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, Alejandro II permitió la invasión con autorización y préstamo de recursos y en 1070 envió tres legados que coronaron a Guillermo; Lanfranco y el arzobispado habrían acabado controlando casi todo a través del rey."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los legados y Lanfranco constan. El apoyo previo del papa es discutido, y en lo leído no aparecen el préstamo de recursos ni el control del país por el arzobispo."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -32911,11 +33238,43 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Dinastía carolingia",
       "url": "https://es.wikipedia.org/wiki/Dinastía_carolingia"
+     },
+     {
+      "titulo": "Wikipedia (es): Dinastía carolingia",
+      "url": "https://es.wikipedia.org/wiki/Dinast%C3%ADa_carolingia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Carolingian dynasty",
+      "url": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia carolingia hizo hereditario desde el siglo VII el cargo de mayordomo de palacio, y sus miembros fueron los gobernantes reales de los francos mientras los reyes merovingios quedaban en un papel nominal."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Pipino el Breve destronó a Childerico III y fue reconocido rey con apoyo del papa (751); su hijo Carlomagno fue coronado emperador en Roma en la Navidad del 800. El imperio descansaba en la lealtad de los condes que gobernaban las regiones y en las riquezas de la conquista; en 843 se repartió por el tratado de Verdún. La rama oriental se extinguió en 911 y la occidental en 987, cuando se asentaron los Capetos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, tras Carlomagno, con Europa sin dueño, el Vaticano fue nombrando a las familias que siguen ahí y les cedió poder mediante «fideicomisos»; miles de nobles vigilan hoy el sistema."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta el apoyo papal a la nueva dinastía. En los pasajes buscados no aparecen fideicomisos ni un nombramiento papal de las familias nobles."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -46964,6 +47323,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Operation Tannenbaum",
       "url": "https://en.wikipedia.org/wiki/Operation_Tannenbaum"
+     },
+     {
+      "titulo": "Wikipedia (es): Antigua Confederación Suiza",
+      "url": "https://es.wikipedia.org/wiki/Antigua_Confederaci%C3%B3n_Suiza",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -46982,6 +47346,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las comunidades de los valles alpinos centrales se aliaron para comerciar libremente y asegurar las rutas de paso por las montañas, bajo la presión de los Habsburgo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Desde 1889 se tiene por documento fundacional la Carta Federal de 1291 entre Uri, Schwyz y Unterwalden; la tradición situaba antes el origen en el juramento del Rütli (fechado en 1307) o en el pacto de Brunnen de 1315. La Confederación creció hasta trece cantones en 1513, se declaró neutral en 1647 y quedó fuera del Sacro Imperio en 1648. La Orden del Temple, fundada hacia 1118, fue disuelta por el papa Clemente V en 1312. En la Segunda Guerra Mundial el Eje preparó la Operación Tannenbaum para invadir Suiza, tras repetidas promesas de Hitler de respetar su neutralidad."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Suiza se formó por cantones hacia el siglo XI, sus escudos muestran relación con el Vaticano y su bandera con los templarios, que recorrían esos caminos con plata de América; los mercaderes venecianos ya estaban allí y ni Hitler se atrevió a cruzar la frontera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La alianza documentada es de finales del siglo XIII, no del XI, y el Temple desapareció en 1312, antes de la llegada europea a América en 1492. En lo buscado no aparecen los venecianos. Que hubo un plan alemán de invasión consta; por qué no se ejecutó no se resuelve aquí."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
