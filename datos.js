@@ -61512,6 +61512,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alfonso_Tostado",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Alonso Fernández de Madrigal",
+      "url": "https://es.wikipedia.org/wiki/Alonso_Fern%C3%A1ndez_de_Madrigal",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61527,6 +61532,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Madrigal de las Altas Torres hacia 1400-1410, estudió artes, teología y leyes en Salamanca, fue rector del colegio de San Bartolomé, ocupó varias cátedras, entre ellas la de Biblia, y fue obispo de Ávila en 1454-1455. Sabía latín, griego y hebreo."
+    },
+    {
+     "titulo": "El choque con Roma",
+     "nivel": "hecho",
+     "texto": "Juan II lo envió a defender la superioridad del concilio sobre el papa; en 1443 expuso en Siena proposiciones ante Eugenio IV, tres le desagradaron y el cardenal Torquemada recibió el encargo de refutarlas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que su obra sobre la guerra justa se publicó en Venecia en 1596."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su obra se imprimió póstumamente en Venecia, pero la edición concreta de 1596 no se ha comprobado."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -63314,6 +63341,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Benito Arias Montano",
       "url": "https://es.wikipedia.org/wiki/Benito_Arias_Montano",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Benito Arias Montano",
+      "url": "https://en.wikipedia.org/wiki/Benito_Arias_Montano",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63324,6 +63356,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Fregenal de la Sierra hacia 1525-1527, hebraísta y humanista; acudió a Trento sin voto y Felipe II lo nombró capellán real en 1566. Dirigió la Biblia Políglota de Amberes con Plantino."
+    },
+    {
+     "titulo": "Poder",
+     "nivel": "hecho",
+     "texto": "Trabajó para la política de la monarquía: por su relación con el secretario Zayas participó en redes de información y consejo sobre Flandes, la Santa Sede y la incorporación de Portugal."
+    },
+    {
+     "titulo": "Problemas",
+     "nivel": "hecho",
+     "texto": "La Inquisición censuró su obra por las referencias rabínicas de la Políglota."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano dice que, formado en la Familia Caritatis, asesoró la geometría sagrada de El Escorial, donde fue bibliotecario."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su relación con la Familia Caritatis se ha planteado; que llevara cábala a la geometría del monasterio no aparece en lo leído."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -69011,6 +69070,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Francisco de Borja",
       "url": "https://es.wikipedia.org/wiki/Francisco_de_Borja",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Francis Borgia",
+      "url": "https://en.wikipedia.org/wiki/Francis_Borgia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69021,6 +69085,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Gandía en 1510, bisnieto del papa Alejandro VI y del rey Fernando el Católico, creció en la corte de Carlos V; fue duque de Gandía y virrey de Cataluña. Viudo, renunció a sus títulos y se hizo jesuita."
+    },
+    {
+     "titulo": "Su generalato",
+     "nivel": "hecho",
+     "texto": "Tercer general (1565-1572): creó noviciados como San Andrés del Quirinal, inició la remodelación del Gesù y mandó misiones a Florida, México y Perú y más a Brasil."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Antes de entrar fue gran bienhechor del Colegio Romano y fundó la Universidad de Gandía. Tras su muerte, el duque de Lerma, su descendiente en la corte, financió en Madrid la casa para sus restos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano recoge que habría sido cofundador de la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Apoyó a la Compañía desde antes de entrar, pero ingresó en 1546, después de la aprobación: no fue fundador."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -69072,6 +69163,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Francisco de Vitoria",
       "url": "https://es.wikipedia.org/wiki/Francisco_de_Vitoria"
+     },
+     {
+      "titulo": "Wikipedia (en): Francisco de Vitoria",
+      "url": "https://en.wikipedia.org/wiki/Francisco_de_Vitoria",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69087,6 +69183,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Dominico nacido en Burgos hacia 1483, con familia materna ligada a los conversos Cartagena; estudió en París y fue catedrático en Salamanca hasta su muerte en 1546. Se le tiene por principal fundador de la Escuela de Salamanca."
+    },
+    {
+     "titulo": "Las Indias",
+     "nivel": "hecho",
+     "texto": "En De Indis (1539) sostuvo que los indígenas eran verdaderos dueños de sus bienes y gobierno, rechazando que el pecado, la falta de fe, la locura o la irracionalidad lo anularan. Al tratar la guerra justa excluyó la religión y el afán de ampliar territorio como causas."
+    },
+    {
+     "titulo": "Economía",
+     "nivel": "hecho",
+     "texto": "Su escuela desarrolló la teoría del precio según oferta y demanda y la teoría cuantitativa del dinero para explicar la inflación del XVI, y defendió propiedad y libertad de comercio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra ve en él la propaganda del imperio: si los indios negaban el libre comercio cabía guerra justa y esclavitud; destaca su peso en el mundo protestante y la sala de la ONU en Ginebra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos caras existen: negó títulos de conquista y admitió otros, como la comunicación y el comercio. Cuánto sirvió de justificación sigue en debate."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -69867,6 +69990,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Gasparo Contarini",
       "url": "https://es.wikipedia.org/wiki/Gasparo_Contarini"
+     },
+     {
+      "titulo": "Wikipedia (en): Gasparo Contarini",
+      "url": "https://en.wikipedia.org/wiki/Gasparo_Contarini",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69882,6 +70010,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Patricio veneciano (1483-1542), embajador ante Carlos V entre 1520 y 1525 y ante Clemente VII en 1528; Pablo III lo hizo cardenal en 1535 siendo laico, para atraer a Roma a un hombre capaz y de talante evangélico. Fue el primero en explicar el desfase de fechas de la vuelta al mundo de Elcano."
+    },
+    {
+     "titulo": "El intento de acuerdo",
+     "nivel": "hecho",
+     "texto": "Como legado en Ratisbona (1541) buscó unir a católicos y protestantes sin lograrlo, en un clima hostil de ambos lados. Murió siendo legado en Bolonia cuando la Inquisición empujaba al exilio a varios amigos suyos."
+    },
+    {
+     "titulo": "Obra",
+     "nivel": "hecho",
+     "texto": "Su libro sobre la república y los magistrados de Venecia es fuente para su sistema de gobierno."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra le atribuye abrir la vía veneciana hacia los protestantes del norte, proteger a la nobleza negra y controlar a Loyola."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su diálogo con protestantes consta. El control sobre Loyola no aparece en lo leído."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -73668,6 +73823,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Ignacio de Loyola",
       "url": "https://es.wikipedia.org/wiki/Ignacio_de_Loyola"
+     },
+     {
+      "titulo": "Wikipedia (en): Ignatius of Loyola",
+      "url": "https://en.wikipedia.org/wiki/Ignatius_of_Loyola",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -73678,6 +73838,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Gentilhombre del virrey de Navarra, herido en Pamplona en 1521; la lectura durante la convalecencia lo cambió. Meses de ascesis en Manresa dieron forma a los Ejercicios espirituales."
+    },
+    {
+     "titulo": "Estudios y compañeros",
+     "nivel": "hecho",
+     "texto": "Estudió en París desde 1528, donde reunió a seis compañeros; hicieron votos en Montmartre el 15 de agosto de 1534. Fue el primer general desde 1541 y murió en 1556; canonizado en 1622."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Vivió con estrecheces, pidiendo ayuda en viajes a Flandes y Londres; entre sus benefactoras desde los años veinte estaban las catalanas Isabel Roser e Isabel de Josa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta dirigido por Contarini y el poder veneciano, con un sistema de poder basado en recibir información de cada jesuita; Rubén Avilés, como militar; Guillermo Mas Arellano recoge que pudo ser dirigido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Fue soldado antes de religioso y la correspondencia con sus súbditos era parte de su gobierno. El control veneciano no aparece en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -74311,6 +74498,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hispanorromano nacido hacia 560, de una familia que dejó Cartagena; sus hermanos Leandro, Fulgencio y Florentina también fueron eclesiásticos. Obispo de Sevilla de 602 a 636, es considerado el último padre de la Iglesia de Occidente."
+    },
+    {
+     "titulo": "Poder e ideas",
+     "nivel": "hecho",
+     "texto": "Presidió concilios que unificaron la liturgia visigoda y regularon el patrimonio eclesiástico y la disciplina del clero; escribió una historia que elogia a los godos y la unidad católica, y un tratado antijudío muy influyente, aunque defendía persuadir y no forzar conversiones."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala muestra una lámina que le atribuye con los cuatro elementos, como prueba de que ese saber era ciencia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La doctrina de los cuatro elementos es griega y anterior; la ciencia actual no la usa para clasificar sustancias. No se ha identificado la lámina."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -76198,6 +76407,11 @@ window.CRONO = {
       "titulo": "Joachim Of Fiore — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Joachim-of-Fiore",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Joaquín de Fiore",
+      "url": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_de_Fiore",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -76209,6 +76423,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Calabrés de origen humilde y autodidacta (hacia 1135-1202). Tras una experiencia mística en Palestina entró en el Císter en 1159, pidió dejar el cargo de abad en 1188 y fundó su propia comunidad, aprobada por Celestino III."
+    },
+    {
+     "titulo": "Las tres edades",
+     "nivel": "hecho",
+     "texto": "Dividió la historia en las edades del Padre, del Hijo y del Espíritu, cada una repitiendo la anterior; calculó 42 generaciones de 30 años, lo que llevaba a 1260. Norman Cohn considera que inventó el sistema profético más influyente en Europa hasta el marxismo."
+    },
+    {
+     "titulo": "Recepción",
+     "nivel": "hecho",
+     "texto": "El IV Concilio de Letrán (1215) condenó algunas opiniones suyas; sus seguidores formaron un movimiento heterodoxo ligado a una observancia franciscana estricta."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo llama beato y dice que su profecía pasó a la filosofía de Hegel."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso directo a Hegel no aparece en lo leído. La Britannica no se pudo abrir."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -79076,6 +79317,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Leonardus_Lessius",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Leonardus Lessius",
+      "url": "https://es.wikipedia.org/wiki/Leonardus_Lessius",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -79091,6 +79337,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Brecht en 1554, becado en Lovaina, jesuita desde 1572, estudió en Roma con Suárez y Belarmino y enseñó teología en Lovaina desde 1585, donde defendió la postura de Molina sobre el libre albedrío pese a censuras."
+    },
+    {
+     "titulo": "La obra",
+     "nivel": "hecho",
+     "texto": "De iustitia et iure (1605), con más de veinte ediciones en el siglo XVII, fue la primera aproximación moral a fondo a la economía y las finanzas; influyó en Grocio."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Viajó a Amberes, centro mundial de negocios, para estudiar comercio y banca; los historiadores de la economía elogian la finura de su tratamiento del interés."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra le atribuye teorizar en Amberes el valor del dinero, los seguros y los intereses."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coincide con lo documentado; leerlo como defensor del capitalismo naciente es interpretación."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -80320,6 +80593,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido hacia 125 en Samosata, a orillas del Éufrates, en la provincia romana de Siria, de lengua materna probablemente siríaca, escribió toda su obra conservada en griego ático. Dejó el aprendizaje de escultor con un tío y se formó en retórica; buena parte de lo que se sabe de su vida sale de sus propios textos y es inseguro."
+    },
+    {
+     "titulo": "Oficio y dinero",
+     "nivel": "hecho",
+     "texto": "Fue conferenciante itinerante bien pagado por Grecia, Italia y la Galia, vivió una década en Atenas, donde escribió la mayor parte de su obra, y quizá tuvo de mayor un cargo bien remunerado en Egipto. Se burló de filósofos, sacerdotes y supersticiones y atacó al falso profeta Alejandro de Abonutico."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo cita como otra fuente antigua sobre la fiesta de Saturno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes leídos no se ha localizado el texto concreto sobre las Saturnales. Se conservan unas ochenta obras, algunas apócrifas."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -81371,6 +81666,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Martín Lutero",
       "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Martin Luther",
+      "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -81381,6 +81681,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Eisleben en 1483, fraile agustino, profesor y predicador en Wittenberg. Su traducción de la Biblia ayudó a fijar el alemán; se casó en 1525 con Catalina de Bora."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La chispa fueron las indulgencias: en los territorios del arzobispo Alberto de Brandeburgo se ofrecían a cambio de limosnas para financiar San Pedro de Roma y pagar su obispado. Lutero lo vio como abuso sin base en la Escritura."
+    },
+    {
+     "titulo": "El lado oscuro",
+     "nivel": "hecho",
+     "texto": "En 1543 publicó tratados contra los judíos en los que pedía quemar sinagogas, destruir casas, confiscar bienes y obligarlos a trabajos forzados o expulsarlos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra no lo cree creación de los venecianos, pero sí que luego lo «movieron»; con el calvinismo la ruptura con Roma habría sido total."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La protección de príncipes alemanes consta en la historia general; una maniobra veneciana no aparece en lo leído."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -81471,6 +81798,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Mateo Ricci",
       "url": "https://es.wikipedia.org/wiki/Mateo_Ricci"
+     },
+     {
+      "titulo": "Wikipedia (en): Matteo Ricci",
+      "url": "https://en.wikipedia.org/wiki/Matteo_Ricci",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -81481,6 +81813,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Macerata en 1552, jesuita, pasó casi treinta años en China y murió en Pekín en 1610. Hizo en 1602 un mapamundi en chino, tradujo clásicos confucianos al latín y escribió sobre matemáticas, memoria y religión."
+    },
+    {
+     "titulo": "El método",
+     "nivel": "hecho",
+     "texto": "Entró vistiendo como monje budista y adaptó el mensaje; dominicos y franciscanos denunciaron esa acomodación, la querella de los ritos duró siglos y en 1721 llevó al emperador Kangxi a expulsar a los jesuitas. Sus libros influyeron también en Corea."
+    },
+    {
+     "titulo": "Memoria",
+     "nivel": "hecho",
+     "texto": "Fue declarado venerable en 2022."
+    },
+    {
+     "titulo": "Siglo XX",
+     "nivel": "hecho",
+     "texto": "Tras 1949 el gobierno comunista expulsó a los misioneros extranjeros y persiguió a los católicos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que, fracasada la cristianización, los jesuitas infiltraron China por otras vías, entre ellas la revolución comunista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En las fuentes leídas no hay participación jesuita en la revolución; sí persecución."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -84029,6 +84393,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Alessandro Farnese (1468-1549), formado en Pisa y en la corte de Lorenzo de Médici, papa desde 1534, poco después del saco de Roma. Fue mecenas de Miguel Ángel y Copérnico le dedicó su tratado."
+    },
+    {
+     "titulo": "Poder y dinero",
+     "nivel": "hecho",
+     "texto": "Buscó la paz entre Carlos V y Francisco I, apoyó una Liga Santa contra los otomanos y convocó Trento en 1545. Su nepotismo engrandeció a su familia, con hijos legitimados antes de su pontificado; nuevos impuestos provocaron en 1540 la Guerra de la Sal, que sometió a Perugia."
+    },
+    {
+     "titulo": "Órdenes y tribunales",
+     "nivel": "hecho",
+     "texto": "Aprobó la Compañía de Jesús en 1540 y las ursulinas en 1544."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo sitúa en la nobleza negra y recoge que los Farnese habrían generado a los jesuitas; Rubén Avilés ve en la Compañía una orden militar creada por ellos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La aprobación consta; la fundación fue de Loyola y sus compañeros. La nobleza negra como grupo es un nombre posterior a 1870."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -84875,6 +85266,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pablo V",
       "url": "https://es.wikipedia.org/wiki/Pablo_V",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Paul V",
+      "url": "https://en.wikipedia.org/wiki/Pope_Paul_V",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -84893,6 +85289,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Camillo Borghese (Roma, 1552-1621), de familia sienesa, doctor en derecho en Padua, legado ante Felipe II y cardenal desde 1596. Papa de 1605 a 1621."
+    },
+    {
+     "titulo": "Venecia",
+     "nivel": "hecho",
+     "texto": "Defensor de la jurisdicción eclesiástica, chocó con Venecia por leyes que prohibían traspasar inmuebles al clero, entre otras, y lanzó el entredicho en 1606."
+    },
+    {
+     "titulo": "Pontificado",
+     "nivel": "hecho",
+     "texto": "Beatificó a Teresa, Loyola, Neri, Javier e Isidro y se fundaron en su tiempo institutos de enseñanza y caridad."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La disputa con Venecia tenía en el centro los bienes raíces del clero."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés dice que fundó el Banco del Santo Spirito en 1605 para su familia y ve en su nombre en San Pedro el sello Borghese; Jorge Guerra recuerda el papa y los cuatro cardenales de la casa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El beneficio familiar del banco no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
