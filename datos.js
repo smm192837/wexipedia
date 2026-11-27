@@ -1009,7 +1009,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: la fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». La cifra de 1830 no la he contrastado. Época y lugar: Rusia, en el imperio de Pedro I (hasta 1725).",
+    "resumen": "Qué es: la fundación de una academia en Rusia en el siglo XVIII, con plantilla en gran parte alemana; un autor la fecha en 1720 y la versión oficial en 1724. La Academia de Ciencias de San Petersburgo se fundó por decreto de Pedro I en 1724 (decreto del Senado de 8-2-1724), no en 1720. Sus primeros miembros fueron en gran parte alemanes y suizos (Bernoulli, Goldbach, Müller), y en el siglo XIX se la llegó a llamar «institución alemana». En las fuentes consultadas no consta que la plantilla fuera casi toda alemana hasta 1830. Época y lugar: Rusia, en el imperio de Pedro I (hasta 1725).",
     "fuentes": [
      {
       "titulo": "Dartmouth: The St. Petersburg Academy",
@@ -5493,7 +5493,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Qué es: el destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo. Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado; la parte de Antonio Toledo y el duque de Alba no la he contrastado. Época y lugar: Sevilla (España), en la Edad Moderna (siglo XVI).",
+    "resumen": "Qué es: el destino de la biblioteca de Hernando Colón, hijo de Cristóbal Colón, que la dejó a la catedral de Sevilla y de la que han llegado muchos menos libros de los que tuvo. Hernando Colón murió el 12 de julio de 1539 y dejó su biblioteca por testamento al cabildo de la catedral de Sevilla. Tras su muerte los libros estuvieron en el convento de San Pablo y hubo disputas legales durante décadas hasta que quedaron en la catedral. La versión académica habla de litigios, no de un expolio planeado. Los libros se llevaron en 1544 al convento dominico de San Pablo, de donde el cabildo catedralicio los recogió ocho años después haciendo valer sus derechos. En las fuentes consultadas no aparecen Antonio de Toledo ni el duque de Alba. Época y lugar: Sevilla (España), en la Edad Moderna (siglo XVI).",
     "fuentes": [
      {
       "titulo": "Klaus Wagner: Pasado, presente y futuro de la Biblioteca Colombina",
@@ -5509,6 +5509,16 @@ window.CRONO = {
       "titulo": "Hispanopedia: Biblioteca Colombina",
       "url": "https://es.hispanopedia.com/wiki/Biblioteca_Colombina",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikisource: El Archivo de Indias y la Biblioteca Colombina de Sevilla, p. 38",
+      "url": "https://es.wikisource.org/wiki/P%C3%A1gina:El_Archivo_de_Indias_y_la_Biblioteca_Colombina_de_Sevilla_-_r%C3%A1pida_rese%C3%B1a_de_sus_riquezas_bibliogr%C3%A1ficas_(IA_archivodesindias00larrrich).pdf/38",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Institución Colombina",
+      "url": "https://es.wikipedia.org/wiki/Instituci%C3%B3n_Colombina",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12702,7 +12712,7 @@ window.CRONO = {
     "hasta": 2014,
     "texto": "1997 (Blackwater) – 2014 (Constellis)"
    },
-   "resumen": "Empresa de seguridad privada estadounidense fundada por Erik Prince en 1997, renombrada varias veces y agrupada en Constellis en 2014.",
+   "resumen": "Empresa de seguridad privada estadounidense creada por Erik Prince a finales de 1996, renombrada varias veces y agrupada en Constellis en 2014.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -12714,7 +12724,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Blackwater fue una empresa militar privada fundada en 1997 por Erik Prince; en 2009 pasó a llamarse Xe Services y en 2011 Academi, y en 2014 se integró en el grupo Constellis, formado por la fusión con Triple Canopy y otras compañías. Es conocida por su actuación en Irak y por las condenas de algunos empleados. No consta que la dirigiera Tony Ressler, cofundador de Apollo, ni que actuara como ejército de la familia Massimo.",
+    "resumen": "Blackwater fue una empresa militar privada creada por Erik Prince y Al Clark, constituida el 26 de diciembre de 1996 (se suele dar 1997 como año de fundación); en 2009 pasó a llamarse Xe Services y en 2011 Academi, y en 2014 se integró en el grupo Constellis, formado por la fusión con Triple Canopy y otras compañías. Es conocida por su actuación en Irak y por las condenas de algunos empleados. No consta que la dirigiera Tony Ressler, cofundador de Apollo, ni que actuara como ejército de la familia Massimo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Blackwater Worldwide",
@@ -12768,7 +12778,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La violencia y los contratos constan. Ressler y los Massimo no aparecen en lo leído. La versión oficial da 1997 como fundación y el artículo leído, diciembre de 1996."
+     "texto": "La violencia y los contratos constan. Ressler y los Massimo no aparecen en lo leído. La constitución es de diciembre de 1996; muchas fuentes dan 1997 como fundación."
     }
    ],
    "naturaleza": "banca",
@@ -20830,7 +20840,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 6-12-1969, en el concierto gratuito de Altamont (California), Meredith Hunter, un joven asistente, murió apuñalado por un miembro de los Hells Angels (que hacían de seguridad) durante la actuación de los Rolling Stones. Britannica nombra a Alan Passaro como el miembro que lo apuñaló; el desenlace judicial no se ha comprobado aquí. No hay indicios de ritual.",
+    "resumen": "El 6-12-1969, en el concierto gratuito de Altamont (California), Meredith Hunter, un joven asistente, murió apuñalado por un miembro de los Hells Angels (que hacían de seguridad) durante la actuación de los Rolling Stones. Alan Passaro, el miembro que lo apuñaló, fue juzgado por asesinato y declarado no culpable el 19 de enero de 1971; alegó haber actuado en defensa propia, y en el juicio se vieron las imágenes del concierto. No hay indicios de ritual.",
     "fuentes": [
      {
       "titulo": "Britannica: The Altamont festival",
@@ -20846,6 +20856,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Altamont Free Concert",
       "url": "https://en.wikipedia.org/wiki/Altamont_Free_Concert",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Rolling Stone: Altamont Death: Angel Not Guilty",
+      "url": "https://www.rollingstone.com/music/music-news/altamont-death-angel-not-guilty-190196/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -20860,7 +20875,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Se celebró el 6 de diciembre de 1969 en el circuito de Altamont, con unas 300.000 personas y los Hells Angels como seguridad, según algunas versiones pagados con cerveza, lo que otros niegan. Los Grateful Dead cancelaron por la violencia. Durante la actuación de los Stones, Meredith Hunter sacó un revólver y el motero Alan Passaro lo apuñaló hasta matarlo; hubo además tres muertes accidentales. Passaro fue juzgado en 1971 y absuelto al entender el jurado, a la vista de las imágenes, que actuó en defensa propia."
+     "texto": "Se celebró el 6 de diciembre de 1969 en el circuito de Altamont, con unas 300.000 personas y los Hells Angels como seguridad, según algunas versiones pagados con cerveza, lo que otros niegan. Los Grateful Dead cancelaron por la violencia. Durante la actuación de los Stones, Meredith Hunter sacó un revólver y el motero Alan Passaro lo apuñaló hasta matarlo; hubo además tres muertes accidentales. Passaro fue declarado no culpable en enero de 1971; alegó defensa propia y el jurado vio las imágenes en las que Hunter aparece con un revólver."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -20870,7 +20885,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "No hubo disparo de un Ángel ni antes del concierto: fue un apuñalamiento durante la actuación, y los Grateful Dead no tocaron. Nada leído apoya un ritual. La versión oficial dice no haber comprobado el desenlace judicial; el artículo leído recoge la absolución."
+     "texto": "No hubo disparo de un Ángel ni antes del concierto: fue un apuñalamiento durante la actuación, y los Grateful Dead no tocaron. Nada leído apoya un ritual. La absolución la confirma la crónica de «Rolling Stone» de febrero de 1971."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -26064,7 +26079,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "El IESE lo creó el Opus Dei en Barcelona en 1958 (primer curso en noviembre) y ESADE se fundó el mismo año por un grupo de empresarios con la Compañía de Jesús; las dos fechas del autor coinciden. El resto de su cronología (Reserva Federal, Bretton Woods, ONU, Israel, Concilio Vaticano II) no la he contrastado en esta tanda; el Vaticano II se celebró en 1962-1965, no en 1959.",
+    "resumen": "El IESE lo creó el Opus Dei en Barcelona en 1958 (primer curso en noviembre) y ESADE se fundó el mismo año por un grupo de empresarios con la Compañía de Jesús; las dos fechas del autor coinciden. Del resto de su cronología, la Reserva Federal se creó en 1913, la conferencia de Bretton Woods fue en 1944, la ONU nació en 1945 e Israel en 1948; el Concilio Vaticano II se anunció en 1959, pero se celebró de 1962 a 1965.",
     "fuentes": [
      {
       "titulo": "Enciclopèdia Catalana: IESE",
@@ -26084,6 +26099,31 @@ window.CRONO = {
      {
       "titulo": "IESE Business School | enciclopedia.cat",
       "url": "https://www.enciclopedia.cat/EC-GEC-0262774",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Sistema de la Reserva Federal",
+      "url": "https://es.wikipedia.org/wiki/Sistema_de_la_Reserva_Federal",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Acuerdos de Bretton Woods",
+      "url": "https://es.wikipedia.org/wiki/Acuerdos_de_Bretton_Woods",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización de las Naciones Unidas",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Israel",
+      "url": "https://es.wikipedia.org/wiki/Israel",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Concilio Vaticano II",
+      "url": "https://es.wikipedia.org/wiki/Concilio_Vaticano_II",
       "consultado": "2026-11-27"
      }
     ]
@@ -26107,7 +26147,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Las dos fundaciones de 1958 constan; la de ESADE no se ha podido releer hoy. El Concilio se celebró de 1962 a 1965; el resto de la cronología no se ha contrastado."
+     "texto": "Las dos fundaciones de 1958 constan; la de ESADE no se ha podido releer hoy. Las fechas de 1913, 1944, 1945 y 1948 coinciden; el Concilio se anunció en 1959 y se celebró de 1962 a 1965. La relación entre esos hechos es interpretación del autor."
     }
    ],
    "vista": "economia"
@@ -34681,7 +34721,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En los años 50 trabajaron en Egipto varios exnazis como asesores militares y propagandistas, entre ellos Johann von Leers (convertido al islam como Omar Amin) y Alois Brunner. La participación de Skorzeny como asesor está documentada; que entrenara a Arafat no lo está.",
+    "resumen": "En los años 50 trabajaron en Egipto varios exnazis como asesores militares y propagandistas, entre ellos Johann von Leers (convertido al islam como Omar Amin) y Alois Brunner. La participación de Skorzeny como asesor está documentada. Que entrenara a Arafat lo afirman la Wikipedia en inglés y obras de divulgación, sin que se haya hallado un documento o estudio que lo confirme.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Johann von Leers",
@@ -34724,7 +34764,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "En 1953 Skorzeny fue a Egipto, enviado por Gehlen según el artículo, como asesor militar de Naguib, y formó un equipo de antiguos oficiales de las SS y la Wehrmacht para instruir al ejército; planeó además incursiones de árabes entrenados desde Gaza en 1953-1954, entre ellos Arafat. Johann von Leers, propagandista nazi, llegó desde Argentina, se convirtió al islam como Omar Amin y asesoró al departamento de información con Naguib y Nasser."
+     "texto": "En 1953 Skorzeny fue a Egipto, enviado por Gehlen según el artículo, como asesor militar de Naguib, y formó un equipo de antiguos oficiales de las SS y la Wehrmacht para instruir al ejército; planeó además incursiones de árabes entrenados desde Gaza en 1953-1954; según el artículo en inglés, Arafat era uno de ellos. Johann von Leers, propagandista nazi, llegó desde Argentina, se convirtió al islam como Omar Amin y asesoró al departamento de información con Naguib y Nasser."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -34734,7 +34774,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan el asesoramiento de Skorzeny y el papel de Von Leers. La versión oficial dice que el entrenamiento de Arafat no está documentado y el artículo en inglés sobre Skorzeny lo afirma: conviene contrastarlo. La cifra de miles y que Nasser fuera elegido por la CIA no aparecen en lo leído."
+     "texto": "Constan el asesoramiento de Skorzeny y el papel de Von Leers. El entrenamiento de Arafat lo repiten la Wikipedia en inglés y obras de divulgación, sin fuente primaria hallada: sigue sin comprobar. La cifra de miles y que Nasser fuera elegido por la CIA no aparecen en lo leído."
     }
    ],
    "naturaleza": "conflictos-belicos",
@@ -39980,10 +40020,10 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": {
-    "desde": 1971,
+    "desde": 1974,
     "fuente": "oficial"
    },
-   "resumen": "Sistema por el que el crudo se cotiza en dólares desde el pacto de 1971 entre EE. UU. y Arabia Saudí.",
+   "resumen": "Sistema por el que el crudo se cotiza y cobra en dólares, afianzado con los acuerdos entre EE. UU. y Arabia Saudí de 1974.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -40003,7 +40043,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El petrodólar es el sistema, vigente desde el acuerdo de 1971 entre EE. UU. y Arabia Saudí, por el que el petróleo se cotiza y liquida en dólares, lo que sostiene la demanda mundial de la moneda estadounidense.",
+    "resumen": "El petrodólar designa los dólares que cobran los países exportadores de petróleo y, por extensión, el sistema por el que el crudo se cotiza en esa moneda, lo que sostiene su demanda mundial. El petróleo ya se cotizaba en dólares antes de 1974. En junio de ese año EE. UU. y Arabia Saudí firmaron un amplio acuerdo de cooperación económica y militar que, según la radio pública estadounidense NPR, afianzó el compromiso saudí de vender en dólares e invertir sus ingresos en deuda estadounidense, aunque no consta un memorando oficial con esas promesas. El término se acuñó en los años setenta. En las fuentes consultadas no aparece ningún acuerdo de 1971.",
     "fuentes": [
      {
       "titulo": "Investopedia: Petrodollar",
@@ -40018,6 +40058,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Petrodólar",
       "url": "https://es.wikipedia.org/wiki/Petrod%C3%B3lar",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "NPR: How the petrodollar regime came to be",
+      "url": "https://www.npr.org/2026/05/06/nx-s1-5800887/how-the-petrodollar-regime-came-to-be-and-what-losing-it-would-mean-for-the-u-s",
       "consultado": "2026-11-27"
      }
     ]
@@ -40049,7 +40094,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Las fuentes leídas hoy no recogen un acuerdo en 1971 entre EE. UU. y Arabia Saudí, que sí afirma la versión oficial: hay que contrastarlo. Los críticos citados ven en el sistema una explotación de los países en desarrollo; la negociación saudí de 2023 no se ha comprobado."
+     "texto": "Las fuentes leídas no recogen un acuerdo en 1971 entre EE. UU. y Arabia Saudí; el afianzamiento documentado es el de 1974, y el petróleo ya se cotizaba en dólares antes. Los críticos citados ven en el sistema una explotación de los países en desarrollo; la negociación saudí de 2023 no se ha comprobado."
     }
    ],
    "naturaleza": "banca",
@@ -40264,7 +40309,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Richard von Coudenhove-Kalergi (1894-1972) fundó el movimiento paneuropeo y publicó «Idealismo práctico» en 1925. Los historiadores y las organizaciones antirracistas consideran el «plan Kalergi» una teoría conspirativa sin base documental y de carácter antisemita. Pendiente de contrastar con fuentes abiertas (lo hace el contrastador).",
+    "resumen": "Richard von Coudenhove-Kalergi (1894-1972) fundó el movimiento paneuropeo y publicó en 1925 «Idealismo práctico», donde predijo una futura humanidad mestiza. El llamado «plan Kalergi», difundido por la extrema derecha y en 2005 por un libro del neonazi Gerd Honsik, sostiene que tramó sustituir a los europeos blancos mediante la inmigración. El Southern Poverty Law Center, la organización antirracista Hope not Hate y el diario italiano Linkiesta lo consideran una teoría conspirativa o un bulo, de carácter racista y antisemita, apoyado en citas fuera de contexto.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Richard von Coudenhove-Kalergi",
@@ -40352,7 +40397,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Los pleitos colombinos enfrentaron a los herederos de Colón con la Corona entre 1508 y 1536 (primera sentencia en Sevilla en 1511, otra en 1520 y transacción en 1536). Identificarlos con negociaciones de 1713-1725 (Utrecht, Rastatt, La Haya, Cambrai, Viena) es tesis del autor; los tratados no los he contrastado en esta tanda.",
+    "resumen": "Los pleitos colombinos enfrentaron a los herederos de Colón con la Corona entre 1508 y 1536 (primera sentencia en Sevilla en 1511, otra en 1520 y transacción en 1536). Después hubo litigios menores, de forma esporádica, hasta finales del siglo XVIII. Identificarlos con las negociaciones de 1713-1725 (Utrecht, Rastatt, La Haya, Cambrai, Viena) es tesis del autor: en las fuentes consultadas sobre los pleitos no consta relación con esos tratados.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pleitos colombinos",
@@ -40372,6 +40417,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Pleitos colombinos",
       "url": "https://es.wikipedia.org/wiki/Pleitos_colombinos",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Pleitos colombinos",
+      "url": "https://en.wikipedia.org/wiki/Pleitos_colombinos",
       "consultado": "2026-11-27"
      }
     ]
@@ -42344,7 +42394,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Resorts International abrió su casino de Atlantic City en 1978, el primero legal de la ciudad. La empresa de seguridad Intertel se creó hacia 1970 con exfuncionarios de agencias estadounidenses; su vínculo con la CIA se ha sostenido pero no está probado de forma concluyente. Trump adquirió el control de Resorts International en 1987 y lo vendió en 1988 (de memoria: el contrastador lo comprueba). Fuentes: Resorts International abrió su casino de Atlantic City el 26-5-1978 (primer casino legal fuera de Nevada); Intertel se financió en 1970 como empresa de seguridad filial de Resorts, para mantener fuera del crimen organizado su casino de Bahamas; Mary Carter Paint, antecesora de Resorts, se considera ampliamente una tapadera de la CIA. Trump compró el control tras la muerte de James Crosby (abril de 1986): en julio de 1987 por 79 millones, y vendió a Merv Griffin en 1988. No hay respaldo en las fuentes consultadas para que Roy Cohn aconsejara la compra ni para el accionariado de David Rockefeller; la inferencia de que Trump «entró en los planes de la CIA» es del autor.",
+    "resumen": "Resorts International, antes la fabricante de pinturas Mary Carter Paint, considerada ampliamente una tapadera de la CIA, abrió el 26 de mayo de 1978 su casino de Atlantic City, el primero legal de EE. UU. fuera de Nevada. En 1970 financió Intertel, empresa de seguridad filial creada para mantener al crimen organizado fuera de su casino de las Bahamas; su vínculo con la CIA se ha sostenido, pero no está probado de forma concluyente. Tras la muerte de James Crosby en abril de 1986, Trump compró el control en julio de 1987 por 79 millones de dólares, y en 1988 la compañía pasó a Merv Griffin. En las fuentes consultadas no hay respaldo para que Roy Cohn aconsejara la compra ni para un accionariado de David Rockefeller; que Trump «entrara en los planes de la CIA» es una inferencia del autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Resorts International",
@@ -70848,10 +70898,10 @@ window.CRONO = {
    "temas": [],
    "fecha": {
     "desde": 1955,
-    "fuente": "oficial"
+    "fuente": "oficial",
+    "hasta": 2026
    },
-   "vivo": true,
-   "resumen": "Senador republicano por Carolina del Sur, halcón en política exterior y muy influyente en la guerra de 2026.",
+   "resumen": "Senador republicano por Carolina del Sur (1955–2026), halcón en política exterior y muy influyente en la guerra de 2026.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -70863,7 +70913,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Lindsey Olin Graham (Central, Carolina del Sur, 1955), político republicano estadounidense, senador por Carolina del Sur desde 2003. Antes fue representante (1995-2003) y oficial de la Fuerza Aérea.",
+    "resumen": "Lindsey Olin Graham (Central, Carolina del Sur, 9-7-1955 – 11-7-2026), político republicano estadounidense. Oficial de la Fuerza Aérea, fue representante (1995-2003) y senador por Carolina del Sur desde 2003 hasta su muerte; según el examen forense preliminar, la causa fue una disección aórtica.",
     "fuentes": [
      {
       "titulo": "Britannica: Lindsey Graham",
@@ -70883,6 +70933,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Lindsey Graham",
       "url": "https://es.wikipedia.org/wiki/Lindsey_Graham",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "NPR: Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
       "consultado": "2026-11-27"
      }
     ]
@@ -70921,7 +70976,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Su postura belicista consta; las frases concretas sobre Arabia Saudí, el petróleo y «matar a la gente correcta» no aparecen en lo buscado. La versión oficial lo sigue presentando como senador en ejercicio: según los dos artículos leídos, murió en julio de 2026."
+     "texto": "Su postura belicista consta; las frases concretas sobre Arabia Saudí, el petróleo y «matar a la gente correcta» no aparecen en lo buscado. Su muerte, el 11 de julio de 2026, la confirma NPR."
     }
    ],
    "naturaleza": "gobiernos",
@@ -71411,7 +71466,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Luc Frieden, nacido en 1963; ministro de Finanzas de Luxemburgo (2009–2013), presidente de la junta de gobernadores del FMI y el Banco Mundial en 2012 y primer ministro desde 2023. Vivo según las fuentes consultadas.",
+    "resumen": "Luc Frieden, nacido en 1963; ministro de Finanzas de Luxemburgo (2009–2013), presidente de la junta de gobernadores del FMI y el Banco Mundial en las reuniones anuales de 2013 y primer ministro desde 2023. Vivo según las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Wikipedia",
@@ -71426,6 +71481,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Luc Frieden",
       "url": "https://es.wikipedia.org/wiki/Luc_Frieden",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Bruegel: Luc Frieden",
+      "url": "https://www.bruegel.org/people/luc-frieden",
       "consultado": "2026-11-27"
      }
     ]
@@ -71457,7 +71517,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La presidencia de las juntas consta; los artículos leídos la fechan en 2013 y la versión oficial en 2012. Los Torlonia no aparecen. El ida y vuelta entre ministerio y banca privada es un hilo para seguir el dinero."
+     "texto": "La presidencia de las juntas consta; fue en 2013, como recogen los artículos leídos y su biografía en el centro de estudios Bruegel. Los Torlonia no aparecen. El ida y vuelta entre ministerio y banca privada es un hilo para seguir el dinero."
     }
    ],
    "naturaleza": "banca",
@@ -73537,7 +73597,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los Shriners son una fraternidad masónica estadounidense con sede en Tampa; usan una estética árabe (el fez), pero no tienen relación con Marruecos ni con el islam. España le ha concedido tres collares: los de las órdenes del Mérito Civil (1979), de Isabel la Católica (2000) y de Carlos III (2005), así que el autor acierta en eso. El holding real Al Mada controla grandes empresas del país. Sobre su papel en el narcotráfico o al servicio de otro país no hay versión oficial.",
+    "resumen": "Mohamed VI (Rabat, 21-8-1963), de la dinastía alauí, es rey de Marruecos desde el 23 de julio de 1999, cuando sucedió a su padre, Hasán II. Los Shriners son una fraternidad masónica estadounidense con sede en Tampa; usan una estética árabe (el fez), pero no tienen relación con Marruecos ni con el islam. España le ha concedido tres collares: los de las órdenes del Mérito Civil (1979), de Isabel la Católica (2000) y de Carlos III (2005), así que el autor acierta en eso. El holding real Al Mada controla grandes empresas del país. Sobre su papel en el narcotráfico o al servicio de otro país no hay versión oficial.",
     "fuentes": [
      {
       "titulo": "Wikipedia: List of honours of Spain awarded to heads of state and royalty (resultado de búsqueda)",
@@ -73590,7 +73650,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan las condecoraciones españolas y el peso de la casa real en Al Mada. Los Shriners, el papel de títere y el narcotráfico al servicio de otro país no aparecen en lo buscado. Las cifras de su fortuna difieren mucho entre las fuentes. La versión oficial no explica quién es: conviene rehacerla."
+     "texto": "Constan las condecoraciones españolas y el peso de la casa real en Al Mada. Los Shriners, el papel de títere y el narcotráfico al servicio de otro país no aparecen en lo buscado. Las cifras de su fortuna difieren mucho entre las fuentes."
     }
    ],
    "naturaleza": "gobiernos",
@@ -74865,7 +74925,7 @@ window.CRONO = {
     {
      "titulo": "Qué hizo",
      "nivel": "hecho",
-     "texto": "Se hizo famoso al rescatar a Mussolini en 1943 y con la operación Greif en las Ardenas. Absuelto en Dachau en 1947, se fugó de un campo de internamiento el 27 de julio de 1948 con ayuda de antiguos oficiales de las SS disfrazados de policías militares estadounidenses. Vivió en Baviera, Salzburgo y París, reclutando para la Organización Gehlen, y se instaló en la España franquista. En 1953 fue a Egipto, enviado por Gehlen, como asesor militar de Naguib y formó un equipo de antiguos oficiales de las SS y la Wehrmacht; entrenó también a voluntarios árabes y planeó sus incursiones en Israel desde Gaza en 1953-1954, entre ellos Arafat; también habría asesorado a Perón, lo que se discute. En 1962 lo reclutó el Mossad para informar sobre los científicos alemanes que trabajaban en los cohetes egipcios; se le atribuyen el asesinato de Heinz Krug y una carta bomba, aunque «Der Spiegel» puso en duda en 2018 lo de Krug."
+     "texto": "Se hizo famoso al rescatar a Mussolini en 1943 y con la operación Greif en las Ardenas. Absuelto en Dachau en 1947, se fugó de un campo de internamiento el 27 de julio de 1948 con ayuda de antiguos oficiales de las SS disfrazados de policías militares estadounidenses. Vivió en Baviera, Salzburgo y París, reclutando para la Organización Gehlen, y se instaló en la España franquista. En 1953 fue a Egipto, enviado por Gehlen, como asesor militar de Naguib y formó un equipo de antiguos oficiales de las SS y la Wehrmacht; entrenó también a voluntarios árabes y planeó sus incursiones en Israel desde Gaza en 1953-1954 (según el artículo en inglés, Arafat era uno de ellos); también habría asesorado a Perón, lo que se discute. En 1962 lo reclutó el Mossad para informar sobre los científicos alemanes que trabajaban en los cohetes egipcios; se le atribuyen el asesinato de Heinz Krug y una carta bomba, aunque «Der Spiegel» puso en duda en 2018 lo de Krug."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -74875,7 +74935,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan el reclutamiento para la Organización Gehlen, el envío a Egipto como asesor de Naguib, el entrenamiento de árabes entre ellos Arafat y el trabajo para el Mossad; Krug y la carta bomba figuran como atribuciones, con dudas. Según lo leído, la fuga la ejecutaron antiguos oficiales de las SS con uniforme estadounidense, no consta que fuera obra de la inteligencia de EE. UU. Bormann, Estrasburgo, el oro, Evita como depositaria, Suiza y Shamir no aparecen en lo buscado."
+     "texto": "Constan el reclutamiento para la Organización Gehlen, el envío a Egipto como asesor de Naguib, el entrenamiento de árabes y el trabajo para el Mossad; que Arafat estuviera entre ellos no tiene fuente primaria hallada. Krug y la carta bomba figuran como atribuciones, con dudas. Según lo leído, la fuga la ejecutaron antiguos oficiales de las SS con uniforme estadounidense, no consta que fuera obra de la inteligencia de EE. UU. Bormann, Estrasburgo, el oro, Evita como depositaria, Suiza y Shamir no aparecen en lo buscado."
     }
    ],
    "naturaleza": "conflictos-belicos",
@@ -76193,12 +76253,17 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Piotr Nikíforovich Krekshin (1684-1763) fue un escritor e historiador ruso, autor de una de las primeras biografías de Pedro I. Las fechas del autor coinciden con las del catálogo de la Biblioteca Presidencial de Rusia. No he podido abrir la obra a la que se refiere el autor sobre la historia romana.",
+    "resumen": "Piotr Nikíforovich Krekshin (1684-1763) fue un escritor e historiador ruso, autor de una de las primeras biografías de Pedro I. Las fechas del autor coinciden con las del catálogo de la Biblioteca Presidencial de Rusia. Su biografía en la Wikipedia en ruso lo presenta como funcionario de la época de Pedro I, genealogista y autor de obras sobre ese reinado y la historia rusa, entre ellas una comparación de los emperadores de Occidente y Oriente con Pedro I; no recoge una crítica suya a la versión aceptada de la historia romana ni que fuera secretario del zar.",
     "fuentes": [
      {
       "titulo": "Biblioteca Presidencial de Rusia: Krekshin P. N. (1684-1763)",
       "url": "https://prlib.ru/en/item/713211",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (ru): Крёкшин, Пётр Никифорович",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%91%D0%BA%D1%88%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%9D%D0%B8%D0%BA%D0%B8%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -82211,7 +82276,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El artículo sobre Arafat no menciona a Skorzeny, pero el artículo en inglés sobre Skorzeny sí dice que planeó incursiones de árabes entrenados desde Gaza en 1953-1954 y que uno de ellos fue Arafat. Es una sola fuente y no se ha cotejado con biografías de Arafat."
+     "texto": "El artículo sobre Arafat no menciona a Skorzeny, pero el artículo en inglés sobre Skorzeny sí dice que planeó incursiones de árabes entrenados desde Gaza en 1953-1954 y que uno de ellos fue Arafat. La búsqueda posterior solo halló obras de divulgación que lo repiten, sin documento ni estudio que lo confirme."
     }
    ],
    "naturaleza": "gobiernos",
