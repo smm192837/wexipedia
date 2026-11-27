@@ -2208,6 +2208,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Apollo Global Management",
       "url": "https://es.wikipedia.org/wiki/Apollo_Global_Management",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Apollo Global Management",
+      "url": "https://en.wikipedia.org/wiki/Apollo_Global_Management",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Apollo Global Management",
+      "url": "https://es.wikipedia.org/wiki/Apollo_Global_Management",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -2222,6 +2232,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Se creó tras el hundimiento del banco de inversión Drexel Burnham Lambert, de donde venían sus fundadores."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Leon Black, antiguo jefe de fusiones de Drexel, la fundó en 1990 con Josh Harris y Marc Rowan; Tony Ressler estuvo entre los primeros socios. Con poco crédito para compras apalancadas, se especializó en tomar el control comprando deuda en apuros. Salió a bolsa en 2011 y en 2025 gestionaba unos 840.000 millones de dólares de fondos de pensiones, dotaciones y fondos soberanos. Black dejó la dirección en 2021 al conocerse que había pagado 158 millones a Jeffrey Epstein por asesoría fiscal; le sucedió Rowan."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Black y Ressler la llamaron Apolo en honor a los Massimo, cabeza de un culto solar, y el nombre sirve de contraseña entre delincuentes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los pagos de Black a Epstein constan. La relación del nombre con los Massimo, el culto y la contraseña no aparecen en lo leído; la versión oficial lo explica por el dios griego y la sede inicial."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -3057,6 +3089,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Atentado contra el USS Cole",
       "url": "https://es.wikipedia.org/wiki/Atentado_contra_el_USS_Cole",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Atentado contra el USS Cole",
+      "url": "https://es.wikipedia.org/wiki/Atentado_contra_el_USS_Cole",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): USS Cole bombing",
+      "url": "https://en.wikipedia.org/wiki/USS_Cole_bombing",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -3067,6 +3109,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Al Qaeda había señalado objetivos militares estadounidenses; el destructor USS Cole hacía una parada para repostar en Adén (Yemen)."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 12 de octubre de 2000, poco después de las 11, una lancha cargada de explosivos se acercó a babor y estalló: murieron 17 marineros y los dos suicidas, con 39 heridos. Una fragata británica fue la primera en auxiliarlo y el buque volvió a EE. UU. sobre un barco de carga. El FBI y la investigación naval trabajaron en Yemen; en mayo de 2008 los condenados allí habían escapado o sido liberados. EE. UU. presentó cargos contra al-Nashiri, preso en Guantánamo, y sentencias civiles estadounidenses declararon responsables a Sudán y en parte a Irán."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue una falsa bandera y coincide con el cumpleaños de Crowley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La autoría de Al Qaeda es la establecida. La falsa bandera no aparece apoyada en lo leído; la coincidencia de fecha no prueba nada."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -3103,6 +3167,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Atentado del World Trade Center de 1993",
       "url": "https://es.wikipedia.org/wiki/Atentado_del_World_Trade_Center_de_1993",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Atentado del World Trade Center de 1993",
+      "url": "https://es.wikipedia.org/wiki/Atentado_del_World_Trade_Center_de_1993",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): 1993 World Trade Center bombing",
+      "url": "https://en.wikipedia.org/wiki/1993_World_Trade_Center_bombing",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -3113,6 +3187,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Un grupo de yihadistas, con Ramzi Yousef, se propuso derribar una torre del World Trade Center sobre la otra para causar una matanza; recibió dinero de Jaled Sheij Mohamed, tío de Yousef, que operaba en Afganistán."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 26 de febrero de 1993, a las 12:17, un camión con 680 kg de explosivos estalló en el aparcamiento subterráneo de la torre norte. No logró derribarla: murieron seis personas, hubo más de mil heridos y se evacuó a unas 50.000. Al principio se sospechó de Pablo Escobar. En marzo de 1994 fueron condenados cuatro implicados; Yousef huyó y fue capturado y condenado después."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el 93 es número solar de Crowley, hubo una explosión en una planta 77 y la evacuación se ordenó a las 3:30 por el 33.er comisionado de bomberos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los autores y los hechos están establecidos judicialmente. La numerología y los detalles de la planta 77 y el comisionado no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -5861,6 +5957,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: BlackRock",
       "url": "https://es.wikipedia.org/wiki/BlackRock"
+     },
+     {
+      "titulo": "Wikipedia (es): BlackRock",
+      "url": "https://es.wikipedia.org/wiki/BlackRock",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): BlackRock",
+      "url": "https://en.wikipedia.org/wiki/BlackRock",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -5880,6 +5986,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Larry Fink, Robert Kapito, Susan Wagner y otros socios la fundaron en 1988 como gestora de renta fija y riesgos para instituciones."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Creció con compras como la de State Street Research (2004) y, sobre todo, la del negocio de fondos cotizados de Barclays tras la crisis, que la hizo la mayor gestora del mundo; en 2023 gestionaba unos 9,4 billones de dólares. En 2022 anunció con Zelenski un papel en la reconstrucción de Ucrania. Un informe de la ONU de 2025 la citó entre los grandes inversores en empresas tecnológicas y militares ligadas a la guerra de Gaza."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La Reserva Federal le encargó gestionar activos de las firmas afectadas en 2008 y programas de compra de deuda en 2020, por lo que se le criticó esa cercanía; con Vanguard y State Street forma el grupo de las «tres grandes», con enormes participaciones en muchas empresas. Su software Aladdin sigue las carteras de grandes instituciones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, es de los mayores accionistas de grandes empresas y mucho mayor que países enteros. Según Jorge Guerra, es una aspiradora para facilitar un gobierno mundial y casi tiene firmada la reconstrucción de Ucrania. Según Rubén Avilés, es un gran grupo de presión que ficha a ex altos cargos y está dirigida por «agentes de la Corona»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su peso y su papel en Ucrania constan. Gestiona dinero de terceros, que no es lo mismo que poseerlo. El gobierno mundial y los agentes de la Corona son lecturas de los autores; las cifras comparativas y los fichajes citados no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -6867,6 +7000,21 @@ window.CRONO = {
       "titulo": "Fox 13 Tampa Bay: President Bush read to these students on 9/11",
       "url": "https://www.fox13news.com/news/president-bush-read-students-9-11-now-reflect-adults",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Escuela elemental Emma E. Booker",
+      "url": "https://es.wikipedia.org/wiki/Escuela_elemental_Emma_E._Booker",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Emma E. Booker Elementary School",
+      "url": "https://en.wikipedia.org/wiki/Emma_E._Booker_Elementary_School",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "https://www.fox13news.com/news/president-bush-read-students-9-11-now-reflect-adults",
+      "url": "https://www.fox13news.com/news/president-bush-read-students-9-11-now-reflect-adults",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -6881,6 +7029,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La escuela Booker, de Sarasota, lleva el nombre de una educadora negra; Bush la visitaba para promover su ley educativa."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El primer avión se estrelló unos diez minutos antes de su llegada. Mientras los alumnos leían «The Pet Goat», hacia las 9:05 el jefe de gabinete, Andrew Card, le susurró que un segundo avión había golpeado la otra torre y que el país sufría un ataque. Bush siguió un rato en el aula, hizo a las 9:30 una declaración desde la biblioteca y partió en el avión presidencial. Sus críticos, como Michael Moore, vieron indecisión."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el libro de la cabra es alegoría luciferina y la lectura un ritual presidido por Bush, con sílabas en anagrama; destaca la escuela de vuelo de Atta en Venice, su vínculo con la CIA y que Jeb Bush gobernaba Florida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La lectura infantil y la demora constan. El ritual, el anagrama y el vínculo con la CIA no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -10515,6 +10685,21 @@ window.CRONO = {
       "titulo": "swissinfo: la Comisión Bergier informa sobre el papel de Suiza en la guerra",
       "url": "https://www.swissinfo.ch/eng/bergier-commission-reports-on-swiss-wartime-role/2213576",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Comisión Bergier",
+      "url": "https://es.wikipedia.org/wiki/Comisi%C3%B3n_Bergier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Bergier commission",
+      "url": "https://en.wikipedia.org/wiki/Bergier_commission",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Bergier commission reports on Swiss wartime role - SWI swissinfo.ch",
+      "url": "https://www.swissinfo.ch/eng/bergier-commission-reports-on-swiss-wartime-role/2213576",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -10535,6 +10720,33 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "banca",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En los años noventa Suiza fue criticada por su conducta en la Segunda Guerra Mundial, y el Congreso Judío Mundial litigaba contra bancos suizos por bienes de víctimas del Holocausto."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El gobierno suizo creó la comisión de expertos el 12 de diciembre de 1996, presidida por el historiador Jean-François Bergier, con miembros como Saul Friedländer y Harold James, y le dio mandato sobre oro, divisas, bienes culturales, comercio, armamento, «arianización», sistema monetario y refugiados. Su informe final es de marzo de 2002. Criticó la política de refugiados y examinó el trabajo forzado en empresas suizas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Suiza fue el centro del comercio europeo de oro: por ella pasó el 77 % de los envíos alemanes, parte robada a particulares y a bancos centrales ocupados, sobre todo de Bélgica y Países Bajos. El franco, única divisa convertible para el Eje, servía para pagar importaciones estratégicas como volframio y petróleo; los bancos suizos prestaron a empresas de armamento alemanas y las empresas suizas salieron reforzadas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según SMiguel1, en una pista propia, conviene investigar el BPI y el oro saqueado junto con la comisión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papel de Suiza en el oro saqueado está establecido por la propia comisión. El papel concreto del BPI no aparece en los pasajes leídos y sigue abierto."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -12311,6 +12523,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Blackwater Worldwide",
       "url": "https://es.wikipedia.org/wiki/Blackwater_Worldwide",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Constellis",
+      "url": "https://es.wikipedia.org/wiki/Constellis",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Blackwater (company)",
+      "url": "https://en.wikipedia.org/wiki/Blackwater_(company)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12325,6 +12547,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Erik Prince y Al Clark la crearon el 26 de diciembre de 1996 en Carolina del Norte para dar formación a fuerzas armadas y policiales."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Creció a partir de 2002 con contratos de protección, entre ellos para la CIA, y fue símbolo de la privatización de la guerra. En 2007 sus hombres se vieron envueltos en la matanza de 17 civiles iraquíes en Bagdad; el FBI concluyó que al menos 14 fueron atacados desde sus vehículos y Irak pidió que se fuera. Pasó a llamarse Xe en 2009 y Academi en 2011, tras comprarla inversores privados, y en 2014 se integró con Triple Canopy en Constellis. Cuatro empleados condenados fueron indultados por Trump en diciembre de 2020."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Ha sido la mayor contratista privada del Departamento de Estado y obtuvo de la CIA contratos por 250 millones de dólares con Obama; en 2009 se reveló un programa encubierto de asesinatos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Tony Ressler, «caballero de los Massimo», manda el ejército privado de Constellis y trabaja con criminales del gobierno y la mafia en «banderas falsas»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La violencia y los contratos constan. Ressler y los Massimo no aparecen en lo leído. La versión oficial da 1997 como fundación y el artículo leído, diciembre de 1996."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -12925,6 +13174,11 @@ window.CRONO = {
       "titulo": "Aktywa BlackRock ustanowiły nowy rekord. Są wyższe od PKB większości państw",
       "url": "https://www.pb.pl/aktywa-blackrock-ustanowily-nowy-rekord-sa-wyzsze-od-pkb-wiekszosci-panstw-1220767",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Aktywa BlackRock ustanowiły nowy rekord. Są wyższe od PKB większości państw - Puls Biznesu - pb.pl",
+      "url": "https://www.pb.pl/aktywa-blackrock-ustanowily-nowy-rekord-sa-wyzsze-od-pkb-wiekszosci-panstw-1220767",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -12936,6 +13190,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La comparación entre el tamaño de las grandes empresas y el de los Estados es habitual desde que, entre los ochenta y los noventa, las multinacionales y los gestores de fondos crecieron con la apertura financiera."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El caso más citado es BlackRock: según el diario polaco «Puls Biznesu», al cierre del segundo trimestre de 2024 gestionaba unos 10,65 billones de dólares, una cifra solo inferior al producto interior de EE. UU. y China y más del doble que el de Japón."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, entre los ochenta y los noventa el Estado dejó de ser la mayor corporación del país: Google factura más que el dinero de varios países, y BlackRock, Vanguard y State Street pesan más que muchos Estados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cifra de activos es real, pero son activos de clientes y compararlos con un producto interior mezcla magnitudes distintas. Las afirmaciones sobre Google no se han comprobado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -15501,6 +15777,16 @@ window.CRONO = {
       "titulo": "Wikipedia — New world order (politics)",
       "url": "https://en.wikipedia.org/wiki/New_world_order_(politics)",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): New world order (politics)",
+      "url": "https://en.wikipedia.org/wiki/New_world_order_(politics)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Nuevo orden mundial",
+      "url": "https://es.wikipedia.org/wiki/Nuevo_orden_mundial",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -15515,6 +15801,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La expresión «nuevo orden mundial» ya se usó tras la Primera Guerra Mundial en torno al programa de Wilson. Al final de la Guerra Fría la recuperaron Gorbachov y Bush para nombrar la cooperación entre las potencias; con Gorbachov empezó referida al desarme y se amplió a reforzar la ONU."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 11 de septiembre de 1990, en plena crisis del Golfo, Bush pronunció ante el Congreso en sesión conjunta el discurso «Hacia un nuevo orden mundial». La prensa destacó la idea de una comunidad de Estados regida por el derecho y comparó su idealismo con el de Wilson y Roosevelt."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, que el exdirector de la CIA anunciara el nuevo orden un 11 de septiembre, once años antes de los atentados con su hijo de presidente, prueba que estaban preparados desde generaciones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha es real y la expresión era pública y anterior. La coincidencia de fechas no demuestra preparación alguna; la expresión circula además en teorías conspirativas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -21336,6 +21644,16 @@ window.CRONO = {
       "titulo": "Georgia Guidestones",
       "url": "https://en.wikipedia.org/wiki/Georgia_Guidestones",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Georgia Guidestones",
+      "url": "https://en.wikipedia.org/wiki/Georgia_Guidestones",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Piedras guía de Georgia",
+      "url": "https://es.wikipedia.org/wiki/Piedras_gu%C3%ADa_de_Georgia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21347,6 +21665,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En junio de 1979 un hombre con el seudónimo Robert C. Christian encargó el monumento a una empresa de granito de Elberton, diciendo representar a un pequeño grupo de estadounidenses creyentes, y pagó la obra y el terreno."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se inauguró en marzo de 1980: seis losas de unos seis metros y cien toneladas con diez principios en ocho idiomas sobre gobierno mundial, control de población, naturaleza y espiritualidad; el primero pedía mantener la humanidad por debajo de 500 millones. Fue polémico desde el principio, se le atribuyó satanismo y sufrió pintadas en 2008. El 6 de julio de 2022 una bomba lo dañó y las autoridades retiraron los restos el mismo día."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, lo crearon los rosacruces (autor «R. C. Christian», seudónimo de Robert C. Cook) para reducir la población."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El principio de los 500 millones consta. La lectura rosacruz del seudónimo la han propuesto autores conspirativos citados en el artículo; no es un hecho. Cook no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -30687,6 +31027,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Massimo Dutti",
       "url": "https://es.wikipedia.org/wiki/Massimo_Dutti"
+     },
+     {
+      "titulo": "Wikipedia (en): Massimo Dutti",
+      "url": "https://en.wikipedia.org/wiki/Massimo_Dutti",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Massimo Dutti",
+      "url": "https://es.wikipedia.org/wiki/Massimo_Dutti",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30697,6 +31047,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La marca nació en Barcelona como cadena de ropa de hombre; pese al nombre italiano, no corresponde a ningún diseñador."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Fundada en 1985, según la versión oficial por Armando Lasauca, Inditex compró el 65 % en 1991 y el resto en 1995, año en que lanzó la línea de mujer; en 2003 añadió la infantil. Tiene sede en Tordera, emplea a más de 10.000 personas y vende perfumes con Puig."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la creó gente ajena a Amancio Ortega, que después la compró para homenajear a la familia Massimo, a la que sirve y a la que llama jefes criminales."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La creación ajena a Ortega y la compra posterior constan. En lo leído no hay relación con la familia Massimo; la acusación no tiene respaldo."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -31187,6 +31559,11 @@ window.CRONO = {
       "titulo": "AFI Catalog: Men in Black (1997)",
       "url": "https://catalog.afi.com/Catalog/moviedetails/61055",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Men in Black (1997 film) - Wikipedia",
+      "url": "https://Www.Wikipedia.org/wiki/Men_in_Black_(1997_film)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31201,6 +31578,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los «hombres de negro» eran ya una leyenda cuando Lowell Cunningham los llevó al cómic."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La película de Barry Sonnenfeld, con guion de Ed Solomon, Will Smith y Tommy Lee Jones, se preestrenó en Hollywood el 25 de junio de 1997 y llegó a los cines el 2 de julio, distribuida por Columbia. Cuenta una agencia secreta que vigila a extraterrestres. Fue un gran éxito de crítica y taquilla, con 84,1 millones de dólares en los cinco días del 4 de julio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, que lee a Alex Fulton, fue un «entretenimiento ritual» previo al 11 de septiembre, por los 1533 días de distancia, las torres tras un parto alienígena, 237×11 segundos y enlaces con Lynch y el falo de Osiris."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los datos de la película constan. La numerología depende de las fechas y medidas que se elijan y no tiene respaldo documental."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -39766,9 +40165,36 @@ window.CRONO = {
       "titulo": "Misión de Suiza en Ginebra: acuerdos de sede (BPI, 10-2-1987)",
       "url": "https://www.mission-geneve.dfae.admin.ch/dam/en/sd-web/XcX0rhEDKn0f/OI-tabrecap_EN%20(1).pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Legal information | Bank for International Settlements",
+      "url": "https://www.bis.org/about/legal.htm?m=1%7C6",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El BPI nació en la Conferencia de La Haya sobre las reparaciones alemanas y abrió en Basilea el 17 de mayo de 1930, con una carta y estatutos que ya le daban un trato especial."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Protocolo de Bruselas de 1936, firmado por dieciséis gobiernos, trata de sus inmunidades, también sobre activos depositados en terceros. El 10 de febrero de 1987 firmó con el Consejo Federal suizo el acuerdo de sede que regula su estatuto. Tiene oficinas de representación en Hong Kong (1998) y México (2002)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, esos textos le dan protecciones de tipo diplomático (edificios inviolables, valijas sin abrir, exención fiscal, activos no embargables, inmunidad de por vida de los directivos), no publica actas, su apertura de archivos es insuficiente y ha recibido poco escrutinio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La existencia del acuerdo y del protocolo consta en la página legal del banco; el texto del acuerdo no se ha abierto, así que el detalle de los privilegios, los sueldos y el plazo de archivos quedan por cotejar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -47888,6 +48314,16 @@ window.CRONO = {
       "titulo": "Trump's Russian Laundromat (The New Republic)",
       "url": "https://ws.newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "FinCEN Fines Trump Taj Mahal Casino Resort $10 Million for Significant and Long Standing Anti-Money Laundering Violations | FinCEN.gov",
+      "url": "https://www.fincen.gov/news/news-releases/fincen-fines-trump-taj-mahal-casino-resort-10-million-significant-and-long",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "The New Republic",
+      "url": "https://ws.newrepublic.com/article/143586/trumps-russian-laundromat-trump-tower-luxury-high-rises-dirty-money-international-crime-syndicate",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -47899,6 +48335,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Trump Tower fue de los primeros rascacielos de Nueva York que admitían compradores anónimos; David Bogatin había llegado de la URSS siete años antes con tres dólares."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1984 compró cinco apartamentos a Trump, que asistió al cierre, por unos seis millones de dólares. En 1987 se declaró culpable en una trama de contrabando de gasolina con mafiosos rusos, huyó, y el gobierno confiscó los apartamentos al considerar que se compraron para blanquear y esconder dinero. En marzo de 2015 la agencia antiblanqueo del Tesoro multó al casino Trump Taj Mahal con 10 millones de dólares por infracciones deliberadas y repetidas, citadas desde 2003; el casino las admitió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Bogatin compró cinco apartamentos a Trump, confiscados por supuesto blanqueo, y el Taj Mahal recibió una multa federal por permitir blanqueo de la mafia rusa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La compra, la confiscación y la multa constan. La multa leída castiga incumplimientos de la ley antiblanqueo, no declara que blanqueara dinero de la mafia rusa. La revista que cuenta el caso advierte que no está documentado que Trump supiera de esos enredos."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -66015,6 +66473,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Jeffrey Epstein",
       "url": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Apollo Global Management",
+      "url": "https://en.wikipedia.org/wiki/Apollo_Global_Management",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -66044,7 +66507,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan los pagos de Black, con otra cifra (170 millones) en el artículo leído, y que Ghislaine era hija de Robert Maxwell; un asistente de Epstein atribuyó a este el comienzo de su fortuna. El señorío de Eppstein, Malta, la magia ritual, el acuerdo de 62,5 millones y que siga vivo no aparecen en lo buscado; las teorías sobre su muerte no tienen confirmación."
+     "texto": "Constan los pagos de Black: el artículo en español sobre Epstein da 170 millones y el inglés sobre Apollo, 158; y que Ghislaine era hija de Robert Maxwell; un asistente de Epstein atribuyó a este el comienzo de su fortuna. El señorío de Eppstein, Malta, la magia ritual, el acuerdo de 62,5 millones y que siga vivo no aparecen en lo buscado; las teorías sobre su muerte no tienen confirmación."
     }
    ],
    "naturaleza": "gobiernos",
