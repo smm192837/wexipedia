@@ -4685,6 +4685,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "Pío XII lo erigió el 27 de junio de 1942; su antecesora fue una comisión de León XIII de 1887. Tiene sede solo en el Vaticano."
+    },
+    {
+     "titulo": "Qué hace",
+     "nivel": "hecho",
+     "texto": "Custodia y administra bienes destinados a obras de religión y caridad, guarda valores, hace transferencias por bancos corresponsales y pagos para la Santa Sede, órdenes, episcopados, diócesis y misiones en más de 110 países. Lo gobiernan una comisión de cinco cardenales, un prelado y otros órganos."
+    },
+    {
+     "titulo": "Crisis y reforma",
+     "nivel": "hecho",
+     "texto": "Sufrió el impacto de la quiebra del Banco Ambrosiano y otras crisis; Benedicto XVI inició una reforma que consolidó Francisco, con cierre de cuentas irregulares."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge las tesis de los autores en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La implicación en el caso Ambrosiano y el pago a acreedores están en la versión oficial.\n\nSeguir el dinero: pendientes las sentencias y los informes de la reforma."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -6286,9 +6313,41 @@ window.CRONO = {
       "titulo": "Harvard, Núremberg: Emil Puhl",
       "url": "https://nuremberg.law.harvard.edu/documents/75-affidavit-concerning-arrangements-by?mode=text",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Bank for International Settlements",
+      "url": "https://en.wikipedia.org/wiki/Bank_for_International_Settlements",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El banco en la guerra",
+     "nivel": "hecho",
+     "texto": "El Reichsbank y los bancos centrales de países ocupados llegaron a tener el 67,4 % de las acciones con voto, y Emil Puhl, del Reichsbank, lo llamó su única verdadera sucursal exterior. El consejo no se reunía, pero las juntas anuales siguieron con votos por delegación."
+    },
+    {
+     "titulo": "La liquidación que no fue",
+     "nivel": "hecho",
+     "texto": "Bretton Woods (1944) recomendó liquidarlo. El gobierno británico suspendió la disolución y la decisión se revocó oficialmente en 1948."
+    },
+    {
+     "titulo": "Posguerra",
+     "nivel": "hecho",
+     "texto": "Tuvo que rehacer reputación y negocio: en 1946 registró pérdidas por primera vez y se centró más en Europa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en la versión oficial la cifra de directores juzgados, no confirmada."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La continuidad del banco pese a la recomendación está documentada. Es el dato central sobre quién lo sostuvo.\n\nPendiente: quién defendió la revocación y por qué."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -13626,6 +13685,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Cuarto Reich",
       "url": "https://es.wikipedia.org/wiki/Cuarto_Reich",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Fourth Reich",
+      "url": "https://en.wikipedia.org/wiki/Fourth_Reich",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -13644,6 +13708,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El término",
+     "nivel": "hecho",
+     "texto": "Es el sucesor hipotético de la Alemania nazi. «Tercer Reich» lo acuñó Moeller van den Bruck en 1923, tras el Sacro Imperio y el Imperio de 1871. «Cuarto» se usa para una supuesta supervivencia, por ejemplo en Sudamérica, o para el renacer que imaginan neonazis; también como descalificación política y por teóricos de la conspiración. Emigrantes judíos llamaron así, con ironía, a su barrio de Nueva York."
+    },
+    {
+     "titulo": "Fugitivos",
+     "nivel": "hecho",
+     "texto": "Hasta 10.000 nazis habrían escapado a Sudamérica, donde algunos grupos quisieron fundar un Cuarto Reich; según lo leído, Skorzeny facilitó el traslado de botín a Argentina."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo presenta como la forma final del proyecto de la nobleza negra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hubo redes de fugitivos y aspiraciones neonazis. En lo leído no consta ningún Estado ni organización con ese nombre que gobierne."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -19575,6 +19661,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Food and Agriculture Organization",
       "url": "https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización de las Naciones Unidas para la Alimentación y la Agricultura",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas_para_la_Alimentaci%C3%B3n_y_la_Agricultura",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -19586,6 +19677,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "A comienzos del siglo XX surgió la idea de un organismo agrario internacional; una conferencia en Roma (1905) creó el Instituto Internacional de Agricultura. En 1943 Roosevelt convocó una conferencia que abrió el camino."
+    },
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Agencia especializada de la ONU contra el hambre: foro donde los países negocian en pie de igualdad, fuente de información y apoyo a la agricultura, la pesca y los bosques. En 2013 tenía 197 miembros, incluida la Unión Europea."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera dice que buena parte de su financiación procede de donaciones voluntarias."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial confirma cuotas y aportaciones voluntarias. Que los donantes busquen contratos no se ha comprobado.\n\nPendiente al seguir el dinero: la lista de donantes y para qué se destina cada fondo."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -23796,9 +23909,41 @@ window.CRONO = {
       "titulo": "Churchill Archive: Churchill y Gandhi",
       "url": "https://www.churchillarchive.com/churchill-and-gandhi",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (en): Bengal famine of 1943",
+      "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En las provincias de Bengala y Orissa de la India británica murieron entre 800.000 y 3,8 millones de personas de hambre, malaria y otras enfermedades; muchas muertes llegaron en 1944. Millones se empobrecieron y mujeres y niños emigraron a Calcuta."
+    },
+    {
+     "titulo": "Causas",
+     "nivel": "hecho",
+     "texto": "La economía agraria arrastraba pobreza, endeudamiento y servidumbre por deudas. La inflación por la guerra hundió el salario real. Se sumaron la pérdida de arroz tras la ocupación japonesa, restricciones al comercio entre provincias y un reparto preferente a militares, industria de guerra, funcionarios y otras «clases prioritarias»."
+    },
+    {
+     "titulo": "Responsabilidad",
+     "nivel": "hecho",
+     "texto": "Se critica la mala política británica en guerra y la falta de atención sanitaria, y a Churchill por sus prioridades y por negarse a desviar alimentos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha de Churchill recoge la tesis de Rubén Avilés de unos 5 millones de muertos por desviar el arroz."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las causas combinan guerra, política y estructura económica. La cifra de 5 millones queda por encima del rango leído.\n\nEl reparto preferente es un mecanismo concreto de quién comió y quién no."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -27235,6 +27380,16 @@ window.CRONO = {
       "titulo": "CIA Reading Room: Hartl, Albert (informe de interrogatorio)",
       "url": "https://cia.gov/readingroom/docs/OSS%20-%20SSU%20-%20CIG%20EARLY%20CIA%20DOCUMENTS%20%20%20VOL.%205_0007.pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Koljós",
+      "url": "https://es.wikipedia.org/wiki/Kolj%C3%B3s",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Misiones jesuíticas en América",
+      "url": "https://es.wikipedia.org/wiki/Misiones_jesu%C3%ADticas_en_Am%C3%A9rica",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27254,6 +27409,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El koljós",
+     "nivel": "hecho",
+     "texto": "Granja colectiva soviética que sustituyó al artel, con derecho de uso y no de propiedad sobre la tierra, nacionalizada, y obligación de entregar cuotas al Estado. Las primeras surgieron tras 1917 y se promovieron también durante la NEP."
+    },
+    {
+     "titulo": "La colectivización forzosa",
+     "nivel": "hecho",
+     "texto": "Desde 1928 se impuso la integración obligatoria, con detenciones masivas, deportaciones a campos y ejecuciones; desorganizó la producción y las cuotas se volvieron muy difíciles de cumplir, con penas duras contra la «ocultación» de cosechas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» la tesis de que los koljoses copiaron las reducciones jesuíticas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído sobre el koljós no hay referencia a las reducciones. Un parecido entre formas de trabajo comunal no prueba copia.\n\nLa versión oficial dice que el informe de interrogatorio citado existe pero no se ha localizado el pasaje."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -32588,6 +32765,23 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "El contexto del autor",
+     "nivel": "hecho",
+     "texto": "H. G. Wells (1866-1946) fue escritor y crítico social de visión progresista global, izquierdista y breve miembro de la Sociedad Fabiana. Sus obras tardías fueron cada vez más políticas y didácticas. Defendió en su día ideas eugenésicas, como la «esterilización del fracaso», de las que en gran parte se había retractado hacia 1940."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo describe como plan de gobierno socialista mundial con una declaración de derechos que habría inspirado la de la ONU."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hoy solo se ha leído la biografía del autor, no el ensayo. La versión oficial recoge la propuesta de federación mundial y derechos, y que no consta que inspirara directamente la declaración de 1948.\n\nPendiente: leer el libro y las actas de redacción de la declaración."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -33384,6 +33578,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Existió una comisión internacional de navegación aérea hasta 1945."
+    },
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "El 7 de diciembre de 1944, 52 países firmaron en Chicago el Convenio de Aviación Civil Internacional, que creaba una organización provisional hasta que 26 lo ratificaran."
+    },
+    {
+     "titulo": "Funciones",
+     "nivel": "hecho",
+     "texto": "Agencia de la ONU con sede en Montreal: coordina la navegación aérea y aprueba normas sobre navegación, seguridad, fronteras e investigación de accidentes, elaboradas por una comisión técnica de 19 expertos y adoptadas por un consejo político. Es la única con autoridad entre los Estados firmantes; la IATA, en cambio, es una asociación de aerolíneas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera usa los códigos del billete para decir que regula los aeropuertos mundiales junto con la IATA."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La autoridad normativa deriva de un convenio que firman los Estados. La IATA es privada y distinta."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34190,6 +34411,11 @@ window.CRONO = {
       "titulo": "Operation Barbarossa",
       "url": "https://www.britannica.com/event/Operation-Barbarossa",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Operación Barbarroja",
+      "url": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Barbarroja",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34209,6 +34435,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Preparación",
+     "nivel": "hecho",
+     "texto": "Alemania y la URSS habían firmado pactos políticos y económicos. Tras la ocupación soviética de Besarabia y Bucovina, el mando alemán empezó a planificar en julio de 1940 y Hitler autorizó el plan el 18 de diciembre."
+    },
+    {
+     "titulo": "Objetivos",
+     "nivel": "hecho",
+     "texto": "Conquistar la URSS occidental para repoblarla con alemanes: el plan general del Este preveía trabajo esclavo, petróleo del Cáucaso y trigo de Ucrania, y exterminio, esclavización y deportación de pueblos eslavos."
+    },
+    {
+     "titulo": "Desarrollo y balance",
+     "nivel": "hecho",
+     "texto": "Empezó el 22 de junio de 1941 con unos tres millones de soldados en un frente de más de 2.900 km, la mayor invasión hasta entonces. Logró victorias y ocupó zonas económicas clave, pero fracasó, lo que selló la suerte del Reich. Los escuadrones nazis y colaboradores asesinaron a más de un millón de judíos soviéticos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra comenta el fin del entendimiento de 1939; el detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los motivos económicos y raciales están documentados."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -36917,6 +37170,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Villa Farnese",
       "url": "https://es.wikipedia.org/wiki/Villa_Farnese",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): The Pentagon",
+      "url": "https://en.wikipedia.org/wiki/The_Pentagon",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36933,6 +37191,33 @@ window.CRONO = {
      "atribuida_a": "Eliphas Lévi",
      "verificacion": "sin-comprobar",
      "fuente": "Pendiente: obra no dicha en el vídeo (E55)"
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Construcción",
+     "nivel": "hecho",
+     "texto": "Sede del Departamento de Defensa, en Arlington. Lo diseñó George Bergstrom y lo construyó John McShain; las obras empezaron el 11 de septiembre de 1941 y se inauguró el 15 de enero de 1943. El general Somervell impulsó su aprobación y el coronel Leslie Groves supervisó la obra."
+    },
+    {
+     "titulo": "La forma",
+     "nivel": "hecho",
+     "texto": "El primer solar previsto, Arlington Farms, tenía un contorno aproximadamente pentagonal; Roosevelt cambió el emplazamiento para no tapar las vistas y mantuvo la forma porque le gustaba y rediseñar habría costado."
+    },
+    {
+     "titulo": "Datos y 2001",
+     "nivel": "hecho",
+     "texto": "Es el segundo mayor edificio de oficinas del mundo, con unos 23.000 empleados. El 11 de septiembre de 2001 un avión secuestrado por Al Qaeda se estrelló contra su lado oeste: 184 víctimas además de los cinco secuestradores."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano afirma que se basa en la Villa Farnese de Caprarola y hace otras afirmaciones sobre el impacto de 2001."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La forma tiene una explicación documentada en el solar. La villa es pentagonal, como dice la versión oficial, pero un parecido no prueba que sirviera de modelo."
     }
    ],
    "naturaleza": "conflictos-belicos",
