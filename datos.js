@@ -42748,7 +42748,7 @@ window.CRONO = {
    "detalle": [
     {
      "titulo": "La leyenda",
-     "nivel": "tesis",
+     "nivel": "hecho",
      "texto": "La orden se ha presentado como creación de Constantino tras el Puente Milvio (312) o del emperador Isaac Ángelo en 1190."
     },
     {
@@ -78416,7 +78416,7 @@ window.CRONO = {
     },
     {
      "titulo": "Seguir el dinero",
-     "nivel": "tesis",
+     "nivel": "hipotesis",
      "texto": "Se ha alegado ampliamente que el banco vaticano financió en secreto a Solidaridad."
     },
     {
@@ -82104,7 +82104,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La protección de príncipes alemanes consta en la historia general; una maniobra veneciana no aparece en lo leído."
+     "texto": "Una maniobra veneciana para dirigirlo no aparece en lo leído."
     }
    ],
    "naturaleza": "tratados-y-escritos",
@@ -97446,7 +97446,7 @@ window.CRONO = {
     },
     {
      "titulo": "Seguir el dinero",
-     "nivel": "tesis",
+     "nivel": "hecho",
      "texto": "Según el mito, inventó el dinero y fue el primero en acuñar moneda, y el as lleva su efigie; también se le atribuyen la navegación y la agricultura."
     },
     {
