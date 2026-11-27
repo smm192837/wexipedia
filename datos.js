@@ -7502,12 +7502,39 @@ window.CRONO = {
       "titulo": "American citizens with honorary British knighthoods and damehoods",
       "url": "https://www.thegazette.co.uk/all-notices/content/103441",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Order of the British Empire",
+      "url": "https://en.wikipedia.org/wiki/Order_of_the_British_Empire",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "La orden",
+     "nivel": "hecho",
+     "texto": "Jorge V creó la Orden del Imperio Británico el 4 de junio de 1917 para premiar servicios al imperio, de hombres y mujeres, dentro y fuera del Reino Unido, y llenar huecos del sistema de honores."
+    },
+    {
+     "titulo": "Los nombramientos honorarios",
+     "nivel": "hecho",
+     "texto": "Tiene seis clases; las dos más altas hacen caballero o dama. A ciudadanos de países cuyo jefe de Estado no es el monarca británico se les dan nombramientos honorarios, que permiten usar las siglas pero no el tratamiento de «Sir» o «Dame», y no cuentan en los cupos de la orden. Si después adquieren la ciudadanía de un reino de la Mancomunidad pueden convertirlo en efectivo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los caballeros honorarios, como Gates, Kissinger, Greenspan, Bloomberg, Reagan o Weinstein, son agentes leales a la casa de Windsor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El carácter honorífico y sus límites constan. En los pasajes buscados no aparecen esos nombres ni un compromiso de lealtad."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -30285,6 +30312,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Orden Constantiniana de San Jorge",
       "url": "https://es.wikipedia.org/wiki/Orden_Constantiniana_de_San_Jorge",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Sagrada Orden Militar Constantiniana de San Jorge",
+      "url": "https://es.wikipedia.org/wiki/Sagrada_Orden_Militar_Constantiniana_de_San_Jorge",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Chigi family",
+      "url": "https://en.wikipedia.org/wiki/Chigi_family",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Guardia Suiza Pontificia",
+      "url": "https://es.wikipedia.org/wiki/Guardia_Suiza_Pontificia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30307,6 +30349,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Las órdenes",
+     "nivel": "hecho",
+     "texto": "La Orden de Malta nace de un hospital para peregrinos fundado en Jerusalén en 1048 por mercaderes de Amalfi; desde su segundo gran maestre tomó además carácter militar."
+    },
+    {
+     "titulo": "Qué son",
+     "nivel": "hecho",
+     "texto": "Hoy es una orden de derecho pontificio reconocida como sujeto de derecho internacional, de vocación hospitalaria. La Constantiniana de San Jorge es una orden dinástica ligada a los Borbón-Dos Sicilias. La Guardia Suiza es el cuerpo armado del Vaticano, y los Chigi son una familia noble romana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la cúpula militar de Roma tiene tres escalones, Orden de Malta, Constantiniana y Compañía de Jesús, y los Chigi, príncipes de Farnese, supervisan a los Borbones italianos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Cada institución consta por separado. En los pasajes buscados no aparece una cadena de mando entre ellas ni autoridad de los Chigi sobre los Borbones."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
