@@ -4286,6 +4286,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Se constituyó en Santander como banco de emisión por real decreto de 15 de mayo de 1857, en el reinado de Isabel II. Los promotores fueron seis comerciantes de la ciudad (Roiz de la Parra, Abarca, Labat, Ferrer de la Vega, López-Dóriga y Gutiérrez), con un capital de cinco millones de reales de vellón. Nació ligado al comercio marítimo del puerto."
+    },
+    {
+     "titulo": "De banco local a grupo",
+     "nivel": "hecho",
+     "texto": "Emitió billetes hasta 1874, cuando la emisión quedó reservada al Banco de España; en 1875 se reconstituyó como sociedad de crédito con los mismos accionistas. Emilio Botín López lo presidió desde 1909. Absorbió el Mercantil en 1946, recibió bancos de Rumasa en 1984, compró Banesto en 1994 y se fusionó con el Central Hispano en 1999. Ana Botín lo preside desde 2014."
+    },
+    {
+     "titulo": "Sobre la fuente",
+     "nivel": "hecho",
+     "texto": "El propio artículo recoge una acusación del periódico Expansión: empleados del banco controlarían las páginas de Wikipedia de la entidad y de la familia Botín. Conviene leerlo con esa reserva."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, al crearse por real decreto de Isabel II pertenece a los Borbones; lo administran los Botín, con títulos nobiliarios dados por ellos, y habría lavado dinero de cárteles latinoamericanos, entre ellos el de Pablo Escobar.\n\nGiuseppe Nocera (voz probable) afirma que tiene un fuerte capital de la monarquía española."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Un real decreto de autorización no convierte en propietaria a la Corona: los promotores documentados son comerciantes. En lo leído no consta capital de la monarquía ni blanqueo para cárteles, y sobre eso no hay prueba en la ficha.\n\nPendientes: la composición del accionariado, los títulos de los Botín y fuentes independientes sobre las acusaciones."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -5344,6 +5371,16 @@ window.CRONO = {
       "titulo": "Treccani: Beckx, Pierre Jean",
       "url": "https://www.treccani.it/enciclopedia/pierre-jean-beckx_%28Enciclopedia-Italiana%29/",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Peter Jan Beckx",
+      "url": "https://en.wikipedia.org/wiki/Peter_Jan_Beckx",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Kulturkampf",
+      "url": "https://en.wikipedia.org/wiki/Kulturkampf",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -5367,6 +5404,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién era Beckx",
+     "nivel": "hecho",
+     "texto": "Peter Jan Beckx (1795-1887), jesuita belga de familia pobre, fue capellán de los duques de Anhalt-Köthen, pasó años en Viena y era provincial de Austria cuando la congregación general lo eligió superior de la Compañía el 2 de julio de 1853, con 27 de 51 votos. Gobernó años de expulsiones: España, Nápoles y Sicilia, Alemania, Francia y Roma, desde donde trasladó la curia a Fiesole."
+    },
+    {
+     "titulo": "Bismarck contra la Iglesia y los socialistas",
+     "nivel": "hecho",
+     "texto": "De 1871 a 1876 el parlamento prusiano y el Reichstag, de mayoría liberal, aprobaron 22 leyes dentro del Kulturkampf, sobre todo contra el clero. La ley del 4 de julio de 1872 prohibió a los jesuitas, vistos como emisarios de Roma y punta de lanza del ultramontanismo.\n\nDespués Bismarck volvió su atención hacia el crecimiento de los socialistas, rompió con los liberales para sacar sus leyes antisocialistas y los aranceles, y se acercó a la Iglesia tras la muerte de Pío IX en 1878. La paz de 1887 readmitió las órdenes, menos la jesuita."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Bismarck dijo en su diario que Marx estaba bajo el control de Beckx y Marx lo comentó sin negarlo; añade que en la Gaceta del Norte de Alemania Bismarck decía estar «en liga» con Beckx y mantener el movimiento socialista en un estado en que no se podía hacer nada con él."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no hay ninguna declaración así ni relación entre Marx y Beckx. Consta que Bismarck combatió primero a la Iglesia y a los jesuitas y después a los socialistas.\n\nPendientes: localizar el pasaje del diario y el número de la Gaceta que cita el autor; sin ellos no se puede comprobar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -16233,7 +16292,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La relación entre la derrota y la reforma consta. La crítica de adoctrinamiento existe también fuera del autor. Pero la escuela obligatoria era anterior a Napoleón y la reforma de Humboldt se declaraba contraria a formar solo para obedecer.\n\nEn lo leído no aparece nada sobre jesuitas ni sobre el vitalismo; no se ha comprobado la cifra de los ejércitos en Jena."
+     "texto": "La relación entre la derrota y la reforma consta. La crítica de adoctrinamiento existe también fuera del autor. Pero la escuela obligatoria era anterior a Napoleón, la reforma de Humboldt se planteó como formación general con libertad académica y Fichte pedía alumnos capaces de usar su propia cabeza.\n\nEn lo leído no aparece nada sobre jesuitas ni sobre el vitalismo; no se ha comprobado la cifra de los ejércitos en Jena."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -25797,6 +25856,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Joven Italia",
       "url": "https://es.wikipedia.org/wiki/Joven_Italia",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Young Italy",
+      "url": "https://en.wikipedia.org/wiki/Young_Italy",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Giovine Italia",
+      "url": "https://it.wikipedia.org/wiki/Giovine_Italia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25820,6 +25889,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Mazzini, exiliado tras ser procesado en Piamonte por pertenecer a la Carbonería, escribió en junio de 1831 al rey Carlos Alberto pidiéndole que unificara Italia. Sin respuesta, fundó la Giovine Italia en Marsella en julio de 1831.\n\nSacaba lecciones del fracaso carbonario: programas contradictorios, falta de coordinación y confianza en príncipes o en la ayuda francesa. Buscaba una república italiana unida mediante la insurrección popular. Sus miembros usaban apodos medievales y prestaban juramento."
+    },
+    {
+     "titulo": "Auge y fracasos",
+     "nivel": "hecho",
+     "texto": "Reunió unos 60.000 miembros hacia 1833. El complot de ese año en Saboya y Piamonte se descubrió antes de empezar y hubo detenciones y ejecuciones, entre las víctimas Jacopo Ruffini. En febrero de 1834 fracasó la expedición de Saboya y el movimiento desapareció unos años; reapareció en Inglaterra en 1838. Mazzini lo disolvió en 1848 para crear otras organizaciones.\n\nGaribaldi se unió hacia 1833 y tuvo que huir condenado a muerte."
+    },
+    {
+     "titulo": "La red europea",
+     "nivel": "hecho",
+     "texto": "Se integró en la Joven Europa, junto con asociaciones como la Joven Alemania, la Joven Polonia o la Joven Suiza. La versión inglesa fecha la Joven Europa en 1835, no en 1834, y cita además a la Joven Bosnia serbobosnia, de comienzos del siglo XX, como inspirada en el modelo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Mazzini organizó células con el nombre de Joven Italia y el modelo se copió en media Europa, siempre con el apelativo «Joven»; presenta a la «Joven Serbia» del atentado de Sarajevo como uno de sus grupos revolucionarios."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La difusión del modelo consta. Sobre Bosnia, lo leído habla de inspiración, no de una rama de la organización de Mazzini, fallecido décadas antes del atentado de 1914.\n\nPendiente: la fecha de fundación de la Joven Europa, que no coincide entre lo leído y la versión oficial de esta ficha."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -25855,6 +25951,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Historia de los judíos en Italia",
       "url": "https://es.wikipedia.org/wiki/Historia_de_los_jud%C3%ADos_en_Italia",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): History of the Jews in Italy",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Italy",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Storia degli ebrei in Italia",
+      "url": "https://it.wikipedia.org/wiki/Storia_degli_ebrei_in_Italia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25870,6 +25976,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De Napoleón a la Restauración",
+     "nivel": "hecho",
+     "texto": "La política religiosa de Napoleón emancipó a los judíos de Italia y quebró el poder de los papas. La restauración devolvió parte de las antiguas restricciones."
+    },
+    {
+     "titulo": "1848-1870",
+     "nivel": "hecho",
+     "texto": "La revolución de 1848 les trajo grandes ventajas y, aunque los Estados Pontificios se restauraron a comienzos de 1849, las persecuciones del pasado habían desaparecido en buena parte. El último gran atropello fue el caso de Edgardo Mortara, en Bolonia, en 1858.\n\nEn 1859 la mayor parte de los Estados Pontificios pasó al reino de Víctor Manuel II; en Roma y sus alrededores la opresión duró hasta el fin del poder papal, el 20 de septiembre de 1870. La versión inglesa recoge que los judíos apoyaron con fervor el Risorgimento y se identificaban como nacionalistas italianos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, pese a ser una minoría muy reducida fueron quienes más empujaron la unificación, porque fuera del Piamonte los Estados católicos les negaban sitio; reconoce que estaban divididos entre la república de Mazzini y la monarquía de Saboya, y se pregunta si pesó más la hostilidad al catolicismo o la discriminación sufrida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el apoyo al Risorgimento y la mejora de su situación con él, lo que da un motivo suficiente sin necesidad de suponer enemistad religiosa. En lo leído no hay nada que permita decir que fueron el grupo que más empujó.\n\nPendiente: cifras de participación comparadas con otros grupos."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -27877,6 +28005,16 @@ window.CRONO = {
       "titulo": "Online Books Page (Penn): Clinton Roosevelt",
       "url": "https://onlinebooks.library.upenn.edu/webbin/who/Roosevelt%2c%20Clinton%2c%201804%2d1898",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): The Communist Manifesto",
+      "url": "https://en.wikipedia.org/wiki/The_Communist_Manifesto",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Karl Marx",
+      "url": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27896,6 +28034,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El encargo",
+     "nivel": "hecho",
+     "texto": "En la primavera de 1847 Marx y Engels entraron en la Liga de los Justos, que pasó a ser la Liga de los Comunistas. En su primer congreso, en junio, se encargó a Engels un credo; redactó un borrador de preguntas y respuestas. En noviembre propuso a Marx cambiarlo por un manifiesto que contara algo de historia, y el segundo congreso, en Londres, debatió el programa durante diez días."
+    },
+    {
+     "titulo": "La redacción",
+     "nivel": "hecho",
+     "texto": "Marx, de vuelta en Bruselas, lo fue retrasando entre conferencias y artículos, hasta que la Liga le puso un plazo. Se escribió en seis o siete semanas; Engels figura como coautor, pero la versión final es de Marx."
+    },
+    {
+     "titulo": "La publicación",
+     "nivel": "hecho",
+     "texto": "Salió a finales de febrero de 1848, en alemán, 23 páginas, publicado sin nombre de autor por la Asociación Educativa de Obreros Comunistas, en Londres. Anunciaba ediciones en varias lenguas; ese año hubo traducciones polaca, danesa y sueca, y la inglesa llegó en 1850. Coincidió con las revoluciones de 1848."
+    },
+    {
+     "titulo": "Dos datos que no casan con la versión oficial de la ficha",
+     "nivel": "hecho",
+     "texto": "La versión oficial dice que se publicó firmado por Marx y Engels; lo leído dice que la primera edición fue anónima. Sitúa además la llegada de Marx a Londres el 24 de agosto de 1849, y el artículo sobre Marx habla de comienzos de junio de ese año."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el Manifiesto nace en 1848 «supuestamente» escrito por Marx, tras precedentes católicos, y se sospecha que Marx tomó mucho de un tratado de 1841 de Clinton Roosevelt, hallado en el Museo Británico «por indicaciones»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El proceso documentado, con borradores de Engels y encargo de la Liga, explica de dónde sale el texto. En lo leído no aparece Clinton Roosevelt, y Marx redactó en Bruselas, no en Londres.\n\nPendiente: comparar los dos textos."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -28119,6 +28289,16 @@ window.CRONO = {
       "titulo": "Mental Floss: facts about Karl Marx",
       "url": "https://www.mentalfloss.com/history/government-politics/facts-about-karl-marx",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Karl Marx",
+      "url": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Friedrich-Wilhelm-Gymnasium (Trier)",
+      "url": "https://de.wikipedia.org/wiki/Friedrich-Wilhelm-Gymnasium_(Trier)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28134,6 +28314,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La escuela",
+     "nivel": "hecho",
+     "texto": "El instituto se fundó en 1561 como colegio jesuita (Collegium Trinitas) y los jesuitas lo llevaron hasta la supresión de la orden en 1773. Pasó entonces al arzobispo elector de Tréveris; con la ocupación francesa fue escuela central y colegio, y tras la caída de Napoleón, un instituto real prusiano. El nombre actual es de 1896."
+    },
+    {
+     "titulo": "Los años de Marx",
+     "nivel": "hecho",
+     "texto": "Marx, bautizado en la Iglesia luterana en 1824, estudió en casa con su padre hasta 1830, cuando entró en el instituto. El director, Hugo Wyttenbach, amigo de su padre, había contratado a muchos humanistas liberales, lo que irritaba al gobierno conservador local.\n\nEn 1832 la policía registró la escuela y halló que circulaba literatura favorable al liberalismo político; las autoridades lo consideraron sedicioso, impusieron cambios y sustituyeron a parte del profesorado. Marx terminó en 1835 y se fue a la Universidad de Bonn."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Marx fue un alumno corriente, educado en casa hasta los 12 años y, de 1830 a 1835, en el instituto de Tréveris, al que califica de alta escuela jesuita."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fechas coinciden. La escuela había sido jesuita, pero en 1830 llevaba más de medio siglo fuera de la orden y era un instituto estatal prusiano con dirección liberal.\n\nEn lo leído no consta presencia jesuita en el claustro de esos años; no se ha revisado la lista de profesores."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -35858,6 +36060,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Por qué pidió dinero el papado",
+     "nivel": "hecho",
+     "texto": "El Congreso de Viena devolvió al papa sus Estados, pero sus finanzas empeoraron en los años siguientes. Gregorio XVI fue elegido en 1831. Los Rothschild tenían crédito entre los conservadores por haber ayudado a sanear las finanzas austriacas y por sostener a los Borbones de Nápoles frente a dos revoluciones. Austria y Francia presionaron para que prestaran a Roma."
+    },
+    {
+     "titulo": "El contrato",
+     "nivel": "hecho",
+     "texto": "Hubo resistencias en el gobierno romano. Alessandro Torlonia, por la Santa Sede, negoció directamente con James de Rothschild y se firmó el 30 de noviembre de 1831. El préstamo, de 400.000 libras, entró en vigor en 1832.\n\nJames pasó a ser banquero oficial del papado. Su hermano Carl, de la casa de Nápoles, visitó al papa en enero de 1832 y recibió una condecoración; que se le dispensara de besar los pies del papa escandalizó a críticos católicos."
+    },
+    {
+     "titulo": "Reacciones y continuidad",
+     "nivel": "hecho",
+     "texto": "El acuerdo recibió críticas duras en el mundo cristiano, casi todas centradas en que los banqueros eran judíos. La casa de Nápoles prestó a los Estados Pontificios, a Nápoles, a Parma y a Toscana. Hubo un segundo préstamo a comienzos de la década de 1850, bajo Pío IX, tras la caída de la República Romana. Otros banqueros de París intentaron competir por el negocio.\n\nLa casa de Nápoles empezó a apagarse en la década de 1830 con el cambio en la forma de emitir deuda, y la entrada de Garibaldi en Nápoles en 1860 marcó su final."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Torlonia negociaron los préstamos de los Rothschild al Vaticano desde 1832; desde entonces los Rothschild protegerían a los Torlonia, y en 2018 la Banca del Fucino volvió a trabajar con ellos.\n\nJorge Guerra recuerda que los préstamos no fueron solo de los Rothschild sino también de los Torlonia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La mediación de Torlonia en 1831 consta. En lo leído no aparece una protección de una familia sobre la otra.\n\nSobre 2018: el artículo sobre la Banca del Fucino consultado hoy para la ficha de los Torlonia menciona que un asesor llamado Rothschild buscó socio para el banco ese año; es un encargo puntual y no consta que sea la relación que describe el autor.\n\nLectura de trabajo de Nexus: al seguir el dinero, el préstamo une a los banqueros con las potencias que sostenían el orden de Viena."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -40411,6 +40640,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "William Huntington Russell y Alphonso Taft la fundaron en Yale en diciembre de 1832, tras una disputa entre sociedades de debate por los premios Phi Beta Kappa. Es la sociedad de último curso más antigua de la universidad. Desde 1879 escoge cada primavera a estudiantes destacados del curso anterior, quince al año."
+    },
+    {
+     "titulo": "Patrimonio",
+     "nivel": "hecho",
+     "texto": "La Russell Trust Association, constituida en 1856 con Russell como presidente y Daniel Coit Gilman como tesorero, guarda sus bienes, entre ellos la sede y la isla Deer. Declaró activos por unos 3,9 millones de dólares en 2016 y en 2024 el fondo era de 17 millones."
+    },
+    {
+     "titulo": "Quién entraba",
+     "nivel": "hecho",
+     "texto": "Durante gran parte de su historia fue casi exclusivamente de hombres blancos protestantes; los judíos rara vez entraban. Admitió mujeres desde 1992, tras un conflicto con los antiguos miembros. Tiene fama de formar parte de una élite de poder y es objeto de teorías de conspiración, como que es una rama de los Iluminados o que controla la CIA."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, tres generaciones de Bush fueron iniciadas; las élites reclutan «agentes de la Corona» en sociedades universitarias como esta; relaciona su símbolo con las SS y a Prescott Bush con empresas vinculadas a la Alemania nazi, y atribuye a los Russell la dirección del Tavistock y la cofundación de Yale."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no consta reclutamiento para la Corona británica ni relación del símbolo con las SS. No se ha comprobado que el fundador Russell pertenezca a la familia de los duques de Bedford.\n\nPendiente: fuentes sobre Prescott Bush y sobre el parentesco de los Russell."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
