@@ -845,6 +845,21 @@ window.CRONO = {
       "titulo": "Wikipedia: 2001: A Space Odyssey (novel), diferencias con la película",
       "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/A_Space_Odyssey.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Interpretaciones de 2001: Una odisea del espacio",
+      "url": "https://es.wikipedia.org/wiki/Interpretaciones_de_2001%3A_Una_odisea_del_espacio",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Interpretations of 2001: A Space Odyssey",
+      "url": "https://en.wikipedia.org/wiki/Interpretations_of_2001%3A_A_Space_Odyssey",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "2001: A Space Odyssey - 15 Fascinating Facts | Den of Geek",
+      "url": "https://www.denofgeek.com/movies/2001-a-space-odyssey-15-fascinating-facts",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -859,6 +874,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Kubrick trabajó cuatro años en la película con el escritor Arthur C. Clarke."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se estrenó el 2 de abril de 1968 en Washington y al día siguiente en Nueva York y Los Ángeles. Los dos la quisieron abierta a lecturas filosóficas y alegóricas, con un final sin hilo claro; Kubrick se negaba a explicarla y dijo que en el fondo trata de la búsqueda de Dios. Hay interpretaciones religiosas, nietzscheanas y alegóricas. En la película el destino es Júpiter y en la novela, Saturno."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, eligió 2001 y Júpiter porque ese día coincidía con Júpiter y Géminis y es la película que anunció el 11 de septiembre; menciona el monolito imitado junto a la Zona Cero, a Fulcanelli y un cubo rojo colocado en Manhattan el mes del estreno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La apertura a interpretaciones es de los autores, lo que no avala cualquier lectura. En lo buscado no aparecen Géminis, Fulcanelli ni relación con el 11 de septiembre; la diferencia entre Júpiter y Saturno la atribuye la versión oficial al coste de los efectos."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -1260,6 +1297,16 @@ window.CRONO = {
       "titulo": "FMI: nota de prensa 98/57 (NAB)",
       "url": "https://www.imf.org/en/News/Articles/2015/09/14/01/49/pr9857",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Group of Ten (IMF)",
+      "url": "https://en.wikipedia.org/wiki/Group_of_Ten_(IMF)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Grupo de los Diez",
+      "url": "https://es.wikipedia.org/wiki/Grupo_de_los_Diez",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1275,6 +1322,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En el sistema de Bretton Woods el Fondo Monetario Internacional necesitaba recursos adicionales para responder a las crisis de sus grandes miembros."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1962 ocho gobiernos (Bélgica, Canadá, Francia, Italia, Japón, Países Bajos, Reino Unido y EE. UU.) y los bancos centrales de Alemania y Suecia acordaron prestar al Fondo unos 6.000 millones de dólares adicionales en sus monedas: el Grupo de los Diez. Suiza se asoció en 1964 y fue miembro pleno en 1983. El mecanismo solo se activa en ciertas circunstancias y hoy queda como respaldo de los Nuevos Acuerdos de Préstamo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el G10 creó el GAB para aportar al FMI, los préstamos a América y África «son humo» que introduce corporaciones globales y deja deuda a los gobiernos, y en 1995 se amplió con el NAB: lo llama el «engaño maestro»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El acuerdo de 1962 consta. La versión oficial sitúa la entrada en vigor del NAB en 1998, no en 1995. La crítica a los préstamos es tesis del autor, sin apoyo en lo leído."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -8915,6 +8984,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Profumo affair",
       "url": "https://en.wikipedia.org/wiki/Profumo_affair",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Caso Profumo",
+      "url": "https://es.wikipedia.org/wiki/Caso_Profumo",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Profumo affair",
+      "url": "https://en.wikipedia.org/wiki/Profumo_affair",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8929,6 +9008,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "A comienzos de los sesenta John Profumo, ministro de Guerra del gobierno conservador de Macmillan y casado con la actriz Valerie Hobson, frecuentaba el círculo de la mansión de Cliveden, de lord Astor."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1961 conoció allí a Christine Keeler, de 19 años, con quien tuvo una breve relación; se publicó que ella podía haber tratado a la vez con el agregado naval soviético Yevgueni Ivanov. Profumo mintió a los Comunes y en junio de 1963 reconoció la mentira y dimitió. El osteópata Stephen Ward, que los había presentado en ese ambiente, tomó una sobredosis mortal al final del juicio en que fue declarado culpable de proxenetismo; muchos lo ven como una venganza del poder. El informe del juez Denning no halló brechas de seguridad y fue tachado de superficial. Macmillan dimitió en octubre alegando salud y los conservadores perdieron en 1964."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, es un ejemplo de las trampas de miel que atribuye a Corbally, Cohn y Hoover."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El escándalo, la dimisión y la crisis del gobierno constan. Que fuera una trampa preparada y que intervinieran Cohn o Hoover no aparece en lo leído."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -9735,6 +9836,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Club Bilderberg",
       "url": "https://es.wikipedia.org/wiki/Club_Bilderberg"
+     },
+     {
+      "titulo": "Wikipedia (es): Grupo Bilderberg",
+      "url": "https://es.wikipedia.org/wiki/Grupo_Bilderberg",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Bilderberg Meeting",
+      "url": "https://en.wikipedia.org/wiki/Bilderberg_Meeting",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9745,6 +9856,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El consejero polaco exiliado Józef Retinger, preocupado por el antiamericanismo que crecía en Europa con el Plan Marshall, propuso reunir a dirigentes europeos y norteamericanos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El príncipe Bernardo de los Países Bajos aceptó promover la idea con el belga Paul van Zeeland y el jefe de Unilever, Paul Rijkens; contactó con Walter Bedell Smith, director de la CIA, que la encargó a un asesor de Eisenhower. La primera reunión fue el 29 de mayo de 1954 en el hotel Bilderberg de Oosterbeek. Desde entonces es anual, privada y sin prensa, con unos 130 invitados de la política, la industria, las finanzas, el trabajo y la universidad; Bernardo la presidió y en 1960 Van der Beugel sucedió a Retinger."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, no es la cúpula del poder, pero allí se deciden políticas de los países de la OTAN. Según Guillermo Mas Arellano y Rubén Avilés, su fundador, Bernardo, fue de las SS. Según Giuseppe Nocera, reúne a la élite sin ser el único centro de control, un contrato en Hong Kong se habría ligado a una invitación y en 2018 asistió por primera vez el Vaticano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El carácter privado y el contacto inicial con la CIA son hechos que alimentan las dudas; que allí se decidan políticas no está demostrado y el grupo es objeto de teorías conspirativas. El aeropuerto de Hong Kong, el Vaticano y la estancia San Ramón no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -10342,6 +10475,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Zapruder film (en)",
       "url": "https://en.wikipedia.org/wiki/Zapruder_film",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Comisión Warren",
+      "url": "https://es.wikipedia.org/wiki/Comisi%C3%B3n_Warren",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Warren Commission",
+      "url": "https://en.wikipedia.org/wiki/Warren_Commission",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Zapruder film",
+      "url": "https://en.wikipedia.org/wiki/Zapruder_film",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -10362,6 +10510,28 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "gobiernos",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Kennedy fue asesinado en Dallas el 22 de noviembre de 1963 y Jack Ruby mató a Oswald dos días después ante las cámaras, lo que dejó sin juicio público al acusado."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Johnson creó la comisión el 29 de noviembre, presidida por Earl Warren, con congresistas de los dos partidos, John McCloy, antiguo presidente del Banco Mundial, y Allen Dulles, director de la CIA al que Kennedy había apartado. El informe de 888 páginas, de septiembre de 1964, concluyó que hubo tres disparos desde un sexto piso y que Oswald actuó solo. La película de Zapruder, de 8 mm, 26,6 segundos y 486 fotogramas, fue prueba central; la compró la revista «Life» y no se emitió en televisión hasta 1975. El comité de la Cámara concluyó en 1979 que el presidente fue probablemente víctima de una conspiración."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según SMiguel1, en una pista propia, el caso sigue abierto y conviene buscar fuente sobre la película, la comisión y la investigación de la Cámara de 1979."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos conclusiones oficiales, la de 1964 y la de 1979, no coinciden. La presencia de Dulles en la comisión es un dato que alimenta las dudas, pero no prueba nada por sí solo."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -11638,6 +11808,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Council of the Americas",
       "url": "https://en.wikipedia.org/wiki/Council_of_the_Americas",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): Consejo de las Américas",
+      "url": "https://es.wikipedia.org/wiki/Consejo_de_las_Am%C3%A9ricas",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Council of the Americas",
+      "url": "https://en.wikipedia.org/wiki/Council_of_the_Americas",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11653,6 +11833,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras la revolución cubana, la administración Kennedy buscó que las empresas ayudaran a contrarrestar la influencia de Castro en América Latina."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "David Rockefeller fundó en 1963, a petición del presidente, el Grupo Empresarial para América Latina, reorganizado en 1965 como Consejo para América Latina y hoy Consejo de las Américas. Promueve el libre comercio, los mercados abiertos y la democracia y reúne a empresas de banca, energía, tecnología y otros sectores."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La administración concedió garantías a las inversiones, que para 1967 costaban al gobierno cientos de millones solo en Chile; los miembros, más de doscientas grandes empresas, concentran la mayor parte de la inversión privada estadounidense en la región."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el consejo, manejado por los Rockefeller, es escala de futuros presidentes latinoamericanos; cita la reunión de Bolsonaro en 2017."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación por Rockefeller consta; que sea un instrumento de control global es tesis del autor. La visita de Bolsonaro no aparece en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -15250,6 +15457,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Dwight D. Eisenhower's farewell address",
       "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower's_farewell_address",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Discurso de despedida de Dwight D. Eisenhower",
+      "url": "https://es.wikipedia.org/wiki/Discurso_de_despedida_de_Dwight_D._Eisenhower",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Dwight D. Eisenhower's farewell address",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower's_farewell_address",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -15264,6 +15481,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Eisenhower, general y 34.º presidente (1953-1961), no podía ser reelegido; su mandato combinó expansión económica y una Guerra Fría creciente, con un gran aumento de la industria de investigación para la defensa."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Preparó el discurso desde 1959 con su hermano Milton y su redactor Malcolm Moos, a lo largo de al menos 21 borradores, y lo pronunció por televisión el 17 de enero de 1961, antes de entregar el poder a Kennedy. Advirtió contra la influencia del «complejo militar-industrial», expresión que se le atribuye, contra el gasto y el déficit, contra el dominio de la ciencia por la financiación federal y contra que la política quedara en manos de una élite científico-tecnológica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, lo denunció en un famoso discurso de 1955 dirigido al Consejo de Seguridad estadounidense, y Kennedy hizo discursos parecidos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El discurso es de 1961, no de 1955, y fue televisado a la nación; el Consejo de Seguridad estadounidense como destinatario no aparece. El fondo de la advertencia sí consta con sus palabras."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -24784,9 +25023,36 @@ window.CRONO = {
       "titulo": "Valero: Los comienzos del IESE",
       "url": "https://core.ac.uk/download/83563664.pdf",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "IESE Business School | enciclopedia.cat",
+      "url": "https://www.enciclopedia.cat/EC-GEC-0262774",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En la España de finales de los cincuenta nacen en Barcelona dos escuelas de dirección de empresas ligadas a instituciones católicas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El IESE se fundó en 1958 como escuela de posgrado de la Universidad de Navarra, con los aspectos doctrinales y espirituales confiados al Opus Dei; en 1963 lanzó, aliado con la Harvard Business School, el primer máster MBA de dos años en Europa. ESADE nació el mismo año de un grupo de empresarios con la Compañía de Jesús, según la versión oficial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la fundación de las dos escuelas forma parte de una cronología en la que el catolicismo abraza el capitalismo global, que fecha el Concilio Vaticano II en 1959."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos fundaciones de 1958 constan; la de ESADE no se ha podido releer hoy. El Concilio se celebró de 1962 a 1965; el resto de la cronología no se ha contrastado."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -25882,6 +26148,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Leonard C. Lewin",
       "url": "https://en.wikipedia.org/wiki/Leonard_C._Lewin",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): The Report from Iron Mountain",
+      "url": "https://en.wikipedia.org/wiki/The_Report_from_Iron_Mountain",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Leonard C. Lewin",
+      "url": "https://en.wikipedia.org/wiki/Leonard_C._Lewin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25900,6 +26176,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La idea nació de Victor Navasky y otros editores de la revista satírica «Monocle» al leer que la bolsa había caído por un «susto de paz»."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Leonard Lewin escribió el libro con ayuda de Galbraith y de editores de «Monocle»; Dial Press lo publicó en 1967 como no ficción. Fingía ser el informe filtrado de un grupo del gobierno que concluía que la paz mundial podría hundir a EE. UU. y que hacían falta la guerra u otra amenaza. Galbraith lo reseñó con seudónimo para darle crédito. Fue superventas y hubo quien lo tomó por auténtico; Lewin reconoció después la farsa y la reafirmó en la reedición de 1996."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el golpe de estado mundial de marzo de 2020 ya lo ansiaban en este informe, de comienzos de los años sesenta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro es de 1967 y es una sátira reconocida por su autor, así que no sirve como prueba de un plan. La relación con 2020 es tesis del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -26149,6 +26447,21 @@ window.CRONO = {
       "titulo": "Britannica: Socialist International",
       "url": "https://www.britannica.com/topic/Socialist-International-association-of-political-parties-1951",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Internacional Socialista",
+      "url": "https://es.wikipedia.org/wiki/Internacional_Socialista",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Socialist International",
+      "url": "https://en.wikipedia.org/wiki/Socialist_International",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Parties represented at the founding Congress of the Socialist International - Socialist International",
+      "url": "https://www.socialistinternational.org/congresses/i-frankfurt/parties-represented-at-the-founding-congress-of-the-socialist-international/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -26160,6 +26473,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Su raíz es la Segunda Internacional, creada en 1889, refundada en 1923 como Internacional Obrera y Socialista, disuelta en 1940 y reconstruida tras la guerra."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El congreso fundacional se celebró en Fráncfort del 30 de junio al 3 de julio de 1951, con partidos socialistas y socialdemócratas, varios de ellos en el exilio. Willy Brandt la presidió desde el congreso de Ginebra de 1976 y se abrió más a América Latina, región que antes veía como zona de influencia de EE. UU. Un cisma en 2013 dio lugar a la Alianza Progresista; hoy reúne más de un centenar de partidos y organizaciones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, muchos partidos de América Latina y Europa pertenecen a ella, tiene estatus consultivo de categoría 1 en la ONU y vínculos con regímenes como el de los Castro."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación y el estatus consultivo constan. Los lazos con tiranías son interpretación del autor; en lo leído no aparecen los Castro."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -29054,9 +29389,41 @@ window.CRONO = {
       "titulo": "Wikipedia: London Gold Pool",
       "url": "https://en.wikipedia.org/wiki/London_Gold_Pool",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): London Gold Pool",
+      "url": "https://en.wikipedia.org/wiki/London_Gold_Pool",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Markets Committee history | Bank for International Settlements",
+      "url": "https://www.bis.org/committees/mc/history",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El sistema de Bretton Woods (1944) fijó monedas convertibles y un oro a 35 dólares la onza; la presión del mercado de Londres amenazaba ese precio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 1 de noviembre de 1961, la Reserva Federal y siete bancos centrales europeos acordaron juntar reservas de oro para defender el precio, vendiendo cuando subía y comprando cuando bajaba; EE. UU. aportaba la mitad. Desde 1962 sus expertos se reunían con regularidad en el BPI, y desde 1964 se sumaron Canadá, Japón y Suecia. Funcionó seis años: la inflación estadounidense, alimentada en parte por la guerra de Vietnam, y las corridas sobre el oro y las monedas lo hundieron en marzo de 1968, tras la salida de Francia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el BPI acogió un pacto de ocho países para mantener el oro cerca de 35 dólares, hoy sustituido por el Comité de Mercado, bimestral, con 21 bancos centrales y agenda secreta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El pacto y el papel del BPI constan, y el propio BPI sitúa en esas reuniones el origen de su Comité de Mercados. La frecuencia, los miembros actuales y el secreto de la agenda no se han comprobado en lo leído."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -30516,6 +30883,16 @@ window.CRONO = {
       "titulo": "Metabunk: el despacho 1035-960 de la CIA",
       "url": "https://www.metabunk.org/posts/68081/",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Fact Check: CIA Did NOT Create Term 'Conspiracy Theorist' After JFK Assassination | Lead Stories",
+      "url": "https://leadstories.com/hoax-alert/2023/01/fact-check-cia-did-not-create-term-conspiracy-theorist-after-jfk-assassination.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Debunked: The CIA invented the term \"Conspiracy Theory\" in 1967 with memo 1035-960 | Metabunk",
+      "url": "https://www.metabunk.org/posts/68081/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30532,6 +30909,28 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "gobiernos",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El informe Warren recibió pronto críticas en libros y prensa."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La CIA emitió en 1967 el despacho interno 1035-960 sobre cómo contrarrestar a los críticos, desclasificado en 1976. Recomendaba señalar que la «charla conspirativa» parecía generada deliberadamente por propagandistas comunistas. El documento habla de teóricos de la conspiración, pero no da instrucciones de etiquetar así a nadie, y la expresión consta en prensa mucho antes, incluso en el siglo XIX."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según SMiguel1, en una pista propia, hay que investigar el memorando y el uso de la etiqueta «teoría de la conspiración» contra los críticos de la comisión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El documento y su intención de combatir las críticas son reales. Que la CIA inventara la expresión no se sostiene; que popularizara su sentido despectivo es una tesis discutida."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -33729,6 +34128,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Emergency telephone number",
       "url": "https://en.wikipedia.org/wiki/Emergency_telephone_number",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): 911 (emergency telephone number)",
+      "url": "https://en.wikipedia.org/wiki/911_(emergency_telephone_number)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): 911 (teléfono)",
+      "url": "https://es.wikipedia.org/wiki/911_(tel%C3%A9fono)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33739,6 +34148,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El primer número único de emergencias fue el 999 británico, en 1937. En EE. UU. llamar a la policía exigía contactar con la comisaría local; en 1967 una comisión presidencial recomendó un número nacional."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "AT&T anunció el 911 para sus compañías. La telefónica de Alabama se adelantó y la primera llamada se hizo en Haleyville en 1968; AT&T lo implantó el 1 de marzo en Huntington (Indiana). El despliegue tardó muchos años; Canadá lo adoptó en 1972. Hoy es uno de los códigos de tres cifras del plan de numeración norteamericano y lo usan varios países de América."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, que en 1968, año de «2001», el 911 se hiciera número de emergencias es un mensaje inconsciente: la ayuda viene del Estado que provoca el terror."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La coincidencia de año es real; el origen leído es una recomendación sobre seguridad pública, sin relación con la película. La lectura es del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -33845,6 +34276,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Organisation de l'armée secrète",
       "url": "https://es.wikipedia.org/wiki/Organisation_de_l'armée_secrète",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización del Ejército Secreto",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_del_Ej%C3%A9rcito_Secreto",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Organisation armée secrète",
+      "url": "https://en.wikipedia.org/wiki/Organisation_arm%C3%A9e_secr%C3%A8te",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33859,6 +34300,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Cuando De Gaulle se abrió a la autodeterminación de Argelia creció la oposición entre los europeos de allí, militares y grupos que ya atacaban al FLN; el referéndum del 8 de enero de 1961 aprobó esa vía."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La organización armada, de extrema derecha, se formó en Madrid a comienzos de 1961, en la España de Franco, y tras el golpe fallido de abril la dirigió el general Salan. Reunió a militares, desertores, fascistas y nostálgicos de Vichy, y también otros perfiles. Pasó de acciones selectivas a un terror indiscriminado con explosivos, en Argelia y en Europa; en marzo de 1962 llegó a colocar más de cien bombas al día. Según un historiador citado, mató a unas 2.200 personas, el 85 % musulmanas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la OAS, vinculada al MSI, se creó en Madrid en enero de 1961 contra la independencia argelina y allí se asoció con Skorzeny."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La creación en Madrid y la fecha constan; en lo leído se detiene allí a un activista italiano junto a un dirigente francés, pero Skorzeny y el vínculo con el MSI no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -34089,6 +34552,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): International Organization for Migration",
       "url": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización Internacional para las Migraciones",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Internacional_para_las_Migraciones",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): International Organization for Migration",
+      "url": "https://en.wikipedia.org/wiki/International_Organization_for_Migration",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34100,6 +34573,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Nació en el desorden migratorio de la Europa occidental tras la Segunda Guerra Mundial."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se creó en 1951 como Comité Intergubernamental Provisional para los Movimientos Migratorios de Europa, por tratado entre Estados. Con sede en Ginebra, es el principal organismo sobre migración: gestión de flujos, cooperación entre países y ayuda a migrantes, refugiados y desplazados, a menudo junto al ACNUR. Está asociada a la ONU desde 2016 y tiene más de 170 Estados miembros. Ha recibido críticas, como las de Amnistía y Human Rights Watch en 2003 por su papel en la política australiana con solicitantes de asilo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, la OIM y el ACNUR, en Ginebra, controlan lo relativo a inmigrantes y refugiados, y la OIM impulsó el Pacto de Migración de 2018."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La función de gestión es pública y responde ante los Estados; llamarla control es lectura del autor. El Pacto de 2018 no aparece en los pasajes buscados."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34698,6 +35193,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): OPEC",
       "url": "https://en.wikipedia.org/wiki/OPEC",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización de Países Exportadores de Petróleo",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_Pa%C3%ADses_Exportadores_de_Petr%C3%B3leo",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): OPEC",
+      "url": "https://en.wikipedia.org/wiki/OPEC",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34709,6 +35214,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1949 Venezuela invitó a Irán, Irak, Kuwait y Arabia Saudí a intercambiar información; el mercado lo dominaban las grandes petroleras llamadas las «Siete Hermanas»."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La conferencia de Bagdad creó la organización en septiembre de 1960 con cinco países productores, para coordinar sus políticas petroleras; la ONU la reconoció en 1962. Tuvo sede en Ginebra hasta 1965 y desde entonces en Viena. Ganó peso en los años setenta, cuando sus miembros tomaron el control del sector y de los precios."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, es uno de los cárteles energéticos situados bajo el Consejo Mundial de la Energía en la estructura de control."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La coordinación de producción entre Estados es pública. La dependencia jerárquica de otro organismo es tesis del autor y no aparece en lo leído."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34911,6 +35438,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Junio Valerio Borghese (en)",
       "url": "https://en.wikipedia.org/wiki/Junio_Valerio_Borghese",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Operación Gladio",
+      "url": "https://es.wikipedia.org/wiki/Operaci%C3%B3n_Gladio",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Junio Valerio Borghese",
+      "url": "https://en.wikipedia.org/wiki/Junio_Valerio_Borghese",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34933,6 +35470,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras la Segunda Guerra Mundial, Reino Unido y Estados Unidos decidieron crear redes clandestinas «stay-behind», con antiguos oficiales del servicio británico de operaciones especiales, para resistir tras las líneas ante una invasión soviética; primero bajo el Tratado de Bruselas y después bajo la OTAN. Gladio fue el nombre de la rama italiana, y hubo redes en otros países, incluidos neutrales como Suiza."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El primer ministro Andreotti la reveló el 24 de octubre de 1990; antiguos mandos británicos confirmaron después planes de resistencia. Italia, Bélgica y Suiza abrieron investigaciones parlamentarias, y el Parlamento Europeo concluyó que servicios secretos militares de algunos Estados estuvieron implicados en delitos graves y terrorismo, con o sin conocimiento de sus superiores. Una comisión italiana sostuvo que hombres del Estado vinculados a la inteligencia estadounidense apoyaron atentados dentro de la «estrategia de la tensión»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Angleton rescató a Borghese y la CIA lo eligió para dirigir Gladio, con dinero de fundaciones Rockefeller y Mellon, de donde saldrían la P2 y el golpe Borghese; infiltrar la izquierda y patrocinar la derecha ya se hacía en EE. UU.; a Pasolini lo mataron entre otras cosas por saber de Gladio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La red y su implicación en hechos graves constan; el alcance de la CIA y su responsabilidad en los atentados siguen en debate. El rescate de Borghese consta; que dirigiera Gladio, las fundaciones y la muerte de Pasolini por ello no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -36024,6 +36583,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Organización Mundial de Aduanas",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_Aduanas",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización Mundial de Aduanas",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_Aduanas",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): World Customs Organization",
+      "url": "https://en.wikipedia.org/wiki/World_Customs_Organization",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36035,6 +36604,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1947 trece gobiernos del comité europeo de cooperación económica acordaron estudiar una unión aduanera, origen de un consejo aduanero propio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La convención que creó el Consejo de Cooperación Aduanera entró en vigor en 1952 y su primera sesión se celebró en Bruselas el 26 de enero de 1953, con diecisiete países europeos. En 1994 pasó a llamarse Organización Mundial de Aduanas. Administra el Sistema Armonizado de clasificación de mercancías y los aspectos técnicos de los acuerdos de comercio sobre valoración y origen, y ayuda a las aduanas a cooperar y recaudar."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, la organización se adhirió en 2015 a la Agenda 2030 y es un organismo clave para el globalismo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial recoge que sus programas de apoyo a los objetivos de desarrollo sostenible son públicos; la adhesión de 2015 no aparece en los pasajes buscados. El papel de control global es tesis del autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -37892,6 +38483,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Institute of World Economy and International Relations",
       "url": "https://en.wikipedia.org/wiki/Institute_of_World_Economy_and_International_Relations",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Institute of World Economy and International Relations",
+      "url": "https://en.wikipedia.org/wiki/Institute_of_World_Economy_and_International_Relations",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37903,6 +38499,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Continúa al Instituto de Economía y Política Mundiales, que existió de 1925 a 1948."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se fundó en 1956 en Moscú, como organización sin ánimo de lucro dentro de la Academia de Ciencias. Lo dirigieron entre otros Arzumanián, Inozémtsev, Alexander Yákovlev (1983-1985) y Yevgueni Primakov (1985-1989), cuyo nombre lleva desde 2015. Investiga economía y relaciones internacionales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, es el Chatham House ruso y la primera aparición de Rusia en la estructura global."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen que cita el autor consta. La equiparación con Chatham House como instrumento de presión es suya; en el artículo leído no aparece. Que por su dirección pasaran figuras políticas de primer nivel muestra su cercanía al Estado soviético y ruso."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -49791,6 +50409,21 @@ window.CRONO = {
       "titulo": "Wikipedia: One World Trade Center",
       "url": "https://www.wikipedia.com/wiki/1_WTC",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): One World Trade Center",
+      "url": "https://es.wikipedia.org/wiki/One_World_Trade_Center",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): One World Trade Center",
+      "url": "https://en.wikipedia.org/wiki/One_World_Trade_Center",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Ground Zero - Then and Now | VOA Special Projects",
+      "url": "https://projects.voanews.com/ground-zero/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -49809,6 +50442,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El proyecto se concibió como renovación urbana para revitalizar el Bajo Manhattan, con David Rockefeller como impulsor; lo planificó la Autoridad Portuaria de Nueva York y Nueva Jersey, con el arquitecto Minoru Yamasaki."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La obra de la torre norte empezó en agosto de 1966, los primeros inquilinos entraron en 1971 y el complejo se inauguró en 1973. Larry Silverstein lo arrendó en julio de 2001; las torres fueron destruidas el 11 de septiembre. Tras años de disputas sobre seguridad, dinero y diseño, el nuevo One World Trade Center abrió el 3 de noviembre de 2014, con 1776 pies de altura, en alusión a la Declaración de Independencia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, pasaron 33 años exactos de la primera piedra a la caída, el día coincide con la conmemoración de la destrucción del templo, Bush citó Eclesiastés 9:11, las torres son pilares de Hermes o portal, la primera piedra cae 82 años después del pedestal de la Estatua de la Libertad, Silverstein era amigo de Netanyahu, el nuevo complejo cerraría un rito de renacimiento y la foto de un hombre cayendo evoca el ahorcado del tarot."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cuenta no da: de 1966 a 2001 van 35 años. La versión oficial niega que Tisha b'Av caiga el 11 de septiembre. El simbolismo del 1776 es público; las demás lecturas simbólicas son del autor y la cita de Bush y la amistad con Netanyahu no se han contrastado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -49859,6 +50514,16 @@ window.CRONO = {
       "titulo": "Wikipedia: World Wide Fund for Nature",
       "url": "https://es.wikipedia.org/wiki/World_Wide_Fund_for_Nature",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Fondo Mundial para la Naturaleza",
+      "url": "https://es.wikipedia.org/wiki/Fondo_Mundial_para_la_Naturaleza",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): World Wildlife Fund",
+      "url": "https://en.wikipedia.org/wiki/World_Wildlife_Fund",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -49882,6 +50547,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Su antecedente fue la Fundación para la Conservación, creada en 1948 como filial de la sociedad zoológica de Nueva York. La idea de un fondo para especies en peligro la propuso Victor Stolan a Julian Huxley, que lo puso en contacto con Max Nicholson."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El WWF se constituyó el 29 de abril de 1961 y abrió su primera oficina en Morges (Suiza) en septiembre, pensado para financiar a otros grupos conservacionistas; el panda lo dibujó Peter Scott. El príncipe Bernardo fue su primer presidente. Hoy es la mayor organización conservacionista, presente en más de cien países."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En 1970 Bernardo, con el duque de Edimburgo y otros, creó el fondo «1001», en el que cada uno de los 1001 miembros aportaba 10.000 dólares para financiar la administración. La organización recibe además dinero de particulares, gobiernos, el Banco Mundial y empresas, y ha sido criticada por su cercanía a grandes compañías y por la influencia de ese club, lo que niega."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, nació en 1961 por iniciativa de Julian Huxley y lo presidieron Bernardo, John Loudon y Carlos III, con Juan Carlos como presidente honorario. Según Jorge Guerra, es rama de la UICN, fundada por Huxley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan Huxley entre los impulsores y la presidencia de Bernardo. Loudon y Juan Carlos no aparecen en lo buscado, y la UICN figura como socia, no como matriz."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53296,6 +53988,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Prince Bernhard of Lippe-Biesterfeld",
       "url": "https://en.wikipedia.org/wiki/Prince_Bernhard_of_Lippe-Biesterfeld",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): World Wildlife Fund",
+      "url": "https://en.wikipedia.org/wiki/World_Wildlife_Fund",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53330,7 +54027,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan las SS, Bilderberg, la presidencia del WWF y el 1001 Club en 1970, que el artículo sobre Anton Rupert también asocia a este. El mismo príncipe negó hasta su muerte haber sido miembro del partido. La estancia San Ramón, Huxley, Loudon, Juan Carlos y la cuota de 10.000 dólares no aparecen en lo buscado."
+     "texto": "Constan las SS, Bilderberg, la presidencia del WWF y el 1001 Club en 1970, que el artículo sobre Anton Rupert también asocia a este. El mismo príncipe negó hasta su muerte haber sido miembro del partido. La cuota de 10.000 dólares por miembro consta en el artículo en inglés sobre el WWF. La estancia San Ramón, Loudon y Juan Carlos no aparecen en lo buscado."
     }
    ],
    "naturaleza": "gobiernos",
