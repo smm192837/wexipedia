@@ -18264,7 +18264,7 @@ window.CRONO = {
     {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
-     "texto": "La ficha no recoge afirmaciones de autores."
+     "texto": "Guillermo Mas Arellano la relaciona, junto con la expedición estadounidense de Byrd, con los rumores y leyendas sobre bases nazis en la Antártida. El detalle está en «Según los autores»."
     },
     {
      "titulo": "Lo que queda abierto",
@@ -28420,12 +28420,12 @@ window.CRONO = {
     {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
-     "texto": "La ficha no recoge afirmaciones de autores en este apartado."
+     "texto": "Jorge Guerra afirma que Tacchi Venturi escribió 44 cartas a favor de judíos o para señalar a Mussolini casos que debían quedar fuera de las leyes, y que la cuestión judía no preocupó al dictador durante mucho tiempo. El detalle está en «Según los autores»."
     },
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El choque entre el papa y Mussolini por el racismo aparece en lo leído, con el jesuita de intermediario.\n\nVer en la versión oficial las cartas de intercesión por casos concretos."
+     "texto": "El choque entre el papa y Mussolini por el racismo aparece en lo leído, con el jesuita de intermediario.\n\nLa versión oficial corrige la cifra: la edición de Maryks reúne 139 cartas dirigidas al jesuita por víctimas y familiares. El autor habla de cartas escritas por él, así que conviene comprobar que ambas cifras cuentan lo mismo."
     }
    ],
    "naturaleza": "gobiernos",
