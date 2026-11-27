@@ -17323,6 +17323,26 @@ window.CRONO = {
       "titulo": "ESdiario: quién está detrás de la acampada de Sol (4-10-2026)",
       "url": "https://www.esdiario.com/nacional/261004/199375/detras-acampada-sol-financiador-izquierda-internacional-mete-mano.html",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "La Moncloa. Referencia Consejo de Ministros | 05/10/2026 [Consejo de Ministros/Referencias]",
+      "url": "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2026/20261005-referencia-convocatoria-elecciones.aspx",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Publicada la disolución de las Cortes tras la convocatoria de elecciones",
+      "url": "https://elderecho.com/el-boe-publica-la-disolucion-de-las-cortes-tras-la-convocatoria-de-elecciones-generales-el-29-de-noviembre",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Podemos propone un gobierno de coalición con PSOE e IU - LegalToday",
+      "url": "https://www.legaltoday.com/?p=33100",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "¿Quién está detrás de la acampada en Sol? El financiador de la izquierda internacional mete su mano",
+      "url": "https://www.esdiario.com/nacional/261004/199375/detras-acampada-sol-financiador-izquierda-internacional-mete-mano.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17333,6 +17353,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las Cortes disueltas eran las elegidas el 23 de julio de 2023. En septiembre y octubre de 2026 hubo en Madrid protestas por la vivienda."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Real Decreto 806/2026, de 5 de octubre, publicado el 6 en el BOE, disolvió el Congreso y el Senado a propuesta del presidente del Gobierno y convocó elecciones para el domingo 29 de noviembre de 2026, con campaña del 13 al 27 y nuevas Cámaras el 23 de diciembre."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Un reportaje sobre la financiación de la acampada halló solo una conexión indirecta con el entorno de Soros: una coalición europea, que coorganizó un encuentro con el sindicato de inquilinos, financiada por una fundación que colabora con Open Society. La versión oficial no encontró transferencias directas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la convocatoria es una provocación; el Gobierno hizo arder las calles con entidades subvencionadas y el sindicato de inquilinos manipulado por Soros; toca gobierno de PP y Vox; Rufián y el entorno de Iglesias trabajarían para el Estado, y el CNI buscaría que la izquierda vote al PSOE frente a una ultraderecha casi inexistente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La convocatoria y sus fechas constan. Las intenciones atribuidas al Gobierno, a personas concretas y al CNI no tienen respaldo en las fuentes. El resultado no se conoce a la fecha de esta redacción."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -22631,6 +22678,11 @@ window.CRONO = {
       "titulo": "El Universal: cronología de la guerra (28-5-2026)",
       "url": "https://www.eluniversal.com.co/mundo/2026/05/28/cronologia-de-la-guerra-en-iran-asi-transcurrieron-los-primeros-tres-meses-del-conflicto/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Cronología de la guerra en Irán: así transcurrieron los primeros tres meses del conflicto",
+      "url": "https://www.eluniversal.com.co/mundo/2026/05/28/cronologia-de-la-guerra-en-iran-asi-transcurrieron-los-primeros-tres-meses-del-conflicto/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -22642,6 +22694,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Irán es muy inferior en aviación y marina a EE. UU. e Israel y domina la orilla norte del estrecho de Ormuz."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En la guerra abierta el 28 de febrero de 2026 respondió con misiles y drones contra Israel, los países del Golfo y bases estadounidenses, atacó barcos y bloqueó Ormuz; EE. UU. hundió buques iraníes y lanzó en mayo una operación con aviones, barcos y drones para liberar el paso. Según la versión oficial, Irán compensa su desventaja con drones baratos, misiles y minas, y sus adversarios gastan interceptores mucho más caros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Irán usa drones de 3.000 a 20.000 dólares frente a interceptores de millones y producción limitada, y unas minas en dos canales de dos millas bastan para cerrar Ormuz."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La estrategia de desgaste es coherente con lo leído. Las cifras de coste y el detalle de las minas no aparecen en la cronología consultada; la guerra seguía abierta, así que el balance puede cambiar."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -24227,6 +24301,36 @@ window.CRONO = {
      {
       "titulo": "Ámbito, 5-5-2026",
       "url": "https://www.ambito.com/iran-desafia-eeuu-la-guerra-el-estrecho-ormuz-esto-ni-siquiera-ha-empezado-n6273949"
+     },
+     {
+      "titulo": "Cronología de la guerra en Irán: así transcurrieron los primeros tres meses del conflicto",
+      "url": "https://www.eluniversal.com.co/mundo/2026/05/28/cronologia-de-la-guerra-en-iran-asi-transcurrieron-los-primeros-tres-meses-del-conflicto/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "BERNAMA - Iran Considers Limited Tanker Passage Through Strait Of Hormuz If Cargo Paid In Yuan",
+      "url": "https://bernama.com/tv/news.php?id=2534372",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Irán cobrará tasa en criptomonedas a los buques que crucen Ormuz durante la tregua",
+      "url": "https://www.larepublica.co/globoeconomia/iran-cobrara-una-tasa-en-criptomonedas-a-los-buques-que-crucen-ormuz-durante-la-tregua-4366710",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Irán asegura que pagos por tránsito en Ormuz llegan a su banco - El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/mundo/iran-asegura-pagos-transito-ormuz-llegan-banco/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): 2025–2026 Iran–United States negotiations",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Twelve-Day War",
+      "url": "https://en.wikipedia.org/wiki/Twelve-Day_War",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -24241,6 +24345,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras la guerra de doce días de junio de 2025, EE. UU. e Irán negociaban de nuevo sobre el programa nuclear sin acuerdo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 28 de febrero de 2026 ataques conjuntos de EE. UU. e Israel mataron al líder supremo Alí Jameneí y a altos cargos. Irán respondió contra Israel, el Golfo y bases estadounidenses y cerró Ormuz; el 8 de marzo fue elegido Mojtaba Jameneí. El 8 de abril empezó un alto el fuego, prorrogado y roto en parte, con conversaciones en Pakistán y después en Catar; en noviembre seguía negociándose la reapertura del estrecho."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El estrecho se volvió fuente de ingresos y de pulso monetario: en marzo Irán estudió dejar pasar petroleros si la carga se pagaba en yuanes, luego anunció peajes en criptomonedas y en abril su banco central habló de cobrarlos en metálico, sin precisar divisa. EE. UU. y el Golfo rechazan cualquier peaje."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la provocaron los Pallavicini, beneficia a China, abrirá dos bloques y el peaje en yuanes digitales amenaza al petrodólar. Guillermo Mas Arellano, con sus invitados, acusa a la prensa española de repetir la agenda estadounidense, cita a políticos de EE. UU. según los cuales Israel arrastró al país, enumera objetivos cambiantes, compara gastos militares y advierte del riesgo para las desalinizadoras del Golfo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El inicio, la muerte de Jameneí y la batalla por Ormuz constan. Los Pallavicini no aparecen en nada leído; que el peaje se cobre en yuanes digitales no está confirmado. Las citas y cifras del programa no se han comprobado. Es un conflicto en curso."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -26769,9 +26900,46 @@ window.CRONO = {
       "titulo": "Crónica: Incendio destruye el Nido del Águila (24-10-2026)",
       "url": "https://www.cronica.com.mx/mundo/2026/10/24/incendio-destruye-el-nido-del-aguila-refugio-construido-para-hitler/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Incendio destruye el ‘Nido del Águila’ de Hitler: lo que se sabe del sospechoso detenido",
+      "url": "https://www.vanguardia.com/mundo/2026/10/24/incendio-destruye-el-nido-del-aguila-antiguo-refugio-de-hitler-lo-que-se-sabe-del-sospechoso/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "A fire devastates the Eagle's Nest retreat built for Hitler in Germany. A suspect is detained",
+      "url": "https://www.news4jax.com/news/world/2026/10/24/fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-a-person-is-detained/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Incendio destruye el Nido del Águila, refugio construido para Hitler     – La Crónica de Hoy",
+      "url": "https://www.cronica.com.mx/mundo/2026/10/24/incendio-destruye-el-nido-del-aguila-refugio-construido-para-hitler/",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El Kehlsteinhaus se construyó en 1937-1938, a unos 1.834 metros en los Alpes bávaros, como refugio para Hitler, que apenas lo usó; desde 1952 era restaurante y mirador."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La noche del 23 de octubre de 2026 ardió y quedó destruido casi por completo; el difícil acceso complicó la extinción. La policía detuvo a un alemán de 33 años que bajaba en una moto sin matrícula; se apuntaron posibles trastornos psíquicos y se investigaba una posible motivación política. Baviera, propietaria, se comprometió a reconstruirlo para conservar la memoria del lugar."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el incendio, con un detenido de 33 años, es un símbolo ante 2027."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El incendio y la detención constan; el móvil estaba sin establecer. La lectura simbólica es del autor."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -30039,11 +30207,38 @@ window.CRONO = {
       "titulo": "Wikipedia: Northern League (1958)",
       "url": "https://en.wikipedia.org/wiki/Northern_League_(1958)",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Roger Pearson (anthropologist)",
+      "url": "https://en.wikipedia.org/wiki/Roger_Pearson_(anthropologist)",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En la posguerra, sectores de extrema derecha buscaron agrupar a los pueblos «nórdicos» con un lenguaje racial heredero del nazismo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Roger Pearson, antropólogo británico eugenista, fundó en 1958 la Northern League, pangermanista, antisemita y de ideología racial neonazi, con revistas como «The Northlander». La primera reunión se celebró en 1959 en Detmold, cerca de donde se creía que los germanos habían derrotado a Roma, con el teórico racial del nazismo Hans F. K. Günther entre los oradores, en un perfil discreto. Pearson la dejó en 1961 y la liga se volvió más política."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Pearson, eugenista con la gran cruz de Malta, la fundó a finales de los cincuenta y su primera reunión fue en 1959 cerca de Detmold, con Günther, «el papa de la raza»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación, la reunión y Günther constan. La condecoración de la Orden de Malta no aparece en lo leído."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -50674,6 +50869,16 @@ window.CRONO = {
       "titulo": "Who Is Ben Black? Trump Nominee Wants To Repurpose USAID Funds (Forbes)",
       "url": "https://www.forbes.com/sites/antoniopequenoiv/2025/02/26/who-is-ben-black-trump-nominee-and-son-of-billionaire-wants-to-repurpose-usaid-funds/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): U.S. International Development Finance Corporation",
+      "url": "https://en.wikipedia.org/wiki/U.S._International_Development_Finance_Corporation",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): United States Agency for International Development",
+      "url": "https://en.wikipedia.org/wiki/United_States_Agency_for_International_Development",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50685,6 +50890,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "USAID, creada en 1961 para contrarrestar la influencia soviética, fue la mayor agencia de ayuda exterior. La Corporación Financiera de Desarrollo (DFC) nació de la ley BUILD de 2018 y se formó en diciembre de 2019 fusionando dos organismos, en buena parte para responder a la inversión china."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 2025 la administración Trump recortó drásticamente USAID y el 1 de julio pasó lo que quedaba al Departamento de Estado. Benjamin Black fue nominado en junio para dirigir la DFC y confirmado el 7 de octubre. Según la versión oficial, asesores plantearon mover miles de millones del presupuesto de ayuda a esa agencia."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "A diferencia de la ayuda, la DFC puede invertir en capital de empresas: pasar dinero de una a otra cambia donaciones por inversiones. Black es hijo de Leon Black, cofundador de Apollo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, se quieren pasar miles de millones a una agencia dirigida por Ben Black y el Vaticano usaría USAID para financiar trata de personas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El nombramiento y los recortes constan. El traslado concreto de fondos no se ha confirmado en lo leído hoy. La acusación sobre el Vaticano y la trata no aparece en las fuentes y no tiene respaldo."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
