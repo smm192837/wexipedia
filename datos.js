@@ -9993,6 +9993,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El objeto",
+     "nivel": "hecho",
+     "texto": "Los Museos del Kremlin lo catalogan como «capacete de Jericó», hecho en 1621 por el maestro Nikita Davydov en los talleres de la Armería, de oro, acero damasquinado, seda, piedras preciosas y perlas, y propiedad del zar Mijaíl Fiódorovich."
+    },
+    {
+     "titulo": "La leyenda",
+     "nivel": "hecho",
+     "texto": "En el siglo XIX, en pleno auge patriótico, se empezó a atribuir a grandes héroes piezas famosas de la Armería. Este casco pasó por ser de Alejandro Nevski solo con apoyo en relatos orales; la atribución llegó a figurar en el gran escudo del Imperio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el casco lleva el versículo coránico 61:13, porque el árabe era la lengua de codificación militar del imperio, aunque los historiadores digan que los rusos lo llevaban sin entenderlo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha y la autoría de 1621 constan en el museo, siglos después de Nevski. No se ha podido leer el artículo de Military Review sobre las inscripciones árabes, ni se ha comprobado el versículo ni la tesis del idioma militar."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -13002,6 +13024,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Congregatio de Auxiliis",
       "url": "https://en.wikipedia.org/wiki/Congregatio_de_Auxiliis",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Polémica de auxiliis",
+      "url": "https://es.wikipedia.org/wiki/Pol%C3%A9mica_de_auxiliis",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -13016,6 +13043,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La disputa",
+     "nivel": "hecho",
+     "texto": "La cuestión era cómo conciliar la eficacia infalible de la gracia con la libertad humana. Los jesuitas acusaban a los dominicos de dejar poco sitio a la libertad y acercarse a Calvino; los dominicos veían inconsistencias en la doctrina jesuita. Suele fecharse el comienzo en 1581, con unas tesis del jesuita Prudencio de Montemayor atacadas por Domingo Báñez; en 1588 Luis de Molina publicó su obra."
+    },
+    {
+     "titulo": "Qué hizo la congregación",
+     "nivel": "hecho",
+     "texto": "Clemente VIII la creó para zanjar el pleito. Murió en 1605 y, tras el breve pontificado de León XI, Paulo V presidió diecisiete debates más; en total hubo decenas de sesiones, ochenta y cinco ante los papas."
+    },
+    {
+     "titulo": "Cómo acabó",
+     "nivel": "hecho",
+     "texto": "El decreto comunicado el 5 de septiembre de 1607 permitió a cada orden defender su doctrina, les prohibió censurar la contraria y les mandó esperar la decisión definitiva de Roma, que no llegó."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés cuenta que Clemente VIII, de la familia Aldobrandini, la puso en marcha para poner paz entre jesuitas y dominicos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El fin pacificador que describe el autor coincide con lo leído. La relación con el matrimonio Aldobrandini-Farnese de 1600 que recoge la ficha no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -15060,6 +15114,33 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Los manuscritos más antiguos",
+     "nivel": "hecho",
+     "texto": "Los rollos del mar Muerto, hallados por beduinos desde 1947 en cuevas próximas a Qumrán, se escribieron entre hacia 300 a. C. y el año 68, cuando los romanos destruyeron Qumrán. Son fragmentos del texto bíblico hebreo más antiguo conocido."
+    },
+    {
+     "titulo": "Del rollo al códice",
+     "nivel": "hecho",
+     "texto": "Los códices completos más antiguos, el de Alepo y el de Leningrado, los copiaron los masoretas en los siglos X y XI. El manuscrito Ashkar-Gilson, de los siglos VII-VIII, cubre parte del hueco entre unos y otros."
+    },
+    {
+     "titulo": "Cómo se fecha",
+     "nivel": "hecho",
+     "texto": "Además de la escritura, algunos manuscritos llevan colofones que dicen dónde se copiaron, quién los encargó y sus ventas o donaciones posteriores."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la Biblia se compuso hacia 1600 (año 415 de un primer calendario «juliano») como un pasado reciente que honra a Israel y rinde culto en el Templo de Salomón, que identifica con Santa Sofía, para legitimar las colonizaciones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los manuscritos conservados son muy anteriores a 1600, así que la tesis no se sostiene con ellos. Quedan abiertas, entre especialistas, las preguntas sobre cuándo y cómo se compuso cada libro, que no se resumen aquí."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -28136,6 +28217,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Historia del Concilio de Trento",
       "url": "https://en.wikipedia.org/wiki/History_of_the_Council_of_Trent"
+     },
+     {
+      "titulo": "Wikipedia (en): Paolo Sarpi",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28151,6 +28237,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo salió",
+     "nivel": "hecho",
+     "texto": "La obra se imprimió en Londres en 1619, en italiano, firmada Pietro Soave Polano, anagrama de Paolo Sarpi. La editó Marco Antonio de Dominis, luego declarado hereje. En 1620 aparecieron la traducción inglesa de Nathaniel Brent y una latina, y después francesa y alemana. Sarpi nunca reconoció ser el autor."
+    },
+    {
+     "titulo": "Qué sostiene el libro",
+     "nivel": "hecho",
+     "texto": "Era una historia no encargada por Roma, que trataba los asuntos eclesiásticos como política y miraba con hostilidad el papel de la Curia."
+    },
+    {
+     "titulo": "La respuesta",
+     "nivel": "hecho",
+     "texto": "Roma abrió sus archivos al jesuita Francesco Sforza Pallavicino para refutarla en tres volúmenes (1656-1657)."
+    },
+    {
+     "titulo": "Qué juzgaron los historiadores",
+     "nivel": "hecho",
+     "texto": "Leopold von Ranke vio parcialidad en ambos: acusó a Sarpi de deformar hechos movido por el odio y a Pallavicino de omitir documentos contrarios, aunque puso muy alta la calidad de la obra de Sarpi. Hubert Jedin, en su historia autorizada por el Vaticano (1961), también criticó el uso que Sarpi hace de las fuentes."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el Senado veneciano le encargó en 1613 una historia de la Inquisición, la del concilio fue una dura crítica al Vaticano que anunciaba la ruptura con Roma y con España, y estuvo vetada o muy restringida en países católicos hasta el siglo XX."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El juicio sobre su fiabilidad sigue dividido entre especialistas. La fecha de 1616 que da el autor no coincide con la impresión de 1619."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -29648,6 +29766,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): In eminenti apostolatus specula",
       "url": "https://es.wikipedia.org/wiki/In_eminenti_apostolatus_specula",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): In eminenti apostolatus",
+      "url": "https://en.wikipedia.org/wiki/In_eminenti_apostolatus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29660,6 +29783,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La masonería inglesa se había dividido tras 1715 en logias jacobitas y hannoverianas. En Roma había una logia jacobita, mayoritariamente católica; en Florencia, tierra del papa, una hannoveriana protestante que admitía católicos y ateos. A la Curia le inquietaban además el secreto y la mezcla de confesiones, y figuras como el anticuario Philipp von Stosch."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El pretendiente Jacobo Estuardo, que vivía en Roma, supo en 1737 que masones hannoverianos habían tomado la Gran Logia de Francia y pidió al papa una condena. Clemente XII firmó la bula el 28 de abril de 1738: primera condena papal de la masonería, con excomunión."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "La fuente en inglés explica la bula por la rivalidad entre jacobitas y hannoverianos en el continente, en un momento en que el cardenal Fleury procuraba mantener la paz de Francia con Gran Bretaña."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos fuentes ponen el acento en causas distintas, religiosa y de seguridad en una, dinástica en la otra."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -30601,9 +30751,41 @@ window.CRONO = {
       "titulo": "Knights Templar, History Today",
       "url": "https://www.historytoday.com/node/47232",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (en): Trials of the Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Trials_of_the_Knights_Templar",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Felipe IV de Francia estaba muy endeudado por sus guerras y gastos, venía de un duro conflicto con Bonifacio VIII y veía en el Temple, dependiente directo de la Iglesia y con red internacional, un rival difícil de controlar. La pérdida de Tortosa en Siria (1302) había dejado a la orden expuesta a las críticas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 14 de septiembre de 1307 el rey envió órdenes secretas y al amanecer del viernes 13 de octubre sus hombres detuvieron a los templarios, acusados de herejía. En noviembre Clemente V ordenó arrestos en toda Europa y en 1312, en el concilio de Vienne, disolvió la orden con la bula Vox in excelso, aunque muchas acusaciones no pudieron probarse."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La deuda del rey es el móvil que señala la fuente; Felipe ya había confiscado bienes a lombardos (1291) y judíos (1306) cuando le convino."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la intervención fue en octubre de 1677 (la cifra oficial 1307 sería otra datación) y dio lugar a una Alianza del Templo de Salomón y a órdenes que luego serían las naciones europeas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha de 1677 procede de la llamada Nueva Cronología y choca con la documentación de 1307-1312. Las dos páginas que citaba la ficha no se pudieron abrir y se usó la Wikipedia en inglés."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -31218,6 +31400,33 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Cómo llegó",
+     "nivel": "hecho",
+     "texto": "Francisco Javier llevó el cristianismo en 1549; predicó en torno a Hirado, donde en pocos meses convirtió a cientos de personas."
+    },
+    {
+     "titulo": "Prohibición y clandestinidad",
+     "nivel": "hecho",
+     "texto": "Toyotomi Hideyoshi, que veía a jesuitas y misioneros extranjeros como amenaza para la unidad, los expulsó; en 1614 el shogunato Tokugawa ilegalizó el cristianismo. Las persecuciones siguieron durante el periodo Edo y hubo «cristianos ocultos» que transmitieron la fe en secreto, como en la isla de Ikitsuki."
+    },
+    {
+     "titulo": "El nombre de Hokkaido",
+     "nivel": "hecho",
+     "texto": "La isla del norte se llamaba Ezo; en 1869 el gobierno Meiji la incorporó oficialmente y le puso Hokkaido, con duras consecuencias para el pueblo ainu."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, un mapa portugués de 1623 pone una cruz sobre Japón, el atlas Blaeu de 1655 llama «Ieso» (Jesús) a Hokkaido y los samuráis medievales eran gente de la Horda y cristianos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia cristiana en Japón consta desde 1549, no antes. No se ha hallado apoyo a la identificación de Ezo con Jesús ni al origen de los samuráis en la Horda. No se han examinado los mapas que cita."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -41999,9 +42208,41 @@ window.CRONO = {
       "titulo": "Supreme Order of Christ, Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Supreme_Order_of_Christ",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Suprema Orden de Cristo",
+      "url": "https://es.wikipedia.org/wiki/Suprema_Orden_de_Cristo",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La Orden de Cristo portuguesa",
+     "nivel": "hecho",
+     "texto": "Nace al suprimirse el Temple (1312): el rey Dionisio negoció que una nueva orden heredara sus bienes en Portugal, y Juan XXII lo concedió con la bula Ad ea ex quibus (14 de marzo de 1319)."
+    },
+    {
+     "titulo": "La orden pontificia",
+     "nivel": "hecho",
+     "texto": "Existe en paralelo una Orden Suprema de Cristo de la Santa Sede, que algunos estudiosos derivan de la del Temple. El papado defendió sobre la bula de 1319 su derecho respecto a las concesiones portuguesas, cuestión que se disputó. Pío X la puso en 1905 a la cabeza de las órdenes pontificias y Pablo VI la reservó en 1966 a jefes de Estado católicos; está sin miembros desde 1993."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En su origen portugués estaba en juego el patrimonio templario."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, las órdenes de la Espuela de Oro y de Cristo se crearon en 1725, equivalente a 1540 en su cronología, y la del Temple pasó a ser la de Malta en los siglos XVIII y XIX."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Para la Orden de Cristo la fecha documentada es 1319. La de la Espuela de Oro no se ha contrastado."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -46012,6 +46253,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué eran",
+     "nivel": "hecho",
+     "texto": "Los jesuitas, llegados a Paraguay en 1588, fundaron desde hacia 1610 una cincuentena de misiones en el alto Río de la Plata para transformar a los indígenas según pautas europeas y cristianas. Las famosas son unas treinta misiones guaraníes. Albergaron normalmente unas 100.000 personas, con un máximo de 140.000 en 1732."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La economía mezclaba trabajo comunal con huertos y ganado de cada familia. La venta de yerba mate de calidad pagaba hierro, armas y otros bienes europeos y competía con comerciantes criollos. Los varones de 18 a 50 años pagaban a la Corona un peso al año, un tributo bajo."
+    },
+    {
+     "titulo": "Enemigos y final",
+     "nivel": "hecho",
+     "texto": "Colonos de Paraguay y Corrientes envidiaban el control jesuita de la mano de obra y temían a las milicias de las misiones; algunos administradores codiciaban su riqueza. El Tratado de Madrid de 1750 habría entregado siete misiones a Portugal. Carlos III ordenó la expulsión en 1767, ejecutada en el Plata en 1767-1768; después, funcionarios y colonos se hicieron con tierras y las misiones decayeron."
+    },
+    {
+     "titulo": "¿Comunismo?",
+     "nivel": "hecho",
+     "texto": "Se las ha llamado «comunismo primitivo», y socialistas del siglo XX como Cunninghame Graham las tomaron como modelo; Voltaire las condenó y Charlevoix, jesuita, las elogió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés afirma que los jesuitas crearon allí el comunismo moderno. Jorge Guerra las describe sin propiedad privada, con tributo simbólico y unos 300.000 indios esclavizados, y como precedente del Manifiesto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Había propiedad familiar además de la comunal y las cifras leídas no llegan a 300.000. Sigue en debate cuánto beneficiaron las misiones a los guaraníes, que tenían poco margen para elegir su trabajo."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -48215,6 +48488,16 @@ window.CRONO = {
       "titulo": "Rosicrucian",
       "url": "https://www.britannica.com/print/article/510019",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Rosacruz",
+      "url": "https://es.wikipedia.org/wiki/Rosacruz",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Rosicrucianism",
+      "url": "https://en.wikipedia.org/wiki/Rosicrucianism",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -48226,6 +48509,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Los manifiestos",
+     "nivel": "hecho",
+     "texto": "La Fama Fraternitatis circuló manuscrita desde hacia 1610 y se imprimió en Kassel en 1614; la Confessio siguió en 1615 y Las bodas alquímicas de Christian Rosenkreutz en 1616, todas sin firma. La Fama cuenta la historia del hermano C. R., supuestamente nacido en 1378, y de la hermandad secreta que fundó."
+    },
+    {
+     "titulo": "Quién los escribió",
+     "nivel": "hecho",
+     "texto": "Se ha atribuido la Fama a Johann Valentin Andreae sin prueba formal. Andreae reconoció en su autobiografía póstuma las Bodas como un relato escrito en su juventud y llamó al rosacrucismo «ludibrium», burla."
+    },
+    {
+     "titulo": "De la ficción a las órdenes",
+     "nivel": "hecho",
+     "texto": "Al principio los rosacruces eran personajes literarios; las primeras organizaciones reales aparecen en el siglo XVIII, como la Rosacruz de Oro de ámbito masónico, y después la Societas Rosicruciana in Anglia y la Golden Dawn."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés les atribuye el control de la OMS y la FDA, el uso de arsénico, plomo y mercurio en pandemias y la propaganda del ébola."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Se discute si los manifiestos fueron una broma, una alegoría o el reflejo de un grupo real. Nada de lo leído sostiene las afirmaciones sobre organismos sanitarios ni sobre pandemias."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -48802,11 +49112,43 @@ window.CRONO = {
       "titulo": "Wikipedia: Jacob Frank",
       "url": "https://es.wikipedia.org/wiki/Jacob_Frank",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Jacob Frank",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Frank",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras Sabbatai Zeví, que se proclamó mesías en el siglo XVII y acabó convertido al islam, quedaron grupos de seguidores en Podolia y Galitzia entre finales del XVII y el XVIII. La fuente en inglés relaciona este misticismo con cambios sociales y económicos entre los judíos de Polonia, Lituania y Rutenia."
+    },
+    {
+     "titulo": "Jacob Frank",
+     "nivel": "hecho",
+     "texto": "Frank (1726-1791) se presentó como sucesor de Sabbatai Zeví, predicó la «purificación por la transgresión» y sus seguidores fueron acusados ante un tribunal rabínico (1756) de romper las normas morales. La comunidad judía los excomulgó. En 1759 negociaron con la jerarquía católica polaca y después se bautizaron en masa, conservando en secreto creencias propias."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Frank acabó en Offenbach, con el título de barón, viviendo como un noble gracias al dinero que le llevaban sus seguidores polacos y moravos. A su muerte le sucedió su hija Eva."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, los sabateo-frankistas creen que el pecado acelera la llegada del Mesías y en la reencarnación, y su Mesías sería el anticristo en términos cristianos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La idea de la transgresión como purificación aparece en las fuentes. La identificación con el anticristo es una lectura del autor. No se pudo leer el artículo sobre Sabbatai Zeví."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -55121,6 +55463,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Unigenitus",
       "url": "https://es.wikipedia.org/wiki/Unigenitus",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Unigenitus",
+      "url": "https://en.wikipedia.org/wiki/Unigenitus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -55128,6 +55475,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Pasquier Quesnel publicó en 1671 un libro de los evangelios con notas, aprobado por el obispo de Châlons y ampliado después a todo el Nuevo Testamento. Su sesgo jansenista creció; el breve que Clemente XI le dedicó en 1708 no se aceptó en Francia porque chocaba con las prerrogativas galicanas."
+    },
+    {
+     "titulo": "Cómo se hizo",
+     "nivel": "hecho",
+     "texto": "Varios obispos, apoyados por Luis XIV, pidieron una bula, que el papa aceptó redactar con la condición de respetar las libertades galicanas y presentarla antes al gobierno francés. Se promulgó en 1713 y el rey la recibió el 24 de septiembre; condenaba 101 proposiciones."
+    },
+    {
+     "titulo": "La pelea",
+     "nivel": "hecho",
+     "texto": "El cardenal Noailles se resistió y varios obispos y las facultades de la Sorbona, Reims y Nantes apelaron a un concilio general: fueron los «apelantes». La presión del gobierno francés acabó sometiendo a la mayoría."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "La fuente en inglés recoge la lectura de que jesuitas y Luis XIV la impulsaron para acabar con los jansenistas, vistos como un partido republicano en la Iglesia y el Estado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Cuánto pesó la rivalidad con los jesuitas frente a la cuestión doctrinal es materia de interpretación."
+    }
+   ],
    "vista": "religion"
   },
   {
