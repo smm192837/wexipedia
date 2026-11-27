@@ -9239,7 +9239,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. El informe del Ejército de EE. UU. de 1978 menciona a Kervran y Komaki como investigadores recientes de las transmutaciones biológicas, sin validar su hipótesis; la comunidad científica no las acepta. Época y lugar: Francia y Japón, en la Guerra Fría (1945-1991).",
+    "resumen": "Qué es: el trabajo conjunto del japonés Komaki y Louis Kervran sobre la supuesta transmutación biológica de elementos. El informe del Ejército de EE. UU. de 1978, una revisión de publicaciones sin experimentos propios, atribuye a Kervran y Komaki trabajos de prueba experimental de las transmutaciones biológicas y concluye que estas ocurren; la comunidad científica no las acepta. Época y lugar: Francia y Japón, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -9309,7 +9309,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Lectura de trabajo de Nexus: los relatos no coinciden. La primera publicación citada es de 1965, no de 1963; el autor habla de pasar de sodio a potasio y el informe de calcio a potasio; y el cuarto organismo es Torula utilis en Nelson y una Lepiota en Sala. Que crezcan en un medio pobre en potasio no prueba que lo fabriquen: haría falta medir el potasio total y descartar contaminación.\n\nLa versión oficial de esta ficha dice que el informe de 1978 menciona a Kervran y Komaki sin validar su hipótesis. En la reproducción leída, el informe sí da las transmutaciones por reales. Pendiente de cotejar con el original y corregir.\n\nPendientes: los artículos de 1965, 1967 y 1969 y el texto completo del de 1966."
+     "texto": "Lectura de trabajo de Nexus: los relatos no coinciden. La primera publicación citada es de 1965, no de 1963; el autor habla de pasar de sodio a potasio y el informe de calcio a potasio; y el cuarto organismo es Torula utilis en Nelson y una Lepiota en Sala. Que crezcan en un medio pobre en potasio no prueba que lo fabriquen: haría falta medir el potasio total y descartar contaminación.\n\nPendientes: los artículos de 1965, 1967 y 1969, el texto completo del de 1966 y cotejar el informe de 1978 con su original."
     }
    ],
    "vista": "ciencia"
@@ -16658,7 +16658,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Qué es: el Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki. El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y con conclusión condicional («si existen» esas transmutaciones). No es un experimento secreto ni una confirmación experimental. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
+    "resumen": "Qué es: el Informe 2247 del Ejército de Estados Unidos (1978), una revisión de la literatura sobre las transmutaciones biológicas de Kervran y Komaki. El Informe 2247 (mayo de 1978, Mobility Equipment R&D Command, Fort Belvoir) es una revisión de la literatura sobre transmutaciones biológicas escrita por Solomon Goldfein, de distribución pública y sin experimentos propios. Su resumen plantea primero que, dando por supuestas esas transmutaciones, habría un excedente de energía, y concluye después que ocurren en los organismos, probablemente con ganancia neta de energía. Se apoya en publicaciones ajenas: no es un experimento secreto ni una confirmación experimental, y la comunidad científica no acepta esas transmutaciones. Época y lugar: Estados Unidos, en la Guerra Fría (1945-1991).",
     "fuentes": [
      {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
@@ -16668,6 +16668,11 @@ window.CRONO = {
      {
       "titulo": "Reproducción en rexresearch del Informe 2247 de S. Goldfein (1978); no es el original",
       "url": "http://rexresearch.com/goldfein/goldfein.htm",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Corentin Louis Kervran",
+      "url": "https://en.wikipedia.org/wiki/Corentin_Louis_Kervran",
       "consultado": "2026-11-27"
      }
     ]
@@ -16704,7 +16709,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Lectura de trabajo de Nexus: el informe respalda las transmutaciones, pero sin experimentos propios, apoyado en trabajos ajenos; no es la confirmación experimental que describe el autor.\n\nLa versión oficial de esta ficha presenta la conclusión como condicional («si existen»). La condición aparece en el resumen, pero el informe termina afirmando que las transmutaciones ocurren. Pendiente de cotejar con el original y corregir.\n\nPendientes: el original en DTIC y saber qué acogida tuvo dentro del Ejército."
+     "texto": "Lectura de trabajo de Nexus: el informe respalda las transmutaciones, pero sin experimentos propios, apoyado en trabajos ajenos; no es la confirmación experimental que describe el autor.\n\nPendientes: el original en DTIC y saber qué acogida tuvo dentro del Ejército."
     }
    ],
    "vista": "ciencia"
