@@ -6735,7 +6735,7 @@ window.CRONO = {
     "desde": 2001,
     "texto": "11 de septiembre de 2001"
    },
-   "resumen": "Bush leía un cuento con niños cuando ocurrió el 11S. El 11-9-2001 Bush visitaba la escuela primaria Emma E.",
+   "resumen": "El 11-9-2001 Bush visitaba la escuela primaria Emma E. Booker (Sarasota, Florida) y leía con niños cuando le avisaron del segundo impacto.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -11666,7 +11666,7 @@ window.CRONO = {
     "fuente": "autor",
     "texto": "septiembre de 1940 (según el autor)"
    },
-   "resumen": "El American Security Council se fundó en 1955 como organización anticomunista de empresarios y exagentes del FBI; el America First Committee, que presidió el general Robert E.",
+   "resumen": "El American Security Council se fundó en 1955 como organización anticomunista de empresarios y exagentes del FBI. Es distinto del America First Committee, de 1940, que presidió el general Robert E. Wood.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -15175,7 +15175,7 @@ window.CRONO = {
     "desde": 1990,
     "texto": "11 de septiembre de 1990"
    },
-   "resumen": "El 11-9-1990, ante el Congreso, George H. W.",
+   "resumen": "El 11-9-1990, ante el Congreso, George H. W. Bush habló de un «nuevo orden mundial» tras la Guerra Fría, durante la crisis del Golfo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -15227,7 +15227,7 @@ window.CRONO = {
     "texto": "17-1-1961"
    },
    "fecha_autor": "1955",
-   "resumen": "Aviso sobre el complejo militar industrial. El 17-1-1961 Dwight D.",
+   "resumen": "El 17-1-1961 Dwight D. Eisenhower pronunció por televisión su último discurso público como presidente de Estados Unidos, conocido sobre todo por advertir contra la influencia del «complejo militar-industrial».",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -18803,7 +18803,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "1919-1920 (publicado en febrero de 1920)"
    },
-   "resumen": "Un experimento de psicología de 1920 en el que se condicionó el miedo a una rata blanca en un bebé al unirla a un ruido fuerte. John B.",
+   "resumen": "Un experimento de psicología de 1920 en el que John B. Watson y su alumna Rosalie Rayner condicionaron en un bebé el miedo a una rata blanca al unirla a un ruido fuerte.",
    "segun": [
     {
      "autor": "nacho-lopez-cabanas",
@@ -25858,7 +25858,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«comienzos de los años 60»",
-   "resumen": "«The Report from Iron Mountain» se publicó en 1967 (Dial Press) como supuesto informe secreto de un grupo de estudio del gobierno de EE.",
+   "resumen": "«The Report from Iron Mountain» se publicó en 1967 como supuesto informe secreto de un grupo de estudio del gobierno de EE. UU. Era una sátira antibelicista escrita por Leonard Lewin, que admitió en 1972 que era una farsa.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -28352,7 +28352,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«tras escorarse hacia el bando católico» (no da año; la cuestión judía cambia en los años 30)",
-   "resumen": "Las leyes raciales de 1938 y las 44 cartas con. El régimen fascista aprobó en 1938 las leyes raciales: el «Manifiesto de la raza» (julio) y las leyes de septiembre-noviembre excluyeron a los judíos de la escuela, el ejército y la administración pública y les retiraron la ciudadanía.",
+   "resumen": "El régimen fascista aprobó en 1938 las leyes raciales: el «Manifiesto de la raza» (julio) y las leyes de septiembre-noviembre excluyeron a los judíos de la escuela, el ejército y la administración pública y les retiraron la ciudadanía. El jesuita Pietro Tacchi Venturi intercedió ante Mussolini por casos concretos.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -28691,7 +28691,7 @@ window.CRONO = {
     "desde": 1959,
     "fuente": "autor"
    },
-   "resumen": "Organización pannordicista fundada en 1958 por Roger Pearson, antropólogo británico defensor de la eugenesia; entre sus miembros estuvo Hans F.",
+   "resumen": "Organización pannordicista fundada en 1958 por Roger Pearson, antropólogo británico defensor de la eugenesia; entre sus miembros estuvo Hans F. K. Günther, teórico racial del nazismo.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -38821,7 +38821,7 @@ window.CRONO = {
     "margen": 3
    },
    "fecha_autor": "principios de este milenio; 2013–2014",
-   "resumen": "Un laboratorio privado de Kiev, Proton-21, que dijo haber logrado transmutar metales con aceleradores de electrones. El laboratorio privado Proton-21 (Kiev, fundado en 1999; investigador principal S.",
+   "resumen": "Un laboratorio privado de Kiev, Proton-21, fundado en 1999, que dijo haber logrado transmutar metales con aceleradores de electrones. La física no ha aceptado esos resultados como transmutación nuclear confirmada.",
    "segun": [
     {
      "autor": "artur-sala",
@@ -46053,7 +46053,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1957
    },
-   "resumen": "El origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). Julian Huxley popularizó «transhumanismo» en una conferencia de 1951 y en «New Bottles for New Wine» (1957, pp.",
+   "resumen": "El origen del término «transhumanismo», que Julian Huxley popularizó en 1951 y desarrolló en «New Bottles for New Wine» (1957). El término ya se había usado antes en otros contextos.",
    "segun": [
     {
      "autor": "jorge-guerra",
