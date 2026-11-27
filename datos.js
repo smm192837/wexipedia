@@ -2317,6 +2317,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo se llegó",
+     "nivel": "hecho",
+     "texto": "El 29 de septiembre de 1918 el mando alemán comunicó al káiser que la situación era desesperada; Ludendorff pidió un alto el fuego inmediato y aceptar los Catorce Puntos con un gobierno parlamentario, lo que cargaba la capitulación sobre los partidos. Maximiliano de Baden fue nombrado canciller el 3 de octubre para negociar. Francia, Gran Bretaña e Italia se resistían a aceptar los puntos de Wilson. La delegación de Matthias Erzberger partió el 6 de noviembre; el 9 abdicó el káiser y Ebert, nuevo canciller, ordenó firmar."
+    },
+    {
+     "titulo": "La firma y las condiciones",
+     "nivel": "hecho",
+     "texto": "Se firmó cerca de Compiègne a las 5:45 y entró en vigor a las 11:00 del 11 de noviembre. Los términos, escritos en gran parte por Foch, incluían retirada tras el Rin, ocupación de Renania, entrega de material, liberación de prisioneros, posibles reparaciones y la prolongación del bloqueo naval. No fue formalmente una rendición."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "La paz no llegó hasta el Tratado de Versalles, firmado en junio de 1919. La dureza de las condiciones alimentó el nacionalismo y a Hitler."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que Alemania, derrotada y asediada por la revolución, pidió un armisticio que sus enemigos aceptaron, y que Foch recibió la petición el 11 de noviembre."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La petición alemana consta, pero se inició semanas antes; el 11 fue la firma."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -5935,6 +5962,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La masonería en Rusia",
+     "nivel": "hecho",
+     "texto": "Prohibida en 1822 por Alejandro I, la masonería volvió a ser posible tras la revolución de 1905, cuando antiguos exiliados ligados a obediencias francesas abrieron logias. En 1912 se separó el Gran Oriente de los Pueblos de Rusia, una organización mixta y muy política, de unos 400 miembros, en la que destacaban los demócratas constitucionales. Kérenski fue su secretario general desde 1916 hasta julio de 1917, y la mayoría de sus miembros estuvo ligada al Gobierno Provisional."
+    },
+    {
+     "titulo": "Los bolcheviques contra la masonería",
+     "nivel": "hecho",
+     "texto": "Tras la Revolución de Octubre la masonería se prohibió y muchos masones huyeron a Berlín y Francia. En la guerra civil se la consideraba aliada de los blancos. El IV Congreso de la Internacional Comunista, en Moscú en 1922, ordenó a todos los militantes romper con ella por incompatible."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que muchos bolcheviques, además de Lenin y Trotski, eran masones: un documento del KGB incluiría a Lunacharski en el Gran Oriente de Francia, y Lenin, Zinóviev, Radek y Sverdlov pertenecerían a una logia «Naybrit»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La masonería rusa documentada estaba sobre todo con el Gobierno Provisional que los bolcheviques derribaron. La orden de 1922 muestra que había algo que prohibir entre militantes, pero no dice quiénes. En lo leído no aparecen la logia ni los nombres que cita el autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -8807,6 +8856,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Dzerzhinsky",
       "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/felix-edmundovich-dzerzhinsky",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Checa",
+      "url": "https://es.wikipedia.org/wiki/Checa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8822,6 +8876,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "La Comisión Extraordinaria Panrusa contra la contrarrevolución y el sabotaje, la Checa, se creó el 20 de diciembre de 1917 bajo Félix Dzerzhinski. Fue la primera policía política soviética; sucedió a la Ojrana zarista, cuya organización imitó, con el cometido de suprimir todo acto contrarrevolucionario."
+    },
+    {
+     "titulo": "Cambios y herencia",
+     "nivel": "hecho",
+     "texto": "En agosto de 1918 añadió a sus competencias la especulación y el abuso de cargo. Creó secciones en ciudades como Petrogrado y tuvo tropas propias. En febrero de 1922 la sustituyó el directorio político del NKVD; sus agentes siguieron llamándose chekistas y el organismo heredero actual es el FSB. El nombre se aplicó en otros países, como a las «checas» parapoliciales de la guerra civil española, con detenciones, torturas y ejecuciones sumarias. Las cifras de ejecutados que dieron sus responsables las discute el historiador Melgunov."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra señala que la fundó y dirigió Dzerzhinski, católico fanático y admirador de los jesuitas que quiso entrar en la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación y la jefatura constan. Sobre la religiosidad, la biografía de Dzerzhinski confirma que de niño quiso ser sacerdote y que dejó la fe a los diecisiete años; no menciona a los jesuitas."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -10059,6 +10135,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "Wilson lo creó por orden ejecutiva el 13 de abril de 1917 para ganar a la opinión pública, sobre todo interior, para la guerra. Lo presidió el periodista George Creel, con los secretarios de Estado, Guerra y Marina como miembros natos. Fue la primera oficina estatal de propaganda de EE. UU. y duró hasta junio de 1919."
+    },
+    {
+     "titulo": "Métodos",
+     "nivel": "hecho",
+     "texto": "Unos 75.000 voluntarios, los «hombres de cuatro minutos», daban discursos en cines y lugares públicos; produjo carteles como el del Tío Sam de Flagg, películas, noticiarios, folletos y un diario oficial, y colaboró con Correos para censurar material contrario a la guerra."
+    },
+    {
+     "titulo": "Quiénes y críticas",
+     "nivel": "hecho",
+     "texto": "Edward Bernays dirigió su servicio de noticias para Latinoamérica. Walter Lippmann, asesor de Wilson, abogó por crear el comité y estuvo ligado a su propaganda en Europa, que después criticó. Se le ha descrito como una campaña de manipulación disfrazada de periodismo, con atrocidades alemanas inventadas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que Bernays y Lippmann llevaron a Wilson a crearlo y que allí se ensayaron las técnicas de fabricación de opinión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia de Lippmann en su creación y la participación de Bernays constan. En lo leído no aparece que Bernays impulsara la creación."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -30158,6 +30261,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El obelisco",
+     "nivel": "hecho",
+     "texto": "Se levantó en 1914 en el jardín Alexandrovski, junto al Kremlin, por el tercer centenario de los Románov, pagado por la duma de Moscú."
+    },
+    {
+     "titulo": "La reconversión",
+     "nivel": "hecho",
+     "texto": "Dentro del plan de propaganda monumental de Lenin, que retiraba monumentos a los zares, en 1918 se sustituyeron los nombres de los soberanos por una lista de 19 pensadores y revolucionarios aprobada por Lenin y encargada a Vladímir Friche. Empieza por Marx y Engels e incluye a Campanella, Meslier, Winstanley y Tomás Moro, entre otros."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Se trasladó en 1966 y en 2013 se desmontó para levantar una réplica del monumento original a los Románov."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra cuenta que por sugerencia de Lenin se erigió un monumento a Moro, y que Marx, Engels y un «Karl Kowski» lo aclamaron como héroe."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No fue un monumento a Moro: su nombre es uno de diecinueve en un obelisco reutilizado. La aprobación de Lenin consta. En lo leído no aparece nadie que corresponda a «Karl Kowski»."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -47329,6 +47459,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El autor de la tesis",
+     "nivel": "hecho",
+     "texto": "Antony Sutton (Londres, 1925 – Reno, 2002), economista británico-estadounidense, profesor en California e investigador de la Hoover Institution (1968-1973). Allí sostuvo en tres volúmenes que empresas y el gobierno de EE. UU. contribuyeron mucho a levantar la industria soviética, con acerías o la fábrica GAZ."
+    },
+    {
+     "titulo": "La trilogía de Wall Street",
+     "nivel": "hecho",
+     "texto": "Después publicó libros sobre Wall Street y la revolución bolchevique, Roosevelt y el ascenso de Hitler, donde sostuvo, entre otras cosas, que en Rusia se buscaba eliminar un competidor y convertirla en mercado cautivo de financieros estadounidenses."
+    },
+    {
+     "titulo": "Recepción",
+     "nivel": "hecho",
+     "texto": "La trilogía recibió críticas académicas: reseñas señalaron errores y el uso de rumores como prueba documental, y de uno de los libros se dijo que era historia conspirativa floja y desorganizada."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano sostiene que Alemania y Wall Street financiaron a Lenin, Trotsky y Stalin, que los Warburg, Schiff y otros de los Peregrinos pagaron a los bolcheviques, y recomienda a Sutton como el mejor autor, rechazando cuestionar su credibilidad."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El trabajo sobre transferencia de tecnología es distinto de la tesis de control político, y la credibilidad de la trilogía sí está discutida. La financiación alemana a los bolcheviques consta en la biografía de Lenin consultada hoy; la de Wall Street no se ha comprobado.\n\nPendiente: ir a los documentos que cita Sutton, uno por uno."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -70149,7 +70306,7 @@ window.CRONO = {
     {
      "titulo": "Qué hizo",
      "nivel": "hecho",
-     "texto": "Afirmó haber sobrevolado el Polo Norte en 1926 con Floyd Bennett, lo que le dio fama y financiación; las dudas se confirmaron en 1996 al aparecer su diario, con anotaciones de sextante borradas y rehechas. En 1928-1930 estableció la base Little America y sobrevoló el Polo Sur (29 de noviembre de 1929). Invernó solo en 1934. Organizó la operación Highjump (1946-1947), maniobras para probar equipo y tropa en condiciones antárticas."
+     "texto": "Afirmó haber sobrevolado el Polo Norte en 1926 con Floyd Bennett, lo que le dio fama y financiación; las dudas se confirmaron en 1996 al aparecer su diario, con anotaciones de sextante borradas y rehechas. En su expedición de 1928 estableció la base Little America, donde 42 hombres vivieron 14 meses, y sobrevoló el Polo Sur el 29 de noviembre de 1929. Invernó solo en 1934. Organizó la operación Highjump (1946-1947), maniobras para probar equipo y tropa en condiciones antárticas."
     },
     {
      "titulo": "Qué dicen los autores",
