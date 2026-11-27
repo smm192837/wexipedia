@@ -17046,6 +17046,16 @@ window.CRONO = {
      {
       "titulo": "BCE: Euro digital",
       "url": "https://www.ecb.europa.eu/euro/digital_euro/html/index.es.html"
+     },
+     {
+      "titulo": "Wikipedia (en): Digital euro",
+      "url": "https://en.wikipedia.org/wiki/Digital_euro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Digital renminbi",
+      "url": "https://en.wikipedia.org/wiki/Digital_renminbi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17056,6 +17066,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En China el Consejo de Estado autorizó en 2017 el desarrollo de un yuan digital, con bancos y empresas tecnológicas en las pruebas. El Banco Central Europeo publicó en octubre de 2020 su primer informe sobre un euro digital."
+    },
+    {
+     "titulo": "Cómo avanza",
+     "nivel": "hecho",
+     "texto": "El BCE abrió el proyecto en julio de 2021 y presenta el euro digital como complemento del efectivo y de las cuentas bancarias, no basado en cadena de bloques. La Comisión propuso en junio de 2023 darle curso legal, y según la Wikipedia en inglés el Parlamento Europeo votó adoptarlo el 23 de junio de 2026, con un posible piloto en 2027 y una primera emisión hacia 2029. En China el yuan digital se ha usado en comercios y se han repartido incentivos para probarlo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el sistema de cadena de bloques es un plan de control absoluto: una crisis servirá para eliminar el efectivo, los bancos podrán quedarse el dinero del cliente y las familias poderosas ya no necesitan dinero. Jorge Guerra cuenta que Panetta dijo que el euro digital solo llegaría a personas subsidiadas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El proyecto europeo consta, con la declaración de que no usa cadena de bloques y complementa al efectivo; cómo se aplique habrá que verlo. En los pasajes buscados no aparece la frase atribuida a Panetta."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -17353,6 +17385,11 @@ window.CRONO = {
       "titulo": "Britannica: nuclear weapons",
       "url": "https://www.britannica.com/technology/nuclear-weapon",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Samson Option",
+      "url": "https://en.wikipedia.org/wiki/Samson_Option",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17364,6 +17401,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Es una estrategia de disuasión atribuida a Israel: una represalia nuclear masiva como último recurso contra un país que invadiera o destruyera gran parte de su territorio. El nombre remite a Sansón, que derribó el templo sobre sí y sus enemigos, y lo popularizó el libro de Seymour Hersh de 1991."
+    },
+    {
+     "titulo": "Lo que se sabe",
+     "nivel": "hecho",
+     "texto": "Israel no confirma ni desmiente que tenga armas nucleares ni explica cómo las usaría, una política de ambigüedad deliberada. Se estimaba en 2021 que tenía unas 90 cabezas, con estimaciones mucho más altas, lanzables desde tierra, mar y aire."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Trump dijo que sin EE. UU. Israel sería aniquilado y la doctrina prevé la destrucción atómica del entorno, aliados incluidos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La existencia de la expresión y la ambigüedad constan. Como Israel no declara su política, su alcance exacto no se puede saber; en lo buscado no aparece que incluya destruir a los aliados."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -31084,6 +31143,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los Láscaris fueron una familia feudal bizantina."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Teodoro Láscaris fundó tras la cuarta cruzada el Imperio de Nicea (1204); en 1222 le sucedió su yerno Juan Vatatzés, que tomó el apellido, y la línea imperial se extinguió con Juan IV, eliminado por Miguel VIII Paleólogo. El apellido lo llevaron después funcionarios, humanistas y señores de Chipre, Creta y Corfú. Los Habsburgo toman su nombre de un lugar del cantón suizo de Argovia, donde está su castillo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Láscaris-Comneno son los Habsburgo, por el escudo del águila bicéfala, y los Ángelo los Anjou; habrían creado documentación artificial y se declaran descendientes de Andrónico Comneno, identificado con Cristo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos familias constan con orígenes distintos. En lo leído no hay parentesco entre ellas; compartir un emblema no basta para identificarlas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -93737,6 +93818,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Ojo de la Providencia",
       "url": "https://es.wikipedia.org/wiki/Ojo_de_la_Providencia"
+     },
+     {
+      "titulo": "Wikipedia (es): Esvástica",
+      "url": "https://es.wikipedia.org/wiki/Esv%C3%A1stica",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Swastika",
+      "url": "https://en.wikipedia.org/wiki/Swastika",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -93747,6 +93838,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Los símbolos",
+     "nivel": "hecho",
+     "texto": "La esvástica es una cruz de brazos doblados en ángulo recto; en India, Nepal, China, Japón y otros países sigue siendo un símbolo espiritual de buena suerte. El ojo de la Providencia aparece en el reverso del Gran Sello de EE. UU. y en el billete de un dólar, además de en usos masónicos."
+    },
+    {
+     "titulo": "Su recorrido",
+     "nivel": "hecho",
+     "texto": "Algunas iglesias románicas y góticas llevan esvásticas heredadas de motivos romanos y hubo grupos cristianos antiguos que la usaron; reaparece en el arte del Renacimiento y el Barroco. En la Alemania de posguerra era símbolo del nacionalismo völkisch y el partido nazi la adoptó en 1920, ligándola a la idea de una raza aria."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los símbolos se han invertido: la esvástica era una cruz cristiana, el Vaticano usa el ojo que todo lo ve, estas familias se creen dioses y las estrellas de Torlonia y Rothschild representan a Neptuno y Saturno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El uso cristiano antiguo de la esvástica consta, entre muchos otros usos anteriores: no era solo cristiana. En lo buscado no aparecen las estrellas de esas familias como planetas; según la versión oficial, el escudo Rothschild no lleva estrella de seis puntas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
