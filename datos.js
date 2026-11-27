@@ -19507,6 +19507,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La primera teoría conspirativa registrada contra los jesuitas es de 1551. En el XIX la idea de una sociedad secreta jesuita en busca del dominio mundial pasó a la imaginación popular con Michelet, Quinet y la novela «El judío errante» de Eugène Sue."
+    },
+    {
+     "titulo": "Qué se sabe de estos esquemas",
+     "nivel": "hecho",
+     "texto": "La teoría del «Nuevo Orden Mundial» sostiene que una cábala de élites dirige los acontecimientos para someter a la población; un estudio del Instituto Middlebury (2022) señala sus orígenes antisemitas y que sus seguidores difunden relatos de ese tipo, a veces sin saberlo. Cobró fuerza en la contracultura estadounidense de los años sesenta y setenta junto al anticomunismo y el antielitismo. Las teorías conspirativas suelen resistirse a la refutación: la falta de pruebas se toma como prueba."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el poder va de partidos, ONG y población a la ONU, los bancos con servicios secretos y think tanks, y tres columnas encabezadas por la City, con la inteligencia vaticana arriba y los nobles camuflados en masonería, sionismo y órdenes. Rubén Avilés habla de un poder con tres centros (Vaticano, City y Washington). Giuseppe Nocera pide señalar a los monarcas que gobernarían detrás de títeres."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las instituciones citadas existen. En lo leído no aparece prueba de una cadena de mando única entre ellas. Cada relación concreta tendría que demostrarse por separado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -21872,6 +21894,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Según el artículo en inglés, la familia es sobre todo de ascendencia inglesa y alemana; su rama europea se remonta al siglo XVII, con un último antepasado inglés nacido en Essex y Samuel Bush como primer nacido en América, en 1647."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Prescott Bush fue miembro fundador y uno de los siete directores de la Union Banking Corporation de Nueva York, cuyas acciones tenían en nombre de un banco de Róterdam del grupo Thyssen. El Gobierno la incautó en octubre de 1942 por la ley de comercio con el enemigo. Su hijo George H. W. Bush fue director de la CIA y presidente; su nieto George W. Bush, también presidente."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Fritz Thyssen fue un temprano financiador de Hitler y rompió con los nazis en 1938. Según la información sobre documentos desclasificados, no muestran que Bush ayudara directamente a ese fin y no se presentaron cargos contra los directores estadounidenses."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, es la familia real no oficial de EE. UU., desciende de los alemanes Von dem Bussche, controla la CIA y quizá está tras MAGA. Guillermo Mas Arellano destaca los vínculos con el nazismo por la Union Banking y con los Windsor, y, siguiendo a Magaldi, una logia tras la guerra posterior al 11-S."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo en la Union Banking consta. La ficha dice que el origen es inglés y no alemán, y lo leído habla de ambas ascendencias, sin mencionar a los Von dem Bussche. En los pasajes buscados no aparecen MAGA ni la logia."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -22055,6 +22104,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El primer antepasado conocido es Simón de Kassel (1500-1566). Antes, un Del Banco obtuvo en Venecia en 1513 permiso para prestar con interés; ante las restricciones ligadas al gueto la familia marchó a Bolonia y a la ciudad alemana de Warburg, de la que tomó el nombre."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1798 se fundó en Hamburgo M. M. Warburg & Co., que figuró entre las firmas fundadoras del Commerzbank en 1870. Paul Warburg fue artífice de la Reserva Federal y vicepresidente de su primera junta hasta 1918. Max Warburg estuvo en el Consejo General del Reichsbank de 1924 a 1933 y en el consejo de vigilancia de IG Farben hasta 1932; emigró en 1938, y la mayoría de la familia alemana había huido a fines de ese año."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La banca de Hamburgo se sostuvo en parte con ayuda de Kuhn, Loeb & Co., la firma neoyorquina de Schiff en la que fueron socios Felix y Paul Warburg, casados con familias de esa casa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, serían agentes de los Borghese, Max financió el complejo militar nazi y fundaron el Commerzbank con la casa de Hesse. Guillermo Mas Arellano, con Antony Sutton, liga a Warburg, Schiff, Meyer y Loeb a la nobleza negra y dice que financiaron marxismo y fascismo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los cargos de Max y la fundación del Commerzbank constan; en la lista de firmas leída figura «Hesse Newman & Co.», sin que conste que sea la casa de Hesse. La trilogía de Sutton ha recibido críticas académicas. En lo buscado no aparecen los Borghese."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
