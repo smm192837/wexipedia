@@ -23629,6 +23629,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Maine llegó a La Habana el 25 de enero de 1898 para proteger intereses estadounidenses durante la guerra de independencia cubana. El 15 de febrero a las 21:40 estalló; detonaron más de cinco toneladas de pólvora de los cañones y se destruyó el tercio delantero. De 355 tripulantes murieron 261."
+    },
+    {
+     "titulo": "La prensa y la guerra",
+     "nivel": "hecho",
+     "texto": "El New York Journal de Hearst y el New York World de Pulitzer explotaron el suceso, exagerando e incluso inventando noticias; Hearst ofreció 50.000 dólares por la condena de los culpables. El lema «Recordad el Maine» acompañó a la guerra hispano-estadounidense, que empezó en abril."
+    },
+    {
+     "titulo": "Las investigaciones",
+     "nivel": "hecho",
+     "texto": "La comisión española (Del Peral y De Salas) apuntó a una combustión espontánea en una carbonera junto a la munición: no hubo columna de agua, ni peces muertos, ni cables. La prensa estadounidense no publicó sus conclusiones. La comisión Sampson (1898) concluyó que fue una mina, sin poder señalar responsable. La comisión Vreeland (1911), con el casco en seco, mantuvo una explosión externa, más a popa y más débil.\n\nEl almirante Rickover (libro de 1976) descartó la mina y vio probable el fuego del carbón. El análisis de 1998 para National Geographic no fue concluyente y halló compatible una mina; un documental de 2002 apoyó el incendio."
+    },
+    {
+     "titulo": "La tesis del autoatentado",
+     "nivel": "hecho",
+     "texto": "Es la versión oficial en Cuba: el monumento de La Habana presenta a los marinos como víctimas sacrificadas a la ambición imperial. También la han defendido autores en España y Rusia."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el «desastre del Maine» fue una invención y un ataque de falsa bandera vendido al público por Hearst, y por eso España perdió Cuba."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La campaña de prensa está documentada y se utilizó el suceso para ir a la guerra. La causa sigue discutida entre accidente y mina; en lo leído no hay prueba de que fuera un autoatentado.\n\nLectura de trabajo de Nexus: usar un suceso para una guerra no prueba haberlo provocado. Pendiente: qué intereses económicos estadounidenses había en Cuba."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -30319,6 +30351,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Antisemitic trope",
       "url": "https://en.wikipedia.org/wiki/Antisemitic_trope"
+     },
+     {
+      "titulo": "Wikipedia (en): Zionism",
+      "url": "https://en.wikipedia.org/wiki/Zionism",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30341,6 +30378,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "El sionismo moderno nació en la Europa central y oriental de finales del XIX como movimiento nacionalista laico, en reacción a nuevas olas de antisemitismo y como respuesta a la Ilustración judía. Antes de Herzl, los Amantes de Sión, inspirados en el folleto Autoemancipación de Leon Pinsker, impulsaban la emigración y el asentamiento en Palestina, entonces bajo dominio otomano.\n\nLas ideas cristianas sobre el regreso de los judíos a Palestina formaban parte del contexto, y el movimiento, creado por judíos, dependió de apoyos cristianos."
+    },
+    {
+     "titulo": "Herzl y Basilea",
+     "nivel": "hecho",
+     "texto": "En 1896 Herzl publicó El Estado judío, un proyecto laico de Estado de mayoría judía como respuesta al antisemitismo. Convocó y presidió el primer congreso, en Basilea, del 29 al 31 de agosto de 1897, con 208 delegados de 17 países y 26 periodistas. Aprobó el programa de Basilea, un hogar en Palestina asegurado por el derecho público, y creó la Organización Sionista. La mayoría de los judíos era entonces indiferente o contraria."
+    },
+    {
+     "titulo": "Dinero y apoyo británico",
+     "nivel": "hecho",
+     "texto": "Del congreso salió la propuesta de un banco, el Jewish Colonial Trust, instrumento financiero del sionismo político. En la Primera Guerra Mundial la dirección sionista, con Chaim Weizmann, formó un grupo de presión en Londres en torno a la familia Rothschild. En la Declaración Balfour (1917) Gran Bretaña apoyó un hogar nacional judío; el Mandato de 1922 se basó en ella e Israel declaró su independencia en 1948, con guerra."
+    },
+    {
+     "titulo": "La población árabe",
+     "nivel": "hecho",
+     "texto": "La llegada de colonos se considera el inicio del conflicto israelo-palestino. Según el artículo, el movimiento quería un Estado con el máximo de tierra y de judíos y el mínimo de árabes palestinos; tras la guerra de 1948 y la expulsión y huida de palestinos quedó en Israel una minoría de unos 160.000."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que el sionismo se apropió del destino de los judíos, que lo impulsaron los Rothschild como brazo del capital jesuita y que no es casual la sede suiza; niega además que existan un pueblo y una genética judíos. Rubén Avilés lo distingue del judaísmo y lo presenta como proyecto de la aristocracia europea. Giuseppe Nocera destaca el congreso de 1897. El detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la diferencia entre religión y movimiento político, el papel de apoyos británicos y la relación con la familia Rothschild en Londres durante la guerra. En lo leído no aparece ningún papel jesuita. La negación del pueblo judío choca con la versión oficial de esta ficha, y la idea de una banca judía que dirige el mundo es un tópico antisemita documentado.\n\nPendientes: las compras de tierra de Rothschild desde 1882, el intento de celebrar el congreso en Múnich y las cuentas del Jewish Colonial Trust."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -39097,6 +39166,26 @@ window.CRONO = {
       "titulo": "The Henry Ford: Bakelite, «The Material of a Thousand Uses»",
       "url": "https://www.thehenryford.org/collections/explore/sets/detail/bakelite-the-material-of-a-thousand-uses",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Standard Oil",
+      "url": "https://en.wikipedia.org/wiki/Standard_Oil",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): John D. Rockefeller",
+      "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Flexner Report",
+      "url": "https://en.wikipedia.org/wiki/Flexner_Report",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Rockefeller Foundation",
+      "url": "https://en.wikipedia.org/wiki/Rockefeller_Foundation",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -39111,6 +39200,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El monopolio del petróleo",
+     "nivel": "hecho",
+     "texto": "Standard Oil se fundó en 1870 y en 1882 se organizó como trust. Creció comprando competidores, cerrando los que consideraba ineficientes y con rebajas de los ferrocarriles, que investigó Nueva York en 1879. En 1904 controlaba el 91 % del refino y el 85 % de las ventas finales. En 1911 el Tribunal Supremo ordenó dividirla en 34 sociedades."
+    },
+    {
+     "titulo": "El dinero en la medicina",
+     "nivel": "hecho",
+     "texto": "Rockefeller fundó en 1901 el Instituto Rockefeller de Investigación Médica, creó en 1903 el General Education Board y en 1913 la Fundación Rockefeller, a la que dio 182 millones de dólares, centrada en salud pública, formación médica y artes; financió escuelas de salud pública como las de Johns Hopkins y Harvard. La dotación de la fundación protegió además parte de su fortuna del impuesto de sucesiones."
+    },
+    {
+     "titulo": "El informe Flexner (1910)",
+     "nivel": "hecho",
+     "texto": "Abraham Flexner lo escribió para la Fundación Carnegie, por encargo en 1908 del consejo de educación médica. Pidió exigencias más altas y enseñanza ajustada a la ciencia establecida, y concluyó que sobraban escuelas y médicos. Entre 1910 y 1935 cerraron o se fusionaron más de la mitad de las facultades.\n\nLas escuelas de homeopatía, medicina ecléctica, naturopatía y otras tuvieron que dejar esos estudios o perder acreditación y apoyo, y casi todas cerraron. Rockefeller dio muchos millones a universidades y hospitales para acompañar el cambio. La calidad media de los médicos subió; se critica que cerrara casi todas las facultades para negros y redujera mucho la presencia de mujeres."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Rockefeller, «sionista» y primer multimillonario de EE. UU., controlaba el 90 % del refino; con la petroquímica y las vitaminas se vio que muchos fármacos podrían salir del petróleo y, como todo se podía patentar, vio la ocasión de monopolizar petróleo, química y medicina. Hacia 1910 la medicina sería poco rentable, con la mayor tasa de suicidios entre médicos y pocas enfermedades crónicas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cuota del refino es aproximadamente correcta. El dinero de Rockefeller en la medicina y la desaparición de escuelas alternativas tras 1910 están documentados, aunque el informe lo encargó y publicó el entorno de Carnegie. En lo leído no consta un plan para monopolizar fármacos derivados del petróleo, ni que fuera sionista, ni los datos sobre suicidios.\n\nLectura de trabajo de Nexus: este es el punto donde seguir el dinero puede dar más: qué facultades y laboratorios recibieron fondos, con qué condiciones y qué patentes salieron. Pendiente: los archivos del General Education Board."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -44978,6 +45094,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Es un instituto de investigación y centro de documentación sin ánimo de lucro, con sede en Bruselas, que reúne información sobre organizaciones internacionales, tanto de gobiernos como no gubernamentales, sus reuniones y los problemas mundiales, y apoya a las asociaciones con formación y contactos. Tiene estatuto consultivo ante el ECOSOC y la UNESCO."
+    },
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Henri La Fontaine, Nobel de la Paz de 1913, y Paul Otlet, uno de los padres de la ciencia de la documentación, la fundaron en 1907 como Oficina Central de Asociaciones Internacionales. Empezaron inventariando las organizaciones con sede en Bélgica y, con el sociólogo Cyril van Overbergh, las ampliaron a otros países. Colaboraron con Alfred Fried en un anuario y luego sacaron el suyo. En 1923 publicó una recopilación de resoluciones de organismos internacionales, con prólogo de La Fontaine."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, en 1895 La Fontaine, «socialista y masón», y Otlet fundaron el Instituto Internacional de Bibliografía, luego Unión de Asociaciones Internacionales («la mesa redonda»); en 1920 La Fontaine fue relator de una comisión de la Sociedad de Naciones y hoy la unión acoge los 17 objetivos de la Agenda 2030: «solo han cambiado de nombre»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La unión consultada fecha su origen en 1907, no en 1895; el instituto bibliográfico es una entidad anterior distinta y no se ha leído sobre él. En lo leído no aparecen la masonería, la comisión de 1920 ni la Agenda 2030.\n\nDocumentar organizaciones no equivale a dirigirlas. Pendiente: fuentes sobre el instituto de 1895 y sobre la financiación de ambos."
+    }
+   ],
    "vista": "politica"
   },
   {
