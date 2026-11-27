@@ -4903,11 +4903,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Se fundó en 1857 con autorización real de Isabel II, como era obligatorio para los bancos emisores. Es una sociedad cotizada; la familia Botín tiene una participación minoritaria y lo preside. Pendiente de contrastar. (títulos de los Botín y blanqueo para cárteles)",
+    "resumen": "Se fundó en 1857 con autorización real de Isabel II, como era obligatorio para los bancos emisores. Es una sociedad cotizada; la familia Botín tiene una participación minoritaria y lo preside. En 2008 Juan Carlos I creó el marquesado de O'Shea para Paloma O'Shea, esposa de Emilio Botín. No se ha encontrado en lo consultado ninguna resolución que acredite blanqueo de dinero para cárteles ni para Pablo Escobar.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Banco Santander",
       "url": "https://es.wikipedia.org/wiki/Banco_Santander"
+     },
+     {
+      "titulo": "Wikipedia (en): Marquess of O'Shea",
+      "url": "https://en.wikipedia.org/wiki/Marquess_of_O%27Shea",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -4942,7 +4947,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Un real decreto de autorización no convierte en propietaria a la Corona: los promotores documentados son comerciantes. En lo leído no consta capital de la monarquía ni blanqueo para cárteles, y sobre eso no hay prueba en la ficha.\n\nPendientes: la composición del accionariado, los títulos de los Botín y fuentes independientes sobre las acusaciones."
+     "texto": "Un real decreto de autorización no convierte en propietaria a la Corona: los promotores documentados son comerciantes. En lo leído no consta capital de la monarquía ni blanqueo para cárteles, y sobre eso no hay prueba en la ficha.\n\nEn 2008 Juan Carlos I creó el marquesado de O'Shea para Paloma O'Shea, esposa de Emilio Botín. Pendientes: la composición del accionariado y fuentes independientes sobre las acusaciones."
     }
    ],
    "naturaleza": "banca",
@@ -6235,7 +6240,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "BlackRock se fundó en 1988 y es la mayor gestora de activos del mundo; con Vanguard y State Street es accionista institucional de muchas grandes empresas. Pendiente de contrastar las cifras que da Nocera y el papel de BlackRock en la reconstrucción de Ucrania (acuerdos con el gobierno ucraniano a finales de 2022).",
+    "resumen": "BlackRock se fundó en 1988 y es la mayor gestora de activos del mundo; con Vanguard y State Street es accionista institucional de muchas grandes empresas. En noviembre de 2022 su filial de asesoría firmó un memorando con el Ministerio de Economía de Ucrania para diseñar un marco de inversión para la reconstrucción, y en 2025 Bloomberg informó de que había paralizado la búsqueda de inversores para ese fondo. Los activos que gestiona (15,3 billones de dólares en 2026, según Wikipedia) son de sus clientes: compararlos con los activos de una empresa o con el PIB de un país no mide lo mismo, y esos múltiplos no se han comprobado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: BlackRock",
@@ -6249,6 +6254,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): BlackRock",
       "url": "https://en.wikipedia.org/wiki/BlackRock",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "BlackRock: memorando con el Ministerio de Economía de Ucrania (16-11-2022)",
+      "url": "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-financial-markets-advisory-to-advise-ministry-of-economy-of-ukraine",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Kyiv Post: BlackRock se retira de la iniciativa del fondo para Ucrania",
+      "url": "https://www.kyivpost.com/amp/post/55865",
       "consultado": "2026-11-27"
      }
     ]
@@ -6278,7 +6293,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Creció con compras como la de State Street Research (2004) y, sobre todo, la del negocio de fondos cotizados de Barclays tras la crisis, que la hizo la mayor gestora del mundo; en 2023 gestionaba unos 9,4 billones de dólares. En 2022 anunció con Zelenski un papel en la reconstrucción de Ucrania. Un informe de la ONU de 2025 la citó entre los grandes inversores en empresas tecnológicas y militares ligadas a la guerra de Gaza."
+     "texto": "Creció con compras como la de State Street Research (2004) y, sobre todo, la del negocio de fondos cotizados de Barclays tras la crisis, que la hizo la mayor gestora del mundo; en 2023 gestionaba unos 9,4 billones de dólares. En noviembre de 2022 su filial de asesoría firmó un memorando con el Ministerio de Economía de Ucrania para la reconstrucción; en 2025 Bloomberg informó de que había paralizado la búsqueda de inversores para el fondo. Un informe de la ONU de 2025 la citó entre los grandes inversores en empresas tecnológicas y militares ligadas a la guerra de Gaza."
     },
     {
      "titulo": "Seguir el dinero",
@@ -7417,7 +7432,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Organización fraternal católica fundada en 1882 en New Haven por el sacerdote Michael McGivney, dedicada a la ayuda mutua y la beneficencia. Pendiente de contrastar. (presencia en inteligencia y policía) Su nombre homenajea a Cristóbal Colón; no tiene relación documentada con la familia Colonna.",
+    "resumen": "Organización fraternal católica fundada en 1882 en New Haven por el sacerdote Michael McGivney, dedicada a la ayuda mutua y la beneficencia. No se ha encontrado en lo consultado ninguna fuente que documente una presencia destacada de sus miembros en los servicios de inteligencia o en la policía. Su nombre homenajea a Cristóbal Colón; no tiene relación documentada con la familia Colonna.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Knights of Columbus",
@@ -8587,11 +8602,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mónaco fue protectorado del Reino de Cerdeña, de los Saboya, entre 1815 y 1861; hoy es un principado soberano. El primer casino público fue el Ridotto de Venecia (1638). Los Saboya reinaron en Italia hasta 1946. Pendiente de contrastar. (medalla a Putin; cargos en Malta y Pirelli)",
+    "resumen": "Mónaco fue protectorado del Reino de Cerdeña, de los Saboya, entre 1815 y 1861; hoy es un principado soberano. El primer casino público fue el Ridotto de Venecia (1638). Los Saboya reinaron en Italia hasta 1946. Aimone de Saboya-Aosta fue nombrado director general de Pirelli en 2000 y en 2013 consejero delegado de Pirelli Tyre para Rusia y los países nórdicos; es embajador de la Orden de Malta ante Rusia y en 2020 presentó sus credenciales a Putin. No se ha encontrado respaldo para una medalla a Putin en 2003.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Casa de Saboya",
       "url": "https://es.wikipedia.org/wiki/Casa_de_Saboya"
+     },
+     {
+      "titulo": "Embajada de la Orden de Malta en Rusia: el embajador",
+      "url": "https://russiaembassy.orderofmalta.int/en/the-ambassador/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16154,7 +16174,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. El censo contó 3.929.214 habitantes. No consta una ley federal de bancarrota de 1813 en EE. UU. (la de 1800 se derogó en 1803), aunque sí una británica de ese año sobre presos por deudas. El recuento de las veces que las leyes usan la palabra «deuda» no se ha comprobado.",
     "fuentes": [
      {
       "titulo": "Constitución de EE. UU. (art. VI)",
@@ -16194,6 +16214,21 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): History of bankruptcy law in the United States",
       "url": "https://en.wikipedia.org/wiki/History_of_bankruptcy_law_in_the_United_States",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): 1790 United States census",
+      "url": "https://en.wikipedia.org/wiki/1790_United_States_census",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Article Six of the United States Constitution",
+      "url": "https://en.wikipedia.org/wiki/Article_Six_of_the_United_States_Constitution",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Insolvent Debtors (England) Act 1813",
+      "url": "https://en.wikipedia.org/wiki/Insolvent_Debtors_(England)_Act_1813",
       "consultado": "2026-11-27"
      }
     ]
@@ -16239,7 +16274,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica no se ha comprobado. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
     }
    ],
    "vista": "economia"
@@ -20295,7 +20330,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En mayo de 1860 Garibaldi desembarcó en Sicilia con unos mil voluntarios, derrotó a las tropas borbónicas con apoyo local y pasó a Nápoles. La historiografía discute el papel de la ayuda británica y la desmoralización del ejército borbónico. Pendiente de contrastar el tamaño de ese ejército.",
+    "resumen": "En mayo de 1860 Garibaldi desembarcó en Sicilia con unos mil voluntarios, derrotó a las tropas borbónicas con apoyo local y pasó a Nápoles. La historiografía discute el papel de la ayuda británica y la desmoralización del ejército borbónico. El ejército borbónico tenía del orden de 90.000 a 100.000 soldados, más de 120.000 en teoría en caso de guerra, pero en Palermo había entre 20.000 y 25.000, y los voluntarios llegados después superaron con mucho a los primeros mil.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Expedición de los Mil",
@@ -20304,6 +20339,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Expedition of the Thousand",
       "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Esercito delle Due Sicilie",
+      "url": "https://it.wikipedia.org/wiki/Esercito_delle_Due_Sicilie",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Unification of Italy",
+      "url": "https://en.wikipedia.org/wiki/Unification_of_Italy",
       "consultado": "2026-11-27"
      }
     ]
@@ -21276,7 +21321,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Sociedad Fabiana se fundó en Londres en 1884; es socialista y gradualista, toma el nombre del general romano Fabio Máximo y su estrategia de desgaste, e influyó en el Partido Laborista británico. Pendiente de contrastar las visitas de fabianos a Rusia y la tesis de una síntesis deliberada con el capitalismo.",
+    "resumen": "La Sociedad Fabiana se fundó en Londres en 1884; es socialista y gradualista, toma el nombre del general romano Fabio Máximo y su estrategia de desgaste, e influyó en el Partido Laborista británico. Varios fabianos destacados viajaron a la Unión Soviética y la vieron con simpatía: Bernard Shaw se reunió con Stalin en 1931, y Sidney y Beatrice Webb pasaron allí dos meses en 1932 antes de publicar un extenso estudio en 1935. No se ha encontrado en lo consultado respaldo para la tesis de una síntesis deliberada con el capitalismo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sociedad Fabiana",
@@ -21295,6 +21340,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Fabian Society",
       "url": "https://en.wikipedia.org/wiki/Fabian_Society",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): George Bernard Shaw",
+      "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Beatrice Webb",
+      "url": "https://en.wikipedia.org/wiki/Beatrice_Webb",
       "consultado": "2026-11-27"
      }
     ]
@@ -21335,7 +21390,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Constan el nombre y la estrategia gradual, y la pertenencia de Wells. En lo leído no aparece un plan de gobierno mundial, ni Rosmini, ni la pertenencia de Orwell.\n\nLectura de trabajo de Nexus: la eugenesia y la fundación de una escuela de economía son hechos con mucho peso para entender qué se jugaban. Pendientes: las visitas a la URSS."
+     "texto": "Constan el nombre y la estrategia gradual, y la pertenencia de Wells. En lo leído no aparece un plan de gobierno mundial, ni Rosmini, ni la pertenencia de Orwell.\n\nLectura de trabajo de Nexus: la eugenesia y la fundación de una escuela de economía son hechos con mucho peso para entender qué se jugaban. Sobre las visitas: Shaw se reunió con Stalin en 1931 y los Webb pasaron dos meses en la URSS en 1932; no se ha hallado en lo leído una visita para felicitar a Lenin."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -29839,11 +29894,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los jesuitas llegaron a Japón en 1549 con Francisco Javier, fueron prohibidos en 1614 y volvieron tras la apertura Meiji. En 1913 fundaron la Universidad Sofía de Tokio (Jōchi Daigaku), universidad católica privada con campus principal en Yotsuya (Chiyoda), reconocida como una de las tres mejores privadas del país junto con Keiō y Waseda. Pendiente de contrastar.",
+    "resumen": "Los jesuitas llegaron a Japón en 1549 con Francisco Javier, fueron prohibidos en 1614 y volvieron tras la apertura Meiji. En 1913 fundaron la Universidad Sofía de Tokio (Jōchi Daigaku), universidad católica privada con campus principal en Yotsuya (Chiyoda), reconocida como una de las tres mejores privadas del país junto con Keiō y Waseda. La prohibición del cristianismo se levantó en 1873 y la escuela obtuvo rango universitario en 1928. No se ha encontrado en lo consultado respaldo para que los jesuitas alteraran la dinastía japonesa o manejaran a sus dirigentes.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Universidad Sofía",
       "url": "https://es.wikipedia.org/wiki/Universidad_Sofía"
+     },
+     {
+      "titulo": "Wikipedia (en): Sophia University",
+      "url": "https://en.wikipedia.org/wiki/Sophia_University",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Kirishitan",
+      "url": "https://en.wikipedia.org/wiki/Kirishitan",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31172,11 +31237,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El término «leyenda negra» lo popularizó Julián Juderías en 1914; designa la imagen negativa de España creada por la propaganda de sus rivales (protestantes, holandeses, ingleses e italianos) desde el siglo XVI. Pendiente de contrastar el papel que atribuye Guerra a Venecia.",
+    "resumen": "El término «leyenda negra» lo popularizó Julián Juderías en 1914; designa la imagen negativa de España creada por la propaganda de sus rivales (protestantes, holandeses, ingleses e italianos) desde el siglo XVI. El historiador Sverker Arnoldsson situó su origen en la Italia medieval, con una primera fase anticatalana o antiaragonesa desde comienzos del siglo XIV; la tesis es discutida y no se ha encontrado en lo consultado apoyo para atribuir ese origen en particular a Venecia.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Leyenda negra española",
       "url": "https://es.wikipedia.org/wiki/Leyenda_negra_espa%C3%B1ola"
+     },
+     {
+      "titulo": "Wikipedia (en): Black Legend",
+      "url": "https://en.wikipedia.org/wiki/Black_Legend_(Spain)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38995,11 +39065,16 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Orden dinástica de caballería vinculada a la Casa de Borbón-Dos Sicilias. Su gran maestrazgo lo disputan dos ramas de la familia. Pendiente de contrastar. (visitas al USS Enterprise y acuerdos con EE. UU.)",
+    "resumen": "Orden dinástica de caballería vinculada a la Casa de Borbón-Dos Sicilias. Su gran maestrazgo lo disputan dos ramas de la familia. Consta que Carlos de Borbón-Dos Sicilias, uno de los aspirantes al maestrazgo, asistió a una recepción a bordo del portaaviones USS Enterprise en Nápoles el 19-10-2012. No se han encontrado en lo consultado acuerdos entre la orden o el ducado de Castro y el gobierno de Estados Unidos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Sacred Military Constantinian Order of Saint George",
       "url": "https://en.wikipedia.org/wiki/Sacred_Military_Constantinian_Order_of_Saint_George"
+     },
+     {
+      "titulo": "DVIDS: Reception aboard USS Enterprise (19-10-2012)",
+      "url": "https://www.dvidshub.net/image/763740/reception-aboard-uss-enterprise",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -43673,7 +43748,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Estado formado en 1816 al unirse los reinos de Nápoles y de Sicilia bajo los Borbones; Garibaldi lo derrocó en 1860 y se anexionó al Reino de Italia en 1861. Los historiadores económicos lo describen como un estado sobre todo agrario, con desarrollo industrial limitado frente al norte; la tesis de su gran prosperidad es discutida. Pendiente de contrastar.",
+    "resumen": "Estado formado en 1816 al unirse los reinos de Nápoles y de Sicilia bajo los Borbones; Garibaldi lo derrocó en 1860 y se anexionó al Reino de Italia en 1861. Los historiadores económicos lo describen como un estado sobre todo agrario, con desarrollo industrial limitado frente al norte; la tesis de su gran prosperidad es discutida. También constan finanzas saneadas y algunas industrias punteras, junto a una economía basada en la agricultura y un campesinado muy pobre; no se ha encontrado en lo consultado la clasificación que lo sitúa entre los cinco primeros países del mundo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Reino de las Dos Sicilias",
@@ -51848,7 +51923,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Risorgimento llevó a la proclamación del Reino de Italia en 1861 y a la anexión de Venecia (1866) y de Roma (1870). La historiografía subraya el papel del Piamonte, de Cavour y de Garibaldi y el apoyo diplomático de Francia y el Reino Unido; la tesis de un pacto de familias nobles no forma parte de la versión académica. Pendiente de contrastar.",
+    "resumen": "El Risorgimento llevó a la proclamación del Reino de Italia en 1861 y a la anexión de Venecia (1866) y de Roma (1870). La historiografía subraya el papel del Piamonte, de Cavour y de Garibaldi y el apoyo diplomático de Francia y el Reino Unido; la tesis de un pacto de familias nobles no forma parte de la versión académica.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unificación de Italia",
@@ -51862,6 +51937,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Expedition of the Thousand",
       "url": "https://en.wikipedia.org/wiki/Expedition_of_the_Thousand",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Historical Journal (Cambridge): representantes británicos en Italia, 1860-1870",
+      "url": "https://www.cambridge.org/core/journals/historical-journal/article/british-representatives-and-the-surveillance-of-italian-affairs-186070/6CCBFA550B17513E9DA7A04ED85CB45B",
       "consultado": "2026-11-27"
      }
     ]
@@ -53388,11 +53468,21 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Una investigación de Associated Press (2025) documentó que empresas tecnológicas de EE. UU. vendieron o diseñaron tecnología usada en la vigilancia policial china, también en Xinjiang. La Agencia Internacional de la Energía calcula que el consumo eléctrico de los centros de datos se duplicará hacia 2030. Pendiente de contrastar. (autor de la investigación)",
+    "resumen": "Una investigación de Associated Press (2025) documentó que empresas tecnológicas de EE. UU. vendieron o diseñaron tecnología usada en la vigilancia policial china, también en Xinjiang. La Agencia Internacional de la Energía calcula que el consumo eléctrico de los centros de datos se duplicará hacia 2030. La investigación, publicada en septiembre de 2025, la firma Dake Kang con la agencia y partió de documentos obtenidos por la periodista independiente Yael Grauer.",
     "fuentes": [
      {
       "titulo": "IEA: Energy and AI (2025)",
       "url": "https://www.iea.org/reports/energy-and-ai"
+     },
+     {
+      "titulo": "Fortune (AP): Amazon, IBM y Dell ayudaron a construir la vigilancia china",
+      "url": "https://fortune.com/2025/09/09/amazon-ibm-dell-aws-china-surveillance-state-predictive-policing",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "AP: cómo se hizo la investigación",
+      "url": "https://www.yahoo.com/news/articles/ap-uncovered-us-big-techs-041210530.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78472,7 +78562,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Fraile servita, teólogo e historiador (1552–1623). Defendió a Venecia frente al papado durante el interdicto de 1606–1607 y escribió una historia crítica del Concilio de Trento. Fue nombrado teólogo consultor de la República en 1606. Se conservan unas 450 cartas suyas; en 1769 un incendio afectó al convento servita de Venecia (pendiente de contrastar el alcance de la pérdida). Estudió anatomía y el magnetismo y describió las válvulas venosas, pero los historiadores atribuyen la circulación de la sangre a William Harvey (1628).",
+    "resumen": "Fraile servita, teólogo e historiador (1552–1623). Defendió a Venecia frente al papado durante el interdicto de 1606–1607 y escribió una historia crítica del Concilio de Trento. Fue nombrado teólogo consultor de la República en 1606. Se conservan unas 450 cartas suyas; en 1769 un gran incendio destruyó el convento servita de Venecia, cuyo archivo habían consultado antes otros estudiosos; no se ha comprobado cuántos de los papeles de Sarpi se perdieron. Estudió anatomía y el magnetismo y describió las válvulas venosas, pero los historiadores atribuyen la circulación de la sangre a William Harvey (1628).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Paolo Sarpi",
@@ -78481,6 +78571,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Paolo Sarpi",
       "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikisource: Bianchi-Giovini, Biografia di Frà Paolo Sarpi (1847), vol. 2",
+      "url": "https://it.wikisource.org/wiki/Pagina:Bianchi-Giovini_-_Biografia_di_Fr%C3%A0_Paolo_Sarpi,_vol.2,_Zurigo,_1847.djvu/411",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Santa Maria dei Servi (guía de Venecia)",
+      "url": "https://facarospauls.com/apps/venice-art-and-culture/8500/santa-maria-dei-servi",
       "consultado": "2026-11-27"
      }
     ]
