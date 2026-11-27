@@ -1379,6 +1379,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El concilio de Verona resolvió diferencias de jurisdicción entre el papado y el emperador Federico I."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 4 de noviembre de 1184, en Verona, Lucio III emitió «Ad abolendam», con medidas para erradicar la herejía. Impulsó los esfuerzos que desembocaron en la cruzada albigense y en las inquisiciones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Solo se ha leído una fuente; no se detalla aquí su aplicación."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -17707,6 +17729,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Donación de Constantino",
       "url": "https://es.wikipedia.org/wiki/Donaci%C3%B3n_de_Constantino",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Donation of Constantine",
+      "url": "https://en.wikipedia.org/wiki/Donation_of_Constantine",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17722,6 +17749,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El documento",
+     "nivel": "hecho",
+     "texto": "Es un decreto apócrifo atribuido a Constantino que reconocía soberano al papa Silvestre I y le entregaba Roma, Italia y el resto del Imperio de Occidente."
+    },
+    {
+     "titulo": "Uso y descubrimiento",
+     "nivel": "hecho",
+     "texto": "En el siglo VIII, cuando Pipino entregó tierras tomadas a los lombardos y el papa pasó a ser monarca temporal, sirvió para justificar ese poder. Se dudaba de él ya en la Edad Media, como hizo Otón III hacia el año 1000, y en 1440 Lorenzo Valla demostró por el análisis del lenguaje que no podía ser de hacia el año 300."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los Estados Pontificios son herencia del «fraude constantiniano»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La falsedad está demostrada. Los Estados Pontificios tuvieron además otra base, la donación de Pipino."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -17759,6 +17808,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Donation of Pepin",
       "url": "https://en.wikipedia.org/wiki/Donation_of_Pepin",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (es): Donación de Pipino",
+      "url": "https://es.wikipedia.org/wiki/Donaci%C3%B3n_de_Pipino",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17778,6 +17832,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Con la caída de Rávena ante el rey lombardo Astolfo en 751 desapareció la protección imperial sobre Roma. Esteban II negoció una tregua que Astolfo rompió y acudió a Pipino; en abril de 754, en Quierzy, este le prometió tierras, quizá solo de palabra."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Pipino invadió Italia, venció a Astolfo y en 756 entregó al papa el exarcado de Rávena y el ducado de Roma. Se considera la base de la autoridad temporal del papado y un hito de la alianza con los carolingios."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Los papas medievales no lograron ejercer una soberanía efectiva sobre un territorio tan montañoso y fragmentado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, es el nacimiento del Estado Papal y de la alianza sellada en Saint-Denis hacia 760."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La donación y su peso constan. En lo buscado no aparece el sello de la alianza en Saint-Denis en torno a 760."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -30524,6 +30605,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La ciudad",
+     "nivel": "hecho",
+     "texto": "Jerusalén está en los montes de Judea y es ciudad santa del judaísmo, el cristianismo y el islam."
+    },
+    {
+     "titulo": "Lo que consta",
+     "nivel": "hecho",
+     "texto": "Su historia documentada recorre milenios, con los reinos bíblicos, Babilonia, Roma, las cruzadas, Saladino, los otomanos y la época contemporánea."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en el siglo XI la capital pasó al Bósforo, donde surgió «Jeros», a la vez Jerusalén, Zar Grad y Troya; en los siglos XIII-XIV se movió a Constantinopla, y a esa Jerusalén fueron los cruzados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído nada apoya una Jerusalén en el Bósforo; la propuesta pertenece a la Nueva Cronología. Las fuentes de esta ficha son limitadas."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -31493,6 +31596,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Laudabiliter",
       "url": "https://es.wikipedia.org/wiki/Laudabiliter",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Laudabiliter",
+      "url": "https://en.wikipedia.org/wiki/Laudabiliter",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31500,6 +31608,28 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Iglesia irlandesa funcionaba con bastante autonomía frente a la reforma gregoriana."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La bula, atribuida en 1155 a Adriano IV, el único papa inglés, concedía a Enrique II el derecho a invadir y gobernar Irlanda y aplicar la reforma. Los jefes de la invasión anglonormanda de 1169-1171 alegaron que los autorizaba, y Enrique II pasó a Irlanda en 1171."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No se conserva ningún ejemplar y su existencia se discute; se apoya en referencias desde el siglo XIII, y hay quien la tiene por falsificada o modificada."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -32591,6 +32721,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Félix III",
       "url": "https://www.wikipedia.org/wiki/Felix_III",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (es): Gregorio Magno",
+      "url": "https://es.wikipedia.org/wiki/Gregorio_Magno",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Felix III",
+      "url": "https://en.wikipedia.org/wiki/Pope_Felix_III",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -32602,6 +32742,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Gregorio nació en Roma hacia 540 en una rica familia patricia, cristiana de antiguo, hijo de Gordiano y Silvia, ambos venerados como santos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Fue papa del 3 de septiembre de 590 al 12 de marzo de 604, el primer monje en serlo. La Wikipedia en español lo sitúa en la gens Anicia, hace de Félix III su bisabuelo y cuenta entre sus parientes al papa Agapito I."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, descendía de los Anicios, presentes desde las guerras de Macedonia, y Félix III y Félix IV compartían su sangre, prueba de que los papas pertenecen a un linaje."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El parentesco con Félix III consta como filiación transmitida, con distinto número de generaciones según la fuente. En lo leído no aparece Félix IV, y un parentesco entre algunos papas no demuestra un linaje continuo."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -38850,6 +39012,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Omne datum optimum",
       "url": "https://es.wikipedia.org/wiki/Omne_datum_optimum",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Omne datum optimum",
+      "url": "https://en.wikipedia.org/wiki/Omne_datum_optimum",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -38866,6 +39033,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Orden del Temple, entonces reciente, necesitaba respaldo y estatuto propio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 29 de marzo de 1139 Inocencio II promulgó la bula, que aprobaba la regla, daba protección papal, concedía el botín tomado a los sarracenos en Tierra Santa, eximía de pagar diezmos a los obispos y hacía responder a la orden solo ante el papa. Su nombre cita la epístola de Santiago 1,17."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La exención de diezmos y el botín fueron privilegios económicos de primer orden."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su contenido consta. En lo leído no se detalla cómo la recibieron los obispos."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -40029,6 +40223,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Monte Cassino",
       "url": "https://en.wikipedia.org/wiki/Monte_Cassino",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Benedictines",
+      "url": "https://en.wikipedia.org/wiki/Benedictines",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -40040,6 +40239,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Benito de Nursia, monje italiano del siglo VI, dejó Subiaco, donde según la tradición conspiraron contra él, y se trasladó a Montecassino."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Allí, hacia 529, empezó un monasterio regido por su Regla, de 73 capítulos, con el «ora et labor». Es la orden más antigua de la Iglesia latina, contemplativa; su expansión y reformas, como Cluny y el Císter, pesaron en la evangelización de Europa, y varios papas fueron benedictinos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, se fundó entre 529 y 530 por un noble del imperio, bajo Odoacro, con los Anicios y Máximos como predecesores."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha tradicional consta. En los pasajes buscados no aparecen los Anicios ni los Máximos como antecesores de la orden."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -40575,6 +40796,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Orden de Montesa",
       "url": "https://es.wikipedia.org/wiki/Orden_de_Montesa"
+     },
+     {
+      "titulo": "Wikipedia (es): Caballeros templarios",
+      "url": "https://es.wikipedia.org/wiki/Caballeros_templarios",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Knights Templar",
+      "url": "https://en.wikipedia.org/wiki/Knights_Templar",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -40589,6 +40820,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La fundaron en 1118 o 1119 nueve caballeros franceses con Hugo de Payns para proteger a los peregrinos a Jerusalén; la regla se aprobó en Troyes en 1129."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Fue una de las órdenes militares más poderosas, extendida por Francia, Alemania, Inglaterra y la península ibérica. En 1307 Felipe IV mandó apresar a muchos templarios, que confesaron bajo tortura, y en 1312 Clemente V, presionado, la disolvió. En Aragón y Castilla los bienes pasaron a órdenes como Montesa, Santiago o Calatrava, y en Portugal Dionisio I la rehízo como Orden de Cristo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Acumuló la mayor riqueza entre los reinos y ofreció servicios bancarios; el rey que la persiguió le debía mucho dinero."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la persecución es un cuento: siguieron en las órdenes hispanas, fueron los primeros sionistas y los jesuitas heredaron su papel. Según Guillermo Mas Arellano, templarios y jesuitas han ido junto a la nobleza negra, con interés en la banca. Jorge Guerra discute un origen judío de las monarquías."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La persecución en Francia y la disolución constan; que otras órdenes recibieran bienes y personas no la desmiente. En lo buscado no aparece que los jesuitas heredaran su papel ni la nobleza negra."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -47297,6 +47555,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras la muerte del papa Formoso en 896 hubo desorden en Roma, y la familia de los Teofilactos fue acumulando cargos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El periodo empieza con Sergio III en 904 y, en su versión larga, acaba con la muerte de Juan XII en 964; los papas estuvieron muy influidos por los Teofilactos, con Teodora y Marozia y luego Alberico II. Baronio le dio nombre de época oscura en el siglo XVI apoyándose en el cronista Liutprando."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, empezó con Sergio III bajo el control de Teofilacto y de Teodora, que usaba el sexo para ejercer el poder, e influían grandes familias."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia familiar consta. La fiabilidad de las acusaciones contra Teodora y Marozia está abierta, porque Liutprando era parte interesada. Sobre el nombre «pornocracia», la Wikipedia en inglés lo atribuye a teólogos protestantes del XIX y la española a Baronio."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -50229,6 +50509,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La bandera",
+     "nivel": "hecho",
+     "texto": "La «Jolly Roger» se asocia a la calavera y las tibias sobre negro."
+    },
+    {
+     "titulo": "Su uso",
+     "nivel": "hecho",
+     "texto": "Según el Museo Marítimo de Greenwich, muchos piratas de finales del XVII y principios del XVIII tenían banderas propias con símbolos de muerte, para comunicarse con los barcos atacados, amenazarlos y forzar su rendición."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, muchos templarios se hicieron piratas y los corsarios célebres siguieron sus normas o fundaron logias, como los Hermanos de la Costa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La Orden del Temple se disolvió en 1312, unos cuatro siglos antes de esas banderas. En lo leído no aparece continuidad alguna."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -93611,9 +93913,36 @@ window.CRONO = {
       "titulo": "Prester John, History Today",
       "url": "https://www.historytoday.com/archive/feature/prester-john-king-who-wasnt-there",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Preste Juan",
+      "url": "https://es.wikipedia.org/wiki/Preste_Juan",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La leyenda",
+     "nivel": "hecho",
+     "texto": "Los relatos europeos medievales hablaban de un rey y sacerdote cristiano en Oriente, nestoriano, que gobernaba una nación perdida entre paganos y musulmanes, a veces descendiente de los Reyes Magos."
+    },
+    {
+     "titulo": "Su recorrido",
+     "nivel": "hecho",
+     "texto": "La leyenda nació en tiempos de las cruzadas, cuando se esperaba ayuda para recuperar Tierra Santa, tomada por los selyúcidas, y circuló entre los siglos XII y XVII; el reino se buscó en Asia y después en Etiopía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, varios soberanos entre los siglos XII y XVII, como Manuel Comneno o Federico Barbarroja, tuvieron contacto con un líder espiritual real, identificado con el Gran Kan."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Se considera una leyenda; en lo leído no consta ningún contacto con un personaje real ni su identidad con un kan."
+    }
+   ],
    "vista": "religion"
   },
   {
