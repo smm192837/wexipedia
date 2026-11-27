@@ -6235,6 +6235,16 @@ window.CRONO = {
       "titulo": "Maison Napoléon Bonaparte — Jean-Christophe",
       "url": "https://www.maison-napoleon-bonaparte.fr/?p=1646",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Jean-Christophe, Prince Napoléon",
+      "url": "https://en.wikipedia.org/wiki/Jean-Christophe,_Prince_Napol%C3%A9on",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "The Imperial Family – Maison Napoléon Bonaparte",
+      "url": "https://www.maison-napoleon-bonaparte.fr/?p=1646",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -6250,6 +6260,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Jean-Christophe es jefe, disputado, de la Casa Imperial de Francia desde la muerte de su abuelo en 1997, y descendiente por su madre de los Borbón-Dos Sicilias."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se casó con la condesa Olympia von und zu Arco-Zinneberg por lo civil en Neuilly-sur-Seine el 17 de octubre de 2019 y por la Iglesia el 19, oficiando el obispo Antoine de Romanet. Ella pertenece a la antigua casa de Arco y es bisnieta de Carlos I de Austria; según la versión oficial se unían Habsburgo y Bonaparte por primera vez en más de dos siglos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Olimpia es de linaje real bávaro y descendiente lejana de María Luisa, segunda esposa de Napoleón I."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La boda y sus ascendencias austríaca y, según la versión oficial, bávara constan. El parentesco con María Luisa sigue sin confirmar; una fuente citada en la ficha la hace sobrina lejana, no descendiente."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -11761,6 +11793,16 @@ window.CRONO = {
       "titulo": "Prosecution of Donald Trump in New York",
       "url": "https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Prosecution of Donald Trump in New York",
+      "url": "https://en.wikipedia.org/wiki/Prosecution_of_Donald_Trump_in_New_York",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Acusación contra Donald Trump en Nueva York",
+      "url": "https://es.wikipedia.org/wiki/Acusaci%C3%B3n_contra_Donald_Trump_en_Nueva_York",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11772,6 +11814,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 2006 la actriz Stormy Daniels conoció a Trump; antes de las elecciones de 2016 recibió un pago a cambio de silencio, y la fiscalía de Manhattan investigó cómo se contabilizó."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Un gran jurado lo imputó el 30 de marzo de 2023 por 34 delitos graves de falsificación de registros mercantiles, la primera acusación penal contra un presidente o expresidente. El 30 de mayo de 2024 el jurado lo declaró culpable de todos. Tras varios aplazamientos y su victoria electoral, el juez Merchan le impuso el 10 de enero de 2025 una exención incondicional: condena sin prisión ni libertad vigilada. Trump la atribuyó a persecución política y la recurrió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, acumula 34 delitos, una multa de más de 400 millones, demandas contra su universidad y su fundación, colaboradores condenados y la trama de electores falsos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los 34 delitos constan. La multa civil, la universidad, la fundación y los electores falsos no aparecen en los pasajes buscados de estos artículos, que tratan el caso de Nueva York."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -16278,6 +16342,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Departamento de Eficiencia Gubernamental",
       "url": "https://es.wikipedia.org/wiki/Departamento_de_Eficiencia_Gubernamental",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Departamento de Eficiencia Gubernamental",
+      "url": "https://es.wikipedia.org/wiki/Departamento_de_Eficiencia_Gubernamental",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Department of Government Efficiency",
+      "url": "https://en.wikipedia.org/wiki/Department_of_Government_Efficiency",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16288,6 +16362,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Trump prometió recortar gasto y burocracia y propuso una comisión de eficiencia encabezada por Musk; Vivek Ramaswamy iba a dirigirla con él y se apartó para ser candidato a gobernador de Ohio."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Se anunció en noviembre de 2024 y se creó el 20 de enero de 2025, como comisión asesora y no como departamento, con oficina en la Casa Blanca. Una de sus primeras medidas fue desmantelar la agencia de ayuda USAID. Musk lo dejó a finales de mayo. Las cifras de ahorro difieren mucho, de unos 100.000 a no más de 30.000 millones de dólares. En noviembre de 2025 el director de la oficina de personal dijo que ya no existía como entidad centralizada."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Varios responsables de informática colocados en las agencias venían de empresas de Musk o de Palantir, ligada a Thiel."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Musk y Thiel parecen nuevos ricos frente a la vieja riqueza, pero los aupó el Estado, y el nombre DOGE es un guiño al dux veneciano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia de gente de sus empresas consta y apunta a conflictos de interés. El guiño veneciano no tiene apoyo: la versión oficial relaciona el nombre con la criptomoneda Dogecoin."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -18893,6 +18994,11 @@ window.CRONO = {
       "titulo": "Comisión Europea: REPowerEU",
       "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "REPowerEU",
+      "url": "https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18904,6 +19010,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Antes de 2022 la Unión Europea dependía en buena medida de los combustibles rusos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Tras la invasión rusa de Ucrania hubo sanciones y una crisis energética. En mayo de 2022 la Comisión lanzó REPowerEU para dejar de importar combustibles fósiles rusos: ahorrar, diversificar proveedores y producir energía limpia, con cerca de 300.000 millones de euros movilizados y un objetivo vinculante de renovables del 42,5 % para 2030. Los países debían presentar antes de marzo de 2026 planes para eliminar el gas y petróleo rusos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, con Gonzalo, la guerra es otro golpe a Europa: energía cara, pérdida de clase media, crisis migratoria y dirigentes no elegidos aplicando un autosabotaje, mientras crecen AfD y Le Pen."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fuente leída es la propia Comisión, parte interesada, que presenta el plan como protección. Que sea autosabotaje es un juicio político; para contrastarlo faltan datos de precios e industria de fuentes independientes."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -27440,6 +27568,16 @@ window.CRONO = {
       "titulo": "Chainalysis: criptomonedas y sanciones",
       "url": "https://www.chainalysis.com/blog/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Iran’s Crypto Economy Hit $7.8 Billion in 2025 as Protests Fueled Bitcoin Use: Chainalysis - Decrypt",
+      "url": "https://decrypt.co/354785/irans-crypto-economy-hit-7-8-billion-in-2025-as-protests-fueled-bitcoin-use",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "close",
+      "url": "https://www.aljazeera.com/amp/news/2026/4/29/how-us-and-iran-are-playing-a-crypto-cat-and-mouse-game-over-sanctions",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27451,6 +27589,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Irán sufre sanciones que lo apartan del sistema bancario occidental y una moneda hundida por la inflación, y ha usado la minería de bitcoin y las monedas estables."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la firma de análisis Chainalysis, citada por Decrypt y Al Jazeera, el ecosistema cripto iraní llegó a unos 7.780 millones de dólares en 2025, creciendo más que el año anterior. Las redes ligadas a la Guardia Revolucionaria sumaron en torno a la mitad del valor recibido en el cuarto trimestre. Desde finales de diciembre, con protestas y apagón de internet, los particulares retiraron mucho bitcoin."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Las criptomonedas sirven a dos bandos: a particulares que huyen de la inflación y a redes del Estado para vender petróleo o comprar armas, más difíciles de rastrear que la banca."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el ecosistema fue de 7,78 «billones» en 2025, unos 3.000 millones dirigidos por la Guardia Revolucionaria, el 4-5 % de la potencia de minado mundial y 507 millones en una moneda estable."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cifra correcta es de miles de millones (7,78 «billion» en inglés), no billones en español. La potencia de minado y los 507 millones no aparecen en las dos noticias leídas, y las cifras son estimaciones de una empresa privada."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -27696,6 +27861,11 @@ window.CRONO = {
       "titulo": "China grants Ivanka Trump five trademarks",
       "url": "https://www.nzherald.co.nz/business/china-grants-ivanka-trump-five-more-trademarks/TYW7LF7RFP4U67P4CV5L22SARY/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "China grants Ivanka Trump five more trademarks - NZ Herald",
+      "url": "https://www.nzherald.co.nz/business/china-grants-ivanka-trump-five-more-trademarks/TYW7LF7RFP4U67P4CV5L22SARY/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27707,6 +27877,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Ivanka Trump tenía una marca propia y trabajaba en la Casa Blanca de su padre mientras Washington negociaba comercio con Pekín."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La oficina china de marcas dio aprobación preliminar a sus empresas a nuevas marcas en enero de 2019: cuatro, entre ellas de guarderías, gafas de sol y vestidos de novia, un domingo, y otra el 6 de enero sobre intermediación, recaudación benéfica y tasación de arte. Se habían pedido en 2016 y 2017 y serían definitivas a los 90 días sin oposición."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Preocupaba el conflicto de intereses: recibir derechos valiosos de un gobierno extranjero podía exponer a la Casa Blanca a presiones, y el catálogo mundial de marcas abría negocios para después."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, que cita un libro de Dan Alexander, China concedió 41 marcas a empresas ligadas a Ivanka Trump en abril de 2019 y las solicitadas tras la presidencia se aprobaron un 40 % más rápido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las concesiones y la polémica constan. Las 41 marcas y el 40 % no aparecen en la noticia leída y el libro no se ha abierto."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -30038,6 +30235,11 @@ window.CRONO = {
       "titulo": "What we learnt from the Matt Hancock WhatsApp revelations",
       "url": "https://www.bmj.com/content/380/bmj.p583",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "https://www.bbc.com/news/uk-politics-64825476",
+      "url": "https://www.bbc.com/news/uk-politics-64825476",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30049,6 +30251,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Durante la pandemia el gobierno británico decidió confinamientos y restricciones con Matt Hancock como ministro de Sanidad."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En marzo de 2023 «The Telegraph» publicó los «Lockdown Files», más de 100.000 mensajes de WhatsApp de Hancock y otros cargos, que le había entregado la periodista Isabel Oakeshott, contraria a los confinamientos y que había trabajado con Hancock en su libro. La BBC lo presentó como una ventana a las decisiones del gobierno y también como una historia de traición y ética periodística. Hancock dijo que el relato estaba distorsionado y sacado de contexto."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los mensajes de Hancock y su asesor Poole del 13 de diciembre de 2020 hablaban de usar la nueva cepa para asustar y lograr cumplimiento."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La filtración consta. El mensaje concreto sobre la cepa no aparece en la noticia leída: conviene cotejarlo en la publicación original."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -30188,6 +30412,16 @@ window.CRONO = {
       "titulo": "Provincial Grand Lodge of Cambridgeshire: voluntariado masónico en la vacunación",
       "url": "https://pglcambs.org.uk/cambridgeshire-freemasons-volunteer-for-vaccination-drive/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Freemasons invited to volunteer for vaccination drive | United Grand Lodge of England",
+      "url": "https://www.ugle.org.uk/about-us/media-centre/press-releases/freemasons-invited-volunteer-vaccination-drive",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Cambridgeshire Freemasons Volunteer for Vaccination Drive ~ Provincial Grand Lodge of Cambridgeshire",
+      "url": "https://pglcambs.org.uk/cambridgeshire-freemasons-volunteer-for-vaccination-drive/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30199,6 +30433,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Al empezar la vacunación contra la covid, el servicio de salud británico necesitaba locales y voluntarios."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 2021 la Gran Logia Unida de Inglaterra animó a sus miembros a hacer voluntariado y ofreció sus edificios. Varios sirvieron de centros: Halsey Hall, en Hertfordshire, desde el 15 de enero, apoyando a tres consultorios y previsto para hasta 1.000 dosis diarias; el de Welling vacunó a más de 2.000 personas el 9 y 10 de enero. Las dosis las ponía personal sanitario."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la masonería inglesa convirtió logias en centros de vacunación, con 1.000 al día en Hertfordshire."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los centros constan; los 1.000 diarios eran la capacidad prevista a pleno rendimiento. Fue una cesión de espacios, anunciada en público."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -32362,6 +32618,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las casas reales conservan patrimonios y participaciones, unas públicas y otras privadas, lo que alimenta la idea de que controlan grandes empresas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Según la versión oficial de la ficha, en los accionariados consultados de Shell y Bayer el capital está muy repartido entre fondos: en Shell el mayor accionista declarado es BlackRock, con un 8,27 %, y en Bayer ninguno supera el 4 %. No consta en esos registros una participación relevante de las casas reales citadas. Solo se han comprobado esas dos empresas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, las casas del Palatinado y Wittelsbach tienen acciones de Bayer, las monarquías sueca y liechtensteiniana de una farmacéutica, la española de Telefónica y la banca, los Saboya de Enel, las alemanas de los fabricantes de coches, y las monarquías crearon la sociedad anónima para traficar opio sin exponerse; los jeques tendrían dinero y no poder. Según Jorge Guerra, Shell está repartida entre familias reales."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Para Shell y Bayer los registros no respaldan lo que dicen los autores, aunque un registro público no detecta testaferros. El resto de empresas y la tesis del opio siguen sin comprobar y harían falta sus listas de accionistas."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -36743,6 +37021,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Iran–Israel war",
       "url": "https://en.wikipedia.org/wiki/Iran–Israel_war"
+     },
+     {
+      "titulo": "Wikipedia (en): Twelve-Day War",
+      "url": "https://en.wikipedia.org/wiki/Twelve-Day_War",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36757,6 +37040,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Israel consideraba una amenaza el programa nuclear iraní, que creció tras la salida de EE. UU. del acuerdo en 2018; ambos países arrastraban años de enfrentamientos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 13 de junio de 2025 Israel atacó por sorpresa instalaciones militares y nucleares de Irán y mató a mandos, científicos y políticos, además de civiles; Irán respondió con cientos de misiles y drones. El 22 EE. UU. bombardeó instalaciones nucleares y el 23 Irán atacó su base de Catar; la guerra, de doce días, terminó con un alto el fuego anunciado por Trump. León XIV había sido elegido el 8 de mayo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Trump declaró la guerra a Irán con esta operación un mes después de que el nuevo papa tomara el nombre de León XIV: todo es un teatro."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La operación la lanzó Israel y EE. UU. se sumó nueve días después. La coincidencia del nombre «León» con el del papa no prueba relación, y nada leído apoya que fuera un teatro."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -43928,6 +44233,16 @@ window.CRONO = {
       "titulo": "Cronología de prensa (Reuters/AP), 2025-2026",
       "url": "https://www.reuters.com/world/",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): 2025–2026 Iran–United States negotiations",
+      "url": "https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran%E2%80%93United_States_negotiations",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Twelve-Day War",
+      "url": "https://en.wikipedia.org/wiki/Twelve-Day_War",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -43939,6 +44254,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 2025 EE. UU. e Irán negociaban sobre el programa nuclear, con el enviado estadounidense y el ministro Araghchi en conversaciones indirectas y varias rondas desde abril."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 13 de junio de 2025, en pleno proceso, Israel atacó Irán y mató a mandos y científicos; comenzó la guerra de doce días. Según la versión oficial coincidieron también con negociaciones la operación ucraniana con drones contra bases rusas, a comienzos de junio, y el bombardeo israelí de Doha contra dirigentes de Hamás en septiembre. Las conversaciones con Irán se retomaron después con mediadores, en medio de un nuevo conflicto en 2026."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, desde 2025 todos los intentos de acuerdo de Trump son saboteados con esos tres ataques."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La coincidencia en el tiempo consta; la intención de sabotear no está probada y puede haber otras razones militares. La fuente citada en la ficha era una portada genérica."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -44162,6 +44499,16 @@ window.CRONO = {
       "titulo": "Salut nazi ou « geste maladroit » ? Elon Musk sème le trouble lors de l'investiture de Donald Trump",
       "url": "https://www.franceinfo.fr/internet/elon-musk/salut-nazi-ou-geste-maladroit-elon-musk-seme-le-trouble-lors-de-l-investiture-de-donald-trump_7027412.html",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Menu",
+      "url": "https://www.cbc.ca/news/world/musk-nazi-salute-trump-1.7436957",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Salut nazi ou \"geste maladroit\" ? Elon Musk sème le trouble lors de l'investiture de Donald Trump – franceinfo",
+      "url": "https://www.franceinfo.fr/internet/elon-musk/salut-nazi-ou-geste-maladroit-elon-musk-seme-le-trouble-lors-de-l-investiture-de-donald-trump_7027412.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44181,6 +44528,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Musk había sido un gran donante de la campaña de Trump e iba a dirigir su programa de recortes."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 20 de enero de 2025, en el acto de celebración de la investidura en el Capital One Arena de Washington, se golpeó el pecho y extendió el brazo, un gesto que repitió. Muchos lo compararon con el saludo nazi; el «Jerusalem Post» lo planteó como pregunta y grupos neonazis lo celebraron. La Liga Antidifamación dijo que parecía un gesto torpe en un momento de entusiasmo, y Musk rechazó la acusación como un ataque «cansado»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Musk hizo dos veces el saludo nazi en la toma de posesión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El gesto está grabado; su intención se discute. Describirlo como saludo nazi es una valoración que unos sostienen y otros niegan."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -44370,11 +44739,48 @@ window.CRONO = {
       "titulo": "Expreso: Torre Pacheco, tres días de disturbios (14-7-2025)",
       "url": "https://www.expreso.ec/actualidad/mundo/torre-pacheco-arde-tres-noches-disturbios-racistas-agresion-anciano-249788.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "El ataque a un anciano en Torre Pacheco desata violencia y tensiones xenófobas en Murcia | Euronews",
+      "url": "https://es.euronews.com/2025/07/12/el-macabro-juego-viral-en-el-que-unos-inmigrantes-dan-una-paliza-a-un-anciano-remueve-torr",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "El gobierno español investigará el veto del PP y Vox en las celebraciones islámicas en un pueblo de Murcia",
+      "url": "https://es.ara.cat/politica/pp-vox-alian-vetar-celebraciones-islamicas-espacios-municipales-pueblo-murcia_1_5465639.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Torre Pacheco: Tres días de disturbios y \"violencia racista\" en un pueblo español | NOTICIAS MUNDO",
+      "url": "https://www.expreso.ec/actualidad/mundo/torre-pacheco-arde-tres-noches-disturbios-racistas-agresion-anciano-249788.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La inmigración era en 2025 un eje del enfrentamiento político en España; en Torre Pacheco (Murcia) cerca de un tercio de los vecinos es extranjero."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En julio de 2025 un hombre de 68 años fue agredido de madrugada; sin poder identificar a los autores, dijo que parecían magrebíes, y grupos ultras y de extrema derecha aprovecharon el caso: hubo varias noches de disturbios xenófobos y detenidos. En Jumilla, Vox propuso prohibir la Fiesta del Cordero y el PP, en el gobierno local, la transformó en una enmienda que permite vetar esos rezos en instalaciones deportivas; la Iglesia advirtió que atentaba contra derechos fundamentales y el Gobierno la recurrió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fueron dos operaciones psicológicas mediáticas para perjudicar a la izquierda y alentar una derecha a la derecha del PP, antesala de un «15M» de derechas que integra en su idea del cuarto Reich."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El aprovechamiento político de ambos sucesos está documentado; que fueran planificados como operación no aparece en lo leído y es tesis del autor."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -51049,6 +51455,11 @@ window.CRONO = {
       "titulo": "U.S. Navy: Navy Decommissions «The Big E» (3-2-2017)",
       "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2252799/navy-decommissions-the-big-e/",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Navy Decommissions \"The Big E\" > United States Navy > display-pressreleases",
+      "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2252799/navy-decommissions-the-big-e/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51064,6 +51475,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El relato liga la casa de Borbón-Dos Sicilias, pretendiente a un reino desaparecido en el siglo XIX, con la marina de Estados Unidos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La Marina de EE. UU. dio de baja el portaaviones USS Enterprise (CVN-65) en una ceremonia el 3 de febrero de 2017. Según la versión oficial, Carlos y Camila de Borbón-Dos Sicilias visitaron Nápoles del 3 al 5 de noviembre de 2018, por su aniversario de bodas y el del movimiento neoborbónico, sin portaaviones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, en 2018 un portaaviones estadounidense fue a Nápoles a buscar a Carlos de Borbón para conmemorar 150 años de alianza, con fiesta y honores."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Con ese barco no pudo ocurrir: estaba dado de baja. No se ha hallado visita de otro portaaviones ni la conmemoración; si hubo un acto con otro buque, falta la fuente."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
