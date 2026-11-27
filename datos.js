@@ -8311,7 +8311,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La familia desciende de Marin Tourlonias (1725–1785), comerciante de paños y prestamista de la región de Auvergne (Francia) que se instaló en Roma hacia 1750. Su hijo Giovanni Torlonia (1755–1829) fue banquero del papado y de los franceses; por su gestión de finanzas vaticanas recibió el ducado de Bracciano (1794) y el principado de Civitella Cesi (1803). Alessandro Torlonia financió el desecamiento del lago Fucino (1854–1878), origen de la Banca del Fucino, que la familia controló hasta su venta en 2019. Mussolini vivió en Villa Torlonia de 1925 a 1943 por un alquiler simbólico; en la villa hay un pequeño templo de Saturno y la Casina delle Civette. Alessandro Torlonia se casó con la infanta Beatriz de Borbón en 1935; su nieto es Alessandro Lecquio, y Sibilla Weiller, esposa del príncipe Guillermo de Luxemburgo, es nieta de ambos. Los Torlonia ocupan desde 1958 el cargo de príncipe asistente al solio, hoy ceremonial y en desuso. En las fuentes de referencia sobre la familia no consta ningún delito, y no hay pruebas de las acusaciones de trata ni de sacrificios humanos.",
+    "resumen": "La familia desciende de Marin Tourlonias (1725–1785), comerciante de paños y prestamista de la región de Auvergne (Francia) que se instaló en Roma hacia 1750. Su hijo Giovanni Raimondo Torlonia (1754–1829) fue banquero del papado, nombrado banquero de corte tras el tratado de Tolentino (1797), y trató también con los franceses. Recibió títulos de los papas y compró el feudo de Bracciano a los Odescalchi (1803) y el principado de Civitella Cesi a los Pallavicino (1814). Alessandro Torlonia financió el desecamiento del lago Fucino (1854–1878), origen de la Banca del Fucino, que la familia controló hasta su venta en 2019. Mussolini vivió en Villa Torlonia de 1925 a 1943 por un alquiler simbólico; en la villa hay un pequeño templo de Saturno y la Casina delle Civette. Alessandro Torlonia se casó con la infanta Beatriz de Borbón en 1935; su nieto es Alessandro Lecquio, y Sibilla Weiller, esposa del príncipe Guillermo de Luxemburgo, es nieta de ambos. Los Torlonia ocupan desde 1958 el cargo de príncipe asistente al solio, hoy ceremonial y en desuso. En las fuentes de referencia sobre la familia no consta ningún delito, y no hay pruebas de las acusaciones de trata ni de sacrificios humanos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Torlonia",
@@ -8334,6 +8334,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (it): Giovanni Raimondo Torlonia",
       "url": "https://it.wikipedia.org/wiki/Giovanni_Raimondo_Torlonia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Treccani, Dizionario Biografico degli Italiani: Torlonia, Giovanni Raimondo (D. Felisini)",
+      "url": "https://www.treccani.it/enciclopedia/giovanni-raimondo-torlonia_(Dizionario-Biografico)/",
       "consultado": "2026-11-27"
      }
     ]
@@ -8384,7 +8389,7 @@ window.CRONO = {
     {
      "titulo": "Títulos y relación con el papado",
      "nivel": "hecho",
-     "texto": "La familia administró finanzas de la Santa Sede y recibió títulos de los papas. Las fechas del principado de Civitella Cesi no coinciden: la versión inglesa lo da en 1803, bajo Pío VII, y la italiana en 1814. Sus miembros emparentaron en dos generaciones con casas como Colonna, Orsini y Borghese."
+     "texto": "La biografía de Daniela Felisini en el Dizionario Biografico de Treccani cuenta que el papa lo nombró banquero de corte y proveedor de los palacios apostólicos por su ayuda para pagar la contribución impuesta en Tolentino (1797), y que fue marqués de Roma Vecchia, finca que había comprado. Bracciano lo adquirió a los Odescalchi en 1803, con cláusula de rescate, y Civitella Cesi a los Pallavicino en 1814.\n\nLa Wikipedia inglesa fecha en cambio el título de príncipe en 1803 en un artículo y en 1809 o 1814 en otro. Sus hijos emparentaron con casas como Sforza Cesarini, Orsini y Colonna, y la familia más tarde con los Borghese."
     },
     {
      "titulo": "Del Fucino a la banca",
@@ -14022,7 +14027,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La serie del Tesoro consultada empieza en 1790, así que no respalda la cifra de 43 millones en enero de 1783 que recoge la versión oficial de esta ficha; falta localizar su fuente. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica no se ha comprobado. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica no se ha comprobado. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
     }
    ],
    "vista": "economia"
@@ -16348,7 +16353,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Prusia ya tenía escuela obligatoria desde 1763, por un reglamento de Federico II. Tras la derrota de Jena (1806), Stein puso la enseñanza en 1807 bajo el Ministerio del Interior, con Wilhelm von Humboldt al frente de una sección especial: reformó la secundaria con un ideal humanista, exigió a los maestros exámenes del Estado (1810) y recuperó el Abitur (1812). Fichte pedía entonces usar la educación de los jóvenes para cultivar el nacionalismo; que el sistema fuera un ensayo militar de adoctrinamiento es una interpretación del autor que las fuentes de referencia no recogen.",
+    "resumen": "Prusia ya tenía escuela obligatoria desde 1763, por un reglamento de Federico II. Tras la derrota de Jena (1806), dentro de las reformas que impulsó Stein, la enseñanza pasó a una sección del Ministerio del Interior que Wilhelm von Humboldt, propuesto a finales de 1808, dirigió en 1809-1810 con un proyecto de formación general de ideal humanista. En 1810 se exigió a los maestros un examen del Estado y en 1812 se recuperó el Abitur. Fichte pedía entonces usar la educación de los jóvenes para cultivar el nacionalismo; que el sistema fuera un ensayo militar de adoctrinamiento es una interpretación del autor que las fuentes de referencia no recogen.",
     "fuentes": [
      {
       "titulo": "Britannica: Education — Prussia, Humboldt's reforms",
@@ -16364,6 +16369,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Battle of Jena–Auerstedt",
       "url": "https://en.wikipedia.org/wiki/Battle_of_Jena%E2%80%93Auerstedt",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (de): Wilhelm von Humboldt",
+      "url": "https://de.wikipedia.org/wiki/Wilhelm_von_Humboldt",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17005,7 +17015,7 @@ window.CRONO = {
     "desde": 1884,
     "texto": "5 de agosto de 1884"
    },
-   "resumen": "Piedra colocada en ceremonia masónica 82 años antes que la del WTC. El NPS confirma una ceremonia de colocación de la piedra angular del pedestal el 5-8-1884 (obras iniciadas en 1883).",
+   "resumen": "La piedra angular del pedestal de la Estatua de la Libertad se colocó el 5-8-1884 (obras iniciadas en 1883) en una ceremonia masónica: la puso William A. Brodie, gran maestre de los masones del estado de Nueva York.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -17017,7 +17027,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El NPS confirma una ceremonia de colocación de la piedra angular del pedestal el 5-8-1884 (obras iniciadas en 1883). Las fuentes consultadas no mencionan la dirección de la ceremonia por la Gran Logia masónica de Nueva York: ese punto no está comprobado.",
+    "resumen": "La piedra angular del pedestal de la Estatua de la Libertad se colocó el 5-8-1884 (obras iniciadas en 1883) en una ceremonia masónica: la puso William A. Brodie, gran maestre de los masones del estado de Nueva York. Lo recoge la placa conmemorativa que los masones de Nueva York colocaron en 1984, que menciona además la asistencia de representantes de los gobiernos de Estados Unidos y Francia.",
     "fuentes": [
      {
       "titulo": "National Park Service — Statue of Liberty NM Guidebook (1940)",
@@ -17032,6 +17042,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Statue of Liberty",
       "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "HMDB: placa «Cornerstone of the Statue of Liberty Pedestal» (Masones de Nueva York, 1984)",
+      "url": "https://www.hmdb.org/m.asp?m=148768",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): William A. Brodie",
+      "url": "https://en.wikipedia.org/wiki/William_A._Brodie",
       "consultado": "2026-11-27"
      }
     ]
@@ -17057,7 +17077,7 @@ window.CRONO = {
     {
      "titulo": "La masonería y la primera piedra",
      "nivel": "hecho",
-     "texto": "La piedra angular lleva una placa colocada por los masones. La versión oficial de esta ficha da el 5 de agosto de 1884 para la ceremonia y dice que no está comprobado quién la dirigió; lo leído hoy añade la placa, sin detallar el acto."
+     "texto": "El 5 de agosto de 1884 William A. Brodie, gran maestre de los masones del estado de Nueva York, colocó la piedra angular con ceremonia, ante miembros de la gran logia, representantes de los dos gobiernos, oficiales del ejército y la marina y legaciones extranjeras. Así lo dice la placa que los masones de Nueva York pusieron en el centenario.\n\nLa piedra angular lleva además una placa colocada por los masones."
     },
     {
      "titulo": "Qué representa",
@@ -17072,7 +17092,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La presencia masónica en la piedra angular tiene apoyo. La lectura luciferina y andrógina es interpretación del autor y no aparece en lo leído; la coincidencia de 82 años no prueba relación.\n\nPendiente: la crónica de la ceremonia de 1884 y el texto de la placa."
+     "texto": "La ceremonia masónica está documentada. La lectura luciferina y andrógina es interpretación del autor y no aparece en lo leído; la coincidencia de 82 años no prueba relación.\n\nPendiente: una crónica de 1884 que no proceda de los propios masones. No se ha comprobado la fecha de la piedra del World Trade Center."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -26115,6 +26135,16 @@ window.CRONO = {
       "titulo": "Wikipedia (it): Giovine Italia",
       "url": "https://it.wikipedia.org/wiki/Giovine_Italia",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Giovine Europa",
+      "url": "https://it.wikipedia.org/wiki/Giovine_Europa",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Junges Europa",
+      "url": "https://de.wikipedia.org/wiki/Junges_Europa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -26152,7 +26182,7 @@ window.CRONO = {
     {
      "titulo": "La red europea",
      "nivel": "hecho",
-     "texto": "Se integró en la Joven Europa, junto con asociaciones como la Joven Alemania, la Joven Polonia o la Joven Suiza. La versión inglesa fecha la Joven Europa en 1835, no en 1834, y cita además a la Joven Bosnia serbobosnia, de comienzos del siglo XX, como inspirada en el modelo."
+     "texto": "Se integró en la Joven Europa, junto con asociaciones como la Joven Alemania, la Joven Polonia o la Joven Suiza. El pacto de la Joven Europa se firmó en Berna el 15 de abril de 1834, según la versión italiana, y la alemana da el mismo año; la inglesa dice 1835. Esta última cita además a la Joven Bosnia serbobosnia, de comienzos del siglo XX, como inspirada en el modelo."
     },
     {
      "titulo": "Qué dice el autor",
@@ -26162,7 +26192,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La difusión del modelo consta. Sobre Bosnia, lo leído habla de inspiración, no de una rama de la organización de Mazzini, fallecido décadas antes del atentado de 1914.\n\nPendiente: la fecha de fundación de la Joven Europa, que no coincide entre lo leído y la versión oficial de esta ficha."
+     "texto": "La difusión del modelo consta. Sobre Bosnia, lo leído habla de inspiración, no de una rama de la organización de Mazzini, fallecido décadas antes del atentado de 1914."
     }
    ],
    "naturaleza": "gobiernos",
@@ -28287,7 +28317,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1848
    },
-   "resumen": "El Manifiesto del Partido Comunista se publicó en Londres en febrero de 1848, firmado por Marx y Engels por encargo de la Liga de los Comunistas.",
+   "resumen": "El Manifiesto del Partido Comunista se publicó en Londres en febrero de 1848, redactado por Marx y Engels por encargo de la Liga de los Comunistas; la primera edición salió sin sus nombres.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -28307,7 +28337,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Manifiesto del Partido Comunista se publicó en Londres en febrero de 1848, firmado por Marx y Engels por encargo de la Liga de los Comunistas. Marx no llegó a Londres hasta el 24-8-1849, así que no pudo consultar en 1848 la sala de lectura del Museo Británico. *The Science of Government Founded on Natural Law* (Clinton Roosevelt, 1841) existe; la tesis de que el Manifiesto lo copió procede de Emanuel Josephson (*Roosevelt's Communist Manifesto*, 1955) y no la acepta la historiografía.",
+    "resumen": "El Manifiesto del Partido Comunista se publicó en Londres en febrero de 1848, redactado por Marx y Engels por encargo de la Liga de los Comunistas; la primera edición salió sin sus nombres. Marx había estado en Londres a finales de 1847, para el congreso de la Liga, pero no se instaló allí hasta agosto de 1849; redactó el texto en Bruselas. *The Science of Government Founded on Natural Law* (Clinton Roosevelt, 1841) existe; la tesis de que el Manifiesto lo copió procede de Emanuel Josephson (*Roosevelt's Communist Manifesto*, 1955) y no la acepta la historiografía.",
     "fuentes": [
      {
       "titulo": "DHM LeMO: Karl Marx (1849, llegada a Londres)",
@@ -28327,6 +28357,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Karl Marx",
       "url": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Manifest der Kommunistischen Partei",
+      "url": "https://de.wikipedia.org/wiki/Manifest_der_Kommunistischen_Partei",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Karl Marx",
+      "url": "https://de.wikipedia.org/wiki/Karl_Marx",
       "consultado": "2026-11-27"
      }
     ]
@@ -28364,9 +28404,9 @@ window.CRONO = {
      "texto": "Salió a finales de febrero de 1848, en alemán, 23 páginas, publicado sin nombre de autor por la Asociación Educativa de Obreros Comunistas, en Londres. Anunciaba ediciones en varias lenguas; ese año hubo traducciones polaca, danesa y sueca, y la inglesa llegó en 1850. Coincidió con las revoluciones de 1848."
     },
     {
-     "titulo": "Dos datos que no casan con la versión oficial de la ficha",
+     "titulo": "Cuándo se instaló Marx en Londres",
      "nivel": "hecho",
-     "texto": "La versión oficial dice que se publicó firmado por Marx y Engels; lo leído dice que la primera edición fue anónima. Sitúa además la llegada de Marx a Londres el 24 de agosto de 1849, y el artículo sobre Marx habla de comienzos de junio de ese año."
+     "texto": "Las fuentes no dan lo mismo. La versión inglesa sobre Marx dice que se trasladó a Londres a comienzos de junio de 1849. La alemana cuenta que primero volvió a París y que, un mes después, se le obligó a elegir entre quedar confinado en Bretaña o salir de Francia, y entonces marchó a Londres. La versión oficial da agosto de 1849, compatible con este segundo relato.\n\nAntes había estado en Londres a finales de 1847, en el congreso de la Liga."
     },
     {
      "titulo": "Qué dice el autor",
@@ -40979,6 +41019,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Guerra de sucesión española",
       "url": "https://es.wikipedia.org/wiki/Guerra_de_sucesi%C3%B3n_espa%C3%B1ola",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "elDiario.es: Felipe de Borbón, el rey de la infamia en Xàtiva",
+      "url": "https://www.eldiario.es/comunitat-valenciana/felipe-borbon-rey-infamia-xativa_1_4845208.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -40999,9 +41044,9 @@ window.CRONO = {
      "texto": "Después hubo saqueo y ejecuciones, salvo un grupo de unas 55 personas perdonadas por borbónicas; el resto de la población fue deportada a Castilla, y muchos murieron en el camino. Felipe V autorizó quemar la ciudad tras los informes de Berwick y D’Asfeld, y la rebautizó como San Felipe.\n\nLas Cortes de Cádiz le devolvieron el nombre en 1811. A los setabenses se les llama «socarrats» (chamuscados) y el retrato de Felipe V se exhibe boca abajo en recuerdo del episodio."
     },
     {
-     "titulo": "Las fechas no coinciden entre fuentes",
+     "titulo": "Las fechas",
      "nivel": "hecho",
-     "texto": "El artículo sobre el asedio lo sitúa entre el 8 de mayo y el 6 de junio de 1707, y recoge que el cronista borbónico Miñana lo hace empezar el 3 de mayo. El artículo sobre la guerra dice que Játiva cayó el 20 de junio y fue incendiada. La versión oficial de esta ficha da el 19 de junio para el incendio, fecha que no aparece en lo leído hoy."
+     "texto": "El artículo sobre el asedio lo sitúa entre el 8 de mayo y el 6 de junio de 1707, y recoge que el cronista borbónico Miñana lo hace empezar el 3 de mayo.\n\nSobre la quema, elDiario.es fecha el 19 de junio la orden de Felipe V de incendiar la ciudad, y ValenciaBonita sitúa los hechos entre el 19 y el 26 de junio. El artículo general sobre la guerra habla del 20."
     },
     {
      "titulo": "Qué dice el autor",
@@ -41011,7 +41056,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "En lo leído no hay nada que identifique el episodio de 1707 con uno de 1522. No se ha consultado ninguna fuente sobre las Germanías en Játiva, así que la comparación entre los dos asedios está sin hacer.\n\nPendientes: la obra de Miñana, los estudios locales sobre la destrucción de 1707 y la fecha exacta del incendio."
+     "texto": "En lo leído no hay nada que identifique el episodio de 1707 con uno de 1522. No se ha consultado ninguna fuente sobre las Germanías en Játiva, así que la comparación entre los dos asedios está sin hacer.\n\nPendientes: la obra de Miñana, los estudios locales sobre la destrucción de 1707."
     }
    ],
    "vista": "politica"
