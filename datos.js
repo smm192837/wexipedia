@@ -1141,12 +1141,12 @@ window.CRONO = {
     {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
-     "texto": "Giuseppe Nocera lo cita junto a la organización de migraciones como pieza de control."
+     "texto": "Giuseppe Nocera lo cita, junto a la organización de migraciones, como el organismo de la ONU que controla lo referente a refugiados."
     },
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Su origen responde a una crisis concreta de posguerra. La lectura como control es del autor y en lo leído no se apoya."
+     "texto": "Su origen responde a una crisis concreta de posguerra. La versión oficial trata como lectura de Nocera que sea una pieza de control, y en lo leído no se apoya."
     }
    ],
    "vista": "politica"
@@ -33891,7 +33891,7 @@ window.CRONO = {
     {
      "titulo": "Antecesora",
      "nivel": "hecho",
-     "texto": "La Organización Europea de Cooperación Económica nació del Plan Marshall y de la conferencia de dieciséis países; existió de 1948 a 1960, con Robert Marjolin al frente, para poner en marcha la recuperación conjunta."
+     "texto": "La Organización Europea de Cooperación Económica nació del Plan Marshall y de la conferencia de dieciséis países; se creó en 1948, con Robert Marjolin al frente, para poner en marcha la recuperación conjunta."
     },
     {
      "titulo": "La OCDE",
@@ -34357,7 +34357,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Formalmente mandan los Estados; la versión oficial recoge que la financian también donantes privados.\n\nSeguir el dinero: pendiente el peso de las aportaciones voluntarias y su destino."
+     "texto": "Formalmente mandan los Estados; la versión oficial recoge que las contribuciones voluntarias son en torno al 80 % del presupuesto y que la Fundación Gates es de los mayores donantes.\n\nSeguir el dinero: pendiente para qué se destinan esas aportaciones."
     }
    ],
    "naturaleza": "gobiernos",
@@ -46906,7 +46906,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El impulso de la UNESCO consta; la versión oficial atribuye también la iniciativa a Huxley, que la dirigía.\n\nPendiente: su financiación."
+     "texto": "El impulso de la UNESCO consta; la versión oficial atribuye también la iniciativa a Julian Huxley; en los pasajes leídos hoy no aparece su nombre.\n\nPendiente: su financiación."
     }
    ],
    "naturaleza": "gobiernos",
