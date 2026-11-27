@@ -30518,6 +30518,31 @@ window.CRONO = {
       "titulo": "Wikipedia: Director of the Central Intelligence Agency",
       "url": "https://en.wikipedia.org/wiki/Director_of_the_Central_Intelligence_Agency",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): George Tenet",
+      "url": "https://en.wikipedia.org/wiki/George_Tenet",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Leon Panetta",
+      "url": "https://en.wikipedia.org/wiki/Leon_Panetta",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): John O. Brennan",
+      "url": "https://en.wikipedia.org/wiki/John_O._Brennan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): David Petraeus",
+      "url": "https://en.wikipedia.org/wiki/David_Petraeus",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Robert Gates",
+      "url": "https://en.wikipedia.org/wiki/Robert_Gates",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -30532,6 +30557,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De qué se trata",
+     "nivel": "hecho",
+     "texto": "La cuestión es cuántos responsables de la CIA se formaron en universidades de la Compañía de Jesús."
+    },
+    {
+     "titulo": "Dónde estudiaron",
+     "nivel": "hecho",
+     "texto": "George Tenet se graduó en 1976 en la Escuela de Servicio Exterior de Georgetown; Leon Panetta estudió derecho en la universidad jesuita de Santa Clara; John Brennan se graduó en Fordham en 1977. David Petraeus salió de West Point en 1974. Robert Gates se graduó en William & Mary en 1965 e hizo después, en 1974, un doctorado en Georgetown."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, una serie de responsables de la agencia pasaron por aulas jesuitas (Gates, Tenet, Panetta, Morell, Petraeus y Brennan) y Clapper dio clase en un centro de la orden."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso de varios por centros jesuitas consta, incluido Gates por su doctorado, aunque la versión oficial de la ficha lo cuenta entre los que no. En lo buscado no consta ese paso para Petraeus ni se han comprobado Morell y Clapper. Un título no prueba dependencia de la orden."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -37377,6 +37424,21 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Casa de Alba",
       "url": "https://es.wikipedia.org/wiki/Casa_de_Alba"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Osorio",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Osorio",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Cayetana Fitz-James Stuart",
+      "url": "https://es.wikipedia.org/wiki/Cayetana_Fitz-James_Stuart",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Fitz-James Stuart",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Fitz-James_Stuart",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37387,6 +37449,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Los linajes",
+     "nivel": "hecho",
+     "texto": "Los Osorio se cuentan entre las familias más antiguas de la nobleza española. La casa de Alba, de los Álvarez de Toledo, pasó a los Fitz-James Stuart al morir sin hijos la XIII duquesa."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Enrique II dio en 1369 el condado de Villalobos a un Osorio y Enrique IV, en 1465, el marquesado de Astorga con grandeza de España. Los Fitz-James Stuart descienden de James FitzJames, hijo de Jacobo II de Inglaterra y de Arabella Churchill, duque de Berwick. Cayetana, XVIII duquesa de Alba, figuró en el libro Guinness como la noble con más títulos reconocidos del mundo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los Osorio están en la península desde el Imperio romano y siempre junto al monarca. Según Rubén Avilés, la casa de Alba está ligada a los Spencer y a la nobleza británica, la duquesa tenía más títulos que la reina de Inglaterra, y las grandes casas españolas están casadas con la nobleza negra italiana, con los Corsini."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El récord de títulos y el vínculo británico por Arabella Churchill constan. En los pasajes buscados no aparecen un origen romano de los Osorio ni los Corsini."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
