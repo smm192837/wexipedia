@@ -47734,6 +47734,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista y filósofo de la Ilustración escocesa (Kirkcaldy, bautizado en 1723 – Edimburgo, 1790). Estudió en Glasgow y Oxford y fue profesor de lógica y de filosofía moral en Glasgow."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó en vida La teoría de los sentimientos morales (1759) y La riqueza de las naciones (1776), primer estudio sistemático de la creación y acumulación de riqueza, que le ha valido ser llamado padre de la economía moderna. Trató la división del trabajo, el mercado y la «mano invisible», y explicó la distribución de riqueza y poder por causas naturales, políticas y sociales, no por voluntad divina. Viajó por Francia y trató a Voltaire."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Smith menciona a Paolo Sarpi, al que se considera fundador del capitalismo moderno; sería heredero de su empirismo y estaría influido por la Escuela de Salamanca."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparecen Sarpi ni la Escuela de Salamanca. La mención a Sarpi es comprobable en las obras de Smith.\n\nPendiente: buscar el nombre de Sarpi en los textos de 1759 y 1776."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -48412,6 +48434,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Alessandro Torlonia",
       "url": "https://es.wikipedia.org/wiki/Alessandro_Torlonia",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Alessandro Torlonia, 2nd Prince of Civitella-Cesi",
+      "url": "https://en.wikipedia.org/wiki/Alessandro_Torlonia,_2nd_Prince_of_Civitella-Cesi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -48427,6 +48454,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Alessandro Raffaele Torlonia (1800-1886), príncipe de Civitella Cesi y del Fucino, hijo de Giovanni Torlonia y de Anna Maria Schultheiss."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Heredó en 1829 una gran fortuna, sobre todo bancaria, y la aumentó con el monopolio de la sal y el tabaco en las zonas de Roma y Nápoles. Amplió Villa Torlonia (1832-1842), negoció por la Santa Sede el préstamo con los Rothschild y pagó el desecamiento del lago Fucino, tras el que las familias cultivaron el lecho bajo la administración Torlonia; Víctor Manuel II le dio el título de príncipe del Fucino. Reunió una gran colección de escultura antigua."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, tras los acuerdos con los Rothschild de 1832 construyó un templo de Saturno en su villa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las obras en la villa y el acuerdo coinciden en fechas; en lo leído no se relaciona el templo con el préstamo.\n\nLectura de trabajo de Nexus: el monopolio de sal y tabaco es una pieza clave al seguir el dinero.\n\nLas fechas del desecamiento no coinciden entre fuentes (1862-1873 aquí; 1854-1875 en la versión oficial)."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -48995,6 +49044,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y político francés (Varzy, 1783 – 1865), llamado Dupin el Mayor, formado por su padre, también jurista."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Abogado desde 1800, trabajó en la clasificación de las leyes del Imperio. Diputado liberal en 1815, defendió a víctimas de la reacción, entre ellas el mariscal Ney. Apoyó la revolución de 1830, presidió la Cámara durante ocho años desde 1832 y fue procurador general. En 1848 intentó que se proclamara rey al conde de París y luego se adaptó a la República; entró en la Asamblea de 1849."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Dupin, próximo a Luis Felipe, comparó a la Compañía de Jesús con un arma cuyo mango está en Roma y cuyo filo llega a todas partes (cita pendiente de comprobar)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece la cita ni nada sobre jesuitas.\n\nPendiente: localizar el discurso o escrito original."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -56255,6 +56326,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Kassel en 1743, hijo de Federico II de Hesse-Kassel y de María de Gran Bretaña. Su padre se convirtió al catolicismo y dejó la familia; él se crió protestante, en parte en Dinamarca. Landgrave desde 1785 como Guillermo IX y elector desde 1803 como Guillermo I; murió en 1821."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Heredó una de las mayores fortunas de Europa, levantada en parte por su padre alquilando súbditos como soldados, y fue un gran prestamista. En 1769 nombró a Mayer Amschel Rothschild proveedor de la corte y en 1801 le dio un cargo formal de administración. En las guerras napoleónicas usó a los Rothschild de Fráncfort para poner su dinero a salvo; parte pasó por Nathan a Londres. Estuvo exiliado de 1806 a 1813. Fue miembro del Tugendbund, sociedad secreta de rasgos masónicos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Rothschild empezaron como banqueros personales de Guillermo IX en 1769, y los Rothschild suizos siguen trabajando para Hesse."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación desde 1769 consta; la designación formal es de 1801. En lo leído no aparece nada sobre los Rothschild suizos ni sobre una relación actual.\n\nLectura de trabajo de Nexus: alquiler de tropas, préstamo y custodia en la guerra explican de dónde salió el capital."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -59932,6 +60025,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Traductor alemán (1731-1793), nacido en Brunswick, hijo de un jornalero pobre. Fue pastor de niño, oboísta y profesor de música y lenguas; un segundo matrimonio le dio una fortuna que perdió en parte en una librería e imprenta montada con relación con Lessing."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tradujo al alemán a Sterne, Goldsmith, Fielding y otros. Desde 1778 sirvió en Weimar a la condesa de Bernstorff. Masón en Hamburgo, rompió en 1782 con el misticismo de Willermoz, entró en los Iluminados (enero de 1783) y, tras la prohibición y la salida de Knigge y la huida de Weishaupt, dirigió de hecho la orden. En 1787 visitó logias en Estrasburgo y París."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, hay que leer a Bode sobre la infiltración jesuita en la masonería."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído consta su implicación en controversias contra el catolicismo, pero no se resume ningún escrito suyo sobre jesuitas.\n\nPendiente: identificar la obra de Bode a la que se refiere el autor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62502,6 +62617,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Henry John Temple (Westminster, 1784 – 1865), tercer vizconde de Palmerston, noble angloirlandés; su madre era hija de un comerciante londinense."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Diputado desde 1807, secretario de Guerra veinte años, a cargo de las finanzas del ejército; secretario de Exteriores en 1830-34, 1835-41 y 1846-51, y primer ministro en 1855-58 y 1859-65. Pasó de tory a whig y liberal. Su política es prototipo de intervencionismo liberal; en su etapa se libró la primera guerra del Opio (1839-42). Se opuso a la ocupación austriaca del noreste de Italia. Desahució a unos 2.000 arrendatarios en Irlanda durante la hambruna."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Mazzini, instalado en Inglaterra en los años treinta, estaba en contacto con «gurús del libre comercio» como Palmerston."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta su oposición a la política austriaca en Italia y su defensa del libre comercio con China. En lo leído no aparece ningún contacto con Mazzini.\n\nPendiente: la correspondencia o las biografías de Mazzini."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62534,6 +62671,11 @@ window.CRONO = {
       "titulo": "Wikipedia: William Bentinck",
       "url": "https://es.wikipedia.org/wiki/William_Bentinck",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Lord William Bentinck",
+      "url": "https://en.wikipedia.org/wiki/Lord_William_Bentinck",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62549,6 +62691,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y administrador británico (1774-1839), segundo hijo del duque de Portland, que fue primer ministro."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Gobernador de Madrás (1803-1807), destituido tras el motín de Vellore. Mandó las tropas británicas en Sicilia y luego en Nápoles y Génova, donde actuó a favor del autogobierno contra la política de Londres, que lo frenó y lo retiró. Fue el primer gobernador general de la India (1828-1835): prohibió el sati en Bengala, impulsó el inglés como lengua de enseñanza y recortó gastos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el conde Giuseppe Gaetani y Landolina fue diputado del parlamento siciliano por voluntad de Bentinck, que impulsó la constitución de 1812."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papel de Bentinck en Sicilia consta, y que actuaba a veces contra su propio gobierno. En lo leído no aparece Gaetani."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -63158,6 +63322,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Filósofo francés (Grenoble, 1709 – París, 1785), de una familia de la nobleza de toga, hermanastro de Condillac. Estudió en el colegio jesuita de Lyon y en el seminario de Saint-Sulpice, y dejó la carrera eclesiástica como subdiácono."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó en el gabinete del cardenal Tencin, ministro de Exteriores, y rompió con él en 1746 en defensa de la tolerancia; desde entonces se dedicó a estudiar. Criticó la desigualdad y la propiedad privada como origen de los males sociales, atacó el «despotismo legal» de los fisiócratas y el sistema inglés, y defendió límites a la propiedad agraria. Se le considera precursor del socialismo utópico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, reabrió en Francia la reflexión sobre la ciudadanía con De los derechos y deberes del ciudadano (escrito en 1758, publicado tras su muerte), cuyo preámbulo resumiría las tesis de Juan de Mariana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta su formación con jesuitas. En lo leído no aparece Juan de Mariana ni ese preámbulo.\n\nPendiente: leer la obra citada."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -64261,6 +64447,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero judío alemán (Fráncfort, 1744 – 1812), fundador de la dinastía. Nació en la Judengasse; su padre, comerciante de moneda y orfebre, puso sobre su negocio un escudo rojo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Huérfano joven, trabajó en una casa de banca de Hannover y volvió a Fráncfort al negocio familiar. Por el general von Estorff llegó a la corte de Hanau y en 1769 fue proveedor de la corte del príncipe Guillermo de Hesse. Desde 1801 fue su agente; hizo préstamos a Dinamarca (1802-1804) y, con el consejero Carl Buderus, controló valores y deudas del príncipe durante su exilio. En 1810 fundó la sociedad con sus cinco hijos. Su testamento reservaba los cargos a los varones de la familia y prohibía publicar los bienes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, abrió una tienda de monedas con el «escudo rojo» y en 1769 fue agente de Guillermo IX. Jorge Guerra dice que empezó de aprendiz en la corte de un rey Leopoldo con más de 300 jesuitas, que la familia tuvo vínculos con el Vaticano y órdenes de caballería, que se llamaba Bauer y que no pudo levantar solo un imperio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El nombre, 1769 y el vínculo con Guillermo constan. El aprendizaje documentado es en una banca, no en una corte, y en lo leído no hay jesuitas, Cruz de Malta ni el apellido Bauer. El ascenso se explica en lo leído por el patrimonio del príncipe y las guerras."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -64936,6 +65144,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y político (Ajaccio, 1769 – Santa Elena, 1821), de la pequeña nobleza corsa de origen italiano; su padre, abogado, representó a Córcega en la corte de Luis XVI."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Apoyó la Revolución, ascendió con las campañas de Italia y Egipto y dio el golpe de 1799. Primer cónsul hasta 1804 y emperador hasta 1814 y en 1815. Reformó la administración, la enseñanza superior y los impuestos, creó un banco central y firmó el concordato de 1801 con la Santa Sede. Venció a varias coaliciones y repartió tronos entre su familia. En las guerras napoleónicas murieron entre tres y seis millones de civiles y soldados."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo presenta como agente de la «nobleza negra», formado quizá por jesuitas expulsados en Córcega, que combatió a las naciones que los habían echado y atacó Moscú por la Tartaria. Jorge Guerra ve en la mano oculta un símbolo de la Compañía y dice que todo benefició a los jesuitas. Artur Sala liga su victoria sobre Prusia al sistema educativo prusiano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece ninguna formación ni dirección jesuita. Consta que la República estaba en bancarrota cuando llegó al poder y que fundó un banco central.\n\nPendiente: quién financió el golpe de Brumario y las campañas."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68690,6 +68920,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado, escritor y político francés (Arras, 1758 – París, 1794), de familia de juristas. Fue juez en la diócesis de Arras y defensor de gente sin recursos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Diputado del tercer estado en 1789 y figura de los jacobinos, defendió abolir la pena de muerte y la esclavitud, el sufragio universal y los derechos de judíos y personas de color. Presidió dos veces la Convención y entró en el Comité de Salvación Pública, que en 1793-1794 gobernó de forma autocrática durante el Terror, con persecuciones y ejecuciones. Fue guillotinado en julio de 1794."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que pasa por jesuita y que no es casual, y que siguió la línea del derecho natural moderno recogiendo ideas de Juan de Mariana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no consta que fuera jesuita ni aparece Mariana.\n\nPendiente: dónde estudió y qué leyó."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -72040,9 +72292,36 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Pugachev, Emelian Ivanovich",
       "url": "https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/emelian-ivanovich-pugachev",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Yemelián Pugachov",
+      "url": "https://es.wikipedia.org/wiki/Yemeli%C3%A1n_Pugachov",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Cosaco del Don (hacia 1742 – Moscú, 21 de enero de 1775), de la stanitsa Zimovéiskaya."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se hizo pasar por el zar Pedro III, aprovechando rumores de que vivía; fue uno de muchos impostores con ese nombre y el más famoso. Encabezó la insurrección cosaca y popular de 1773-1775 contra Catalina II, fue entregado y ejecutado en Moscú. Declaró que su familia era ortodoxa, a diferencia de la mayoría de los cosacos del Don y del Yaik, viejos creyentes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la victoria de los Romanov sobre Razin y sobre Pugachov fue la derrota final de la Horda y de la Gran Tartaria, con capital en Tobolsk."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído es un pretendiente y jefe de una rebelión; no aparecen la Gran Tartaria ni Tobolsk como capital.\n\nVer también la ficha de la guerra de Pugachov."
+    }
+   ],
    "vista": "politica"
   },
   {
