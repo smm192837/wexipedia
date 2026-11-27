@@ -62092,6 +62092,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Karl Haushofer",
       "url": "https://es.wikipedia.org/wiki/Karl_Haushofer",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (de): Karl Haushofer",
+      "url": "https://de.wikipedia.org/wiki/Karl_Haushofer",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62107,6 +62112,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y geógrafo alemán (Múnich, 1869 – Pähl, 1946), de familia de artistas y académicos; casado con Martha Mayer-Doss, de ascendencia judía."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Oficial de artillería y de Estado Mayor, enviado a Japón en 1908; combatió en la Primera Guerra Mundial y desde 1919 se dedicó a la geopolítica, de la que fue el gran difusor en Alemania, con su revista de 1924 y la Academia Alemana (1925). Trató a Rudolf Hess, alumno suyo, que lo protegió; aportó ideas como el espacio vital. En 1939 dejó la enseñanza ya crítico, tras 1941 lo vigiló la Gestapo, su hijo Albrecht fue asesinado por la SS en 1945 y él pasó un mes preso en Dachau."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el nuevo orden europeo de Hitler seguía su geopolítica de controlar Eurasia, y Haushofer influyó en Yockey."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su influencia a través de Hess consta. En lo leído no aparece Yockey.\n\nLa entrada en español lo pone además entre los fundadores del Partido Obrero Alemán y de la sociedad Thule; la alemana, leída en los pasajes sobre Hess, solo cuenta que conoció a Hess en 1919. No se da por bueno sin fuente mejor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -62389,6 +62416,11 @@ window.CRONO = {
       "titulo": "Vladimir Lenin — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Vladimir-Lenin",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Lenin",
+      "url": "https://es.wikipedia.org/wiki/Lenin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62408,6 +62440,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Revolucionario ruso (Simbirsk, 1870 – Gorki, 1924), hijo de un inspector escolar que alcanzó la nobleza hereditaria."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Detenido y desterrado, se exilió en Europa; en 1903 encabezó a los bolcheviques. Durante la guerra quiso convertirla en revolución; volvió a Rusia en 1917 atravesando Alemania, cuyo gobierno ya financiaba actividades bolcheviques y facilitó el paso. Dirigió la Revolución de Octubre, presidió el gobierno, entregó al Estado o a los trabajadores tierras y propiedades y firmó Brest-Litovsk. Enfermo desde 1922, perdió el poder efectivo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, readmitió a los jesuitas en 1922, fue uno de los bolcheviques masones y no veía a Stalin capacitado para gobernar."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído constan la financiación alemana y las notas finales de Lenin; no aparecen jesuitas ni masonería.\n\nPendiente: leer el testamento sobre Stalin y fuentes sobre los jesuitas en 1922."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -63949,6 +64003,28 @@ window.CRONO = {
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y dirigente indio (Porbandar, 1869 – Delhi, 1948), de casta comerciante, hijo de un primer ministro de un pequeño estado principesco."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En Sudáfrica desde 1893 organizó a la comunidad india contra la discriminación. De vuelta en 1915, encabezó desde 1919 el movimiento nacionalista con desobediencia civil no violenta, huelgas de hambre y la marcha de la sal. Encarcelado varias veces, pidió la independencia en Londres (1931), chocó con Nehru y rechazó la separación de Pakistán. Fue asesinado en 1948."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue un agente del imperio británico cuyo pacifismo sirvió para apagar un estallido social y para que el imperio se quedara con las riquezas de Pakistán."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído describe a un opositor encarcelado por las autoridades británicas y contrario a la partición. No aparece nada que lo presente como agente.\n\nEvaluar el efecto de la no violencia sobre el poder británico es una discusión distinta de la de sus intenciones."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -64753,6 +64829,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero alemán (1867-1946) de la familia Warburg de Hamburgo; hijo del director del banco familiar y de Charlotte Oppenheim. Hermano de Aby, Paul, Felix y Fritz."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se formó en Fráncfort, Ámsterdam, París y Londres y dirigió M. M. Warburg de 1910 a 1938; asesoró a Guillermo II antes de la guerra. Intentó aguantar en Alemania bajo el nazismo, estuvo en el Reichsbank con Schacht, tuvo que desprenderse del banco por la arianización y emigró a Estados Unidos en 1938."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, de una familia al servicio de los Borghese, financió el complejo militar nazi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Fue perseguido como judío y perdió el banco. En lo leído no consta financiación al aparato militar nazi más allá de su puesto en el Reichsbank, ni relación con los Borghese.\n\nLo leído fecha su entrada en el consejo del Reichsbank desde 1933; la versión oficial, de 1924 a 1933. Pendiente de contrastar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -67277,6 +67375,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero de inversión nacido en Hamburgo (1868-1932), de la dinastía Warburg, con orígenes en Venecia; nacionalizado estadounidense en 1911."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se formó en Hamburgo, Londres y París y fue socio del banco familiar desde 1895. Casó con Nina Loeb, hija del fundador de Kuhn, Loeb & Co., y desde 1902 fue socio de esa firma junto a Jacob Schiff; su hermano Felix casó con la hija de Schiff. Consejero de Wells Fargo (1910-1914), fue de los principales impulsores de un banco central, miembro de la primera junta de la Reserva Federal desde 1914 y vicepresidente (1916-1918)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, ayudó a crear la Reserva Federal, dentro de una familia de agentes de los Borghese."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en la Reserva Federal está documentado, y la red de matrimonios entre casas bancarias. En lo leído no aparecen los Borghese.\n\nLectura de trabajo de Nexus: la cadena Warburg, Loeb, Schiff y Wells Fargo es el dato útil para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -70516,6 +70636,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Aristócrata de la nobleza bohemia (Stuttgart, 1868 – Sarajevo, 1914), dama de compañía de la archiduquesa Isabel."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Conoció a Francisco Fernando en 1888 y mantuvieron la relación en secreto; la corte se opuso por no ser de casa reinante. El emperador aceptó un matrimonio morganático (1900) sin derechos sucesorios para sus hijos; fue duquesa de Hohenberg. El 28 de junio de 1914, tras una granada fallida, Gavrilo Princip los mató a tiros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, salió ilesa con su marido del primer atentado y murió con él en el segundo, cuando el coche se detuvo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La secuencia coincide con lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
