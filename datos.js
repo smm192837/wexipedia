@@ -25708,6 +25708,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Razin Rebellion",
       "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/razin-rebellion",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Steñka Razin",
+      "url": "https://es.wikipedia.org/wiki/Ste%C3%B1ka_Razin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25730,7 +25735,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La fuente la describe como rebelión de cosacos, campesinos, ciudadanos y pueblos del Volga contra la nobleza y el poder central, no como guerra entre estados. En lo buscado no aparecen la Horda ni los mercenarios."
+     "texto": "La fuente la describe como rebelión de cosacos, campesinos, ciudadanos y pueblos del Volga contra la nobleza y el poder central, no como guerra entre estados. En lo buscado no aparecen la Horda ni los mercenarios. Sobre su muerte las fuentes no coinciden: Encyclopedia.com dice que fue ahorcado el 6 de junio y la Wikipedia en español que fue descuartizado vivo en la Plaza Roja."
     }
    ],
    "vista": "politica"
@@ -75945,6 +75950,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "De la casa de Wittelsbach (17 de abril de 1573 - 27 de septiembre de 1651), duque de Baviera desde 1597 y elector desde 1623; católico devoto."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue uno de los grandes promotores de la Contrarreforma y fundador de la Liga Católica. Sus tropas, al mando de Tilly, derrotaron a Federico V en la Montaña Blanca en 1620; recibió la dignidad electoral y en 1648 Westfalia le confirmó el Alto Palatinado y el título. Sentó bases del absolutismo frente a los estamentos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, al año de la Unión Protestante surgió la Liga Católica de Maximiliano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación de la Liga consta. Aviso: la Wikipedia en español que se descargó primero trata de otro Maximiliano I, rey de Baviera nacido en 1756."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -76720,6 +76747,11 @@ window.CRONO = {
       "titulo": "Wikisource (fr): De l'esprit des lois (éd. Nourse), Livre 23",
       "url": "https://fr.wikisource.org/wiki/De_l’esprit_des_lois_(éd._Nourse)/Livre_23",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Montesquieu",
+      "url": "https://en.wikipedia.org/wiki/Montesquieu",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -76742,6 +76774,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Charles Louis de Secondat, barón de Montesquieu (18 de enero de 1689 - 10 de febrero de 1755), jurista, historiador y filósofo político de la Ilustración francesa."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó en Ginebra en 1748, anónimamente, «Sobre el espíritu de las leyes». Se le recuerda por la separación de poderes, recogida en muchas constituciones, y por clasificar el despotismo junto a la república y la monarquía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, en 1748 fijó el derecho a la existencia al decir que la limosna no sustituye el deber del Estado de garantizar la subsistencia, el mismo proyecto de la Escuela de Salamanca."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La obra de 1748 consta. En los pasajes buscados no aparece la frase sobre la limosna ni el vínculo con Salamanca; habría que cotejarla en el libro."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -79003,9 +79057,41 @@ window.CRONO = {
       "titulo": "Britannica: Peter the Great",
       "url": "https://www.britannica.com/biography/Peter-the-Great",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Pedro I de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_I_de_Rusia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Peter the Great",
+      "url": "https://en.wikipedia.org/wiki/Peter_the_Great",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo del zar Alejo I, nacido en Moscú en junio de 1672; gobernó desde 1682, hasta 1696 junto a su hermano Iván V, y murió en San Petersburgo en 1725."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Occidentalizó y expandió Rusia: luchó contra Suecia en la Gran Guerra del Norte, fundó San Petersburgo y la hizo capital en 1712, creó la Tabla de Rangos y un impuesto por cabeza, gravó las barbas de los boyardos, reformó el calendario y la escritura civil e impulsó en 1703 el primer periódico ruso."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, al cambiar el calendario de 7208 a 1700 desaparecieron 5500 años de historia rusa, y fue el primer magnate de prensa de Rusia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cambio de calendario consta como cambio de la era desde la que se cuenta, no como borrado de años."
+    }
+   ],
    "vista": "politica"
   },
   {
