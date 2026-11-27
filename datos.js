@@ -6087,6 +6087,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Biscione",
       "url": "https://es.wikipedia.org/wiki/Biscione"
+     },
+     {
+      "titulo": "Wikipedia (en): Biscione",
+      "url": "https://en.wikipedia.org/wiki/Biscione",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Alfa Romeo",
+      "url": "https://es.wikipedia.org/wiki/Alfa_Romeo",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -6097,6 +6107,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El emblema",
+     "nivel": "hecho",
+     "texto": "El biscione o víbora es una serpiente que engulle, o «da a luz» por la boca, a una figura humana, normalmente un niño y a veces descrita como un moro o un turco. Su origen se desconoce."
+    },
+    {
+     "titulo": "Su historia",
+     "nivel": "hecho",
+     "texto": "Según una tradición recogida por Galvano Fiamma, Ottone Visconti ganó la insignia en duelo a un sarraceno que la llevaba. Se asoció a Milán cuando los Visconti se hicieron con la ciudad en 1277; al extinguirse su línea en el XV, los Sforza la incorporaron a su escudo con el ducado. Hoy es símbolo de Milán y figura, entre otros, en el logotipo de Alfa Romeo junto a la cruz de la ciudad."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, es el símbolo de los Sforza: una serpiente que se come a un niño, que luego se disfrazó de parto; lo usan también los Borromeo, a los que hace dueños de gran parte de Alfa Romeo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La doble lectura, comer o dar a luz, consta, con origen incierto. El emblema es anterior a los Sforza. En lo buscado no aparecen los Borromeo; según la versión oficial, Alfa Romeo pertenece hoy a Stellantis."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -8612,6 +8644,11 @@ window.CRONO = {
       "titulo": "Embajada de la Orden de Malta en Rusia: el embajador",
       "url": "https://russiaembassy.orderofmalta.int/en/the-ambassador/",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Savoy",
+      "url": "https://en.wikipedia.org/wiki/House_of_Savoy",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8626,6 +8663,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "La fundó Humberto Mano Blanca, nacido en Maurienne y muerto hacia 1048, que obtuvo para su hijo el título de conde de Saboya, con dominios en los Alpes."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Víctor Manuel II cedió Saboya y Niza a Francia en 1860 y fue proclamado rey de Italia en 1861; la casa dio además un rey de España (1871-1873). Víctor Manuel III toleró a Mussolini y lo nombró primer ministro en 1922; abdicó en 1946 en Humberto II, y en junio de ese año un plebiscito proclamó la república, con rechazo a esa tolerancia con el fascismo. En la rama Saboya-Aosta, Aimone ha dirigido negocios de Pirelli desde 2000, desde Rusia, y es embajador de la Orden de Malta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los casinos los crearon nobles italianos, los Grimaldi son subalternos de los Saboya, en Mónaco se lava dinero y se dio una medalla a Putin en 2003, y un Saboya preside la Orden de Malta en Rusia y representa a Pirelli. Jorge Guerra los describe como comerciantes con Rusia desde el mar Negro, sin patria, emparentados con los Torlonia y apoyo de Mussolini. Giuseppe Nocera sostiene que pactaron la unificación, controlan comercio en Rusia y participan en Enel."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo de un Saboya en Pirelli y en la Orden de Malta consta. En los pasajes buscados no aparecen un comercio histórico con Rusia, los Torlonia, Enel ni el pacto de familias; la medalla de 2003 no se ha podido comprobar."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9094,6 +9153,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Palazzo Massimo alle Colonne",
       "url": "https://es.wikipedia.org/wiki/Palacio_Massimo_alle_Colonne",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Massimo family",
+      "url": "https://en.wikipedia.org/wiki/Massimo_family",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Palazzo Massimo alle Colonne",
+      "url": "https://es.wikipedia.org/wiki/Palazzo_Massimo_alle_Colonne",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9112,6 +9181,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Según una obra de Onofrio Panvinio de 1556, la familia descendería de la antigua gens Fabia y de Fabio Máximo. Preguntado por Napoleón, un príncipe Massimo respondió que no podía probarlo, que era un rumor de familia de doce siglos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La historia mejor documentada arranca hacia 950, con un Leo de Maximis en 1012; la genealogía sostenida empieza con un comerciante del arte de la lana en 1347. Su hijo y nieto tuvieron tienda de especias, banca y cargos municipales en Roma. Fueron barones de Pisterzo, marqueses de Roccasecca y señores de Arsoli desde 1574. En 1895 emparentaron con los Brancaccio y con una infanta de la rama carlista."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La fortuna familiar empezó en el comercio de la lana y siguió en la banca."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, son el linaje dominante de la nobleza negra, dieron dos papas, usan violencia y chantaje, son dueños de mafias y del Vaticano y tienen autoridad sobre los jesuitas y la Orden de Malta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "A la familia se le atribuyen dos papas santos, Anastasio I y Pascual I, atribución que el artículo en inglés da por legendaria en general. En los pasajes buscados no aparece nada sobre mafias, propiedad del Vaticano ni mando sobre los jesuitas o Malta."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -14485,6 +14581,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Es la forma en que se crea la mayor parte del dinero que se usa: depósitos anotados en cuentas bancarias."
+    },
+    {
+     "titulo": "Qué consta",
+     "nivel": "hecho",
+     "texto": "El boletín del Banco de Inglaterra del primer trimestre de 2014, firmado por McLeay, Radia y Thomas, explica que la mayor parte la crean los bancos comerciales al prestar; no se limitan a prestar los ahorros depositados ni a multiplicar el dinero del banco central. La cantidad creada depende en último término de la política monetaria, mediante los tipos de interés y, en su caso, la compra de activos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Quien concede el préstamo crea a la vez el depósito, y de ahí que el crédito sea la fuente principal de dinero nuevo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los bancos crean el dinero de la nada; una jueza de Granada habría pedido a un banco demostrar de dónde salía el dinero de un préstamo; la economía mundial sería una estafa piramidal con el Banco de Pagos Internacionales arriba."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La creación de dinero al prestar consta, con límites. El relato de la sentencia figura en Maldita.es como contenido no verificado. Que sea una estafa piramidal dirigida desde el BPI no sale de las fuentes leídas."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -16723,6 +16846,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Power (political science)",
       "url": "https://en.wikipedia.org/wiki/Power_(political_science)",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Poder (social y político)",
+      "url": "https://es.wikipedia.org/wiki/Poder_(social_y_pol%C3%ADtico)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16734,6 +16862,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Es una clasificación propuesta por un autor para ordenar de dónde sale el poder."
+    },
+    {
+     "titulo": "Cómo se estudia el poder",
+     "nivel": "hecho",
+     "texto": "En la ciencia política hay varias definiciones: Robert Dahl lo ve como una relación entre personas en la que una parte puede mandar sobre otra, Max Weber como la posibilidad de imponer la propia voluntad pese a la resistencia, y Hannah Arendt como instrumento del gobierno, separado de la violencia. French y Raven propusieron en 1959 cinco grandes categorías de fuentes de poder, sin excluir otras menores, y luego se han añadido más."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, hay 16 fuentes de poder, entre ellas salud, energía, tecnología y aprendizaje, y no el dinero, más una posible 17.ª: la vida eterna que dice buscar Google."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las tipologías académicas leídas no recogen este esquema. Es una propuesta del autor, que no se ha contrastado en su libro."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -86511,6 +86661,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Águila bicéfala",
       "url": "https://es.wikipedia.org/wiki/Águila_bicéfala",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Águila bicéfala",
+      "url": "https://es.wikipedia.org/wiki/%C3%81guila_bic%C3%A9fala",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Double-headed eagle",
+      "url": "https://en.wikipedia.org/wiki/Double-headed_eagle",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -86533,6 +86693,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De dónde viene",
+     "nivel": "hecho",
+     "texto": "Es un motivo de la Edad del Bronce: sus antecedentes más antiguos están en el Próximo Oriente antiguo (Mesopotamia y el arte hitita) y en la Grecia micénica."
+    },
+    {
+     "titulo": "Cómo se extendió",
+     "nivel": "hecho",
+     "texto": "La mayor parte de sus usos modernos viene, directa o indirectamente, de la dinastía bizantina de los Paleólogos (siglos XIII-XV), quizá a partir del águila imperial romana. En la Edad Media aparece en al-Ándalus, Francia, Bulgaria y Serbia, y desde el siglo XIII en el sultanato selyúcida de Rum, el mameluco, Albania, el Sacro Imperio y Rusia, donde fue pieza central del escudo imperial hasta 1917. Es además el emblema del grado 33 del Rito Escocés Antiguo y Aceptado; para la orden, una cabeza mira al pasado y otra al futuro."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, aparece con Enki en sellos sumerios y pasa a Roma, Bizancio y el cristianismo; la usan imperios y estados de varias épocas y está en la portada de «Moral y dogma» de Albert Pike y en el cine; el imperio manejaría a la vez la Iglesia y el gnosticismo luciferino."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen en el antiguo Oriente, el paso por Bizancio y el uso masónico constan. En los pasajes buscados no aparecen Enki, Carlomagno ni Pike. Compartir un emblema no muestra un mismo poder detrás."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
