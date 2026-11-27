@@ -1424,6 +1424,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Ad extirpanda",
       "url": "https://es.wikipedia.org/wiki/Ad_extirpanda",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Ad extirpanda",
+      "url": "https://en.wikipedia.org/wiki/Ad_extirpanda",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1436,6 +1441,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La herejía se trataba desde Inocencio III como delito de lesa majestad, y en 1252 la tortura era ya método admitido en tribunales seculares; los inquisidores no estaban al principio autorizados a usarla."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 15 de mayo de 1252 Inocencio IV autorizó la tortura para obtener confesiones y delaciones, sin llegar a pérdida de miembro ni peligro de vida, y con indicios casi ciertos. Repartía en tres partes los bienes confiscados. La confirmaron Alejandro IV en 1259 y Clemente IV en 1265."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La confiscación daba parte de los bienes a la autoridad civil, a los oficiales y a un depósito para perseguir la herejía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su contenido consta. En lo leído no se mide cuánto se aplicó la tortura."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -10895,6 +10927,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Clericis laicos",
       "url": "https://es.wikipedia.org/wiki/Clericis_laicos",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Clericis laicos",
+      "url": "https://en.wikipedia.org/wiki/Clericis_laicos",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -10907,6 +10944,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Francia e Inglaterra, en guerra por Aquitania, gravaban al clero para pagarla."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 24 de febrero de 1296 Bonifacio VIII prohibió cobrar tributos al clero sin permiso de la Santa Sede, bajo excomunión. Felipe IV cortó la salida de dinero a Roma y Eduardo I puso trabas. En julio de 1297, con «Etsi de statu», el papa admitió esos impuestos en caso de emergencia."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Era un choque por la recaudación: el veto francés a exportar oro y plata dejó a la curia sin sus ingresos de Francia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El episodio consta. Los canonistas no la dieron por revocada del todo hasta después de la muerte de Benedicto XI."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -15311,6 +15375,16 @@ window.CRONO = {
       "titulo": "Andronicus I Comnenus (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/biography/Andronicus-I-Comnenus",
       "consultado": "2026-11-19"
+     },
+     {
+      "titulo": "Wikipedia (en): Andronikos I Komnenos",
+      "url": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Andrónico I Comneno",
+      "url": "https://es.wikipedia.org/wiki/Andr%C3%B3nico_I_Comneno",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -15326,6 +15400,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién era",
+     "nivel": "hecho",
+     "texto": "Andrónico Comneno, nacido hacia 1118-1120, sobrino de Juan II, llegó al trono bizantino en 1183 tras la muerte de Manuel I y las luchas por el poder, y reprimió con dureza a la aristocracia."
+    },
+    {
+     "titulo": "La caída y la muerte",
+     "nivel": "hecho",
+     "texto": "Sus medidas favorecieron al pueblo llano, pero la toma de Tesalónica por Guillermo II de Sicilia en 1185 volvió a la capital contra él. Isaac Ángelo fue proclamado emperador; Andrónico, apresado al huir, fue torturado y colgado por los pies en el hipódromo, donde murió el 12 de septiembre de 1185."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Jesucristo fue en realidad Andrónico, crucificado en 1185 en Beykoz, junto al Bósforo, por el odio de la nobleza a sus reformas; el mito de la Magdalena se liga a un cambio de era en el siglo XVI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La política contra la aristocracia consta; la muerte descrita no es una crucifixión. La identificación con Jesús es la tesis de la Nueva Cronología de Fomenko, que la Wikipedia en inglés califica de teoría conspirativa pseudohistórica."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -17908,9 +18004,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Latin Empire",
       "url": "https://en.wikipedia.org/wiki/Latin_Empire",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Imperio latino",
+      "url": "https://es.wikipedia.org/wiki/Imperio_latino",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Fourth Crusade",
+      "url": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Cuarta Cruzada, pensada para Tierra Santa, se desvió hacia Constantinopla entre deudas y disputas por el trono bizantino."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En abril de 1204 los cruzados tomaron y saquearon la ciudad, eligieron emperador a Balduino de Flandes y repartieron el territorio. El Imperio latino duró hasta 1261, disputado por los estados griegos de Nicea y Trebisonda, entre otros."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, a finales del siglo XII Rusia dirigió las cruzadas para vengar a Andrónico-Cristo y de la guerra de Troya salieron dos cristianismos, uno real o familiar y otro apostólico de Pedro y Pablo, que se impuso."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La toma de 1204 consta. En lo buscado no aparece Rusia dirigiendo la cruzada ni relación con Andrónico."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -18077,6 +18205,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Dum Diversas",
       "url": "https://es.wikipedia.org/wiki/Dum_Diversas",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Dum Diversas",
+      "url": "https://en.wikipedia.org/wiki/Dum_Diversas",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18089,6 +18222,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Portugal avanzaba por la costa africana en conflicto con poblaciones musulmanas y paganas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 18 de junio de 1452 Nicolás V autorizó a Alfonso V a combatir y conquistar a sarracenos y paganos y reducirlos a esclavitud perpetua. Calixto III la reiteró en 1456, Sixto IV la renovó en 1481 y León X en 1514."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Junto con «Romanus Pontifex», Portugal la usó como justificación moral para adquirir esclavos por la fuerza o el comercio; se considera que facilitó la trata atlántica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su contenido consta. Los historiadores la leen también como respuesta a la amenaza de las potencias musulmanas, con la conversión como fin declarado."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -18465,6 +18625,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Babilonia de Egipto",
+     "nivel": "hecho",
+     "texto": "En torno al año 300 Diocleciano levantó junto al Nilo la fortaleza llamada Babilonia, en lo que hoy es el Viejo Cairo; la zona estaba habitada desde la antigüedad egipcia, cerca de Menfis."
+    },
+    {
+     "titulo": "De Fustat a El Cairo",
+     "nivel": "hecho",
+     "texto": "Tras la conquista árabe de 641 se fundó Fustat junto a la fortaleza; en 969 los fatimíes fundaron El Cairo, que luego fue el centro principal con ayubíes y mamelucos, entre los siglos XII y XVI."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Babilonia es El Cairo en los mapas antiguos, desde el siglo XII partió de allí un proyecto de imperio mundial, Egipto fue necrópolis de sus líderes entre los siglos XIV y XVI y no hubo faraones, sino linajes de Osiris-Cristo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El nombre de Babilonia para ese lugar consta. En lo buscado no aparece la necrópolis imperial, y negar los faraones choca con la antigüedad que recogen las fuentes."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -20731,6 +20913,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Execrabilis",
       "url": "https://en.wikipedia.org/wiki/Execrabilis",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Conciliarism",
+      "url": "https://en.wikipedia.org/wiki/Conciliarism",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -20738,6 +20925,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El concilio de Constanza había declarado en 1415, para cerrar el cisma, que también el papa debía obedecer al concilio; en Basilea un grupo llegó a declarar depuesto a Eugenio IV y eligió antipapa."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 18 de enero de 1460 Pío II condenó el conciliarismo, declarando «execrable» apelar a un concilio contra una decisión papal."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Cerraba una vía de control sobre el poder del papa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El contenido consta. En lo leído no se mide su eficacia."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -21839,6 +22053,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Exsurge Domine",
       "url": "https://es.wikipedia.org/wiki/Exsurge_Domine",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Exsurge Domine",
+      "url": "https://en.wikipedia.org/wiki/Exsurge_Domine",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21851,6 +22070,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "A inicios de 1520 León X formó comisiones, presididas por Cayetano, para examinar a Lutero, con análisis de Colonia y Lovaina."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 15 de junio de 1520 la bula censuró 41 proposiciones y dio sesenta días para retractarse bajo excomunión. Lutero la quemó en Wittenberg el 10 de diciembre, y el 3 de enero de 1521 «Decet Romanum Pontificem» lo excomulgó."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El trasfondo era la disputa por las indulgencias."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El episodio consta. La bula no condenaba toda la doctrina que Lutero había expuesto."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -24576,6 +24822,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Guardia Suiza Pontificia",
       "url": "https://es.wikipedia.org/wiki/Guardia_Suiza_Pontificia",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Swiss Guard",
+      "url": "https://en.wikipedia.org/wiki/Swiss_Guard",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -24591,6 +24842,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los suizos eran mercenarios muy cotizados tras las guerras de Borgoña; Sixto IV ya se había aliado con la Confederación en el siglo XV."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Julio II creó la Guardia el 21 de enero de 1506 con 150 hombres. En el saco de Roma, el 6 de mayo de 1527, murieron 147 de 189 mientras Clemente VII escapaba. Se disolvió y restableció varias veces, entre ellas en 1799-1800 y 1809-1814; hoy son 135."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El vínculo nació como reclutamiento de soldados a sueldo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés y Jorge Guerra, el Vaticano y los cantones tienen un contrato secular, Suiza sería un Estado pontificio y lo señalan la bandera cuadrada y las llaves de Ginebra y UBS. Rubén Avilés fecha además en 1814 el nacimiento de la Suiza papal y de la Guardia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La Guardia es de 1506, tres siglos antes de 1814. La relación de reclutamiento consta; las banderas y las llaves no demuestran dependencia política."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -29452,6 +29730,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Inquisición española",
       "url": "https://es.wikipedia.org/wiki/Inquisición_española"
+     },
+     {
+      "titulo": "Wikipedia (es): Inquisición española",
+      "url": "https://es.wikipedia.org/wiki/Inquisici%C3%B3n_espa%C3%B1ola",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Spanish Inquisition",
+      "url": "https://en.wikipedia.org/wiki/Spanish_Inquisition",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29462,6 +29750,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Hubo tribunales inquisitoriales en Europa desde el siglo XII. En Castilla se alegaron prácticas judaizantes entre conversos."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Los Reyes Católicos fundaron el Santo Oficio en 1478, bajo control de la Corona; funcionó hasta su abolición definitiva en 1834. Se estiman unas 150.000 causas y entre 3.000 y 5.000 ejecuciones, sobre todo en los primeros cincuenta años; hubo penitencias, azotes, destierro, galeras y cárcel."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Se financiaba con las confiscaciones de bienes de los reos, lo que favorecía abusos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, mató a muy poca gente, lo más grave solía ser la galera y las peores fueron la británica y la alemana. Según Guillermo Mas Arellano, llegó a dominar el Vaticano mediante jesuitas y Contrarreforma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las cifras son mucho menores que las de la leyenda y que las ejecuciones por brujería en Europa, pero incluyen miles de muertes. En lo buscado no aparece que dominara el Vaticano."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -29567,6 +29882,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Bula menor Inter caetera de 1493",
       "url": "https://es.wikipedia.org/wiki/Bula_menor_Inter_caetera_de_1493",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Inter caetera",
+      "url": "https://en.wikipedia.org/wiki/Inter_caetera",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29579,6 +29899,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras el primer viaje de Colón, los Reyes Católicos pidieron títulos al papa; el breve del 3 de mayo de 1493 les pareció, probablemente, insuficiente."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La bula menor, fechada el 4 de mayo y quizá redactada en junio, concedió a Castilla y Aragón las tierras halladas y por hallar al oeste de un meridiano a 100 leguas. En 1494 Castilla y Portugal firmaron Tordesillas, con la línea a 370 leguas al oeste de Cabo Verde, sin mencionar las bulas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Repartía derechos de dominio y explotación entre dos coronas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El texto consta. La línea de la bula no llegó a tener efectos prácticos."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -30169,9 +30516,36 @@ window.CRONO = {
       "titulo": "Ivan I of Moscow, Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Ivan_I_of_Moscow",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Iván I de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Iv%C3%A1n_I_de_Rusia",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién era",
+     "nivel": "hecho",
+     "texto": "Iván I, llamado Kalitá, «bolsa de dinero», nació hacia 1288 y fue príncipe de Moscú desde 1325."
+    },
+    {
+     "titulo": "Su gobierno",
+     "nivel": "hecho",
+     "texto": "Ayudó al kan Özbeg de la Horda de Oro a sofocar la revuelta de Tver, fue gran príncipe desde 1331, recaudó el tributo de otros príncipes, enriqueció Moscú y atrajo al metropolitano de la Iglesia rusa. Murió en 1340."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Iván Kalitá, o Batu Kan, nieto de Gengis, fundó en Italia Roma y el Vaticano e instituyó a los papas; sería también el Preste Juan."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Roma y el papado son muchos siglos anteriores a Iván. En lo leído no aparece su identidad con Batu ni con el Preste Juan."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -37411,9 +37785,41 @@ window.CRONO = {
       "titulo": "Nestorians, Encyclopedia.com",
       "url": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/nestorians",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Iglesia del Oriente",
+      "url": "https://es.wikipedia.org/wiki/Iglesia_del_Oriente",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Musulmán",
+      "url": "https://es.wikipedia.org/wiki/Musulm%C3%A1n",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La Iglesia de Oriente",
+     "nivel": "hecho",
+     "texto": "La Iglesia de Oriente, de rito siríaco y con base en Mesopotamia, dejó de estar en comunión con Roma tras la condena de Nestorio en Éfeso (431); «nestoriana» es un nombre dado desde fuera y hoy tenido por impropio."
+    },
+    {
+     "titulo": "Su expansión",
+     "nivel": "hecho",
+     "texto": "Desde el siglo VII se extendió hasta China, bajo dominio musulmán, con prohibición de convertir musulmanes y pago de la yizia; entre los siglos IX y XIV fue la Iglesia de mayor extensión geográfica, y después quedó reducida sobre todo a la zona de Mosul y los lagos Van y Urmia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los nestorianos expulsados de Bizancio difundieron el cristianismo en Asia en la segunda mitad del siglo XIV, «musulmán» viene de Mosul y los primeros musulmanes fueron nestorianos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La palabra viene del árabe «muslim», sometido a Dios, y el islam es del siglo VII. La relación con Mosul no aparece en lo leído."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -44832,6 +45238,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Reforma protestante",
       "url": "https://es.wikipedia.org/wiki/Reforma_protestante",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Reformation",
+      "url": "https://en.wikipedia.org/wiki/Reformation",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44847,6 +45258,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "A finales de la Edad Media la Iglesia y el papado estaban muy metidos en la política y hubo intentos previos de reforma; la imprenta amplificó la protesta."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1517 Lutero hizo públicas sus tesis contra las indulgencias, vendidas para costear San Pedro. Nacieron iglesias luteranas, reformadas y anglicanas; la respuesta católica, con Trento y la Compañía de Jesús, fue la Contrarreforma, y las guerras de religión llegaron hasta 1648."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La venta de indulgencias fue el detonante económico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, empezó en 1517 y la Compañía de Jesús evitó que el Vaticano lo perdiera todo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papel de los jesuitas en la Contrarreforma consta; medir cuánto se salvó por ellos es una valoración."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -46789,6 +47227,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Romanus Pontifex",
       "url": "https://es.wikipedia.org/wiki/Romanus_Pontifex",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Romanus Pontifex",
+      "url": "https://en.wikipedia.org/wiki/Romanus_Pontifex",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -46805,6 +47248,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Portugal alegaba sus conquistas desde Ceuta y las exploraciones del infante Enrique."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 8 de enero de 1455 Nicolás V reconoció a Alfonso V, sus sucesores y el infante la propiedad exclusiva de tierras y mares desde los cabos de Bojador y Nam por Guinea, el derecho a seguir conquistando y a comerciar. La confirmaron Calixto III en 1456 y Sixto IV en 1481."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Dio a Portugal monopolio del comercio de la región, con licencias a cambio de impuesto; el texto menciona esclavos traídos de allí."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El documento consta. Algunos estudiosos ven en él base de la «doctrina del descubrimiento», interpretación que se discute."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -47933,9 +48403,41 @@ window.CRONO = {
       "titulo": "Orthodoxwiki: Hagia Sophia",
       "url": "https://orthodoxwiki.org/Hagia_Sophia_(Constantinople)",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Santa Sofía",
+      "url": "https://es.wikipedia.org/wiki/Santa_Sof%C3%ADa",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Hagia Sophia",
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El edificio",
+     "nivel": "hecho",
+     "texto": "Santa Sofía de Constantinopla, dedicada a la Santa Sabiduría, sustituyó a iglesias anteriores destruidas, la primera consagrada en 360."
+    },
+    {
+     "titulo": "Su historia",
+     "nivel": "hecho",
+     "texto": "Justiniano la hizo levantar entre 532 y 537 con Antemio de Tralles e Isidoro de Mileto, y se le atribuye la frase «Salomón, te he superado». Fue mezquita desde la conquista de 1453, museo en el siglo XX y hoy de nuevo mezquita; Sinan, en el XVI, quiso competir con ella en las mezquitas otomanas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Yaroslav el Sabio levantó Santa Sofía en Kiev, el Templo de Salomón sería la de Constantinopla, obra de Solimán, mezquita desde el XVIII, y Salamanca significaría «ciudad de Salomón»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha del VI y la conversión en 1453 contradicen la atribución a Solimán y al siglo XVIII. La comparación con Salomón consta como frase atribuida, no como identidad de edificios."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -50071,6 +50573,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Summis desiderantes affectibus",
       "url": "https://es.wikipedia.org/wiki/Summis_desiderantes_affectibus",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Summis desiderantes affectibus",
+      "url": "https://en.wikipedia.org/wiki/Summis_desiderantes_affectibus",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50078,6 +50585,33 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El dominico Heinrich Kramer pidió autoridad explícita para perseguir la brujería en Alemania, donde las autoridades eclesiásticas locales le negaban ayuda."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 5 de diciembre de 1484 Inocencio VIII confirmó sus poderes y los de Sprenger en varias diócesis y exhortó al obispo de Estrasburgo a apoyarlos; no promulgó nada nuevo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Algunos estudiosos la ven como claramente política, por la disputa de jurisdicción."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La bula consta. Su peso en las cazas posteriores se discute."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -50364,6 +50898,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Order of Montesa",
       "url": "https://en.wikipedia.org/wiki/Order_of_Montesa",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden de Montesa",
+      "url": "https://es.wikipedia.org/wiki/Orden_de_Montesa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50379,6 +50918,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los templarios arraigaron en la Corona de Aragón desde el siglo XII; en 1312 la supresión se les aplicó pese a las protestas de Jaime II."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Jaime II pidió formar con sus bienes una orden propia, para no reforzar al Hospital. Juan XXII aprobó Montesa el 10 de junio de 1317, con bienes templarios y hospitalarios de Valencia, regla del Císter y dependencia de Calatrava, de la que salieron sus primeros miembros. El maestrazgo se unió a la Corona con Felipe II."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el papa dejó en Aragón una fracción templaria que pasó a Calatrava y Montesa y es la raíz de la Compañía de Jesús. Según Rubén Avilés, estas órdenes y sus fechas corresponden en realidad a los siglos XVI y XVII."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El traspaso de bienes a Montesa consta; Calatrava es anterior. En lo buscado no aparece relación con los jesuitas, y las fechas desplazadas no tienen apoyo en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -53165,6 +53726,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Unam sanctam",
       "url": "https://es.wikipedia.org/wiki/Unam_sanctam",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Unam sanctam",
+      "url": "https://en.wikipedia.org/wiki/Unam_sanctam",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53177,6 +53743,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Bonifacio VIII y Felipe IV de Francia chocaban por los impuestos al clero y la supremacía entre poder espiritual y temporal."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 18 de noviembre de 1302 la bula proclamó que fuera de la Iglesia no hay salvación, usó la imagen de las dos espadas con la temporal subordinada y definió que someterse al pontífice romano es necesario para la salvación. El 7 de septiembre de 1303 Guillermo de Nogaret asaltó al papa en Anagni y lo retuvo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El pulso tenía fondo fiscal: expulsión de banqueros extranjeros de Francia y prohibición de sacar oro."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El original se ha perdido; se conoce por los registros vaticanos. El alcance de su frase final se ha interpretado de varias formas."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -55658,6 +56251,16 @@ window.CRONO = {
       "titulo": "Jesuits (Catholic Culture Dictionary)",
       "url": "https://www.catholicculture.org/culture/library/dictionary/index.cfm?id=34358",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Mendicant orders",
+      "url": "https://en.wikipedia.org/wiki/Mendicant_orders",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Orden mendicante",
+      "url": "https://es.wikipedia.org/wiki/Orden_mendicante",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -55673,6 +56276,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La pobreza monástica",
+     "nivel": "hecho",
+     "texto": "La renuncia a bienes personales acompaña al monacato desde sus orígenes, aunque la comunidad podía tener rentas amplias."
+    },
+    {
+     "titulo": "Las órdenes mendicantes",
+     "nivel": "hecho",
+     "texto": "A comienzos del siglo XIII franciscanos (1209) y dominicos (1216) la endurecieron, viviendo de la limosna; san Francisco prohibió incluso la propiedad colectiva. El concilio de Lyon de 1274 reconoció cuatro grandes órdenes mendicantes, y hubo disputa entre franciscanos y dominicos sobre la pobreza de Cristo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la negación de la propiedad se inculcó a franciscanos, dominicos y jesuitas, y el voto jesuita disuelve la propiedad individual como pide el Manifiesto comunista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El voto y su origen mendicante constan. Es una renuncia voluntaria dentro de una orden; en lo leído no hay vínculo histórico con el comunismo del siglo XIX."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -55697,6 +56322,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Vox in excelso",
       "url": "https://es.wikipedia.org/wiki/Vox_in_excelso",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Vox in excelso",
+      "url": "https://en.wikipedia.org/wiki/Vox_in_excelso",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -55709,6 +56339,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde 1305 circulaban acusaciones contra los templarios; en 1307 Felipe IV mandó detenerlos, hubo confesiones bajo tortura y en 1310 quemó a 54 en París. El concilio de Vienne se abrió en octubre de 1311."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 22 de marzo de 1312 Clemente V disolvió la orden y le retiró sus mandatos. El 2 de mayo, con «Ad providam», pasó sus bienes a los Hospitalarios; en 1314 murió en la hoguera el maestre Jacques de Molay."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El rey de Francia peleó por quedarse con los bienes de la orden."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esta bula."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La disolución consta. La culpabilidad de los templarios fue discutida ya entonces y las confesiones se arrancaron con tortura."
+    }
+   ],
    "vista": "religion"
   },
   {
