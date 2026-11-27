@@ -2584,6 +2584,11 @@ window.CRONO = {
       "titulo": "Britannica: Osage murders",
       "url": "https://www.britannica.com/topic/Osage-murders",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Osage Indian murders",
+      "url": "https://en.wikipedia.org/wiki/Osage_Indian_murders",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -2594,6 +2599,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El petróleo",
+     "nivel": "hecho",
+     "texto": "El pueblo osage, trasladado desde Kansas a Oklahoma en los años 1870, conservó los derechos minerales de su reserva. Hallado petróleo en 1897, cada miembro inscrito recibía su parte de las regalías, un derecho que podía heredar alguien que no fuera osage."
+    },
+    {
+     "titulo": "La tutela",
+     "nivel": "hecho",
+     "texto": "Desde 1906 el Congreso creó un sistema de tutela para «menores e incapaces» en manos de los tribunales de Oklahoma, que declaraban incapaces a los indígenas sin atender a su capacidad real; muchos tutores se apropiaban de su riqueza y numerosos hombres blancos se casaron con mujeres osage."
+    },
+    {
+     "titulo": "Los asesinatos",
+     "nivel": "hecho",
+     "texto": "La mayoría ocurrió entre 1921 y 1926. Al menos 24 osages de sangre completa murieron de forma violenta o sospechosa entre 1918 y 1931, y periodistas apuntan que las víctimas pudieron ser cientos. Parte de los crímenes buscaba heredar los derechos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo cita como caso juzgado en 1926 y ganado por el FBI, fundacional para su prestigio, y menciona el libro y la película."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los crímenes por el petróleo constan. En los apartados leídos no se detalla la investigación federal; la versión oficial recoge la condena de William Hale.\n\nEs un caso en que seguir el dinero explica los hechos, con el marco legal de la tutela como pieza clave."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -11558,6 +11590,28 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "naturaleza": "gobiernos",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "En 1917 Wilson reunió a unos 150 académicos en «The Inquiry», dirigidos por el coronel Edward House con Walter Lippmann, para preparar la posguerra; sus informes sentaron las bases de los Catorce Puntos. En París, el 30 de mayo de 1919, británicos y estadounidenses acordaron crear un instituto común, que acabó en dos: Chatham House en Londres y el Consejo en Nueva York, fundado en 1921."
+    },
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Centro de estudios privado sin ánimo de lucro sobre política exterior, con miles de socios entre altos cargos, secretarios de Estado, directores de la CIA, banqueros, abogados, profesores y periodistas. Publica Foreign Affairs y tiene un programa de estudios con el nombre de David Rockefeller que asesora a gobiernos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que allí se define la política exterior estadounidense con pensadores formados en universidades jesuitas. Giuseppe Nocera subraya que nació un año después de Chatham House y que sus socios corporativos coinciden en gran parte con empresas de la City."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen común con Chatham House consta y su peso en la política exterior es reconocido. En lo leído no aparece la formación jesuita ni el cruce de socios corporativos.\n\nAviso: la entrada en español atribuye al consejo una agenda con tono valorativo; no se ha recogido como hecho."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -19924,9 +19978,41 @@ window.CRONO = {
       "titulo": "Polynational War Memorial: Irak contra Reino Unido 1920-1921",
       "url": "https://www.war-memorial.net/Iraq-vs-UK-3.46",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (en): Alleged British use of chemical weapons in the Iraqi Revolt",
+      "url": "https://en.wikipedia.org/wiki/Alleged_British_use_of_chemical_weapons_in_the_Iraqi_Revolt",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Lo que se planteó",
+     "nivel": "hecho",
+     "texto": "El 12 de mayo de 1919 Churchill escribió en el Ministerio de Guerra que no entendía los escrúpulos sobre el gas, que estaba firmemente a favor de usar gas venenoso contra tribus «incivilizadas» y que no hacía falta emplear solo los más mortíferos, sino otros que causaran gran molestia y terror. El manual militar británico de 1914 consideraba que las leyes de la guerra no regían frente a pueblos «incivilizados»."
+    },
+    {
+     "titulo": "Lo que se hizo en Irak",
+     "nivel": "hecho",
+     "texto": "La mayoría de los historiadores sostiene que las autoridades británicas estudiaron el uso de armas químicas en la revuelta iraquí y no las usaron. Se llevaron granadas lacrimógenas y se aprobó su empleo, pero las pruebas las hallaron poco prácticas; el desarrollo se frenó por el coste político tras el tratado de desarme de Washington. Pesaron las dificultades prácticas más que reparos morales."
+    },
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Gran Bretaña había usado gas en Oriente Medio contra los otomanos, en la segunda batalla de Gaza. En 1919 el subsecretario para la India, lord Sinha, bloqueó un pedido de 16.000 proyectiles."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Churchill ordenó en 1920 reprimir con gas una rebelión de kurdos e iraquíes, con unos 10.000 muertos, la primera vez que se gaseaba a civiles."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La postura de Churchill a favor del gas está documentada y el texto va más allá de los lacrimógenos en su frase literal, aunque añada que no hacían falta los más mortíferos. El uso en Irak lo rechaza la mayoría de los historiadores; la fuente más citada a favor es discutida."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -27726,6 +27812,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Kant propuso en 1795 una liga de naciones para controlar los conflictos, y el Concierto de Europa posterior a Napoleón ensayó la cooperación para evitar la guerra."
+    },
+    {
+     "titulo": "Creación y fines",
+     "nivel": "hecho",
+     "texto": "Fue la primera organización intergubernamental mundial dedicada a la paz. Su Pacto se firmó el 28 de junio de 1919 como parte del Tratado de Versalles y entró en vigor el 10 de enero de 1920. Buscaba la seguridad colectiva, el desarme y el arbitraje, y se ocupaba de trabajo, salud, tráfico de personas y drogas, armas y minorías. Wilson recibió el Nobel como su arquitecto, pero no logró que su país entrara."
+    },
+    {
+     "titulo": "Debilidades y final",
+     "nivel": "hecho",
+     "texto": "No tenía fuerza armada propia y dependía de las potencias vencedoras, reacias a usarla o a sancionar; Mussolini se burló de ella durante la guerra de Etiopía. Expulsó a la URSS en diciembre de 1939 por invadir Finlandia. Cesó el 18 de abril de 1946, cuando muchos de sus órganos pasaron a la ONU. El consenso académico es que fracasó en la paz pero abrió vías en derecho internacional, seguridad colectiva y estabilización financiera."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera afirma que se creó con excusas de paz, que durante casi treinta años se alimentó de los recursos de los países sin lograrla y que después se le cambió el nombre."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El fracaso en la paz y el traspaso de órganos a la ONU constan. Que la ONU sea la misma institución es una simplificación: es otra organización, heredera en parte.\n\nPendiente: cómo se financiaba."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -28506,6 +28619,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Tras la revuelta árabe de 1916, fuerzas británicas expulsaron a las otomanas del Levante. Londres había ofrecido independencia árabe en la correspondencia Husayn-McMahon, pero repartió Siria con Francia en el acuerdo Sykes-Picot, visto por los árabes como traición, y en 1917 prometió con la Declaración Balfour un hogar nacional judío."
+    },
+    {
+     "titulo": "El mandato",
+     "nivel": "hecho",
+     "texto": "Se estableció en 1920 y la Sociedad de Naciones lo formalizó en 1922, con inglés, árabe y hebreo como idiomas oficiales. Hubo oleadas de inmigración judía y auge de los dos nacionalismos, que llevaron a la revuelta árabe de 1936-1939 y la insurgencia judía de 1944-1948."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "La ONU aprobó en noviembre de 1947 partirlo en dos Estados. Los británicos fijaron el final para la medianoche del 14 de mayo de 1948 y se fueron retirando. La guerra dividió el territorio entre Israel, Jordania, que se anexionó Cisjordania, y Egipto en Gaza."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra cuenta que Gran Bretaña expulsó a los otomanos y que tras San Remo y bajo la Sociedad de Naciones se creó el mandato."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La secuencia coincide con lo leído. Las promesas incompatibles a árabes y judíos son el punto central para entender el conflicto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -39481,6 +39621,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Royal Institute of International Affairs",
       "url": "https://en.wikipedia.org/wiki/Royal_Institute_of_International_Affairs",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Chatham House",
+      "url": "https://en.wikipedia.org/wiki/Chatham_House",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -39496,6 +39641,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "Nació de una reunión convocada por Lionel Curtis el 30 de mayo de 1919 entre delegados británicos y estadounidenses de la conferencia de París, que defendía el estudio experto de las relaciones internacionales. Los británicos fundaron su instituto en Londres; Balfour y Clynes estuvieron entre sus primeros presidentes."
+    },
+    {
+     "titulo": "Sede y regla",
+     "nivel": "hecho",
+     "texto": "En 1922, por donación del canadiense Leonard y su esposa, se instaló en Chatham House. De allí viene la «regla de Chatham House»: se puede contar lo tratado, pero no quién lo dijo ni quién asistió."
+    },
+    {
+     "titulo": "Hoy y críticas",
+     "nivel": "hecho",
+     "texto": "Admite socios individuales y empresas, universidades, embajadas y ONG, y se organiza en trece programas. Se le critica elitismo, poca transparencia de financiación, afinidad con políticas intervencionistas y sus vínculos iniciales con el imperialismo británico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera dice que se fundó con la dinastía Astor, recibió el título «Royal» en 1926 y, presentándose como centro de pensamiento, actúa como gran poder de influencia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia y la opacidad de financiación son críticas documentadas. En lo leído hoy no aparecen los Astor.\n\nLectura de trabajo de Nexus: Curtis, de la Mesa Redonda, une este instituto con la red imperial de Milner. Pendiente: sus donantes."
+    }
+   ],
    "vista": "politica"
   },
   {
