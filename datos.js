@@ -2470,9 +2470,41 @@ window.CRONO = {
       "titulo": "Catholic Encyclopedia: Vatican Archives",
       "url": "https://www.catholic.org/encyclopedia/view.php?id=11932",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Archivo Apostólico Vaticano",
+      "url": "https://es.wikipedia.org/wiki/Archivo_Apost%C3%B3lico_Vaticano",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "En 1612 Pablo V ordenó reunir en un solo lugar los documentos de la Iglesia. «Secreto» significaba entonces privado, del círculo del papa; en 2019 pasó a llamarse Archivo Apostólico."
+    },
+    {
+     "titulo": "Expolio napoleónico",
+     "nivel": "hecho",
+     "texto": "Napoleón exigió obras y manuscritos como tributo; en 1809 ordenó llevar todo el archivo a París y en 1813 se habían enviado más de 3.000 cajas. Devuelto en 1814 con poco dinero, hubo ventas de volúmenes y papel al peso: un estudioso estimó que entre un cuarto y un tercio no regresó."
+    },
+    {
+     "titulo": "Apertura",
+     "nivel": "hecho",
+     "texto": "Pío IX y su prefecto Theiner dieron algunos accesos y León XIII lo abrió a investigadores hacia 1879-1881."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, se creó en 1795 (equivalente a 1910), con origen en la Biblioteca Vaticana y en la Biblioteca Imperial de Constantinopla."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación de 1612 está documentada; las pérdidas del viaje a París dejan huecos reales, que no prueban una ocultación deliberada."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -2518,6 +2550,33 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Cómo llegaron a Aviñón",
+     "nivel": "hecho",
+     "texto": "Benedicto XII trasladó en 1339 los registros desde Asís a Aviñón, donde residieron los papas de 1309 a 1377; allí se formó la serie conocida como Registra Avenionensia."
+    },
+    {
+     "titulo": "La vuelta, por partes",
+     "nivel": "hecho",
+     "texto": "Terminado el cisma, Martín V devolvió archivos a Roma entre 1419 y 1422, pero los registros aviñoneses no llegaron al Vaticano hasta 1783."
+    },
+    {
+     "titulo": "Lo que vino después",
+     "nivel": "hecho",
+     "texto": "En 1798 se sacó el archivo del Castillo de Sant'Angelo, que en 1799 viajó a París dentro del proyecto napoleónico de un archivo central europeo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, estas fechas (1783, 1798) acompañan la creación del Archivo Secreto en 1795, equivalente a 1910 en su cronología."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fechas del traslado constan. Que formen parte de un montaje de la historia no figura en lo leído."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -5698,9 +5757,36 @@ window.CRONO = {
       "titulo": "Wikipedia: Sixto-Clementine Vulgate",
       "url": "https://en.wikipedia.org/wiki/Sixto-Clementine_Vulgate",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Vulgata clementina",
+      "url": "https://es.wikipedia.org/wiki/Vulgata_clementina",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "La Sixtina",
+     "nivel": "hecho",
+     "texto": "Sixto V publicó en 1590 una edición de la Vulgata preparada por una comisión y revisada por él mismo, la primera autorizada por un papa. A los nueve días de su muerte los cardenales suspendieron la venta y después ordenaron destruir ejemplares."
+    },
+    {
+     "titulo": "La Clementina",
+     "nivel": "hecho",
+     "texto": "En 1592 Clemente VIII retiró las copias alegando erratas y promulgó la versión revisada, que fue la oficial hasta la Nova Vulgata de 1979. Algunos sospechan influencia jesuita; Sixto V había chocado con la Compañía y quiso incluir una obra de Belarmino en el Índice."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la última Biblia católica (1777, equivalente a 1592) se impone como relato que legitima imperios y papado; su publicación en Francia obliga al rey hugonote a hacerse católico y desemboca en la Revolución."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La edición documentada es de 1592. En los pasajes leídos no aparece relación con la conversión de Enrique IV, y la fecha de 1777 pertenece a la cronología del autor."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -18078,6 +18164,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Dominus ac Redemptor",
       "url": "https://es.wikipedia.org/wiki/Dominus_ac_Redemptor",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Dominus ac Redemptor",
+      "url": "https://en.wikipedia.org/wiki/Dominus_ac_Redemptor",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18094,6 +18185,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los jesuitas habían salido de Portugal, Francia, España y Parma. Clemente XIII se negó a suprimirlos pese a la presión de las cortes borbónicas; la cuestión pesó en el cónclave de 1769, que eligió a Clemente XIV, franciscano."
+    },
+    {
+     "titulo": "El proceso",
+     "nivel": "hecho",
+     "texto": "El nuevo papa intentó apaciguar a los enemigos tratando con dureza a la orden: no recibió al general Lorenzo Ricci y le prohibió admitir novicios. No bastó, y países católicos llegaron a amenazar con romper con Roma."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "El breve del 21 de julio de 1773 suprimió la Compañía para preservar la paz de la Iglesia. Centenares de escuelas se cerraron o pasaron a otras órdenes o al Estado."
+    },
+    {
+     "titulo": "Dónde no se aplicó",
+     "nivel": "hecho",
+     "texto": "Prusia y Rusia, no católicas, prohibieron publicar el breve y mandaron a los jesuitas seguir con sus clases."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es una decisión tomada bajo presión de las coronas; cuánto había además de convicción propia del papa se discute."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -22439,6 +22562,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Portugal expulsó a la Compañía en 1759 y Francia poco después. En el XVIII el antijesuitismo se alimentaba del jansenismo, la Ilustración y una monarquía más laica y absoluta que empezó a verlos como competidores. En 1766 estallaron los motines contra Esquilache."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El fiscal Campomanes abrió una pesquisa secreta sobre los instigadores y en enero de 1767 presentó un dictamen que culpaba a los jesuitas. Un consejo extraordinario formado por Aranda dio la acusación por probada, y el rey, tras otra junta presidida por el duque de Alba que aconsejó no explicar los motivos, la aprobó. La noche del 31 de marzo en Madrid y al amanecer del 2 de abril en el resto se cerraron las casas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El secreto buscaba también que no vendieran bienes ni se llevaran archivos: las órdenes incluían confiscar sus «temporalidades». Carlos III pagó a los expulsos una pensión exigua con el producto de ventas. La fuente en inglés recoge que quedarse con su patrimonio beneficiaba a los gobiernos, pero el historiador Charles Gibson advierte que no se sabe cuánto pesó como motivo."
+    },
+    {
+     "titulo": "La prueba",
+     "nivel": "hecho",
+     "texto": "Según Domínguez Ortiz, la pesquisa era de origen sospechoso y escasa fuerza probatoria: a lo sumo acusaba a individuos. El rey pidió después su parecer a 56 obispos y solo seis se atrevieron a desaprobar."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra se debió a su explotación económica y a su interferencia política, con ejemplos de Chile; desde 1750 hubo conflictos y en 1767 los habrían expulsado varios estados a la vez."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las expulsiones fueron escalonadas (1759, 1764 y 1767, Austria en 1782), no simultáneas. La culpa de los motines no está probada."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -29261,9 +29416,46 @@ window.CRONO = {
       "titulo": "Illuminati (Wikipedia, resultado de búsqueda)",
       "url": "https://en.wikipedia.org/wiki/Illuminati",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Iluminados de Baviera",
+      "url": "https://es.wikipedia.org/wiki/Iluminados_de_Baviera",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "La Universidad de Ingolstadt estaba dominada por antiguos jesuitas tres años después de la supresión. Weishaupt, profesor de derecho eclesiástico, estaba aislado por sus ideas ilustradas."
+    },
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "El 1 de mayo de 1776 creó con dos alumnos una sociedad secreta, al principio un círculo de lectura anticlerical de pocos miembros, para dar acceso a literatura crítica. Declaraba oponerse a la superstición, la influencia religiosa y los abusos del poder del Estado."
+    },
+    {
+     "titulo": "Crecimiento y caída",
+     "nivel": "hecho",
+     "texto": "Con Adolph von Knigge, desde 1780, ganó estructura de estilo masónico e influencia en el convento de Wilhelmsbad (1782). Las disputas internas llamaron la atención de las autoridades; Baviera la prohibió y se disolvió en 1785."
+    },
+    {
+     "titulo": "La leyenda",
+     "nivel": "hecho",
+     "texto": "La idea de que sobrevivió y dirigió revoluciones arranca de Barruel y Robison, y la fuente la considera invención suya; teorías actuales les atribuyen el control del mundo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, tras las grandes logias de 1717 a 1737, el «sacerdote jesuita» Weishaupt los fundó para infiltrar y controlar las demás órdenes masónicas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Weishaupt no fue sacerdote jesuita según la ficha, y fundó la orden contra la influencia jesuita. Que buscara peso dentro de la masonería sí aparece; el control del resto de órdenes, no."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -31338,6 +31530,11 @@ window.CRONO = {
       "titulo": "Britannica: Habad",
       "url": "https://www.britannica.com/topic/Habad",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Chabad",
+      "url": "https://en.wikipedia.org/wiki/Chabad",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31349,6 +31546,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "La fundó en 1775 el rabino Schneur Zalman de Liadí en Liozno, entonces Imperio ruso (hoy Bielorrusia), tras la primera partición de Polonia. El nombre son las siglas hebreas de sabiduría, entendimiento y conocimiento, por su énfasis en la contemplación intelectual y la teología cabalística."
+    },
+    {
+     "titulo": "Traslados",
+     "nivel": "hecho",
+     "texto": "Con el sexto Rebbe el centro estuvo en Riga y Varsovia; la Segunda Guerra Mundial lo llevó a Estados Unidos y desde 1940 está en Crown Heights, Brooklyn."
+    },
+    {
+     "titulo": "Qué es hoy",
+     "nivel": "hecho",
+     "texto": "Bajo Menachem Mendel Schneerson se volvió una red mundial volcada en acercar a judíos de toda condición. Tras su muerte en 1994 no se nombró sucesor, y la creencia de parte de sus fieles en que es el Mesías ha generado polémica dentro del judaísmo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Cada centro local se financia con su comunidad: los emisarios recaudan y no reciben fondos de la sede."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano (en voz de Iván), es una rama pequeña e influyente fundada en Ucrania en el siglo XVIII cuyo Rebe instó a Netanyahu a acelerar la venida del Mesías."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El lugar de fundación documentado está en la actual Bielorrusia, no en Ucrania. La conversación con Netanyahu no aparece en lo leído. La Britannica no se pudo abrir."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -45724,6 +45953,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Clemente XII había condenado la masonería en 1738 con In eminenti."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Benedicto XIV la promulgó el 18 de marzo de 1751. Confirma y reproduce entera la de 1738, prohíbe a los católicos entrar en cualquier grupo masónico y alega naturalismo, juramentos, secreto, indiferentismo religioso y un posible peligro para Iglesia y Estado."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Pío VII se apoyó en las dos en Ecclesiam a Jesu Christo (1821), preocupado por los carbonarios, a los que veía como rama o imitación de la masonería."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Solo se ha leído un artículo breve; no se detalla por qué hizo falta repetir la condena trece años después."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -46180,9 +46436,41 @@ window.CRONO = {
       "titulo": "Orthodoxwiki: Church of the Holy Sepulchre",
       "url": "https://orthodoxwiki.org/Church_of_the_Holy_Sepulchre_(Jerusalem)",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Santo Sepulcro",
+      "url": "https://es.wikipedia.org/wiki/Santo_Sepulcro",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Un edificio muy rehecho",
+     "nivel": "hecho",
+     "texto": "La iglesia, del siglo IV, fue incendiada en 614, reconstruida en 630, dañada por nuevos incendios en los siglos IX y X, destruida en 1009 y reconstruida antes y durante las cruzadas."
+    },
+    {
+     "titulo": "1808-1810",
+     "nivel": "hecho",
+     "texto": "El incendio de 1808 destruyó el edículo anterior. La inscripción de la fachada declara que se rehízo desde los cimientos en marzo de 1810, con limosnas de los griegos ortodoxos, siendo patriarca Policarpo."
+    },
+    {
+     "titulo": "Seguir el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "El templo lo comparten varias iglesias según acuerdos casi inalterados desde hace más de 160 años, y dos familias musulmanas guardan y abren la puerta. La restauración de 2016-2017 costó unos cuatro millones de dólares, en buena parte del World Monuments Fund, de Mica Ertegün y del rey Abdalá II."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la Jerusalén de Palestina se crea en el siglo XVI y el Santo Sepulcro cristiano se construye en 1810, tras la caída de Napoleón en Egipto y Siria, por Nikolaos Komnenos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "1810 es una reconstrucción de una iglesia documentada desde el siglo IV. La tesis de una Jerusalén creada en el XVI no tiene apoyo en lo leído."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -47172,6 +47460,11 @@ window.CRONO = {
       "titulo": "InfoVaticana: los masones recuerdan Humanum genus (1884), la última gran condena",
       "url": "https://infovaticana.com/2019/01/21/gracias-francisco-de-todos-los-masones-del-mundo/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Supresión de la Compañía de Jesús",
+      "url": "https://es.wikipedia.org/wiki/Supresi%C3%B3n_de_la_Compa%C3%B1%C3%ADa_de_Jes%C3%BAs",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -47186,6 +47479,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Entre 1773 y 1814",
+     "nivel": "hecho",
+     "texto": "La orden no desapareció: siguió en Rusia y Prusia, y hubo actividad en China y Estados Unidos; en Rusia Catalina la Grande permitió un noviciado."
+    },
+    {
+     "titulo": "La restauración",
+     "nivel": "hecho",
+     "texto": "Pío VII, de vuelta en Roma tras el cautiverio, la restableció en 1814 para sus antiguas provincias, y los jesuitas reanudaron su trabajo."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "La supresión había sido obra de la presión de las monarquías católicas sobre el papado; la vuelta se produce al caer el orden napoleónico."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el papa la restablece a cambio de protección; desde entonces impone sus normas en el Vaticano, empieza a absorber la Iglesia (culminando en 1870) y más tarde la infiltrarían la masonería y la CIA."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El pacto y la absorción son tesis del autor sin apoyo en lo leído. La CIA se creó en 1947, y los papas del siglo XIX condenaron la masonería, como León XIII en 1884."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -50010,6 +50330,11 @@ window.CRONO = {
       "titulo": "Britannica: Pius VII",
       "url": "https://www.britannica.com/biography/Pius-VII",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Pío VII",
+      "url": "https://es.wikipedia.org/wiki/P%C3%ADo_VII",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50025,6 +50350,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Francia ocupó Roma el 2 de febrero de 1808. Anexionados los Estados Pontificios, Pío VII excomulgó el 10 de junio de 1809 a los usurpadores con la bula Quum memoranda."
+    },
+    {
+     "titulo": "La detención",
+     "nivel": "hecho",
+     "texto": "La noche del 5 de julio el general Radet, con un millar de hombres, entró en el Quirinal. El papa fue llevado por Florencia, Alessandria y Grenoble hasta Savona, donde rechazó el concilio convocado en París en 1811."
+    },
+    {
+     "titulo": "Fontainebleau",
+     "nivel": "hecho",
+     "texto": "En 1812 Napoleón lo trasladó a Fontainebleau con el pretexto de que los británicos podían liberarlo. En enero de 1813 firmó un concordato que le obligaba a ceder el poder temporal y en marzo se retractó. Quedó libre en enero de 1814."
+    },
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "Estaban en juego los Estados Pontificios, el poder temporal y el control sobre los obispos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra recuerda la muerte de Pío VI en cautiverio y el confinamiento de Pío VII, y dice que los jesuitas pactaron su ayuda a cambio de ser restablecidos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cautiverio consta. El pacto con los jesuitas no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -51161,6 +51518,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Sollicitudo omnium ecclesiarum",
       "url": "https://es.wikipedia.org/wiki/Sollicitudo_omnium_ecclesiarum",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Sollicitudo omnium ecclesiarum",
+      "url": "https://en.wikipedia.org/wiki/Sollicitudo_omnium_ecclesiarum",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51177,6 +51539,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Suprimida en 1773, la Compañía siguió en el Imperio ruso, que no reconoció el breve. Pío VII aprobó esa existencia el 7 de marzo de 1801 con Catholicae Fidei y en 1804 la restableció en Nápoles y Sicilia a petición del rey."
+    },
+    {
+     "titulo": "El regreso del papa",
+     "nivel": "hecho",
+     "texto": "Llevado a Francia, Pío VII no volvió a Roma hasta el 24 de mayo de 1814."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "El 7 de agosto de 1814 promulgó la bula en la casa profesa de la Compañía en Roma y la restableció en toda la Iglesia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes difieren en el número del rey de Nápoles que la pidió en 1804 (Fernando I o IV), según se cuente como rey de las Dos Sicilias o de Nápoles."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -52016,6 +52405,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Suppression of the Society of Jesus",
       "url": "https://en.wikipedia.org/wiki/Suppression_of_the_Society_of_Jesus",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Supresión de la Compañía de Jesús",
+      "url": "https://es.wikipedia.org/wiki/Supresi%C3%B3n_de_la_Compa%C3%B1%C3%ADa_de_Jes%C3%BAs",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52035,6 +52429,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Desde 1759 la orden fue expulsada de Portugal, Francia, Nápoles y Sicilia, Malta, Parma y el Imperio español. Los historiadores señalan varios factores, entre ellos su intervención en política y su cercanía al papa, que despertaban recelo en estados celosos de su independencia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Presionado por Carlos III, los demás borbones y Portugal, Clemente XIV suprimió la Compañía el 21 de julio de 1773 y convirtió a sus miembros en clero secular."
+    },
+    {
+     "titulo": "Supervivencia",
+     "nivel": "hecho",
+     "texto": "En Prusia y Rusia los soberanos no acataron el breve y la orden sobrevivió, de forma precaria, hasta 1814; Catalina la Grande permitió un noviciado nuevo."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La expulsión permitió a los gobiernos incautar bienes de la Compañía; no consta cuánto pesó eso como motivo."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sitúa el inicio en 1767 y el final en 1773, dice que la Orden de Malta apoyó la represión, que se refugiaron en Prusia y Rusia y que los reinos católicos los expulsaron por actividades antimonárquicas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El refugio en Prusia y Rusia consta. El proceso empezó en 1759, antes de lo que indica el autor. El papel de la Orden de Malta no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -57483,6 +57909,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Vix pervenit",
       "url": "https://es.wikipedia.org/wiki/Vix_pervenit",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Wikipedia (en): Vix pervenit",
+      "url": "https://en.wikipedia.org/wiki/Vix_pervenit",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57490,6 +57921,38 @@ window.CRONO = {
    "conexiones": [],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En Italia se discutía si eran lícitos los contratos de préstamo con interés. La Iglesia arrastraba la prohibición desde Nicea (325), que vetó la usura al clero, y la escolástica no consideraba productivo el dinero, algo que chocaba cada vez más con el capitalismo."
+    },
+    {
+     "titulo": "Qué dice",
+     "nivel": "hecho",
+     "texto": "Benedicto XIV la dirigió el 1 de noviembre de 1745 a los obispos de Italia: toda ganancia en un préstamo por encima de lo entregado es usura, también si es moderada."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Dejó una puerta: puede haber motivos legítimos para cobrar algo más si son ajenos al propio contrato de préstamo (los llamados títulos extrínsecos), y la fuente cita como lícito el cobro moderado de gastos en entidades de préstamo sin lucro."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "En 1836 se extendió a toda la Iglesia. En el siglo XIX el debate interno se apagó cuando el crédito pasó a verse como asunto de economía más que de teología."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre esto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Cuánto vaciaron de contenido la prohibición las excepciones posteriores es materia de discusión; el papa Francisco seguía condenando la usura en 2016."
+    }
+   ],
    "vista": "religion"
   },
   {
