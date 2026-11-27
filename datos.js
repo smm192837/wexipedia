@@ -1057,6 +1057,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La cuestión romana",
+     "nivel": "hecho",
+     "texto": "El Reino de Italia había ocupado los Estados Pontificios durante la unificación y desde 1870 las relaciones con la Santa Sede estaban rotas."
+    },
+    {
+     "titulo": "El acuerdo",
+     "nivel": "hecho",
+     "texto": "El 11 de febrero de 1929 el cardenal Gasparri, por Pío XI, y Mussolini, por el rey Víctor Manuel III, firmaron los Pactos de Letrán, que reconocieron la soberanía de la Santa Sede, crearon el Estado de la Ciudad del Vaticano y restablecieron las relaciones. Estuvieron plenamente en vigor hasta su modificación, pactada en 1984 y ratificada en 1985, que suprimió la condición de Italia como Estado católico."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que en 1925 Mussolini elogió la idea universal del Vaticano, le prometió respaldo y dinero que siguieron hasta 1926 y que hubo un encuentro secreto con Gasparri a cambio de suprimir la masonería."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El pacto final y sus negociadores constan. En lo leído no aparece el encuentro secreto.\n\nLa supresión de la masonería en 1925 coincide en el tiempo, lo que no prueba el trato."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -4364,6 +4386,28 @@ window.CRONO = {
      "atribuida_a": "Malcolm Knight",
      "verificacion": "sin-comprobar",
      "fuente": "La da el autor sin indicar discurso ni informe. Contrastador: no se ha encontrado el origen de la frase en fuente abierta."
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La cooperación monetaria entre bancos centrales empezó en el siglo XIX, por ejemplo con un préstamo de 400.000 libras en oro del Banco de Francia al de Inglaterra en 1825, facilitado por los Rothschild. Tras la Primera Guerra Mundial, la conferencia de Bruselas de 1920 debatió nuevas fórmulas."
+    },
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "Se creó en 1930 para supervisar el pago de las reparaciones de guerra y es la institución financiera internacional más antigua. Pertenece a bancos centrales miembros, actúa como banco de bancos centrales y acoge grupos que trabajan por la estabilidad financiera. Tiene sede en Basilea y oficinas en Hong Kong y Ciudad de México."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra, Rubén Avilés y Giuseppe Nocera lo presentan como banco que dicta normas a los demás, privado, sin supervisión, vigilado por la nobleza negra y los Torlonia, y ante el que rendirían cuentas los bancos centrales. El detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel de foro y banco de bancos centrales consta; que dicte órdenes a gobiernos no se deduce de ello. En lo leído no aparecen los Torlonia.\n\nSobre el oro checoslovaco de 1939 y el de la guerra, ver las fichas de Norman, Auboin y McKittrick: ahí está lo más documentado contra el banco."
     }
    ],
    "naturaleza": "banca",
@@ -16373,6 +16417,11 @@ window.CRONO = {
       "titulo": "Spartacus Educational: Joseph Stalin",
       "url": "https://www.spartacus-educational.com/RUSstalin.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Emil Ludwig",
+      "url": "https://es.wikipedia.org/wiki/Emil_Ludwig",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16399,6 +16448,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El entrevistador",
+     "nivel": "hecho",
+     "texto": "Emil Ludwig (1881-1948), escritor alemán de origen judío, famoso por sus biografías psicológicas; había entrevistado a Mussolini."
+    },
+    {
+     "titulo": "La entrevista",
+     "nivel": "hecho",
+     "texto": "Habló con Stalin en Moscú el 13 de diciembre de 1931. Un extracto se incluyó en el libro de Stalin sobre Lenin, y Ludwig la contó en su biografía de Stalin; el texto se publicó con su nombre como conversación con el escritor alemán."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra recoge que Stalin dijo haberse hecho revolucionario por protesta contra el régimen y los métodos jesuíticos del seminario."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La entrevista consta. El texto de las respuestas no se ha abierto hoy; la versión oficial recoge la frase y explica que el seminario era ortodoxo, así que el adjetivo es figurado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -17180,6 +17251,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Leyes fascistísimas",
       "url": "https://it.wikipedia.org/wiki/Leggi_fascistissime",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Discorso di Benito Mussolini del 3 gennaio 1925",
+      "url": "https://it.wikipedia.org/wiki/Discorso_di_Benito_Mussolini_del_3_gennaio_1925",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17198,6 +17274,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El caso Matteotti",
+     "nivel": "hecho",
+     "texto": "El 30 de mayo de 1924 el diputado socialista Giacomo Matteotti denunció fraudes electorales; su asesinato se atribuyó, por la oposición y la prensa independiente, a la dirección fascista o a su connivencia. En diciembre de 1924, con tensiones internas, la oposición publicó el memorial de Cesare Rossi sobre la complicidad de la cúpula."
+    },
+    {
+     "titulo": "El discurso",
+     "nivel": "hecho",
+     "texto": "El 3 de enero de 1925 Mussolini asumió en la Cámara la responsabilidad política, moral e histórica, retó a la oposición a acusarlo y anunció que la situación se aclararía en 48 horas."
+    },
+    {
+     "titulo": "El giro",
+     "nivel": "hecho",
+     "texto": "El ministro del Interior, Federzoni, ordenó restringir la prensa y cerrar círculos opositores: fin del Estado liberal. En los meses siguientes llegaron las leyes «fascistísimas»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sitúa ahí el giro al Estado totalitario: antes gobernaba con liberales y católicos y la oposición conservaba escaños."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coincide con lo leído, que lo considera historiográficamente el punto de inflexión."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -19087,6 +19190,11 @@ window.CRONO = {
       "titulo": "Wikipedia: John Gotti",
       "url": "https://es.wikipedia.org/wiki/John_Gotti",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Gambino crime family",
+      "url": "https://en.wikipedia.org/wiki/Gambino_crime_family",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -19101,6 +19209,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Nacimiento",
+     "nivel": "hecho",
+     "texto": "Es una de las cinco familias de Nueva York surgidas de la guerra de Castellammare. Asesinado Masseria en abril de 1931, Salvatore Maranzano se proclamó jefe de jefes y reorganizó las bandas en cinco familias."
+    },
+    {
+     "titulo": "De segundo plano a primera",
+     "nivel": "hecho",
+     "texto": "Durante un cuarto de siglo fue un actor menor; destacó Albert Anastasia, jefe de la maquinaria de asesinatos del hampa, muerto en 1957 en una barbería, quizá con ayuda de Carlo Gambino, que tomó la familia y se asoció con Meyer Lansky en el juego de Cuba. La fortuna creció hasta 1976, cuando nombró sucesor a su cuñado Paul Castellano."
+    },
+    {
+     "titulo": "Gotti",
+     "nivel": "hecho",
+     "texto": "John Gotti, criado en la pobreza, organizó el asesinato de Castellano en diciembre de 1985 y dirigió la familia; murió en 2002."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés dice que pertenece a nobles romanos, sobre todo a los Massimo, que está emparentada con los Lucchese y que controla la empresa Dynamic Worldwide."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La historia documentada es de bandas y asesinatos entre ellas, sin nobleza. En lo leído no aparecen los Massimo ni esa empresa."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -42444,6 +42579,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué eran",
+     "nivel": "hecho",
+     "texto": "Las SS nacieron de una pequeña guardia voluntaria del partido nazi en Múnich (1923). Himmler entró en 1925, fue su delegado en 1927 y la dirigió de 1929 a 1945; de unos cientos de hombres pasó a ser la principal agencia de seguridad, vigilancia y terror del Estado, con las SS generales, las tropas de combate, las unidades de los campos y la Gestapo y el servicio de inteligencia."
+    },
+    {
+     "titulo": "La referencia a los jesuitas",
+     "nivel": "hecho",
+     "texto": "Según lo leído, Himmler concebía las SS como una élite ideológica, «fusión de caballeros teutónicos, jesuitas y samuráis japoneses»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés sostiene que las SS y la policía política copiaron la organización, los juramentos y el catecismo de la orden, cambiando a Cristo por el Führer."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La referencia a los jesuitas como inspiración está documentada, junto a otras dos. Una admiración declarada no demuestra copia de reglas ni vínculo con la Compañía.\n\nPendiente: comparar los textos de formación de las SS con las Constituciones jesuitas."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -42481,6 +42638,11 @@ window.CRONO = {
       "titulo": "Qu'est-ce que le stalinisme ? (EHNE, Encyclopédie d'histoire numérique de l'Europe)",
       "url": "https://ehne.fr/fr/encyclopedie/th%C3%A9matiques/l'europe-politique/les-modeles-politiques-pour-faire-l'europe/qu'est-ce-que-le-stalinisme",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Iósif Stalin",
+      "url": "https://es.wikipedia.org/wiki/I%C3%B3sif_Stalin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -42504,6 +42666,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Los rivales",
+     "nivel": "hecho",
+     "texto": "Tras la muerte de Lenin en 1924, Stalin fue sofocando a sus rivales. Frente a la revolución mundial de Trotski defendió el socialismo en un solo país. En 1926 Zinóviev y Kámenev se unieron a Krúpskaya en una oposición; después Stalin se volvió contra la derecha de Bujarin, su aliado."
+    },
+    {
+     "titulo": "1929",
+     "nivel": "hecho",
+     "texto": "Trotski fue desterrado en 1929 y asesinado en México en 1940 por orden de Stalin. El 18 de diciembre de 1929, en su cumpleaños, arrancó el culto a la personalidad con una glorificación en Pravda."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra afirma que Stalin tomó el poder en 1929, sucediendo a Lenin tras el exilio de Trotski, y gobernó con mano de hierro hasta 1953."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coincide en lo esencial. Su ascenso fue gradual y empezó con el cargo de secretario general en 1922."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -44404,6 +44588,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El tabú",
+     "nivel": "hecho",
+     "texto": "Fumar se consideraba impropio de mujeres: en 1904 una neoyorquina fue condenada a prisión por fumar ante sus hijos y en 1908 la ciudad prohibió fumar en público a las mujeres. En la Primera Guerra Mundial muchas empezaron a hacerlo."
+    },
+    {
+     "titulo": "El negocio",
+     "nivel": "hecho",
+     "texto": "En 1928 George Washington Hill, presidente de American Tobacco, vio en ellas una mina de oro, y las tabacaleras redoblaron la publicidad."
+    },
+    {
+     "titulo": "La campaña",
+     "nivel": "hecho",
+     "texto": "La expresión «antorchas de la libertad» la usó el psicoanalista A. A. Brill; Edward Bernays contrató a mujeres para desfilar fumando en el desfile de Pascua del 31 de marzo de 1929, presentando el cigarrillo como emancipación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que Bernays organizó en abril de 1929 la campaña de Lucky Strike para asociar el cigarrillo al poder femenino."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coincide, con una precisión: el desfile fue el 31 de marzo.\n\nEs un caso claro de interés comercial usando una causa social."
+    }
+   ],
    "vista": "politica"
   },
   {
