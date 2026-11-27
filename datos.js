@@ -62649,6 +62649,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Conde, sacerdote y filósofo nacido en Rovereto en 1797, ordenado en 1821 tras estudiar en Padua, amigo de Manzoni en Milán; fundó en 1828 el Instituto de la Caridad y murió en Stresa en 1855."
+    },
+    {
+     "titulo": "Choque con Roma",
+     "nivel": "hecho",
+     "texto": "Dos obras suyas, sobre una constitución según la justicia social y sobre las cinco llagas de la Iglesia, entraron en el Índice; aceptó la decisión. Fue beatificado en 2007."
+    },
+    {
+     "titulo": "La Sociedad Fabiana",
+     "nivel": "hecho",
+     "texto": "La Fellowship of the New Life, de la que se escindieron los fabianos, la fundó en Londres en 1883 el escocés Thomas Davidson."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo ve afín a los jesuitas e inspirador de los fabianos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes leídos no se desarrolla cuánto influyó Rosmini en Davidson."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -70964,6 +70991,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Giovanni Diodati",
       "url": "https://en.wikipedia.org/wiki/Giovanni_Diodati",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Giovanni Diodati",
+      "url": "https://es.wikipedia.org/wiki/Giovanni_Diodati",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -70979,6 +71011,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Ginebra en 1576, de familia noble de Lucca que se hizo protestante; los negocios del padre la llevaron a Lyon y la persecución a Ginebra. Estudió teología con Beza y hebreo en Herborn y fue profesor muy joven."
+    },
+    {
+     "titulo": "Obra",
+     "nivel": "hecho",
+     "texto": "Tradujo al italiano la Biblia desde las lenguas originales (1607), referencia de los protestantes italianos, y al francés la historia del concilio de Sarpi; participó mucho en el Sínodo de Dort (1618-1619)."
+    },
+    {
+     "titulo": "Venecia",
+     "nivel": "hecho",
+     "texto": "Estuvo en Italia cerca de Sarpi con intención misionera; el intento de introducir la Reforma en la República no prosperó."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo integra, ligado a Mauricio de Nassau, en la red calvinista de Sarpi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El contacto con Sarpi consta; el vínculo con Nassau no aparece en lo leído."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -72777,6 +72836,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Helena Blavatsky",
       "url": "https://es.wikipedia.org/wiki/Helena_Blavatsky",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Helena Blavatsky",
+      "url": "https://en.wikipedia.org/wiki/Helena_Blavatsky",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72792,6 +72856,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacida en 1831 en Yekaterinoslav, hija de un coronel de origen alemán y de una novelista de la nobleza rusa. Viajó durante años, quizá financiada por su padre; de buena parte de esa época no hay relato fiable."
+    },
+    {
+     "titulo": "La teosofía",
+     "nivel": "hecho",
+     "texto": "En Nueva York conoció a Olcott en 1874 y cofundó la Sociedad Teosófica en 1875; publicó Isis sin velo y La doctrina secreta. En 1882 fijaron la sede en Adyar (Madrás)."
+    },
+    {
+     "titulo": "Polémica",
+     "nivel": "hecho",
+     "texto": "Fue acusada de producir fenómenos paranormales fraudulentos; volvió a Europa en 1885 y murió en Londres en 1891. Para unos sabia, para otros charlatana; extendió ideas hindúes y budistas en Occidente."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano le atribuye la idea de raza que tomó Madole; Artur Sala cree que la teosofía fue infiltrada por servicios británicos; Sergio Trallero la ve como mezcla poco rigurosa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La infiltración por servicios secretos no aparece en lo leído."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -78468,6 +78559,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Junípero Serra",
       "url": "https://es.wikipedia.org/wiki/Junípero_Serra",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Junípero Serra",
+      "url": "https://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78479,6 +78575,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Petra (Mallorca) en 1713 en familia labradora, franciscano desde 1730 y catedrático de teología en Palma, marchó a Nueva España; evangelizó Sierra Gorda, Baja California y California."
+    },
+    {
+     "titulo": "Las misiones",
+     "nivel": "hecho",
+     "texto": "Él o frailes bajo su dirección fundaron nueve misiones en California entre 1769 y 1782, empezando por San Diego."
+    },
+    {
+     "titulo": "El trabajo indígena",
+     "nivel": "hecho",
+     "texto": "Los bautizados debían vivir en la misión, sin salir a voluntad, y trabajar a la fuerza como labradores, pastores y artesanos; enfermedad, hambre, exceso de trabajo y torturas diezmaron a las tribus. Fue beatificado en 1988 y canonizado en 2015, con críticas antes y después."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés ve en franciscanos, Coronado y Serra el trazado del control noble sobre territorios de los actuales cárteles del norte de México."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El sistema coercitivo está documentado; la línea hasta los cárteles no aparece en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -80652,6 +80775,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Luigi Taparelli d'Azeglio",
       "url": "https://en.wikipedia.org/wiki/Luigi_Taparelli_d%27Azeglio",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Luigi Taparelli",
+      "url": "https://es.wikipedia.org/wiki/Luigi_Taparelli",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -80663,6 +80791,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Turín en 1793, hermano del estadista Massimo d'Azeglio, estudió derecho y se hizo jesuita; murió en Roma en 1862."
+    },
+    {
+     "titulo": "Ideas",
+     "nivel": "hecho",
+     "texto": "En su Ensayo teórico del derecho natural (1840-1843) desarrolló la justicia social y la subsidiariedad: autoridad que viene de Dios y del pueblo y deber de cooperar al bien común. Se le considera precursor de la idea de comunidad internacional."
+    },
+    {
+     "titulo": "Influencia",
+     "nivel": "hecho",
+     "texto": "Fundó con Curci La Civiltà Cattolica y se cree que su obra influyó en León XIII y la Rerum novarum."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como el primero en unir justicia social y ciencia del socialismo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Wikipedia le atribuye el término; otro estudio apunta a Rosmini entre los primeros."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -81201,6 +81356,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Marco Antonio de Dominis",
       "url": "https://es.wikipedia.org/wiki/Marco_Antonio_de_Dominis",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Marco Antonio de Dominis",
+      "url": "https://en.wikipedia.org/wiki/Marco_Antonio_de_Dominis",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -81220,6 +81380,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en la isla de Rab (Dalmacia) en 1560, de familia noble, formado por los jesuitas, profesor de matemáticas, retórica y filosofía en Brescia y Padua y arzobispo de Split."
+    },
+    {
+     "titulo": "Ruptura e Inglaterra",
+     "nivel": "hecho",
+     "texto": "Su correspondencia con Sarpi, los choques con su clero y la pérdida de un pleito económico en la Curia lo llevaron a renunciar y retirarse a Venecia. Amenazado por la Inquisición, pasó en 1616 a Inglaterra con ayuda de la embajada inglesa, abjuró, fue decano de Windsor y atacó al papado en De republica ecclesiastica, condenada por teólogos de París."
+    },
+    {
+     "titulo": "Seguir el dinero y vuelta",
+     "nivel": "hecho",
+     "texto": "Perdió a sus amigos ingleses; cronistas hostiles lo pintan avaro. Al irse le confiscaron arcones de dinero, devueltos tras rogar al rey. De vuelta atacó a la Iglesia de Inglaterra y murió en Roma en 1624."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra le atribuye la difusión de Sarpi en Inglaterra y la teoría de las mareas que se asigna a Galileo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La edición londinense de Sarpi consta. La autoría de la teoría de las mareas no se ha examinado."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -85910,6 +86097,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Peter Jan Beckx",
       "url": "https://en.wikipedia.org/wiki/Peter_Jan_Beckx",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Peter Jan Beckx",
+      "url": "https://es.wikipedia.org/wiki/Peter_Jan_Beckx",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -85925,6 +86117,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Zichem en 1795, huérfano de padre y de familia muy pobre, estudió con ayuda de benefactores, se ordenó en 1819 y entró en la Compañía en Hildesheim."
+    },
+    {
+     "titulo": "Carrera",
+     "nivel": "hecho",
+     "texto": "Capellán de los duques de Anhalt-Köthen, convertidos en 1825; luego en Viena, durante años el único jesuita, negoció colegios en Graz, Innsbruck y Linz, enseñó derecho canónico en Roma y dirigió el teologado de Lovaina."
+    },
+    {
+     "titulo": "General",
+     "nivel": "hecho",
+     "texto": "Vigésimo segundo prepósito general desde 1853 hasta su muerte en Roma en 1887."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta, como «Peter Beck», controlando a Marx."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En las biografías leídas no aparece relación alguna con Marx."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -85964,6 +86183,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pactos de Letrán",
       "url": "https://es.wikipedia.org/wiki/Pactos_de_Letr%C3%A1n",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Pietro Gasparri",
+      "url": "https://en.wikipedia.org/wiki/Pietro_Gasparri",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -85986,6 +86210,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en 1852 en una aldea de los Apeninos, canonista, diplomático y cardenal; secretario de Estado de Benedicto XV y Pío XI. Murió en 1934."
+    },
+    {
+     "titulo": "Obra",
+     "nivel": "hecho",
+     "texto": "Dirigió la codificación del Código de Derecho Canónico de 1917, vigente hasta 1983, y trabajó en concordatos con varios Estados."
+    },
+    {
+     "titulo": "Letrán",
+     "nivel": "hecho",
+     "texto": "Firmó por la Santa Sede los pactos de 1929, con compensación económica por 1870 y peso de la Iglesia en la enseñanza."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra habla de un encuentro secreto en el que se ofreció apoyo a Mussolini a cambio de suprimir la masonería y otros adversarios."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes leídos no aparece ese encuentro de 1925 ni ese trato."
+    }
+   ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
   },
@@ -86054,6 +86305,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Pietro Tacchi Venturi",
       "url": "https://it.wikipedia.org/wiki/Pietro_Tacchi_Venturi",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Pietro Tacchi Venturi",
+      "url": "https://es.wikipedia.org/wiki/Pietro_Tacchi_Venturi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Pietro Tacchi Venturi",
+      "url": "https://en.wikipedia.org/wiki/Pietro_Tacchi_Venturi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -86088,6 +86349,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en 1861 en San Severino Marche, hijo de un abogado de la Rota, entró en la Compañía en 1878; historiador de los jesuitas en Italia y rector del Gesù desde 1918."
+    },
+    {
+     "titulo": "El enlace",
+     "nivel": "hecho",
+     "texto": "Conocía a Mussolini desde 1922, logró que cediera al Vaticano la biblioteca Chigi y medió en la negociación de Letrán. Fue el intermediario oficioso entre el Palazzo Venezia y el Vaticano y confesor y consejero del dictador."
+    },
+    {
+     "titulo": "Judíos y antisemitismo",
+     "nivel": "hecho",
+     "texto": "La Wikipedia en inglés lo describe como considerado antisemita; la ficha de las leyes raciales recoge 44 cartas suyas a Mussolini por casos concretos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo llama el «Rasputín de Mussolini», destaca su acceso durante casi veinte años y que intercedió por judíos sin denunciar la legislación nazi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El acceso consta. Que intercediera por casos y fuera antisemita no se excluyen; el alcance de cada cosa requiere los archivos. El artículo de Brill no se pudo abrir."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -86130,6 +86418,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pío IX",
       "url": "https://es.wikipedia.org/wiki/P%C3%ADo_IX",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Pius IX",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_IX",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -86153,6 +86446,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Mastai-Ferretti (Senigallia, 1792 - Roma, 1878), primer futuro papa que pisó América. Elegido en 1846 como reformista, se volvió cada vez más conservador tras la revolución y su vuelta en 1850."
+    },
+    {
+     "titulo": "Poder y doctrina",
+     "nivel": "hecho",
+     "texto": "Condenó el liberalismo y la separación de Iglesia y Estado, reforzó el poder de la Curia y definió la infalibilidad en el Vaticano I. Perdió Roma en 1870 y vio confiscar bienes de la Iglesia."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Su llamamiento revivió en todo el mundo el Óbolo de San Pedro."
+    },
+    {
+     "titulo": "El caso Mortara",
+     "nivel": "hecho",
+     "texto": "En 1858 la policía pontificia quitó a sus padres judíos a Edgardo Mortara, de seis años, porque una criada decía haberlo bautizado."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo sitúa en el centro de la nobleza negra y del origen de una campaña contra masones y judíos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La pérdida del poder temporal y el antijudaísmo de su entorno constan; la continuidad hasta internet es del autor."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -86205,6 +86530,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pactos de Letrán",
       "url": "https://es.wikipedia.org/wiki/Pactos_de_Letr%C3%A1n",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Lateran Treaty",
+      "url": "https://en.wikipedia.org/wiki/Lateran_Treaty",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -86231,6 +86561,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Achille Ratti (Desio, 1857 - Vaticano, 1939), papa desde 1922 y primer soberano de la Ciudad del Vaticano."
+    },
+    {
+     "titulo": "Fascismo",
+     "nivel": "hecho",
+     "texto": "Firmó con Mussolini el acuerdo de 1929 y lo llamó hombre de la Providencia; en las elecciones de 1929 se animó a los católicos a votar a los fascistas, tras la ilegalización del Partido Popular en 1926."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Letrán indemnizó a la Santa Sede por los territorios perdidos en 1870 y dio al catolicismo estatus único en Italia. En Quadragesimo anno criticó la codicia de las finanzas internacionales y el comunismo."
+    },
+    {
+     "titulo": "Alemania",
+     "nivel": "hecho",
+     "texto": "Firmó concordatos, también con la Alemania nazi, y en 1937 denunció sus incumplimientos en Mit brennender Sorge."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra resume la firma de Letrán y dice que sus archivos, abiertos en 2006, muestran otro Tacchi Venturi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El balance entre acuerdo y resistencia frente a fascismo y nazismo sigue debatido."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -88400,6 +88762,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en 1861 en Kraljevec, entonces Austria, filósofo y estudioso de Goethe, desarrolló la antroposofía como «ciencia del espíritu» con núcleo centrado en Cristo."
+    },
+    {
+     "titulo": "Etapas",
+     "nivel": "hecho",
+     "texto": "Dirigió desde 1902 la sección alemana teosófica, fundó la revista Luzifer y en 1912-1913 creó la antroposofía. Murió en Dornach el 30 de marzo de 1925."
+    },
+    {
+     "titulo": "Legado práctico",
+     "nivel": "hecho",
+     "texto": "En 1919 fundó en Stuttgart la escuela para hijos de obreros de la fábrica Waldorf-Astoria; de él parten también medicina y agricultura antroposóficas."
+    },
+    {
+     "titulo": "Política",
+     "nivel": "hecho",
+     "texto": "Tras la Primera Guerra Mundial propuso la triformación social y, en la disputa por la Alta Silesia, una independencia provisional que le valió acusaciones de traidor."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala lo considera la figura más influyente del esoterismo moderno, que sistematizó un legado previo; sitúa su muerte en 1924."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Murió en 1925. Sus afirmaciones clarividentes y sus aplicaciones no tienen el aval de la ciencia."
+    }
+   ],
    "vista": "religion"
   },
   {
@@ -89437,6 +89831,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Stephen Samuel Wise",
       "url": "https://es.wikipedia.org/wiki/Stephen_Samuel_Wise",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (en): Stephen Samuel Wise",
+      "url": "https://en.wikipedia.org/wiki/Stephen_Samuel_Wise",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -89448,6 +89847,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Budapest en 1874 y llegado a Nueva York de niño, rabino reformista como su padre y abuelo, doctor por Columbia en 1901, fundó en 1907 la Sinagoga Libre tras rechazar un púlpito sin libertad de palabra."
+    },
+    {
+     "titulo": "Activismo y poder",
+     "nivel": "hecho",
+     "texto": "Líder sionista, participó en la fundación de la NAACP, fue figura del Partido Demócrata y cercano a Roosevelt; ayudó a que el gobierno apoyara la Declaración Balfour y creó en 1922 un seminario rabínico."
+    },
+    {
+     "titulo": "El Holocausto",
+     "nivel": "hecho",
+     "texto": "El telegrama de Riegner (agosto de 1942) avisaba del plan de exterminio; el Departamento de Estado tardó meses en confirmarlo y Wise lo hizo público el 24 de noviembre. Se le criticó haber sido demasiado cauto y próximo al gobierno."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En 1922 fue uno de los fideicomisarios fundadores de Palestine Endowment Funds."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano dice que fundó la ADL en 1953 con la B'nai B'rith y que esta financiaba grupos antisemitas para vigilarlos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La ADL es de 1913 y Wise murió en 1949, así que la fecha no encaja; la financiación de grupos antisemitas no aparece en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -91663,6 +92094,11 @@ window.CRONO = {
       "titulo": "Wikipedia: William Wynn Westcott",
       "url": "https://en.wikipedia.org/wiki/William_Wynn_Westcott",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): William Wynn Westcott",
+      "url": "https://es.wikipedia.org/wiki/William_Wynn_Westcott",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -91681,6 +92117,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Médico forense británico nacido en 1848 en Leamington, masón desde 1871 y estudioso de la cábala desde 1880; jefe supremo de la Societas Rosicruciana in Anglia y activo en la teosofía."
+    },
+    {
+     "titulo": "La Golden Dawn",
+     "nivel": "hecho",
+     "texto": "La cofundó con Mathers y Woodman; la fuente en español la fecha en 1887 y el templo de Londres es de 1888. En 1896 dejó la actividad pública porque se juzgaba incompatible con su cargo de forense de la Corona."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "Se trasladó a Sudáfrica en 1918 y murió en Durban en 1925."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano dice que Crowley se formó a su lado y que Westcott trata el 11 como cifra del pecado en su libro sobre números."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro no se ha consultado, ni consta en lo leído una relación directa de maestro a discípulo."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
