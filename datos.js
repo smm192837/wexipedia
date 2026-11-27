@@ -1607,6 +1607,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Supresión de la Compañía de Jesús",
       "url": "https://es.wikipedia.org/wiki/Supresi%C3%B3n_de_la_Compa%C3%B1%C3%ADa_de_Jes%C3%BAs",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Mayer Amschel Rothschild",
+      "url": "https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1626,6 +1631,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "La supresión de los jesuitas",
+     "nivel": "hecho",
+     "texto": "Los jesuitas fueron expulsados del Imperio portugués (1759), de Francia (1762-1764) y del Imperio español (1767), entre otros territorios. Presionado sobre todo por Carlos III de España y los demás monarcas borbónicos, Clemente XIV suprimió la Compañía con el breve Dominus ac Redemptor, de 1773.\n\nLos historiadores citan varios motivos: su peso político, su cercanía al papa y el recelo de monarquías que querían centralizar el poder. En Rusia y Prusia no se acató el breve y la orden sobrevivió allí de forma precaria. Pío VII la restauró en 1814."
+    },
+    {
+     "titulo": "Dónde estaban entonces los Rothschild",
+     "nivel": "hecho",
+     "texto": "En 1773 Mayer Amschel Rothschild tenía unos 29 años, comerciaba con monedas en Fráncfort y desde 1769 era proveedor de la corte de Guillermo de Hesse. El crecimiento fuerte llegó después de la Revolución francesa, gestionando pagos británicos por el alquiler de soldados de Hesse. La sociedad M. A. Rothschild e hijos se formó en 1810."
+    },
+    {
+     "titulo": "Relación posterior con Londres y los Estados Pontificios",
+     "nivel": "hecho",
+     "texto": "Nathan Rothschild llegó a Inglaterra en 1798 y fundó casa en la City de Londres. La rama de Nápoles concedió préstamos importantes a los Estados Pontificios, a varios reyes de Nápoles, a Parma y a Toscana. Alfred de Rothschild fue consejero del Banco de Inglaterra desde 1869, durante veinte años."
+    },
+    {
+     "titulo": "Las teorías sobre la familia",
+     "nivel": "hecho",
+     "texto": "Desde hace más de dos siglos la familia es objeto de teorías de conspiración, como que controla la riqueza y las finanzas del mundo o que alentó guerras, muchas de origen antisemita."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, tras la supresión los jesuitas, que no podían usar bancos católicos, se aliaron con los Rothschild; argumenta con la edad de Mayer (23 y 32 años) que alguien de entorno jesuita debió ayudarlo. El control sobre Napoleón habría permitido darles el Banco de Inglaterra, además de una parte del tesoro del Vaticano. Concluye que la alianza sigue activa y que los Rothschild controlan hoy la economía bajo influencia veneciana y jesuita."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece ningún trato entre jesuitas y Rothschild, ningún depósito de riqueza de la orden ni control familiar del Banco de Inglaterra o del tesoro vaticano. Lo documentado son préstamos a los Estados Pontificios en el siglo XIX y un puesto de consejero en el Banco de Inglaterra, que no es lo mismo que controlarlos.\n\nLectura de trabajo de Nexus: para sostener la tesis haría falta documentación contable o contractual de la orden entre 1773 y 1814. Pendiente saber qué pasó con los bienes de los jesuitas al suprimirse; el artículo leído no lo cuenta."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -10709,6 +10746,21 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Convent of Wilhelmsbad",
       "url": "https://en.wikipedia.org/wiki/Convent_of_Wilhelmsbad"
+     },
+     {
+      "titulo": "Wikipedia (en): Illuminati",
+      "url": "https://en.wikipedia.org/wiki/Illuminati",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Strikte Observanz",
+      "url": "https://de.wikipedia.org/wiki/Strikte_Observanz",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Rite of Strict Observance",
+      "url": "https://en.wikipedia.org/wiki/Rite_of_Strict_Observance",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -10723,6 +10775,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Por qué se convocó",
+     "nivel": "hecho",
+     "texto": "La Estricta Observancia, un sistema masónico de altos grados que afirmaba descender de los templarios y obedecer a unos «superiores desconocidos», había sometido a buena parte de las logias alemanas y a muchas europeas. A finales de la década de 1770 estaba en crisis: no se sostenía la leyenda templaria y se desconfiaba de su gran maestre nominal, el príncipe Carlos de Södermanland. Las logias alemanas miraban a Fernando de Brunswick."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Aplazado desde octubre de 1781, se abrió el 16 de julio de 1782 en Wilhelmsbad, cerca de Hanau, con 35 delegados. Se enfrentaban los místicos alemanes, con Fernando de Brunswick y el anfitrión, Carlos de Hesse-Kassel, y los martinistas de Jean-Baptiste Willermoz.\n\nFranz Dietrich von Ditfurth, miembro de los Iluminados y apoyado por Knigge, bloqueó los nuevos grados superiores al exigir que se revelara su contenido, y se marchó antes del final sin lograr apoyo para su propia propuesta."
+    },
+    {
+     "titulo": "Resultado",
+     "nivel": "hecho",
+     "texto": "Se renunció al origen templario, aunque se conservaron títulos y estructura; se reforzó la labor benéfica y se confirmaron las reformas de Willermoz. Brunswick y Hesse siguieron al frente, pero las logias quedaron casi independientes. En la práctica fue el declive de la Estricta Observancia.\n\nDespués, Bode y Carlos de Hesse entraron en los Iluminados (enero y febrero de 1783)."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, allí se reunieron jesuitas, masones, illuminati y aristócratas para dar forma a la masonería; recomienda además un libro, de autor que no recuerda, sobre la creación de un grado 22 o 23 para controlarla."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia de masones, iluminados y aristócratas consta. En lo leído no figura ningún jesuita entre los participantes ni la creación de un grado de control.\n\nPendientes: la lista completa de delegados y el estudio de Ludwig Hammermayer sobre el convento (1980), no leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -13608,6 +13687,36 @@ window.CRONO = {
       "titulo": "TreasuryDirect: deuda histórica, siglo XVIII",
       "url": "https://www.treasurydirect.gov/government/historical-debt-outstanding/",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Tesoro de EE. UU., Fiscal Data: deuda pública histórica (datos 1790-1815)",
+      "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_outstanding?sort=record_date&page%5Bsize%5D=26",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Funding Act of 1790",
+      "url": "https://en.wikipedia.org/wiki/Funding_Act_of_1790",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): History of the United States public debt",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_United_States_public_debt",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Financial costs of the American Revolutionary War",
+      "url": "https://en.wikipedia.org/wiki/Financial_costs_of_the_American_Revolutionary_War",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Bankruptcy Act of 1800",
+      "url": "https://en.wikipedia.org/wiki/Bankruptcy_Act_of_1800",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): History of bankruptcy law in the United States",
+      "url": "https://en.wikipedia.org/wiki/History_of_bankruptcy_law_in_the_United_States",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -13623,6 +13732,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "De dónde venía la deuda",
+     "nivel": "hecho",
+     "texto": "El Congreso Continental no podía cobrar impuestos y financió la guerra imprimiendo papel moneda y pidiendo préstamos. Hacia 1780 había emitido más de 400 millones de dólares en papel, que se depreció con fuerte inflación. Francia, España y los Países Bajos prestaron más de 10 millones. Al acabar la guerra se habían gastado 37 millones a nivel nacional y 114 en los estados."
+    },
+    {
+     "titulo": "El plan de Hamilton (1790)",
+     "nivel": "hecho",
+     "texto": "La Constitución dio al gobierno federal capacidad de recaudar. El 9 de enero de 1790 Alexander Hamilton, secretario del Tesoro, presentó su informe sobre el crédito público. La ley de 4 de agosto de 1790 canjeó la deuda de la Confederación por títulos nuevos y autorizó asumir hasta 21,5 millones de deudas de los estados; se asumieron 18,3.\n\nLa asunción fue muy discutida y se negoció junto con la ubicación de la capital. Según el historiador Max Edling, la idea era que los ricos compraran los bonos, quedaran interesados en el éxito del gobierno federal y que los intereses se pagaran con aranceles."
+    },
+    {
+     "titulo": "Las cifras del Tesoro",
+     "nivel": "hecho",
+     "texto": "La serie histórica del Tesoro da 71,06 millones de dólares a 1 de enero de 1790 y 75,46 millones a 1 de enero de 1791 (unos 40 de deuda interna, 12 externa y 18,3 asumida de los estados). Bajó hasta 45,2 millones a comienzos de 1812 y, con la guerra de 1812, subió a 99,8 millones en 1815."
+    },
+    {
+     "titulo": "Deudores y bancarrota",
+     "nivel": "hecho",
+     "texto": "Antes de la independencia, quien no pagaba podía perder sus bienes o ir a prisión. La primera ley federal de bancarrota, de 1800, se limitaba a comerciantes y solo a instancia de los acreedores; se derogó en 1803, entre otras cosas con quejas de fraude y desorden en su aplicación."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el artículo VI de la Constitución asegura la validez de las deudas anteriores; en 1783 la deuda pública era de 43 millones de dólares, unos 11 por habitante (casi una onza de oro); en las leyes del Congreso de 1799 a 1845 «deuda» aparece 147 veces y «deudor» más de 30, y en 1813 EE. UU. y el Reino Unido adoptaron leyes de bancarrota para evitar la prisión de miles de personas. Lo lee como un sistema que obliga a las personas al «favor» del Estado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La serie del Tesoro consultada empieza en 1790, así que no respalda la cifra de 43 millones en enero de 1783 que recoge la versión oficial de esta ficha; falta localizar su fuente. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica no se ha comprobado. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -21727,9 +21868,46 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Pugachev Revolt (1773-1775)",
       "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/pugachev-revolt-1773-1775",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Levantamiento de Pugachov",
+      "url": "https://es.wikipedia.org/wiki/Levantamiento_de_Pugachov",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Pugachev's Rebellion",
+      "url": "https://en.wikipedia.org/wiki/Pugachev's_Rebellion",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "En el siglo XVIII empeoró la situación de los siervos: Pedro I cedió pueblos enteros a nobles y Catalina II reforzó la autoridad de la nobleza sobre ellos a cambio de apoyo político. Entre 1762 y 1769 hubo más de cincuenta revueltas campesinas; en 1767 se prohibió a los campesinos pedir directamente a la emperatriz. Subieron los impuestos y la inflación, y Rusia estaba en guerra con el Imperio otomano.\n\nLa insurrección la organizaron los cosacos del Yaik (Ural). Su jefe, Yemelián Pugachov, antiguo teniente del ejército, se presentó como el zar Pedro III, marido de Catalina, y proclamó el fin de la servidumbre."
+    },
+    {
+     "titulo": "Quiénes lo siguieron",
+     "nivel": "hecho",
+     "texto": "Cosacos, campesinos, viejos creyentes y pueblos de la frontera oriental: baskires, tártaros del Volga y del Kama, mordvinos, maris, udmurtos y chuvasios, algunos movidos por el rechazo a la conversión forzada a la ortodoxia. Las lealtades no eran uniformes. Los rebeldes llegaron a controlar buena parte del territorio entre el Volga y los Urales y atacaron Kazán en julio de 1774."
+    },
+    {
+     "titulo": "Derrota y consecuencias",
+     "nivel": "hecho",
+     "texto": "El gobierno reaccionó tarde. A finales del verano de 1774 el ejército, con el general Michelsohn, aplastó la revuelta cerca de Tsaritsyn, y Panin dirigió represalias. Pugachov fue entregado por sus propios cosacos y ejecutado en Moscú en enero de 1775.\n\nCatalina recortó los privilegios cosacos, puso más guarniciones y reorganizó las provincias. Fue la mayor revuelta campesina de la historia de Rusia; Pushkin la llevó a La hija del capitán (1836)."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la victoria de los Romanov sobre Razin y después sobre Pugachov fue la derrota final de la Horda y de la Gran Tartaria, con capital en Tobolsk; hasta entonces el oeste de Norteamérica habría pertenecido a la Tartaria moscovita; los Romanov se apropiaron de Alaska y los fuertes de la Horda quedaron abandonados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos versiones leídas describen una rebelión social, cosaca y de pueblos no rusos dentro del Imperio. No mencionan un Estado llamado Gran Tartaria, una capital en Tobolsk ni nada sobre Alaska o Norteamérica.\n\nLo que sí consta es la participación de baskires y tártaros. Pendiente: de dónde saca el autor el mapa político que describe."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -23324,6 +23502,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Iluminados de Baviera",
       "url": "https://es.wikipedia.org/wiki/Iluminados_de_Baviera",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Illuminati",
+      "url": "https://en.wikipedia.org/wiki/Illuminati",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -23335,6 +23518,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Cómo surgieron",
+     "nivel": "hecho",
+     "texto": "Adam Weishaupt, profesor de derecho canónico en Ingolstadt, fundó el 1 de mayo de 1776, con dos alumnos, una asociación que pasó a llamarse Orden de los Iluminados. La universidad seguía dominada por antiguos jesuitas, orden suprimida tres años antes, y Weishaupt, partidario de la Ilustración, quería dar a sus estudiantes acceso a literatura crítica con la Iglesia. Era al principio un círculo de lectura anticlerical de no más de veinte miembros.\n\nSu organización tomó como modelo, en parte, la de la Compañía de Jesús."
+    },
+    {
+     "titulo": "Expansión y disputas",
+     "nivel": "hecho",
+     "texto": "Adolph Knigge, reclutado en 1780, rediseñó los grados y orientó la orden hacia la masonería. En el convento masónico de Wilhelmsbad (1782) los Iluminados ganaron adeptos. A finales de 1784 había unos 650 miembros comprobables, con núcleos en Alemania, Austria y otros lugares.\n\nWeishaupt y Knigge chocaron por el poder y por los rituales, y Knigge se marchó en julio de 1784."
+    },
+    {
+     "titulo": "Prohibición",
+     "nivel": "hecho",
+     "texto": "Las indiscreciones de sus propios miembros y su presencia en cargos públicos de Baviera levantaron alarma. El elector Carlos Teodoro prohibió las sociedades secretas; el edicto del 2 de marzo de 1785 parece haber sido el golpe definitivo. El gobierno incautó documentos en 1786 y 1787 y los publicó."
+    },
+    {
+     "titulo": "La leyenda posterior",
+     "nivel": "hecho",
+     "texto": "En 1797-1798 Augustin Barruel, jesuita exiliado de Francia, y John Robison difundieron que la orden había sobrevivido y estaba detrás de la Revolución francesa. Barruel extendió la acusación a un complot que incluía a los judíos. La versión española concluye que, como la orden no sobrevivió a la supresión, ese papel de conspiradores es invención de esos autores."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la orden se creó tres años después de la supresión de los jesuitas, deriva de los alumbrados españoles y fue la forma en que los jesuitas continuaron su labor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha coincide y hay un parecido de organización con la Compañía, pero las fuentes leídas presentan una orden nacida contra la influencia jesuita, no al servicio de ella. En lo leído no consta que derive de los alumbrados.\n\nLectura de trabajo de Nexus: que un jesuita (Barruel) fuera uno de los grandes difusores de la conspiración iluminada es un dato que conviene poner al lado de la tesis; no la confirma ni la descarta."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -45561,6 +45776,26 @@ window.CRONO = {
       "titulo": "Britannica: Washington, D.C., disposición",
       "url": "https://www.Britannica.com/place/Washington-DC/City-layout",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Capitol Hill",
+      "url": "https://en.wikipedia.org/wiki/Capitol_Hill",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): United States Capitol",
+      "url": "https://en.wikipedia.org/wiki/United_States_Capitol",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Treasury Building (Washington, D.C.)",
+      "url": "https://en.wikipedia.org/wiki/Treasury_Building_(Washington,_D.C.)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): The Pentagon",
+      "url": "https://en.wikipedia.org/wiki/The_Pentagon",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -45576,6 +45811,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El solar y el nombre",
+     "nivel": "hecho",
+     "texto": "Pierre L’Enfant eligió en su plano de 1791 la colina para la sede del Congreso, a la que llamaba Jenkins Hill. El terreno pertenecía desde hacía años a la familia Carroll y en sus registros figuraba como «Rome». Thomas Jefferson le puso el nombre de Capitol Hill en 1793, evocando el templo de Júpiter del Capitolio romano, aunque la relación entre ambos no está del todo clara."
+    },
+    {
+     "titulo": "El Capitolio",
+     "nivel": "hecho",
+     "texto": "Washington aprobó en 1793 el diseño del arquitecto aficionado William Thornton, inspirado en la fachada este del Louvre y, en la parte central, en el Panteón de París. La obra la modificaron después otros arquitectos, como Benjamin Latrobe; los británicos la incendiaron en 1814. El edificio toma muchos elementos de iglesias y monumentos europeos, entre ellos las cúpulas de San Pedro del Vaticano y de San Pablo de Londres."
+    },
+    {
+     "titulo": "El edificio del Tesoro",
+     "nivel": "hecho",
+     "texto": "La sede actual la proyectó Robert Mills tras el incendio de 1833; las alas este y central se terminaron en 1842. Su rasgo más visible es una columnata jónica de inspiración griega de unos 107 metros. Después se amplió, con intervención de Thomas U. Walter."
+    },
+    {
+     "titulo": "El Pentágono",
+     "nivel": "hecho",
+     "texto": "Lo diseñó George Bergstrom; las obras empezaron en septiembre de 1941 y se inauguró en enero de 1943. La forma se debe al primer solar elegido, Arlington Farms, de contorno aproximadamente pentagonal. Roosevelt cambió el emplazamiento para no tapar las vistas desde el cementerio de Arlington y se mantuvo la forma porque le gustaba y rediseñar habría costado."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el Capitolio, el edificio del Tesoro y el Pentágono copian edificios de Roma (San Pedro, villa Torlonia, Villa Farnese), y la capital se llamó «Roma» antes de Washington (1790)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Dos puntos tienen apoyo parcial: el solar del Capitolio constaba como «Rome» en los registros de sus dueños (era el nombre de una finca, no de la capital) y la cúpula toma elementos de San Pedro, entre otros modelos. En lo leído no aparece villa Torlonia como modelo del Tesoro, ni Villa Farnese ni ningún edificio romano como modelo del Pentágono.\n\nPendientes: no se ha consultado nada sobre Villa Farnese ni sobre la historia de la finca «Rome»."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
