@@ -9250,6 +9250,26 @@ window.CRONO = {
       "titulo": "Wikipedia: Corentin Louis Kervran",
       "url": "https://en.wikipedia.org/wiki/Corentin_Louis_Kervran",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "J-STAGE: H. Komaki y A. Ozawa, estudio sobre microorganismos y carencia de potasio, Eiyo to Shokuryo 19 (1966), resumen",
+      "url": "https://www.jstage.jst.go.jp/article/jsnfs1949/19/1/19_1_40/_article/-char/en",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Robert A. Nelson, «Adept Alchemy», parte II, cap. 8 «Biological Transmutations», fuente partidaria",
+      "url": "https://alchemywebsite.com/nelson2_8.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Adam McLean, «Some notes on the work of Louis Kervran», Hermetic Journal (1981), fuente partidaria",
+      "url": "https://alchemywebsite.com/kervran.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Reproducción en rexresearch del Informe 2247 de S. Goldfein (1978); no es el original",
+      "url": "http://rexresearch.com/goldfein/goldfein.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9265,6 +9285,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Quién era Komaki",
+     "nivel": "hecho",
+     "texto": "Hisatoki Komaki era un microbiólogo japonés; las fuentes partidarias lo presentan como jefe de un laboratorio de microbiología aplicada y profesor de la universidad de Mukogawa.\n\nEn 1966 publicó con A. Ozawa, en la revista japonesa de nutrición, un estudio sobre 14 cepas de microorganismos alimentarios en medios normales y carentes de potasio: 9 crecieron de forma considerable en ambos, y en tres especies analizadas la producción de la fermentación sin potasio fue igual o mayor. El resumen no menciona transmutación alguna."
+    },
+    {
+     "titulo": "Lo que se le atribuye",
+     "nivel": "tesis",
+     "texto": "Según Nelson, en 1965 publicó en la Revue de Pathologie Comparée resultados que sugerirían una reacción nuclear dentro de las células de Aspergillus niger, Penicillium chrysogenum, Saccharomyces cerevisiae y Torula utilis cultivados sin potasio.\n\nEl informe de Goldfein (1978), que cita artículos suyos de 1967 y 1969, dice que ocho cepas en medio carente de potasio aumentaban su potasio total convirtiendo calcio en potasio, y deduce de sus trabajos que la transmutación serviría para mantener el equilibrio de elementos."
+    },
+    {
+     "titulo": "El eco",
+     "nivel": "hecho",
+     "texto": "Komaki figura entre quienes los partidarios citan como confirmación de Kervran, y el informe militar estadounidense de 1978 habla de una candidatura conjunta reciente de ambos al Nobel. La comunidad científica no admite estas transmutaciones. Los dos ensayos negativos con microorganismos o plantas que recoge Nelson (Jungerman, 1977; Damon, 1978) usaron avena y otras especies de hongos, así que no son una réplica directa."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, en 1963 Komaki propuso a Kervran fabricar sales de potasio a partir de sal común con levaduras a 37 grados, con una pizca de potasio inicial como catalizador; las transmutaciones ocurrirían exactamente a 37,8 °C y las harían cuatro organismos, entre ellos un hongo del género Lepiota."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: los relatos no coinciden. La primera publicación citada es de 1965, no de 1963; el autor habla de pasar de sodio a potasio y el informe de calcio a potasio; y el cuarto organismo es Torula utilis en Nelson y una Lepiota en Sala. Que crezcan en un medio pobre en potasio no prueba que lo fabriquen: haría falta medir el potasio total y descartar contaminación.\n\nLa versión oficial de esta ficha dice que el informe de 1978 menciona a Kervran y Komaki sin validar su hipótesis. En la reproducción leída, el informe sí da las transmutaciones por reales. Pendiente de cotejar con el original y corregir.\n\nPendientes: los artículos de 1965, 1967 y 1969 y el texto completo del de 1966."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -16617,6 +16664,11 @@ window.CRONO = {
       "titulo": "U.S. Army MERADCOM, Informe 2247 (Goldfein, mayo 1978)",
       "url": "https://apps.dtic.mil/sti/tr/pdf/ADA056906.pdf",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Reproducción en rexresearch del Informe 2247 de S. Goldfein (1978); no es el original",
+      "url": "http://rexresearch.com/goldfein/goldfein.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16628,6 +16680,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Qué es",
+     "nivel": "hecho",
+     "texto": "El Informe 2247, de mayo de 1978, se titula «Energy Development from Elemental Transmutations in Biological Systems». Lo firma Solomon Goldfein, del laboratorio de tecnología de materiales del mando de investigación y desarrollo de equipos del Ejército, en Fort Belvoir. El propio mando lo autorizó y financió (proyecto MTL-01901), bajo la dirección de Emil J. York y con Robert C. McMillan como asesor en física nuclear. Buscaba saber si las noticias de transmutaciones en seres vivos apuntaban a nuevas fuentes de energía."
+    },
+    {
+     "titulo": "Cómo trabajó",
+     "nivel": "hecho",
+     "texto": "Es una revisión de publicaciones, sobre todo de Kervran y Komaki; para la historia se apoya en un artículo de 1977 de la revista Industrial Research. Calcula la pérdida de masa de tres reacciones (sodio a magnesio, potasio a calcio y manganeso a hierro), que darían varios megaelectronvoltios cada una, busca dónde podrían ocurrir en la célula y propone que el compuesto de magnesio y ATP de las mitocondrias actuaría como un ciclotrón molecular. No presenta experimentos propios, y anota que no halló ninguno que midiera la energía a la vez que la transmutación."
+    },
+    {
+     "titulo": "Qué concluyó",
+     "nivel": "hecho",
+     "texto": "El resumen dice primero que, dando por supuestas esas transmutaciones, habría un excedente neto de energía. Después va más lejos: concluye que las transmutaciones ocurren de hecho en los organismos y probablemente con ganancia neta. La discusión afirma que hay numerosos indicios de que la premisa es cierta y habla de una posible fuente de energía sin límite; las conclusiones finales sostienen que las transmutaciones convierten masa en calor y que ese calor es probablemente mayor que el coste de producirlas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, científicos militares estadounidenses hicieron en 1978 un experimento secreto sobre transmutaciones en la mitocondria, desclasificado a finales de los ochenta, que confirmó a Kervran; ellos lo explicaban por aceleración en el ATP y él prefiere la «resonancia fonónica»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: el informe respalda las transmutaciones, pero sin experimentos propios, apoyado en trabajos ajenos; no es la confirmación experimental que describe el autor.\n\nLa versión oficial de esta ficha presenta la conclusión como condicional («si existen»). La condición aparece en el resumen, pero el informe termina afirmando que las transmutaciones ocurren. Pendiente de cotejar con el original y corregir.\n\nPendientes: el original en DTIC y saber qué acogida tuvo dentro del Ejército."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -60730,6 +60809,36 @@ window.CRONO = {
       "titulo": "ChemistryViews: How to Launch a Hen Suddenly into Near-earth Orbit",
       "url": "https://chemistryviews.org/?p=36099",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Corentin Louis Kervran",
+      "url": "https://fr.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Corentin Louis Kervran",
+      "url": "https://de.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Adam McLean, «Some notes on the work of Louis Kervran», Hermetic Journal (1981), fuente partidaria",
+      "url": "https://alchemywebsite.com/kervran.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Robert A. Nelson, «Adept Alchemy», parte II, cap. 8 «Biological Transmutations», fuente partidaria",
+      "url": "https://alchemywebsite.com/nelson2_8.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Reproducción en rexresearch del Informe 2247 de S. Goldfein (1978); no es el original",
+      "url": "http://rexresearch.com/goldfein/goldfein.htm",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "IdRef (ABES): registro de autoridad de Louis Tanon (1876-1969)",
+      "url": "https://www.idref.fr/074631969",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -60746,6 +60855,38 @@ window.CRONO = {
      "atribuida_a": "Jacques Monod",
      "verificacion": "sin-comprobar",
      "fuente": "No hay fuente abierta; Monod ganó el Nobel en 1965."
+    }
+   ],
+   "detalle": [
+    {
+     "titulo": "Formación y guerra",
+     "nivel": "hecho",
+     "texto": "Nació en Quimper el 3 de marzo de 1901 y se tituló como ingeniero en 1925. En 1936 publicó un artículo que pretendía demostrar que la electricidad en el cuerpo humano no cumple la ley de Ohm. Participó en la Resistencia; la Wikipedia en francés cuenta que la Gestapo lo capturó en 1940, que estuvo preso en Lyon y que luego organizó una red en el suroeste."
+    },
+    {
+     "titulo": "El funcionario",
+     "nivel": "hecho",
+     "texto": "Desde 1945 trabajó en varios ministerios, en protección laboral y efectos de las radiaciones; según la Wikipedia en francés, en 1946 fue nombrado director de investigación sobre las posibles consecuencias del programa nuclear francés. Dio conferencias en la universidad de París y en la escuela de física y química, fue miembro del consejo de higiene del Sena y se retiró de la función pública en 1966. Murió en Quimperlé el 2 de febrero de 1983."
+    },
+    {
+     "titulo": "La obra",
+     "nivel": "hecho",
+     "texto": "Desde 1959 defendió las transmutaciones de baja energía en seres vivos y en rocas, y publicó una serie de libros entre 1962 y 1982, varios traducidos a otros idiomas. Las fuentes sobre su vida son pocas y se apoyan en buena parte en sus propios escritos."
+    },
+    {
+     "titulo": "Apoyos y reconocimientos",
+     "nivel": "hecho",
+     "texto": "Lo respaldó el físico Olivier Costa de Beauregard, que desde 1962 mantuvo correspondencia con él y defendía también fenómenos parapsicológicos no demostrados.\n\nLa Wikipedia en francés dice que en 1975 fue propuesto al Nobel de Medicina por Hiroshi Maruyama, de la facultad de Osaka, con el apoyo de Louis Tanon, presidente de la Academia de Medicina. Pero según el registro de autoridad IdRef, Louis Tanon, miembro de esa academia, murió en 1969: ese apoyo no pudo darse en 1975 tal como se cuenta. El informe militar estadounidense de 1978 habla de una candidatura conjunta reciente de Kervran y Komaki.\n\nEn 1993 recibió a título póstumo el Ig Nobel de Física, premio satírico, que lo presentó como admirador de la alquimia. Sus ideas se consideran sin base científica."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, es tan importante que divide la historia de las transmutaciones a baja temperatura; habría sido nominado dos veces al Nobel, entre otras por una carta de 1975 firmada por dos genetistas, uno de ellos Monod. Sitúa su muerte en 1984."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: en lo leído no aparece Monod en ninguna candidatura (su Nobel fue en 1965) y las fuentes fechan la muerte en 1983. La propia candidatura de 1975 no está comprobada.\n\nPendientes: el archivo de nominaciones del Nobel y la nota autobiográfica «Hors-d'œuvre» de su libro de 1975."
     }
    ],
    "vista": "ciencia"
@@ -76343,6 +76484,26 @@ window.CRONO = {
       "titulo": "Wikipedia: Albrecht von Herzeele",
       "url": "https://de.wikipedia.org/wiki/Albrecht_von_Herzeele",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia: Louis Nicolas Vauquelin",
+      "url": "https://en.wikipedia.org/wiki/Louis_Nicolas_Vauquelin",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Robert A. Nelson, «Adept Alchemy», parte II, cap. 8 «Biological Transmutations», fuente partidaria",
+      "url": "https://alchemywebsite.com/nelson2_8.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Reproducción en rexresearch del Informe 2247 de S. Goldfein (1978); no es el original",
+      "url": "http://rexresearch.com/goldfein/goldfein.htm",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Corentin Louis Kervran",
+      "url": "https://en.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -76358,6 +76519,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antes: el sauce de Van Helmont",
+     "nivel": "hecho",
+     "texto": "En el siglo XVII Van Helmont cultivó un sauce en una vasija con unas 200 libras de tierra; tras cinco años la tierra había perdido apenas dos onzas, y atribuyó al agua toda la madera ganada. Nelson, partidario de las transmutaciones, lo toma como comienzo de la historia, aunque reconoce que hoy se sabe que las plantas forman su materia con el dióxido de carbono del aire y toman los minerales del suelo."
+    },
+    {
+     "titulo": "Vauquelin y sus gallinas (1799)",
+     "nivel": "hecho",
+     "texto": "El químico francés Louis-Nicolas Vauquelin dio avena a una gallina y comparó la cal ingerida con la expulsada en huevos y excrementos. La Wikipedia en inglés reproduce como suya la conclusión de que en las cáscaras había más cal que en la avena y que no se sabía cómo; los relatos partidarios hablan de cinco veces más. Hoy se señala que una gallina falta de calcio lo toma de sus propios huesos."
+    },
+    {
+     "titulo": "Prout, Choubard, Vogel, Lawes y Gilbert",
+     "nivel": "tesis",
+     "texto": "Según Nelson y el informe de Goldfein: en 1822 William Prout midió en huevos incubados un aumento de carbonato cálcico que no venía de la cáscara; en 1831 Choubard halló en berros germinados minerales ausentes en la semilla; en 1844 Vogel encontró en berros regados sin azufre más azufre del inicial, y Berzelius recogió que o el azufre no era un elemento simple o había una fuente desconocida.\n\nHacia 1850 Lawes y Gilbert habrían observado una variación inexplicada del magnesio en las cenizas de plantas."
+    },
+    {
+     "titulo": "Albrecht von Herzeele",
+     "nivel": "hecho",
+     "texto": "Nacido en 1821, probablemente cerca de Rostock, estudió medicina en Ginebra y Berlín, escribió una obra de teatro y vivió en Hannover. Entre 1875 y 1883 hizo varios cientos de ensayos que lo convencieron de la transmutación biológica; en 1876 publicó un folleto de ocho páginas y dejó la frase de que no es el suelo el que produce la planta, sino la planta el suelo. Murió después de mayo de 1884, quizá en Stettin. Rudolf Hauschka reprodujo después varios de sus escritos."
+    },
+    {
+     "titulo": "El relato de la ocultación",
+     "nivel": "tesis",
+     "texto": "Según Nelson, sus publicaciones escandalizaron tanto que se retiraron de las bibliotecas y estuvieron perdidas más de cincuenta años, hasta que Hauschka halló una colección en Berlín. La biografía alemana consultada no menciona ninguna retirada."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Lawes y Gilbert hallaron tras 17 años de riego con agua destilada unas diez toneladas de materia creada en un acre; la tesis de Vauquelin, que la vida elude la ley de Lavoisier, habría quedado tapada en el segundo tercio del siglo XIX; Saussure y Thaer eran escépticos y Van Helmont y Prout partidarios, y el libro de Herzeele de 1883 reuniría más de 500 pruebas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: la cifra de diez toneladas va mucho más allá de lo que atribuyen a Lawes y Gilbert incluso las fuentes partidarias leídas, que solo hablan de variaciones del magnesio. Casi todos los antecedentes llegan de relatos posteriores favorables, que se repiten entre sí; cuentan como una sola cadena. En Van Helmont, el autor lo sitúa en el siglo XVI y el experimento se fecha en el XVII.\n\nPendientes: las memorias originales de Vauquelin y Prout y los escritos de Herzeele. Baranger, que quiso repetirlos, tiene su propia ficha."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -78061,6 +78259,26 @@ window.CRONO = {
       "titulo": "ChemistryViews: How to Launch a Hen Suddenly into Near-earth Orbit",
       "url": "https://chemistryviews.org/?p=36099",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Corentin Louis Kervran",
+      "url": "https://fr.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Corentin Louis Kervran",
+      "url": "https://de.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Adam McLean, «Some notes on the work of Louis Kervran», Hermetic Journal (1981), fuente partidaria",
+      "url": "https://alchemywebsite.com/kervran.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Robert A. Nelson, «Adept Alchemy», parte II, cap. 8 «Biological Transmutations», fuente partidaria",
+      "url": "https://alchemywebsite.com/nelson2_8.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78080,6 +78298,58 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Qué se afirma",
+     "nivel": "hecho",
+     "texto": "Louis Kervran sostuvo que los seres vivos convierten unos elementos en otros sin radiactividad detectable y con muy poca energía, añadiendo o quitando núcleos ligeros como los de hidrógeno u oxígeno. La llamó transmutación de baja energía, o «frittage», para separarla de la fusión nuclear. El caso más conocido, el «efecto Kervran», es potasio más hidrógeno igual a calcio.\n\nLa idea choca con la conservación de cada elemento en las reacciones químicas; un libro suyo de 1968 lo anuncia en el subtítulo como un fallo, en biología, de la ley de Lavoisier."
+    },
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Según la Wikipedia en francés, que advierte de que casi todo lo que se sabe viene de lo que él contó, el punto de partida fueron intoxicaciones por monóxido de carbono entre soldadores en 1935 y 1936, cuando Kervran estaba en el comité de higiene del departamento del Sena. Al no hallar de dónde salía el gas, concluyó que el nitrógeno del aire, activado por el calor, se convertía dentro del cuerpo en monóxido de carbono (ambas moléculas pesan lo mismo), y propuso máscaras que tomaran el aire por detrás del soldador.\n\nHizo públicas sus ideas a partir de 1959, publicó un artículo en la Revue Générale des Sciences en 1960 y su primer libro en 1962. En los años sesenta hubo en Francia un debate público sobre ellas."
+    },
+    {
+     "titulo": "Las pruebas que aducen sus partidarios",
+     "nivel": "tesis",
+     "texto": "Adam McLean (1981) resume los ensayos: pesar el potasio y el calcio de semillas secas y germinadas, aisladas de aportes externos. J. E. Zundel, ingeniero que dirigía una papelera con laboratorio, halló en avena germinada sin calcio aumentos que a veces superaban el 100 %, los expuso en 1971 ante la Academia de Agricultura francesa y en 1979, con espectrometría de masas en el CNRS y activación neutrónica en un instituto suizo, dio un aumento de calcio del 61 % ± 2 %."
+    },
+    {
+     "titulo": "La explicación que propusieron",
+     "nivel": "tesis",
+     "texto": "Kervran respondía a las críticas que las leyes físicas conocidas no se aplican a las reacciones biológicas, e invocó enzimas y las llamadas corrientes neutras de la interacción débil.\n\nEl físico Olivier Costa de Beauregard, que lo apoyó, reconoció el problema de la energía: si una gallina transmutara potasio en calcio, la potencia liberada lo quemaría todo alrededor. Propuso que se la llevaran, o la aportaran, neutrinos, y él mismo señaló la dificultad de explicar un flujo tan enorme sin efectos."
+    },
+    {
+     "titulo": "La objeción física",
+     "nivel": "hecho",
+     "texto": "La fusión de potasio 39 con un hidrógeno para dar calcio 40 pierde 0,008941 unidades de masa, que por E = mc² deben aparecer como energía. Según ChemistryViews, formar los 6 gramos de carbonato cálcico de una sola cáscara liberaría unos 50 millones de kilojulios, suficientes para calentar la gallina a millones de grados o lanzarla a una órbita. No se observa nada parecido, y los organismos carecen de medios para alcanzar las condiciones de una reacción nuclear."
+    },
+    {
+     "titulo": "Lo que se comprobó",
+     "nivel": "hecho",
+     "texto": "Investigadores italianos que repitieron los planteamientos en condiciones controladas no observaron transmutación. La avena sí contiene calcio y, si a una gallina le falta en la dieta, lo saca de sus huesos.\n\nIncluso el texto partidario de Nelson recoge dos resultados negativos: J. A. Jungerman, de la Universidad de California en Davis, no halló indicios en plántulas de avena (1977), y Carolyn Damon, del servicio técnico de aduanas estadounidense, tampoco en dos hongos (1978)."
+    },
+    {
+     "titulo": "Dónde se publicó",
+     "nivel": "hecho",
+     "texto": "ChemistryViews afirma que Kervran presentó sus teorías en libros y nunca en revistas con revisión previa. La Wikipedia en francés dice que no publicó en revistas científicas de peso, pero enumera artículos suyos en la Revue Générale des Sciences, las actas de la Academia de Agricultura y la Rivista di Biologia de Perugia."
+    },
+    {
+     "titulo": "Seguir el dinero y la difusión",
+     "nivel": "hecho",
+     "texto": "En los años sesenta Raoul Lemaire y Jean Boucher incorporaron la teoría a su método de agricultura ecológica y defendieron que su abono de algas, Calmagol, convertía calcio en potasio. Kervran colaboró en la revista La Vie Claire de Henri-Charles Geffroy, influyó en la dieta macrobiótica de George Ohsawa, y fue un discípulo de este, Michel Abehsera, quien tradujo al inglés su obra en 1972."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Kervran parte en dos la historia de estas transmutaciones. Cita las gallinas alimentadas con avena o cuarzo, un mapa de reacciones (sodio a potasio o magnesio, magnesio y silicio a calcio, calcio a hierro, nitrógeno a monóxido de carbono, oxígeno a azufre), una temperatura exacta de 37,8 °C ejecutada por cuatro hongos o levaduras, análisis de orina de trabajadores en Argelia y réplicas en Moscú y Leningrado sin radiactividad."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: los resultados favorables leídos proceden de partidarios, y hay resultados negativos. Lo que lo zanjaría es un balance cerrado, a ciegas y hecho por terceros, con medida de isótopos y de la energía desprendida.\n\nNo se ha leído nada que confirme las réplicas soviéticas ni la temperatura de 37,8 °C. Pendientes: los libros de Kervran, el estudio italiano y el artículo de Zundel de 1972."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -78112,6 +78382,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Corentin Louis Kervran",
       "url": "https://en.wikipedia.org/wiki/Corentin_Louis_Kervran",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Corentin Louis Kervran",
+      "url": "https://fr.wikipedia.org/wiki/Corentin_Louis_Kervran",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Robert A. Nelson, «Adept Alchemy», parte II, cap. 8 «Biological Transmutations», fuente partidaria",
+      "url": "https://alchemywebsite.com/nelson2_8.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78123,6 +78403,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "El paso a las rocas",
+     "nivel": "hecho",
+     "texto": "Kervran extendió su idea de los seres vivos al interior de la Tierra. En 1972 presentó en un congreso sobre el deterioro de la piedra una comunicación sobre alteraciones metamórficas de rocas de aluminio y silicio, y en 1973 publicó en París «Preuves en géologie et physique de transmutations à faible énergie»."
+    },
+    {
+     "titulo": "Carbón, grafito y petróleo según Kervran",
+     "nivel": "tesis",
+     "texto": "Tal como lo recoge Nelson, el carbón saldría de esquistos comprimidos en los que el silicio se convierte en carbono y oxígeno; si el oxígeno no escapa, dos átomos darían azufre, de ahí los carbones sulfurosos. El grafito de rocas anteriores a cualquier vegetación vendría también del silicio.\n\nEl petróleo no procedería de restos vivos sino del magnesio convertido en carbono a gran profundidad; el magnesio podría venir de bolsas de agua salada, a partir del sodio. Citaba yacimientos del Sáhara en rocas muy antiguas y concluía que habría que replantear toda la prospección."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, tras una prueba nuclear subterránea en Argelia en 1962 se midió en la pared menos silicio y más aluminio, y Kervran, a partir de un cráter de impacto en Quebec, sometió granito a 850 °C y 50 kilobares durante 8 horas y vio transmutado alrededor del 1 % de los elementos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: en las fuentes leídas no consta que ningún geólogo haya confirmado ni siquiera examinado estas propuestas, y les afecta la misma objeción de energía que a las biológicas. Tampoco se ha encontrado fuente de los dos ensayos que cuenta el autor.\n\nPendientes: el libro de 1973 y cualquier réplica del experimento con granito."
+    }
+   ],
    "vista": "ciencia"
   },
   {
