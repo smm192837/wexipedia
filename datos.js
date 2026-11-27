@@ -6468,9 +6468,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Sitio de Rodas (1522)",
       "url": "https://es.wikipedia.org/wiki/Sitio_de_Rodas_(1522)",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Siege of Rhodes (1522)",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Rhodes_(1522)",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Tras perder San Juan de Acre en 1291, los Caballeros Hospitalarios se establecieron en Chipre y conquistaron Rodas a los bizantinos entre 1307 y 1311. Desde allí participaban en el comercio del Egeo y hostigaban la navegación turca. Resistieron un asedio otomano en 1480 y reforzaron las fortificaciones contra la artillería.\n\nSolimán el Magnífico atacó cuando Francisco I y Carlos I estaban en guerra y tras asegurarse la neutralidad de Venecia. El gran maestre, Philippe Villiers de L’Isle-Adam, pidió ayuda a Europa sin apenas respuesta."
+    },
+    {
+     "titulo": "El asedio de 1522",
+     "nivel": "hecho",
+     "texto": "La flota otomana llegó a finales de junio y Solimán se incorporó en julio. Hubo bombardeo, minas bajo los bastiones y asaltos repetidos. Las cifras de atacantes de las crónicas (hasta 200.000 hombres) se consideran exageradas; la versión inglesa habla de 100.000.\n\nAgotados ambos bandos y presionado por los habitantes, el gran maestre negoció. Las condiciones, aceptadas en diciembre, permitían a los caballeros marcharse con armas y bienes, respetaban las iglesias y eximían de impuestos otomanos durante cinco años a quienes se quedaran. Los caballeros salieron el 1 de enero de 1523 hacia Creta con varios miles de civiles."
+    },
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "Los otomanos aseguraron las comunicaciones entre Constantinopla, El Cairo y el Levante. La orden pasó siete años sin sede fija (Civitavecchia, Viterbo, Niza) hasta que Carlos V le cedió Malta, Gozo y Trípoli en 1530."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, tras la caída de Rodas (en 1720, o en 1708 en otro pasaje) se fundó la Compañía de Jesús entre 1720 y 1725, que correspondería a 1535-1540: en 1720 en París, con aprobación de Pablo III Farnese en 1725. Su fin sería difundir el «proyecto papal» y crear escuelas de historia con el nuevo calendario."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes leídas fechan el asedio en 1522 y la salida de la orden en enero de 1523; no hay ninguna caída de Rodas en 1720 ni en 1708. El autor da dos fechas distintas para el mismo suceso dentro de su propia cronología.\n\nLa fecha de 1720 de esta ficha es la del autor, no la comprobada."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -8027,6 +8059,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Banca del Fucino",
       "url": "https://it.wikipedia.org/wiki/Banca_del_Fucino"
+     },
+     {
+      "titulo": "Wikipedia (it): Torlonia",
+      "url": "https://it.wikipedia.org/wiki/Torlonia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Giovanni Raimondo Torlonia",
+      "url": "https://it.wikipedia.org/wiki/Giovanni_Raimondo_Torlonia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -8062,6 +8104,43 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "El primero en destacar fue Marin Tourlonias (1725-1785), hijo de agricultores de Augerolles, en Auvernia. Llegó a Roma hacia 1750; según la versión italiana entró al servicio del cardenal Acquaviva, que le dejó una renta con la que montó un negocio de telas y préstamos. Italianizó su nombre como Marino Torlonia. De ese comercio salió un pequeño banco."
+    },
+    {
+     "titulo": "Cómo se hizo la fortuna",
+     "nivel": "hecho",
+     "texto": "Su hijo Giovanni Raimondo (1754 o 1755-1829) fue quien la levantó. Especuló con fortuna con los franceses durante la ocupación de Roma y prestó a una nobleza romana con tierras poco rentables y poco dinero líquido, tomando como garantía sus propiedades; así pasaron a sus manos grandes patrimonios y títulos. Tras la marcha de los franceses dominó además los suministros públicos del papado.\n\nCompró feudos y títulos (Bracciano, Poli y Guadagnolo, entre otros), un palacio en la plaza Venecia (1807) y la finca de la vía Nomentana que convirtió en Villa Torlonia con el arquitecto Valadier. Financió obras de caridad y restauraciones de iglesias."
+    },
+    {
+     "titulo": "Títulos y relación con el papado",
+     "nivel": "hecho",
+     "texto": "La familia administró finanzas de la Santa Sede y recibió títulos de los papas. Las fechas del principado de Civitella Cesi no coinciden: la versión inglesa lo da en 1803, bajo Pío VII, y la italiana en 1814. Sus miembros emparentaron en dos generaciones con casas como Colonna, Orsini y Borghese."
+    },
+    {
+     "titulo": "Del Fucino a la banca",
+     "nivel": "hecho",
+     "texto": "El hijo de Giovanni, Alessandro (1800-1886), liquidó el banco familiar en 1863 y pagó el desecamiento del lago Fucino, concluido en la década de 1870, una obra que ya habían intentado emperadores romanos y que revalorizó mucho las tierras de la familia.\n\nEn 1923 Giovanni y Carlo Torlonia fundaron la Banca del Fucino, con la mayor parte del capital puesto por la familia, para financiar la agricultura de esa llanura. La banca pasó en 2019 al grupo Igea."
+    },
+    {
+     "titulo": "Los Torlonia y el fascismo",
+     "nivel": "hecho",
+     "texto": "En 1925 cedieron Villa Torlonia a Mussolini por un alquiler simbólico; vivió allí hasta julio de 1943. Giovanni Torlonia (1873-1938), senador desde 1920, acumuló cargos financieros durante el régimen. La Banca del Fucino colocó en 1926 suscripciones del préstamo del Littorio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, con los Borghese son las principales dinastías bancarias del Vaticano, se enriquecieron prestando con tierras en garantía durante la ocupación francesa y supervisarían también el Tesoro de EE. UU. y cuentas suizas.\n\nJorge Guerra sostiene que supervisan el BPI, los sitúa en la nobleza negra y fecha su gran enriquecimiento entre los siglos XVIII y XIX, gestionando el dinero de la Santa Sede. Giuseppe Nocera les atribuye mucho poder en la actualidad. El resto de afirmaciones están en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Coinciden con las fuentes leídas el origen bancario, los préstamos con garantía de tierras, la relación con las finanzas papales y el alquiler a Mussolini. En lo leído no aparece nada sobre el Tesoro de EE. UU., el BPI ni cuentas suizas, y no consta ningún delito.\n\nLectura de trabajo de Nexus: el mecanismo documentado de la fortuna es el crédito a una nobleza sin liquidez, la guerra y la ocupación, y los contratos públicos. Pendiente: los estudios de Daniela Felisini sobre Alessandro Torlonia, banquero del papa, que no se han leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -9163,6 +9242,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué eran",
+     "nivel": "hecho",
+     "texto": "«Hellfire Club» es el nombre que se dio a varios clubes de libertinos de clase alta en Gran Bretaña e Irlanda en el siglo XVIII. Sus miembros a menudo estaban metidos en política. Ni sus actividades ni sus listas de socios son fáciles de establecer."
+    },
+    {
+     "titulo": "El club de Wharton (1718-1721)",
+     "nivel": "hecho",
+     "texto": "El primero lo fundó en Londres en 1718 Philip Wharton, duque de Wharton. Era un club satírico que ridiculizaba la religión, más para escandalizar que como ataque serio; sus miembros se llamaban «diablos» pero no consta que rindieran culto al demonio, y admitía a mujeres en igualdad.\n\nAcabó en 1721, cuando el rey Jorge I, influido por los rivales de Wharton, en particular Robert Walpole, impulsó una medida contra las «impiedades» dirigida contra el club. Wharton se hizo masón y en 1722 fue gran maestre en Inglaterra."
+    },
+    {
+     "titulo": "El de Dashwood (hacia 1749-1766)",
+     "nivel": "hecho",
+     "texto": "Francis Dashwood reunió un grupo que usó nombres como Orden de los Frailes de San Francisco de Wycombe o monjes de Medmenham; «Hellfire Club» se le aplicó después. En 1751 arrendó la abadía de Medmenham, con el lema «haz lo que quieras», tomado de Rabelais; más tarde las reuniones pasaron a unas galerías excavadas en West Wycombe.\n\nHabía parodias de ritos religiosos, mucha bebida, banquetes y prostitución. Los registros se quemaron en 1774, así que muchos supuestos miembros lo son por suposición o por cartas. Entre los más probables o citados figuran el conde de Sandwich, Paul Whitehead, John Wilkes y William Hogarth."
+    },
+    {
+     "titulo": "Política, escándalo y leyenda",
+     "nivel": "hecho",
+     "texto": "Dashwood fue ministro de Hacienda (Chancellor of the Exchequer) en 1762 y dimitió al año siguiente, tras un impuesto sobre la sidra que casi provocó disturbios. El choque entre Wilkes, Sandwich y el gobierno, y la novela Chrysal (1760-1765), airearon el asunto. El club se había apagado hacia 1766.\n\nLas historias de misas negras y culto satánico se le atribuyen desde finales del siglo XIX."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Massimo supervisan el Club del Fuego Infernal: el clan noble irlandés de los Massey, creado por ellos, poseería la mafia irlandesa y administraría el club, cuyos terrenos compró."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparecen ni los Massimo ni los Massey, ni ninguna continuidad de gobierno entre estos clubes. Los clubes irlandeses solo se mencionan de pasada; no se ha consultado nada sobre Montpelier Hill ni sobre la propiedad de esos terrenos, que sería lo comprobable de la tesis."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -21774,9 +21885,51 @@ window.CRONO = {
       "titulo": "War of the Spanish Succession, New World Encyclopedia",
       "url": "https://www.newworldencyclopedia.org/entry/War_of_the_Spanish_Succession",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de sucesión española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_sucesi%C3%B3n_espa%C3%B1ola",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Carlos II, último rey de España de la Casa de Austria, no tenía descendencia. Las potencias negociaron a sus espaldas dos tratados de partición de la monarquía. El heredero que Carlos II había escogido en 1696, José Fernando de Baviera, murió en febrero de 1699 con seis años.\n\nEn la corte de Madrid se enfrentaron un partido favorable al archiduque Carlos de Austria, con la reina Mariana de Neoburgo y el embajador del Imperio, y otro que acabó apoyando a Felipe de Anjou, nieto de Luis XIV, encabezado por el cardenal Portocarrero. El segundo se impuso: el testamento nombró heredero a Felipe, en parte porque la corte española rechazaba el reparto de los territorios.\n\nCarlos II murió el 1 de noviembre de 1700. Luis XIV, que había firmado meses antes el segundo tratado de partición, optó por aceptar el testamento."
+    },
+    {
+     "titulo": "Quién intervino y qué se jugaba",
+     "nivel": "hecho",
+     "texto": "De un lado, Felipe V, con Francia y la mayor parte de Castilla. Del otro, el archiduque Carlos con la Gran Alianza: Austria, Inglaterra, las Provincias Unidas, Prusia y la mayoría de los estados alemanes (tratado de La Haya, 7 de septiembre de 1701), a la que se sumaron en 1703 Portugal y Saboya. La Alianza declaró la guerra en mayo de 1702.\n\nEstaba en juego el imperio español, con los Países Bajos españoles, buena parte de Italia y América, y con él el equilibrio entre potencias. Inglaterra y las Provincias Unidas temían que Francia se quedara con el comercio americano; las concesiones de Felipe V a una compañía francesa en la trata de esclavos pesaron en la formación de la coalición."
+    },
+    {
+     "titulo": "La guerra dentro de España",
+     "nivel": "hecho",
+     "texto": "En 1705 el grupo catalán de los vigatans firmó con Inglaterra el pacto de Génova (20 de junio) y el archiduque entró en Barcelona. La guerra europea se convirtió también en guerra civil: borbónicos sobre todo en Castilla, austracistas sobre todo en la Corona de Aragón.\n\nEl 25 de abril de 1707 los borbónicos vencieron en Almansa. Se abolieron los fueros de Valencia y de Aragón con los decretos de Nueva Planta. Barcelona capituló tras el asalto del 11 de septiembre de 1714 y Mallorca se rindió en 1715."
+    },
+    {
+     "titulo": "Cómo acabó",
+     "nivel": "hecho",
+     "texto": "En 1711 murió el emperador José I y el archiduque heredó el Imperio. El gobierno británico dejó de ver sentido a la guerra: unir España y Austria era tan mal recibido como unir España y Francia. Siguieron los tratados de Utrecht (1713), Rastatt y Baden (1714).\n\nFelipe V conservó España y América y renunció al trono francés. Los Países Bajos católicos, Nápoles, Cerdeña y Milán pasaron a Carlos VI; Sicilia, a Saboya. Gran Bretaña obtuvo Gibraltar, Menorca, el asiento de esclavos y el navío de permiso en las Indias. La paz entre Felipe V y Carlos VI no se firmó hasta el tratado de Viena de 1725."
+    },
+    {
+     "titulo": "Represión y exilio",
+     "nivel": "hecho",
+     "texto": "Felipe V confiscó bienes a los austracistas, sobre todo en la Corona de Aragón. El historiador Joaquim Albareda cifra el exilio austracista entre 25.000 y 30.000 personas y lo considera el primer exilio político de la historia de España. También hubo partidarios de Felipe V expulsados de esos territorios entre 1705 y 1707."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la guerra, que fecha en 1705-1715, no fue un conflicto sucesorio sino un pulso entre dos linajes del imperio romano-griego, los Ángelus (Anjou) y los Láscaris-Comneno (Habsburgo), por el control de Europa occidental; la Inquisición y los jesuitas habrían sido los brazos de un proyecto de reconstrucción simbólica e histórica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no consta que Anjou ni Habsburgo se identifiquen con esos linajes bizantinos, y la ficha no tiene fuente para ello.\n\nLectura de trabajo de Nexus: lo que sí está documentado es una disputa por territorios y comercio, con el asiento de esclavos entre las ganancias del acuerdo final. Queda por seguir quién financió cada bando; en lo leído solo aparece que los subsidios británicos mantenían a los aliados en la guerra al final."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -27973,6 +28126,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Mayer Amschel Rothschild",
       "url": "https://es.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Mayer Amschel Rothschild",
+      "url": "https://en.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Mayer Amschel Rothschild",
+      "url": "https://de.wikipedia.org/wiki/Mayer_Amschel_Rothschild",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27988,6 +28151,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De la Judengasse a Hannover",
+     "nivel": "hecho",
+     "texto": "Mayer Amschel Rothschild nació en 1744 (o 1743) en la Judengasse, la judería de Fráncfort, donde su padre, Amschel Moses, comerciaba con mercancías y cambio de moneda. Según la versión alemana, desde 1755 estudió en la yeshivá de David Strauss en Fürth, y dejó los estudios tras la muerte de su padre (1755) y de su madre (1756).\n\nDespués trabajó unos años en Hannover en una casa de banca de los Oppenheim, donde aprendió comercio exterior y cambio. La versión inglesa dice que le ayudaron parientes y fecha la estancia entre 1757 y 1763."
+    },
+    {
+     "titulo": "El nombre de la casa no coincide entre fuentes",
+     "nivel": "hecho",
+     "texto": "La versión alemana lo sitúa en la firma de Wolf Jakob Oppenheim; la inglesa, como aprendiz de Jacob Wolf Oppenheimer en la banca de Simon Wolf Oppenheimer, nieto de Samuel Oppenheimer; la española habla de la casa Oppenheimer y dice que llegó a socio menor."
+    },
+    {
+     "titulo": "Qué sacó de allí",
+     "nivel": "hecho",
+     "texto": "Según la versión alemana, en esos años conoció al general von Estorff, coleccionista de monedas. Gracias a esa relación vendió piezas al gabinete del príncipe heredero Guillermo de Hesse en Hanau; la única factura conservada de ese trato es de 1765, por poco más de 38 florines.\n\nEn 1769 pidió y obtuvo el título de proveedor de la corte (Hoffaktor) de Hesse-Hanau. Ese vínculo con Guillermo fue después la base de su negocio bancario."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Mayer entró de aprendiz entre 1757 y 1763 en la casa de banca de los Oppenheimer en Hannover. Como conjetura propia, añade que los jesuitas habrían facilitado la entrada y que allí aprendió a financiar a ambos bandos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La estancia en Hannover está en las tres versiones leídas. Ninguna menciona intervención de los jesuitas ni que allí se enseñara a financiar a los dos bandos; el propio autor presenta lo primero como conjetura.\n\nPendientes: los libros de Amos Elon y Niall Ferguson sobre la casa Rothschild, no leídos, para fijar la firma y las fechas."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -34747,9 +34937,46 @@ window.CRONO = {
       "titulo": "Marcial Pons: La herencia de Cristóbal Colón",
       "url": "https://www.marcialpons.es/libros/la-herencia-de-cristobal-colon/9788498445053/",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Pleitos colombinos",
+      "url": "https://es.wikipedia.org/wiki/Pleitos_colombinos",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "De dónde venía la disputa",
+     "nivel": "hecho",
+     "texto": "Las Capitulaciones de Santa Fe (17 de abril de 1492) concedieron a Colón cargos sobre las islas y tierra firme que descubriera y una décima parte de las riquezas. En 1500, tras las quejas contra el gobierno de los hermanos Colón en La Española, el juez Francisco de Bobadilla los detuvo y los envió presos a España. Colón recuperó la libertad pero perdió poder.\n\nMurió en 1506. En 1508 Fernando el Católico nombró a Diego Colón gobernador de las Indias solo mientras fuera la voluntad real; Diego sostenía que el cargo era perpetuo y demandó a la Corona."
+    },
+    {
+     "titulo": "Qué se discutió y cómo se falló",
+     "nivel": "hecho",
+     "texto": "En 1511, en Sevilla, los jueces reconocieron a los Colón el virreinato perpetuo y el 10 % de los beneficios de las Indias; apelaron las dos partes. En 1512 se añadió el pleito del Darién, sobre el alcance de los derechos en tierra firme. En 1520 llegó la declaración de La Coruña.\n\nDestituido en 1524, Diego presentó nueva demanda y murió dos años después; continuó su viuda, María Álvarez de Toledo, en nombre de su hijo Luis, con Hernando Colón como principal representante de la familia. La sentencia de Valladolid (25 de junio de 1527) anuló las anteriores. La fiscalía intentó demostrar que el descubrimiento se debía sobre todo a Martín Alonso Pinzón. Hubo sentencias en Dueñas (1534) y Madrid (1535), ambas apeladas."
+    },
+    {
+     "titulo": "El arreglo de 1536",
+     "nivel": "hecho",
+     "texto": "El laudo del 28 de junio de 1536, dictado por el obispo García de Loaysa, presidente del Consejo de Indias, y Gaspar de Montoya, dejó a los Colón el almirantazgo perpetuo, suprimió los cargos de virrey y gobernador general, creó un señorío en Jamaica y Veragua y les asignó 10.000 ducados anuales, además de rentas a las hermanas de Luis Colón.\n\nSiguieron litigios menores entre 1537 y 1541, entre 1555 y 1563 y, de forma esporádica, hasta finales del siglo XVIII."
+    },
+    {
+     "titulo": "Por qué importan",
+     "nivel": "hecho",
+     "texto": "Las dos partes tomaron declaración a testigos de los viajes, lo que hace de los pleitos una fuente básica sobre los descubrimientos, aunque la veracidad de algunas declaraciones se discute. Cesáreo Fernández Duro publicó documentos de los pleitos en 1892 para la Real Academia de la Historia."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, entre 1713 y 1725 se negoció el reparto de tierras y derechos coloniales, y los pleitos de 1529-1536 serían esa negociación (1714-1721), con tratados en Utrecht (1713), Rastatt (1714), La Haya (1717 y 1720), Londres (1718), Cambrai (1721-1724) y Viena (1725); en 1720 se habría pactado el reparto y anulado los derechos de los Láscaris-Comneno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los pleitos documentados empiezan en 1508, antes del tramo que elige el autor, y enfrentan a la familia Colón con la Corona, no a potencias entre sí. En lo leído no consta ninguna conexión con los tratados de 1713-1725.\n\nLo único que llega al siglo XVIII son litigios menores de los herederos; no se ha comprobado cuáles ni sobre qué."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -39502,9 +39729,56 @@ window.CRONO = {
       "titulo": "ValenciaBonita: retrato de Felipe V en Xàtiva",
       "url": "https://www.valenciabonita.es/2017/10/12/sabias-que-en-xativa-cuelga-cabeza-abajo-un-retrato-de-felipe-v/",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Sitio de Játiva (1707)",
+      "url": "https://es.wikipedia.org/wiki/Sitio_de_J%C3%A1tiva_(1707)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Játiva",
+      "url": "https://es.wikipedia.org/wiki/J%C3%A1tiva",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de sucesión española",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_sucesi%C3%B3n_espa%C3%B1ola",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El contexto",
+     "nivel": "hecho",
+     "texto": "Játiva (Xàtiva), capital de la gobernación del Júcar, tomó partido por el archiduque Carlos en la Guerra de Sucesión y ya había sufrido un asedio en 1706. Tras la victoria borbónica de Almansa (25 de abril de 1707), Claude-François Bidal d’Asfeld avanzó hacia el sur del reino de Valencia."
+    },
+    {
+     "titulo": "El asedio",
+     "nivel": "hecho",
+     "texto": "Entre 9.000 y 11.000 soldados franceses y castellanos, con D’Asfeld y José Antonio de Chaves, atacaron una ciudad defendida por unos 2.000 hombres al mando de Miguel Purroi y Josep Marco, con milicias locales, voluntarios valencianos y catalanes y una guarnición inglesa.\n\nLos atacantes abrieron brecha en la muralla, combatieron calle por calle y cercaron la ciudadela y el castillo. La capitulación del castillo permitió salir a los ingleses y a parte de los dirigentes austracistas hacia Cataluña."
+    },
+    {
+     "titulo": "El castigo",
+     "nivel": "hecho",
+     "texto": "Después hubo saqueo y ejecuciones, salvo un grupo de unas 55 personas perdonadas por borbónicas; el resto de la población fue deportada a Castilla, y muchos murieron en el camino. Felipe V autorizó quemar la ciudad tras los informes de Berwick y D’Asfeld, y la rebautizó como San Felipe.\n\nLas Cortes de Cádiz le devolvieron el nombre en 1811. A los setabenses se les llama «socarrats» (chamuscados) y el retrato de Felipe V se exhibe boca abajo en recuerdo del episodio."
+    },
+    {
+     "titulo": "Las fechas no coinciden entre fuentes",
+     "nivel": "hecho",
+     "texto": "El artículo sobre el asedio lo sitúa entre el 8 de mayo y el 6 de junio de 1707, y recoge que el cronista borbónico Miñana lo hace empezar el 3 de mayo. El artículo sobre la guerra dice que Játiva cayó el 20 de junio y fue incendiada. La versión oficial de esta ficha da el 19 de junio para el incendio, fecha que no aparece en lo leído hoy."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Láscaris se instalaron en Játiva (Orden de Montesa) y el sitio de 1522, el de las Germanías, sería el mismo que el de 1707, con 185 años de diferencia; el capítulo del Toisón de Oro de 1519 precedería a las Cortes de 1705-1706 en que se corona a Carlos III."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no hay nada que identifique el episodio de 1707 con uno de 1522. No se ha consultado ninguna fuente sobre las Germanías en Játiva, así que la comparación entre los dos asedios está sin hacer.\n\nPendientes: la obra de Miñana, los estudios locales sobre la destrucción de 1707 y la fecha exacta del incendio."
+    }
+   ],
    "vista": "politica"
   },
   {
