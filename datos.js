@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-26",
+ "generado": "2026-11-27",
  "publica": false,
  "carriles": [
   {
@@ -28677,6 +28677,31 @@ window.CRONO = {
       "titulo": "Montagnier et al., Transduction of DNA information through water and electromagnetic waves (arXiv 1501.01620)",
       "url": "https://arxiv.org/pdf/1501.01620",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia: DNA teleportation",
+      "url": "https://en.wikipedia.org/wiki/DNA_teleportation",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Luc Montagnier",
+      "url": "https://en.wikipedia.org/wiki/Luc_Montagnier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Luc Montagnier",
+      "url": "https://fr.wikipedia.org/wiki/Luc_Montagnier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Mémoire de l'eau",
+      "url": "https://fr.wikipedia.org/wiki/M%C3%A9moire_de_l%27eau",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Montagnier et al., Transduction of DNA information through water and electromagnetic waves (versión HTML de arXiv 1501.01620)",
+      "url": "https://ar5iv.labs.arxiv.org/html/1501.01620",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28692,6 +28717,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "El origen",
+     "nivel": "hecho",
+     "texto": "Según cuentan los propios autores, la primera observación fue el 13 de julio de 2005, con un detector diseñado por el equipo de Jacques Benveniste y la ayuda de su antiguo colaborador Jamal Aïssa. En octubre de 2007, en un congreso en Lugano, Montagnier planteó que en el agua quedan nanoestructuras relativamente estables capaces de guardar parte de una información genética."
+    },
+    {
+     "titulo": "Los artículos de 2009",
+     "nivel": "hecho",
+     "texto": "Se cultivaron las bacterias Mycoplasma pirum y Escherichia coli y se filtró el medio para retirarlas. Una prueba de PCR no detectó ADN, que volvió a aparecer tras dos o tres semanas de incubación. Al diluir en serie, un análisis de frecuencias ideado por Benveniste registró señales solo en diluciones altas, entre una cienmilésima y una billonésima (10⁻⁵ a 10⁻¹²).\n\nCon el VIH no hubo señales en los cultivos de células, pero sí en plasma de pacientes en tratamiento antirretroviral con carga viral indetectable, entre 10⁻⁴ y 10⁻⁸."
+    },
+    {
+     "titulo": "El método y la explicación según Montagnier",
+     "nivel": "tesis",
+     "texto": "En el texto de 2015 el equipo describe doble filtrado, diluciones de diez en diez con agitación fuerte y captación de la señal con una excitación mínima de 7 Hz en un recinto apantallado, o aprovechando el ruido ambiental. Las señales positivas estarían entre 500 y 3000 Hz. Proponen que el ADN induce en el agua «dominios de coherencia», un concepto de teoría cuántica de campos desarrollado por Emilio Del Giudice, Giuliano Preparata y Giuseppe Vitiello."
+    },
+    {
+     "titulo": "Cómo se publicaron y qué se les criticó",
+     "nivel": "hecho",
+     "texto": "Aparecieron en Interdisciplinary Sciences: Computational Life Sciences, una revista nueva cuyo comité editorial presidía el propio Montagnier. El biólogo P. Z. Myers señaló que el trabajo se envió el 3 de enero de 2009, se revisó el 5 y se aceptó el 6, y lo llamó ciencia patológica, como también Gary Schuster. El químico Jeff Reimers advirtió que, de ser ciertos, serían los experimentos más importantes en 90 años y obligarían a rehacer la química. Philip Ball escribió que se ignoraron casi por completo porque resultan inverosímiles; no consta ninguna réplica independiente."
+    },
+    {
+     "titulo": "Relación con Benveniste y la homeopatía",
+     "nivel": "hecho",
+     "texto": "Las señales de 2009 aparecían sobre todo hasta 10⁻⁸ o 10⁻¹², con un solo experimento positivo hasta 10⁻¹⁸, mientras que Benveniste describía efectos en diluciones muy superiores; la Wikipedia en francés ve ahí una discrepancia entre ambos.\n\nMontagnier declaró que no podía dar la razón a la homeopatía en todo, pero que las altas diluciones sí eran acertadas, y que con ADN la señal se perdía más allá de 10⁻¹⁸. A la televisión canadiense le dijo que su trabajo no se podía extrapolar a los productos homeopáticos. La Asociación Homeopática Británica, en cambio, lo presentó como un respaldo científico."
+    },
+    {
+     "titulo": "Patente y empresa",
+     "nivel": "hecho",
+     "texto": "En junio de 2005 Montagnier y el inventor Bruno Robert firmaron un acuerdo de confidencialidad en el que, según la Wikipedia en francés, se reconocía que la información sobre las señales electromagnéticas la aportaba Robert. Robert solicitó el 15 de noviembre de 2005 una patente para caracterizar elementos biológicos por sus señales de baja frecuencia; el 14 de diciembre Montagnier presentó otra con el mismo título. Hubo juicio, que Montagnier ganó en 2009, y la patente pasó a llevar los dos nombres. La sociedad Nanectis, creada en 2006 y cerrada en 2018, explotaba análisis basados en estas señales."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, Montagnier demostró que los medicamentos homeopáticos pierden su función si se apartan de la resonancia Schumann, y relaciona el sol, el agua y los 7,83 Hz con las ondas cerebrales y la armonía de la vida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: lo leído describe experimentos con ADN de bacterias y virus, no con medicamentos; la excitación de 7 Hz podía ser natural o artificial; y el propio Montagnier negó que se pudiera extrapolar a los productos homeopáticos. La frase del autor va más allá de lo que sostienen las fuentes.\n\nPendientes de leer: los dos artículos originales de 2009 y la sentencia sobre la patente."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -41921,9 +41988,61 @@ window.CRONO = {
       "titulo": "McGill OSS: DNA Teleportation. Really?",
       "url": "https://www.mcgill.ca/oss/node/9035",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Luc Montagnier",
+      "url": "https://fr.wikipedia.org/wiki/Luc_Montagnier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Montagnier et al., Transduction of DNA information through water and electromagnetic waves (versión HTML de arXiv 1501.01620)",
+      "url": "https://ar5iv.labs.arxiv.org/html/1501.01620",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "PubMed: Jonas et al., «Can specific biological signals be digitized?», FASEB Journal (2006), resumen",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16394263/",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El experimento",
+     "nivel": "hecho",
+     "texto": "Se hizo por primera vez en julio de 2005 y se repitió ante las cámaras en 2013 para un documental que France 5 emitió el 5 de julio de 2014. En París se diluyó diez veces seguidas, agitando y filtrando, una muestra de ADN de un paciente con VIH (un fragmento de 104 bases), hasta llegar a 10⁻¹⁰. La señal de esa disolución se grabó con una bobina en un archivo de audio de seis segundos y se envió por correo electrónico a la universidad de Benevento, en Italia. Allí se hizo sonar durante una hora, a través de otra bobina, sobre agua destilada en un tubo cerrado; tras una prueba de PCR apareció ADN idéntico al original en un 98 %."
+    },
+    {
+     "titulo": "El texto de 2015, según sus autores",
+     "nivel": "tesis",
+     "texto": "En enero de 2015 Montagnier y otros nueve firmantes, entre ellos Del Giudice (fallecido en 2014), Vitiello, Tedeschi y Aïssa, depositaron en arXiv un resumen de diez años de trabajo. Afirman haber enviado señales por internet a laboratorios de Italia y Alemania y ponen como ejemplo un ADN de Borrelia, la bacteria de la enfermedad de Lyme, recuperado en Gotinga tras 40 ciclos de PCR.\n\nDicen además que células tumorales expuestas a la señal fabricaron ese ADN y dejaron de crecer hasta morir, sin que ocurriera con las células normales, resultado que califican de preliminar y que, a su juicio, abriría vías de tratamiento del cáncer. Explican todo con dominios de coherencia del agua y proponen llamarlo «biología digital», en recuerdo de Benveniste. Del paso de la señal de un tubo a otro aseguran haberlo repetido muchas veces con controles contra la contaminación, y que omitir cualquier detalle del protocolo hace que falle."
+    },
+    {
+     "titulo": "Quién firma y quién paga",
+     "nivel": "hecho",
+     "texto": "Las filiaciones incluyen una fundación contra el sida ligada a Montagnier, la empresa Nanectis, la alemana Chronix Biomedical, la firma italiana WHITE Holographic Bioresonance, las universidades de Salerno y del Sannio y el instituto italiano de física nuclear. Se declara financiación parcial del ministerio italiano de universidades e investigación y de ese instituto. El texto atribuye el ejemplo alemán a la universidad de Gotinga y, en los agradecimientos, da las gracias a Chronix por permitir los experimentos de transducción en su laboratorio."
+    },
+    {
+     "titulo": "El precedente de Benveniste",
+     "nivel": "hecho",
+     "texto": "En 1997 Benveniste había descrito algo parecido: una señal de ovoalbúmina grabada en Chicago, enviada por correo a su laboratorio de Clamart y capaz, según él, de provocar una reacción alérgica en un corazón aislado de cobaya. Su línea de señales digitales se sometió a una réplica encargada por DARPA con otro sistema (la coagulación), que en 2006 no halló efectos replicables."
+    },
+    {
+     "titulo": "La recepción",
+     "nivel": "hecho",
+     "texto": "No consta investigación independiente que confirme la transmisión del ADN ni se conoce un mecanismo plausible. La comunidad científica la recibió con burlas o la ignoró por considerarla inverosímil."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala muestra un artículo firmado por Montagnier, Vitiello y Tedeschi en el que el agua estructurada dispararía la PCR y reconstruiría el ADN; sostiene que la información de un medicamento puede grabarse en agua con frecuencias entre 500 y 3000 Hz y enviarse a cualquier lugar, y que eso acabaría con la industria farmacéutica y con la homeopática."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: el texto de 2015 trata de ADN, no de medicamentos; la cifra de 500 a 3000 Hz aparece en él como el rango de las señales detectadas, no como un modo probado de grabar un fármaco. Nada de lo leído respalda que se pueda sustituir medicamentos así.\n\nLo que lo zanjaría: una réplica hecha por terceros, a ciegas, con control estricto de la contaminación de la PCR y sin que los autores manejen las muestras."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -56878,6 +56997,26 @@ window.CRONO = {
       "titulo": "Wikipedia: Jacques Benveniste",
       "url": "https://en.wikipedia.org/wiki/Jacques_Benveniste",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Jacques Benveniste",
+      "url": "https://fr.wikipedia.org/wiki/Jacques_Benveniste",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Jacques Benveniste",
+      "url": "https://es.wikipedia.org/wiki/Jacques_Benveniste",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Mémoire de l'eau",
+      "url": "https://fr.wikipedia.org/wiki/M%C3%A9moire_de_l%27eau",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "PubMed: Jonas et al., «Can specific biological signals be digitized?», FASEB Journal (2006), resumen",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16394263/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56893,6 +57032,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Formación",
+     "nivel": "hecho",
+     "texto": "Nació en París el 12 de marzo de 1935. La Wikipedia en español lo sitúa en una familia acomodada de origen sefardí y cuenta que fue piloto de carreras hasta que una lesión de espalda lo llevó a la medicina. Se tituló en París en 1960 y desde 1965 investigó sobre el cáncer en Villejuif; en 1969 pasó a la Scripps Clinic de California."
+    },
+    {
+     "titulo": "El inmunólogo reconocido",
+     "nivel": "hecho",
+     "texto": "A comienzos de los setenta descubrió el factor activador de plaquetas (PAF), el primer fosfolípido conocido con función de mensajero, importante en la inflamación. Volvió a Francia al INSERM (1972 según la Wikipedia en inglés, 1973 según la francesa) y desde 1980 dirigió la unidad 200, de inmunología de la alergia y la inflamación. Asesoró al ministro de Investigación Jean-Pierre Chevènement entre 1981 y 1983, recibió la Orden Nacional del Mérito (1984) y la medalla de plata del CNRS, y firmó más de 300 artículos."
+    },
+    {
+     "titulo": "1988: la publicación en Nature",
+     "nivel": "hecho",
+     "texto": "Publicó con su equipo que disoluciones extremas de un anticuerpo seguían activando glóbulos blancos. La propia revista envió a John Maddox, Walter Stewart y James Randi a presenciar repeticiones; con las muestras ocultas el efecto no apareció. Benveniste denunció una caza de brujas y no se retractó. El episodio completo está en la ficha de la memoria del agua."
+    },
+    {
+     "titulo": "Las consecuencias",
+     "nivel": "hecho",
+     "texto": "En 1989, tras una evaluación rutinaria, el INSERM consideró ejemplar en conjunto la actividad de su laboratorio, pero criticó los trabajos de altas diluciones: análisis poco crítico, interpretaciones temerarias y uso abusivo de su autoridad al informar al público. Ese año pasó además a dirigir en la editorial Albin Michel una colección con ensayos que la Wikipedia en francés califica de pseudocientíficos.\n\nRecibió dos premios Ig Nobel de Química, parodia de los Nobel: en 1991 por la memoria del agua y en 1998 por sostener que se transmitía por teléfono e internet. Perdió financiación externa y tuvo que sostener su trabajo por su cuenta.\n\nSobre el final en el INSERM no hay acuerdo: según la Wikipedia en francés la unidad 200 cerró en diciembre de 1993 y él dejó el instituto en 1995; la española dice que siguió en la unidad hasta 2000, y la inglesa que en 2002 era director de investigación emérito."
+    },
+    {
+     "titulo": "DigiBio y el final",
+     "nivel": "hecho",
+     "texto": "En 1997 fundó la empresa DigiBio para desarrollar y comercializar la «biología digital», con el apoyo público del físico y premio Nobel Brian Josephson. La réplica encargada por DARPA, en la que participó, concluyó en 2006 que las señales digitales no producían efectos replicables.\n\nMurió en París el 3 de octubre de 2004 tras una operación de corazón. En 2005 apareció su libro póstumo «Ma vérité sur la mémoire de l'eau», prologado por Josephson."
+    },
+    {
+     "titulo": "El balance de Philip Ball",
+     "nivel": "tesis",
+     "texto": "Para Ball, columnista de Nature, en 1988 Benveniste pertenecía al sistema científico y luego se presentó como un Galileo frente a una ortodoxia inquisidora. Cree que estaba convencido de haber hallado algo revolucionario, pero que no simplificó su sistema experimental lo bastante para aclarar qué veía; su aislamiento, al que quizá contribuyó, y las poses de todos los bandos impidieron una investigación en serio."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, Benveniste demostró que el agua puede memorizar información, como Dankachov, y su trabajo apoyaría el secreto de la homeopatía."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: el verbo «demostrar» no se sostiene con lo leído, porque el efecto no se ha reproducido de forma independiente en condiciones controladas. No consta en lo leído quién decidió retirar la financiación ni con qué argumentos.\n\nPendientes de leer: su libro de 2005 y los de Michel Schiff, Francis Beauvais y Michel de Pracontal."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -60726,6 +60907,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Luc Montagnier",
       "url": "https://en.wikipedia.org/wiki/Luc_Montagnier",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Luc Montagnier",
+      "url": "https://fr.wikipedia.org/wiki/Luc_Montagnier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: DNA teleportation",
+      "url": "https://en.wikipedia.org/wiki/DNA_teleportation",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Montagnier et al., Transduction of DNA information through water and electromagnetic waves (versión HTML de arXiv 1501.01620)",
+      "url": "https://ar5iv.labs.arxiv.org/html/1501.01620",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -60737,6 +60933,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Formación y primeros trabajos",
+     "nivel": "hecho",
+     "texto": "Nació el 18 de agosto de 1932 en Chabris, en el centro de Francia, y estudió en Poitiers y París. Entró en el CNRS en 1960, se formó en laboratorios de virología de Carshalton y Glasgow y desarrolló un medio de cultivo en agar blando para virus. En el Instituto Curie estudió un retrovirus, el del sarcoma de Rous, y en 1972, invitado por Jacques Monod, creó la unidad de oncología viral del Instituto Pasteur."
+    },
+    {
+     "titulo": "1983: el virus del sida",
+     "nivel": "hecho",
+     "texto": "El clínico Willy Rozenbaum pidió ayuda para hallar la causa del nuevo síndrome. El equipo del Pasteur, con Françoise Barré-Sinoussi y Jean-Claude Chermann, encontró en un ganglio de un paciente un retrovirus que llamó LAV y lo publicó en Science el 20 de mayo de 1983, el mismo número en que publicaba el grupo de Robert Gallo. Entonces su papel en el sida quedaba por determinar. Hoy se admite que el grupo francés lo aisló primero, y al de Gallo se le reconoce haber establecido que causa la enfermedad."
+    },
+    {
+     "titulo": "La disputa con Gallo y la patente",
+     "nivel": "hecho",
+     "texto": "Estaba en juego algo más que el prestigio: una patente estadounidense de la prueba del sida basada en el aislamiento de Gallo. En 1987 los dos gobiernos, tras intervenir Reagan y Mitterrand, repartieron a medias el reconocimiento y los ingresos de la patente.\n\nEn 1993 un análisis de muestras archivadas, publicado en Nature, concluyó que el virus del laboratorio estadounidense procedía del francés: el grupo del Pasteur había enviado un cultivo contaminado con el aislado de otro paciente. La oficina de integridad científica había atribuido al laboratorio de Gallo una falta menor; ese estudio lo exoneró. La Wikipedia en francés precisa que fue Chermann quien envió el virus en julio de 1983 y que Gallo nunca admitió haber hecho trampa. En 2002 Gallo y Montagnier firmaron en Science textos reconociendo el papel de cada uno."
+    },
+    {
+     "titulo": "El Nobel y quién quedó fuera",
+     "nivel": "hecho",
+     "texto": "Compartió el Nobel de Medicina de 2008 con Barré-Sinoussi (la otra mitad fue para Harald zur Hausen, por el papilomavirus). Quedaron fuera Gallo, cuya ausencia dijo lamentar, y Chermann.\n\nLas fuentes difieren sobre el mérito dentro del propio equipo. La Wikipedia en inglés atribuye a Montagnier y su grupo amplia experiencia con retrovirus; la francesa sostiene que en 1983 su equipo no trabajaba con ellos, que quien lo hacía era el de Chermann, y que Montagnier quedó asociado al hallazgo en parte como su superior administrativo. Según esta, Montagnier y Barré-Sinoussi lamentaron no compartir el premio con Chermann."
+    },
+    {
+     "titulo": "El giro: agua y señales del ADN",
+     "nivel": "hecho",
+     "texto": "En julio de 2005, con un aparato diseñado por el equipo de Benveniste y con su antiguo colaborador Jamal Aïssa, registró lo que interpretó como señales electromagnéticas de disoluciones muy diluidas. Lo presentó en Lugano en 2007 y lo publicó en 2009. En 2010 expuso estas ideas en la reunión de premios Nobel de Lindau, entre el escepticismo de sus colegas, y llamó a Benveniste un «Galileo moderno». Al no conseguir financiación, y alegando un «terror intelectual», anunció que se iba a dirigir un instituto en la universidad Jiao Tong de Shanghái."
+    },
+    {
+     "titulo": "Otras polémicas y muerte",
+     "nivel": "hecho",
+     "texto": "En 2002 propuso al papa Juan Pablo II un preparado de papaya fermentada contra el párkinson; la agencia francesa de seguridad alimentaria concluyó en 2004 que no había demostración alguna. En 2009 declaró en un documental que negaba la relación entre VIH y sida que un buen sistema inmunitario podía librarse del virus en semanas. En 2012, cuando se le barajaba para presidir un laboratorio en Camerún, otros 44 premios Nobel escribieron al presidente del país contra sus propuestas.\n\nDefendió una causa microbiana del autismo tratable con antibióticos, sin estudios con grupo de control, y cofundó la asociación Chronimed, que según la Wikipedia en francés acabó bajo investigación en 2020. Propuso diagnosticar la enfermedad de Lyme captando ondas de la sangre; los análisis, enviados a la sociedad que dirigía, Nanectis, habrían costado entre 300 y 400 euros, pagados como donativo.\n\nEn 2017 apoyó argumentos contra la vacunación; las academias de Medicina y de Farmacia los condenaron y 106 académicos le reprocharon usar su Nobel para difundir mensajes de salud peligrosos. En 2020 sostuvo que el coronavirus había salido de un laboratorio con secuencias del VIH, y después que la vacunación creaba las variantes; ambas cosas fueron rechazadas, entre otras razones porque había variantes anteriores a las campañas. Murió en Neuilly-sur-Seine el 8 de febrero de 2022."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, es una figura polémica cuyo papel querría aclarar, y quienes lo critican por lo del VIH desconocen la ciencia del agua que desarrolló a partir de Benveniste."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus: conviene separar tres cosas que se mezclan al juzgarlo: el hallazgo de 1983, premiado y discutido solo en cuanto al reparto del mérito; los experimentos con agua y ADN, sin confirmación independiente; y sus afirmaciones sobre salud, rechazadas por las instituciones citadas.\n\nPendientes de leer: su conferencia Nobel, el relato de Chermann y el libro de Schwartz y Castex sobre el caso Gallo-Montagnier."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -74508,6 +74746,41 @@ window.CRONO = {
       "titulo": "Skeptoid, «The Water Woo of Masaru Emoto»",
       "url": "https://skeptoid.com/episodes/4433",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Water memory",
+      "url": "https://en.wikipedia.org/wiki/Water_memory",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipédia (fr) : Mémoire de l'eau",
+      "url": "https://fr.wikipedia.org/wiki/M%C3%A9moire_de_l%27eau",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Memoria del agua",
+      "url": "https://es.wikipedia.org/wiki/Memoria_del_agua",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Jacques Benveniste",
+      "url": "https://en.wikipedia.org/wiki/Jacques_Benveniste",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Jacques Benveniste",
+      "url": "https://es.wikipedia.org/wiki/Jacques_Benveniste",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "PubMed: Hirst et al., Nature 366 (1993), resumen",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/8255290/",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "PubMed: Jonas et al., «Can specific biological signals be digitized?», FASEB Journal (2006), resumen",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16394263/",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74531,6 +74804,68 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Qué se afirma",
+     "nivel": "hecho",
+     "texto": "La expresión nombra la idea de que el agua conserva alguna huella de lo que ha estado disuelto en ella, incluso cuando, tras diluir y agitar muchas veces, los cálculos indican que ya no queda ninguna molécula. En las preparaciones homeopáticas eso es prácticamente seguro a partir de la dilución llamada C24.\n\nEl nombre lo puso un periodista que informaba del trabajo de Jacques Benveniste en 1988. El artículo original no daba una explicación: solo apuntaba que el agua podría actuar como molde del anticuerpo, por ejemplo mediante una red de enlaces de hidrógeno o campos eléctricos y magnéticos."
+    },
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Benveniste dirigía la unidad 200 del INSERM, creada en 1980 y dedicada a la inmunología de la alergia y la inflamación. En 1981-1982 preparaba allí su tesis Bernard Poitevin, médico homeópata, que empezó a experimentar con altas diluciones; Elisabeth Davenas y Francis Beauvais obtuvieron resultados parecidos. La Wikipedia en inglés cuenta que alguien del equipo pasó un remedio homeopático por la prueba de alergia y dio positivo.\n\nLa prueba observaba si unos glóbulos blancos, los basófilos, reaccionaban (se «desgranulaban») ante un anticuerpo, el anti-IgE. El efecto en disoluciones extremas solo se describía cuando se agitaban con fuerza."
+    },
+    {
+     "titulo": "La publicación de 1988",
+     "nivel": "hecho",
+     "texto": "Nature publicó el artículo el 30 de junio de 1988, firmado por el equipo francés junto con grupos de Israel, Canadá e Italia. Según Philip Ball, tras una revisión larga los evaluadores exigieron ver el efecto repetido en otros tres laboratorios, y esos resultados independientes nunca llegaron a publicarse; la Wikipedia en español dice que antes de publicar se replicó en Milán, Toronto, Tel Aviv y Marsella.\n\nLa revista añadió una reserva editorial y un editorial titulado «Cuándo creer lo increíble», y puso como condición que investigadores independientes presenciaran repeticiones del experimento."
+    },
+    {
+     "titulo": "La comprobación de julio de 1988",
+     "nivel": "hecho",
+     "texto": "Una semana después llegaron al laboratorio John Maddox, director de Nature; Walter Stewart, químico dedicado a investigar fraudes; y James Randi, ilusionista. En las primeras series, en las que se sabía qué tubo era cuál, los resultados salieron en general favorables. Después se codificaron las muestras en secreto, se fotografiaron los cuadernos, se grabó el laboratorio y el código se guardó en un sobre pegado al techo: en esas series el efecto desapareció.\n\nLas versiones difieren en el recuento. La Wikipedia en inglés habla de siete intentos, con tres de los cuatro primeros algo favorables; la española dice que fueron favorables los tres primeros y también el cuarto, que el equipo visitante no aceptó.\n\nEl informe sostuvo que no había base para la afirmación, que el control estadístico era deficiente, que se excluían datos que no encajaban y que el fenómeno no era reproducible. No acusó de fraude: habló de un laboratorio que había alimentado un autoengaño al interpretar sus datos."
+    },
+    {
+     "titulo": "La respuesta de Benveniste",
+     "nivel": "hecho",
+     "texto": "En el mismo número comparó la visita con una caza de brujas y con el macartismo, reprochó a un equipo sin biólogos haber creado un clima de sospecha, atribuyó los fallos a controles erráticos, exceso de trabajo y un diseño impuesto, y se negó a retractarse. Maddox respondió que el procedimiento se había acordado de antemano y que las objeciones llegaron después del fracaso. El artículo no se retiró.\n\nFrancis Beauvais, coautor, reconoció años después que las pruebas sin ocultar solían dar lo esperado, mientras que en las ciegas los resultados eran casi siempre aleatorios."
+    },
+    {
+     "titulo": "Quién pagaba",
+     "nivel": "hecho",
+     "texto": "La investigación estuvo financiada en parte por los laboratorios homeopáticos Boiron hasta 1989. La Wikipedia en francés identifica como investigadores del grupo Boiron a Davenas, Philippe Belon, Jean Sainte-Laudy y Poitevin, y señala que el artículo no declaraba conflictos de intereses. El informe de Nature hizo constar que los sueldos de dos coautores se pagaban mediante un contrato entre la unidad y Boiron.\n\nBenveniste contestó que la financiación de la industria, homeopática o no, es habitual, y afirmó que la misma empresa había pagado el hotel del equipo de Nature. La Wikipedia en español añade que hubo quien criticó a los visitantes por no declarar su relación con el comité escéptico CSICOP."
+    },
+    {
+     "titulo": "Las réplicas posteriores",
+     "nivel": "hecho",
+     "texto": "Un estudio publicado en Experientia en 1992 no halló efecto. En 1993 Nature publicó el de S. J. Hirst y otros: siguiendo lo más fielmente posible el método original, no encontraron ningún cambio ligado a la dilución, aunque reconocen en sus datos una variación que no supieron explicar.\n\nEn 1991 Benveniste había publicado nuevos resultados, supervisados por el estadístico Alfred Spira, en los informes de la Academia de Ciencias francesa, rebajados a «derecho de réplica». El periodista Michel de Pracontal observó que los positivos se concentraban en las muestras leídas por Davenas.\n\nEn 1999 un ensayo europeo con participación de Madeleine Ennis dijo haber reproducido el efecto; entre sus firmantes figuran Belon y Sainte-Laudy. Ennis publicó en 2001 otro trabajo favorable con un recuento automatizado, y en 2004 apareció en Inflammation Research una nueva conclusión a favor. Una prueba para el programa Horizon de la BBC, supervisada por John Enderby, vicepresidente de la Royal Society, siguió el procedimiento de Ennis y no encontró efecto; Ennis sostuvo que no se había respetado su protocolo. Las Wikipedias en francés e inglés no coinciden en la fecha ni en quién participó en ese ensayo televisado."
+    },
+    {
+     "titulo": "La «biología digital»",
+     "nivel": "hecho",
+     "texto": "En los años noventa Benveniste sostuvo que la información podía grabarse como señal electromagnética, digitalizarse y enviarse a otra muestra de agua: por teléfono en 1997 y más tarde por internet. Ese año fundó la empresa DigiBio para desarrollarlo y comercializarlo.\n\nA petición de la agencia de investigación militar estadounidense (DARPA), un equipo coordinado por Wayne Jonas, homeópata y entonces director del centro público de medicina complementaria, intentó replicar el bloqueo de la coagulación con una señal grabada. Benveniste y su laboratorio participaron. El resultado, publicado en 2006 en el FASEB Journal, fue que no había efectos replicables. Los positivos aparecían solo cuando manejaba el equipo un colaborador concreto de Benveniste (Jamal Aïssa, según la Wikipedia en francés); los autores no detectaron manipulación ni contaminación que lo explicara, pero tampoco las descartaron."
+    },
+    {
+     "titulo": "La objeción física y quienes discrepan",
+     "nivel": "hecho",
+     "texto": "La objeción principal es que los enlaces de hidrógeno entre moléculas de agua se rompen y rehacen en una billonésima de segundo, sin tiempo para guardar una forma. Otra: no se explica por qué el agua no recordaría todo lo que ha tocado antes.\n\nMartin Chaplin y los homeópatas responden que la teoría solo alude al agua diluida y agitada a propósito. Para Brian Josephson, Chaplin y Rustum Roy, esas críticas ignoran la ciencia del agua como material; algunos autores proponen agregados o nanoestructuras, y otros niegan que se hayan observado. Dentro del propio campo homeopático, Peter Fisher, director de la revista Homeopathy, admitió que el método de Benveniste no da resultados reproducibles y que el episodio perjudicó la imagen de la homeopatía."
+    },
+    {
+     "titulo": "Los cristales de Emoto",
+     "nivel": "hecho",
+     "texto": "Masaru Emoto (Yokohama, 1943) fotografió cristales de hielo y sostuvo que las palabras, las emociones y los pensamientos dirigidos al agua cambian su forma.\n\nDean Radin publicó en 2006, con Emoto y colaboradores, un ensayo a doble ciego en la revista Explore: un grupo en Japón se concentró en la fotografía de algunas botellas y las imágenes de sus cristales fueron valoradas como más bellas por voluntarios que no sabían cuál era cuál. Brian Dunning (Skeptoid) critica que un colaborador de Emoto elegía dónde mirar y qué fotos enviar, de modo que casi todos los pasos dependían de preferencias personales.\n\nHubo un segundo ensayo, a triple ciego, en el Journal of Scientific Exploration: unas 1.900 personas en Austria y Alemania dirigieron su intención a agua guardada en California y más de 2.500 jueces puntuaron las fotos. Según el resumen que reproduce Radin, las imágenes del agua tratada se valoraron como más bellas que las de control (p = 0,03, a una cola). Radin rechaza expresamente que ese ensayo diera negativo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, el agua memoriza información de los campos de torsión (Dankachov), lo que sería quizás el secreto de la homeopatía; lo respaldarían Benveniste, los cristales de Emoto y los agregados de David Schweitzer, y añade la radiónica de Malcolm Rae y el cuarzo de Marcel Vogel.\n\nArtur Sala recomienda los documentales de Emoto y la idea japonesa de hado, y afirma que el agua bombeada con turbina cristaliza peor que la vorticizada, porque recordaría también el trato mecánico."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lectura de trabajo de Nexus, no un dato: en la visita de 1988 el efecto aparecía sin ocultar las muestras y se perdía al ocultarlas, y en la prueba de 2006 dependía de quién manejaba el equipo. Hay informes favorables (1999, 2001, 2004 y los de Radin), pero en lo leído no consta una confirmación independiente aceptada.\n\nSeguir el dinero: el interés de Boiron está documentado. En lo leído no consta quién pagaba a los grupos que no reprodujeron el efecto, salvo en la réplica de 2006, financiada por el Departamento de Defensa estadounidense y hecha con participación de Benveniste.\n\nLa versión oficial de esta ficha dice que el ensayo triple ciego de Emoto no confirmó el efecto; la entrada de Radin que cita sostiene lo contrario. Queda pendiente de corregir.\n\nSobre Dankachov, Schweitzer, Rae y Vogel no se ha leído ninguna fuente que respalde lo que se les atribuye. Pendientes de leer: el artículo de 1988, el informe de Maddox, el libro de Michel Schiff (a favor) y el de Pracontal (en contra) y los dos ensayos de Radin."
+    }
+   ],
    "vista": "ciencia"
   },
   {
