@@ -11265,6 +11265,16 @@ window.CRONO = {
       "titulo": "Brevísima relación de la destruyción de las Indias (Bartolomé de las Casas, ed. EDAF)",
       "url": "https://books.google.com.sg/books?id=cwRh53oinn0C",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Colonización europea de América",
+      "url": "https://es.wikipedia.org/wiki/Colonizaci%C3%B3n_europea_de_Am%C3%A9rica",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Tartaria",
+      "url": "https://es.wikipedia.org/wiki/Tartaria",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11276,6 +11286,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La colonización europea empezó a finales del siglo XV, tras la llegada de Colón en 1492, con España y Portugal. La «Brevísima relación» de Las Casas, informe dirigido al príncipe Felipe, dio pie a la llamada leyenda negra."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Desde comienzos del XVII se sumaron Francia (1604), Inglaterra (1607), los Países Bajos (1625) y más tarde Rusia (1741). Los efectos más dañinos sobre los indígenas fueron el desplazamiento, la desestructuración, la esclavitud y en ocasiones el exterminio. «Tartaria» designaba en Europa, hasta el siglo XIX, una extensa zona del centro y noreste de Asia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en los siglos XVII y XVIII las tropas europeas invadieron la América de la Horda, y el episodio se trasladó doscientos años atrás para llamarlo conquista española."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hubo conquista europea en el XVII, pero la española consta desde finales del XV. La Tartaria de las fuentes está en Asia; en lo buscado no hay una América tártara."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -52553,6 +52585,26 @@ window.CRONO = {
       "titulo": "The Fifty-Two Degree-Granting Institutions Chartered between 1636 and 1820 (Harvard University Press)",
       "url": "https://www.degruyterbrill.com/document/doi/10.4159/harvard.9780674184015.c22/pdf",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Colonial colleges",
+      "url": "https://en.wikipedia.org/wiki/Colonial_colleges",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Harvard University",
+      "url": "https://en.wikipedia.org/wiki/Harvard_University",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Yale University",
+      "url": "https://en.wikipedia.org/wiki/Yale_University",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Columbia University",
+      "url": "https://en.wikipedia.org/wiki/Columbia_University",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52564,6 +52616,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las universidades coloniales de lo que hoy es EE. UU. son las nueve creadas antes de la independencia, y las únicas con antiguos alumnos que participaron en ella."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Harvard se fundó en 1636 por la Corte General de la colonia de la bahía de Massachusetts, el órgano legislativo local, y en 1650 recibió carta su corporación de gobierno. Las nueve nacieron como instituciones privadas; dos pasaron a ser públicas en el siglo XX y las otras siete, entre ellas Harvard, Yale y Columbia, siguen siendo privadas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Yale, Harvard y Columbia nacieron de cartas reales y son técnicamente propiedad de la Corona, que recluta allí a sus agentes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Harvard fue autorizada por el legislativo colonial. Según la versión oficial, Columbia sí tuvo carta real en 1754, como King's College. En lo buscado no aparece propiedad de la Corona británica."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -53479,9 +53553,41 @@ window.CRONO = {
       "titulo": "Charles V, Holy Roman emperor (Encyclopaedia Britannica)",
       "url": "https://www.britannica.com/summary/Charles-V-Holy-Roman-emperor",
       "consultado": "2026-11-19"
+     },
+     {
+      "titulo": "Wikipedia (es): Zarato ruso",
+      "url": "https://es.wikipedia.org/wiki/Zarato_ruso",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Sacro Imperio Romano Germánico",
+      "url": "https://es.wikipedia.org/wiki/Sacro_Imperio_Romano_Germ%C3%A1nico",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En el siglo XVI el gobernante de Moscú se había convertido en un autócrata, el zar, título que Iván IV tomó en 1547."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El Zarato ruso fue el nombre del Estado desde 1547 hasta que Pedro el Grande fundó el imperio en 1721. En Europa central, el Sacro Imperio de tiempos de Carlos V tenía su propio emperador y comprendía, entre otras tierras, Bohemia, el Franco Condado, parte del norte de Italia y casi todos los Países Bajos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, a finales del XVI cada país de Europa occidental tenía un virrey de la Horda y sus soberanos eran vasallos del zar, al que llamaban emperador."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos estados constan por separado. En los pasajes buscados no aparece ningún virrey ruso ni un vasallaje de los reyes occidentales al zar."
+    }
+   ],
    "vista": "politica"
   },
   {
