@@ -33628,6 +33628,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Francmasonería",
       "url": "https://es.wikipedia.org/wiki/Francmasonería"
+     },
+     {
+      "titulo": "Wikipedia (es): Francmasonería",
+      "url": "https://es.wikipedia.org/wiki/Francmasoner%C3%ADa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -33638,6 +33643,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La masonería adoptó ritos y atavíos de antiguas órdenes religiosas y hermandades caballerescas. Para su difusión en Europa pesaron más las ideas de la Ilustración que la continuidad de las logias de constructores."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "En 1717 se fundó en Inglaterra la primera Gran Logia; según la fuente, la formaron cuatro logias especulativas que se reunían en tabernas de Londres. En el XVIII absolutista fue un espacio que escapaba al control del Estado. La Iglesia la condenó en 1738 con «In eminenti», reiteró la condena en documentos posteriores y en 1983 reafirmó la incompatibilidad con la fe católica. El duque de Kent es gran maestre de la Gran Logia Unida de Inglaterra desde 1967, como antes otros miembros de la familia real."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, nació para infiltrarse, los jesuitas la infiltraron pronto y difundió las independencias; recomienda a Robison y Bode. Según Rubén Avilés, la creó la nobleza europea, los jesuitas crearon los grados para controlarla, la dirigen Massimo, Colonna y Pallavicini y la realeza británica manda en la masonería mundial."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fundación de 1717, las condenas papales y el cargo del duque de Kent constan. Las teorías de conspiración jesuita están documentadas desde 1551 como género. En los pasajes buscados no aparece que los jesuitas controlen la masonería ni que la dirijan esas familias."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -37056,6 +37083,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Luiz Philippe of Orléans-Braganza",
       "url": "https://en.wikipedia.org/wiki/Luiz_Philippe_of_Orléans-Braganza"
+     },
+     {
+      "titulo": "Wikipedia (en): Luiz Philippe of Orléans-Braganza",
+      "url": "https://en.wikipedia.org/wiki/Luiz_Philippe_of_Orl%C3%A9ans-Braganza",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Luiz Philippe de Orléans e Bragança",
+      "url": "https://es.wikipedia.org/wiki/Luiz_Philippe_de_Orl%C3%A9ans_e_Bragan%C3%A7a",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37066,6 +37103,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia imperial brasileña, Orléans-Braganza, reclama el trono del extinto Imperio de Brasil. Luiz Philippe de Orléans e Bragança, nacido en Río en 1969, es tataranieto de Pedro II y de la rama de Vassouras."
+    },
+    {
+     "titulo": "Lo que consta",
+     "nivel": "hecho",
+     "texto": "En 2018 fue elegido diputado federal por São Paulo con el Partido Social Liberal, el de Bolsonaro, con 118.457 votos, y asumió en 2019. En julio de 2018 la prensa lo daba como posible candidato a vicepresidente. Es cofundador del movimiento liberal Acorda Brasil."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Medici están en Brasil y los Borgia, con algún dictador. Según Jorge Guerra, los Braganza reclaman el trono y estaban tras Bolsonaro, los Pallavicini tendrían las mejores tierras de Venezuela, Perón se reunía con aristócratas y los Habsburgo aspiran a México. Según Giuseppe Nocera, los linajes siguen mandando en Iberoamérica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La cercanía de un miembro de la familia a Bolsonaro consta; un diputado no muestra que la casa gobierne. En lo buscado no aparecen las tierras de Venezuela, Perón ni los Medici."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -37372,6 +37431,11 @@ window.CRONO = {
       "titulo": "The Rothschild Archive: David René James de Rothschild (casado en 1974 con Olimpia Aldobrandini)",
       "url": "https://family.rothschildarchive.org/people/136-david-rene-james-de-rothschild-1942",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Nobleza Negra",
+      "url": "https://es.wikipedia.org/wiki/Nobleza_Negra",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37398,6 +37462,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué designa",
+     "nivel": "hecho",
+     "texto": "Son las familias aristocráticas romanas que se alinearon con el papa Pío IX cuando el ejército del Reino de Italia, encabezado por los Saboya, entró en Roma el 20 de septiembre de 1870, e incluye a los ennoblecidos por el papa entre 1870 y 1929."
+    },
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "La toma de Roma puso fin a los Estados Pontificios y el papa se declaró prisionero en el Vaticano hasta los Pactos de Letrán de 1929. Miembros de la corte mantuvieron cerradas las puertas de sus casas en señal de luto, y de ahí el nombre. Entre las familias con papas que aún existen se citan Colonna, Massimo, Orsini, Ruspoli, Pallavicini, Theodoli, Sacchetti, Borghese, Odescalchi y Boncompagni-Ludovisi."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, no es solo romana sino veneciana, lombarda, genovesa y florentina, con sus bancos, controla o pacta con los jesuitas y su núcleo son unas treinta familias. Según Rubén Avilés, la encabezan Massimo, Colonna y Pallavicini, muchas venidas del Este. Según Guillermo Mas Arellano, un oligopolio de origen fenicio y veneciano controla gobiernos con la deuda, con otras casas y financieros como pantallas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El sentido histórico del término consta y las familias existen. Los pasajes leídos no describen una red de poder mundial ni un origen fenicio. Relatos de una élite oculta de ese tipo, sobre todo cuando incluyen a financieros judíos, repiten esquemas conspirativos sin prueba."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -51280,6 +51366,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: República de Venecia",
       "url": "https://es.wikipedia.org/wiki/República_de_Venecia"
+     },
+     {
+      "titulo": "Wikipedia (es): República de Venecia",
+      "url": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_de_Venecia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Republic of Venice",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51311,6 +51407,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Venecia surgió en la laguna, según la tradición en 421, y fue una república en la que el poder efectivo quedó en pocas familias ricas, como los Contarini, Mocenigo o Cornaro."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "La expansión portuguesa por África y la llegada a América desplazaron el gran comercio al Atlántico, y el tráfico veneciano perdió peso de forma lenta pero inevitable, a la vez que la república se agotaba combatiendo al Imperio otomano."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Las familias de la oligarquía conservaron su riqueza hasta el final de la República, mientras otros nobles, los «barnabotti», se empobrecían."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, antes de Sarpi Venecia ya preparaba la marcha con agentes en Inglaterra; Contarini abrió el camino al norte y Sarpi provocó la ruptura; el capital pasó a Holanda, a Alemania de forma transitoria y al Reino Unido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El declive y sus causas conocidas constan. En lo leído no aparece un traslado planificado del capital; que los patricios ricos conservaran su fortuna no dice adónde la llevaron."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
