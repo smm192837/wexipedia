@@ -3153,6 +3153,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Paolo Sarpi, fraile servita, fue la figura principal de la defensa veneciana frente al interdicto de Pablo V. Antes del atentado ya se había descubierto una conjura contra él y detenido a tres sicarios que pasaron a territorio veneciano."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 5 de octubre de 1607 lo atacaron y lo dieron por muerto con tres puñaladas de estilete, pero se recuperó. Los agresores hallaron refugio y buena acogida en territorio papal, y el entusiasmo allí se enfrió al saberse que vivía. Su jefe, Poma, declaró que lo hizo por motivos religiosos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, el enfrentamiento con Roma derivó en el intento de asesinato; Sarpi lo atribuyó a la curia y hubo otros sicarios premiados por Roma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El atentado y el refugio papal constan. Quién lo ordenó no queda probado en lo leído."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -9219,11 +9241,43 @@ window.CRONO = {
       "titulo": "Wikipedia: Casa de Románov",
       "url": "https://es.wikipedia.org/wiki/Casa_de_Rom%C3%A1nov",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Dinastía Románov",
+      "url": "https://es.wikipedia.org/wiki/Dinast%C3%ADa_Rom%C3%A1nov",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): House of Romanov",
+      "url": "https://en.wikipedia.org/wiki/House_of_Romanov",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La familia procede de Román Zajarin-Yúriev, que le dio nombre; su hija Anastasia fue la esposa preferida de Iván IV y su nieto fue el patriarca Filareto."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Miguel I, hijo de Filareto, inició la dinastía en 1613. Pedro el Grande modernizó el país y tomó en 1721 el título de emperador. La línea directa se extinguió con Isabel en 1762 y heredó Pedro III, de la casa alemana de Holstein-Gottorp, que adoptó el apellido materno. Nicolás II abdicó en marzo de 1917 tras la Revolución de Febrero, y los bolcheviques fusilaron a la familia en Ekaterimburgo en julio de 1918. Su primo Cirilo se proclamó zar en el exilio en 1924."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, no eran ni rusos, sino de origen alemán, e impusieron la servidumbre. Según Jorge Guerra, su buena relación con el papa y no someterse al proyecto globalista causaron su caída. Según Giuseppe Nocera, siguen detrás de Putin."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen del linaje que dio nombre a la dinastía es ruso; el componente alemán consta desde 1762. En los pasajes buscados no aparecen la relación con el papa ni un vínculo con Putin."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -23309,6 +23363,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El periodo conocido como Tiempo de los Disturbios incluyó una ocupación polaco-lituana, pretendientes que se hacían pasar por herederos y disputas entre candidatos al trono."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Expulsados los ocupantes, una asamblea de los estamentos (Zemski Sobor) se abrió en la catedral de la Dormición del Kremlin el 16 de enero de 1613 y el 3 de marzo eligió zar a Miguel Románov. Su coronación se toma por el final de los Disturbios. Hubo otros aspirantes, como Trubetskói o Pozharski, que no lograron los apoyos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en 1613 subió la dinastía occidentalizada de los Romanov, que impuso la servidumbre, expulsó a la Horda cosaca y escribió la versión actual de la historia rusa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La elección consta, con los cosacos tomando parte en las luchas entre candidatos. En lo leído no aparece ninguna Horda expulsada ni la reescritura de la historia."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -25416,6 +25492,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La rebelión del bajo Volga empezó como un asalto cosaco a una flota del zar rumbo a Astracán, y las guarniciones de la zona a veces se unieron al saqueo del rico comercio del río. Razin hizo además una larga correría contra los persas."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En marzo de 1670 anunció que marchaba contra los boyardos y consejeros traidores del zar y aseguró Tsaritsyn y Astracán. El alzamiento, complejo y descoordinado, fue aplastado en enero de 1671 por cinco ejércitos al mando del príncipe Yuri Dolgorúkov. Cosacos delataron su campamento en el Don; capturado, fue llevado a Moscú en una jaula, condenado, anatematizado y ahorcado el 6 de junio."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Razin fue comandante de la Horda de Astracán y la guerra enfrentó a dos estados del antiguo imperio, con los Romanov dependiendo de mercenarios alemanes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fuente la describe como rebelión de cosacos, campesinos, ciudadanos y pueblos del Volga contra la nobleza y el poder central, no como guerra entre estados. En lo buscado no aparecen la Horda ni los mercenarios."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -25721,6 +25819,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: War of Gradisca",
       "url": "https://en.wikipedia.org/wiki/War_of_Gradisca"
+     },
+     {
+      "titulo": "Wikipedia (en): Uskok War",
+      "url": "https://en.wikipedia.org/wiki/Uskok_War",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerra de Gradisca",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Gradisca",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -25732,6 +25840,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Los uscocos eran soldados croatas que Austria usaba en guerra irregular; contenidos en tierra y mal pagados, se dieron a la piratería contra barcos turcos y venecianos. Proteger la navegación le costaba a Venecia cada vez más: de 120.000 táleros anuales en los años 1590 a 360.000 en 1615."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En diciembre de 1615 los venecianos asediaron Gradisca y en enero de 1616 empezó la guerra en las colinas de Gorizia. Los uscocos eran vasallos del archiduque Fernando de Austria, apoyado por España; Venecia tuvo holandeses e ingleses. El conde Juan Ernesto de Nassau reclutó 3.000 hombres, llegados en mayo de 1617, y una flotilla holandesa e inglesa cortó la ayuda española por mar."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El motivo inmediato fue el coste de la piratería para el comercio veneciano."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, que cita a Geoffrey Parker, fue un conflicto menor que amenazó con la guerra general; Nassau bloqueó el Adriático y España llegó al frente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo esencial consta, con la salvedad de que la flotilla que bloqueó fue holandesa e inglesa. El libro de Parker no se ha abierto."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -45347,6 +45482,33 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Venecia ya había sufrido interdictos antes, como el de Julio II en 1509. En 1605 defendió su control sobre el clero frente a una ofensiva papal; Pablo V consideró anticlerical su trato de la jurisdicción sobre clérigos y bienes de la Iglesia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "A comienzos de 1606 fue elegido dux Leonardo Donato, contrario al poder papal, y en abril el papa lanzó el interdicto, a raíz del caso de dos clérigos detenidos. Hubo expulsión de algunas órdenes, guerra de panfletos y una intensa diplomacia: Felipe III de España animaba al papa y Enrique IV de Francia apoyaba a Venecia. Los jesuitas Belarmino y Possevino defendieron el interdicto y Sarpi encabezó la réplica. La crisis acabó en 1607."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Estaban en juego la jurisdicción civil sobre los clérigos y los bienes eclesiásticos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, hasta 1607 la nobleza negra veneciana era afín al papado, y Sarpi y la «revolución de los Giovani» provocaron la ruptura con el catolicismo tradicional."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El conflicto consta como disputa de jurisdicción entre dos estados católicos. En lo leído no aparece una ruptura religiosa con el catolicismo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -50306,6 +50468,28 @@ window.CRONO = {
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Orden del Temple fue disuelta en 1312, lo que en la Corona de Aragón llevó a crear una orden militar propia."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Jaime II fundó la Orden de Montesa en 1317, entre otras razones para evitar que creciera el Hospital, y negoció con Clemente V sobre los bienes templarios. El Tratado de Tordesillas, firmado el 7 de junio de 1494, repartió las tierras descubiertas entre Castilla y Portugal por un meridiano a 370 leguas al oeste de Cabo Verde. La Orden de la Espuela de Oro se atribuye vagamente a Constantino."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Montesa y la Orden de Cristo nacen del Tratado de Tordesillas, datado en 1679 y no en 1494, como herederas imperiales del Temple, y la Espuela de Oro reflejaría la orden Constantiniana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El vínculo de Montesa con la disolución del Temple consta y es anterior en casi dos siglos a Tordesillas. En lo buscado no aparece nada que apoye la datación en 1679."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -51594,6 +51778,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Unión Protestante",
       "url": "https://es.wikipedia.org/wiki/Unión_Protestante"
+     },
+     {
+      "titulo": "Wikipedia (es): Unión Protestante",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_Protestante",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Protestant Union",
+      "url": "https://en.wikipedia.org/wiki/Protestant_Union",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51605,6 +51799,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1607 el emperador Rodolfo II y Maximiliano de Baviera restablecieron el catolicismo en Donauwörth, y en 1608 la mayoría de la Dieta quiso condicionar la renovación de la Paz de Augsburgo a devolver los bienes eclesiásticos apropiados desde 1552."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "El 14 de mayo de 1608 Federico IV del Palatinado formó la Unión Protestante, con estados calvinistas y luteranos y varias ciudades libres. En 1609 los católicos respondieron con la Liga, encabezada por Maximiliano de Baviera. La Unión, debilitada por la ausencia de príncipes como el elector de Sajonia, no apoyó a Federico V en Bohemia, pactó la neutralidad con la Liga y se disolvió en 1621."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El choque tenía un fondo material: quién conservaba las propiedades de la Iglesia secularizadas desde 1552."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, en 1875 se halló correspondencia entre Sarpi y Cristián de Anhalt, organizador de la Unión, y al año siguiente se formó la Liga de Maximiliano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La Unión y la Liga constan. En los pasajes buscados no aparece Sarpi ni la correspondencia de 1875."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -52739,6 +52960,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Edwin Sandys",
       "url": "https://en.wikipedia.org/wiki/Edwin_Sandys_(died_1629)"
+     },
+     {
+      "titulo": "Wikipedia (en): Edwin Sandys (1561–1629)",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Sandys_(1561%E2%80%931629)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52750,6 +52976,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Compañía comercial inglesa autorizada por Jacobo I el 10 de abril de 1606 para colonizar la costa oriental de América, con accionistas londinenses."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Fundó Jamestown el 14 de mayo de 1607. Edwin Sandys, que en Venecia se había relacionado estrechamente con Paolo Sarpi, fue su tesorero desde 1619 y repartió tierras para atraer inversores y colonos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "No halló oro ni plata, para decepción de los inversores; vivió de varios comercios y de loterías en toda Inglaterra, hasta que la Corona las canceló."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Sandys, amigo de Sarpi, fue uno de sus fundadores, informaba a Sarpi, y la compañía estableció en 1606 el primer asentamiento inglés permanente y fue la primera en llevar esclavos negros. Según Giuseppe Nocera, la carta de 1606 liga a EE. UU. con la Corona y con reyes católicos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La carta de 1606 y la amistad de Sandys con Sarpi constan; el asentamiento es de 1607. En los pasajes buscados no aparecen la llegada de africanos ni los informes a Sarpi."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
