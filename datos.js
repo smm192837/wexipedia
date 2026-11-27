@@ -62444,6 +62444,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Federico V del Palatinado",
       "url": "https://es.wikipedia.org/wiki/Federico_V_del_Palatinado"
+     },
+     {
+      "titulo": "Wikipedia (en): Frederick V of the Palatinate",
+      "url": "https://en.wikipedia.org/wiki/Frederick_V_of_the_Palatinate",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62459,6 +62464,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Príncipe elector del Palatinado desde 1610, nacido en agosto de 1596, hijo de Federico IV y Luisa Juliana de Orange-Nassau; murió en Maguncia en 1632."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Casó en 1613 con Isabel Estuardo. Aceptó en 1619 la corona de Bohemia; sin apoyo militar de la Unión Protestante, fue derrotado en la Montaña Blanca en noviembre de 1620 y quedó como «rey de un invierno». Perdió el Palatinado, repartido entre españoles y Baviera, y vivió exiliado sobre todo en La Haya."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, su corte de Heidelberg tenía tendencias rosacruces y lo asesoraban amigos de Sarpi como Cristián de Anhalt."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papel de Anhalt consta en lo leído sobre él. Lo rosacruz solo asoma en la bibliografía, que cita «The Rosicrucian Enlightenment» de Frances Yates, no abierto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -67897,6 +67924,11 @@ window.CRONO = {
       "titulo": "École française de Rome: Paolo Sarpi a colloquio con i gallicani (Grocio cita una carta de Sarpi en 1636)",
       "url": "https://books.openedition.org/efr/2869",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Hugo Grotius",
+      "url": "https://en.wikipedia.org/wiki/Hugo_Grotius",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -67919,6 +67951,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista, escritor y poeta neerlandés nacido en Delft el 10 de abril de 1583 y muerto en Rostock en 1645; adolescente prodigio, estudió en Leiden."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Preso en Loevestein por las controversias religiosas de la República, escapó escondido en un cofre de libros y escribió sus principales obras en Francia. Con «Mare Liberum» y «De iure belli ac pacis» puso bases del derecho internacional, apoyado en Vitoria y Gentili; difundió por Europa ideas de la Escuela de Salamanca."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, nutrido de la Escuela de Salamanca, llamaba a Sarpi «Paolo el Grande» e influyó en las aspiraciones venecianas sobre los Países Bajos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La influencia salmantina consta. En los pasajes buscados no se ha hallado la expresión sobre Sarpi, aunque una de las fuentes trata de Sarpi y los círculos galicanos."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -68445,6 +68499,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Princesa escocesa nacida en Fife el 19 de agosto de 1596, hija de Jacobo VI y I y de Ana de Dinamarca; murió en Londres en febrero de 1662. Se la tuvo por una de las mujeres más sabias del siglo, aficionada a la filosofía."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Casó en 1613 en Whitehall con Federico V y fue electora palatina y reina de Bohemia desde 1619. Tras la derrota vivió en el exilio en La Haya, donde nacieron muchos de sus trece hijos; entre ellos Sofía, declarada en 1701 presunta heredera de la corona británica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la corte de Heidelberg de la pareja tenía tendencias rosacruces."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes buscados no aparece nada sobre rosacruces."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -82068,6 +82144,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Samuel Oppenheimer",
       "url": "https://en.wikipedia.org/wiki/Samuel_Oppenheimer",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Samuel Oppenheimer",
+      "url": "https://es.wikipedia.org/wiki/Samuel_Oppenheimer",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -82083,6 +82164,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero judío nacido en Heidelberg el 21 de junio de 1630 y muerto en Viena el 3 de mayo de 1703, representante de la comunidad judía."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue el principal proveedor militar de Leopoldo I y le adelantó sumas enormes para la guerra contra los turcos. Hacia 1700 una revuelta en Viena saqueó su casa. Destinó mucho dinero a ganar a la corte y a los jesuitas para prohibir el tratado antisemita de Eisenmenger, que el emperador confiscó. Tras su muerte la corte declaró una bancarrota que arrastró a sus prestamistas y se notó en la Bolsa de Fráncfort."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, que cita la Wikipedia y la Enciclopedia Judaica, financió al emperador contra los turcos y gastó mucho para ganarse a los jesuitas en la controversia de Eisenmenger."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las dos cosas constan en lo leído, con su motivo: defender a la comunidad judía frente a un libro antisemita."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -84619,6 +84722,16 @@ window.CRONO = {
       "titulo": "VIAF",
       "url": "https://viaf.org/viaf/54986097",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): William Cavendish (1591-1628)",
+      "url": "https://es.wikipedia.org/wiki/William_Cavendish_(1591-1628)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): William Cavendish, 2nd Earl of Devonshire",
+      "url": "https://en.wikipedia.org/wiki/William_Cavendish,_2nd_Earl_of_Devonshire",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -84634,6 +84747,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Cortesano y político inglés, segundo conde de Devonshire, nacido en 1590 según la ficha (1591 en la Wikipedia en español) y muerto en junio de 1628."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tuvo a Thomas Hobbes de tutor desde 1608, luego de secretario, y viajó con él por Francia e Italia entre 1610 y 1615. Heredó el escaño en los Lores a comienzos de 1626 y se opuso a Buckingham."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, estuvo con Cecil y Bacon al frente del «Venetian Party»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El viaje por Italia y la relación con Hobbes constan. En lo buscado no aparece ningún partido veneciano ni su relación con Bacon."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
