@@ -53659,6 +53659,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Ernst Jünger",
       "url": "https://es.wikipedia.org/wiki/Ernst Jünger",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Ernst Jünger",
+      "url": "https://es.wikipedia.org/wiki/Ernst_J%C3%BCnger",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53670,6 +53675,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Novelista, filósofo nacionalista, militar y entomólogo alemán (Heidelberg, 1895 – Riedlingen, 1998), hijo de un químico y empresario acomodado."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Huyó de joven a la Legión Extranjera, combatió en la Primera Guerra Mundial y recibió la Pour le Mérite; sus memorias, Tempestades de acero (1920), le dieron fama. Escribió contra el liberalismo y la República de Weimar pero rechazó acercarse a los nazis. Capitán en el París ocupado, en 1943 se había vuelto contra el nazismo; salió del ejército en 1944 tras quedar implicado indirectamente en la conjura contra Hitler. Su hijo murió en un batallón penal."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, no tiene sentido llamar traidores a quienes, como él, se apartaron del Tercer Reich, porque este no era alternativa al gran capital."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su distanciamiento consta. La valoración sobre el gran capital es interpretación del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -56133,6 +56160,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Mariscal soviético (1896-1974), de una familia campesina muy pobre."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Soldado del ejército imperial y del Ejército Rojo, venció a Japón en Jaljin Gol (1939) y fue jefe del Estado Mayor en 1941. Organizó la defensa de Leningrado, Moscú y Stalingrado, planificó Kursk y Bagration, tomó Berlín y aceptó la rendición alemana. Stalin lo relegó por su popularidad; volvió y fue ministro de Defensa hasta que Jruschov lo destituyó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, anunció el 9 de junio de 1945, por orden de Stalin, que Hitler había huido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído no aparece ese anuncio.\n\nPendiente: la rueda de prensa de Berlín de esa fecha, que se puede comprobar en prensa."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -59545,6 +59594,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: J. Edgar Hoover",
       "url": "https://www.britannica.com/biography/J-Edgar-Hoover",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): John Edgar Hoover",
+      "url": "https://es.wikipedia.org/wiki/John_Edgar_Hoover",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59575,6 +59629,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Funcionario estadounidense (Washington, 1895 – 1972), criado en Capitol Hill."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Director del Bureau of Investigation desde 1924 y primer director del FBI hasta su muerte, 48 años. Modernizó la agencia con huellas y laboratorios. Persiguió a disidentes y al movimiento de derechos civiles, con infiltración, amenazas y pruebas ilegales, y acumuló archivos sobre dirigentes; Truman lo acusó de crear una policía secreta. Su biógrafo Ackerman considera un mito los archivos sobre presidentes. Tras su muerte se limitó el mandato del cargo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano le atribuye extorsión con escándalos sexuales, informes sobre el respaldo alemán a America First, la colaboración de Roy Cohn y el fichero de huellas como antecedente del control actual; incluye afirmaciones sobre su vida privada."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los archivos, la persecución y las huellas constan; la crítica de chantaje la hizo Truman. Lo relativo a su vida privada es especulación sin prueba concluyente, como dice la versión oficial. America First y Cohn no se han comprobado hoy."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62040,6 +62116,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y político argentino (Lobos, 1895 – Olivos, 1974), tres veces presidente y fundador del peronismo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Apoyó el golpe de 1930; en 1939 viajó en misión a Italia y a otros países europeos, donde formó muchas ideas. Participó en la revolución de 1943, dirigió Trabajo, Guerra y la vicepresidencia, y se alió con los sindicatos. Presidente en 1946-1955 y 1973-1974. Antes, el gobierno del que formaba parte tomó medidas contra el Eje, como cortar el comercio e intervenir empresas alemanas, para mejorar su imagen."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano sostiene que fomentó la inmigración nazi con ayuda del Vaticano y la inteligencia estadounidense y que fondos enviados por Bormann pasaron a los Perón por el Deutsche Bank de Buenos Aires. Jorge Guerra dice que se reunía con familias aristocráticas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial recoge que su gobierno acogió a numerosos nazis. En lo leído hoy no aparecen los fondos, el banco ni Skorzeny.\n\nPendiente: las comisiones argentinas sobre refugiados nazis, donde comprobar la ruta del dinero."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -66814,6 +66912,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político británico (Londres, 1896 – Orsay, 1980), sexto baronet, de familia de terratenientes; formado en Sandhurst."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Herido en la Primera Guerra Mundial, diputado conservador, independiente y laborista, ministro en 1929-1931. Tras estudiar el movimiento de Mussolini fundó en 1932 la Unión Británica de Fascistas, anticomunista y proteccionista, con hasta 50.000 miembros. Gastó mucha fortuna en ella y, mediante Diana Mitford, negoció con Hitler una radio comercial en Alemania para financiarse. Desde 1939 pidió una paz negociada."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, su idea de «Europa, una nación» inspiró en 1951 el Movimiento Social Europeo y el Nuevo Orden Europeo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su defensa de la unidad europea en la posguerra la recoge la versión oficial. En lo leído hoy no se ha comprobado la genealogía de esos movimientos."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -69038,6 +69158,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Prescott Bush",
       "url": "https://es.wikipedia.org/wiki/Prescott Bush",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Prescott Bush",
+      "url": "https://es.wikipedia.org/wiki/Prescott_Bush",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69053,6 +69178,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero y político estadounidense (Columbus, 1895 – Nueva York, 1972), hijo de un empresario ferroviario y del acero; en Yale entró en Skull and Bones."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Oficial en la Primera Guerra Mundial, ejecutivo de Brown Brothers Harriman y senador republicano por Connecticut. Fue director de la Union Banking Corporation (1934-1943), controlada sobre todo por los Harriman, que según lo leído financió a Hitler y cuyos activos se incautaron en 1942 por la ley de comercio con el enemigo. The Guardian publicó en 2004 que esos negocios dieron lugar a una demanda en Alemania de antiguos trabajadores esclavos de Auschwitz. Padre y abuelo de presidentes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue iniciado en Skull and Bones y se benefició de empresas ligadas a la Alemania nazi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Ambos puntos tienen apoyo en lo leído. El alcance de su beneficio personal y de su conocimiento no queda establecido.\n\nEs de los casos donde seguir el dinero tiene documentación pública; pendiente el expediente de incautación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
