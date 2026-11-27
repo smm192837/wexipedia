@@ -22720,6 +22720,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Familia Rothschild",
       "url": "https://es.wikipedia.org/wiki/Familia_Rothschild"
+     },
+     {
+      "titulo": "Wikipedia (en): Rothschild family",
+      "url": "https://en.wikipedia.org/wiki/Rothschild_family",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -22731,6 +22736,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "En 1743 Amschel Moses Bauer, orfebre y cambista, abrió una tienda de monedas en el gueto judío de Fráncfort; de la familia salió una dinastía bancaria con varias ramas europeas."
+    },
+    {
+     "titulo": "La fortuna",
+     "nivel": "hecho",
+     "texto": "En el XIX la familia reunió la mayor fortuna privada del mundo y dominó las finanzas internacionales europeas entre los años 1820 y 1870, hasta que los bancos por acciones rompieron esa hegemonía. En el XX su riqueza menguó y se repartió entre muchos descendientes; subsisten las ramas francesa y británica. En Francia sus bienes fueron confiscados bajo Vichy y la ocupación."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Solo en 1815 prestaron 9,8 millones de libras de la época a los aliados continentales de Gran Bretaña."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la familia posee más de la mitad de la riqueza mundial, un 56 %, que repartida daría dos millones de dólares por habitante; reconoce no haberlo comprobado del todo. Añade que casi todos los gobiernos les deben dinero."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La enorme fortuna del XIX consta, con su declive posterior. En lo leído no aparece ninguna cifra que respalde el 56 %. La familia ha sido objeto durante dos siglos de teorías conspirativas, a menudo antisemitas."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -23277,6 +23309,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De qué se le acusa",
+     "nivel": "hecho",
+     "texto": "Circularon acusaciones de que vacunas apoyadas por la Fundación Gates causaron muertes en la India y esterilizaron en África."
+    },
+    {
+     "titulo": "Qué se comprobó",
+     "nivel": "hecho",
+     "texto": "Según Snopes, es falso que la India demandara a Gates. Desde 2009 la organización PATH, socia de la Fundación y al parecer financiada por ella, hizo en la India un estudio sobre la vacuna del papiloma que causó polémica al morir siete niñas; las investigaciones estatales no responsabilizaron a PATH ni al instituto indio de las muertes, cinco claramente ajenas a la vacuna y dos menos claras. El bulo de que la vacuna del tétanos esteriliza nace de un pequeño ensayo de 1994 en la India que buscaba una vacuna anticonceptiva con la hormona hCG; la OMS lo desmintió."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Gates dona para comprar vacunas a empresas en las que tiene intereses, invierte en Bayer y Monsanto y ha esterilizado en masa a mujeres africanas sin su consentimiento."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los verificadores consideran falsa la esterilización. El estudio de la India tuvo polémica real; las inversiones en Bayer y Monsanto no aparecen en lo leído y siguen sin contrastar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -23969,6 +24023,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Fondo Monetario Internacional",
       "url": "https://es.wikipedia.org/wiki/Fondo_Monetario_Internacional"
+     },
+     {
+      "titulo": "Wikipedia (en): International Monetary Fund",
+      "url": "https://en.wikipedia.org/wiki/International_Monetary_Fund",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -23983,6 +24042,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "El Fondo Monetario Internacional nació en julio de 1944 en la conferencia de Bretton Woods, con 730 delegados de 44 países aliados, sobre todo a partir de ideas de Harry Dexter White y de Keynes, para estabilizar el sistema monetario de posguerra."
+    },
+    {
+     "titulo": "Qué son",
+     "nivel": "hecho",
+     "texto": "Entró en vigor el 27 de diciembre de 1945 con 29 países. Es organismo especializado de la ONU, con sede en Washington y 191 miembros, y presta como último recurso a sus miembros. El sistema de cambios de Bretton Woods duró hasta 1971, cuando EE. UU. suspendió la convertibilidad del dólar en oro. En 2001 creó una oficina independiente de evaluación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la ONU marca las políticas y estos bancos las financian, pero quienes manejan los destinos son la Reserva Federal y el Banco de Pagos Internacionales."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación del Fondo con la ONU consta. En lo buscado no aparece que la Reserva Federal o el BPI dirijan al conjunto. De las otras instituciones del título aquí solo se ha leído sobre el Fondo."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -28443,6 +28524,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Caída del Imperio romano de Occidente",
       "url": "https://es.wikipedia.org/wiki/Caída_del_Imperio_romano_de_Occidente",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Caída del Imperio romano de Occidente",
+      "url": "https://es.wikipedia.org/wiki/Ca%C3%ADda_del_Imperio_romano_de_Occidente",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Fall of the Western Roman Empire",
+      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -28483,6 +28574,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El final del imperio",
+     "nivel": "hecho",
+     "texto": "Siguiendo a Gibbon, el final del Imperio de Occidente se suele fijar en 476, con la deposición de Rómulo Augústulo por Odoacro. El Imperio de Oriente duró unos mil años más."
+    },
+    {
+     "titulo": "La discusión sobre la continuidad",
+     "nivel": "hecho",
+     "texto": "Desde Pirenne los estudiosos describen una continuidad de la cultura y la legitimidad política romanas mucho después de 476; Pirenne retrasó el final de la civilización clásica hasta el siglo VIII."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, con Herder y Philip K. Dick, el imperio nunca terminó: se transfiguró en el Vaticano y pasó en el XIV de gibelino a güelfo. Según Jorge Guerra, señores, monarquías y órdenes actúan bajo el papa para perpetuarlo. Giuseppe Nocera concluye que detrás de las órdenes está Roma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La continuidad cultural y jurídica es un tema reconocido por la historiografía. Que el imperio siga gobernando a través del Vaticano no aparece en lo leído y es tesis de los autores."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
