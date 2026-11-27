@@ -50209,6 +50209,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://www.Wikipedia.com/wiki/Mussolini",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Benito Mussolini",
+      "url": "https://es.wikipedia.org/wiki/Benito_Mussolini",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50232,6 +50237,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y dictador italiano (Predappio, 1883 – Giulino, 1945), líder del Partido Nacional Fascista."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tras la Marcha sobre Roma, el rey Víctor Manuel III lo nombró jefe del Gobierno en 1922; en pocos años estableció una dictadura totalitaria. Conquistó Etiopía (1935-1936), anexionó Albania (1939), se alió con Alemania y Japón y llevó a Italia a la guerra. Fue depuesto en 1943, encabezó la República Social hasta 1945 y fue fusilado. Según lo leído, el gobierno británico apoyó en secreto su ascenso."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés, Jorge Guerra, Giuseppe Nocera y Guillermo Mas Arellano lo presentan como producto de los Saboya, la nobleza, el bando anglo-veneciano o las ligas anticomunistas, hablan de dinero para el Vaticano en 1925, de J. P. Morgan y de la Orden de Malta. El detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el nombramiento por un rey Saboya y un apoyo británico secreto, que conviene concretar. En lo leído hoy no se han buscado el préstamo de Morgan ni la condecoración.\n\nLectura de trabajo de Nexus: el apoyo británico y quién financió el fascismo son los hilos con más fondo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53009,6 +53036,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritora, activista y política estadounidense (Nueva York, 1884 – 1962), de las familias Roosevelt y Livingston, sobrina de Theodore Roosevelt; se educó en Londres con Marie Souvestre y se casó con su pariente Franklin en 1905."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Primera dama de 1933 a 1945, transformó el papel con conferencias, columnas y radio y defendió los derechos civiles. Delegada ante la ONU (1946-1952), presidió la Comisión de Derechos Humanos y tuvo un papel central en la Declaración Universal de 1948 junto a René Cassin y John Humphrey."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la ONU forjó los derechos humanos a través de fabianos, «la esposa de un presidente» y el hermano de Huxley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en la declaración consta, con otros redactores. En lo leído no aparecen fabianos ni Huxley."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53181,6 +53230,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor y biógrafo alemán de origen judío, nacionalizado suizo (Breslavia, 1881 – cerca de Ascona, 1948). Nació como Emil Cohn; su padre, oculista, logró cambiar el apellido. Estudió Derecho."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Corresponsal del Berliner Tageblatt en la Primera Guerra Mundial, se hizo famoso en los años veinte con biografías psicológicas (Goethe, Bismarck, Napoleón). Tras el asesinato de Rathenau reivindicó su judaísmo. Entrevistó a Mussolini y, en 1931, a Stalin. Suizo desde 1932, emigró a Estados Unidos en 1940; Goebbels consideraba peligrosos sus escritos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo llama periodista judío y recoge su entrevista con Stalin."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La entrevista con Stalin consta (13 de diciembre de 1931)."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53771,6 +53842,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Poeta, ensayista y crítico estadounidense (Hailey, 1885 – Venecia, 1972), figura de la poesía modernista, formado en lenguas románicas."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Desde Londres, París e Italia impulsó a otros escritores y escribió los Cantos. Fascista ferviente y furibundo antisemita, admirador de Mussolini, emitió propaganda por la radio italiana durante la guerra. Acusado de traición en 1945, fue declarado enfermo mental y pasó doce años internado. Era contrario al capitalismo y culpaba de la guerra al capitalismo financiero."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, animó a Eustace Mullins a «investigar el dinero», de donde salió un libro sobre la Reserva Federal; el hospital estaría ligado a MK Ultra y Mullins alteró documentos del FBI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su crítica a las finanzas consta, unida a su antisemitismo, que conviene tener presente al leer esa línea. En lo leído no aparecen Mullins ni MK Ultra."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -55749,6 +55842,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Poeta y periodista nacido en Múnich (1884-1962) y emigrado de niño a Estados Unidos; su padre fue diputado socialista, y corría el rumor de que este era hijo de Guillermo I."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tras éxitos literarios fue propagandista proalemán. Entrevistó a Hitler, Freud, Foch, Mussolini y otros. Apoyó abiertamente a los nazis desde 1933 y en 1940 pagó a congresistas para difundir propaganda facilitada por la embajada alemana. Condenado por no registrarse como agente extranjero, cumplió casi cuatro años de prisión."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, promovió con Thompson el National Renaissance Party de Madole."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su actividad pronazi está documentada. En lo leído no aparece ese partido."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -61156,6 +61271,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Delincuente nacido en Irsina, Basilicata (1882-1957), emigrado de niño a Nueva York tras morir su padre ferroviario."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "De portero pasó a jefe de banda, con juego, usura, prostitución y opio; fue mentor de Al Capone. Ayudó a levantar la organización de Chicago en los años veinte, sobrevivió a un atentado en 1925 y dejó el mando a Capone. En los años treinta propuso un sindicato nacional del crimen y aconsejó a Lucky Luciano."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue un «agente de los Torlonia» en la mafia estadounidense."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su origen italiano humilde consta. En lo leído no aparecen los Torlonia."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -67375,6 +67512,23 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Su cargo",
+     "nivel": "hecho",
+     "texto": "La lista oficial del Banco de Pagos Internacionales lo recoge como subdirector general (Assistant General Manager) de mayo de 1935 a diciembre de 1945. Sucedió en ese puesto, por fechas, a Ernst Hülse, que figura de abril de 1930 a mayo de 1935.\n\nSu etapa coincide con el nazismo y toda la Segunda Guerra Mundial."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, era miembro del partido nazi y firmaba su correspondencia con «Heil Hitler»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído solo acredita el cargo y las fechas. La militancia y las firmas no se han comprobado.\n\nOjo: el clérigo William Hechler (1845-1931), cercano a Herzl, es otra persona.\n\nPendiente: el archivo del banco y el repertorio Dodis."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68668,6 +68822,23 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Su cargo",
+     "nivel": "hecho",
+     "texto": "La lista oficial del Banco de Pagos Internacionales lo recoge, con la grafía «Rafaele Pilotti», como secretario general de abril de 1930, fundación del banco, a diciembre de 1951. Le sucedió Alberto Ferrari.\n\nOcupó el puesto veintiún años, a través del fascismo, la guerra y la posguerra."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue el secretario general italiano del banco."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo consta. No se ha leído nada sobre su biografía.\n\nOjo: Massimo Pilotti (1879-1962), jurista que fue secretario general adjunto de la Sociedad de Naciones, es otra persona; no se ha comprobado si eran parientes."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
