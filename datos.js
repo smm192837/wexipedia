@@ -554,10 +554,21 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc"
     },
     {
+     "id": "magna-ciencia-presentacion",
+     "titulo": "Magna Ciencia, con el físico Artur Sala (presentación del primer libro)",
+     "tipo": "video",
+     "referencia": "Charla publicada el 1-2-2019 en el canal de Alícia Ninou (Alish) con el título «MAGNA CIENCIA, con el físico Artur Sala (subt. castellano)». Transcripción con minutos aportada por smiguel1 el 27-11-2026; fecha de grabación sin confirmar.",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw",
+     "estado": "procesada",
+     "fecha": "2019-02-01",
+     "duracion": "1 h 21 min",
+     "resumen": "Charla de Artur Sala, subtitulada y publicada por Alícia Ninou (Alish) en 2019, en la que presenta «Magna Ciencia», su primer libro de una serie. Según el autor, antes se sabía lo que hoy no se sabe: recorre sus inspiraciones (Alberto Borrás, EdgeScience, la revista Dogma Cero, Máximo Sandín), la frase que atribuye a Tesla, los rábanos de Maria Thun, Goethe, los cuatro elementos y la astrología, el ayurveda, las edades del mundo, Sheldrake, Reich, Kozyrev y sus espejos, y termina con el ADN como antena (Montagnier, Smirnov, Gariaev), el bosón de Higgs y el genoma."
+    },
+    {
      "id": "magna-ciencia",
      "titulo": "Magna Ciencia",
      "tipo": "libro",
-     "referencia": "Editorial Cauac; año pendiente. Tiene un adendum.",
+     "referencia": "Primer libro de la serie (smiguel1, 27-11-2026). Editorial Cauac; año pendiente. Tiene un adendum. Su presentación en vídeo es la obra `magna-ciencia-presentacion`.",
      "estado": "pendiente"
     },
     {
@@ -2987,6 +2998,49 @@ window.CRONO = {
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "astronomos-chinos-eclipse-xi-he",
+   "tipo": "hecho",
+   "titulo": "Los astrónomos chinos ejecutados por un eclipse (leyenda de Xi y He)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "fecha": {
+    "desde": -2133,
+    "aprox": true,
+    "texto": "leyenda situada hacia 2134 a. C.",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: una leyenda china, recogida en el Libro de los Documentos, según la cual los funcionarios Xi y He fueron ejecutados por descuidar un eclipse.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 26:24",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1584s",
+     "resumen": "Cuenta, como algo que le explicaron, que en China en el siglo II a. C. un emperador hizo ejecutar a sus astrónomos, y no a sus astrólogos, porque calcular el eclipse de Luna era tarea de los primeros.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El relato procede del Libro de los Documentos y algunas fuentes lo sitúan en 2134 a. C., no en el siglo II a. C.; un sinólogo citado por Smithsonian lo considera claramente mítico y los historiadores dudan de su fiabilidad. En esa época no se sabía predecir eclipses: se logró con cierto éxito bajo la dinastía Han.",
+    "fuentes": [
+     {
+      "titulo": "Smithsonian Magazine: los astrónomos chinos y el eclipse de 2134 a. C.",
+      "url": "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "esferas-de-influencia-astrologia",
+     "nota": "El autor lo cuenta para separar astrólogos y astrónomos (propuesta del archivista)."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "atentado-bolonia-1980",
@@ -6930,6 +6984,52 @@ window.CRONO = {
    "naturaleza": "conflictos-belicos",
    "fecha_autor": "Cuando prácticamente ya había terminado la II Guerra Mundial",
    "vista": "politica"
+  },
+  {
+   "id": "boson-de-higgs-2012",
+   "tipo": "hecho",
+   "titulo": "Detección del bosón de Higgs en el CERN",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "fecha": {
+    "desde": 2012,
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: la detección, anunciada por el CERN el 4 de julio de 2012, de la partícula asociada al campo que da masa a otras partículas, predicha en 1964.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:18:35",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4715s",
+     "resumen": "Ridiculiza el materialismo diciendo que, el día en que se descubrió la partícula que daría lugar a la materia, su descubridor admitió no tener idea de para qué sirve; no lo nombra.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El 4 de julio de 2012 el CERN anunció que los experimentos ATLAS y CMS veían una nueva partícula compatible con el bosón de Higgs. Peter Higgs fue uno de los físicos que propusieron el mecanismo en 1964, no quien la detectó, y compartió el Nobel de 2013 con François Englert. Según el modelo estándar, su importancia es explicar cómo adquieren masa ciertas partículas; no tener una aplicación práctica conocida no cuestiona el hallazgo. No se ha comprobado en la fuente original la frase que se atribuye al físico.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Peter Higgs",
+      "url": "https://en.wikipedia.org/wiki/Peter_Higgs",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Higgs boson",
+      "url": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "giro-materialista-ciencia",
+     "nota": "El autor lo usa contra el materialismo."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "bpi-continuidad-posguerra",
@@ -21727,6 +21827,162 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "experimento-rimas-japonesas-sheldrake",
+   "tipo": "hecho",
+   "titulo": "La prueba de las rimas japonesas de Sheldrake",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": null,
+   "resumen": "Qué es: una prueba de memoria con textos en japonés, hecha por personas que no conocían el idioma, que Sheldrake presentó como apoyo a la resonancia mórfica.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 42:06",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2526s",
+     "resumen": "Dice que personas de todo el mundo sin japonés memorizaron antes un texto que recitan los escolares de Japón que una poesía poco conocida y que palabras sin sentido; sitúa la prueba en «Siete experimentos que pueden cambiar el mundo» y recuerda que la CIA y otros servicios investigaron fenómenos psíquicos.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Un resumen favorable a Sheldrake describe tres rimas japonesas parecidas (una sin sentido, una recién compuesta y una tradicional) memorizadas por escolares ingleses, con la tradicional como la más fácil. No se ha hallado réplica independiente ni se ha comprobado en qué libro aparece; la comunidad científica no acepta la resonancia mórfica. Una rima tradicional puede ser más fácil de memorizar por su propia forma.",
+    "fuentes": [
+     {
+      "titulo": "Co-Intelligence Institute: campos morfogenéticos",
+      "url": "https://co-intelligence.org/P-morphogeneticfields.html",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Rupert Sheldrake",
+      "url": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "campos-morficos",
+     "nota": "La prueba se presenta como apoyo."
+    },
+    {
+     "id": "rupert-sheldrake",
+     "nota": "Quien la hizo."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "experimento-salamandra-rana-gariaev",
+   "tipo": "hecho",
+   "titulo": "El experimento de la salamandra y el embrión de rana atribuido a Gariaev",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": null,
+   "resumen": "Qué es: la afirmación de que, emitiendo sobre un embrión de rana la señal grabada de uno de salamandra, nace una salamandra; no hay confirmación científica.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:09:59",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4199s",
+     "resumen": "Cuenta que Gariaev grabó el espectro de un embrión de salamandra, lo emitió sobre un embrión de rana y de él nació una salamandra; de ahí que se podría crear cualquier forma de vida a partir del campo biofotónico.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "No se ha hallado publicación científica independiente que confirme ni reproduzca ese resultado, y no se ha localizado el trabajo original. Los experimentos de Gariaev fueron criticados por biólogos por no seguir el método científico, y su «genoma ondulatorio» se considera seudociencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (ru): Piotr Petróvich Gariáyev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%8F%D0%B5%D0%B2%2C_%D0%9F%D1%91%D1%82%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "agua-genoma-gariaev",
+     "nota": "Genética ondulatoria del mismo investigador."
+    },
+    {
+     "id": "piotr-gariaev",
+     "nota": "A quien se atribuye."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "experimento-telescopio-kozyrev",
+   "tipo": "hecho",
+   "titulo": "Las observaciones de Kozyrev con el telescopio tapado",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1977,
+    "hasta": 1990,
+    "aprox": true,
+    "texto": "años 70; artículo de réplica en 1990",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: unas observaciones con un telescopio cerrado a la luz con las que se afirmó registrar una señal instantánea de los astros en posiciones distintas de la visible.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 51:41",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3101s",
+     "resumen": "Dice que Kozyrev tapó el telescopio contra toda radiación electromagnética y halló un punto de energía donde estaba el Sol ocho minutos antes y donde estaría ocho minutos después, y lo mismo con planetas, estrellas y Andrómeda: una energía que une los astros al instante.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 53:34",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3214s",
+     "resumen": "Añade que la señal del pasado giraba a la izquierda y la del futuro a la derecha.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En 1990 M. Lavrentiev y colaboradores publicaron en Doklady Akademii Nauk una nota «sobre el registro de la posición verdadera del Sol». La física no reconoce una señal instantánea ni la teoría causal de Kozyrev, que una comisión de la Academia de Ciencias de la URSS (1960) consideró sin axiomática clara y con experimentos insuficientes. Un físico citado por la Wikipedia en ruso sostiene que Kozyrev nada tiene que ver con las observaciones «con la tapa cerrada» que llevan su nombre. No se ha abierto el artículo de 1990 ni los de Kozyrev.",
+    "fuentes": [
+     {
+      "titulo": "Doklady Akademii Nauk 315 (1990), ficha del artículo de Lavrentiev et al.",
+      "url": "https://geodesic.mathdoc.fr/item/DAN_1990_315_2_a27",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Nikolai Aleksandrovich Kozyrev",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Aleksandrovich_Kozyrev",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (ru): Nikolái Aleksándrovich Kózyrev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D1%8B%D1%80%D0%B5%D0%B2%2C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "nikolai-kozyrev",
+     "nota": "Se le atribuyen las observaciones."
+    },
+    {
+     "id": "ondas-de-torsion",
+     "nota": "El autor las liga a este giro."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "experimento-xx-reich-1944",
    "tipo": "hecho",
    "titulo": "El experimento XX de Reich (1944)",
@@ -29781,6 +30037,58 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "inscripciones-obreros-piramide-keops",
+   "tipo": "hecho",
+   "titulo": "Las pintadas de las cuadrillas en la Gran Pirámide",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "fecha": {
+    "desde": 1837,
+    "texto": "halladas por Howard Vyse en 1837",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: las marcas de cantería pintadas en las cámaras superiores de la Gran Pirámide, con nombres de cuadrillas que incluyen el del faraón Keops.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:15:34",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4534s",
+     "resumen": "Pone como ejemplo de trampa que los egiptólogos habrían tomado como prueba de que Keops hizo la pirámide una pintada de alguien que entró en ella y que además la escribió mal; no nombra a nadie.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Howard Vyse halló en 1837 en las cámaras superiores numerosas marcas de la época de la construcción: líneas, indicaciones y nombres de cuadrillas con variantes del nombre de Keops. La atribución de la pirámide no depende solo de ellas: los papiros de Merer, del año 27 del reinado de Keops, registran el transporte de caliza a Guiza y mencionan el nombre antiguo de la pirámide, «Horizonte de Keops». La egiptología no acepta que sean una falsificación. No se ha abierto una fuente sobre la fecha exacta del hallazgo más allá de la biografía de Vyse.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Howard Vyse",
+      "url": "https://en.wikipedia.org/wiki/Howard_Vyse",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Diary of Merer",
+      "url": "https://en.wikipedia.org/wiki/Diary_of_Merer",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Khufu",
+      "url": "https://en.wikipedia.org/wiki/Khufu",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "magna-ciencia-obra",
+     "nota": "Ejemplo que pone el autor al presentar su libro."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "instituto-tavistock",
    "tipo": "hecho",
    "titulo": "Instituto Tavistock",
@@ -32363,6 +32671,50 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "les-savants-maudits-lance",
+   "tipo": "hecho",
+   "titulo": "«Savants maudits, chercheurs exclus», de Pierre Lance",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 2001,
+    "hasta": 2003,
+    "aprox": true,
+    "texto": "2001; reedición de 2003",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: un ensayo francés en varios volúmenes del escritor Pierre Lance sobre científicos e investigadores rechazados por las instituciones.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 3:21",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=201s",
+     "resumen": "Cita «Les Savants maudits» como libro en cuatro volúmenes parecido a «Magna Ciencia» y fuente de inspiración, con la diferencia de que va científico a científico y no incluye la ciencia sagrada.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "«Savants maudits, chercheurs exclus», de Pierre Lance, lo publicó Guy Trédaniel (edición de febrero de 2003, 359 páginas). Una reseña lo describe como un ensayo con las historias de investigadores, sobre todo de la salud, que el autor considera perseguidos. La edición original de 2001 solo consta por resultados de búsqueda.",
+    "fuentes": [
+     {
+      "titulo": "critiquesLibres: Savants maudits, chercheurs exclus",
+      "url": "https://www.critiqueslibres.com/livre/73105-savants-maudits-chercheurs-exclus-lance-pierre",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "magna-ciencia-obra",
+     "nota": "Artur Sala lo cita como inspiración."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "ley-conservacion-masa-lavoisier",
    "tipo": "hecho",
    "titulo": "Lavoisier formula la conservación de la masa",
@@ -33890,6 +34242,51 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, su primer libro de «Magna Ciencia» es de 2018.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 0:24",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=24s",
+     "resumen": "Explica que «Magna Ciencia» es una palabra inventada por él para el conocimiento anterior al método científico moderno (siglo XVIII), junto a la ciencia proscrita; resume el libro en «antes se sabía y hoy no se sabe» y lo anuncia como el primero de cuatro volúmenes.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 2:11",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=131s",
+     "resumen": "Dice deberlo todo a Alberto Borrás Gabarró, que a punto de cumplir 92 años había reunido durante años datos sobre científicos proscritos y escrito en 1995 un libro sobre ciencia y energías libres.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 6:13",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=373s",
+     "resumen": "Cuenta que editó cinco años la revista «Dogma Cero» con Xavier Bartlett y David Álvarez Planas, ocho números inspirados en EdgeScience, porque a su juicio la historia y la física están «capadas».",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 11:26",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=686s",
+     "resumen": "Sitúa la investigación en diez años desde 2008: primero críticas al darwinismo, electricidad escalar, éter y orgón (que considera lo mismo) y, desde 2013, las ciencias sagradas.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 47:35",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2855s",
+     "resumen": "Recomienda a su amigo Nacho López Cabanas, psicólogo autor de «Trioría del Todo», y sus vídeos sobre psincronología en La Caja de Pandora.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -33916,6 +34313,14 @@ window.CRONO = {
     {
      "id": "plural-21",
      "nota": "La obra y sus cursos se presentan en Plural 21."
+    },
+    {
+     "id": "les-savants-maudits-lance",
+     "nota": "Inspiración que cita el autor."
+    },
+    {
+     "id": "pensando-la-evolucion-sandin",
+     "nota": "Su libro le llevó a la editorial, según el autor."
     }
    ],
    "estado": "aprobado",
@@ -35868,6 +36273,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=6185s",
      "resumen": "Montagnier demostró que los medicamentos homeopáticos pierden su función si se apartan de la resonancia Schumann. Sol, agua y la resonancia de 7,83 Hz, ligada a las ondas cerebrales, armonizan la vida; la naturaleza cura por sí sola.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:07:00",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4020s",
+     "resumen": "Resume su experimento: sumergió ADN en agua, registró sus ondas de torsión y, retirado el ADN, la impronta con su información quedó en el agua; añade que los rusos lo sabían desde los años 50.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -38648,6 +39062,69 @@ window.CRONO = {
    ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
+  },
+  {
+   "id": "nueva-ciencia-de-la-vida-1981",
+   "tipo": "hecho",
+   "titulo": "«Una nueva ciencia de la vida», de Sheldrake, y el editorial de Nature",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1981,
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: el libro de 1981 en que el biólogo Rupert Sheldrake propuso la resonancia mórfica, atacado ese año en un editorial de la revista Nature.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 37:50",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2270s",
+     "resumen": "Lo fecha en 1982 y dice que el editor de Nature lo citó como el primer candidato a ser quemado en la hoguera; para él, dice en lenguaje moderno que principios no físicos gobiernan la materia.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 45:06",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2706s",
+     "resumen": "Afirma que el rector exigió a Sheldrake, con 32 años, retractarse o buscar otro trabajo, que se negó y pasó a la ciencia proscrita.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El libro se publicó en 1981; en septiembre de ese año John Maddox, de Nature, publicó el editorial «¿Un libro para la hoguera?», que lo calificaba de seudociencia. Sheldrake, nacido en 1942, había dejado antes su puesto en el Clare College de Cambridge para trabajar en la India (1974-1978) y escribir el libro; la biografía consultada no recoge que un rector le obligara a retractarse.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Rupert Sheldrake",
+      "url": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): John Maddox",
+      "url": "https://en.wikipedia.org/wiki/John_Maddox",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "rupert-sheldrake",
+     "nota": "Su autor."
+    },
+    {
+     "id": "campos-morficos",
+     "nota": "Hipótesis que presenta el libro."
+    },
+    {
+     "id": "revista-nature",
+     "nota": "La revista publicó el editorial."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "nuevo-orden-europeo-1951",
@@ -43218,6 +43695,56 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "pensando-la-evolucion-sandin",
+   "tipo": "hecho",
+   "titulo": "«Pensando la evolución, pensando la vida», de Máximo Sandín",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 2006,
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: un libro del biólogo español Máximo Sandín, profesor en la Universidad Autónoma de Madrid, que critica el darwinismo.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 7:54",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=474s",
+     "resumen": "Dice que Sandín, profesor retirado de Genética y Biología, criticó el darwinismo en «Pensando la evolución, pensando la vida» (editorial Cauac) como una creencia sin sustento, que le llamaron creacionista sin serlo y que mostró que la biología está capada para que no se entienda la vida.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El año 2006 consta solo por un resultado de búsqueda. Máximo Sandín es doctor en Ciencias Biológicas y en Bioantropología y enseñó Evolución Humana y Ecología en la Universidad Autónoma de Madrid; sostiene que el darwinismo es una justificación ideológica del orden económico. La biología considera la evolución —el cambio de las poblaciones a lo largo de generaciones a partir de antepasados comunes— el marco establecido, y no acepta sus críticas.",
+    "fuentes": [
+     {
+      "titulo": "El Ciudadano, 2010: entrevista a Máximo Sandín",
+      "url": "https://www.elciudadano.com/?p=25278",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Evolución biológica",
+      "url": "https://es.wikipedia.org/wiki/Evoluci%C3%B3n_biol%C3%B3gica",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "origen-de-las-especies",
+     "nota": "Sandín critica la teoría que nace con este libro."
+    },
+    {
+     "id": "magna-ciencia-obra",
+     "nota": "Artur Sala cuenta que su lectura le llevó a la editorial."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "pentagono",
    "tipo": "hecho",
    "titulo": "El Pentágono",
@@ -43343,6 +43870,53 @@ window.CRONO = {
    ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
+  },
+  {
+   "id": "perro-jaytee-sheldrake",
+   "tipo": "hecho",
+   "titulo": "El perro Jaytee y la telepatía según Sheldrake",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1999,
+    "aprox": true,
+    "texto": "años 90; libro de Sheldrake",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: los experimentos con un perro llamado Jaytee sobre si los animales saben a distancia que su dueño vuelve a casa, y su contraste por otros investigadores.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 44:03",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2643s",
+     "resumen": "Da por demostrado que el perro de una persona que está en la otra punta del mundo reacciona en el momento en que ella decide volver, y lo presenta como prueba de un campo de conciencia colectiva; no nombra al perro.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Sheldrake describió experimentos con el perro Jaytee en «De perros que saben que sus amos están camino a casa». Richard Wiseman, Matthew Smith y Julie Milton hicieron un estudio propio con el mismo perro y concluyeron que sus datos no apoyaban la telepatía; Sheldrake discute esa lectura. No se considera demostrado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Rupert Sheldrake",
+      "url": "https://en.wikipedia.org/wiki/Rupert_Sheldrake",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "rupert-sheldrake",
+     "nota": "Autor de los experimentos."
+    },
+    {
+     "id": "campos-morficos",
+     "nota": "El autor lo liga a un campo de conciencia."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "petrodolar",
@@ -43883,6 +44457,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=2838s",
      "resumen": "El pensamiento positivista que culmina en Comte fue el siguiente paso tras Kant, Hume y Descartes hacia una ciencia en la que todo es materia y azar.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 12:30",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=750s",
+     "resumen": "Opone el positivismo y el materialismo a la «organicidad», el estudio de la vida en la vida que atribuye a la alquimia y la espagiria, y afirma que la ciencia moderna es un instrumento al servicio del poder y no del conocimiento.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -44677,6 +45260,48 @@ window.CRONO = {
    "estado": "aprobado",
    "solo_oficial": true,
    "vista": "religion"
+  },
+  {
+   "id": "proyecto-genoma-humano",
+   "tipo": "hecho",
+   "titulo": "Proyecto Genoma Humano",
+   "carril": "ciencia-saber",
+   "naturaleza": "ciencia",
+   "fecha": {
+    "desde": 1990,
+    "hasta": 2003,
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: el proyecto científico internacional que entre 1990 y 2003 secuenció la mayor parte del ADN humano.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:19:32",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4772s",
+     "resumen": "Calcula que, sumado a lo gastado en el acelerador de partículas, se habrían invertido unos 80.000 millones de euros, y dice que parte de una base reduccionista: el ADN depende de factores epigenéticos y externos y sería una antena.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Proyecto Genoma Humano comenzó en 1990 y se declaró completado en abril de 2003, con alrededor del 92 % del genoma; la secuencia sin huecos llegó después. Costó unos 2.700 millones de dólares, muy lejos de la cifra del autor, que además la mezcla con otro proyecto cuyo coste no se ha comprobado aquí. La biología reconoce el papel de la epigenética y del ambiente, pero no que el ADN sea una antena de la conciencia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Human Genome Project",
+      "url": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "adn-como-antena",
+     "nota": "El autor contrapone su visión."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "prueba-trinity-1945",
@@ -49839,6 +50464,56 @@ window.CRONO = {
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "society-for-scientific-exploration",
+   "tipo": "hecho",
+   "titulo": "Fundación de la Society for Scientific Exploration",
+   "carril": "ciencia-saber",
+   "naturaleza": "organizaciones",
+   "fecha": {
+    "desde": 1982,
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: una sociedad estadounidense, fundada en 1982, dedicada a estudiar temas que quedan en los márgenes de la ciencia; publica el Journal of Scientific Exploration.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 4:42",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=282s",
+     "resumen": "Dice que la sociedad, editora de la revista EdgeScience, la montó a mediados de los años 80 Marcello Truzzi, cofundador del movimiento escéptico, junto con el astronauta Edgar Mitchell, y que publica lo que la academia no admite, como artículos sobre una conciencia global. Le sirvió de inspiración.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "La Society for Scientific Exploration se fundó en 1982 y celebró su primera reunión en la Universidad de Maryland. Estudia temas marginales (ufología, parapsicología, criptozoología) en una revista con revisión por pares; sus críticos sostienen que se dedica a ideas muy alejadas de la corriente científica. Marcello Truzzi figura como uno de sus fundadores. La fuente consultada no recoge que Edgar Mitchell la fundara, y la fecha (1982) es anterior a la que da el autor.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Society for Scientific Exploration",
+      "url": "https://en.wikipedia.org/wiki/Society_for_Scientific_Exploration",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Marcello Truzzi",
+      "url": "https://en.wikipedia.org/wiki/Marcello_Truzzi",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "marcello-truzzi",
+     "nota": "Fundador de la sociedad (versión oficial)."
+    },
+    {
+     "id": "edgar-mitchell",
+     "nota": "Según Artur Sala, la montó con Truzzi."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
   },
   {
    "id": "sollicitudo-omnium-ecclesiarum-1814",
@@ -59809,6 +60484,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=7313s",
      "resumen": "Lo cuenta entre los taumaturgos vinculados a los jesuitas que, según él, moldeaban la realidad al servicio del poder.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 34:50",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2090s",
+     "resumen": "Muestra la representación del árbol cabalístico de Kircher y propone una analogía con los siete chakras del hinduismo.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -63154,6 +63838,53 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "edgar-mitchell",
+   "tipo": "persona",
+   "titulo": "Edgar Mitchell",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1930,
+    "hasta": 2016,
+    "fuente": "oficial"
+   },
+   "resumen": "Astronauta estadounidense del Apolo 14, sexta persona en pisar la Luna y promotor del estudio de la conciencia.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 4:42",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=282s",
+     "resumen": "Dice que Mitchell, astronauta del Apolo XIV, montó con Truzzi la sociedad que edita EdgeScience.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Edgar Mitchell (17 de septiembre de 1930 – 4 de febrero de 2016) fue piloto del módulo lunar del Apolo 14 (1971). En 1973 fundó el Institute of Noetic Sciences para investigar la conciencia. La biografía consultada no recoge que fundara la Society for Scientific Exploration.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Edgar Mitchell",
+      "url": "https://en.wikipedia.org/wiki/Edgar_Mitchell",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Society for Scientific Exploration",
+      "url": "https://en.wikipedia.org/wiki/Society_for_Scientific_Exploration",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "society-for-scientific-exploration",
+     "nota": "Según Artur Sala, la montó con Truzzi."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "edmond-james-de-rothschild",
    "tipo": "persona",
    "titulo": "Edmond James de Rothschild",
@@ -66374,6 +67105,48 @@ window.CRONO = {
     {
      "id": "sigmund-freud",
      "nota": "Alumno suyo en Viena."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "frater-albertus",
+   "tipo": "persona",
+   "titulo": "Frater Albertus",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1911,
+    "hasta": 1984,
+    "fuente": "oficial"
+   },
+   "resumen": "Seudónimo de Albert Richard Riedel, esoterista germano-estadounidense influyente en la alquimia ocultista.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 20:44",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1244s",
+     "resumen": "Usa una lámina suya para representar la cosmogonía de tres principios y cuatro elementos que dan lugar a los siete cuerpos celestes.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Albert Richard Riedel (Dresde, 5 de mayo de 1911 – 14 de julio de 1984), «Frater Albertus Spagyricus», emigró a Estados Unidos, publicó «The Alchemist's Handbook» (1960) y fundó ese año la Paracelsus Research Society en Salt Lake City.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Frater Albertus",
+      "url": "https://en.wikipedia.org/wiki/Frater_Albertus",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "cuatro-elementos-tres-principios",
+     "nota": "El autor usa una lámina suya."
     }
    ],
    "estado": "aprobado",
@@ -71038,6 +71811,57 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "isidoro-de-sevilla",
+   "tipo": "persona",
+   "titulo": "Isidoro de Sevilla",
+   "carril": "religion",
+   "temas": [
+    "ciencia-saber"
+   ],
+   "fecha": {
+    "desde": 560,
+    "hasta": 636,
+    "aprox": true,
+    "texto": "c. 560 – 636",
+    "fuente": "oficial"
+   },
+   "resumen": "Obispo de Sevilla en época visigoda y erudito, autor de las «Etimologías» y de «De natura rerum».",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 20:44",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1244s",
+     "resumen": "Muestra una lámina que atribuye a San Isidoro con los cuatro elementos (fuego, aire, tierra y agua) como ejemplo de que ese saber no era poesía sino ciencia.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Isidoro de Sevilla (probablemente c. 560 – 4 de abril de 636) fue obispo de Sevilla de 602 a 636 y autor de obras enciclopédicas como las «Etimologías» y «De natura rerum». La doctrina de los cuatro elementos es anterior a él y la química actual no la acepta.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Isidoro de Sevilla",
+      "url": "https://es.wikipedia.org/wiki/Isidoro_de_Sevilla",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Classical element",
+      "url": "https://en.wikipedia.org/wiki/Classical_element",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "cuatro-elementos-tres-principios",
+     "nota": "El autor usa una lámina suya."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "religion"
+  },
+  {
    "id": "ita-wegman",
    "tipo": "persona",
    "titulo": "Ita Wegman",
@@ -73809,6 +74633,49 @@ window.CRONO = {
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "jordi-pigem",
+   "tipo": "persona",
+   "titulo": "Jordi Pigem",
+   "carril": "ciencia-saber",
+   "naturaleza": "filosofia",
+   "fecha": {
+    "desde": 1964,
+    "hasta": null,
+    "fuente": "oficial"
+   },
+   "resumen": "Filósofo de la ciencia y escritor barcelonés, autor de ensayos sobre el posmaterialismo.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 36:58",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2218s",
+     "resumen": "Recomienda su entrevista en «La Contra» de La Vanguardia, donde Pigem, que según él se dice posmaterialista, afirma que el universo es inmaterial, mental y espiritual; Sala dice haber llegado a la misma conclusión, igual que Nacho López Cabanas.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Jordi Pigem (Barcelona, 30 de abril de 1964) es doctor en Filosofía por la Universidad de Barcelona (1998) y autor, entre otros, de «Buena crisis: hacia un mundo postmaterialista» e «Inteligencia vital». El posmaterialismo es una postura filosófica, no un resultado científico. No se ha abierto la entrevista que cita el autor.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Jordi Pigem",
+      "url": "https://es.wikipedia.org/wiki/Jordi_Pigem",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "giro-materialista-ciencia",
+     "nota": "El posmaterialismo responde a ese giro."
+    }
+   ],
+   "estado": "aprobado",
+   "vivo": true,
+   "vista": "ciencia"
   },
   {
    "id": "jose-arguelles",
@@ -76861,6 +77728,15 @@ window.CRONO = {
      "resumen": "Defiende que quienes critican a Luc Montagnier por lo del VIH desconocen la ciencia del agua que desarrolló a partir de los trabajos de Jacques Benveniste.",
      "contradice": [],
      "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:07:00",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4020s",
+     "resumen": "Dice que Montagnier esperó a recibir el Nobel de 2008 por el VIH para investigar la huella del ADN en el agua, por miedo a correr la suerte de Benveniste o Sheldrake.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -77493,6 +78369,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "marcello-truzzi",
+   "tipo": "persona",
+   "titulo": "Marcello Truzzi",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1935,
+    "hasta": 2003,
+    "fuente": "oficial"
+   },
+   "resumen": "Sociólogo estadounidense, estudioso de las anomalías y cofundador del movimiento escéptico organizado.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 4:42",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=282s",
+     "resumen": "Lo presenta como uno de los cofundadores del movimiento escéptico, que según él duró medio año antes de verse que no buscaba estudiar con espíritu crítico, y como creador a mediados de los 80 de la sociedad que edita EdgeScience.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Marcello Truzzi (6 de septiembre de 1935 – 2 de febrero de 2003) fue profesor de sociología, copresidente fundador del comité escéptico CSICOP (del que salió cerca de un año después, tras un voto de falta de confianza), fundador de la Society for Scientific Exploration y director del Center for Scientific Anomalies Research. El comité escéptico siguió existiendo tras su salida.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Marcello Truzzi",
+      "url": "https://en.wikipedia.org/wiki/Marcello_Truzzi",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "society-for-scientific-exploration",
+     "nota": "Uno de sus fundadores."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "marco-antonio-de-dominis",
    "tipo": "persona",
    "titulo": "Marco Antonio de Dominis",
@@ -77579,10 +78497,19 @@ window.CRONO = {
      "url": null,
      "resumen": "Según el autor, llevó un enorme banco de experimentos cuyos resultados, para él, demostraban que el calendario biodinámico funciona.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 15:56",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=956s",
+     "resumen": "Muestra rábanos que Thun sembró a diario durante 28 días desde el 22 de abril de 1994, con formas distintas según el día; dice que el 24 no hubo rábano porque ocurrió un eclipse de Luna, y que la forma de la materia depende de principios astrológicos y telúricos.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Maria Thun (abril de 1922 – 9 de febrero de 2012) fue una agricultora alemana. Desde los años 1950 hizo ensayos con rábanos sembrados en distintas posiciones de la Luna y, desde 1963, publicó un calendario anual de siembra, que continúa su hijo Matthias. La ciencia ortodoxa no ve evidencia de efecto lunar.",
+    "resumen": "Maria Thun (abril de 1922 – 9 de febrero de 2012) fue una agricultora alemana. Desde los años 1950 hizo ensayos con rábanos sembrados en distintas posiciones de la Luna y, desde 1963, publicó un calendario anual de siembra, que continúa su hijo Matthias. La ciencia ortodoxa no ve evidencia de efecto lunar. Sobre un eclipse que se le atribuye en esa siembra: según el catálogo de la NASA, en 1994 solo hubo eclipses de Luna el 25 de mayo y el 18 de noviembre; no hubo ninguno en abril.",
     "fuentes": [
      {
       "titulo": "Floris Books: Maria Thun biography",
@@ -77593,6 +78520,11 @@ window.CRONO = {
       "titulo": "Irish Times: Biodynamic gardening",
       "url": "https://www.irishtimes.com/life-and-style/homes-and-property/gardens/biodynamic-gardening-sound-sense-or-plain-silly-1.2715065",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "NASA: eclipses de Luna 1991-2000",
+      "url": "https://eclipse.gsfc.nasa.gov/LEdecade/LEdecade1991.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -79466,6 +80398,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=xhj0kiXCXY8&t=2443s",
      "resumen": "Según el autor, Haramein y otros hablan hoy de los toroides, pero no explican qué mueve el toro: para el autor, es el tiempo.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 56:47",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3407s",
+     "resumen": "Dice que Haramein y Dan Winter describen un universo en forma de toro basado en el número áureo, pero no qué lo alimenta; siguiendo a Kozyrev, sería el tiempo, que crea y destruye materia a cada instante.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -79758,6 +80699,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, en 1919 la RCA, con Marconi, demandó a Tesla por la radio y perdió: Tesla demostró que su sistema no usaba la ionosfera, sino ondas longitudinales por el suelo, lanzadas desde Bolinas hacia Wardenclyffe y rebotando 11,72 veces a 1,52 veces la velocidad de la luz.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 9:16",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=556s",
+     "resumen": "Lo llama el científico más importante de la historia y repite como clave de su libro la frase que le atribuye sobre estudiar los fenómenos no físicos.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -79793,6 +80743,12 @@ window.CRONO = {
      "atribuida_a": "Nikola Tesla",
      "verificacion": "sin-comprobar",
      "fuente": "Recogida por Artur Sala; pendiente de comprobar"
+    },
+    {
+     "resumen": "Que el día en que la ciencia estudie los fenómenos no físicos avanzará más en poco tiempo que en toda su historia, y que para entender el universo hay que pensar en energía, frecuencia y vibración.",
+     "atribuida_a": "Nikola Tesla",
+     "verificacion": "dudosa",
+     "fuente": "Búsqueda del 27-11-2026: circula en redes y webs sin referencia a un escrito o entrevista de Tesla; no se halló fuente primaria."
     }
    ],
    "conexiones": [
@@ -79840,7 +80796,9 @@ window.CRONO = {
      "ubicacion": "min. 30:59",
      "url": "https://www.youtube.com/watch?v=xhj0kiXCXY8&t=1859s",
      "resumen": "Según el autor, fue el único superviviente de los científicos de Púlkovo detenidos por Stalin en 1936; en el campo, a punto de morir de frío, rezó y sintió un calor que le salvó, y eso le llevó a investigar el tiempo.",
-     "contradice": []
+     "contradice": [
+      "artur-sala"
+     ]
     },
     {
      "autor": "artur-sala",
@@ -79849,15 +80807,31 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, Kozyrev sobrevivió nueve años en un gulag y, en una cámara aislada, comprobó que la entropía gira a la izquierda y la negentropía a la derecha; de ahí su teoría del tiempo y las ondas de torsión, que explicarían la telepatía, la biofotónica y el color de Goethe. Detectó un halo en la posición real del Sol y en la que tendrá dentro de ocho minutos.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 48:52",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2932s",
+     "resumen": "Dice que en 1945, tras la guerra, Stalin encerró a los astrofísicos; Kozyrev, a punto de morir, rezó y recibió el mensaje de que el tiempo es una energía, resistió más de 40 días y volvió a la universidad al morir Stalin.",
+     "contradice": [
+      "nacho-lopez-cabanas"
+     ],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Astrónomo soviético (1908–1983). Pasó diez años preso (1936–1946) y en 1958 observó una posible emisión de gases en el cráter lunar Alphonsus. Su «mecánica causal» no tiene aceptación en la física académica.",
+    "resumen": "Astrónomo soviético (1908–1983). Pasó diez años preso (1936–1946) y en 1958 observó una posible emisión de gases en el cráter lunar Alphonsus. Su «mecánica causal» no tiene aceptación en la física académica. Fue detenido el 7 de noviembre de 1936, condenado en 1937 a diez años y liberado condicionalmente en diciembre de 1946, antes de la muerte de Stalin (1953); fue rehabilitado en 1958.",
     "fuentes": [
      {
       "titulo": "Wikipedia (referencia, sin contrastar)",
       "url": "https://en.wikipedia.org/wiki/Nikolai_Aleksandrovich_Kozyrev",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia (ru): Nikolái Aleksándrovich Kózyrev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D1%8B%D1%80%D0%B5%D0%B2%2C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -79874,6 +80848,14 @@ window.CRONO = {
     {
      "id": "kozyrev-volcanismo-lunar",
      "nota": ""
+    },
+    {
+     "id": "experimento-telescopio-kozyrev",
+     "nota": "Observaciones que se le atribuyen."
+    },
+    {
+     "id": "espejos-de-kozyrev",
+     "nota": "Llevan su nombre."
     }
    ],
    "estado": "aprobado",
@@ -82439,6 +83421,57 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "piotr-gariaev",
+   "tipo": "persona",
+   "titulo": "Piotr Gariaev",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1942,
+    "hasta": 2020,
+    "fuente": "oficial"
+   },
+   "resumen": "Investigador ruso, creador de la «genética ondulatoria», considerada seudociencia.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:08:17",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4097s",
+     "resumen": "Dice que fundó la empresa Wave Genetics y que halló que la señal biofotónica del ADN diluido aumenta con cada dilución.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:09:59",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4199s",
+     "resumen": "Le atribuye haber obtenido una salamandra de un embrión de rana emitiendo sobre él la señal de un embrión de salamandra.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Piotr Petróvich Gariáyev (1 de febrero de 1942 – 17 de noviembre de 2020), candidato a doctor en Biología (1969), propuso el «genoma ondulatorio»; biólogos criticaron sus experimentos y la Wikipedia en ruso lo considera seudociencia, usada además para ofrecer remedios a enfermos graves.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (ru): Piotr Petróvich Gariáyev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%8F%D0%B5%D0%B2%2C_%D0%9F%D1%91%D1%82%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "agua-genoma-gariaev",
+     "nota": "Su teoría."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "platon",
    "tipo": "persona",
    "titulo": "Platón",
@@ -84572,10 +85605,19 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=5961s",
      "resumen": "Puso nombre moderno (campos mórficos) a lo que la tradición llamaba Akasha.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 45:06",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2706s",
+     "resumen": "Dice que a los 32 años el rector le exigió retractarse de su libro o buscar trabajo, que se negó, que un filántropo pagó sus libros y conferencias y que Richard Dawkins ha rehusado debatir con él.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Biólogo británico nacido el 28 de junio de 1942, doctor en bioquímica por Cambridge. En «Una nueva ciencia de la vida» (1981) propuso la «resonancia mórfica», una especie de memoria colectiva de la naturaleza; la hipótesis no tiene aceptación científica y muchos críticos la tachan de pseudociencia. No consta su fallecimiento en las fuentes consultadas.",
+    "resumen": "Biólogo británico nacido el 28 de junio de 1942, doctor en bioquímica por Cambridge. En «Una nueva ciencia de la vida» (1981) propuso la «resonancia mórfica», una especie de memoria colectiva de la naturaleza; la hipótesis no tiene aceptación científica y muchos críticos la tachan de pseudociencia. No consta su fallecimiento en las fuentes consultadas. Había dejado su puesto en Cambridge para trabajar en la India (1974-1978) antes de publicar su libro de 1981; la biografía consultada no recoge una exigencia de retractación.",
     "fuentes": [
      {
       "titulo": "Psi Encyclopedia (SPR): Rupert Sheldrake",
@@ -84599,6 +85641,10 @@ window.CRONO = {
     {
      "id": "teoria-tres-ejes-realidad",
      "nota": "Artur Sala lo menciona en «Teoría de los tres ejes de realidad»."
+    },
+    {
+     "id": "nueva-ciencia-de-la-vida-1981",
+     "nota": "Su libro."
     }
    ],
    "estado": "aprobado",
@@ -87218,10 +88264,19 @@ window.CRONO = {
      "url": null,
      "resumen": "Según Trallero, Reich es un autor moderno que mete en un «cajón de sastre» fuerzas formativas y movimiento; el éter tradicional es otra cosa.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 46:14",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2774s",
+     "resumen": "Lo describe como el mejor alumno de Freud entre 1925 y 1935, expulsado de las sociedades psicoanalíticas y del partido comunista, y afirma que entre 1936 y 1957 descubrió el orgón y demostró de forma irrefutable la generación espontánea.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Médico y psicoanalista austriaco (24-3-1897 – 3-11-1957), autor de «Análisis del carácter» y creador de la teoría del orgón, que la ciencia no acepta. Condenado en 1956 por desacato a una orden de la FDA, murió en la prisión de Lewisburg (EE. UU.). Nació en Dobzau, Galicia (entonces Austria-Hungría), y la familia pasó pronto a Bucovina; su madre se suicidó el 1-10-1910. Estudió derecho en Viena y cambió a medicina tras el primer semestre (título en 1922). Se trasladó a Oslo en 1934 y a Nueva York en 1939; construyó acumuladores de orgón desde 1940.",
+    "resumen": "Médico y psicoanalista austriaco (24-3-1897 – 3-11-1957), autor de «Análisis del carácter» y creador de la teoría del orgón, que la ciencia no acepta. Condenado en 1956 por desacato a una orden de la FDA, murió en la prisión de Lewisburg (EE. UU.). Nació en Dobzau, Galicia (entonces Austria-Hungría), y la familia pasó pronto a Bucovina; su madre se suicidó el 1-10-1910. Estudió derecho en Viena y cambió a medicina tras el primer semestre (título en 1922). Se trasladó a Oslo en 1934 y a Nueva York en 1939; construyó acumuladores de orgón desde 1940. La comunidad científica considera descartada la generación espontánea.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Wilhelm Reich",
@@ -87242,6 +88297,11 @@ window.CRONO = {
       "titulo": "JSTOR Daily: Wilhelm Reich, twice burned",
       "url": "https://daily.jstor.org/wilhelm-reich-twice-burned",
       "consultado": "2026-11-26"
+     },
+     {
+      "titulo": "Wikipedia (es): Generación espontánea",
+      "url": "https://es.wikipedia.org/wiki/Generaci%C3%B3n_espont%C3%A1nea",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -88302,6 +89362,84 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "adn-como-antena",
+   "tipo": "saber",
+   "titulo": "El ADN como antena de señales no materiales",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": null,
+   "resumen": "Qué es: la idea de que el ADN funciona como una antena que recibe y emite señales de luz o de otros campos, más allá de su química; la biología no la acepta.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:06:10",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3970s",
+     "resumen": "Presenta un artículo, sin nombrar a sus autores, que propone mirar el material genético como algo no material, una antena que recibe señales, con posibles aplicaciones frente a los tumores.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:08:17",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4097s",
+     "resumen": "Cita un trabajo de Igor Smirnov sobre biofotones del agua activada y atribuye a Gariaev que, al diluir ADN como en homeopatía y remover en sentido dextrógiro, la señal crecía con cada dilución.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:16:44",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4604s",
+     "resumen": "Sostiene que las mutaciones son consecuencia y no causa del cáncer y que estudiando el campo biofotónico se podría reparar el ADN y prevenir enfermedades.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:19:32",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4772s",
+     "resumen": "Afirma que el ADN es una antena de las ondas de torsión y un conector de la conciencia.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "AVISO DE SALUD: no existe ningún tratamiento del cáncer ni de otras enfermedades basado en señales biofotónicas que sustituya a la atención médica. Según el Instituto Nacional del Cáncer de EE. UU., el cáncer es una enfermedad genética: lo causan cambios en los genes que controlan las células, por errores al multiplicarse, daños ambientales en el ADN o herencia. La biología no reconoce el ADN como antena de ondas de torsión; las propuestas de Gariaev se consideran seudociencia.",
+    "fuentes": [
+     {
+      "titulo": "Instituto Nacional del Cáncer (EE. UU.): ¿Qué es el cáncer?",
+      "url": "https://www.cancer.gov/espanol/cancer/naturaleza/que-es",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (ru): Piotr Petróvich Gariáyev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%8F%D0%B5%D0%B2%2C_%D0%9F%D1%91%D1%82%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "agua-genoma-gariaev",
+     "nota": "Misma línea de ideas."
+    },
+    {
+     "id": "montagnier-adn",
+     "nota": "El autor la apoya en Montagnier."
+    },
+    {
+     "id": "biofotones",
+     "nota": "El autor la liga a los biofotones."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "agrohomeopatia-kolisko",
    "tipo": "saber",
    "titulo": "Agrohomeopatía del matrimonio Kolisko",
@@ -89212,6 +90350,15 @@ window.CRONO = {
      "url": null,
      "resumen": "Parte de la idea de que cada órgano de la planta responde a un elemento (tierra, agua, fuego, aire).",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:09:35",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=4175s",
+     "resumen": "Dice que en los preparados biodinámicos hay que remover con un palo de madera en un sentido concreto para que se grabe la intención.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -89325,10 +90472,19 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=d1O8AvtEzVQ&t=5961s",
      "resumen": "El éter da energía e información. Las constantes físicas cambian con la información, y los campos mórficos (el Akasha) lo muestran: experimentos de los años 50 vieron cómo ratas transmitían lo aprendido a otras a distancia. El «centésimo mono» sería una distorsión.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 37:50",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2270s",
+     "resumen": "Los explica como campos de forma que guían las proteínas y pone como indicio que el punto de ebullición de la aspirina habría subido 15 grados en 150 años y que fabricarla requeriría cada vez menos catalizadores.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Qué es: la hipótesis de Rupert Sheldrake, de 1981, de que la forma y el comportamiento se transmiten por resonancia con lo que ya existió. Sheldrake propuso la resonancia mórfica en «Una nueva ciencia de la vida» (1981). Las ratas proceden de experimentos de William McDougall en Harvard (años 20 en adelante), repetidos en Edimburgo y Melbourne; en Melbourne también mejoró la línea de ratas no entrenadas, sin explicación clara. La comunidad científica no acepta la hipótesis por falta de efectos replicados de forma independiente.",
+    "resumen": "Qué es: la hipótesis de Rupert Sheldrake, de 1981, de que la forma y el comportamiento se transmiten por resonancia con lo que ya existió. Sheldrake propuso la resonancia mórfica en «Una nueva ciencia de la vida» (1981). Las ratas proceden de experimentos de William McDougall en Harvard (años 20 en adelante), repetidos en Edimburgo y Melbourne; en Melbourne también mejoró la línea de ratas no entrenadas, sin explicación clara. La comunidad científica no acepta la hipótesis por falta de efectos replicados de forma independiente. No se ha hallado fuente que confirme el dato sobre la temperatura y los catalizadores de la aspirina.",
     "fuentes": [
      {
       "titulo": "The Spectator (1981): reseña de A New Science of Life",
@@ -89350,6 +90506,14 @@ window.CRONO = {
     {
      "id": "quintaesencia",
      "nota": "Según Artur Sala, los campos mórficos son el Akasha, ligado al éter de las tradiciones."
+    },
+    {
+     "id": "experimento-rimas-japonesas-sheldrake",
+     "nota": "Prueba citada como apoyo."
+    },
+    {
+     "id": "perro-jaytee-sheldrake",
+     "nota": "Otro experimento citado."
     }
    ],
    "estado": "aprobado",
@@ -89641,6 +90805,15 @@ window.CRONO = {
      "url": null,
      "resumen": "Según Trallero, el andrógino de la edad de oro simboliza el estado de no dualidad que busca la alquimia, y Saturno-Cronos es el regente de esa edad.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 35:13",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=2113s",
+     "resumen": "Dice que el tiempo tradicional es cualitativo y sagrado: una edad de oro (Hiperbórea, según algunos), una de plata (quizá la Atlántida, cosa discutible), la de bronce o de los héroes, cuyo paso a la actual narraría el Mahabharata, y la era oscura de hoy.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -90304,6 +91477,68 @@ window.CRONO = {
     {
      "id": "instituto-tavistock",
      "nota": "Segunda estación: la manipulación de masas."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "cuatro-elementos-tres-principios",
+   "tipo": "saber",
+   "titulo": "Los cuatro elementos y los tres principios",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "fecha": {
+    "desde": -450,
+    "hasta": 1700,
+    "aprox": true,
+    "texto": "de la Antigüedad a la alquimia moderna",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: la doctrina tradicional que explica la materia con cuatro elementos (fuego, aire, agua y tierra) y, en la alquimia, tres principios (azufre, mercurio y sal).",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 20:44",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1244s",
+     "resumen": "Sostiene que en todas las tradiciones la materia está hecha de cuatro elementos y tres principios, dos masculinos (fuego, aire) y dos femeninos (agua, tierra), que dan lugar a los siete astros; de ahí saldrían los tres doshas del ayurveda y los cinco elementos chinos, que enumera como fuego, agua, metal, tierra y aire.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 29:04",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1744s",
+     "resumen": "Añade que las doce constelaciones son doce porque resultan de cuatro elementos por tres, con tres signos de cada elemento.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "En Occidente, Empédocles (hacia 450 a. C.) fue el primero en proponer juntos fuego, tierra, aire y agua; Aristóteles, la medicina antigua y la alquimia medieval los desarrollaron. La ciencia moderna no usa esos elementos para clasificar las sustancias. El sistema chino de las cinco fases (wuxing) no coincide con la lista del autor: son madera, fuego, tierra, metal y agua, sin aire, y se entienden más como fases de un proceso que como sustancias.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Classical element",
+      "url": "https://en.wikipedia.org/wiki/Classical_element",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Wuxing (Chinese philosophy)",
+      "url": "https://en.wikipedia.org/wiki/Wuxing_%28Chinese_philosophy%29",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "quintaesencia",
+     "nota": "El autor la presenta como origen de la materia."
+    },
+    {
+     "id": "tres-ciencias-iniciaticas",
+     "nota": "Base del saber tradicional según el autor."
     }
    ],
    "estado": "aprobado",
@@ -91307,6 +92542,126 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "esferas-de-influencia-astrologia",
+   "tipo": "saber",
+   "titulo": "Las esferas de influencia de la astrología",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "fecha": {
+    "desde": -400,
+    "hasta": 1700,
+    "aprox": true,
+    "texto": "de la Antigüedad a la Edad Moderna",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: la lectura que entiende los esquemas antiguos de esferas alrededor de la Tierra como el mapa de la influencia de cada astro sobre la vida.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 24:19",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1459s",
+     "resumen": "Sostiene que los antiguos sabían que la Tierra gira alrededor del Sol y que los esquemas con la Tierra en el centro representan esferas de influencia; Saturno aceleraría el crecimiento de las plantas sembradas en sus días y horas. La astrología sería la gran ciencia y la astronomía, solo el cálculo.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 29:04",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1744s",
+     "resumen": "Dice que ese saber se preservó en obras como una del siglo XVI y que la Biblioteca del Arsenal de París guarda más de cien mil «incunables», que define como libros que no se pueden imprimir, anteriores a la imprenta.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El geocentrismo, que sitúa la Tierra en el centro con los astros girando a su alrededor, fue la visión predominante en muchas civilizaciones antiguas y se tomó como descripción del cosmos; el modelo de Ptolomeo (siglo II) estuvo vigente hasta que en el siglo XVI lo sustituyó el heliocéntrico de Copérnico. La influencia astrológica sobre plantas o personas no está demostrada. Un incunable no es un libro que no se pueda imprimir: es un libro impreso en los comienzos de la imprenta europea, hasta el año 1500. No se ha comprobado la cifra de la Biblioteca del Arsenal.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Teoría geocéntrica",
+      "url": "https://es.wikipedia.org/wiki/Teor%C3%ADa_geoc%C3%A9ntrica",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Incunable",
+      "url": "https://en.wikipedia.org/wiki/Incunable",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Biblioteca del Arsenal",
+      "url": "https://es.wikipedia.org/wiki/Biblioteca_del_Arsenal",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "tres-ciencias-iniciaticas",
+     "nota": "La astrología es una de ellas."
+    },
+    {
+     "id": "cuatro-elementos-tres-principios",
+     "nota": "Mismo esquema cosmológico."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
+   "id": "espejos-de-kozyrev",
+   "tipo": "saber",
+   "titulo": "Los «espejos de Kózyrev»",
+   "carril": "ciencia-saber",
+   "naturaleza": "teoria-alternativa",
+   "fecha": {
+    "desde": 1990,
+    "hasta": 1991,
+    "aprox": true,
+    "texto": "comienzos de los años 90",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: unas instalaciones reflectantes usadas en Novosibirsk en pruebas de percepción extrasensorial; llevan el nombre de Kózyrev, aunque ese nombre se popularizó después de su muerte.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:02:18",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3738s",
+     "resumen": "Atribuye a Kozyrev un experimento en el que personas dentro del espejo, con casco de aluminio, enviaban 128 símbolos a receptores en Siberia, con hasta un 95 % de aciertos en niños de origen chamánico; el casco potenciaría la telepatía y por eso faraones y emperadores irían con casco.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Kózyrev murió en 1983. Según la Wikipedia en ruso, no tuvo nada que ver con la construcción ni con el efecto que llevan su nombre: el término lo habría popularizado Vlail Kaznachéyev después, y las pruebas se hicieron a comienzos de los años 90 en su instituto de Novosibirsk. El académico E. Krugliakov criticó el anuncio de una sesión telepática en 1991. No consta publicación científica que confirme la telepatía ni la cifra del 95 %.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (ru): Vlail Petróvich Kaznachéyev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%B5%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B8%D0%BB%D1%8C_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (ru): Nikolái Aleksándrovich Kózyrev",
+      "url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7%D1%8B%D1%80%D0%B5%D0%B2%2C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "nikolai-kozyrev",
+     "nota": "Dan nombre al artilugio."
+    },
+    {
+     "id": "parapsicologia-urss",
+     "nota": "Pruebas del instituto de Kaznachéyev."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "estados-ampliados-de-conciencia",
    "tipo": "saber",
    "titulo": "Estados ampliados de conciencia como herramienta terapéutica y evolutiva",
@@ -91929,6 +93284,24 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, el triunfo de la visión materialista se produjo en tres momentos: la interpretación radical de la lógica aristotélica, la separación cartesiana entre pensamiento y materia, y el siglo XIX de Darwin y Marx.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 14:26",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=866s",
+     "resumen": "Distingue ciencia de técnica: sostiene que no puede hacerse investigación fundamental partiendo de la tecnología (cita el MIT) y que la ciencia de base sigue tan muerta como en el siglo XIX.",
+     "contradice": [],
+     "coincide": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 1:00:00",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3600s",
+     "resumen": "Concluye que el materialismo es una creencia, que la materia resulta de la conciencia, que no hay dualidad onda-partícula (el electrón sería un toroide) y que la astrología ya podría demostrarse; él mismo era materialista en 2008.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
@@ -91958,6 +93331,10 @@ window.CRONO = {
     {
      "id": "charles-darwin",
      "nota": "Tercer momento de la tesis."
+    },
+    {
+     "id": "jordi-pigem",
+     "nota": "Posmaterialismo que el autor cita."
     }
    ],
    "estado": "aprobado",
@@ -92978,6 +94355,59 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "mercurio-ayurveda-rasashastra",
+   "tipo": "saber",
+   "titulo": "El mercurio en la medicina ayurvédica (rasashastra)",
+   "carril": "ciencia-saber",
+   "naturaleza": "saber-ancestral",
+   "fecha": {
+    "desde": 800,
+    "aprox": true,
+    "texto": "textos desde comienzos del siglo IX",
+    "fuente": "oficial"
+   },
+   "resumen": "Qué es: la rama de la medicina ayurvédica que procesa metales y minerales, sobre todo mercurio, para usarlos como remedios; la toxicidad de esos metales está documentada.",
+   "segun": [
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 31:05",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1865s",
+     "resumen": "Recomienda la película «Ayurveda, el arte de vivir», donde un médico de estirpe antigua somete el mercurio, tóxico, a un proceso alquímico hasta convertirlo en un medicamento que desintoxica de metales pesados; lo presenta como ejemplo de la alquimia, que ennoblece la materia.",
+     "contradice": [],
+     "coincide": []
+    }
+   ],
+   "oficial": {
+    "resumen": "AVISO DE SALUD: no ingerir preparados con mercurio. La medicina moderna considera el mercurio tóxico por sí mismo, no por sus impurezas, y se han documentado intoxicaciones con compuestos de rasashastra; un estudio de 2008 halló plomo, mercurio o arsénico en uno de cada cinco medicamentos ayurvédicos comprados por internet, con más frecuencia en los de rasashastra. Sus practicantes sostienen que bien preparados son seguros; no está demostrado que actúen como quelantes. La película «Ayurveda: Art of Being» (2001) es un documental de Pan Nalin.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Rasashastra",
+      "url": "https://en.wikipedia.org/wiki/Rasashastra",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "ScienceDaily (Boston University), 2008: metales en medicamentos ayurvédicos vendidos en internet",
+      "url": "https://www.sciencedaily.com/releases/2008/08/080826190850.htm",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Pandora Film: Ayurveda, Art of Being",
+      "url": "https://www.pandorafilm.com/filmography/ayurveda-art-of-being.html",
+      "consultado": "2026-11-27"
+     }
+    ]
+   },
+   "conexiones": [
+    {
+     "id": "cuatro-elementos-tres-principios",
+     "nota": "El autor liga el ayurveda a los elementos."
+    }
+   ],
+   "estado": "aprobado",
+   "vista": "ciencia"
+  },
+  {
    "id": "meridianos-tejido-conjuntivo-acupuntura",
    "tipo": "saber",
    "titulo": "Meridianos como planos de tejido conjuntivo y respaldo científico de la acupuntura",
@@ -93082,10 +94512,19 @@ window.CRONO = {
      "url": null,
      "resumen": "En ella Goethe propone buscar el arquetipo de la planta y primar lo cualitativo sobre lo cuantitativo.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 19:37",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=1177s",
+     "resumen": "Sostiene que en este libro Goethe explica las formas de las plantas por cuatro fuerzas formativas (fuego, aire, agua y tierra) y que de ahí procede lo que muestran los rábanos; llama a Goethe el mayor científico del siglo XIX.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
-    "resumen": "Qué es: «Intento de explicar la metamorfosis de las plantas» es una obra de botánica escrita por Goethe en 1790. Por ella se considera a Goethe cofundador de la morfología comparada. Veintisiete años después volvió a escribirla como una serie de artículos de morfología titulados «Metamorfosis de las plantas». «Versuch die Metamorphose der Pflanzen zu erklären» se publicó en 1790, tras el viaje de Goethe a Italia (1786-1788). Sostiene que todas las partes de la planta son variaciones de la hoja y se considera un antecedente de la morfología vegetal. Los cuatro elementos asignados a las partes de la planta no figuran en la obra de Goethe, sino en la tradición biodinámica posterior.",
+    "resumen": "Qué es: «Intento de explicar la metamorfosis de las plantas» es una obra de botánica escrita por Goethe en 1790. Por ella se considera a Goethe cofundador de la morfología comparada. Veintisiete años después volvió a escribirla como una serie de artículos de morfología titulados «Metamorfosis de las plantas». «Versuch die Metamorphose der Pflanzen zu erklären» se publicó en 1790, tras el viaje de Goethe a Italia (1786-1788). Sostiene que todas las partes de la planta son variaciones de la hoja y se considera un antecedente de la morfología vegetal. Los cuatro elementos asignados a las partes de la planta no figuran en la obra de Goethe, sino en la tradición biodinámica posterior. El resumen consultado de la obra (1790) explica los órganos de la planta como transformaciones de la hoja y no menciona los cuatro elementos; la botánica la valora hoy sobre todo por su interés histórico.",
     "fuentes": [
      {
       "titulo": "Linda Hall Library: Johann Wolfgang von Goethe",
@@ -93096,6 +94535,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Intento de explicar la metamorfosis de las plantas",
       "url": "https://es.wikipedia.org/wiki/Intento_de_explicar_la_metamorfosis_de_las_plantas",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (de): Versuch die Metamorphose der Pflanzen zu erklären",
+      "url": "https://de.wikipedia.org/wiki/Versuch_die_Metamorphose_der_Pflanzen_zu_erkl%C3%A4ren",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -93920,6 +95364,15 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=SpMExDKTRzc",
      "resumen": "Según el autor, Kozyrev comprobó en una cámara aislada que los procesos de entropía giran a la izquierda y los de negentropía a la derecha; su teoría del tiempo y las ondas de torsión explicarían la telepatía, la biofotónica y el color de Goethe.",
      "contradice": []
+    },
+    {
+     "autor": "artur-sala",
+     "obra": "magna-ciencia-presentacion",
+     "ubicacion": "min. 53:34",
+     "url": "https://www.youtube.com/watch?v=pFFTjUbH2Iw&t=3214s",
+     "resumen": "Dice que, según Kozyrev, las ondas del pasado giran a la izquierda y las del futuro a la derecha, que un péndulo sensible es atraído por una planta que crece y gira al revés cuando muere, y que su superposición, como la que Reich describió en 1951, crea la materia del presente.",
+     "contradice": [],
+     "coincide": []
     }
    ],
    "oficial": {
