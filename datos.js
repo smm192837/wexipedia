@@ -59222,6 +59222,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Christian I of Anhalt-Bernburg",
       "url": "https://en.wikipedia.org/wiki/Christian_I_of_Anhalt-Bernburg",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Cristián I de Anhalt-Bernburg",
+      "url": "https://es.wikipedia.org/wiki/Cristi%C3%A1n_I_de_Anhalt-Bernburg",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59241,6 +59246,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Príncipe alemán de la casa de Ascania (11 de mayo de 1568 - 17 de abril de 1630), gobernador del Alto Palatinado desde 1595 y principal consejero del elector Federico IV."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tuvo un papel destacado en la formación de la Unión Protestante en 1608, sirvió luego a Federico V y mandó las tropas en Bohemia, derrotadas en la Montaña Blanca en 1620. Fue proscrito del Imperio en 1621 y se refugió en Suecia y Dinamarca."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, amigo de Sarpi, asesoraba a Federico V, y en 1875 se halló correspondencia entre ambos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en la Unión y junto a Federico V consta. En lo buscado no aparecen Sarpi ni la correspondencia."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -60525,6 +60552,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Diplomático, coleccionista y secretario de Estado inglés (10 de marzo de 1573 - 15 de febrero de 1632), formado en Westminster y Oxford."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Embajador en Venecia desde 1610, ayudó a cerrar el tratado de Asti, protegió a perseguidos por la Inquisición y en 1613 encargó a Sarpi un informe para el rey. En 1616 pasó a embajador en las Provincias Unidas. Llegó a vizconde de Dorchester."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, habló de «poner a toda la cristiandad en combustión»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su trato con Sarpi consta. La frase no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -61005,6 +61054,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://wikipedia.com/wiki/Edwin_Sandys_(died_1629)",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Edwin Sandys (1561–1629)",
+      "url": "https://en.wikipedia.org/wiki/Edwin_Sandys_(1561%E2%80%931629)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61020,6 +61074,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político inglés (9 de diciembre de 1561 - octubre de 1629), diputado en varias legislaturas entre 1589 y 1626. Viajó por el extranjero de 1593 a 1599."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En Venecia se relacionó estrechamente con Paolo Sarpi, que le ayudó a componer un tratado sobre el estado religioso de Europa, impreso en 1605 desde una copia robada. Participó en la Compañía de las Indias Orientales y fue uno de los fundadores de la Virginia Company, su tesorero desde 1619, cuando repartió tierras para atraer colonos e inversores."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, como fundador de la Virginia Company informaba a Sarpi del oro español y de la flota holandesa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La amistad con Sarpi y su papel en la compañía constan. En lo buscado no aparecen informes sobre oro ni flotas."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -66544,6 +66620,11 @@ window.CRONO = {
       "titulo": "Deutsche Biographie",
       "url": "https://www.deutsche-biographie.de/gnd12132141X.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Jindřich Matyáš Thurn",
+      "url": "https://en.wikipedia.org/wiki/Jind%C5%99ich_Maty%C3%A1%C5%A1_Thurn",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -66559,6 +66640,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Noble nacido en Innsbruck el 24 de febrero de 1567 y muerto en enero de 1640, de la familia Thurn-Valsassina, que en italiano se llamaba della Torre."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue uno de los jefes de la revuelta protestante de Bohemia contra Fernando II, participó en los hechos que llevaron a la Guerra de los Treinta Años y luego sirvió a Suecia como militar y diplomático; vivió en la Estonia sueca. Escribió una justificación de la defenestración de 1618 como defensa de su fe."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, era de la rama veneciana Della Torre (Thurn und Taxis)."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen della Torre del apellido consta. En los pasajes buscados no se le liga a la rama Thurn und Taxis ni a Venecia."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -66903,6 +67006,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Henry Wotton",
       "url": "https://en.wikipedia.org/wiki/Henry_Wotton",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Henry Wotton",
+      "url": "https://es.wikipedia.org/wiki/Henry_Wotton",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -66918,6 +67026,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor, diplomático y político inglés (30 de marzo de 1568 - diciembre de 1639), formado en Winchester y Oxford."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Embajador de Jacobo I, pasó gran parte de unos veinte años en Venecia, apoyó al dux frente a las pretensiones eclesiásticas y trató mucho con Sarpi. Es autor de la frase sobre el embajador como hombre honrado enviado a mentir por su país. Acabó como director del colegio de Eton."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, admirador de Sarpi, reclutó el círculo proveneciano de Oxford y propuso una alianza protestante con Venecia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación con Sarpi consta. En lo buscado no aparecen el círculo de Oxford ni la propuesta de alianza."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68900,6 +69030,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Jacobo I",
       "url": "https://es.wikipedia.org/wiki/Jacobo_I_de_Inglaterra"
+     },
+     {
+      "titulo": "Wikipedia (es): Jacobo I de Inglaterra y VI de Escocia",
+      "url": "https://es.wikipedia.org/wiki/Jacobo_I_de_Inglaterra_y_VI_de_Escocia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): James VI and I",
+      "url": "https://en.wikipedia.org/wiki/James_VI_and_I",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68915,6 +69055,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo de María Estuardo, nacido en Edimburgo el 19 de junio de 1566; rey de Escocia desde 1567 y de Inglaterra e Irlanda desde 1603 hasta su muerte en 1625."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Gobernó con acierto en Escocia y chocó en Inglaterra con el Parlamento, sobre todo por los impuestos; sufrió la Conspiración de la Pólvora de 1605. Mantuvo la paz con España gran parte del reinado, ordenó la Biblia que lleva su nombre y escribió contra la brujería y el tabaco. Toleró en la práctica a muchos católicos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Wotton propuso una alianza protestante con Venecia y Sarpi ideó una guerra de Jacobo contra el papa; el autor lo llama «rey pederasta» y «degenerado reyezuelo»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La tradición historiográfica de su mala fama arranca a mediados del XVII y los historiadores actuales lo consideran inteligente y reflexivo. En lo buscado no aparece el plan de guerra contra el papa."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -75265,6 +75427,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Mauricio de Nassau",
       "url": "https://es.wikipedia.org/wiki/Mauricio_de_Nassau",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Maurice, Prince of Orange",
+      "url": "https://en.wikipedia.org/wiki/Maurice,_Prince_of_Orange",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -75280,6 +75447,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Hijo de Guillermo de Orange y Ana de Sajonia, nacido en Dillenburg el 14 de noviembre de 1567; murió en La Haya en abril de 1625."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estatúder de las provincias del norte de los Países Bajos de 1584 a 1625 y uno de los grandes jefes militares de la guerra contra España."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, en la guerra de los uscocos bloqueó el Adriático."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo buscado no aparece Mauricio en esa guerra. Lo leído sobre ella nombra a Juan Ernesto de Nassau-Siegen como reclutador de tropas para Venecia y a una flotilla holandesa e inglesa que bloqueó la ayuda española."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -80472,6 +80661,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Robert Cecil",
       "url": "https://es.wikipedia.org/wiki/Robert_Cecil",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Robert Cecil, 1st Earl of Salisbury",
+      "url": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -80487,6 +80681,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Estadista inglés (1 de junio de 1563 - 24 de mayo de 1612), hijo menor de lord Burghley y primo hermano de Francis Bacon; primer conde de Salisbury."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Secretario de Estado desde 1596 y lord tesorero desde 1608, dirigió el gobierno en el paso de los Tudor a los Estuardo en 1603. Fue el principal descubridor de la Conspiración de la Pólvora de 1605; se discute desde cuándo la conocía y si actuó como agente provocador."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, estuvo con Bacon al frente del «Venetian Party» de Londres, «el primer partido político inglés»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El parentesco con Bacon consta. En lo buscado no aparece ningún partido veneciano. Aviso: la Wikipedia en español que cita la versión oficial de la ficha trata de otro Robert Cecil, nacido en 1864."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
