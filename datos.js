@@ -8371,7 +8371,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Dinastía que dio emperadores del Sacro Imperio, reyes de España (1516-1700) y emperadores de Austria y Austria-Hungría hasta 1918; la casa de Liechtenstein es una dinastía distinta. Maximiliano de Habsburgo fue emperador de México (1864-1867). Pendiente de contrastar.",
+    "resumen": "Dinastía que dio emperadores del Sacro Imperio, reyes de España (1516-1700) y emperadores de Austria y Austria-Hungría hasta 1918; la casa de Liechtenstein es una dinastía distinta. Maximiliano de Habsburgo fue emperador de México (1864-1867).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Casa de Habsburgo",
@@ -8380,6 +8380,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): House of Habsburg",
       "url": "https://en.wikipedia.org/wiki/House_of_Habsburg",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Maximiliano de México",
+      "url": "https://es.wikipedia.org/wiki/Maximiliano_de_M%C3%A9xico",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Casa de Liechtenstein",
+      "url": "https://es.wikipedia.org/wiki/Casa_de_Liechtenstein",
       "consultado": "2026-11-27"
      }
     ]
@@ -8405,7 +8415,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Rodolfo I fue elegido rey de romanos en 1273 y venció a Ottokar II de Bohemia, con lo que la casa ganó Austria y Estiria, entre otras tierras. Desde 1438 ocupó casi sin interrupción el trono del Sacro Imperio hasta su disolución en 1806. Con Carlos V se dividió en dos ramas: la española se extinguió en 1700 y la austriaca, en línea masculina, en 1780, continuada por los Habsburgo-Lorena. Reinó en Hungría y Bohemia hasta 1918, en España de 1516 a 1700 y en México de 1863 a 1867."
+     "texto": "Rodolfo I fue elegido rey de romanos en 1273 y venció a Ottokar II de Bohemia, con lo que la casa ganó Austria y Estiria, entre otras tierras. Desde 1438 ocupó casi sin interrupción el trono del Sacro Imperio hasta su disolución en 1806. Con Carlos V se dividió en dos ramas: la española se extinguió en 1700 y la austriaca, en línea masculina, en 1780, continuada por los Habsburgo-Lorena. Reinó en Hungría y Bohemia hasta 1918, en España de 1516 a 1700 y en México de 1864 a 1867."
     },
     {
      "titulo": "Seguir el dinero",
@@ -8420,7 +8430,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El imperio mexicano de Maximiliano y el fin en 1918 constan. En lo buscado no aparecen Kalergi ni Liechtenstein."
+     "texto": "El imperio mexicano de Maximiliano y el fin en 1918 constan. En lo buscado no aparece Kalergi. La casa de Liechtenstein toma su nombre de un castillo propio en la Baja Austria y se trata como dinastía distinta."
     }
    ],
    "naturaleza": "gobiernos",
@@ -8663,7 +8673,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Alessandro Farnese fue papa (Pablo III) de 1534 a 1549 y los Farnese gobernaron el ducado de Parma y Piacenza de 1545 a 1731; los Borbones de Nápoles heredaron sus derechos por Isabel de Farnesio. El Palazzo della Farnesina, sede del ministerio de Exteriores, es un edificio del siglo XX que toma su nombre de la zona. Pendiente de contrastar.",
+    "resumen": "Alessandro Farnese fue papa (Pablo III) de 1534 a 1549 y los Farnese gobernaron el ducado de Parma y Piacenza de 1545 a 1731; los Borbones de Nápoles heredaron sus derechos por Isabel de Farnesio. El Palazzo della Farnesina, sede del ministerio de Exteriores, es un edificio del siglo XX que toma su nombre de la zona.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Familia Farnesio",
@@ -8677,6 +8687,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): House of Farnese",
       "url": "https://en.wikipedia.org/wiki/House_of_Farnese",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Palazzo della Farnesina",
+      "url": "https://it.wikipedia.org/wiki/Palazzo_della_Farnesina",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Paulo III",
+      "url": "https://es.wikipedia.org/wiki/Paulo_III",
       "consultado": "2026-11-27"
      }
     ]
@@ -8717,7 +8737,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La herencia a los Borbones por Isabel de Farnesio consta. La iglesia del Gesù se liga a la familia, pero en lo buscado no aparece que ella estableciera a los jesuitas, ni nada sobre la Farnesina o el Pentágono."
+     "texto": "La herencia a los Borbones por Isabel de Farnesio consta. La iglesia del Gesù se liga a la familia, pero en lo buscado no aparece que ella estableciera a los jesuitas ni nada sobre el Pentágono. El palacio de la Farnesina, sede de Exteriores, empezó a construirse en 1937 pensado para el partido fascista y toma el nombre de unos terrenos que habían sido de Pablo III; en lo leído no consta que sea de los Farnese."
     }
    ],
    "naturaleza": "gobiernos",
@@ -8753,7 +8773,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Familia noble de origen genovés fundada por Francisco Grimaldi, que en 1297 tomó el señorío de Mónaco con sus soldados vestidos de franciscanos. Sus sucesores han reinado en el principado hasta hoy. Mónaco fue protectorado del Reino de Cerdeña (Saboya) entre 1815 y 1861. Pendiente de contrastar.",
+    "resumen": "Familia noble de origen genovés fundada por Francisco Grimaldi, que en 1297 tomó el señorío de Mónaco con sus soldados vestidos de franciscanos. Sus sucesores gobiernan el principado hasta hoy, con la interrupción de la ocupación francesa durante la Revolución y, desde 1731, por línea femenina (Goyon-Matignon). Mónaco fue protectorado del Reino de Cerdeña (Saboya) entre 1815 y 1861.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Casa de Grimaldi",
@@ -8762,6 +8782,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): House of Grimaldi",
       "url": "https://en.wikipedia.org/wiki/House_of_Grimaldi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Historia de Mónaco",
+      "url": "https://es.wikipedia.org/wiki/Historia_de_M%C3%B3naco",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): History of Monaco",
+      "url": "https://en.wikipedia.org/wiki/History_of_Monaco",
       "consultado": "2026-11-27"
      }
     ]
@@ -8787,7 +8817,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Según la tradición, Francisco Grimaldi tomó Mónaco en 1297 con sus hombres disfrazados de franciscanos; la Wikipedia en inglés considera el relato en gran parte anecdótico. Franceses revolucionarios ocuparon Mónaco en 1792 y lo tuvieron hasta 1815; el Congreso de Viena restableció el principado. Desde 1731 reinan por línea femenina los Goyon-Matignon."
+     "texto": "Según la tradición, Francisco Grimaldi tomó Mónaco en 1297 con sus hombres disfrazados de franciscanos; la Wikipedia en inglés considera el relato en gran parte anecdótico. Francia ocupó Mónaco durante la Revolución, desde 1792 o 1793 según la fuente, hasta 1814-1815; el Congreso de Viena restableció el principado. Desde 1731 reinan por línea femenina los Goyon-Matignon."
     },
     {
      "titulo": "Seguir el dinero",
@@ -9926,6 +9956,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Quirinius",
       "url": "https://en.wikipedia.org/wiki/Quirinius",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "LacusCurtius: Res Gestae Divi Augusti",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/2*.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -9946,7 +9981,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Según la traducción leída, en su sexto consulado, con Agripa de colega, contó 4.063.000 ciudadanos; en el 8 a. C., 4.230.000; y en el 14 d. C., con Tiberio, 4.937.000. Otro censo es el de Quirinio: nombrado legado de Siria tras la destitución de Arquelao, hizo en Judea, el año 6 d. C., el recuento de los bienes para fijar el impuesto. Según Flavio Josefo, provocó una revuelta encabezada por Judas el Galileo."
+     "texto": "Según la traducción leída, en su sexto consulado, con Agripa de colega, contó 4.063.000 ciudadanos; en el 8 a. C., 4.233.000; y en el 14 d. C., con Tiberio, 4.937.000. Otro censo es el de Quirinio: nombrado legado de Siria tras la destitución de Arquelao, hizo en Judea, el año 6 d. C., el recuento de los bienes para fijar el impuesto. Según Flavio Josefo, provocó una revuelta encabezada por Judas el Galileo."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -9956,7 +9991,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El censo de bienes con fines fiscales consta para Judea en el año 6 d. C. En lo leído no aparece un censo de todo el Imperio hacia el 4 a. C.; las cifras de Augusto son de ciudadanos. El Evangelio de Lucas liga el censo de Quirinio al nacimiento de Jesús y el de Mateo sitúa el nacimiento bajo Herodes, muerto antes: la contradicción sigue discutida. La traducción leída da 4.230.000 para el 8 a. C. y la ficha 4.233.000."
+     "texto": "El censo de bienes con fines fiscales consta para Judea en el año 6 d. C. En lo leído no aparece un censo de todo el Imperio hacia el 4 a. C.; las cifras de Augusto son de ciudadanos. El Evangelio de Lucas liga el censo de Quirinio al nacimiento de Jesús y el de Mateo sitúa el nacimiento bajo Herodes, muerto antes: la contradicción sigue discutida. Para el 8 a. C., las traducciones de LacusCurtius y Livius dan 4.233.000; la de Fordham, 4.230.000."
     }
    ],
    "vista": "politica"
@@ -22444,7 +22479,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«el año sexto antes de Cristo, más o menos»",
-   "resumen": "Nápoles nace de colonias griegas (Parténope y Neápolis) entre los siglos VIII y VI a. C.; la zona fue de lengua griega y pasó a dominio romano en el siglo IV a. C. Pendiente de contrastar.",
+   "resumen": "Nápoles nace de colonias griegas (Parténope y Neápolis) entre los siglos VIII y VI a. C.; la zona fue de lengua griega y pasó a dominio romano en el siglo IV a. C.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -22456,7 +22491,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Nápoles nace de colonias griegas (Parténope y Neápolis) entre los siglos VIII y VI a. C.; la zona fue de lengua griega y pasó a dominio romano en el siglo IV a. C. Pendiente de contrastar.",
+    "resumen": "Nápoles nace de colonias griegas (Parténope y Neápolis) entre los siglos VIII y VI a. C.; la zona fue de lengua griega y pasó a dominio romano en el siglo IV a. C.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Nápoles",
@@ -22465,6 +22500,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Naples",
       "url": "https://en.wikipedia.org/wiki/Naples",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Historia de Nápoles",
+      "url": "https://es.wikipedia.org/wiki/Historia_de_N%C3%A1poles",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): History of Naples",
+      "url": "https://en.wikipedia.org/wiki/History_of_Naples",
       "consultado": "2026-11-27"
      }
     ]
@@ -22623,13 +22668,13 @@ window.CRONO = {
     "resumen": "La Garduña es una sociedad criminal supuestamente fundada en Toledo en 1417. No hay documentación contemporánea que la acredite y los historiadores la consideran una leyenda o una invención literaria.",
     "fuentes": [
      {
-      "titulo": "Wikipedia: Garduña",
-      "url": "https://es.wikipedia.org/wiki/Gardu%C3%B1a",
-      "consultado": "2026-11-14"
-     },
-     {
       "titulo": "Wikipedia (es): La Garduña (sociedad secreta)",
       "url": "https://es.wikipedia.org/wiki/La_Gardu%C3%B1a_(sociedad_secreta)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Garduña",
+      "url": "https://en.wikipedia.org/wiki/Gardu%C3%B1a",
       "consultado": "2026-11-27"
      }
     ]
@@ -22665,7 +22710,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Que la leyenda circula consta; que la sociedad existiera no está probado. La fecha de fundación varía entre la ficha (1417) y lo leído (hacia 1412)."
+     "texto": "Que la leyenda circula consta; que la sociedad existiera no está probado. La fecha de fundación varía: 1417 según la Wikipedia en inglés, que sitúa estatutos en 1420, y hacia 1412 según la española."
     }
    ],
    "naturaleza": "gobiernos",
@@ -23568,7 +23613,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: el Tiempo de los Disturbios (1598-1613) empezó al morir sin hijos Fiódor I, último Rúrikida; siguieron golpes, hambruna (1601-03), pretendientes falsos e intervención polaca y sueca. El 3-3-1613 una asamblea (Zemski Sobor) eligió zar a Miguel Románov. El «exterminio de la dinastía de la Horda» y la división del imperio mundial no figuran en las fuentes.",
+    "resumen": "El Tiempo de los Disturbios (1598-1613) empezó al morir sin hijos Fiódor I, último Rúrikida; siguieron golpes, hambruna (1601-03), pretendientes falsos e intervención polaca y sueca. El 3-3-1613 una asamblea (Zemski Sobor) eligió zar a Miguel Románov. El «exterminio de la dinastía de la Horda» y la división del imperio mundial no figuran en las fuentes.",
     "fuentes": [
      {
       "titulo": "Time of Troubles, Britannica",
@@ -24314,7 +24359,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: la Guerra de Livonia (1558-1583) enfrentó a Rusia de Iván IV con la Orden Livona y luego con Polonia-Lituania, Suecia y Dinamarca por el control de Livonia (Estonia y Letonia actuales); terminó con armisticios en 1582 y 1583 sin que Rusia ganase salida al Báltico. Nada en las fuentes la describe como campaña de una Horda contra Europa occidental.",
+    "resumen": "La Guerra de Livonia (1558-1583) enfrentó a Rusia de Iván IV con la Orden Livona y luego con Polonia-Lituania, Suecia y Dinamarca por el control de Livonia (Estonia y Letonia actuales); terminó con armisticios en 1582 y 1583 sin que Rusia ganase salida al Báltico. Nada en las fuentes la describe como campaña de una Horda contra Europa occidental.",
     "fuentes": [
      {
       "titulo": "Livonian War, Encyclopedia.com",
@@ -25829,7 +25874,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: la Guerra de Sucesión Española (1701-1714) surgió al morir sin hijos Carlos II (1-11-1700), que había nombrado heredero a Felipe de Anjou, nieto de Luis XIV; acabó con los tratados de Utrecht (1713) y Rastatt/Baden (1714): Felipe V siguió como rey de España renunciando al trono francés. Las fechas del autor (1705-1715) difieren y los linajes bizantinos no constan.",
+    "resumen": "La Guerra de Sucesión Española (1701-1714) surgió al morir sin hijos Carlos II (1-11-1700), que había nombrado heredero a Felipe de Anjou, nieto de Luis XIV; acabó con los tratados de Utrecht (1713) y Rastatt/Baden (1714): Felipe V siguió como rey de España renunciando al trono francés. Las fechas del autor (1705-1715) difieren y los linajes bizantinos no constan.",
     "fuentes": [
      {
       "titulo": "War of the Spanish Succession, Britannica",
@@ -26259,7 +26304,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: las guerras ruso-turcas son una serie de unos doce conflictos entre 1568 y 1918; la de 1768-74 acabó con el tratado de Küçük Kaynarca (21-7-1774) y la anexión de Crimea en 1783. Las causas citadas son territoriales y estratégicas (mar Negro, Crimea, Polonia, protección de los ortodoxos), no la ruptura de una unión Horda-Turquía.",
+    "resumen": "Las guerras ruso-turcas son una serie de unos doce conflictos entre 1568 y 1918; la de 1768-74 acabó con el tratado de Küçük Kaynarca (21-7-1774) y la anexión de Crimea en 1783. Las causas citadas son territoriales y estratégicas (mar Negro, Crimea, Polonia, protección de los ortodoxos), no la ruptura de una unión Horda-Turquía.",
     "fuentes": [
      {
       "titulo": "Russo-Turkish wars, Britannica",
@@ -28842,7 +28887,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: Felipe IV de Francia hizo arrestar a los templarios el viernes 13-10-1307 y el papa Clemente V disolvió la orden en 1312; Jacques de Molay fue quemado en 1314. La cifra «1677» es la reescritura de la Nueva Cronología, no una fecha de las fuentes consultadas.",
+    "resumen": "Felipe IV de Francia hizo arrestar a los templarios el viernes 13-10-1307 y el papa Clemente V disolvió la orden en 1312; Jacques de Molay fue quemado en 1314. La cifra «1677» es la reescritura de la Nueva Cronología, no una fecha de las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Templars at the Tower, Historic Royal Palaces",
@@ -29178,7 +29223,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: Iván IV nació el 25-8-1530, fue gran príncipe de Moscú desde 1533, coronado zar el 16-1-1547 y murió en Moscú el 18-3-1584 (calendario juliano); le sucedió su hijo Fiódor I. Los historiadores lo tratan como un único gobernante; la tesis de cuatro zares distintos no aparece en las fuentes consultadas.",
+    "resumen": "Iván IV nació el 25-8-1530, fue gran príncipe de Moscú desde 1533, coronado zar el 16-1-1547 y murió en Moscú el 18-3-1584 (calendario juliano); le sucedió su hijo Fiódor I. Los historiadores lo tratan como un único gobernante; la tesis de cuatro zares distintos no aparece en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Ivan the Terrible, Britannica",
@@ -29257,7 +29302,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: Iván I Kalitá (c. 1288-31-3-1340) fue príncipe de Moscú desde 1325 y gran príncipe de Vladimir desde 1331, vasallo del kan Özbeg de la Horda de Oro; enriqueció Moscú recaudando tributo. No fundó Roma ni el Vaticano ni se le identifica con Batu Kan ni con el Preste Juan en las fuentes consultadas.",
+    "resumen": "Iván I Kalitá (c. 1288-31-3-1340) fue príncipe de Moscú desde 1325 y gran príncipe de Vladimir desde 1331, vasallo del kan Özbeg de la Horda de Oro; enriqueció Moscú recaudando tributo. No fundó Roma ni el Vaticano ni se le identifica con Batu Kan ni con el Preste Juan en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Ivan I, Britannica",
@@ -36167,7 +36212,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: la Iglesia de Oriente se separó de la comunión romana tras el Concilio de Éfeso (431), que condenó a Nestorio; sus partidarios se refugiaron en la Persia sasánida. El nombre «nestoriana» se le dio desde fuera y hoy se considera impropio. Hacia fines del siglo XIV sus comunidades en Asia central y China casi desaparecieron. La fuente consultada no da ningún vínculo del término «musulmán» con Mosul.",
+    "resumen": "La Iglesia de Oriente se separó de la comunión romana tras el Concilio de Éfeso (431), que condenó a Nestorio; sus partidarios se refugiaron en la Persia sasánida. El nombre «nestoriana» se le dio desde fuera y hoy se considera impropio. Hacia fines del siglo XIV sus comunidades en Asia central y China casi desaparecieron. La fuente consultada no da ningún vínculo del término «musulmán» con Mosul.",
     "fuentes": [
      {
       "titulo": "Church of the East, Wikipedia",
@@ -39451,7 +39496,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: la Orden de Cristo nació en Portugal por la bula Ad ea ex quibus (14-3-1319), tras la supresión de los templarios en 1312; la Orden pontificia de Cristo y la de la Espuela de Oro son órdenes papales de caballería. La cifra «1725 = 1540» pertenece a la Nueva Cronología. La fecha de la Espuela de Oro no se ha contrastado en las fuentes consultadas.",
+    "resumen": "La Orden de Cristo nació en Portugal por la bula Ad ea ex quibus (14-3-1319), tras la supresión de los templarios en 1312; la Orden pontificia de Cristo y la de la Espuela de Oro son órdenes papales de caballería. La cifra «1725 = 1540» pertenece a la Nueva Cronología. La fecha de la Espuela de Oro no se ha contrastado en las fuentes consultadas.",
     "fuentes": [
      {
       "titulo": "Military Order of Christ, Wikipedia",
@@ -49016,7 +49061,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: el primer uso documentado de bandera negra con calavera y tibias es del pirata Emanuel Wynne, julio de 1700; el nombre «Jolly Roger» aparece por escrito en 1724 (Charles Johnson). Su origen es incierto (Roger como diablo, «jolie rouge»); la vinculación con templarios o con Roger II de Sicilia no se apoya en fuentes consultadas y es leyenda.",
+    "resumen": "El primer uso documentado de bandera negra con calavera y tibias es del pirata Emanuel Wynne, julio de 1700; el nombre «Jolly Roger» aparece por escrito en 1724 (Charles Johnson). Su origen es incierto (Roger como diablo, «jolie rouge»); la vinculación con templarios o con Roger II de Sicilia no se apoya en fuentes consultadas y es leyenda.",
     "fuentes": [
      {
       "titulo": "Jolly Roger, Britannica",
@@ -49814,7 +49859,7 @@ window.CRONO = {
     "hasta": 1504,
     "texto": "1277–1504"
    },
-   "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos.",
+   "resumen": "En 1277 Carlos de Anjou compró el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -49826,7 +49871,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 1277 Carlos de Anjou compró en 1277 el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. En líneas generales la cadena consta en fuentes secundarias: los Anjou de Nápoles y los Lusignan de Chipre mantuvieron pretensiones rivales; cuando los Anjou se extinguieron (1434) ganó Alfonso de Aragón, y en 1506 Fernando recuperó Nápoles con la pretensión, que hoy conserva Felipe VI. Una fuente sitúa la cesión de María en 1269 y la confirmación del papa en 1277.",
+    "resumen": "En 1277 Carlos de Anjou compró el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. En líneas generales la cadena consta en fuentes secundarias: los Anjou de Nápoles y los Lusignan de Chipre mantuvieron pretensiones rivales; tras morir Luis III de Anjou (1434) y la reina Juana II (1435), Renato de Anjou y Alfonso de Aragón se disputaron Nápoles, que Alfonso ganó en 1442; en 1503-1504 las tropas de Fernando el Católico recuperaron el reino, con la pretensión, que hoy conserva Felipe VI. Una fuente sitúa la cesión de María en 1269 y la confirmación del papa en 1277.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Título de rey de Jerusalén",
@@ -49862,6 +49907,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Monarch of Jerusalem",
       "url": "https://en.wikipedia.org/wiki/Monarch_of_Jerusalem",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): René of Anjou",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_of_Anjou",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Alfonso V de Aragón",
+      "url": "https://es.wikipedia.org/wiki/Alfonso_V_de_Arag%C3%B3n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Reino de Nápoles",
+      "url": "https://es.wikipedia.org/wiki/Reino_de_N%C3%A1poles",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -49886,7 +49946,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "En 1277 Carlos de Anjou compró el título a un pretendiente; nunca pisó Acre y su representante fue rechazado por la nobleza local. La pretensión quedó ligada al reino de Nápoles, feudo papal, por lo que los papas solían refrendar ambos títulos. En 1441 Nápoles pasó a Alfonso V de Aragón y desde entonces lo reclamaron los reyes de España; sigue en uso y lo ostenta Felipe VI."
+     "texto": "En 1277 Carlos de Anjou compró el título a un pretendiente; nunca pisó Acre y su representante fue rechazado por la nobleza local. La pretensión quedó ligada al reino de Nápoles, feudo papal, por lo que los papas solían refrendar ambos títulos. Alfonso V de Aragón ganó Nápoles a Renato de Anjou en 1442 (la inglesa sobre el título dice 1441) y desde entonces lo reclamaron los reyes de España; sigue en uso y lo ostenta Felipe VI."
     },
     {
      "titulo": "Seguir el dinero",
@@ -49901,7 +49961,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cadena del título consta en líneas generales, con 1441 como paso a Aragón. La condición de feudo papal se refiere a Nápoles; en lo leído no aparece que hoy la Corona dependa del Vaticano por este título."
+     "texto": "La cadena del título consta en líneas generales, con el paso a Aragón en 1442. La condición de feudo papal se refiere a Nápoles; en lo leído no aparece que hoy la Corona dependa del Vaticano por este título."
     }
    ],
    "vista": "politica"
@@ -52157,7 +52217,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Unión Protestante (también Unión Evangélica o Unión de Auhausen) fue una coalición de Estados protestantes alemanes, calvinistas y luteranos, formada el 14-5-1608 por Federico IV del Palatinado para defender los derechos, tierras y seguridad de cada miembro. Cristián de Anhalt fue su principal impulsor. La Liga Católica se creó en 1609. La Unión luchó contra la Liga en la Guerra de los Treinta Años, pero era militarmente inferior. Pendiente de contrastar (correspondencia con Sarpi).",
+    "resumen": "La Unión Protestante (también Unión Evangélica o Unión de Auhausen) fue una coalición de Estados protestantes alemanes, calvinistas y luteranos, formada el 14-5-1608 por Federico IV del Palatinado para defender los derechos, tierras y seguridad de cada miembro. Cristián de Anhalt fue su principal impulsor. La Liga Católica se creó en 1609. La Unión luchó contra la Liga en la Guerra de los Treinta Años, pero era militarmente inferior. Consta que Paolo Sarpi mantuvo correspondencia con Christoph von Dohna, enviado a Venecia de Cristián de Anhalt; no se ha comprobado una correspondencia directa entre Sarpi y Anhalt.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Unión Protestante",
@@ -52171,6 +52231,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (en): Protestant Union",
       "url": "https://en.wikipedia.org/wiki/Protestant_Union",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Paolo Sarpi",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (de): Christoph von Dohna",
+      "url": "https://de.wikipedia.org/wiki/Christoph_von_Dohna_(1583%E2%80%931637)",
       "consultado": "2026-11-27"
      }
     ]
@@ -52207,7 +52277,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La Unión y la Liga constan. En los pasajes buscados no aparece Sarpi ni la correspondencia de 1875."
+     "texto": "La Unión y la Liga constan. Sarpi se carteó con Christoph von Dohna, enviado de Anhalt a Venecia en 1608. En lo leído no aparecen cartas directas con Anhalt ni el hallazgo de 1875."
     }
    ],
    "naturaleza": "gobiernos",
@@ -59370,6 +59440,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Cristián I de Anhalt-Bernburg",
       "url": "https://es.wikipedia.org/wiki/Cristi%C3%A1n_I_de_Anhalt-Bernburg",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Paolo Sarpi",
+      "url": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59408,7 +59483,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Su papel en la Unión y junto a Federico V consta. En lo buscado no aparecen Sarpi ni la correspondencia."
+     "texto": "Su papel en la Unión y junto a Federico V consta. Sarpi se carteó con Christoph von Dohna, enviado de Anhalt a Venecia. En lo leído no aparecen cartas directas entre Sarpi y Anhalt ni el hallazgo de 1875."
     }
    ],
    "naturaleza": "gobiernos",
@@ -72087,7 +72162,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El choque con el poder consta. La Wikipedia en español afirma que «Marianne» deriva de Mariana; otras fichas leídas antes recogen un origen en una canción occitana de 1792, así que queda discutido. En lo buscado no aparece el aval del general."
+     "texto": "El choque con el poder consta. Sobre «Marianne», la Wikipedia en español la deriva de Mariana sin matices; la versión oficial lo recoge como hipótesis de Florence Gauthier frente a la explicación de Maurice Agulhon, un nombre popular muy común. En lo buscado no aparece el aval del general."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -81098,13 +81173,18 @@ window.CRONO = {
       "consultado": "2026-11-04"
      },
      {
-      "titulo": "Wikipedia: Robert Cecil",
-      "url": "https://es.wikipedia.org/wiki/Robert_Cecil",
-      "consultado": "2026-11-20"
-     },
-     {
       "titulo": "Wikipedia (en): Robert Cecil, 1st Earl of Salisbury",
       "url": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Robert Cecil (conde)",
+      "url": "https://es.wikipedia.org/wiki/Robert_Cecil_(conde)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "She-philosopher: Robert Cecil, I conde de Salisbury",
+      "url": "https://she-philosopher.com/ib/bios/cecil.html",
       "consultado": "2026-11-27"
      }
     ]
@@ -81140,7 +81220,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El parentesco con Bacon consta. En lo buscado no aparece ningún partido veneciano. Aviso: la Wikipedia en español que cita la versión oficial de la ficha trata de otro Robert Cecil, nacido en 1864."
+     "texto": "El parentesco con Bacon consta. En lo buscado no aparece ningún partido veneciano. Una biografía citada en she-philosopher.com recoge que aportó 333 libras a la Virginia Company."
     }
    ],
    "naturaleza": "gobiernos",
@@ -85036,7 +85116,7 @@ window.CRONO = {
     {
      "titulo": "Quién fue",
      "nivel": "hecho",
-     "texto": "Cortesano y político inglés, segundo conde de Devonshire, nacido en 1590 según la ficha (1591 en la Wikipedia en español) y muerto en junio de 1628."
+     "texto": "Cortesano y político inglés, segundo conde de Devonshire, nacido en 1590 según la Enciclopedia de Stanford y la Wikipedia en inglés (1591 en la española) y muerto en junio de 1628."
     },
     {
      "titulo": "Qué hizo",
@@ -92105,7 +92185,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "Versión oficial: la leyenda del Preste Juan parte de una carta, probablemente falsa, que circuló por Europa hacia 1165 dirigida al emperador Manuel I Comneno; en ella el Preste Juan es un rey cristiano de Oriente, guardián del sepulcro del apóstol Tomás. Los historiadores la consideran una leyenda, ligada quizá a la Iglesia de Oriente; después se buscó al Preste en Asia central y por fin en Etiopía. La ascendencia de Salomón y Saba y la identidad con el Gran Kan no figuran en las fuentes.",
+    "resumen": "La leyenda del Preste Juan parte de una carta, probablemente falsa, que circuló por Europa hacia 1165 dirigida al emperador Manuel I Comneno; en ella el Preste Juan es un rey cristiano de Oriente, guardián del sepulcro del apóstol Tomás. Los historiadores la consideran una leyenda, ligada quizá a la Iglesia de Oriente; después se buscó al Preste en Asia central y por fin en Etiopía. La ascendencia de Salomón y Saba y la identidad con el Gran Kan no figuran en las fuentes.",
     "fuentes": [
      {
       "titulo": "Prester John, Britannica",
