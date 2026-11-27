@@ -70967,6 +70967,16 @@ window.CRONO = {
       "titulo": "Wikipedia: John Law",
       "url": "https://es.wikipedia.org/wiki/John Law",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): John Law",
+      "url": "https://es.wikipedia.org/wiki/John_Law",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): John Law (economist)",
+      "url": "https://en.wikipedia.org/wiki/John_Law_(economist)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -70982,6 +70992,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista escocés nacido en Edimburgo en abril de 1671 y muerto en Venecia en marzo de 1729. Defendía que el dinero es un medio de cambio, no riqueza en sí, y que la riqueza de una nación depende del comercio; conocía el modelo de Ámsterdam, con su banco y su bolsa."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Llegó en 1715 a una Francia arruinada, bajo la regencia de Felipe de Orleans. Creó un Banco General, que en 1718 pasó a ser Banco Real, y en 1717 la Compañía del Misisipi, con el monopolio del comercio con América del Norte. Su «sistema» duró hasta 1720."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, la Escuela de Salamanca influyó en él."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes buscados no aparece Salamanca; el modelo que citan es el neerlandés."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -71410,6 +71442,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Joseph de la Vega",
       "url": "https://en.wikipedia.org/wiki/Joseph_de_la_Vega",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (es): José Penso de la Vega",
+      "url": "https://es.wikipedia.org/wiki/Jos%C3%A9_Penso_de_la_Vega",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71426,6 +71463,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Comerciante y escritor judío hispano-holandés, en castellano y hebreo, nacido hacia 1650 (en Espejo, Córdoba, según la Wikipedia en español; la inglesa lo da por desconocido, Córdoba o Ámsterdam) y muerto en Ámsterdam en noviembre de 1692."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Escribió «Confusión de confusiones» (1688), descripción de la bolsa y la especulación que vio: opciones, futuros, compras a crédito y maniobras alcistas y bajistas, temprano examen de lo que luego se llamó análisis técnico y finanzas del comportamiento. Imprimió muchos libros en una imprenta clandestina para sortear la censura rabínica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de los autores de cabecera sobre De la Vega."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En agosto de 1688 se arruinó con el hundimiento de las compañías holandesas de las Indias. El lugar de nacimiento sigue discutido."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -73314,6 +73373,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Leopoldo I",
       "url": "https://es.wikipedia.org/wiki/Leopoldo_I_del_Sacro_Imperio_Romano_Germ%C3%A1nico",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Leopold I, Holy Roman Emperor",
+      "url": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -73329,6 +73393,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Viena el 9 de junio de 1640 y muerto allí en mayo de 1705; rey de Hungría desde 1655, de Bohemia desde el año siguiente y emperador desde 1658."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Contrapesó la preponderancia de Luis XIV y rechazó la amenaza otomana, vencida ante Viena en 1683; reunificó Hungría, ratificado en Karlowitz (1699). En 1701, en la Guerra de Sucesión Española, dirigió la ocupación de Lombardía y afrontó la rebelión de Francisco Rákóczi."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue el emperador al que Oppenheimer adelantó dinero, educado por jesuitas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El préstamo consta en lo leído sobre Oppenheimer. En los pasajes buscados sobre Leopoldo no aparece la educación jesuita."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -82776,9 +82862,36 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Razin, Stepan",
       "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/razin-stepan-known-stenka-1630-1671",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Steñka Razin",
+      "url": "https://es.wikipedia.org/wiki/Ste%C3%B1ka_Razin",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Cosaco del Don nacido hacia 1630 y ejecutado en junio de 1671; consta desde 1661 como enviado de los cosacos ante los calmucos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1668 venció a un voivoda enviado desde Astracán y pasó dieciocho meses saqueando las costas persas del Caspio. En 1670 se alzó contra los boyardos y la aristocracia, tomó Astracán y siguió Volga arriba; derrotado y entregado por cosacos, fue llevado a Moscú y ejecutado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue comandante de la Horda de Astracán y su guerra enfrentó a dos estados del antiguo imperio, con los Romanov dependiendo de mercenarios alemanes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fuentes lo presentan como jefe de una sublevación contra la nobleza y la burocracia del zar. En lo buscado no aparecen la Horda ni los mercenarios."
+    }
+   ],
    "vista": "politica"
   },
   {
