@@ -41317,9 +41317,41 @@ window.CRONO = {
       "titulo": "Calendar reform under Peter the Great (Slavic Review, Cambridge)",
       "url": "https://www-cambridge-org.ezproxyberklee.flo.org/core/product/F86C0ED9716AA7CF49C72E9798FD58CB/core-reader",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Pedro I de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Pedro_I_de_Rusia",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Peter the Great",
+      "url": "https://en.wikipedia.org/wiki/Peter_the_Great",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El calendario tradicional ruso empezaba el año el 1 de septiembre y contaba los años desde la fecha en que se creía creado el mundo."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "En 1699 Pedro I lo abolió e introdujo el calendario juliano con comienzo del año el 1 de enero; los años pasaron a contarse desde el nacimiento de Cristo. Rusia adoptó el juliano cuando buena parte de Europa pasaba al gregoriano, y lo mantuvo hasta la revolución de 1917. En 1703 apareció el primer periódico ruso."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, al cambiar 7208 por 1700 desaparecieron 5500 años de historia rusa, y Pedro fue el primer magnate de prensa del país."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cambio consta como un cambio del punto desde el que se cuentan los años, no como una supresión de historia. El periódico de 1703 consta, impulsado por el propio zar."
+    }
+   ],
    "vista": "politica"
   },
   {
