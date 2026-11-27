@@ -1165,6 +1165,33 @@ window.CRONO = {
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El contexto",
+     "nivel": "hecho",
+     "texto": "Hitler fue nombrado canciller en enero de 1933 y enseguida empezó la persecución: boicot a negocios judíos el 1 de abril, expulsión de la función pública y cuotas en la enseñanza. En el extranjero creció un boicot a los productos alemanes."
+    },
+    {
+     "titulo": "El acuerdo",
+     "nivel": "hecho",
+     "texto": "Se firmó el 25 de agosto de 1933, tras tres meses de conversaciones, entre la Federación Sionista de Alemania, el Anglo-Palestine Bank, bajo la Agencia Judía, y las autoridades económicas nazis. Quienes emigraban vendían sus bienes en Alemania para pagar mercancías alemanas que se enviaban a Palestina, y recuperaban así parte del patrimonio."
+    },
+    {
+     "titulo": "Quién ganaba y quién criticó",
+     "nivel": "hecho",
+     "texto": "Permitió emigrar a unos 60.000 judíos alemanes entre 1933 y 1939. A ellos les daba una salida; a la comunidad judía de Palestina, trabajo y capital; al gobierno alemán, emigración y una brecha en el boicot. Lo criticaron Jabotinsky, judíos no sionistas, miembros del partido nazi y parte del público alemán."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo interpreta como ayuda del régimen nazi a la formación del Estado de Israel."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El efecto económico a favor del asentamiento judío consta. El motivo alemán descrito era expulsar y romper el boicot, no crear un Estado, y los emigrantes actuaban bajo persecución.\n\nConviene leer el acuerdo con las dos cosas a la vez."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -21385,6 +21412,11 @@ window.CRONO = {
       "titulo": "Tesis de la Universidad de Padua: la Santa Sede y la guerra de Etiopía (entrevista del 29-9-1935)",
       "url": "https://thesis.unipd.it/retrieve/6cd6de13-fb51-43fd-bcbd-41c0e3ad0680/Gervaso_Rachele.pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Segunda guerra italo-etíope",
+      "url": "https://es.wikipedia.org/wiki/Segunda_guerra_italo-et%C3%ADope",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -21415,6 +21447,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La invasión",
+     "nivel": "hecho",
+     "texto": "El 3 de octubre de 1935 unos 100.000 soldados italianos al mando de De Bono atacaron desde Eritrea sin declarar la guerra, y Graziani desde Somalia. Tomaron Adua, donde Italia había sido derrotada en 1896, y Aksum, de donde se llevaron un obelisco a Roma. Badoglio sustituyó a De Bono. La guerra duró hasta mayo de 1936."
+    },
+    {
+     "titulo": "Gas contra civiles",
+     "nivel": "hecho",
+     "texto": "Badoglio empleó gas mostaza desde el aire, contra las convenciones de Ginebra, también contra civiles; hubo además ataques denunciados contra ambulancias."
+    },
+    {
+     "titulo": "Las potencias",
+     "nivel": "hecho",
+     "texto": "La guerra se ve como muestra del expansionismo del Eje y de la ineficacia de la Sociedad de Naciones. Londres apoyaba a Etiopía de palabra y a la posible sanción, pero no tomó medidas decisivas. El régimen presentó las sanciones como agresión contra una Italia «proletaria»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra relata una conversación de noviembre de 1935 en que Tacchi Venturi comentó a Mussolini un artículo sobre un frente de masonería y comunismo contra el fascismo, y la respuesta de este."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La guerra y la debilidad de las sanciones constan. En lo leído no aparece la conversación; la versión oficial documenta otra el 29 de septiembre."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -27091,6 +27150,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "La obra",
+     "nivel": "hecho",
+     "texto": "The Shape of Things to Come (1933) es una novela de H. G. Wells que narra una historia futura del mundo."
+    },
+    {
+     "titulo": "El autor",
+     "nivel": "hecho",
+     "texto": "Wells (1866-1946), escritor y crítico social de visión progresista global, izquierdista toda su vida y breve miembro de la Sociedad Fabiana, anticipó en sus obras aviones, tanques, armas nucleares y viajes espaciales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que imagina un mundo en ruinas tras una guerra y un Estado mundial sin religiones ni clases que acaba marchitándose al estilo marxista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hoy solo se ha leído la biografía general del autor, no la novela ni una entrada sobre ella; la versión oficial recoge la guerra, la pandemia, la utopía tecnocrática y la película de 1936.\n\nPendiente: contrastar el argumento con el libro."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -29516,6 +29597,11 @@ window.CRONO = {
       "titulo": "FBI — Kansas City History",
       "url": "https://www.fbi.gov/history/field-office-histories/kansascity",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Kansas City massacre",
+      "url": "https://en.wikipedia.org/wiki/Kansas_City_massacre",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -29526,6 +29612,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El hecho",
+     "nivel": "hecho",
+     "texto": "La mañana del 17 de junio de 1933, en la estación Union de Kansas City, una banda dirigida por Verne Miller intentó liberar a Frank Nash, preso federal fugado de Leavenworth que los agentes llevaban de vuelta. Murieron cuatro agentes de la ley y el propio Nash."
+    },
+    {
+     "titulo": "Nash y los acusados",
+     "nivel": "hecho",
+     "texto": "Nash tenía un largo historial desde 1913, con asesinato, robos con explosivos y agresión a un funcionario de correos, y el FBI le atribuía haber ayudado a otras fugas. El FBI identificó a «Pretty Boy» Floyd como uno de los tiradores, aunque hay indicios de que no participó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano dice que murieron cuatro agentes del FBI y que aquello dio al FBI armas, jurisdicción interestatal y poder de detención."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Murieron cuatro agentes de la ley, no cuatro del FBI, según la versión oficial, que sí recoge el cambio legal de 1934.\n\nLa participación de Floyd sigue discutida."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -31457,6 +31565,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "La novela",
+     "nivel": "hecho",
+     "texto": "Publicada en 1932, es la obra más famosa de Aldous Huxley. Anticipa la tecnología reproductiva, los cultivos humanos, la enseñanza durante el sueño y el manejo de las emociones con una droga, el soma. La humanidad se ordena en castas aceptadas por todos, sana, avanzada y sexualmente libre, sin guerra ni pobreza, a costa de la familia, la diversidad cultural, el arte, la ciencia, la religión, la filosofía y el amor."
+    },
+    {
+     "titulo": "Escenario y secuela",
+     "nivel": "hecho",
+     "texto": "Empieza en el año 632 «después de Ford», el 2540, en un centro de condicionamiento de Londres, bajo un Estado mundial que controla la reproducción. El título viene de La tempestad de Shakespeare. En 1958 Huxley volvió sobre el tema en Nueva visita a un mundo feliz, donde repasa los problemas que la inspiraron."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra la liga a la Sociedad Fabiana y destaca que describe humanos diseñados biológicamente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El diseño biológico consta. En lo leído no aparece relación con la Sociedad Fabiana.\n\nUna distopía advierte de lo que describe; leerla como plan requiere pruebas aparte."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -37829,6 +37959,11 @@ window.CRONO = {
       "titulo": "Wikipedia (referencia, sin contrastar)",
       "url": "https://en.wikipedia.org/wiki/Pulkovo_Observatory",
       "consultado": "2026-11-03"
+     },
+     {
+      "titulo": "Wikipedia (en): Nikolai Aleksandrovich Kozyrev",
+      "url": "https://en.wikipedia.org/wiki/Nikolai_Aleksandrovich_Kozyrev",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -37840,6 +37975,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La purga",
+     "nivel": "hecho",
+     "texto": "En el observatorio de Púlkovo, al sur de Leningrado, las purgas estalinistas empezaron con las acusaciones de un estudiante de posgrado resentido; según lo leído, la mayoría del personal murió como consecuencia."
+    },
+    {
+     "titulo": "Kozyrev",
+     "nivel": "hecho",
+     "texto": "Nikolái Kozyrev (1908-1983), uno de los astrofísicos jóvenes más prometedores, trabajaba allí desde 1931. Detenido en noviembre de 1936, fue condenado a diez años por actividad contrarrevolucionaria y en 1941 a otros diez por propaganda. Por la presión de colegas salió en diciembre de 1946. Preso, teorizó sobre la energía de las estrellas sin conocer la fusión, que después rechazó. En 1958 observó una emisión en el cráter lunar Alphonsus."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Nacho López Cabanas dice que Stalin mandó detener en 1936 a todos los científicos y que todos murieron en campos salvo Kozyrev."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La purga y la supervivencia de Kozyrev constan. Lo leído dice «la mayoría», no todos, y la versión oficial niega que murieran todos. No consta una orden personal de Stalin."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -41376,6 +41533,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El crimen",
+     "nivel": "hecho",
+     "texto": "El 1 de marzo de 1932 el hijo de veinte meses de Charles Lindbergh y Anne Morrow fue secuestrado de su casa en Nueva Jersey. El 12 de mayo apareció su cadáver cerca, muerto por fractura de cráneo."
+    },
+    {
+     "titulo": "Juicio",
+     "nivel": "hecho",
+     "texto": "Tras más de dos años de investigación se detuvo a Bruno Hauptmann, juzgado en enero y febrero de 1935, condenado y ejecutado el 3 de abril de 1936; proclamó su inocencia hasta el final. La fuente leída añade que después se apuntó a un posible inquilino suyo como culpable, con quien se relacionaban objetos y dinero del rescate."
+    },
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "Mencken lo llamó la historia más grande desde la Resurrección. El Congreso aprobó la «ley Lindbergh», que hizo delito federal llevar a un secuestrado a otro estado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano relata el caso y la investigación del FBI y dice quedarse con la versión oficial por falta de información."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El relato coincide. Que Hauptmann no fuera el culpable es una cuestión que la entrada plantea sin resolver; la afirmación sobre otro responsable no se ha contrastado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -43924,6 +44108,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La toma del poder",
+     "nivel": "hecho",
+     "texto": "El partido nazi fue el más votado en 1932, con 230 escaños y el 37,4 %, sin mayoría. Hindenburg nombró canciller a Hitler el 30 de enero de 1933 y el partido fue eliminando a la oposición."
+    },
+    {
+     "titulo": "El régimen",
+     "nivel": "hecho",
+     "texto": "Totalitario, racista y ultranacionalista. Combatió el paro con gasto militar y economía mixta; con déficit emprendió un rearme secreto masivo y obras como las autopistas, y la estabilidad dio popularidad. El racismo, la eugenesia y sobre todo el antisemitismo fueron centrales, hasta el Holocausto."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "Invadido por la URSS desde el este y los aliados desde el oeste, capituló en mayo de 1945. La negativa de Hitler a rendirse multiplicó la destrucción. Siguió la desnazificación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano sostiene que no fue alternativa al gran capital, que sirvió a las mismas familias, que proyectó un nuevo orden europeo centrado en Wewelsburg y que fue la versión avanzada del sueño de la nobleza negra."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El rearme a crédito y las obras constan y plantean quién financió y quién se benefició. En lo leído no aparecen la nobleza negra ni un plan de familias.\n\nPendiente: la gran industria bajo el régimen."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -47784,6 +47995,16 @@ window.CRONO = {
       "titulo": "Deutsches Historisches Museum (LeMO): Volksempfänger",
       "url": "https://www.dhm.de/lemo/kapitel/ns-regime/alltagsleben/volksempfaenger",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Volksempfänger",
+      "url": "https://es.wikipedia.org/wiki/Volksempf%C3%A4nger",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Volksempfänger",
+      "url": "https://en.wikipedia.org/wiki/Volksempf%C3%A4nger",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -47807,6 +48028,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El aparato",
+     "nivel": "hecho",
+     "texto": "Los Volksempfänger fueron receptores de radio diseñados por Otto Griessing para la empresa Seibt a petición de Goebbels. El primer modelo, VE301, se presentó el 18 de agosto de 1933 en la feria de la radio de Berlín, con caja de baquelita de Walter Kersting, a 76 marcos (65 el de batería); luego llegó el DKE38, de 35."
+    },
+    {
+     "titulo": "El propósito",
+     "nivel": "hecho",
+     "texto": "Que todo el mundo pudiera escuchar la radio, porque Goebbels vio su potencial para la propaganda. Se pensaron para emisoras cercanas: casi sin onda corta, diales sin emisoras extranjeras y menos sensibilidad, aunque con dificultad podían captarlas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Tesis de SMiguel1: la radio y el receptor popular de 1933 son una pista del uso de la radio por el nazismo para llegar a las masas; pidió buscar fuente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fuente leída apoya la tesis: Goebbels impulsó el aparato con fin propagandístico y se limitó su recepción.\n\nLas cifras de difusión varían según la fuente, como dice la versión oficial."
+    }
+   ],
    "vista": "politica"
   },
   {
