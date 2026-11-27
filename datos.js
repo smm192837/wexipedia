@@ -48200,6 +48200,28 @@ window.CRONO = {
      "fuente": "Pendiente: «Moral y dogma», pasaje por localizar (E67)"
     }
    ],
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado, militar, escritor y masón estadounidense (Boston, 1809 – Washington, 1891). Sin recursos para ir a Harvard, fue maestro autodidacta."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Marchó al oeste en 1831, se instaló en Arkansas, donde fue periodista, dueño de un periódico y abogado; combatió en la guerra de México y fue oficial confederado. Desde 1859 hasta su muerte fue Soberano Gran Comendador del Rito Escocés para la jurisdicción sur. En 1871 publicó Morals and Dogma, referencia sobre el simbolismo masónico, usada también por sus críticos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el águila bicéfala está en la portada de esa obra y en la joya de su foto de grado 33, y aparece en películas; los pilares gemelos que describe serían un portal a los misterios, que el autor enlaza con las torres gemelas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La obra y su cargo constan. La relación con películas o con las torres gemelas es lectura del autor.\n\nAviso: las cartas entre Pike y Mazzini que circulan son apócrifas; la Biblioteca Británica desmintió tenerlas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -49754,6 +49776,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero y político (1813-1890) nacido en Alzey en una familia judía; estudió en Fráncfort en una escuela fundada por Mayer Amschel Rothschild."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró de aprendiz en la casa Rothschild. En 1837, camino de Cuba para proteger sus intereses, supo en Nueva York que el agente estadounidense había quebrado y asumió por su cuenta la agencia, que lo hizo rico: pagos, dividendos, noticias, cambio y préstamos. En 1847 gestionó 3 millones de dólares de la indemnización a México. Fue gran donante demócrata, ministro en los Países Bajos con Pierce, implicado en el manifiesto de Ostende sobre Cuba y presidente del comité nacional demócrata (1860-1872), contra Lincoln."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los jesuitas contaron con el patrocinio de Edwin de León y del «banquero masón» Belmont para desmantelar los reinos europeos y convertirlos en repúblicas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La conexión Rothschild y la influencia política constan. En lo leído no hay jesuitas, masonería ni un plan sobre monarquías europeas.\n\nLectura de trabajo de Nexus: en Cuba coinciden intereses bancarios y diplomacia; es un hilo que se puede seguir."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -51112,6 +51156,11 @@ window.CRONO = {
       "titulo": "Online Books Page (Penn): Clinton Roosevelt",
       "url": "https://onlinebooks.library.upenn.edu/webbin/who/Roosevelt%2c%20Clinton%2c%201804%2d1898",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Clinton Roosevelt",
+      "url": "https://en.wikipedia.org/wiki/Clinton_Roosevelt",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51123,6 +51172,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado, político e inventor de Nueva York (1804-1898), de la familia Roosevelt, primo lejano de los presidentes Theodore y Franklin D. Roosevelt y emparentado con los Goelet."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Cofundó los Locofocos, ala radical del Partido Demócrata, y fue diputado estatal (1837-1840). Se opuso al monopolio bancario y culpaba al papel moneda de los bancos de los males económicos; tras el pánico de 1837 pasó a pedir un sistema económico comunista con más intervención pública. Habló en 1845 en un congreso mundial organizado por Robert Owen, estuvo en Rusia durante la guerra de Crimea como correo diplomático y escribió sobre geología y economía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, es autor de un tratado de 1841 sobre el gobierno basado en el derecho natural que Marx habría copiado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su giro hacia ideas comunistas anterior a 1848 está documentado y hace comprensible la comparación, pero no prueba copia. En lo leído no aparece relación con Marx.\n\nPendiente: comparar el tratado de 1841 con el Manifiesto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -52559,6 +52630,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor, periodista y diplomático (Columbia, Carolina del Sur, 1818 – 1891), de familia judía sefardí; su padre fue médico y alcalde."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estudió Derecho y se dedicó a la prensa; fue dirigente del movimiento Joven América y fundó en Washington The Southern Press. Por su campaña a favor de Pierce fue cónsul general en Egipto, donde protegió a griegos y a misioneros estadounidenses y amplió el comercio. Al separarse su estado, sirvió a la Confederación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los jesuitas contaron con su patrocinio y el de August Belmont para desmantelar los reinos europeos y convertirlos en repúblicas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La pertenencia a la Joven América consta, red afín al republicanismo. En lo leído no aparecen jesuitas ni Belmont."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -54683,6 +54776,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Presidente de Estados Unidos de 1853 a 1857, demócrata del norte (Nuevo Hampshire, 1804-1869), hijo de un oficial de la Independencia que fue gobernador."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Congresista y senador, abogado y general de brigada en la guerra de México; salió candidato en la votación 49 de la convención de 1852. Opuesto al banco nacional y al abolicionismo, firmó la ley Kansas-Nebraska y aplicó la de esclavos fugitivos, lo que agravó la fractura hacia la guerra civil. Ligado al expansionismo de la Joven América, compró La Mesilla, intentó sin éxito adquirir Cuba y firmó tratados con Gran Bretaña y Japón."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Mazzini se alojó en Londres en casa de George Sanders, cónsul de Pierce y miembro de la «Joven América»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La vinculación de Pierce con la Joven América consta. En lo leído no aparecen Sanders ni Mazzini.\n\nPendiente: la biografía de George Sanders."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55828,6 +55943,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y político italiano (Niza, 1807 – Caprera, 1882), de padres ligures, llamado héroe de dos mundos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Seguidor de Mazzini, fue condenado a muerte tras una revuelta en Piamonte y pasó catorce años en Sudamérica, donde luchó en Brasil y Uruguay y formó los Camisas Rojas. Volvió en 1848, fue general de la República Romana (1849), combatió en 1859 y dirigió la conquista del sur en 1860. Rompió con Mazzini y se alió con Cavour y la monarquía sarda."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, no era masón al principio y se inició en Iberoamérica en la logia «Asilo de Vertut», donde dirigía a los exiliados de la Joven Italia; después se distanció de Mazzini por la monarquía de Saboya."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La iniciación masónica en Sudamérica consta (logia Asilo di Vertud y, en Montevideo, Les Amis de la Patrie, donde fue iniciado en agosto de 1844), igual que la ruptura con Mazzini."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55899,6 +56036,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y periodista italiano (Génova, 1805 – Pisa, 1872), hijo de un médico jacobino y de una madre de fervor jansenista; se graduó en Leyes en 1826 y ejerció como abogado de pobres."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en los carbonarios, fue detenido y eligió el exilio. En Marsella fundó la Joven Italia para unificar el país mediante levantamientos populares y una república. Expulsado de Suiza y detenido en París, se instaló en Londres en 1837, en gran pobreza, y rehízo allí la organización. Se sucedieron intentos fallidos de revuelta. Vio cómo la unificación la asumía la monarquía de Piamonte."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra lo presenta como el masón que lideró la unificación; se habría ido a Inglaterra en los años treinta para dirigir desde allí las insurrecciones, alojado en casas de clase alta, con trato con Palmerston y hospedado por George Sanders, y propugnando el modelo republicano anglo-veneciano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La base inglesa consta desde 1837, pero lo leído describe pobreza, no casas de clase alta. No aparecen masonería, Palmerston ni Sanders.\n\nPendiente: biografías sobre sus apoyos económicos en Londres."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -58464,6 +58623,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Reina de España de 1833 a 1868 (Madrid, 1830 – París, 1904), hija de Fernando VII y María Cristina de Borbón-Dos Sicilias."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Heredó gracias a la Pragmática Sanción, lo que abrió la guerra con los carlistas; fue reina con menos de tres años, bajo regencias. Bajo su reinado hubo enriquecimientos de la clase dirigente, incluida su madre y el banquero marqués de Salamanca, que obtuvo concesiones y 129 millones de subvención en 1853-1854. Destronada en 1868, vivió en París, donde compró un palacio con dinero depositado en la casa Rothschild y un préstamo sobre sus joyas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el Banco Santander lo creó un real decreto suyo y pertenece a los Borbones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El decreto autorizaba un banco promovido por comerciantes (ver la ficha del banco); no lo hacía propiedad real.\n\nLectura de trabajo de Nexus: las concesiones ferroviarias y el depósito en Rothschild son lo que merece seguirse."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -61860,6 +62041,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Filósofo, economista, periodista y revolucionario (Tréveris, 1818 – Londres, 1883), de familia de rabinos convertida al cristianismo antes de nacer él."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estudió en Bonn y Berlín, se acercó a los jóvenes hegelianos y se casó con Jenny von Westphalen. Dirigió la Gaceta Renana, vivió en París y Bruselas, de donde fue expulsado, y publicó con Engels el Manifiesto (1848). En 1848 lanzó la Nueva Gaceta Renana, financiada con la herencia paterna. Exiliado en Londres desde 1849, escribió El capital (1867) y participó en la Internacional."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, su esposa, de la aristocracia prusiana, fue la primera mujer de la Liga Comunista; Marx estudió en Tréveris y tuvo como mentor a Hegel; recoge la acusación de que estaba bajo control del general de los jesuitas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído consta la influencia de Hegel a través de los jóvenes hegelianos, no una tutela personal. La acusación sobre los jesuitas no aparece.\n\nPendiente: comprobar el papel de Jenny en la Liga."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -63265,6 +63468,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Princesa nacida en Kassel (1817-1898), hija de Guillermo de Hesse-Kassel y de Carlota de Dinamarca, sobrina del rey Cristián VIII; vivió en Dinamarca desde los tres años."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Casada en 1842 con Cristián de Glücksburg, unió sus derechos al trono danés con los de él; reinaron desde 1863. Sus seis hijos enlazaron con casas europeas: Federico VIII de Dinamarca, Alejandra de Reino Unido, Jorge I de Grecia, María Feodorovna de Rusia, Thyra y Valdemar. Conservadora, creó fundaciones de ayuda, entendidas como reacción al socialismo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, de sus 39 nietos cinco ocupaban al empezar la Gran Guerra los tronos británico, ruso, griego, danés y noruego."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La red de matrimonios consta. El recuento de nietos y tronos no aparece en lo leído y es comprobable con genealogías."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -65939,6 +66164,11 @@ window.CRONO = {
       "titulo": "Otto von Bismarck — Encyclopaedia Britannica",
       "url": "https://www.britannica.com/biography/Otto-von-Bismarck",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Otto von Bismarck",
+      "url": "https://es.wikipedia.org/wiki/Otto_von_Bismarck",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -65950,6 +66180,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Estadista prusiano (Schönhausen, 1815 – 1898), de familia junker; estudió Derecho y administró sus fincas."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Diputado desde 1847, líder conservador contra la revolución de 1848. Jefe del gobierno prusiano desde 1862, reformó el ejército y unificó Alemania con las guerras contra Dinamarca, Austria y Francia; el Imperio se proclamó en Versalles en 1871. Canciller diecinueve años, se enfrentó a los católicos y a la socialdemocracia y tejió alianzas, entre ellas la Triple Alianza."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, se le atribuye haber escrito que Marx estaba bajo control del general de los jesuitas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su combate contra los católicos hace extraña la alianza que sugiere la cita. En lo leído no aparece.\n\nVer la ficha sobre Bismarck y Beckx."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -71271,6 +71523,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Último rey de Cerdeña (desde 1849) y primero de Italia (1861-1878), de la casa de Saboya, nacido en Turín en 1820."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Subió al trono tras la derrota y abdicación de su padre, Carlos Alberto. Con Cavour llevó a cabo la unificación entre 1859 y 1870; conservó el ordinal II, lo que molestó en el sur. Buscó reformar la economía y los impuestos. Tras la toma de Roma fue excomulgado y Pío IX no reconoció el Estado; la cuestión romana duró hasta 1929."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Garibaldi dejó a Mazzini al optar por una corona constitucional encabezada por el rey piamontés, y en 1870 nació el régimen parlamentario italiano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La alianza de Garibaldi con la monarquía consta. En lo leído ya había Parlamento en el reino sardo en 1849, antes de la fecha de 1870 que da el autor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
