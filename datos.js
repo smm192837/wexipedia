@@ -34671,6 +34671,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El gasto",
+     "nivel": "hecho",
+     "texto": "En Estados Unidos el gasto sanitario fue en 2021 el 18,3 % del PIB, según la oficina actuarial de los Centros de Medicare y Medicaid."
+    },
+    {
+     "titulo": "Lo que consta",
+     "nivel": "hecho",
+     "texto": "La Sociedad Americana del Cáncer informó en 2026 de que la supervivencia relativa a cinco años del conjunto de cánceres llegó al 70 % en los diagnosticados en 2015-2021. Sobre el coste de desarrollar un fármaco, un artículo de News-Medical de 2020 recoge estimaciones de entre 314 y 2.800 millones de dólares, basadas en buena parte en datos privados no verificables."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El coste de aprobar fármacos alimenta el debate sobre su precio y sobre qué investigaciones salen a cuenta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, se estudian las plantas solo para copiar su principio activo en algo patentable; EE. UU. gasta el 15 % del PIB en atender síntomas para crear clientes recurrentes; no hay cura industrial para el cáncer y probar un remedio cuesta de 20 a 100 millones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El gasto es mayor que el citado y las estimaciones de coste leídas están muy por encima de la horquilla del autor. Que el sistema evite curar no sale de las fuentes leídas; la supervivencia del cáncer ha mejorado mucho."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -51946,6 +51973,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Gengis Kan creó el imperio mongol y tuvo cuatro hijos principales."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Tras su muerte en 1227 empezó la descentralización: el primogénito heredó los dominios de la Horda de Oro en Rusia, Chagatai Asia central y Ogodei, su sucesor, el norte de China y la tierra mongola; una cuarta parte abarcó Persia y Asia occidental, el Ilkanato. Hacia 1260 los cuatro dominios eran prácticamente independientes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, en la máxima expansión se decretó que los súbditos vivieran en paz y se prohibió a los poderosos oprimir a los pobres, y habla de una división de poderes en tres."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El reparto territorial entre las ramas de la familia consta. En lo leído no aparece una separación de poderes entre clero, patriciado y nobleza ni el decreto que describe el autor."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -54159,6 +54208,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Empresas estadounidenses vendieron a China durante años tecnología que acabó formando parte de su aparato de vigilancia, pese a avisos en el Congreso y la prensa de que servía para reprimir disidentes y minorías."
+    },
+    {
+     "titulo": "Lo que consta",
+     "nivel": "hecho",
+     "texto": "La investigación de Associated Press publicada en septiembre de 2025 sostiene que esa tecnología hizo posible la campaña de detención masiva en Xinjiang, mediante la llamada «policía predictiva», que cruza mensajes, llamadas, pagos, vuelos, vídeo y muestras de ADN. Partió de correos internos y una base de datos de la empresa china Landasoft obtenidos por Yael Grauer."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Las empresas hicieron negocio con ello; IBM, Dell y otras respondieron que cumplen la ley."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, un periodista británico destapó que los programas de identificación facial y racial chinos vienen de Silicon Valley, un experimento que se extenderá al mundo; resume además la investigación de Associated Press sobre IBM, Dell, Intel, Nvidia o Microsoft."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El papel de empresas de EE. UU. consta según la investigación. Que sea un experimento para extenderlo al mundo es tesis del autor; en lo leído no aparece el periodista británico al que se refiere."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
