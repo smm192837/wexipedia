@@ -50529,6 +50529,11 @@ window.CRONO = {
       "titulo": "Harvard Nuremberg: Albert Hartl",
       "url": "https://nuremberg.law.harvard.edu/documents/authors/3862-albert-hartl",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Albert Hartl",
+      "url": "https://en.wikipedia.org/wiki/Albert_Hartl",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50540,6 +50545,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Antiguo sacerdote católico alemán (13-11-1904 – 14-12-1982), formado en el seminario de Freising y la Universidad de Múnich y ordenado en 1929 por el cardenal Faulhaber."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se afilió al partido nazi y en 1933 se hizo informante pagado del SD, el servicio de inteligencia de las SS. Denunció por actividad antinazi al sacerdote Josef Rossberger, al parecer su mejor amigo, que fue juzgado y encarcelado; Hartl pasó a ser protegido de Heydrich, dejó el sacerdocio e ingresó en el SD. Según Gitta Sereny, desde 1935 dirigió la información sobre las iglesias, y en 1941 quedó al frente de la oficina de la Gestapo dedicada a las sectas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue un sacerdote renegado activo entre 1934 y 1945 en los servicios de información nazis, buen conocedor de los jesuitas, que estuvo en Rusia en 1941-1943."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El paso por el SD y la Gestapo consta. El artículo leído es muy breve y no menciona los jesuitas, Rusia ni lo que hizo después de 1941."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -51259,6 +51286,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://Www.Wikipedia.org/wiki/Alois_Brunner",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Alois Brunner",
+      "url": "https://es.wikipedia.org/wiki/Alois_Brunner",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Alois Brunner",
+      "url": "https://en.wikipedia.org/wiki/Alois_Brunner",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51270,6 +51307,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Oficial de las SS y criminal de guerra austríaco (Nádkút, 8-4-1912 – Siria, c. 2001 o 2010), hijo de un granjero; estudió contabilidad y trabajó de vendedor hasta 1932."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Ayudante de Eichmann en la sección de la Gestapo encargada de las deportaciones, que lo llamó su mejor hombre, organizó transportes desde Austria, Francia, Eslovaquia y otros lugares y envió a unos 100.000 judíos a las cámaras de gas. Mandó el campo de Drancy de junio de 1943 a agosto de 1944. Eludió el juicio, se fue en 1954 a Egipto y después a Siria, donde perdió un ojo y varios dedos por cartas bomba en 1961 y 1980, atribuidas a la inteligencia israelí. Francia lo condenó en ausencia; murió sin cumplir pena y sin mostrar arrepentimiento."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Brunner fue uno de los miles de nazis acogidos en El Cairo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su paso por Egipto en 1954 consta, antes de instalarse en Siria; no aparece El Cairo en el artículo en español ni la cifra de miles de nazis. La fecha de la muerte no está fijada: el Centro Simon Wiesenthal informó en 2014 de que habría muerto en Siria en 2010."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -51308,6 +51367,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Alois Konstantin zu Löwenstein-Wertheim-Rosenberg",
       "url": "https://en.wikipedia.org/wiki/Alois_Konstantin_zu_Löwenstein-Wertheim-Rosenberg",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Alois Konstantin zu Löwenstein-Wertheim-Rosenberg",
+      "url": "https://en.wikipedia.org/wiki/Alois_Konstantin_zu_L%C3%B6wenstein-Wertheim-Rosenberg",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51323,6 +51387,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario alemán (Würzburg, 16-12-1941), único hijo varón de Karl zu Löwenstein y Carolina dei Conti Rignon; jefe desde 1990 de la casa católica de Löwenstein-Wertheim-Rosenberg."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Licenciado en Derecho por Würzburg, trabajó para Gulf Oil en Pittsburgh y fue director de Merck Finck & Co y del banco LGT. Comendador de la orden del Santo Sepulcro y caballero del Toisón de Oro, es consejero de la fundación pontificia Centesimus Annus y dirigió el Foro de Católicos Alemanes. Se casó en 1965 con Anastasia de Prusia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, dirigió Merck Finck, el banco alemán que tomó en la guerra el banco austriaco de los Rothschild."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La dirección de Merck Finck consta, décadas después de la guerra (nació en 1941). El artículo leído no menciona a los Rothschild; la versión oficial recoge por su parte que Merck Finck administró desde 1938 y compró después el banco vienés de los Rothschild."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -51360,12 +51446,44 @@ window.CRONO = {
       "titulo": "Wikipedia: Aly Khan",
       "url": "https://en.wikipedia.org/wiki/Aly_Khan",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Alí Khan",
+      "url": "https://es.wikipedia.org/wiki/Al%C3%AD_Khan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Aly Khan",
+      "url": "https://en.wikipedia.org/wiki/Aly_Khan",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "citas": [],
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Príncipe ismaelí (Turín, 13-6-1911 – París, 12-5-1960), hijo del Aga Khan III y de una italiana, conocido como jinete, propietario de caballos de carreras y figura de la prensa."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en la Legión Extranjera francesa desde 1939 y en un regimiento británico desde 1940, hasta teniente coronel. Se casó en 1936 con Joan Yarde-Buller y fue después el tercer marido de la actriz Rita Hayworth. En el testamento de 1957 su padre dejó el título a su hijo Karim, Aga Khan IV. Desde 1958 representó a Pakistán ante la ONU y fue vicepresidente de la Asamblea General. Murió tras un accidente de tráfico en Suresnes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Madole tenía relación con el príncipe Aly Khan."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La relación con Madole no aparece ni en los artículos sobre Aly Khan ni en el de Madole leídos hoy: queda sin comprobar."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -51412,6 +51530,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Amancio Ortega",
       "url": "https://es.wikipedia.org/wiki/Amancio_Ortega",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Amancio Ortega",
+      "url": "https://es.wikipedia.org/wiki/Amancio_Ortega",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51423,6 +51546,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario textil español (Busdongo de Arbas, León, 28-3-1936), hijo de un ferroviario; de niño se trasladó a Tolosa."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó a los doce años como empleado de tiendas de ropa, creó en 1963 Confecciones GOA, de albornoces, y fundó con Rosalía Mera Inditex y la cadena Zara; sumó marcas como Pull & Bear, Bershka y Oysho, compró Massimo Dutti (1995) y Stradivarius (1999) y sacó el grupo a bolsa en 2001. Dejó la presidencia en 2011. Conserva casi el 60 % de Inditex, reúne su patrimonio en Pontegadea, con inversiones inmobiliarias y financieras, y su fundación donó 20 millones a Cáritas en 2012 y equipos contra el cáncer a hospitales. Ha recibido críticas por sus proveedores."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, compró Massimo Dutti, cuyo nombre honra a la familia Massimo a la que sirve; se mudó a Galicia para blanquear dinero de los Osorio y paga tributo al Vaticano a través de Cáritas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la compra de Massimo Dutti y la donación a Cáritas, presentada como filantropía. El origen del nombre, los Osorio, el blanqueo y el tributo al Vaticano no aparecen en lo leído y no tienen respaldo: son acusaciones del autor sin comprobar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -51872,6 +52017,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Anton Rupert",
       "url": "https://es.wikipedia.org/wiki/Anton_Rupert",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Anton Rupert",
+      "url": "https://es.wikipedia.org/wiki/Anton_Rupert",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Anton Rupert",
+      "url": "https://en.wikipedia.org/wiki/Anton_Rupert",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51887,6 +52042,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario, filántropo y conservacionista sudafricano (Graaff-Reinet, 4-10-1916 – Stellenbosch, 18-1-2006), formado en Química en la Universidad de Pretoria, donde luego enseñó."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó en 1941 con un negocio de limpieza en seco y, con una inversión mínima y dos socios, a fabricar cigarrillos; de ahí creció el grupo Rembrandt, tabaco y artículos de lujo, del que salió también la sociedad de inversión Remgro, y entró en las listas de Forbes de grandes fortunas. Fue miembro fundador del WWF y presidente de su rama sudafricana, impulsó los parques transfronterizos y fundó en 1997 la Peace Parks Foundation, con Nelson Mandela y el príncipe Bernardo como patrocinadores fundadores."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, creó el Club de los 1001 con el príncipe Bernardo para financiar el WWF."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo en español liga a Rupert con el fondo «1001» de 1970, sin cita que lo respalde, y el artículo sobre Bernardo atribuye la fundación del 1001 Club al príncipe: las dos mitades constan por separado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -51921,6 +52098,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Antonio García-Trevijano",
+      "url": "https://es.wikipedia.org/wiki/Antonio_Garc%C3%ADa-Trevijano",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51932,6 +52114,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista, notario y pensador republicano español (Alhama de Granada, 18-7-1927 – Madrid, 28-2-2018), cuarto de ocho hijos de un registrador de la propiedad."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Rafael Calvo Serer lo introdujo en el círculo de Don Juan en Estoril. Apoyó el diario «Madrid» como medio de oposición, participó en el proceso de independencia de Guinea Ecuatorial y financió a fondo perdido la editorial antifranquista Ruedo Ibérico. En 1974 promovió la Junta Democrática de España, de la que fue coordinador y redactor del manifiesto, y organizó su fusión en la «Platajunta». Sufrió cárcel, multas y un atentado ultraderechista. Defendió la ruptura, rechazó el sistema de 1978 como partitocracia y en 2006 fundó un movimiento por la república constitucional."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, García-Trevijano, amigo de Juan de Borbón, no hay que tomarlo en serio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo cita a Calvo Serer, que lo llama hombre de confianza de Don Juan, aunque no lo nombraron consejero por no ser monárquico. El juicio sobre si hay que tomarlo en serio es una opinión del autor, no un hecho comprobable."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -52038,6 +52242,16 @@ window.CRONO = {
       "titulo": "The New York Review of Books: reseña de Turner, German Big Business and the Rise of Hitler (1985)",
       "url": "https://www.nybooks.com/articles/1985/09/26/business-as-usual/",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Antony Sutton",
+      "url": "https://es.wikipedia.org/wiki/Antony_Sutton",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Antony C. Sutton",
+      "url": "https://en.wikipedia.org/wiki/Antony_C._Sutton",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52049,6 +52263,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista e historiador británico (Londres, 14-2-1925 – Reno, 17-6-2002), formado en Londres, Gotinga y California y doctor en ciencias por Southampton; liberal ferviente y contrario al corporativismo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó Economía en la UCLA e investigó en la Hoover Institution (1968-1973). En tres volúmenes sobre la tecnología occidental sostuvo que el 95 % de la infraestructura industrial soviética se construyó con asistencia o empresas occidentales y crédito de sus gobiernos, trabajo que elogió Brzezinski. Después publicó los libros sobre Wall Street y la revolución bolchevique, el ascenso de Hitler y Roosevelt; salió de la Hoover Institution, cuyo director lo consideraba un problema. En los ochenta investigó la orden Skull and Bones y más tarde la fusión fría. Según él, la gran banca buscaba un «socialismo corporativo». Sus libros, sobre todo la trilogía, recibieron críticas académicas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, siguiendo a Sutton, los Warburg, Schiff y Loeb financiaron por igual al marxismo y al fascismo, y otros miembros de los Peregrinos financiaron a los bolcheviques; lo recomienda como el mejor autor sobre Wall Street y los dos totalitarismos y rechaza que se cuestione su credibilidad."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la tesis general de Sutton sobre la gran banca y los bolcheviques y nazis, y también la crítica académica. Los nombres Warburg, Schiff, Loeb y los Peregrinos no aparecen en lo buscado; que una tesis esté en Sutton no la convierte en hecho comprobado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -52823,6 +53059,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Benjamín Netanyahu",
       "url": "https://es.wikipedia.org/wiki/Benjam%C3%ADn_Netanyahu",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Benjamín Netanyahu",
+      "url": "https://es.wikipedia.org/wiki/Benjam%C3%ADn_Netanyahu",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52834,6 +53075,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político israelí (Tel Aviv, 21-10-1949), de padres judíos seculares; el primer jefe de gobierno nacido después de la creación de Israel. Sirvió en la unidad de operaciones especiales Sayeret Matkal y estudió en el MIT, con un máster en su escuela de negocios en 1977."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó en el Boston Consulting Group, donde trabó amistad con Mitt Romney; volvió a Israel, creó un instituto antiterrorista con el nombre de su hermano, muerto en Entebbe, y fue embajador ante la ONU (1984-1988). Líder del Likud desde 1993, ha sido primer ministro en 1996-1999, 2009-2021 y desde diciembre de 2022, el que más tiempo ha ocupado el cargo, y entre medias ministro de Exteriores y de Finanzas. Ha hecho de su cercanía a Trump una baza política y de la amenaza nuclear iraní un tema central; en 2002 sostuvo ante el Congreso de EE. UU. que no había duda de que Irak buscaba armas nucleares. Imputado por corrupción en el cargo, criticado por el fallo ante el ataque de Hamás de 2023 y por los asentamientos, la Corte Penal Internacional ordenó su detención en noviembre de 2024 por presuntos crímenes en Gaza."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, lleva desde los años noventa anunciando que Irán está a semanas de la bomba y la novedad de 2026 sería haber encontrado un presidente que le haga caso; el invitado recoge el rumor, que el autor no da por probado, de que no se le veía y circulaban vídeos manipulados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su insistencia en la amenaza iraní consta al menos desde 2009 en los pasajes leídos; los anuncios de «semanas» desde los noventa y el rumor sobre su desaparición no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -52895,6 +53158,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Bernardo de Lippe-Biesterfeld",
       "url": "https://es.wikipedia.org/wiki/Bernardo_de_Lippe-Biesterfeld",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Bernardo de Lippe-Biesterfeld",
+      "url": "https://es.wikipedia.org/wiki/Bernardo_de_Lippe-Biesterfeld",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Prince Bernhard of Lippe-Biesterfeld",
+      "url": "https://en.wikipedia.org/wiki/Prince_Bernhard_of_Lippe-Biesterfeld",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -52910,6 +53183,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Noble alemán (Jena, 29-6-1911 – Utrecht, 1-12-2004), príncipe consorte de los Países Bajos por su matrimonio con Juliana y padre de la reina Beatriz."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "De joven se afilió al partido nazi, a las SA y a la caballería de las SS, afiliaciones que sus partidarios explican como conveniencia; trabajó para IG Farben en París desde 1935. Tras la invasión de los Países Bajos se alineó con los Aliados y fue piloto; después fue inspector general de las fuerzas armadas. En mayo de 1954 fue el principal organizador de la reunión del hotel Bilderberg, origen del grupo que cofundó. Primer presidente del WWF en 1961, creó en 1970 el 1001 Club para financiar la conservación. En 1976 el escándalo Lockheed, por un soborno de 1,1 millones de dólares, lo obligó a dejar sus cargos militares y los de ambos grupos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue de las SS antes de fundar Bilderberg y su familia estaba emparentada con el dueño de la estancia San Ramón. Según Rubén Avilés, el WWF nació en 1961 por iniciativa de Julian Huxley y lo presidieron Bernardo, John Loudon y Carlos III, con Juan Carlos como presidente honorario; en los setenta Bernardo y Anton Rupert crearon el Club de los 1001 (10.000 dólares por miembro), y Bernardo fundó Bilderberg y estuvo en la caballería de las SS."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan las SS, Bilderberg, la presidencia del WWF y el 1001 Club en 1970, que el artículo sobre Anton Rupert también asocia a este. El mismo príncipe negó hasta su muerte haber sido miembro del partido. La estancia San Ramón, Huxley, Loudon, Juan Carlos y la cuota de 10.000 dólares no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -53649,6 +53944,16 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: Charles Lindbergh",
       "url": "https://www.britannica.com/biography/Charles-Lindbergh",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Charles Lindbergh",
+      "url": "https://es.wikipedia.org/wiki/Charles_Lindbergh",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Charles Lindbergh",
+      "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53663,6 +53968,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Aviador e ingeniero estadounidense (Detroit, 7-2-1902 – Hawái, 26-8-1974), de familia de origen sueco; su padre fue congresista y se opuso a la entrada de EE. UU. en la Primera Guerra Mundial."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1927 voló sin escalas y en solitario de Nueva York a París en el «Spirit of St. Louis», en unas 33 horas y media, y ganó el premio Orteig de 25.000 dólares; su relato del vuelo le valió el Pulitzer en 1954. A finales de 1940 se convirtió en portavoz del comité aislacionista America First; en abril de 1941 dejó el cuerpo aéreo del ejército tras una reprimenda pública de Roosevelt, y el 11 de septiembre de 1941, en Des Moines, acusó a británicos, judíos y a la administración Roosevelt de empujar al país a la guerra. Según la Wikipedia en inglés, nunca apoyó en público a los nazis y los condenó varias veces, pero se relacionó con ellos en numerosas ocasiones en los años treinta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Lindbergh, piloto profascista y progermánico, pronunció el 11-9-1941 un discurso contra la entrada en la guerra, que resumía el ideario de America First, y se declaraba contra los británicos, los judíos y la administración Roosevelt."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El discurso, la fecha y los tres grupos señalados constan. El calificativo de profascista es del autor: lo leído habla de relaciones con los nazis y de que nunca los apoyó en público."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -54140,6 +54467,11 @@ window.CRONO = {
       "titulo": "Shannon Selin — Living descendants of Napoleon and the Bonapartes",
       "url": "https://shannonselin.com/?p=6902",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): David René de Rothschild",
+      "url": "https://en.wikipedia.org/wiki/David_Ren%C3%A9_de_Rothschild",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54163,6 +54495,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero francés de la rama francesa de los Rothschild, nacido en Nueva York el 15-12-1942 porque sus padres, Guy de Rothschild y Alix Schey de Koromla, habían huido de la ocupación alemana de Francia."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó en la minera Peñarroya, de la familia, se formó en la banca familiar y fue haciendo carrera en ella tras la reforma bancaria francesa; desde 2018 preside el consejo de vigilancia de Rothschild & Co y la sociedad suiza que agrupa la participación familiar, y su hijo Alexandre dirige el negocio. Ha estado en los órganos de De Beers y Casino, entre otras sociedades y ha presidido la Fundación para la Memoria de la Shoah."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, su matrimonio con la princesa Olimpia Aldobrandini muestra que las familias se casan con sus subalternos. Según Rubén Avilés, ella desciende de los Bonaparte por el príncipe Camillo Borghese, marido de Paulina Bonaparte."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El matrimonio de 1974 consta. El artículo leído no recoge ascendencia Bonaparte, y la versión oficial explica por qué no consta por esa vía. La lectura sobre los subalternos es del autor. El artículo le atribuye además desde 2013 la presidencia del Congreso Judío Mundial, dato que no se ha contrastado y conviene comprobar."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -54261,6 +54615,16 @@ window.CRONO = {
       "titulo": "Wikipedia: David Rockefeller",
       "url": "https://es.wikipedia.org/wiki/David_Rockefeller",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): David Rockefeller",
+      "url": "https://es.wikipedia.org/wiki/David_Rockefeller",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): David Rockefeller",
+      "url": "https://en.wikipedia.org/wiki/David_Rockefeller",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54276,6 +54640,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero estadounidense (Nueva York, 12-6-1915 – 20-3-2017), nieto de John D. Rockefeller, fundador de Standard Oil, y último hijo vivo de John D. Rockefeller Jr."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1946 entró en el Chase National Bank, ligado a la familia; lo presidió desde 1960, fue presidente y jefe ejecutivo de 1969 a 1980 y siguió como presidente hasta 1981, siendo el mayor accionista individual con un 1,7 %. Con él el banco se expandió por el mundo. Asistió en 1954 a la primera reunión de Bilderberg, impulsó la Comisión Trilateral (1973), presidió el Consejo de Relaciones Exteriores y desde 1978 fue la cabeza de la familia y de su oficina."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el atentado de Bolonia fue una falsa bandera financiada por David Rockefeller y la Trilateral; además, Rockefeller, miembro de los Peregrinos, fundador de Bilderberg y de la Trilateral, era accionista de International Resorts."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan su presencia en la primera reunión de Bilderberg y su relación con la Trilateral. El atentado de Bolonia, los Peregrinos e International Resorts no aparecen en lo buscado; la acusación sobre Bolonia no tiene respaldo en las fuentes leídas."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -54527,6 +54913,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com",
       "url": "https://www.encyclopedia.com/arts/educational-magazines/mckale-donald-m-1943",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Encyclopedia.com: McKale, Donald M. 1943-",
+      "url": "https://www.encyclopedia.com/arts/educational-magazines/mckale-donald-m-1943",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54538,6 +54929,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Historiador estadounidense nacido en Clay Center (Kansas) el 24-10-1943, formado en Iowa State (1966), Missouri (1967) y Kent State, donde se doctoró en 1970."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en Georgia College desde 1970 y en la Universidad de Clemson desde 1979. Escribió sobre los tribunales del partido nazi (1974), la organización exterior del partido (1977), el mito de la supervivencia de Hitler (1981, reeditado en 2001), el diplomático Curt Prüfer, la guerra germano-británica por Oriente Próximo en la Primera Guerra Mundial y «Hitler's Shadow War» (2002), sobre el Holocausto y la guerra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, McKale sitúa el origen del rumor de la huida de Hitler en un submarino rendido en julio de 1945."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que McKale escribió «Hitler: The Survival Myth». El libro no se ha abierto, así que el origen del rumor que le atribuye el autor queda sin comprobar."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -54575,6 +54988,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Donald Rumsfeld",
       "url": "https://es.wikipedia.org/wiki/Donald_Rumsfeld",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Donald Rumsfeld",
+      "url": "https://es.wikipedia.org/wiki/Donald_Rumsfeld",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Donald Rumsfeld",
+      "url": "https://en.wikipedia.org/wiki/Donald_Rumsfeld",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54590,6 +55013,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y empresario estadounidense (Chicago, 9-7-1932 – Taos, 29-6-2021), licenciado en Ciencias Políticas por Princeton en 1954; sirvió tres años en la Marina."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Congresista republicano por Illinois desde 1962, dirigió la Oficina de Oportunidades Económicas con Nixon, fue embajador ante la OTAN y jefe de gabinete de Ford, y secretario de Defensa en 1975-1977 y 2001-2006. Entre ambos periodos dirigió la farmacéutica G. D. Searle, después General Instrument y presidió Gilead Sciences, y fue enviado de Reagan en Oriente Próximo. Fue el principal defensor de las guerras de Afganistán e Irak; afirmó que Irak tenía armas de destrucción masiva, que nunca se encontraron."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, antes de la guerra de Irak (o de Afganistán) Rumsfeld visitó a Elvina Pallavicini en su palacio de Roma."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La visita no aparece en lo leído sobre Rumsfeld. El artículo italiano sobre Pallavicini solo dice que ella apoyó sus políticas."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -54862,6 +55307,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Roy Cohn",
       "url": "https://es.wikipedia.org/wiki/Roy_Cohn"
+     },
+     {
+      "titulo": "Wikipedia (es): Donald Trump",
+      "url": "https://es.wikipedia.org/wiki/Donald_Trump",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -54876,6 +55331,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario, personalidad televisiva y político republicano estadounidense (Nueva York, 14-6-1946), criado en Queens, formado en una academia militar, dos años en Fordham y titulado en Economía por Wharton en 1968."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en la empresa inmobiliaria de su padre y la dirigió desde los años setenta como Trump Organization; saltó a Manhattan con proyectos como el hotel Commodore, apoyado en una exención fiscal de 40 años. Según el artículo en inglés, Roy Cohn fue su abogado, mentor y principal influencia después de su padre durante 13 años. Entró en el negocio de los casinos (en 1988 adquirió el Taj Mahal en una operación con Merv Griffin y Resorts International), se endeudó hasta la quiebra a comienzos de los noventa, con reestructuración de bancos y bonistas, y acumuló seis quiebras empresariales entre 1991 y 2009; después la mayoría de los grandes bancos, salvo Deutsche Bank, dejaron de prestarle. Presentó «The Apprentice» (2004-2015) y fue accionista principal de Miss Universo. Presidente en 2017-2021 y de nuevo desde 2025, es el primero que lo es tras una condena penal; en junio de 2025 se sumó a Israel en la guerra contra Irán bombardeando instalaciones nucleares."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, lo prepararon los jesuitas en Fordham y sus hijos estudiaron con jesuitas en Georgetown, tiene fotos con el duque de Castro, los Caetani y un mafioso, su abogado era el de la mafia, lanzó la guerra contra Irán, usa el puño en alto como Xi Jinping y fue nombrado junto a Epstein en una demanda. Según Giuseppe Nocera, los Gaetani le dieron cemento y tuvo una deuda de 850 millones con UBS. Según Guillermo Mas Arellano, es una figura cesarista formada por los jesuitas, coincide con León XIV, es discípulo de Cohn, que lo unió a Murdoch, Stone y los casinos y le ganó casos con información sobre fiscales, dirigió Resorts por su consejo y entró en los planes de la CIA y la mafia; su abuelo tuvo burdeles en Seattle y su abuela fue ejecutiva del Chase; Mellon, Wilbur Ross, Tillerson y la Sociedad de los Peregrinos lo rodean, y Mogilevich y Bogatin vivieron en su torre; los atentados fallidos forman parte de un rito de matar al rey. El invitado de otro programa sostiene que Israel instrumentalizó a EE. UU. y que su base le dio la espalda."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan los dos años en Fordham, el papel de Cohn, la operación con Resorts International, la amistad de años con Epstein (el artículo en inglés la cifra en 15), los nombramientos de Ross y Tillerson y el bombardeo de 2025, que fue sumándose a una guerra de Israel y no una ofensiva lanzada por él. La demanda que menciona Avilés no se ha comprobado. En los pasajes buscados no aparecen Georgetown, los Caetani, UBS, Seattle, la abuela en el Chase, Mellon, los Peregrinos ni Mogilevich; las lecturas simbólicas son del autor."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55030,6 +55507,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Eduardo de Kent (1935)",
       "url": "https://es.wikipedia.org/wiki/Eduardo_de_Kent_(1935)",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Eduardo de Kent (1935)",
+      "url": "https://es.wikipedia.org/wiki/Eduardo_de_Kent_(1935)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Prince Edward, Duke of Kent",
+      "url": "https://en.wikipedia.org/wiki/Prince_Edward,_Duke_of_Kent",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -55045,6 +55532,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Miembro de la familia real británica (Londres, 9-10-1935), nieto de Jorge V y primo de Isabel II; duque de Kent desde la muerte de su padre en 1942."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Formado en la academia militar de Sandhurst, hizo carrera en el ejército desde 1955 hasta los grados más altos y representó a la reina en actos oficiales. Se casó en 1961 con Katharine Worsley. Francmasón activo, es gran maestre de la Gran Logia Unida de Inglaterra desde 1967. En 2015 recibió el premio Dresde por su labor de reconciliación británico-alemana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el duque de Kent, gran maestre de la masonería, es caballero de la orden de los Borbón-Dos Sicilias."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La jefatura masónica consta. La orden de los Borbón-Dos Sicilias no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55706,6 +56215,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://it.wikipedia.org/wiki/Elvina_Pallavicini",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (it): Elvina Pallavicini",
+      "url": "https://it.wikipedia.org/wiki/Elvina_Pallavicini",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Elvina Pallavicini",
+      "url": "https://en.wikipedia.org/wiki/Elvina_Pallavicini",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -55721,6 +56240,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Aristócrata italiana (Génova, 22-1-1914 – Cortina d'Ampezzo, 29-8-2004), hija del marqués Giacomo Medici del Vascello y de Olga Leumann."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1939 se casó con el príncipe Pallavicini, piloto militar desaparecido en combate en 1940. Durante la ocupación alemana de Roma apoyó a los partisanos monárquicos, lo que le valió la medalla de bronce al valor militar. Desde 1977 encabezó el grupo de la «nobleza negra» romana que respaldó al arzobispo Lefebvre, a quien acogió en su palacio. A comienzos de los años 2000 apoyó en política a Cheney y Rumsfeld."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los Pallavicini proceden de Irán y empujaron a la guerra, y Rumsfeld fue a verla a su palacio antes de la invasión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta su apoyo a las políticas de Cheney y Rumsfeld. En los artículos leídos no aparecen el origen iraní de la familia ni la visita de Rumsfeld."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -55998,6 +56539,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Erich Priebke",
       "url": "https://es.wikipedia.org/wiki/Erich_Priebke",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Erich Priebke",
+      "url": "https://es.wikipedia.org/wiki/Erich_Priebke",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56013,6 +56559,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Capitán de las SS alemán (Hennigsdorf, 29-7-1913 – Roma, 11-10-2013)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue el principal colaborador de Kappler en la matanza de las Fosas Ardeatinas (24-3-1944, 335 italianos asesinados) en represalia por una bomba partisana. En 1946 escapó del campo de Rímini, obtuvo documentos falsos en Roma y huyó a Argentina, con apoyo de algunos sacerdotes del Tirol del Sur; vivió medio siglo en San Carlos de Bariloche, donde fue un miembro destacado de la comunidad alemana. Descubierto por una televisión estadounidense, fue extraditado a Italia en 1995, condenado en 1998 a cadena perpetua tras varias apelaciones y murió en arresto domiciliario; Roma y el Vaticano rechazaron celebrar sus exequias."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Priebke vivió en Bariloche, la «capital del Tercer Reich en el exilio»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La residencia en Bariloche consta; la expresión sobre la capital en el exilio es del autor y no aparece en el artículo. El descubrimiento televisivo aparece fechado en 1995, y el artículo sobre Reinhard Kopps sitúa el reportaje en mayo de 1994."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -56304,6 +56872,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Eustace Mullins",
       "url": "https://en.wikipedia.org/wiki/Eustace_Mullins",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Eustace Mullins",
+      "url": "https://en.wikipedia.org/wiki/Eustace_Mullins",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56318,6 +56891,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor estadounidense (Roanoke, 9-3-1923 – Hockley, Texas, 2-2-2010), supremacista blanco, teórico de la conspiración antisemita y negacionista del Holocausto; veterano de la aviación en la Segunda Guerra Mundial y graduado en 1949."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó en la Biblioteca del Congreso como investigador fotográfico, ayudó en 1950 al senador McCarthy y fue discípulo de Ezra Pound, de quien escribió una biografía. Poco después de publicar «Los secretos de la Reserva Federal» (1952), donde sostiene que varios banqueros conspiraron para redactar la ley, fue despedido por difundir artículos violentamente antisemitas. Colaboró con el National Renaissance Party de Madole y otros grupos, fabricó textos falsos que circularon en la extrema derecha y presentó numerosos pleitos; el Southern Poverty Law Center lo llamó una organización del odio de un solo hombre."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Pound dijo al joven Mullins en el psiquiátrico que investigara el dinero; el libro sobre la Reserva Federal nació de esa inspiración, Mullins fundó un comité para liberar a Pound y fue miembro del NRP; Ernie Lazar mostró que alteró documentos del FBI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la relación con Pound, el libro y el NRP. El consejo en el psiquiátrico, el comité y Ernie Lazar no aparecen en lo buscado; el artículo sí recoge que Mullins fabricaba textos falsos."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -56363,6 +56958,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Eva Perón",
       "url": "https://es.wikipedia.org/wiki/Eva_Per%C3%B3n",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Eva Perón",
+      "url": "https://es.wikipedia.org/wiki/Eva_Per%C3%B3n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Eva Perón",
+      "url": "https://en.wikipedia.org/wiki/Eva_Per%C3%B3n",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56377,6 +56982,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Actriz y política argentina (Los Toldos, 7-5-1919 – Buenos Aires, 26-7-1952), hija extramatrimonial de Juana Ibarguren y Juan Duarte, con una infancia pobre."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Llegó a Buenos Aires en 1935, en 1943 era una de las actrices de radio mejor pagadas y cofundó el sindicato del sector. Conoció a Perón en 1944 y se casaron al año siguiente; primera dama desde 1946, su poder creció con la Fundación Eva Perón, la asistencia social, la defensa de los trabajadores y el voto femenino. En 1947 hizo una gira de 64 días, la mayor parte por Europa, con seis días en Suiza. Su figura sigue dividiendo a los argentinos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Bormann aprobó en 1944 en Estrasburgo la fuga de capitales a Buenos Aires; Skorzeny habría movido el dinero a Argentina, donde pasó a los Perón por el Deutsche Bank, y Evita, tras apropiarse del oro, depositó en su gira de 1947 más de 800 millones en Suiza."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo en inglés recoge que la oposición antiperonista especuló con que la gira servía para depositar fondos en Suiza y lo cuestiona, porque había formas mucho más discretas de hacerlo. Estrasburgo, Bormann, Skorzeny y el Deutsche Bank no aparecen en los artículos leídos."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -56915,6 +57542,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Fernand Braudel",
       "url": "https://es.wikipedia.org/wiki/Fernand_Braudel",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Fernand Braudel",
+      "url": "https://es.wikipedia.org/wiki/Fernand_Braudel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56926,6 +57558,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Historiador francés (Luméville-en-Ornois, 24-8-1902 – Cluses, 27-11-1985), de origen campesino según sus propias palabras e hijo de un profesor de matemáticas. Uno de los miembros más destacados de la escuela de los Annales, renovó la historiografía del siglo XX al meter la economía y la geografía en la historia total."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Profesor en Bar-le-Duc desde 1923 y después en Argel y en liceos de París; hacia 1935 viajó a São Paulo para fundar la cátedra de historia de la universidad. Prisionero en Alemania desde 1940, sentó allí, trabajando de memoria, las bases de su libro sobre el Mediterráneo en la época de Felipe II, que defendió como tesis doctoral en 1947. En 1947-1948 participó con Lucien Febvre y Charles Morazé en la creación de la sexta sección de la École pratique des hautes études, dedicada a economía y sociedades, fundada en parte gracias al mecenazgo de la Fundación Rockefeller y de la que fue secretario. En «Civilización material, economía y capitalismo» (1979) defendió que el capitalismo no es una ideología, sino un sistema económico desarrollado poco a poco por estrategias de poder."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Braudel ve en Venecia el gran triunfo comercial medieval: una ciudad que, sin otra industria que sus astilleros, dominaba el Mediterráneo en el siglo XIV."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo leído nombra a Venecia entre los centros sucesivos del capitalismo, pero en los pasajes leídos no aparece la frase sobre los astilleros ni el siglo XIV. Sobre el nacimiento, la versión oficial dice Lunéville y el artículo leído dice Luméville-en-Ornois (Mosa), que es otro lugar: conviene contrastarlo."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -57070,6 +57724,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Fidel Castro",
       "url": "https://es.wikipedia.org/wiki/Fidel_Castro"
+     },
+     {
+      "titulo": "Wikipedia (es): Fidel Castro",
+      "url": "https://es.wikipedia.org/wiki/Fidel_Castro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Fidel Castro",
+      "url": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57080,6 +57744,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y revolucionario cubano (Birán, 13-8-1926 – La Habana, 25-11-2016), hijo de un campesino español acaudalado. Estudió en los lasalianos y en dos colegios de jesuitas en Cuba (Dolores, en Santiago, y Belén, en La Habana) y Derecho en la Universidad de La Habana desde 1945."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Asaltó el cuartel Moncada en 1953, fue encarcelado e indultado y preparó en México la expedición de 1956, financiada por varias fuentes, entre ellas el exministro Aureliano Sánchez Arango. Derrocó a Batista el 1 de enero de 1959; primer ministro hasta 1976 y presidente hasta 2008. Declaró marxista la revolución en 1961, afrontó Bahía de Cochinos, la crisis de los misiles con apoyo soviético y el «periodo especial» tras caer la URSS; delegó el poder en su hermano Raúl en 2006. Varias fuentes lo consideran un dictador. Forbes estimó en 2006 su fortuna en 900 millones de dólares, contando buena parte de patrimonio público."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, lo prepararon los jesuitas en España; no sabe si era caballero de Malta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los jesuitas lo educaron, pero en Cuba: no aparece formación en España. Sobre la Orden de Malta no se ha hallado nada en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -57231,6 +57917,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Francis Parker Yockey",
       "url": "https://en.wikipedia.org/wiki/Francis_Parker_Yockey",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Francis Parker Yockey",
+      "url": "https://es.wikipedia.org/wiki/Francis_Parker_Yockey",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Francis Parker Yockey",
+      "url": "https://en.wikipedia.org/wiki/Francis_Parker_Yockey",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57241,6 +57937,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y escritor estadounidense (18-9-1917 – 1960), fascista, supremacista blanco y antisemita, católico en su juventud y atraído primero por el marxismo; uno de los primeros negacionistas del Holocausto."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En los años treinta se acercó a grupos pronazis como la Legión de Plata. Trabajó once meses en un tribunal de crímenes de guerra en Alemania, del que fue despedido por ponerse del lado de los nazis. En 1948 publicó «Imperium» como Ulick Varange, obra inspirada en Spengler que pedía un imperio europeo y que elogió Evola; propuso una alianza entre extrema derecha y bloque comunista contra EE. UU. Detenido en 1960 cuando se descubrieron sus pasaportes y partidas falsificadas, apareció muerto en su celda en San Francisco, bajo vigilancia del FBI, junto a una cápsula de cianuro; dejó una nota. Willis Carto difundió su obra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue el principal ideólogo de la internacional fascista; su «Imperium» presentó la caída del Reich como un revés temporal, bajo la influencia de Spengler, Schmitt y Haushofer."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan «Imperium», el seudónimo, la fecha y las tres influencias. El rango de principal ideólogo es una valoración del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -57912,6 +58630,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Gamal Abdel Nasser",
       "url": "https://es.wikipedia.org/wiki/Gamal Abdel Nasser",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Gamal Abdel Nasser",
+      "url": "https://es.wikipedia.org/wiki/Gamal_Abdel_Nasser",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Gamal Abdel Nasser",
+      "url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57927,6 +58655,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y estadista egipcio (Alejandría, 15-1-1918 – El Cairo, 28-9-1970), hijo mayor de un empleado de correos; según otras fuentes nació en la provincia de Asiut. Principal líder del panarabismo y del socialismo árabe de su época."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró como teniente tras la Academia Militar, combatió en la guerra de 1948 y en 1949 fundó con otros oficiales los Oficiales Libres, que en 1952 destronaron a Faruq. Apartó a Naguib y se hizo con el poder. En Bandung (1955) fue la voz árabe principal; cuando las potencias occidentales se negaron a financiar la presa de Asuán nacionalizó el Canal de Suez (1956), lo que provocó el ataque de Reino Unido, Francia e Israel. Quiso fundir socialismo e islam y afirmar el liderazgo egipcio en el mundo árabe. Murió de un ataque al corazón y le sucedió Sadat."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Nasser, «elegido por la CIA», pidió ayuda y Gehlen recomendó a Skorzeny."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La CIA, Gehlen y Skorzeny no aparecen en los dos artículos leídos sobre Nasser. El artículo en español lo da como presidente desde 1954 y la versión oficial desde 1956."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -58233,6 +58983,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Geoffrey_Parker_(historian)",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Geoffrey Parker",
+      "url": "https://es.wikipedia.org/wiki/Geoffrey_Parker",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58248,6 +59003,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Historiador británico (Nottingham, 25-12-1943), discípulo de John H. Elliott y uno de los mayores conocedores de la España de los siglos XVI y XVII."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en St. Andrews, la Columbia Británica, Illinois y Yale, y desde 1997 es catedrático en la Universidad Estatal de Ohio. Autor de más de treinta libros, entre ellos los dedicados al ejército de Flandes y el camino español, la rebelión de Flandes, la revolución militar, la gran estrategia de Felipe II y la Guerra de los Treinta Años. Es miembro de la Academia Británica y correspondiente de la Real Academia de la Historia desde 1987."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, que cita el libro de Parker sobre la Guerra de los Treinta Años, la guerra de los uscocos fue un conflicto menor que amenazó con una guerra general."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro consta en su bibliografía; no se ha abierto, así que la cita sobre los uscocos queda sin comprobar en el original."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -58357,6 +59134,16 @@ window.CRONO = {
       "titulo": "Wikipedia: George Orwell",
       "url": "https://en.wikipedia.org/wiki/George_Orwell",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): George Orwell",
+      "url": "https://es.wikipedia.org/wiki/George_Orwell",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): George Orwell",
+      "url": "https://en.wikipedia.org/wiki/George_Orwell",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58385,6 +59172,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Seudónimo de Eric Arthur Blair (Motihari, India, 25-6-1903 – Londres, 21-1-1950), novelista, periodista y ensayista británico, hijo de un funcionario del servicio del opio del gobierno colonial; estudió en Eton."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en la Policía Imperial en Birmania, experiencia que lo volvió contra el imperialismo. Escribió sobre la pobreza obrera, viajó a España a finales de 1936 con contactos del Partido Laborista Independiente y combatió en la milicia del POUM. Trabajó para la BBC durante la Segunda Guerra Mundial en programas de propaganda dirigidos a la India y Asia. Defendió un socialismo democrático contra los totalitarismos nazi y estalinista en «Rebelión en la granja» (1945) y «1984» (1949). En 1949 entregó a Celia Kirwan, de una oficina de propaganda anticomunista del Foreign Office, una lista de escritores y artistas que consideraba poco indicados por sus inclinaciones procomunistas; la policía lo había vigilado durante años por su vinculación con la izquierda."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Orwell fue miembro de la Sociedad Fabiana, igual que Aldous Huxley, y al imaginar «1984» hablaba como teórico de un grupo radical y no como visionario. Según Rubén Avilés, la frase de que la historia la escriben los vencedores es de Orwell tras la Guerra Civil española y luego se atribuyó a Churchill; el lema del Gran Hermano resumiría que quien domina el presente domina el pasado y el futuro mediante la manipulación de la información."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos artículos leídos relacionan a Orwell con el Partido Laborista Independiente y no mencionan afiliación a la Sociedad Fabiana, en línea con la versión oficial. Las afirmaciones sobre la frase de los vencedores y Churchill no se han hallado en lo leído."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -58426,6 +59235,11 @@ window.CRONO = {
       "titulo": "CNN (vía KRDO)",
       "url": "https://krdo.com/?p=1344890",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): George Soros",
+      "url": "https://es.wikipedia.org/wiki/George_Soros",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58441,6 +59255,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Inversor y filántropo húngaro-estadounidense, nacido György Schwartz en Budapest el 12-8-1930 en una familia judía acomodada y no practicante, que en 1936 cambió el apellido a Soros como protección ante el antisemitismo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sobrevivió a la ocupación alemana, se fue al Reino Unido en 1947 y estudió en la London School of Economics, con Popper como maestro. Trabajó en bancos comerciales desde 1954 y en Estados Unidos, creó el fondo Double Eagle en 1969 (luego Quantum) y Soros Fund Management en 1970. En 1992 vendió en corto más de 10.000 millones de dólares en libras y ganó unos 1.000 millones cuando el Reino Unido salió del mecanismo de cambio europeo. Financió a la oposición en la Europa del Este comunista y la Universidad Centroeuropea; ha donado más de 32.000 millones a Open Society Foundations y es blanco frecuente de teorías conspirativas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Soros, de nacimiento «Schwartz», es factor de corte del príncipe Karl Schwarzenberg. Según Jorge Guerra, el poder convirtió a los judíos de corte en banqueros modernos como Soros, pero tener el dinero no es mandar."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El apellido Schwartz y su cambio constan. En lo leído no aparece vínculo con los Schwarzenberg, como ya advierte la versión oficial. La tesis sobre los judíos de corte es interpretación del autor."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -58714,6 +59550,16 @@ window.CRONO = {
       "titulo": "Wikipedia (it): Giorgio Almirante",
       "url": "https://it.wikipedia.org/wiki/Giorgio_Almirante",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Giorgio Almirante",
+      "url": "https://en.wikipedia.org/wiki/Giorgio_Almirante",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Giorgio Almirante",
+      "url": "https://it.wikipedia.org/wiki/Giorgio_Almirante",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58729,6 +59575,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Periodista y político italiano (Salsomaggiore Terme, 27-6-1914 – Roma, 22-5-1988), de familia de origen molisano ligada al teatro; estudió para maestro."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Escribió en el diario fascista «Il Tevere», con Telesio Interlandi como mentor, y de 1938 a 1942 fue secretario de redacción de la revista antisemita «La difesa della razza». Tras la caída del fascismo fue acusado de ordenar fusilamientos de partisanos en 1944, causa cerrada por una amnistía. Fundó el neofascista Movimento Sociale Italiano, que dirigió hasta 1987 con un periodo fuera de la jefatura; la recuperó en 1969 con un giro hacia posiciones más moderadas y cedió el relevo a Gianfranco Fini."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Almirante llamó a Evola «nuestro Marcuse, solo que mejor»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo en inglés recoge esa frase atribuida a Almirante, que la tarjeta daba como pendiente de comprobar; no se ha buscado la fuente original de la cita."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -59266,6 +60134,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Gro Harlem Brundtland",
       "url": "https://es.wikipedia.org/wiki/Gro_Harlem_Brundtland",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Gro Harlem Brundtland",
+      "url": "https://es.wikipedia.org/wiki/Gro_Harlem_Brundtland",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59277,6 +60150,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Política noruega del Partido Laborista (Bærum, área de Oslo, 20-4-1939), hija de un médico que fue ministro laborista y de madre sueca."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Ministra de Medio Ambiente de 1974 a 1979, fue en 1981 la primera mujer primera ministra de Noruega, por encargo del rey Olaf V tras la renuncia de Nordli; volvió a gobernar en 1986-1989 y 1990-1996, con austeridad impopular ante la crisis y una propuesta de entrada en la Unión Europea rechazada en referéndum. Su informe «Nuestro futuro común» (1987) desarrolló la idea de sostenibilidad. Dirigió la OMS de 1998 a 2003 y en 2007 fue enviada especial de la ONU para el cambio climático. En 2011 había estado en Utøya horas antes de la matanza de Breivik, que dijo tenerla como objetivo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue primera ministra y directora de la OMS por la casa de Glücksburg."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que el rey Olaf V le encargó formar gobierno en 1981, por la dimisión de su antecesor. Nada de lo leído atribuye sus cargos a la casa de Glücksburg."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -59692,6 +60587,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/H._Keith_Thompson",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): H. Keith Thompson",
+      "url": "https://en.wikipedia.org/wiki/H._Keith_Thompson",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -59707,6 +60607,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Ejecutivo de Nueva York (17-9-1922 – 3-3-2002), agente nazi y figura de la extrema derecha estadounidense, nacido en Nueva Jersey."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "De adolescente militó en el German American Bund y en America First; en julio de 1941 fue nombrado agente especial de la inteligencia exterior del SD y juró lealtad a Hitler, aunque después sirvió en la Marina de EE. UU. Se graduó en Yale en 1946 y fue condenado por un consejo de guerra en los marines en 1949. Trabó amistad con Skorzeny, con quien trabajó para montar ODESSA, y con Remer, y en 1951 se registró como representante en EE. UU. del Partido Socialista del Reich hasta su prohibición. Fue editor y agente literario, entre otros de Batista y Rudel, y con fortuna propia donó a campañas republicanas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Thompson fue agente de la inteligencia de las SS desde 1941, trabajó con Skorzeny en Odessa y fue agente del SRP en EE. UU."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las tres afirmaciones constan en el artículo leído. La existencia de ODESSA como organización es discutida, como advierte la versión oficial."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -60016,6 +60938,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Hans-Ulrich Rudel",
       "url": "https://es.wikipedia.org/wiki/Hans-Ulrich_Rudel",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Hans-Ulrich Rudel",
+      "url": "https://es.wikipedia.org/wiki/Hans-Ulrich_Rudel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -60030,6 +60957,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Piloto militar alemán (Konradswaldau, 2-7-1916 – Rosenheim, 18-12-1982), hijo de un pastor luterano de la Alta Silesia; nacionalsocialista comprometido y nunca arrepentido."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Voló 2530 misiones en el frente oriental, sobre todo en el bombardero en picado Stuka, y recibió la más alta condecoración alemana. En 1948 emigró a Argentina por las rutas de fuga, con ayuda en Roma, entre otros, del obispo Hudal; cercano a Perón y a Stroessner, fundó la Kameradenwerk, red de ayuda a fugitivos nazis, y protegió a Mengele. Con ayuda de Perón obtuvo contratos lucrativos con militares brasileños, y actuó como asesor y traficante de armas para dictaduras sudamericanas. Volvió a Alemania en 1953, fue candidato del ultraderechista Partido del Imperio y, tras 1955, representó a empresas alemanas desde Paraguay."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Rudel respaldó a Otto Ernst Remer y dirigió en Argentina una red de ayuda a fugitivos nazis."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La red de ayuda consta. El apoyo concreto a Remer no aparece en lo buscado. El lugar de nacimiento figura como Konradsdorf en la versión oficial y Konradswaldau en el artículo."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -60506,6 +61455,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Henry Kissinger",
       "url": "https://es.wikipedia.org/wiki/Henry_Kissinger",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Henry Kissinger",
+      "url": "https://es.wikipedia.org/wiki/Henry_Kissinger",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -60521,6 +61475,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Diplomático y académico estadounidense de origen judeoalemán (Fürth, 27-5-1923 – Connecticut, 29-11-2023), nacido Heinz Alfred Kissinger."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Profesor en Harvard, dirigió sus programas de defensa y un proyecto de estudios avalado por la Fundación Rockefeller Brothers, y fue consultor y consejero de empresas. Consejero de Seguridad Nacional de Nixon y secretario de Estado de 1973 a 1977, impulsó la distensión y la apertura a China, gestionó el final de Vietnam y la guerra de Yom Kipur y recibió el Nobel de la Paz en 1973. Se le conoce implicación directa en los bombardeos secretos de Laos y Camboya sin permiso del Congreso, en el apoyo encubierto al derrocamiento de Torres en Bolivia y recibe acusaciones por Chile, Argentina y Timor Oriental."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, se le atribuye el NSSM 200 sobre población y se le llama caballero honorario británico. Según Guillermo Mas Arellano, advirtió que ser enemigo de EE. UU. es peligroso, pero ser su aliado es letal, y diseñó el pacto del petrodólar de 1971 con la OPEP."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El NSSM 200 aparece en los enlaces del artículo como «informe Kissinger». El título de caballero, la frase y el pacto del petrodólar no aparecen en lo buscado; la crisis del petróleo que recoge el artículo es de 1973."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -60847,6 +61823,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pope in the White House",
       "url": "https://en.wikipedia.org/wiki/Pope_in_the_White_House",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (es): Hillary Clinton",
+      "url": "https://es.wikipedia.org/wiki/Hillary_Clinton",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -60858,6 +61839,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Política, diplomática y abogada estadounidense (Chicago, 26-10-1947), de soltera Rodham, formada en Wellesley College (1969), donde empezó presidiendo a los jóvenes republicanos, y en Derecho por Yale (1973)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se instaló en Arkansas, se casó con Bill Clinton en 1975 y fue en 1979 la primera mujer socia del bufete Rose. Como primera dama (1993-2001) impulsó una reforma sanitaria que el Congreso rechazó en 1994 y programas de infancia. Senadora por Nueva York (2001-2009), perdió las primarias de 2008 ante Obama y fue secretaria de Estado (2009-2013): respaldó la intervención en Libia, fue criticada por el ataque de Bengasi, articuló las sanciones a Irán que llevaron al acuerdo de 2015 y fue muy cuestionada por usar un servidor de correo privado, sin acusaciones. Pasó a la Fundación Clinton y en 2016 ganó el voto popular pero perdió la presidencia ante Trump."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Hillary Clinton habló de un túnel entre Roma y Washington, prueba para él de que el Vaticano lo controla todo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En los pasajes buscados no aparece ese túnel. La versión oficial sitúa su origen en un bulo anticatólico de los años veinte; en las fuentes leídas hoy no se ha comprobado ese origen."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -61085,6 +62088,16 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: Howard Hughes",
       "url": "https://www.britannica.com/money/Howard-Hughes",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Howard Hughes",
+      "url": "https://es.wikipedia.org/wiki/Howard_Hughes",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Howard Hughes",
+      "url": "https://en.wikipedia.org/wiki/Howard_Hughes",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61099,6 +62112,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario, aviador, ingeniero autodidacta y productor y director de cine estadounidense (Houston o Humble, Texas, 1905 – 5-4-1976), heredero del negocio familiar; llegó a ser considerado el hombre más rico del mundo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Produjo y dirigió cine desde los años veinte, fundó Hughes Aircraft en 1932 como división de Hughes Tool y batió récords de vuelo. En 1939 invirtió siete millones de dólares en la aerolínea TWA y la controló, y peleó contra el privilegio de Pan Am en los vuelos transatlánticos. En 1946 sufrió un grave accidente probando un avión espía para el ejército. Con un trastorno obsesivo-compulsivo cuyos síntomas el artículo fecha hacia 1950, acabó recluido y desaparecido de la vida pública; fue dueño de grandes negocios en Las Vegas. Murió cuando lo trasladaban en avión de Acapulco a Houston, con una fortuna estimada en unos 1500 millones de dólares."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, su muerte trajo una reorganización de su poder y circulan teorías de que lo manipularon y encerraron; una empresa (Resorts International) habría pasado de las Bahamas a Atlantic City, donde Trump levantó después casinos, y Robert Maheu, exagente del FBI ligado a la mafia y a los planes de la CIA contra Castro, trabajó para Hughes y para Trump."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que Maheu dirigió las operaciones de Hughes en Nevada y que acabaron en pleitos. En los pasajes buscados no aparecen la empresa Resorts International, Atlantic City, Trump ni los planes contra Castro."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -61144,6 +62179,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Hugh Trevor-Roper",
       "url": "https://es.wikipedia.org/wiki/Hugh_Trevor-Roper",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Hugh Trevor-Roper",
+      "url": "https://es.wikipedia.org/wiki/Hugh_Trevor-Roper",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Hugh Trevor-Roper",
+      "url": "https://en.wikipedia.org/wiki/Hugh_Trevor-Roper",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61163,6 +62208,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Historiador británico (Glanton, 15-1-1914 – Oxford, 26-1-2003), de familia aristocrática, formado en Christ Church, Oxford, donde fue iniciado en una logia masónica universitaria."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó en 1940 una biografía del arzobispo Laud, trabajó en la inteligencia militar británica durante la Segunda Guerra Mundial y en 1947 publicó «Los últimos días de Hitler». Autoridad en la Edad Moderna y la Alemania nazi, fue catedrático Regius de Historia Moderna en Oxford de 1957 a 1980 y publicó en la revista «Encounter». En 1983 avaló los diarios de Hitler, que resultaron falsos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, investigó deprisa la muerte de Hitler en su libro de 1947 y escribió en «Encounter» (1960) sobre el círculo de Hartlib, grupo rosacruz del que saldrían el Colegio Invisible, la Royal Society y la masonería inglesa."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el libro de 1947 y sus colaboraciones en «Encounter». El círculo de Hartlib, el Colegio Invisible y su relación con la Royal Society no aparecen en lo buscado; el juicio sobre la rapidez de la investigación es del autor."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -61597,6 +62664,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Yitzhak Shamir",
       "url": "https://en.wikipedia.org/wiki/Yitzhak_Shamir",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Isaac Shamir",
+      "url": "https://es.wikipedia.org/wiki/Isaac_Shamir",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Yitzhak Shamir",
+      "url": "https://en.wikipedia.org/wiki/Yitzhak_Shamir",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61612,6 +62689,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y político israelí (Ruzhany, entonces Imperio ruso, 15-10-1915 – 30-6-2012), nacido como Icchak Jaziernicki; a los 14 años entró en el movimiento sionista revisionista Beitar y estudió Derecho en Varsovia."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En la Palestina del Mandato militó en el Irgún y desde 1940 en Lehi; durante la guerra de 1948, Lehi e Irgún cometieron la matanza de Deir Yassin. Sirvió en el Mossad de 1955 a 1965, donde dirigió la operación Damocles contra los científicos alemanes que trabajaban para Egipto, y dimitió cuando Ben-Gurión ordenó pararla. Diputado desde 1973, presidió la Knéset, fue ministro de Exteriores y primer ministro en 1983-1984 y 1986-1992."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Shamir dirigía las operaciones del Mossad en las que participó Skorzeny."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que dirigió la operación contra los científicos alemanes; los artículos sobre Shamir leídos no nombran a Skorzeny. El lugar de muerte es Tel Aviv en la versión oficial y Herzliya en el artículo en español."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62226,6 +63325,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Jacob Rothschild",
       "url": "https://es.wikipedia.org/wiki/Jacob_Rothschild",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Jacob Rothschild",
+      "url": "https://es.wikipedia.org/wiki/Jacob_Rothschild",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Jacob Rothschild, 4th Baron Rothschild",
+      "url": "https://en.wikipedia.org/wiki/Jacob_Rothschild,_4th_Baron_Rothschild",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62241,6 +63350,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Banquero, inversor y filántropo británico de la dinastía Rothschild (29-4-1936 – Londres, 26-2-2024), IV barón e hijo mayor de Victor Rothschild."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó desde 1963 en el banco familiar N M Rothschild & Sons y salió en 1980 por una disputa familiar, después de que la presidencia pasara a su primo Evelyn. Tomó el control del fondo que hoy es RIT Capital Partners, fundó en 1991 con Mark Weinberg la aseguradora que después fue St. James's Place y participó en sociedades como BSkyB, de la que fue vicepresidente. Fue miembro del consejo del Ducado de Cornualles y de la junta asesora de Blackstone, y un mecenas destacado: presidió los fideicomisarios de la National Gallery y el fondo del patrimonio nacional."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, formó parte del comité de finanzas del ducado de Cornualles, prueba de que los Rothschild británicos trabajan para los Windsor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta su pertenencia al consejo del Ducado de Cornualles. El artículo no habla de un comité de finanzas, y de un puesto de consejero no se sigue que la familia trabaje para los Windsor. El lugar de nacimiento figura como Cambridge y como Berkshire."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -62665,6 +63796,11 @@ window.CRONO = {
       "titulo": "Wikipedia: James Jesus Angleton",
       "url": "https://es.wikipedia.org/wiki/James_Jesus_Angleton",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): James Jesus Angleton",
+      "url": "https://en.wikipedia.org/wiki/James_Jesus_Angleton",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62680,6 +63816,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Oficial de inteligencia estadounidense (Boise, 9-12-1917 – 11-5-1987), el mayor de cuatro hermanos, con formación en crítica literaria."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en la OSS en Londres y Roma entre 1943 y 1946; al intentar neutralizar la red clandestina de la Decima MAS logró que su comandante, Borghese, se pasara a la OSS, y él mismo lo llevó en coche de Milán a Roma. En 1947 fue uno de los fundadores de la CIA y en 1954 Allen Dulles lo puso al frente de la contrainteligencia. Convencido por el desertor Golitsyn de que había un topo soviético en la agencia, emprendió una larga búsqueda que se sigue discutiendo si fue una caza de brujas. El director William Colby recortó su poder y acabó apartándolo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Angleton rescató a Borghese, al que la CIA eligió para dirigir Gladio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El rescate consta. Gladio no aparece en el artículo. El final de su cargo figura como finales de 1974 en la versión oficial y como 1975 en el artículo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -62722,6 +63880,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/James_H._Madole",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): James H. Madole",
+      "url": "https://en.wikipedia.org/wiki/James_H._Madole",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62737,6 +63900,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Activista neonazi estadounidense (New Bedford, 7-7-1927 – 6-5-1979), hijo de un ingeniero y una oficinista, aficionado desde joven a la ciencia ficción, a través de la cual llegó al fascismo."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En 1945 fundó el Partido Animista, disuelto en 1948. Muy poco después de que Kurt Mertig creara en 1949 el National Renaissance Party, quedó al frente con 22 años, con Frederick Weiss manejándolo entre bastidores en los primeros tiempos. En 1954 fue investigado por el Comité de Actividades Antiamericanas. Mezcló neonazismo con ocultismo, teosofía, neopaganismo y satanismo; desde 1966 buscó alianza con la Iglesia de Satán de LaVey, con la que hubo miembros comunes. Figura excéntrica y menos conocida que su rival Rockwell, murió de cáncer."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Madole dirigió el National Renaissance Party (1949), tomaba de Blavatsky su idea de la raza y tenía estrechas relaciones con la Iglesia de Satán de LaVey."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La jefatura del partido y la relación con LaVey constan. El artículo habla de influencia teosófica; el nombre de Blavatsky y su idea de la raza no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -63438,6 +64623,11 @@ window.CRONO = {
       "titulo": "Deutsche Biographie",
       "url": "https://www.deutsche-biographie.de/dbo091539.html",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Johann von Leers",
+      "url": "https://en.wikipedia.org/wiki/Johann_von_Leers",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63449,6 +64639,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jurista y propagandista alemán (Vietlübbe, 25-1-1902 – 5-3-1965), estudió Derecho en Berlín, Kiel y Rostock y trabajó como agregado en el Ministerio de Exteriores. Fue uno de los ideólogos importantes del Tercer Reich, conocido por sus polémicas antijudías."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Pasó por los Freikorps y otros grupos nacionalistas, entró en el partido nazi en 1929 y en 1933 Goebbels lo llamó al Ministerio de Propaganda; publicó 27 libros entre 1933 y 1945, enseñó en la Universidad de Jena y llegó a Sturmbannführer honorario de las Waffen-SS. En 1945 huyó a Italia, donde vivió cinco años, y en 1950 pasó a Argentina, donde siguió haciendo propaganda en la revista nazi «Der Weg». Después se trasladó a Egipto con ayuda del muftí de Jerusalén, Haj Amin al-Husseini, se convirtió al islam, tomó el nombre de Omar Amin y fue asesor político del departamento de información con Naguib y Nasser."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Von Leers, acogido en El Cairo, se convirtió al islam con el nombre de Omar Amin."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La conversión, el nombre y la acogida en Egipto coinciden con lo leído. No consta en los pasajes leídos quién pagaba sus publicaciones en Argentina y Egipto."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -63651,6 +64863,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/John_F._Kennedy",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): John F. Kennedy",
+      "url": "https://es.wikipedia.org/wiki/John_F._Kennedy",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63666,6 +64883,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político estadounidense del Partido Demócrata (Brookline, 29-5-1917 – Dallas, 22-11-1963), de una familia irlando-estadounidense prominente; su padre, Joseph P. Kennedy, fue un empresario de éxito y líder de esa comunidad. Se graduó en Harvard en 1940."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se hizo conocido en la Segunda Guerra Mundial al mando de la lancha PT-109, representó a Massachusetts en la Cámara (1947-1953) y en el Senado, y fue presidente desde 1961, el más joven en ser elegido. Gobernó en plena Guerra Fría: la invasión de Bahía de Cochinos, planeada con la CIA bajo la administración anterior, las relaciones con la URSS y Cuba, la carrera espacial y el tratado de prohibición de pruebas nucleares; en economía relajó la política fiscal y monetaria. Fue asesinado en Dallas; Oswald, detenido, murió a manos de Jack Ruby dos días después."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, venía de la nobleza europea y su asesinato fue un «ritual de inmolación del rey» ordenado desde arriba y ejecutado por mafias."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La Comisión Warren concluyó que Oswald actuó solo y el comité de la Cámara estimó en 1979 que pudo haber una conspiración, sin cerrar quién. En lo leído no hay apoyo para el origen noble ni para la lectura ritual."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64346,6 +65585,11 @@ window.CRONO = {
       "titulo": "Tech-utopian, conspiracist and apartheid fan: Elon Musk's grandpa was shaped by Canadian politics — CBC News",
       "url": "https://www.cbc.ca/newsinteractives/features/joshua-haldeman-elon-musk-saskatchewan-tech-utopian-conspiracist",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Joshua N. Haldeman",
+      "url": "https://es.wikipedia.org/wiki/Joshua_N._Haldeman",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64357,6 +65601,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Quiropráctico, aviador y político (Pequot Lakes, Minnesota, 25-11-1902 – Pretoria, 13-1-1974), criado en Canadá y abuelo materno de Elon Musk."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se graduó en la escuela de quiropráctica Palmer en 1926, perdió su rancho en la Gran Depresión y volvió a la quiropráctica; fue vicepresidente de la asociación canadiense del ramo en 1947. De 1936 a 1941 militó en el movimiento tecnócrata de Howard Scott; en 1940 fue detenido por pertenencia a una organización ilegal, quedó libre con una fianza de ocho mil dólares y fue condenado por difundir un escrito del movimiento. Defendió la publicación de «Los protocolos de los sabios de Sion» en la prensa de su partido; en 1943 pasó al Partido del Crédito Social, por el que fue candidato en 1948. En 1950 se trasladó a Sudáfrica, abrió una clínica en Pretoria, presidió la asociación de quiroprácticos (1959-1969) y apoyó en público el apartheid y al Partido Nacional, además de difundir teorías conspirativas contra los judíos. Murió al estrellarse con su avión."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el abuelo materno de Musk fue nazi, apoyó el movimiento tecnócrata en Canadá y en 1950 se fue a Sudáfrica, donde defendió el apartheid."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La militancia tecnócrata, la marcha a Sudáfrica y la defensa del apartheid constan. Sobre lo de nazi, lo leído solo recoge que su yerno Errol Musk declaró en 2024 que fue simpatizante del Partido Nazi durante la guerra; no consta militancia. Su antisemitismo sí aparece documentado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64396,6 +65662,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Juan Carlos I",
       "url": "https://es.wikipedia.org/wiki/Juan_Carlos_I_de_España"
+     },
+     {
+      "titulo": "Wikipedia (es): Juan Carlos I de España",
+      "url": "https://es.wikipedia.org/wiki/Juan_Carlos_I_de_Espa%C3%B1a",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Juan Carlos I",
+      "url": "https://en.wikipedia.org/wiki/Juan_Carlos_I",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64410,6 +65686,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Rey de España de 1975 a 2014 (Roma, 5-1-1938), hijo de Juan de Borbón y María de las Mercedes de Borbón, nacido en el exilio y bautizado en la capilla del palacio de la Orden de Malta en Roma por el cardenal Pacelli, futuro Pío XII."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tras estudiar en Suiza, viajó a España en 1948 por un acuerdo entre su padre y Franco, que quería formarlo cerca de él. Designado sucesor en 1969, fue proclamado el 22 de noviembre de 1975; la Constitución de 1978 lo reconoció como rey, y se le atribuye un papel en la Transición y frente al golpe de 1981. Tras la crisis por la cacería de Botsuana (2012) y escándalos sobre su dinero, abdicó en 2014. En 2020 se instaló en Abu Dabi; en 2021 hizo una regularización fiscal voluntaria que reconocía fondos ocultos en una fundación de un pariente, y en 2022 la Fiscalía archivó las causas por prescripción o porque no se le podía imputar delito."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, lo puso Franco, nadie quería un Borbón, y el hambre del exilio en Estoril, donde les ayudaron los caballeros de Malta, lo llevó a acumular dinero. Según Rubén Avilés, pasó parte de su infancia en el palacio Torlonia de Roma, con su tía la infanta Beatriz."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que Franco lo designó es un hecho. La relación leída con la Orden de Malta es el bautizo; la ayuda en Estoril, el miedo al hambre como motivo y el palacio Torlonia no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64447,6 +65745,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Juan de Borbón y Battenberg",
       "url": "https://es.wikipedia.org/wiki/Juan_de_Borbón_y_Battenberg",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Juan de Borbón",
+      "url": "https://es.wikipedia.org/wiki/Juan_de_Borb%C3%B3n",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64462,6 +65765,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Juan de Borbón y Battenberg (La Granja de San Ildefonso, 20-6-1913 – Pamplona, 1-4-1993), conde de Barcelona, tercer hijo varón de Alfonso XIII y Victoria Eugenia."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Heredero desde 1933 por las renuncias de sus hermanos mayores y jefe de la casa real desde 1941. En 1936 intentó sumarse al bando sublevado y apoyó al franquismo en sus primeros años; rompió con él en los manifiestos de Lausana y Estoril y cambió de estrategia tras la Ley de Sucesión de 1947. Franco designó sucesor en 1969 a su hijo Juan Carlos. El 14 de mayo de 1977 renunció a sus derechos dinásticos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Juan de Borbón era amigo de García-Trevijano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo sobre García-Trevijano dice que Rafael Calvo Serer lo introdujo en el círculo de Don Juan en Estoril; la relación consta, la amistad como tal no se ha hallado en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64927,6 +66252,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Junio Valerio Borghese",
       "url": "https://es.wikipedia.org/wiki/Junio_Valerio_Borghese"
+     },
+     {
+      "titulo": "Wikipedia (es): Junio Valerio Borghese",
+      "url": "https://es.wikipedia.org/wiki/Junio_Valerio_Borghese",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Junio Valerio Borghese",
+      "url": "https://en.wikipedia.org/wiki/Junio_Valerio_Borghese",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64937,6 +66272,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y político italiano (1906 – Cádiz, 26-8-1974), de la aristocrática y rica familia Borghese, llamado «el príncipe negro»; oficial de la Marina desde la academia de Livorno."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Mandó submarinos en la guerra civil española y en la Segunda Guerra Mundial, donde dirigió operaciones de sabotaje con torpedos tripulados, y encabezó la Decima MAS en la República de Saló. Al acabar la guerra, el oficial de la OSS James Angleton lo sacó de Milán con uniforme estadounidense y lo llevó a Roma. Condenado por colaboración, no por crímenes de guerra, salió en 1949, se unió al neofascista MSI y después fundó el Fronte Nazionale, aún más radical. Acusado en 1971 de haber preparado un golpe para diciembre de 1970, cancelado a última hora, huyó a España."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, fue comandante naval y estas familias financian sociedades secretas fascistas. Según Guillermo Mas Arellano, Angleton lo rescató y la CIA lo eligió para dirigir el ejército secreto de Gladio, financiado por las fundaciones Rockefeller y Mellon, del que saldrían la P2 y el «golpe Borghese»; según algunos autores, ese círculo cometió abusos a menores, que Pasolini habría retratado en «Saló»; Borghese prologó a Evola y publicó sus memorias en 1954."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el rescate por Angleton, el prólogo a «Los hombres y las ruinas» de Evola y la edición inglesa de sus memorias en 1954 (la italiana es de 1950). Gladio, las fundaciones y los abusos no aparecen en lo leído. Sobre su muerte, el certificado habla de pancreatitis; un artículo recoge sospechas y el otro considera indemostrable el envenenamiento. El lugar de nacimiento aparece como Artena y como Roma."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -65256,6 +66613,11 @@ window.CRONO = {
       "titulo": "The Rothschild Archive: S M von Rothschild, Viena (vendido a Merck, Finck & Co.)",
       "url": "https://rothschildarchive.org/business/s_m_von_rothschild_vienna",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Charles, Prince of Löwenstein-Wertheim-Rosenberg (1904–1990)",
+      "url": "https://en.wikipedia.org/wiki/Charles,_Prince_of_L%C3%B6wenstein-Wertheim-Rosenberg_(1904%E2%80%931990)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -65266,6 +66628,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Noble católico alemán (Kleinheubach, 8-2-1904 – 23-8-1990), tercero de nueve hermanos, formado con los jesuitas y doctor en Derecho por Würzburg en 1928; jefe de la casa principesca desde 1952."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En la república de Weimar se unió a organizaciones del entorno de la prensa de Hugenberg, de extrema derecha, y en el Katholikentag de 1931 expresó admiración por aspectos del régimen fascista italiano, aunque criticó los excesos raciales del nazismo. Presidió la federación de asociaciones estudiantiles católicas Unitas de 1933 a 1938, cuando el régimen la disolvió. Según el artículo, fue miembro de las SA, animó en 1934 a los estudiantes a seguirle y en 1937 denunció a su primo Hubertus, que criticaba en EE. UU. la persecución de los católicos. De 1948 a 1967 presidió el Comité Central de los Católicos Alemanes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, su hijo Alois Konstantin dirigió Merck Finck, el banco alemán que tomó el banco austriaco de los Rothschild en la guerra; Karl fue miembro de las SA, financió en Weimar prensa católica que apoyó al fascismo y al nazismo y tras la guerra siguió al frente del comité central de los católicos, con títulos vaticanos, connivencia que denunció Thomas Bernhard."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial dice que la militancia en las SA no se ha podido comprobar; el artículo en inglés leído hoy la afirma: conviene revisarla. Lo leído habla de organizaciones del entorno de la prensa de Hugenberg, no de que él financiara prensa católica. Merck Finck, los Rothschild y Thomas Bernhard no aparecen."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -65393,6 +66777,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Karel Schwarzenberg",
       "url": "https://es.wikipedia.org/wiki/Karel_Schwarzenberg",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Karel Schwarzenberg",
+      "url": "https://es.wikipedia.org/wiki/Karel_Schwarzenberg",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -65408,6 +66797,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político, diplomático y aristócrata checo (Praga, 10-12-1937 – Viena, 12-11-2023), primogénito del príncipe Karel VI de Schwarzenberg y de Antonie von Fürstenberg, jefe de su casa y caballero del Toisón de Oro."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Canciller de Václav Havel (1990-1992), senador por Praga desde 2004, ministro de Exteriores en 2007-2009 y 2010-2013, cofundador y líder de TOP 09, diputado de 2010 a 2021 y finalista de las presidenciales de 2013 con el 45,19 %. Era uno de los principales terratenientes de Austria, y su fortuna creció al recuperar tras el comunismo buena parte de los bienes confiscados a la familia en 1948."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el príncipe Schwarzenberg tendría a Soros como factor de corte."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Soros no aparece en el artículo, y el de Soros tampoco recoge vínculo con la familia."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -65574,6 +66985,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Léon Degrelle",
       "url": "https://es.wikipedia.org/wiki/Léon_Degrelle",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Léon Degrelle",
+      "url": "https://es.wikipedia.org/wiki/L%C3%A9on_Degrelle",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Léon Degrelle",
+      "url": "https://en.wikipedia.org/wiki/L%C3%A9on_Degrelle",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -65592,6 +67013,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político belga valón (Bouillon, 15-6-1906 – Málaga, 31-3-1994) y colaborador nazi, nacido en una familia católica burguesa de origen francés; su padre, cervecero, había emigrado de Francia. Influido por los jesuitas y, en Lovaina, por Charles Maurras."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Convirtió una pequeña editorial católica en el Partido Rexista, que obtuvo el 11 % en las elecciones de 1936; ese año se reunió con Mussolini y Hitler, de quienes obtuvo financiación, y añadió el antisemitismo a su programa. En 1941 organizó la Legión Valona, luchó en el frente oriental y pasó a las Waffen-SS. En 1945 escapó a España; Bélgica lo condenó a muerte en ausencia y pidió en vano su extradición durante años. En 1954 recibió la nacionalidad española como José León Ramírez Reina. Siguió en la escena neonazi y negó el Holocausto, lo que dio lugar a la demanda de Violeta Friedman que acabó en el Tribunal Constitucional."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fundó el rexismo y las Waffen-SS, fue educado por jesuitas y admiraba a Maurras; Hitler habría dicho que querría un hijo como él; conoció a José Antonio y a Codreanu, decía haber inspirado Tintín, Skorzeny lo llevó a Madrid como ayudante y en 1954 obtuvo la nacionalidad española."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan los jesuitas, Maurras, José Antonio, Codreanu, que decía haber inspirado Tintín (Hergé lo negó) y la nacionalidad de 1954. No fundó las Waffen-SS: su legión pasó a ellas. Skorzeny no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -66047,6 +67490,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Licio Gelli",
       "url": "https://es.wikipedia.org/wiki/Licio_Gelli",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Licio Gelli",
+      "url": "https://es.wikipedia.org/wiki/Licio_Gelli",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -66062,6 +67510,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario y maestro masón italiano (Pistoia, 21-4-1919 – Arezzo, 15-12-2015)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue camisa negra y combatió con Franco en la guerra civil española; agente de la Italia fascista en la Segunda Guerra Mundial y, según el artículo, de la CIA después. Vivió en Argentina, trabó amistad con Perón y López Rega y ocupó cargos en la tercera presidencia de Perón. Ascendido a maestro masón en 1966 e introducido en la logia Propaganda Due, llegó a dirigirla. En 1981 la investigación por la bancarrota de un financiero sacó a la luz el listado de la P2, con militares, políticos, mafiosos e industriales; estuvo implicado en el escándalo del Banco Ambrosiano. Dejó en testamento grandes propiedades en Argentina, Paraguay, Uruguay y Brasil."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la P2 dejó al descubierto la relación entre mafia, logias y Vaticano, y no por una filtración: querían que se supiera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El listado salió a la luz por una investigación judicial y policial; que se quisiera que se supiera no aparece en lo leído. El artículo le atribuye además implicación en varios asesinatos y atentados que aquí no se dan por comprobados."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -67178,6 +68648,11 @@ window.CRONO = {
       "titulo": "BPI: nombramiento de Malcolm D Knight (13-1-2003)",
       "url": "https://www.bis.org/press/p030113.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Malcolm Knight",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_Knight",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -67190,6 +68665,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vivo": true,
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista y banquero canadiense (nacido en 1944), formado en Ciencia Política y Economía en Toronto y doctor por la London School of Economics."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en Toronto y la LSE, trabajó en el Fondo Monetario Internacional de 1975 a 1999, donde llegó a subdirector de varios departamentos, y fue número dos del Banco de Canadá (1999-2003). De abril de 2003 a septiembre de 2008 dirigió el Banco de Pagos Internacionales, el primer no europeo en el cargo, y de allí pasó directamente a vicepresidente de Deutsche Bank (hasta 2012), encargado de la relación con reguladores y bancos centrales."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, se le atribuye una frase sobre la capacidad del BPI para adaptarse por ser pequeño, flexible y libre de interferencias políticas; el autor replica que el banco no se adapta, sino que moldea las circunstancias."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La frase no aparece en el artículo leído. El paso del BPI a Deutsche Bank es un hecho que interesa para seguir el dinero; la réplica del autor es su interpretación."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -67418,6 +68915,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Mario_Draghi",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Mario Draghi",
+      "url": "https://es.wikipedia.org/wiki/Mario_Draghi",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Mario Draghi",
+      "url": "https://en.wikipedia.org/wiki/Mario_Draghi",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -67437,6 +68944,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista italiano (Roma, 3-9-1947), hijo de un banquero y una farmacéutica, huérfano en la adolescencia. Estudió en el Instituto Massimiliano Massimo, de los jesuitas, se licenció en La Sapienza con Federico Caffè y se doctoró en el MIT en 1976 con Modigliani y Solow como maestros."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Profesor en varias universidades italianas, fue director ejecutivo del Banco Mundial en los años ochenta y director general del Tesoro (1991-2001), donde presidió las privatizaciones y firmó en 1998 la ley de finanzas que lleva su nombre. Pasó a Goldman Sachs (2002-2006), gobernó el Banco de Italia (2006-2011), con asiento en el consejo del Banco de Pagos Internacionales, presidió el Consejo de Estabilidad Financiera y el BCE (2011-2019), donde en 2012 anunció que haría lo necesario para salvar el euro. Primer ministro de Italia en 2021-2022. Su paso por Goldman y su pertenencia al Grupo de los Treinta, creado con la Fundación Rockefeller, motivaron en la prensa alemana críticas por conflicto de intereses."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Draghi se formó en un colegio jesuita bajo la autoridad de los príncipes Massimo, es su agente y comparte consejo del BPI con Panetta y Visco. Según Jorge Guerra, es un «peón jesuita»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la formación en el colegio jesuita Massimo y su asiento en el BPI como gobernador. La autoridad actual de los príncipes Massimo sobre el colegio y la condición de agente no aparecen en lo leído; la coincidencia con Panetta y Visco en el consejo no se ha comprobado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -68281,9 +69810,41 @@ window.CRONO = {
       "titulo": "Britannica: Mervyn King",
       "url": "https://www.britannica.com/money/Mervyn-King",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Mervyn King",
+      "url": "https://es.wikipedia.org/wiki/Mervyn_King",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Mervyn King, Baron King of Lothbury",
+      "url": "https://en.wikipedia.org/wiki/Mervyn_King,_Baron_King_of_Lothbury",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista británico (Chesham Bois, 30-3-1948), hijo de un mozo de estación que se recicló como profesor; estudió en Cambridge y Harvard."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Investigador y profesor en Cambridge, Birmingham, Harvard, el MIT y la London School of Economics, donde fundó un grupo de mercados financieros. Entró en el Banco de Inglaterra en 1990, fue economista jefe en 1991, subgobernador en 1998, año en que ingresó en el Grupo de los Treinta, y gobernador de 2003 a 2013. Le tocó la crisis de 2008; se le acusó de negar fondos a Northern Rock, a lo que respondió que la última palabra era del ministro de Hacienda. En 2010 dijo que la forma de organizar la banca que tenemos es la peor de todas. Par vitalicio desde 2013, enseñó en la Universidad de Nueva York."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, era el gobernador del Banco de Inglaterra que en 2013 presidía el comité de gobernadores, y es masón."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo consta hasta 2013. En los artículos leídos no aparece que sea masón ni la presidencia de ese comité."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -68359,6 +69920,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Michael_Bar-Zohar",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Michael Bar-Zohar",
+      "url": "https://en.wikipedia.org/wiki/Michael_Bar-Zohar",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68374,6 +69940,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Historiador, novelista y político israelí nacido en Sofía el 30-1-1938, que emigró a Israel en 1948."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Estudió Economía y Relaciones Internacionales en la Universidad Hebrea y se doctoró en París; periodista desde 1958 y premio Sokolov en 1965. Militó en Rafi y después en el Partido Laborista, y fue diputado de la Knéset desde 1981. Autor de biografías de Ben-Gurión y Peres, de libros sobre los servicios de seguridad israelíes, la caza de científicos alemanes y el rescate de los judíos búlgaros; un libro sobre el Mosad escrito con otro autor motivó una reclamación por plagio del periodista Bergman, resuelta con un acuerdo con compensación."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, que lo toma de «Los vengadores» de Bar-Zohar, Dönitz dijo en 1943 que los submarinos habían construido para el Führer una fortaleza inexpugnable en otro lugar del mundo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro «The Avengers» (1968) consta en su bibliografía; no se ha abierto, así que la frase atribuida a Dönitz queda sin comprobar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -68420,6 +70008,16 @@ window.CRONO = {
       "titulo": "Wikipedia: United Grand Lodge of England",
       "url": "https://en.wikipedia.org/wiki/United_Grand_Lodge_of_England",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Miguel de Kent",
+      "url": "https://es.wikipedia.org/wiki/Miguel_de_Kent",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Prince Michael of Kent",
+      "url": "https://en.wikipedia.org/wiki/Prince_Michael_of_Kent",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68430,6 +70028,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Príncipe británico (Coppins, Buckinghamshire, 4-7-1942), hijo menor de Jorge, duque de Kent, y de Marina de Grecia, nieto de Jorge V y primo de Isabel II."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Representó en ocasiones a la reina, tiene una consultoría y realiza trabajos comerciales en todo el mundo, y ha colaborado en documentales sobre familias reales. Se casó en Viena en 1978 con María Cristina de Reibnitz. Francmasón activo, es gran maestre de la Gran Logia de Maestros Masones de la Marca y gran maestre provincial de Middlesex."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, preside la masonería inglesa y es caballero de la casa Borbón-Dos Sicilias; su hijo Frederick Windsor sería amigo de Valerio Massimo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Preside la logia de la Marca, no la Gran Logia Unida de Inglaterra, que encabeza su hermano Eduardo. La orden de Borbón-Dos Sicilias y la amistad con Massimo no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68467,6 +70087,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Muhammad Naguib",
       "url": "https://es.wikipedia.org/wiki/Muhammad_Naguib",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Muhammad Naguib",
+      "url": "https://es.wikipedia.org/wiki/Muhammad_Naguib",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Skorzeny",
+      "url": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68482,6 +70112,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar y político egipcio, nacido en Jartum en febrero de 1901 en una familia de oficiales y fallecido en El Cairo en agosto de 1984. Además de la carrera militar estudió traducción, Derecho y ciencia política."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se adhirió en secreto al Movimiento de Oficiales Libres en 1949, fue ascendido a general de división y gozaba de prestigio por la guerra de 1948. Tras el golpe del 23 de julio de 1952, que forzó la abdicación de Faruq, fue comandante en jefe y en septiembre primer ministro; al proclamarse la república, el 18 de junio de 1953, se convirtió en el primer presidente. Nasser lo derrocó en noviembre de 1954 y lo aisló en una casa de campo hasta que Sadat lo liberó en 1972."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, en 1953 Skorzeny se convirtió en asesor militar de Naguib."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo sobre Naguib no menciona a Skorzeny; el artículo en inglés sobre Skorzeny sí dice que fue enviado a Egipto en 1953 como asesor militar de Naguib. La fecha de muerte es el 28 de agosto en la versión oficial y el 29 en el artículo sobre Naguib."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68992,11 +70644,38 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Nelson Mandela",
       "url": "https://es.wikipedia.org/wiki/Nelson_Mandela"
+     },
+     {
+      "titulo": "Wikipedia (es): Nelson Mandela",
+      "url": "https://es.wikipedia.org/wiki/Nelson_Mandela",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado, activista contra el apartheid y político sudafricano (Mvezo, 18-7-1918 – Johannesburgo, 5-12-2013), de la casa real tembu del pueblo xhosa; estudió Derecho en Fort Hare y Witwatersrand."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Miembro del Congreso Nacional Africano, fundó su Liga Juvenil, destacó en la Campaña del Desafío de 1952 y en 1961 organizó en la clandestinidad una nueva célula del partido y una huelga masiva. Preso desde 1962 hasta 1990, negoció con De Klerk el fin del apartheid y ganó las primeras elecciones por sufragio universal; presidió el país de 1994 a 1999 con la reconciliación como objetivo central. La Carta de la Libertad de 1955 pedía nacionalizar la industria, pero en la transición dejó de lado las nacionalizaciones, tras reunirse con el mundo de los negocios, para no alejar a los inversores; el ala socialista del partido lo criticó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Mandela fue una creación del poder: ante el riesgo de explosión social lo usaron para encauzar a la población y el gran capital siguió en pocas manos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El abandono de las nacionalizaciones y la persistencia de la desigualdad (que recoge la versión oficial) son hechos; que fuera una creación del poder es la tesis del autor y no consta en lo leído, que muestra además veintisiete años de cárcel."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -69413,6 +71092,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Orson Welles",
       "url": "https://es.wikipedia.org/wiki/Orson_Welles",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Orson Welles",
+      "url": "https://es.wikipedia.org/wiki/Orson_Welles",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69425,6 +71109,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Actor, director, guionista, productor y locutor estadounidense (Kenosha, 6-5-1915 – Los Ángeles, 10-10-1985), hijo de una pianista sufragista de opiniones radicales."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó en el teatro en Dublín a los 16 años y de 1936 a 1938 dirigió montajes para el Proyecto de Teatro Federal. En 1938 emitió en la cadena CBS, con su compañía, la adaptación de «La guerra de los mundos», cuyo realismo causó conmoción y le valió un contrato con RKO con libertad creativa, del que salió «Ciudadano Kane» (1941). En 1946, bajo sospecha de comunista, su carrera en Hollywood se estancó y se marchó a Europa, donde actuaba para financiar sus películas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, Welles era francmasón y fue responsable de la emisión de 1938 de «La guerra de los mundos» que causó pánico."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La emisión y la conmoción constan. En el artículo leído no aparece que fuera masón. La dimensión real del pánico no se ha contrastado con estudios específicos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -69525,6 +71231,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Otto Abetz",
       "url": "https://es.wikipedia.org/wiki/Otto_Abetz",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Abetz",
+      "url": "https://en.wikipedia.org/wiki/Otto_Abetz",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69536,6 +71247,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Diplomático y funcionario nazi alemán (Schwetzingen, 26-3-1903 – 5-5-1958), hijo de un administrador de fincas; fue profesor de arte y animó encuentros juveniles franco-alemanes antes de la guerra."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Apoyó al partido nazi desde 1931, se afilió en 1937 y representó a Alemania en París desde 1938; fue expulsado de Francia en 1939 tras acusaciones de sobornar a periodistas. Embajador en la Francia ocupada de 1940 a 1944, negoció con Vichy y tuvo un papel importante en la persecución y deportación de judíos. Detenido en octubre de 1945, un tribunal francés lo condenó a 20 años; salió en abril de 1954 y murió en un accidente en la autopista."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Abetz dijo en octubre de 1945 que Hitler no había muerto."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo recoge que, al anunciar su detención, el diario «France Soir» le atribuyó que Hitler «ciertamente no está muerto» y que volvería: consta la declaración publicada, no que fuera cierta. El mismo artículo dice en la introducción que fue juzgado en Núremberg y más abajo que lo condenó un tribunal francés; la versión oficial dice tribunal militar francés."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -69568,6 +71301,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Otto Ernst Remer",
       "url": "https://es.wikipedia.org/wiki/Otto_Ernst_Remer",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Otto Ernst Remer",
+      "url": "https://es.wikipedia.org/wiki/Otto_Ernst_Remer",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Ernst Remer",
+      "url": "https://en.wikipedia.org/wiki/Otto_Ernst_Remer",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69582,6 +71325,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Oficial alemán (Neubrandenburg, 18-8-1912 – Marbella, 4-10-1997), el mayor de seis hermanos de una familia protestante. Nazi convencido y antisemita, según el artículo no llegó a afiliarse al partido."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Al mando del batallón de guardia de Berlín fue decisivo en el fracaso del golpe del 20 de julio de 1944 contra Hitler. Prisionero hasta 1947, fundó el Partido Socialista del Reich, de extrema derecha, que logró 16 escaños en Baja Sajonia y fue el primer partido ilegalizado por la República Federal (1952). Se exilió en Egipto, donde asesoró a Nasser, y en Siria, donde comerció con armas y tuvo entre sus clientes al FLN argelino. Activo negacionista del Holocausto, en 1994 se fue a España, que no lo extraditó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fundó el SRP en 1949, había frenado con ayuda de Skorzeny el complot de 1944, tras la prohibición huyó a Egipto, asesoró a Nasser y vendió armas desde Damasco al FLN, y lo respaldó Hans-Ulrich Rudel, que dirigió en Argentina una red de ayuda a fugitivos nazis."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan su papel en 1944, el partido, Egipto, Nasser, Damasco y el FLN. Skorzeny y Rudel no aparecen en los dos artículos leídos sobre Remer. El artículo en español da 1950 como año de fundación y a la vez la liga a las elecciones de 1949."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -69654,6 +71419,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Otto Skorzeny",
       "url": "https://es.wikipedia.org/wiki/Otto_Skorzeny",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (es): Otto Skorzeny",
+      "url": "https://es.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Skorzeny",
+      "url": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69680,6 +71455,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Ingeniero y oficial austríaco de las Waffen-SS (Viena, 12-6-1908 – Madrid, 5-7-1975), de familia de clase media y afiliado al partido nazi austríaco desde 1931; especialista en operaciones especiales."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se hizo famoso al rescatar a Mussolini en 1943 y con la operación Greif en las Ardenas. Absuelto en Dachau en 1947, se fugó de un campo de internamiento el 27 de julio de 1948 con ayuda de antiguos oficiales de las SS disfrazados de policías militares estadounidenses. Vivió en Baviera, Salzburgo y París, reclutando para la Organización Gehlen, y se instaló en la España franquista. En 1953 fue a Egipto, enviado por Gehlen, como asesor militar de Naguib y formó un equipo de antiguos oficiales de las SS y la Wehrmacht; entrenó también a voluntarios árabes y planeó sus incursiones en Israel desde Gaza en 1953-1954, entre ellos Arafat; también habría asesorado a Perón, lo que se discute. En 1962 lo reclutó el Mossad para informar sobre los científicos alemanes que trabajaban en los cohetes egipcios; se le atribuyen el asesinato de Heinz Krug y una carta bomba, aunque «Der Spiegel» puso en duda en 2018 lo de Krug."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, trabajó para el Reich, Mussolini, la CIA y el Mossad; con Bormann habría montado un cuarto Reich con el oro nazi tras la reunión de Estrasburgo de agosto de 1944, con dinero enviado a Argentina, apropiado por Evita y depositado en parte en Suiza; escapó con ayuda de la inteligencia de EE. UU., reclutó para la Organización Gehlen, asesoró a Naguib, entrenó a árabes y palestinos, entre ellos Arafat, y para el Mossad mató a Krug y envió una carta bomba, en operaciones dirigidas por Isaac Shamir."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el reclutamiento para la Organización Gehlen, el envío a Egipto como asesor de Naguib, el entrenamiento de árabes entre ellos Arafat y el trabajo para el Mossad; Krug y la carta bomba figuran como atribuciones, con dudas. Según lo leído, la fuga la ejecutaron antiguos oficiales de las SS con uniforme estadounidense, no consta que fuera obra de la inteligencia de EE. UU. Bormann, Estrasburgo, el oro, Evita como depositaria, Suiza y Shamir no aparecen en lo buscado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -69795,6 +71592,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Pablo Escobar",
       "url": "https://es.wikipedia.org/wiki/Pablo_Escobar",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Pablo Escobar",
+      "url": "https://es.wikipedia.org/wiki/Pablo_Escobar",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -69810,6 +71612,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Narcotraficante y político colombiano (Rionegro, 1-12-1949 – Medellín, 2-12-1993), de familia campesina, fundador y jefe del cartel de Medellín."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó a finales de los sesenta como sicario y ladrón de coches y a finales de los setenta entró en la cocaína. Su cartel llegó a controlar más del 80 % de la producción mundial y el 60 % del mercado ilícito de EE. UU.; Forbes lo situó siete años seguidos entre los más ricos, con unos 8.000 millones de dólares. Lavó su imagen con obras de caridad y en 1982 llegó al Congreso, de donde salió en 1983 tras las denuncias de «El Espectador» y del ministro Lara Bonilla, a quien hizo asesinar, como al director del diario. En 1989 declaró la guerra total al Estado, con magnicidios como el de Galán, coches bomba y cientos de policías asesinados. Se entregó en 1991, prohibida ya la extradición, a una cárcel en sus propios terrenos, se fugó y murió abatido en 1993."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el Banco Santander lavó dinero de cárteles, incluido el suyo. Según Giuseppe Nocera, cayó cuando quiso sumar el poder político al narcotráfico, y corren rumores napolitanos de que viajaba a las afueras de Nápoles a informar a los Borbones."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo buscado no aparecen el Banco Santander como lavador, Nápoles ni los Borbones. El salto a la política precedió a su caída en desgracia de 1983, pero la causalidad que plantea el autor es su interpretación. La versión oficial lo da como suplente en el Congreso y el artículo como representante."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -70954,6 +72778,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Philip K. Dick",
       "url": "https://es.wikipedia.org/wiki/Philip_K._Dick",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Philip K. Dick",
+      "url": "https://es.wikipedia.org/wiki/Philip_K._Dick",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -70965,6 +72794,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor estadounidense de ciencia ficción (Chicago, 16-12-1928 – Santa Ana, 2-3-1982), nacido junto a una hermana melliza."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Escribió 36 novelas y 121 cuentos; empezó a vender relatos a revistas populares en 1952. Sus primeras obras tratan de empresas monopolísticas, gobiernos autoritarios y estados alterados de conciencia, y las últimas de metafísica y teología, con la droga y la paranoia muy presentes. «El hombre en el castillo», sobre un mundo en el que ganó el Eje, recibió el premio Hugo en 1963. En 1974 tuvo una serie de visiones, entre ellas de la antigua Roma, que muchos estudiosos atribuyen a una crisis psicótica breve y que alimentaron su obra posterior."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Dick acierta al decir que el imperio nunca terminó: Roma se transfiguró en el Vaticano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo recoge la frase «El Imperio nunca cayó», que le venía de un sueño de juventud, y sus visiones de Roma. La identificación de ese imperio con el Vaticano es lectura del autor y no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -71079,6 +72930,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/facts/Pier-Paolo-Pasolini",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Pier Paolo Pasolini",
+      "url": "https://es.wikipedia.org/wiki/Pier_Paolo_Pasolini",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71101,6 +72957,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Escritor y director de cine italiano (Bolonia, 5-3-1922 – Ostia, 2-11-1975), hijo de un teniente del ejército y de una maestra; poeta, novelista, ensayista, periodista y activista."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Publicó poesía en friulano desde 1941, militó en el Partido Comunista, del que fue expulsado en 1949 por su homosexualidad, escribió novelas como «Ragazzi di vita» y desde 1961 dirigió cine; criticó el modelo de consumo y televisión que destruía las culturas populares. Su última película, «Saló o los 120 días de Sodoma», adapta a Sade. Fue asesinado en 1975; un joven de 17 años, Pino Pelosi, fue detenido con su coche. Dejó inacabada «Petróleo», que investiga asesinatos de los años setenta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Pasolini habría retratado en «Saló» los abusos atribuidos al círculo de Borghese; decía conocer a los asesinos de su país; no murió como se cuenta, sino destrozado a propósito por «Petróleo» y por meterse con Gladio y las grandes empresas, con el chapero como señuelo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo dice que la autoría y las circunstancias del asesinato siguen en debate, y cuenta que Dell'Utri anunció en 2010 tener un capítulo perdido de «Petróleo». Borghese y Gladio no aparecen en lo buscado; las hipótesis sobre el móvil quedan abiertas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -71669,12 +73547,39 @@ window.CRONO = {
       "titulo": "Wikipedia: Pol Pot",
       "url": "https://es.wikipedia.org/wiki/Pol_Pot",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Pol Pot",
+      "url": "https://es.wikipedia.org/wiki/Pol_Pot",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "citas": [],
    "conexiones": [],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y dictador camboyano, nacido Saloth Sar (Prek Sbauv, 19-5-1925 – Anlong Veng, 15-4-1998), el menor de siete hijos de un hacendado próspero. Su familia tenía lazos con la corte: una prima y una hermana fueron consortes reales y un hermano trabajó en el protocolo del palacio."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Criado en parte en Nom Pen, pasó por un monasterio budista y en 1948 fue enviado a estudiar a París, sin llegar a obtener diploma; se acercó al comunismo y al anticolonialismo. Lideró los Jemeres Rojos desde los años sesenta, tomó el poder en 1975 con apoyo de China y gobernó la Kampuchea Democrática hasta 1979: vació las ciudades para implantar un comunismo agrario, exterminó a intelectuales y supuestos enemigos y causó entre 1,5 y 2 millones de desaparecidos. Su hostilidad a Vietnam provocó la invasión que lo derribó; siguió combatiendo desde la frontera tailandesa, con apoyos que según el artículo incluyeron a EE. UU., Reino Unido, China y Tailandia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Pol Pot estudió en Francia, ejemplo del vínculo entre los dirigentes de Asia oriental y la aristocracia europea."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan los estudios en París y los lazos familiares con la corte camboyana. El vínculo con la aristocracia europea no aparece en lo buscado y de haber estudiado en Francia no se deduce."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -71864,6 +73769,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Reinhard Gehlen",
       "url": "https://es.wikipedia.org/wiki/Reinhard_Gehlen",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Reinhard Gehlen",
+      "url": "https://es.wikipedia.org/wiki/Reinhard_Gehlen",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Skorzeny",
+      "url": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71883,6 +73798,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Militar alemán (Erfurt, 3-4-1902 – Starnberg, 8-6-1979), de familia católica, hijo de un librero. Es considerado uno de los espías más importantes de la Guerra Fría."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En el ejército desde 1920, llegó a mayor general y dirigió la inteligencia sobre el Frente Oriental. El 22 de mayo de 1945 se rindió a la contrainteligencia estadounidense y ofreció sus archivos y su red de contactos a cambio de la libertad suya y de sus colegas. Los militares de EE. UU. le encargaron la Organización Gehlen contra la Unión Soviética, con una empresa tapadera en Pullach; reclutó a antiguos oficiales de inteligencia nazis, 350 al principio y hasta 4000, y trabajó estrechamente con la CIA. En 1956 su organización pasó a ser el núcleo del BND, que presidió hasta 1968; el artículo dice que fue forzado a dejarlo por escándalos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Skorzeny reclutó para la Organización Gehlen, precursora del BND y muy unida a la CIA, y Gehlen recomendó a Skorzeny cuando Nasser pidió ayuda."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El vínculo de la organización con la CIA y su paso al BND constan. El artículo sobre Gehlen no menciona a Skorzeny ni a Nasser; el artículo en inglés sobre Skorzeny dice que reclutó para la Organización Gehlen y que Gehlen lo envió en 1953 a Egipto como asesor militar de Naguib. La recomendación a petición de Nasser, tal como la cuenta el autor, no aparece."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -71915,6 +73852,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Reinhard Kopps",
       "url": "https://en.wikipedia.org/wiki/Reinhard_Kopps",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Reinhard Kopps",
+      "url": "https://en.wikipedia.org/wiki/Reinhard_Kopps",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71930,6 +73872,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Oficial de las SS alemán (29-9-1914 – 11-9-2001), agente de inteligencia especializado en la masonería, afiliado al partido nazi en Hamburgo en 1940."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Operó en los Balcanes y Hungría; se cuenta que en 1944 dio documentación falsa a 25 judíos para salvarlos de Auschwitz. Tras la guerra ayudó a nazis a huir a Argentina y acabó huyendo él. Vivió en Bariloche como Juan Maler. En mayo de 1994, sorprendido por un equipo de la cadena ABC, señaló a Erich Priebke, que fue detenido poco después, y se refugió un tiempo en Tierra del Fuego."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Kopps vivió en Bariloche junto a Priebke."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos vivieron en la misma ciudad; «junto a» no debe entenderse como convivencia, que no consta. La fecha de muerte es el 11 de septiembre de 2001 en la versión oficial y el 12 en el artículo en español sobre Priebke."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -72977,6 +74941,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Roger_Pearson_(anthropologist)",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Roger Pearson (anthropologist)",
+      "url": "https://en.wikipedia.org/wiki/Roger_Pearson_(anthropologist)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72992,6 +74961,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Antropólogo físico británico (Londres, 1927), eugenista, supremacista blanco y organizador de la extrema derecha; perdió a su único hermano y a cuatro primos en la Segunda Guerra Mundial, que describió como una guerra fratricida."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en el ejército británico tras la guerra y fue empresario en el sur de Asia, donde presidió la asociación del té de Pakistán en Chittagong. En 1958 fundó la Northern League, pangermanista, antisemita y de ideología racial neonazi, que dejó en 1961. En EE. UU. publicó con Willis Carto, enseñó antropología desde 1967 y se doctoró en Londres en 1969. En 1975 se instaló en Washington, presidió el capítulo estadounidense de la Liga Anticomunista Mundial y dirigió revistas; formó parte del consejo editorial de la Heritage Foundation. El Pioneer Fund gastó 1,2 millones de dólares en sus actividades entre 1973 y 1999."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Pearson, eugenista con la gran cruz de Malta, fundó la Liga del Norte, cuya primera reunión fue en 1959 cerca de Detmold."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la fundación de la Liga y la primera reunión en Detmold en 1959. La condecoración de la Orden de Malta no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -73151,6 +75142,16 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: Roy Cohn",
       "url": "https://www.britannica.com/biography/Roy-Cohn",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Roy Cohn",
+      "url": "https://es.wikipedia.org/wiki/Roy_Cohn",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Roy Cohn",
+      "url": "https://en.wikipedia.org/wiki/Roy_Cohn",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -73169,6 +75170,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado estadounidense (Nueva York, 20-2-1927 – 2-8-1986), hijo único de una familia judía acomodada; su padre era un juez con influencia en el Partido Demócrata. Se graduó en Derecho en Columbia con veinte años."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se hizo famoso como fiscal en el juicio de espionaje contra Julius y Ethel Rosenberg y como abogado jefe del comité del senador McCarthy, puesto para el que lo apoyaron Hoover y el cardenal Spellman. Después ejerció treinta años en Nueva York para Trump, Onassis, Steinbrenner, jefes de la mafia y la archidiócesis católica, entre otros; presentó a Trump y a Murdoch y colaboró con Roger Stone en la campaña de Reagan de 1980. En 1986 fue expulsado de la abogacía por intentar defraudar a un cliente moribundo, y murió cinco semanas después por complicaciones del sida, que había negado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Cohn y Hoover llegaron al poder extorsionando con escándalos sexuales; Cohn fue informante de Hoover desde 1952 hasta su muerte, ayudante de McCarthy, actor en la condena de los Rosenberg y enemigo de los Kennedy; fue mentor de Trump, lo relacionó con Murdoch, Stone y los casinos, ganó para él concesiones y rebajas fiscales con información sobre fiscales, también como abogado de Onassis; vivió en una suite del Hotel Plaza y por su consejo Trump dirigió Resorts. Murió de sida tras negarlo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan McCarthy, los Rosenberg, Trump, Onassis, Murdoch, Stone y la muerte por sida negada. La extorsión, la condición de informante, el Hotel Plaza y Resorts no aparecen en lo buscado; las afirmaciones sobre la vida privada de personas con nombre quedan como del autor, sin comprobar."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -74162,6 +76185,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Stanley Kubrick",
       "url": "https://es.wikipedia.org/wiki/Stanley_Kubrick",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Stanley Kubrick",
+      "url": "https://es.wikipedia.org/wiki/Stanley_Kubrick",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74176,6 +76204,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Director, guionista, productor y fotógrafo estadounidense nacionalizado británico (Nueva York, 26-7-1928 – Reino Unido, 7-3-1999), criado en Brooklyn durante la Gran Depresión; sus malas notas le cerraron la universidad."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Vivió de vender fotografías a la revista «Look», de las apuestas y del ajedrez. Desde 1951 rodó cortos que compró o financió RKO, y fundó una productora con James B. Harris. Sustituyó a Anthony Mann en «Espartaco» (1960), alcanzó su cumbre con «2001: una odisea del espacio» (1968), que le dio su único Óscar personal, por los efectos especiales, y es considerado uno de los cineastas más influyentes del siglo XX, de gran precisión técnica y carga simbólica."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, fue el «gran anunciador de la élite», que habría elegido «2001» y Júpiter por saber lo que pasaría el 11 de septiembre; recoge un texto que une a Kubrick y Jung, nacidos un 26 de julio, como «agentes J y K»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La fecha de nacimiento del 26 de julio coincide. La relación de la película con el 11 de septiembre y el resto de la lectura no aparecen en lo buscado y no tienen respaldo en la fuente leída. La versión oficial sitúa la muerte en Childwickbury y el artículo en St. Albans, la localidad cercana."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -74508,6 +76558,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Theodore Olson",
       "url": "https://en.wikipedia.org/wiki/Theodore_Olson",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Theodore Olson",
+      "url": "https://es.wikipedia.org/wiki/Theodore_Olson",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Theodore Olson",
+      "url": "https://en.wikipedia.org/wiki/Theodore_Olson",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74522,6 +76582,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado estadounidense (Chicago, 11-9-1940 – 13-11-2024), criado en California, titulado en la Universidad del Pacífico y en Derecho por Berkeley en 1965."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en 1965 en el bufete Gibson Dunn, del que fue socio; fue subsecretario de Justicia en la Oficina de Asesoría Legal (1981-1984) con Reagan, durante la investigación del caso Irán-Contra. En 2000 fue el abogado de Bush en el caso Bush contra Gore y de 2001 a 2004 procurador general ante el Tribunal Supremo. Su tercera esposa, la abogada y comentarista Barbara Olson, murió el 11-9-2001 en el vuelo 77. Después defendió con su antiguo rival David Boies el matrimonio entre personas del mismo sexo contra la Proposición 8 de California."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, nació el 11-9-1940, fue nombrado un 11 de junio y perdió a su esposa en el vuelo 77 el 11-9-2001: «tres 11» en su vida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las tres fechas constan: nacimiento el 11-9-1940, toma de posesión el 11-6-2001 (el nombramiento fue propuesto el 14 de febrero y confirmado el 24 de mayo) y la muerte de su esposa el 11-9-2001. Las coincidencias de fechas no demuestran por sí mismas ninguna relación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -74554,6 +76636,11 @@ window.CRONO = {
       "titulo": "Lecturalia",
       "url": "https://www.lecturalia.com/autor/254/thomas-bernhard",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Thomas Bernhard",
+      "url": "https://es.wikipedia.org/wiki/Thomas_Bernhard",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74565,6 +76652,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Novelista, dramaturgo y poeta austriaco (Heerlen, 9 o 10-2-1931 – Gmunden, 12-2-1989), hijo natural de Herta Bernhard y un carpintero, con una infancia de carencias y enfermedad crónica; su abuelo, el escritor Johannes Freumbichler, orientó su formación artística."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Pasó por un internado nacionalsocialista y después católico que dejó asqueado en 1947, estuvo recluido en un sanatorio entre 1949 y 1951 y estudió música y teatro en el Mozarteum. Escribió novelas como «Helada» y «Trastorno», teatro y una saga autobiográfica, con una relación amarga con Austria; recibió el premio Büchner en 1970. Antinacionalista radical, prohibió en su testamento nuevas representaciones y la publicación de inéditos en Austria."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Bernhard denunció la connivencia de los Löwenstein con el nazismo."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su crítica a Austria consta; los Löwenstein no aparecen en el artículo leído, en línea con la versión oficial."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -74622,6 +76731,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Thomas Corbally",
       "url": "https://en.wikipedia.org/wiki/Thomas_Corbally",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Thomas Corbally",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Corbally",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74644,6 +76758,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario, investigador privado y aventurero estadounidense (Newark, 25-3-1921 – Nueva York, 15-4-2004), de una familia con agencia de detectives propia; su abuelo materno fue congresista demócrata."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en la aviación canadiense hasta 1943 y después trabajó al menos hasta 1949 en la Alemania ocupada como civil de un destacamento del Departamento de Guerra que se cree que era tapadera de los servicios de inteligencia estadounidenses. Participó en las investigaciones del caso Profumo, fue objeto de dos investigaciones del FBI en los años sesenta y durante muchos años hizo trabajos de espionaje industrial para la consultora Kroll. Se le atribuyen amistades muy dispares, entre ellas Kennedy, Kissinger y Roy Cohn."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Corbally fue un antiguo agente de la OSS y de la CIA usado por Cohn y por Trump, con Trump en su agenda; el caso Profumo sería ejemplo de las trampas de miel que atribuye a Corbally, Cohn y Hoover, y fue reclutado por los británicos en el hotel Waldorf Astoria."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en Profumo consta. La condición de agente solo aparece como creencia sobre la tapadera en la que trabajó; Trump, las trampas de miel y el Waldorf Astoria no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -75203,10 +77339,37 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Torrebruno",
       "url": "https://es.wikipedia.org/wiki/Torrebruno"
+     },
+     {
+      "titulo": "Wikipedia (es): Torrebruno",
+      "url": "https://es.wikipedia.org/wiki/Torrebruno",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Showman, cantante, actor y presentador italiano afincado en España (Torino di Sangro, 28-8-1936 – Madrid, 12-6-1998), de familia acomodada; de joven fue empleado de banca."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Debutó cantando en un crucero, pasó por una sala de fiestas de Casablanca y por París, donde actuó en el Moulin Rouge, trabajó para la RAI en 1957 y llegó a España en 1958 como cantante melódico. En televisión se hizo muy popular con programas infantiles como «La guagua», «El recreo» o «Sabadabada» y canciones como «Tigres y leones»; protagonizó «Rocky Carambola» (1979) y se retiró en 1990."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, en hipótesis propia, vino a «envenenar la mente de los españoles» y un seguidor analizó sus mensajes subliminales. Según Rubén Avilés, era un Colonna."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No aparece nada sobre mensajes subliminales ni parentesco con los Colonna. Son hipótesis y afirmaciones sin respaldo en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -75555,6 +77718,16 @@ window.CRONO = {
       "titulo": "The Jewish Chronicle (2017): Rauff, fuente de la inteligencia israelí antes del Mossad",
       "url": "https://www.pressreader.com/uk/the-jewish-chronicle/20170922/281513636334690",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Walter Rauff",
+      "url": "https://es.wikipedia.org/wiki/Walter_Rauff",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Walter Rauff",
+      "url": "https://en.wikipedia.org/wiki/Walter_Rauff",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -75566,6 +77739,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Oficial de las SS alemán (Köthen, 19-6-1906 – Santiago de Chile, 14-5-1984), marino desde 1924, en el partido nazi desde 1937 y en las SS desde 1938, reclutado por Heydrich. Se le responsabiliza de la muerte de hasta 250.000 personas en Europa del Este, en su mayoría judíos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Capturado en 1945, se fugó del campo de Rímini en 1946 y, según declaró, la ayuda de clérigos lo llevó a Roma, donde lo escondió el obispo Hudal. Trabajó para la inteligencia siria en 1948 y después para la israelí; a finales de 1949 pasó a Sudamérica (Ecuador, según el artículo en inglés) y llegó a Chile en 1958. Entre 1958 y 1962 o 1963 trabajó para el servicio alemán BND, que le pagó 70.000 marcos, con la tapadera de agente de una empresa exportadora. Más tarde colaboró en el aparato de seguridad de la dictadura de Pinochet."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Rauff visitaba a los nazis de Bariloche y después trabajó para la inteligencia israelí."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El trabajo para Israel consta, pero fue en torno a 1948-1949, antes de su etapa sudamericana y no después. Bariloche no aparece en los pasajes buscados. Las fuentes difieren en el final de su empleo en el BND (1962 o 1963)."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -76356,6 +78551,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Yasir Arafat",
       "url": "https://es.wikipedia.org/wiki/Yasir_Arafat",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Yasir Arafat",
+      "url": "https://es.wikipedia.org/wiki/Yasir_Arafat",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Otto Skorzeny",
+      "url": "https://en.wikipedia.org/wiki/Otto_Skorzeny",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -76367,6 +78572,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político nacionalista palestino (El Cairo, 24-8-1929 – Clamart, 11-11-2004), graduado en 1950 en la universidad Rey Fuad I."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fundó Fatah en 1959 y presidió la OLP; operó desde varios países árabes, se enfrentó a Jordania en una breve guerra civil y pasó gran parte de su vida luchando contra Israel. En 1988 aceptó la resolución 242 de la ONU, negoció en Madrid, Oslo y Camp David y recibió en 1994 el Nobel de la Paz con Peres y Rabin. Presidió la Autoridad Nacional Palestina; sus rivales lo acusaron de corrupción o de ceder demasiado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Skorzeny entrenó a voluntarios árabes y palestinos, entre ellos Arafat."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El artículo sobre Arafat no menciona a Skorzeny, pero el artículo en inglés sobre Skorzeny sí dice que planeó incursiones de árabes entrenados desde Gaza en 1953-1954 y que uno de ellos fue Arafat. Es una sola fuente y no se ha cotejado con biografías de Arafat."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -76544,9 +78771,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Zhou Xiaochuan",
       "url": "https://es.wikipedia.org/wiki/Zhou_Xiaochuan",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Zhou Xiaochuan",
+      "url": "https://en.wikipedia.org/wiki/Zhou_Xiaochuan",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Zhou Xiaochuan",
+      "url": "https://es.wikipedia.org/wiki/Zhou_Xiaochuan",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista chino (Yixing, 29-1-1948), hijo de Zhou Jiannan, alto cargo industrial perseguido en la Revolución Cultural, durante la cual el hijo trabajó en un cuerpo de producción en Heilongjiang. Ingeniero químico y doctor por Tsinghua en 1985."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Desde 1986 trabajó en la reforma económica en el Consejo de Estado y fue asistente del ministro de Comercio Exterior; antes de 1989 fue protegido de Zhao Ziyang. Dirigió después el Banco de China como ejecutivo, la administración de divisas, el Banco de Construcción, donde se crearon sociedades para los préstamos fallidos, y la comisión de valores. Gobernó el Banco Popular de China de 2002 a 2018, a cargo del saneamiento de unos 865.000 millones de dólares de mala deuda. En 2009 propuso sustituir gradualmente el dólar como reserva por los Derechos Especiales de Giro del FMI."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, figuraba entre los miembros del comité de 2013 como representante del banco de China."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que en 2013 gobernaba el Banco Popular de China, que no es la misma entidad que el Banco de China. Los artículos leídos no hablan de ese comité."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
