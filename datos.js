@@ -57734,6 +57734,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Dirigente nazi (Múnich, 1900 – Luneburgo, 1945), de familia católica conservadora de clase media; estudió Agricultura."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Cadete al final de la Primera Guerra Mundial, entró en el partido en 1923, participó en el golpe de Múnich y se unió a las SS en 1925. Jefe de las SS desde 1929, las llevó de 290 hombres a cerca de un millón, controló la Gestapo y creó el sistema central de campos de concentración; jefe de policía en 1936 y ministro del Interior en 1943. Criminal de guerra y uno de los principales responsables del Holocausto, se suicidó tras ser capturado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Hitler lo desheredó en su testamento del 29 de abril de 1945."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La expulsión en el testamento no se ha comprobado en los pasajes leídos hoy."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -57842,6 +57864,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Policía alemán (Múnich, 1900 – desaparecido en Berlín en mayo de 1945), piloto en la Primera Guerra Mundial."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En la policía de Múnich fue investigador anticomunista poco respetuoso con la ley y combatió a los nazis; aun así entró en las SS en 1934 y, apoyado por Heydrich, dirigió la Gestapo desde 1939. Obligado a afiliarse al partido ese año, fue responsable de la represión de judíos, minorías y oposición. Varios jerarcas lo detestaban."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, que sigue a Manning, ayudó a Bormann a escapar a Argentina, y su equipo sirvió también a Gaddafi."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La muerte de Bormann en Berlín está confirmada por ADN, según su ficha, así que esa huida no se sostiene. Sobre su propio destino no se encontró cadáver. Lo de Gaddafi no aparece en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -61708,6 +61752,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Joseph Goebbels",
       "url": "https://es.wikipedia.org/wiki/Joseph Goebbels",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Joseph Goebbels",
+      "url": "https://es.wikipedia.org/wiki/Joseph_Goebbels",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61727,6 +61776,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político alemán (Rheydt, 1897 – Berlín, 1945), de familia católica; su padre pasó de obrero a contable. Doctor en Filología Germánica por Heidelberg en 1921, quiso ser escritor."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En el partido nazi desde 1924, jefe del partido en Berlín desde 1926 y ministro de Propaganda (1933-1945), controló prensa, artes e información y usó radio y cine para el antisemitismo y la moral de guerra, con un papel en el camino al Holocausto. En 1943 promovió la «guerra total» y en 1944 fue su plenipotenciario. Se suicidó con su familia tras la muerte de Hitler."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, el testamento de Hitler lo nombró canciller y se suicidó poco después con su familia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La versión oficial confirma que fue canciller un día."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64980,6 +65051,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Dirigente nazi (Wegeleben, 1900 – Berlín, 1945). Miembro de un Freikorps, gerente de una finca y preso cerca de un año por el asesinato de Walter Kadow, con Rudolf Höss."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "En el partido desde 1927 y en las SS desde 1937; llevó el seguro del partido, fue jefe de personal de Hess y, tras el vuelo de este en 1941, dirigió la cancillería del partido. Secretario de Hitler, controlaba el acceso y la información. Murió al intentar huir de Berlín en mayo de 1945; sus restos, hallados en 1972, se confirmaron por ADN en 1998 según la versión oficial de la ficha."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, dio luz verde en 1944 a una fuga de capitales a Buenos Aires, y según Paul Manning escapó a Argentina disfrazado de jesuita, con ayuda de Müller y cientos de empresas tapadera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La identificación por ADN descarta la huida personal. La fuga de capitales es una cuestión distinta y no se ha comprobado en lo leído.\n\nPendiente: los informes aliados sobre capitales alemanes en Argentina."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
