@@ -61277,6 +61277,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Aleister Crowley",
       "url": "https://es.wikipedia.org/wiki/Aleister_Crowley",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Aleister Crowley",
+      "url": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -61305,6 +61310,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en 1875 en Leamington en una familia rica de los Hermanos de Plymouth, rechazó la fe de sus padres; estudió en Trinity College (Cambridge), escribió poesía y fue alpinista. Murió en Hastings en 1947."
+    },
+    {
+     "titulo": "Órdenes",
+     "nivel": "hecho",
+     "texto": "Entró en la Golden Dawn en 1898, formado por Mathers; tras 1904 fundó la A∴A∴ (1907), se inició en la O.T.O. (1912) y creó en 1920 la abadía de Thelema en Cefalú, de donde el gobierno italiano lo expulsó."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Heredó un tercio de la fortuna paterna y con los años la agotó, buscando después ingresos."
+    },
+    {
+     "titulo": "Espionaje",
+     "nivel": "tesis",
+     "texto": "Algunos biógrafos sostienen que fue reclutado por la inteligencia británica en Cambridge y que se infiltró en el movimiento proalemán para ella."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo ve como profeta de una nueva religión de la modernidad, asesor mágico de Churchill con el signo de la V y defensor de una aristocracia patriarcal."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El asesoramiento a Churchill y el club «The Beatles» no aparecen en los pasajes leídos."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -62428,6 +62465,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Anton LaVey",
       "url": "https://es.wikipedia.org/wiki/Anton_LaVey",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Anton LaVey",
+      "url": "https://en.wikipedia.org/wiki/Anton_LaVey",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62443,6 +62485,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Howard Stanton Levey (Chicago, 1930 - San Francisco, 1997), músico de órgano en bares y clubes y escritor."
+    },
+    {
+     "titulo": "Biografía discutida",
+     "nivel": "hecho",
+     "texto": "El periodista Lawrence Wright no halló pruebas de que trabajara en un circo ni en la policía de San Francisco, como contaba."
+    },
+    {
+     "titulo": "La iglesia",
+     "nivel": "hecho",
+     "texto": "Fundó la Iglesia de Satán en 1966 y escribió la Biblia Satánica, con un sistema materialista e individualista sin nada sobrenatural, aunque usó materiales de ocultistas anteriores, como el sistema enoquiano de John Dee."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En 1975 anunció que los grados superiores podían concederse a cambio de aportaciones económicas, el año de la escisión de Aquino."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano afirma estrechas relaciones de su iglesia con el partido de Madole."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esa relación no aparece en los pasajes leídos."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -62952,6 +63026,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Arturo Sosa",
       "url": "https://es.wikipedia.org/wiki/Arturo_Sosa",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Arturo Sosa",
+      "url": "https://en.wikipedia.org/wiki/Arturo_Sosa",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -62966,6 +63045,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién es",
+     "nivel": "hecho",
+     "texto": "Nacido en Caracas en 1948, hijo de un empresario que fue ministro de Hacienda; jesuita desde 1966, sacerdote en 1977, doctor en ciencia política en 1990."
+    },
+    {
+     "titulo": "Trayectoria",
+     "nivel": "hecho",
+     "texto": "Profesor y rector de la Universidad Católica del Táchira, director de la revista SIC (1976-1996), provincial de Venezuela (1996-2004) y autor de estudios de historia política venezolana."
+    },
+    {
+     "titulo": "General",
+     "nivel": "hecho",
+     "texto": "Elegido el 14 de octubre de 2016 como 31.º prepósito general, primer latinoamericano en el cargo. Declaraciones suyas sobre el diablo y sobre el papa le han valido críticas de medios católicos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo incluye en su esquema de tres papas con culto a Saturno; Rubén Avilés le atribuye presionar al margen de los gobiernos con un plan alineado con la Agenda 2030 y lo llama papa negro."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "«Papa negro» es un apodo del cargo; el culto a Saturno no aparece en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -63321,6 +63427,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Benedicto XVI",
       "url": "https://es.wikipedia.org/wiki/Benedicto_XVI",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Benedict XVI",
+      "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XVI",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63336,6 +63447,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Joseph Ratzinger (Marktl, 1927 - Vaticano, 2022), ordenado en 1951, teólogo asesor del cardenal Frings en el Vaticano II."
+    },
+    {
+     "titulo": "Giro",
+     "nivel": "hecho",
+     "texto": "De posiciones liberales pasó a conservadoras tras las revueltas universitarias de 1968; cofundó la revista Communio en 1972."
+    },
+    {
+     "titulo": "Poder",
+     "nivel": "hecho",
+     "texto": "Arzobispo de Múnich y cardenal en 1977, prefecto de Doctrina de la Fe desde 1981-1982, decano del colegio cardenalicio en 2002 y papa en 2005. Su papel en las normas de secreto sobre denuncias de abusos fue objeto de polémica."
+    },
+    {
+     "titulo": "Renuncia",
+     "nivel": "hecho",
+     "texto": "Alegando edad y salud renunció el 28 de febrero de 2013, el primero desde 1415 y sin presiones formales desde 1294; fue papa emérito hasta su muerte."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo ve con Juan Pablo II, o con Francisco, como dos caras de un mismo procedimiento."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Esa lectura es del autor. La Britannica no se pudo abrir."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -71472,6 +71615,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Agagianian",
       "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/agagianian-xv-gregory-peter",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Gregorio Pedro XV Agagianian",
+      "url": "https://es.wikipedia.org/wiki/Gregorio_Pedro_XV_Agagianian",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -71483,6 +71631,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Ajaltsije en 1895, estudió en Tiflis y Roma, se ordenó en 1917 y dirigió a los armenios católicos de Tiflis hasta que se impuso el poder bolchevique; de 1921 a 1932 enseñó en Roma."
+    },
+    {
+     "titulo": "Cargos",
+     "nivel": "hecho",
+     "texto": "Patriarca armenio católico desde 1937, revitalizó una Iglesia muy dañada por el genocidio armenio; cardenal en 1946, prefecto de Propaganda Fide (1958-1970), moderador del Vaticano II y papable en 1958 y 1963."
+    },
+    {
+     "titulo": "Unión Soviética",
+     "nivel": "hecho",
+     "texto": "Se le tenía por buen conocedor del país; tenía familia allí y en 1962 su hermana viajó a Roma gracias a una intervención de Jruschov."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que coincidió con Stalin y que como cardenal habría controlado los campos de Siberia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No consta ninguna relación con los campos; y por edad no pudo ser compañero de seminario de Stalin. Su causa de canonización se abrió en 2022."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -78213,6 +78388,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Juan Pablo II",
       "url": "https://es.wikipedia.org/wiki/Juan_Pablo_II",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope John Paul II",
+      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -78223,6 +78403,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Karol Wojtyła (Wadowice, 1920 - Vaticano, 2005) estudió en un seminario clandestino mientras hacía trabajos forzados bajo la ocupación; arzobispo de Cracovia desde 1964 y papa desde 1978."
+    },
+    {
+     "titulo": "Poder",
+     "nivel": "hecho",
+     "texto": "Símbolo del anticomunismo: su viaje a Polonia de 1979 impulsó el ambiente del que salió Solidaridad en 1980. Reagan abrió relaciones diplomáticas con el Vaticano en 1984. Criticó también el consumismo y el capitalismo liberal; visitó 129 países."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "tesis",
+     "texto": "Se ha alegado ampliamente que el banco vaticano financió en secreto a Solidaridad."
+    },
+    {
+     "titulo": "Críticas",
+     "nivel": "hecho",
+     "texto": "Se le reprocha no haber actuado o no lo suficiente contra los abusos de sacerdotes, la disciplina a la teología de la liberación y su moral sexual. Canonizado en 2014."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano subraya su uso del águila bicéfala y ve en su sarcófago el cubo de Saturno."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La lectura simbólica del sepulcro no tiene apoyo en lo leído; la financiación de Solidaridad es una alegación."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -82502,6 +82714,11 @@ window.CRONO = {
       "titulo": "Britannica: Menachem Mendel Schneerson",
       "url": "https://www.britannica.com/biography/Menachem-Mendel-Schneerson",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (en): Menachem Mendel Schneerson",
+      "url": "https://en.wikipedia.org/wiki/Menachem_Mendel_Schneerson",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -82513,6 +82730,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en Nikolaev (hoy Mykolaiv) en 1902, hijo de un rabino talmudista y cabalista, estudió ingeniería y emigró a Estados Unidos en 1941."
+    },
+    {
+     "titulo": "Séptimo Rebe",
+     "nivel": "hecho",
+     "texto": "Muerto su suegro en 1950, se resistió un año y asumió el 17 de enero de 1951, declarando como misión traer al Mesías."
+    },
+    {
+     "titulo": "Obra",
+     "nivel": "hecho",
+     "texto": "Convirtió un grupo jasídico casi destruido por el Holocausto en una red de más de 5.000 centros; sus enseñanzas ocupan más de 400 volúmenes y se le considera pionero de la divulgación religiosa judía."
+    },
+    {
+     "titulo": "Controversia",
+     "nivel": "hecho",
+     "texto": "Muchos fieles lo creyeron Mesías en vida; se discute su propia postura. Murió en 1994."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano (en voz de Iván) lo presenta como artífice de la red y cita un vídeo en que insta a Netanyahu a acelerar la venida mesiánica."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El vídeo no se ha localizado ni comprobado. La Britannica no se pudo abrir."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -82625,6 +82874,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Michael Aquino",
       "url": "https://es.wikipedia.org/wiki/Michael_Aquino",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Michael A. Aquino",
+      "url": "https://en.wikipedia.org/wiki/Michael_A._Aquino",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -82635,6 +82889,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Nacido en San Francisco en 1946, licenciado y doctor en ciencia política por la Universidad de California en Santa Bárbara; murió en 2019."
+    },
+    {
+     "titulo": "Ejército",
+     "nivel": "hecho",
+     "texto": "Oficial especialista en guerra psicológica, sirvió en Vietnam y con los boinas verdes, fue enlace con la OTAN, destinado en el Presidio de San Francisco y agregado de reserva en la agencia de inteligencia de Defensa."
+    },
+    {
+     "titulo": "Satanismo",
+     "nivel": "hecho",
+     "texto": "Entró en la Iglesia de Satán en 1969, la dejó en 1975 y fundó el Templo de Set, del que fue sumo sacerdote."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano lo llama primero fundador de la Iglesia de Satán, precisa después que fundó el Templo de Set y le atribuye origen en la nobleza negra italiana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No fundó la Iglesia de Satán; no consta vínculo de su familia con la nobleza italiana."
+    }
+   ],
    "naturaleza": "ocultismo",
    "vista": "religion"
   },
@@ -84936,6 +85217,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Jorge Mario Bergoglio, jesuita argentino, papa desde 2013 hasta su muerte el 21 de abril de 2025."
+    },
+    {
+     "titulo": "La dictadura",
+     "nivel": "hecho",
+     "texto": "Dos jesuitas, Yorio y Jalics, fueron secuestrados en 1976, torturados y liberados cinco meses después, siendo él provincial. Un juez del tribunal que sentenció en 2011 declaró que las acusaciones de que los hubiera entregado se desecharon por falsas; Jalics, fallecido en 2021, lo respaldó."
+    },
+    {
+     "titulo": "Masonería",
+     "nivel": "hecho",
+     "texto": "Aun con elogios de logias a sus mensajes, el Vaticano reiteró en noviembre de 2023, con su aprobación, que los católicos no pueden ser masones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo presenta como jesuita no fiable que financiaba sociedades secretas; Jorge Guerra habla de un expediente oculto en Argentina; Guillermo Mas Arellano lo une a Benedicto XVI como dos caras."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su conducta en la dictadura se ha debatido; la justicia no le imputó nada. Las demás acusaciones no tienen apoyo en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -85021,6 +85329,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién es",
+     "nivel": "hecho",
+     "texto": "Robert Prevost (Chicago, 1955), agustino, sacerdote en 1982, doctor en derecho canónico en Roma, misionero en Perú, prior general de su orden (2001-2013), obispo de Chiclayo (2015-2023) y prefecto de Obispos; papa desde el 8 de mayo de 2025, el primero estadounidense."
+    },
+    {
+     "titulo": "Perú",
+     "nivel": "hecho",
+     "texto": "Siendo obispo criticó el indulto a Fujimori en 2017 y pidió que pidiera perdón; defensores de víctimas del Sodalicio lo respaldaron."
+    },
+    {
+     "titulo": "Las denuncias",
+     "nivel": "hecho",
+     "texto": "Se le acusó de encubrir abusos en Chiclayo y Chicago. En el caso de Chiclayo, la diócesis dice que la fiscalía archivó en 2023 por prescripción y que el dicasterio vaticano también archivó en agosto de 2023. Él ha dicho sentirse muy mal por la lentitud de la justicia canónica. Archivar por prescripción no resuelve el fondo y ninguna acusación contra él está probada."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra habla de un expediente oculto; Rubén Avilés liga su nombre a la operación contra Irán; Guillermo Mas Arellano lee en el número 14 al sumo sacerdote que digitalizaría el catolicismo y lo integra en tres papas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las denuncias siguen siendo discutidas; las lecturas simbólicas son de los autores."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -86637,6 +86972,11 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica: Pius XII",
       "url": "https://www.britannica.com/biography/Pius-XII",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Pope Pius XII",
+      "url": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -86659,6 +86999,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Eugenio Pacelli (Roma, 1876 - Castel Gandolfo, 1958), de familia ligada a la Curia: su abuelo fue ministro con Pío IX y fundó L'Osservatore Romano, su padre decano de la Rota y su primo asesor financiero de León XIII."
+    },
+    {
+     "titulo": "Diplomacia",
+     "nivel": "hecho",
+     "texto": "Como secretario de Estado firmó concordatos, entre ellos el de 1933 con la Alemania nazi, y pesó mucho en la redacción de Mit brennender Sorge (1937). Papa desde 1939."
+    },
+    {
+     "titulo": "La guerra",
+     "nivel": "hecho",
+     "texto": "La oficina de información vaticana atendió millones de consultas sobre desaparecidos. En el mensaje de Navidad de 1942 aludió a la muerte de inocentes por su raza en términos generales. En 1945 el Congreso Judío Mundial y el rabino Herzog le agradecieron ayudas."
+    },
+    {
+     "titulo": "El debate",
+     "nivel": "hecho",
+     "texto": "Se le reprocha silencio público e inacción ante el exterminio de los judíos; sus defensores sostienen que actuó con diplomacia y ayuda discreta. La historiadora McGoldrick concluye que temía el bolchevismo y sentía afecto por Alemania, no por su régimen criminal."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra recoge que Tacchi Venturi le escribió en 1937 sobre concesiones de Mussolini."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El juicio histórico sigue dividido; los archivos son decisivos y no se han examinado aquí."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
@@ -90619,6 +90991,11 @@ window.CRONO = {
       "titulo": "Santa Sede: DOLAN Card. Timothy Michael",
       "url": "https://press.vatican.va/content/salastampa/en/documentation/cardinali_biografie/cardinali_bio_dolan_tm.html",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Timothy Dolan",
+      "url": "https://en.wikipedia.org/wiki/Timothy_Dolan",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -90633,6 +91010,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién es",
+     "nivel": "hecho",
+     "texto": "Nacido en San Luis en 1950, doctor en historia de la Iglesia estadounidense, secretario de la nunciatura en Washington, rector del Colegio Norteamericano de Roma (1994-2001), arzobispo de Milwaukee (2002-2009) y de Nueva York (2009-2025), cardenal."
+    },
+    {
+     "titulo": "Poder",
+     "nivel": "hecho",
+     "texto": "Presidió la conferencia episcopal de Estados Unidos (2010-2013) y visitó seminarios de Irlanda tras los informes sobre abusos."
+    },
+    {
+     "titulo": "Abusos y dinero",
+     "nivel": "hecho",
+     "texto": "Según The New York Times (2012), la archidiócesis de Milwaukee en su etapa pagó hasta 20.000 dólares a algunos curas abusadores para que dejaran el sacerdocio. Documentos publicados muestran que en 2007 pidió permiso a Roma para traspasar 57 millones de dólares a un fideicomiso, que a su juicio protegería esos fondos de demandas. En 2024 la archidiócesis de Nueva York demandó a su aseguradora por no pagar reclamaciones."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo llama superintendente del Vaticano que interviene en la elección presidencial y atribuye a su familia la propiedad de Cablevisión."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La intervención electoral y la propiedad de Cablevisión no tienen apoyo en lo leído."
+    }
+   ],
    "naturaleza": "logias",
    "vista": "religion"
   },
