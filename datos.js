@@ -1127,6 +1127,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La Sociedad de Naciones nombró en 1922 a Fridtjof Nansen alto comisionado para los refugiados; de 1943 a 1949 actuó la agencia de socorro de los aliados, y después una organización internacional para los refugiados."
+    },
+    {
+     "titulo": "Creación y tarea",
+     "nivel": "hecho",
+     "texto": "La Asamblea General aprobó su estatuto el 14 de diciembre de 1950 y empezó el 1 de enero de 1951, con el encargo de reasentar a más de un millón de europeos sin hogar. Protege a refugiados y desplazados y busca soluciones; sede en Ginebra y más de 250 delegaciones."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera lo cita junto a la organización de migraciones como pieza de control."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su origen responde a una crisis concreta de posguerra. La lectura como control es del autor y en lo leído no se apoya."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -17423,6 +17445,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Valero family",
       "url": "https://en.wikipedia.org/wiki/Valero_family"
+     },
+     {
+      "titulo": "Wikipedia (en): Israeli Declaration of Independence",
+      "url": "https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17433,6 +17460,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Un hogar judío en Palestina era objetivo sionista desde finales del XIX. En 1917 Balfour expresó el apoyo británico en una carta a lord Rothschild, con la condición de no perjudicar los derechos de las comunidades no judías. Gran Bretaña recibió el mandato; en 1937 la comisión Peel propuso la partición, rechazada como inviable."
+    },
+    {
+     "titulo": "La proclamación",
+     "nivel": "hecho",
+     "texto": "El 14 de mayo de 1948, en el museo de Tel Aviv, el Consejo Nacional presidido por Ben-Gurión, jefe de la ejecutiva sionista y de la Agencia Judía, declaró el Estado de Israel, efectivo al acabar el mandato a medianoche, entre la fase de guerra civil y la guerra árabe-israelí."
+    },
+    {
+     "titulo": "Dos memorias",
+     "nivel": "hecho",
+     "texto": "Israel celebra la fecha como independencia; los palestinos la ven como el comienzo de la Nakba, la catástrofe del desplazamiento y la pérdida de casas y tierras."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis, entre ellas la del Banco Valero."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los hechos de 1948 tienen dos lecturas ligadas a lo que cada pueblo ganó o perdió. En lo leído no aparecen Habsburgo ni Borbones."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -30623,6 +30677,28 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "ideales-sociales",
+   "detalle": [
+    {
+     "titulo": "La novela",
+     "nivel": "hecho",
+     "texto": "George Orwell la escribió entre 1947 y 1948 y la publicó el 8 de junio de 1949. Popularizó el Gran Hermano, la habitación 101, la policía del pensamiento y la neolengua, que reduce el vocabulario para que lo no nombrable no pueda pensarse."
+    },
+    {
+     "titulo": "Argumento e influencia",
+     "nivel": "hecho",
+     "texto": "En un Londres totalitario, Winston Smith y Julia intentan escapar de un sistema que prohíbe la intimidad y el libre pensamiento. Orwell se inspiró en Nosotros (1924), de Zamiatin. Es de los libros más influyentes del siglo XX y «orwelliano» designa la vigilancia y la manipulación de la información."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre ella."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que muchos vean paralelismos actuales es un juicio, no una prueba de que la novela describiera un plan."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -33811,6 +33887,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antecesora",
+     "nivel": "hecho",
+     "texto": "La Organización Europea de Cooperación Económica nació del Plan Marshall y de la conferencia de dieciséis países; existió de 1948 a 1960, con Robert Marjolin al frente, para poner en marcha la recuperación conjunta."
+    },
+    {
+     "titulo": "La OCDE",
+     "nivel": "hecho",
+     "texto": "El convenio se firmó el 14 de diciembre de 1960 y se fundó en 1961, con sede en París. Coordina políticas económicas y sociales de 38 Estados; se la llama el club de los países ricos: en 2017 sus miembros sumaban el 62,2 % del PIB nominal mundial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre ella."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su origen está ligado al dinero estadounidense de la posguerra.\n\nPendiente: cómo se financia y cómo se adoptan sus normas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34029,6 +34127,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Antes",
+     "nivel": "hecho",
+     "texto": "La seguridad marítima se regulaba con convenios sueltos, como el de Salvaguarda de la Vida en el Mar de 1914, tras el Titanic."
+    },
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "La conferencia marítima de la ONU en Ginebra, en febrero y marzo de 1948, acordó el organismo, que tardó diez años en entrar en vigor; su primera asamblea fue el 6 de enero de 1959, con otro nombre."
+    },
+    {
+     "titulo": "Hoy",
+     "nivel": "hecho",
+     "texto": "Agencia especializada con sede en Londres que regula seguridad, medio ambiente y cuestiones jurídicas del transporte marítimo. Gobierna una asamblea bienal con un consejo de 40 miembros y cinco comités; tiene 176 Estados."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» la tesis y la cifra de Giuseppe Nocera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es un regulador acordado entre Estados. La cifra del 80 % no se ha comprobado."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -34180,6 +34305,11 @@ window.CRONO = {
       "titulo": "KEI: WHO donors in 2014 (informe financiero de la OMS)",
       "url": "https://www.keionline.org/?p=22755",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Organización Mundial de la Salud",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34203,6 +34333,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Nació de la fusión de organismos de higiene: la oficina de París (1908) para las cuarentenas, la organización de higiene de la Sociedad de Naciones (1921), la oficina panamericana y los servicios médicos de la agencia de socorro de la posguerra."
+    },
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "El Consejo Económico y Social impulsó sus estatutos; se instituyó el 7 de abril de 1948 y se reunió en Ginebra ese año. Define la salud como bienestar físico, mental y social completo."
+    },
+    {
+     "titulo": "Gobierno",
+     "nivel": "hecho",
+     "texto": "Dirigen los Estados mediante la Asamblea Mundial de la Salud, que fija la política financiera y el presupuesto y elige un consejo ejecutivo de 34 técnicos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre ella."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Formalmente mandan los Estados; la versión oficial recoge que la financian también donantes privados.\n\nSeguir el dinero: pendiente el peso de las aportaciones voluntarias y su destino."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -36911,6 +37068,11 @@ window.CRONO = {
       "titulo": "Wikipedia: National Renaissance Party",
       "url": "https://en.wikipedia.org/wiki/National_Renaissance_Party",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): National Renaissance Party (United States)",
+      "url": "https://en.wikipedia.org/wiki/National_Renaissance_Party_(United_States)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36929,6 +37091,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Grupo neonazi estadounidense creado en enero de 1949 por Kurt Mertig, veterano pronazi ligado a la Liga Germano-Estadounidense, fusionando organizaciones fascistas previas, entre ellas el Partido Animista de James Madole."
+    },
+    {
+     "titulo": "Madole y actividad",
+     "nivel": "hecho",
+     "texto": "Mertig le cedió pronto la jefatura, que Madole ejerció 30 años desde Nueva York. En 1953 creó un centro de pensamiento dirigido por H. Keith Thompson. Salió en prensa en los años cincuenta y sesenta por disturbios. En 1954 los investigadores le calculaban entre 200 y 700 miembros, otros nunca más."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "Tras la muerte de Madole en 1979 se apagó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano habla de Thompson y de sus conexiones; el detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Era un grupo pequeño. La participación de Thompson consta; lo demás no se ha comprobado."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -36961,6 +37150,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Partido Socialista del Reich",
       "url": "https://es.wikipedia.org/wiki/Partido_Socialista_del_Reich",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Socialist Reich Party",
+      "url": "https://en.wikipedia.org/wiki/Socialist_Reich_Party",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -36975,6 +37169,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Creado el 2 de octubre de 1949 en Hamelín por Otto Remer, Fritz Dorls y Gerhard Krüger, expulsados de un partido de derecha nacional. Se veía heredero del partido nazi y la mayoría de sus seguidores habían militado en él; lo apoyó el coronel Hans-Ulrich Rudel."
+    },
+    {
+     "titulo": "Organización y votos",
+     "nivel": "hecho",
+     "texto": "Copió estructuras nazis, con un frente paramilitar, juventudes y rama femenina. Tuvo éxito en Baja Sajonia y Bremen y se alió con el Nuevo Orden Europeo de René Binet."
+    },
+    {
+     "titulo": "Prohibición",
+     "nivel": "hecho",
+     "texto": "El gobierno pidió prohibirlo en noviembre de 1951 y el Tribunal Constitucional lo hizo el 23 de octubre de 1952, la primera prohibición de un partido."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre él."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La continuidad ideológica y personal con el nazismo está documentada.\n\nPendiente: su financiación."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -46666,6 +46887,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "El 5 de octubre de 1948, en Fontainebleau, representantes de gobiernos y organizaciones conservacionistas, impulsados por la UNESCO, firmaron el acta de la Unión Internacional para la Protección de la Naturaleza, después para la Conservación."
+    },
+    {
+     "titulo": "Qué hace",
+     "nivel": "hecho",
+     "texto": "Reúne más de 1.400 organizaciones públicas y privadas de más de 170 países, unos 16.000 expertos voluntarios y más de 900 empleados. Reúne datos, investiga y asesora a gobiernos y empresas, sin buscar movilizar al público; es conocida por la Lista Roja de especies amenazadas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» la tesis de Jorge Guerra sobre Julian Huxley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El impulso de la UNESCO consta; la versión oficial atribuye también la iniciativa a Huxley, que la dirigía.\n\nPendiente: su financiación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
