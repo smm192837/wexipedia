@@ -3649,6 +3649,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Banco de Italia",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Italia",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Banca Romana scandal",
+      "url": "https://en.wikipedia.org/wiki/Banca_Romana_scandal",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Banca d'Italia",
+      "url": "https://it.wikipedia.org/wiki/Banca_d'Italia",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -3663,6 +3673,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antes: seis bancos emisores",
+     "nivel": "hecho",
+     "texto": "Italia no tenía banco central. En 1874 se autorizó a seis bancos a emitir billetes, dos públicos y cuatro privados vigilados. Uno era la Banca Romana, fundada por inversores franceses y belgas bajo Gregorio XVI y banco oficial de los Estados Pontificios desde 1850. En 1887 cinco de los emisores superaban su límite legal y se sabía; frenar el crédito en plena especulación inmobiliaria se consideraba imposible."
+    },
+    {
+     "titulo": "El escándalo de la Banca Romana",
+     "nivel": "hecho",
+     "texto": "La burbuja estalló en 1887. Una inspección de 1889 halló graves irregularidades, el 91 % de los activos sin liquidez y billetes con numeración duplicada. A finales de 1892 el diputado Colajanni leyó el informe en el Parlamento. La comisión confirmó en enero de 1893 que circulaban 135 millones de liras frente a 75 permitidos, y que se había pagado a políticos para campañas y periódicos.\n\nEl gobernador Tanlongo fue detenido y absuelto en 1894; acusó de cobrar dinero a Giolitti. El caso arrastró al gobierno de Giolitti y salpicó a Crispi."
+    },
+    {
+     "titulo": "La creación",
+     "nivel": "hecho",
+     "texto": "La ley de agosto de 1893 liquidó la Banca Romana y fusionó la Banca Nazionale del Regno con la Banca Nazionale Toscana y la Banca Toscana di Credito en el Banco de Italia, que empezó a operar el 1 de enero de 1894. Quedó emitiendo junto a los bancos de Nápoles y de Sicilia. Según la versión inglesa, la reforma buscaba sobre todo resolver deprisa el problema y tapar el escándalo."
+    },
+    {
+     "titulo": "Propiedad actual",
+     "nivel": "hecho",
+     "texto": "Es un ente de derecho público con capital repartido en cuotas que solo pueden tener bancos, aseguradoras, fundaciones, entidades de previsión y fondos de pensiones italianos; desde la reforma de 2013-2014 ningún socio vota ni cobra por encima del 3 %. Algunos ven un conflicto de intereses, porque entre los partícipes hay bancos a los que vigila. En 2015 tenía 2.451,8 toneladas de oro."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, UniCredit, heredero del Banco del Santo Spirito, tiene más del 18 % del Banco de Italia, que es un banco central de propiedad privada y el tercer mayor poseedor de oro."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay partícipes privados, pero con el tope del 3 % un 18 % no daría voto ni dividendo por encima de ese límite; la cifra puede ser anterior a la reforma y no se ha comprobado. La relación de UniCredit con el Santo Spirito tampoco.\n\nPendiente: la lista actual de partícipes."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -5536,6 +5578,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Triple Entente",
       "url": "https://es.wikipedia.org/wiki/Triple_Entente",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Triple Alliance (1882)",
+      "url": "https://en.wikipedia.org/wiki/Triple_Alliance_(1882)",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Triple Entente",
+      "url": "https://en.wikipedia.org/wiki/Triple_Entente",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -5547,6 +5599,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La Triple Alianza",
+     "nivel": "hecho",
+     "texto": "Alemania y Austria-Hungría estaban aliadas desde 1879. Italia buscaba apoyo contra Francia, tras la toma francesa de Túnez en 1881, y su gobierno conservador simpatizaba con las dos monarquías. El tratado defensivo se firmó el 20 de mayo de 1882 y se renovó hasta expirar en 1915. Italia prometía neutralidad si estallaba una guerra entre Austria-Hungría y Rusia.\n\nItalia y Austria-Hungría nunca resolvieron su choque de intereses en los Balcanes y el Adriático."
+    },
+    {
+     "titulo": "La Triple Entente",
+     "nivel": "hecho",
+     "texto": "Se construyó por pasos: la alianza franco-rusa de 1894, después de que Alemania no renovara en 1890 su tratado con Rusia; la Entente cordiale franco-británica de 1904, sobre todo colonial; y el acuerdo anglo-ruso de 1907 sobre Persia, Afganistán y Tíbet. A diferencia de la Alianza, no era un pacto de defensa mutua, así que Londres conservaba libertad de acción.\n\nEntre los incentivos hubo dinero: Francia condicionó un préstamo a Japón en París a un acuerdo ruso-japonés y a garantías para Indochina."
+    },
+    {
+     "titulo": "1914",
+     "nivel": "hecho",
+     "texto": "Los tres miembros de la Entente entraron como Aliados contra Alemania, Austria-Hungría, el Imperio otomano y Bulgaria, y el 4 de septiembre de 1914 se comprometieron a no firmar la paz por separado. Italia no combatió con los Imperios Centrales, porque estos habían declarado la guerra sin ser atacados, y se unió después a los Aliados."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra enumera los bloques así: la Triple Alianza con Alemania, Austria-Hungría y el Imperio otomano, con Bulgaria después; la Entente o Aliados con Francia, Rusia y Gran Bretaña, con Italia, que cambió de bando, y Estados Unidos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El autor mezcla dos cosas distintas: la Triple Alianza de 1882 incluía a Italia y no al Imperio otomano ni a Bulgaria, que fueron del bando de los Imperios Centrales en la guerra.\n\nLectura de trabajo de Nexus: el préstamo condicionado muestra que la diplomacia de bloques iba acompañada de crédito. Pendiente: los préstamos franceses a Rusia."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -16949,6 +17028,11 @@ window.CRONO = {
       "titulo": "Britannica — Statue of Liberty",
       "url": "https://www.britannica.com/topic/Statue-of-Liberty",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Statue of Liberty",
+      "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16959,6 +17043,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El proyecto",
+     "nivel": "hecho",
+     "texto": "En 1865 el historiador y abolicionista Édouard de Laboulaye habló con el escultor Bartholdi de un monumento sobre la independencia estadounidense y el fin de la esclavitud. La guerra franco-prusiana lo retrasó. En 1875 se creó la Unión Franco-Americana: los franceses pagarían la estatua y los estadounidenses el solar y el pedestal. Eiffel diseñó la estructura de hierro.\n\nEntre los donantes franceses hubo quienes buscaban el apoyo de Estados Unidos al proyecto francés del canal de Panamá."
+    },
+    {
+     "titulo": "El pedestal y el dinero",
+     "nivel": "hecho",
+     "texto": "Lo proyectó el arquitecto Hunt. La recaudación estadounidense, desde 1882, fue mal por la crisis y las críticas; en 1884 el gobernador de Nueva York, Grover Cleveland, vetó una ayuda de 50.000 dólares. La desbloqueó la campaña de Joseph Pulitzer en su periódico New York World, que publicaba el nombre de cada donante. El pedestal se terminó en abril de 1886 y la estatua se inauguró el 28 de octubre."
+    },
+    {
+     "titulo": "La masonería y la primera piedra",
+     "nivel": "hecho",
+     "texto": "La piedra angular lleva una placa colocada por los masones. La versión oficial de esta ficha da el 5 de agosto de 1884 para la ceremonia y dice que no está comprobado quién la dirigió; lo leído hoy añade la placa, sin detallar el acto."
+    },
+    {
+     "titulo": "Qué representa",
+     "nivel": "hecho",
+     "texto": "Es una figura vestida a la manera clásica inspirada en Libertas, diosa romana de la libertad, con antorcha, una tablilla con la fecha de la independencia y una cadena rota a los pies en recuerdo de la abolición."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, la estatua es símbolo luciferino y andrógino y su pedestal se inició el 5 de agosto de 1884 con ritual masónico, 82 años antes que el World Trade Center."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presencia masónica en la piedra angular tiene apoyo. La lectura luciferina y andrógina es interpretación del autor y no aparece en lo leído; la coincidencia de 82 años no prueba relación.\n\nPendiente: la crónica de la ceremonia de 1884 y el texto de la placa."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -18431,6 +18547,11 @@ window.CRONO = {
       "titulo": "Encyclopedia.com: Fabianism",
       "url": "https://www.encyclopedia.com/social-sciences/applied-and-social-sciences-magazines/fabianism",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Fabian Society",
+      "url": "https://en.wikipedia.org/wiki/Fabian_Society",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -18446,6 +18567,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación y nombre",
+     "nivel": "hecho",
+     "texto": "Se fundó en Londres el 4 de enero de 1884 como rama de la Fellowship of the New Life, nacida un año antes. Frank Podmore propuso el nombre por Fabio Máximo, el general romano que venció a Aníbal por desgaste; su primer folleto pedía esperar el momento y golpear con fuerza al llegar. Defiende un socialismo gradual y reformista, no revolucionario."
+    },
+    {
+     "titulo": "Quiénes y qué hicieron",
+     "nivel": "hecho",
+     "texto": "Su núcleo fueron Sidney y Beatrice Webb; pasaron por ella Bernard Shaw, H. G. Wells (de 1903 a 1908, crítico con ella), Annie Besant, Ramsay MacDonald, Emmeline Pankhurst y, brevemente, Bertrand Russell. En 1895, con un legado a la sociedad, fundaron la London School of Economics. Participó en 1900 en el comité del que nació el Partido Laborista, con 861 miembros declarados.\n\nPidió salario mínimo (1906), sanidad universal (1911) y abolir los títulos hereditarios en la Cámara alta (1917). Influyó en dirigentes como Nehru y Lee Kuan Yew. Hoy funciona sobre todo como centro de pensamiento afiliado a los laboristas."
+    },
+    {
+     "titulo": "La eugenesia",
+     "nivel": "hecho",
+     "texto": "Sus primeras figuras, entre ellas los Webb, Shaw y Wells, ligaron la reforma social a la eugenesia: sostenían que un Estado racional debía «mejorar» la población y eliminar poco a poco a los considerados indeseables, con esterilización forzosa y segregación. Críticos recientes les reprochan haber dado justificación intelectual a políticas de ese tipo."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra sostiene que buscan una síntesis plutocrática de capitalismo y comunismo y un gobierno mundial tiránico, que visitaban a Lenin y Stalin, que Orwell, los Huxley y Wells fueron miembros y que Rosmini los inspiró. Giuseppe Nocera añade que capitalismo y comunismo no son antagónicos. Las atribuciones de Rubén Avilés sobre personas actuales están en «Según los autores» y no tienen prueba en la ficha."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el nombre y la estrategia gradual, y la pertenencia de Wells. En lo leído no aparece un plan de gobierno mundial, ni Rosmini, ni la pertenencia de Orwell.\n\nLectura de trabajo de Nexus: la eugenesia y la fundación de una escuela de economía son hechos con mucho peso para entender qué se jugaban. Pendientes: las visitas a la URSS."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -39745,6 +39893,21 @@ window.CRONO = {
       "titulo": "The peculiar history of the Pledge of Allegiance",
       "url": "https://edition.cnn.com/2013/12/22/opinion/greene-pledge-of-allegiance-salute/index.html",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Bellamy salute",
+      "url": "https://en.wikipedia.org/wiki/Bellamy_salute",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Pledge of Allegiance",
+      "url": "https://en.wikipedia.org/wiki/Pledge_of_Allegiance",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Francis Bellamy",
+      "url": "https://en.wikipedia.org/wiki/Francis_Bellamy",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -39756,6 +39919,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Cómo surgió",
+     "nivel": "hecho",
+     "texto": "Francis Bellamy, pastor bautista y socialista cristiano, redactó en agosto de 1892 la versión del juramento a la bandera que se impuso, para la revista infantil The Youth’s Companion; había una anterior, de 1887, del capitán George Balch, y la autoría de Bellamy se discute. James Upham, socio de la revista, ideó el gesto.\n\nSe estrenó el 21 de octubre de 1892, en las celebraciones escolares del cuarto centenario de la llegada de Colón, promovidas por la revista dentro de su campaña para llevar la bandera a las escuelas."
+    },
+    {
+     "titulo": "Cómo era",
+     "nivel": "hecho",
+     "texto": "Según el programa oficial, se empezaba con el saludo militar y, al decir «a mi bandera», la mano se extendía hacia ella con la palma hacia arriba. El artículo lo define, en cambio, como brazo extendido con la palma hacia abajo: las dos descripciones no coinciden."
+    },
+    {
+     "titulo": "Por qué se abandonó",
+     "nivel": "hecho",
+     "texto": "Los fascistas italianos en la década de 1920 y después los nazis adoptaron un saludo parecido, atribuido a la antigua Roma. Algunas juntas escolares lo cambiaron, con resistencia de asociaciones patrióticas. La propaganda partidaria de intervenir en la guerra fotografió a aislacionistas como Lindbergh haciendo el saludo sin que se viera la bandera.\n\nEl Congreso aún codificó en junio de 1942 el gesto con la palma hacia arriba, y el 22 de diciembre de 1942 lo sustituyó por la mano sobre el corazón."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés recuerda que el saludo fascista deriva del romano y que en Estados Unidos existió el saludo Bellamy (1892-1942), anterior a nazis y fascistas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las fechas y la anterioridad constan. Que el saludo fuera realmente romano es una atribución; no se ha comprobado con fuentes antiguas."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -44869,6 +45059,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Unión Interparlamentaria",
       "url": "https://es.wikipedia.org/wiki/Unión_Interparlamentaria",
       "consultado": "2026-11-24"
+     },
+     {
+      "titulo": "Wikipedia (en): Inter-Parliamentary Union",
+      "url": "https://en.wikipedia.org/wiki/Inter-Parliamentary_Union",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44884,6 +45079,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "La fundaron el francés Frédéric Passy y el británico William Randal Cremer como primer foro permanente de negociación política multilateral, con el arbitraje de conflictos como fin inicial. En la conferencia del 30 de junio de 1889 hubo ocho miembros: Austria-Hungría, Bélgica, Dinamarca, Francia, Italia, Liberia, España y Reino Unido; Estados Unidos asistió sin adherirse. Entonces participaban parlamentarios a título individual."
+    },
+    {
+     "titulo": "Qué hizo después",
+     "nivel": "hecho",
+     "texto": "Intervino en la creación de la Corte Permanente de Arbitraje de La Haya y apoyó la Sociedad de Naciones y la ONU. Ocho de sus personalidades recibieron el Nobel de la Paz. Tuvo sede en Berna, Bruselas y Oslo, y en Ginebra desde 1921. Es observadora permanente en la Asamblea General de la ONU desde 2002.\n\nHoy reúne 183 parlamentos nacionales; algunos son de países que los índices no consideran democráticos."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Giuseppe Nocera, el globalismo moderno nace en 1889 con ella; destaca su corona de olivo, como en el Imperio romano y la ONU, y que concede estatus de observador a unas 70 organizaciones, entre ellas la Internacional Socialista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su papel en la formación de organismos internacionales consta. Que sea el origen de un plan es interpretación del autor. En lo leído no aparecen el logotipo ni la lista de observadores.\n\nPendiente: quién la financió en sus primeras décadas."
+    }
+   ],
    "vista": "politica"
   },
   {
