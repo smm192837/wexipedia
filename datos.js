@@ -20156,6 +20156,16 @@ window.CRONO = {
       "titulo": "EIA: World Oil Transit Chokepoints",
       "url": "https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints",
       "consultado": "2026-11-15"
+     },
+     {
+      "titulo": "Wikipedia (es): Estrecho de Ormuz",
+      "url": "https://es.wikipedia.org/wiki/Estrecho_de_Ormuz",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): 2026 Strait of Hormuz crisis",
+      "url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -20167,6 +20177,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El estrecho",
+     "nivel": "hecho",
+     "texto": "Une el golfo Pérsico con el de Omán; mide unos 167 kilómetros y en su parte más estrecha unos 39. Según la agencia de energía de EE. UU., por él pasaron 20,7 millones de barriles diarios de petróleo y líquidos en 2024 y 20,9 en la primera mitad de 2025."
+    },
+    {
+     "titulo": "La crisis de 2026",
+     "nivel": "hecho",
+     "texto": "En la guerra de 2026 Irán restringió el paso; según Lloyd's List, la Guardia Revolucionaria evaluaba pagos en yuanes, y Malasia dijo en marzo que sus barcos podían pasar. El 9 de abril seguía sin aplicarse un acuerdo para levantar el bloqueo, y hubo ataques a petroleros, entre ellos cerca de la isla de Kharg."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En 2023-2025 pasó por allí en torno a una cuarta parte del comercio marítimo de petróleo y una quinta parte del gas licuado, sobre todo hacia Asia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, pasan 20 millones de barriles y del 17 al 30 % del tráfico mundial de energía; Irán deja pasar a quien no sea enemigo y pague en yuanes, y el bombardeo de Kharg, salida del 90 % de sus exportaciones, no tocó las instalaciones petrolíferas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El volumen y el paso condicionado constan. En los pasajes buscados no aparecen el 90 % de Kharg ni el estado de sus instalaciones. Es una situación en curso: lo anotado puede haber cambiado."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -26859,9 +26896,41 @@ window.CRONO = {
       "titulo": "Russo-Turkish wars, Wikipedia",
       "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/History_of_the_Russo-Turkish_wars",
       "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Wikipedia (es): Guerras ruso-turcas",
+      "url": "https://es.wikipedia.org/wiki/Guerras_ruso-turcas",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Tratado de Küçük Kaynarca",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_K%C3%BC%C3%A7%C3%BCk_Kaynarca",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La primera guerra (1568-1570) vino tras la conquista rusa de Kazán y Astracán: el sultán Selim II intentó expulsar a los rusos del bajo Volga y la expedición acabó en desastre. El conflicto siguiente llegó cien años después, por Ucrania."
+    },
+    {
+     "titulo": "Qué pasó",
+     "nivel": "hecho",
+     "texto": "Fue una de las series de guerras más largas de Europa; salvo en la de 1710-1711 y la de Crimea, acabaron mal para un Imperio otomano estancado y mostraron el ascenso ruso. El tratado de Küçük Kaynarca (21 de julio de 1774) declaró independiente el kanato de Crimea, en la práctica dependiente de Rusia, que obtuvo dinero, puertos al mar Negro y el papel de protectora de los ortodoxos. Rusia anexionó Crimea en 1783. El último episodio llegó en la Primera Guerra Mundial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Europa occidental y los Romanov provocaron las guerras para deshacer la antigua unión mundial entre la Horda rusa y la Turquía otomana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las causas que aparecen son territoriales, estratégicas y religiosas. La primera guerra es anterior a los Romanov, que subieron al trono en 1613. En lo leído no aparece ninguna unión previa entre la Horda y los otomanos."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -30335,6 +30404,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "La primera teoría conspirativa registrada contra los jesuitas es el sermón de un fraile agustino, George Browne, en 1551, apenas fundada la orden; sus enemigos temían su influencia intelectual y política."
+    },
+    {
+     "titulo": "El género conspirativo",
+     "nivel": "hecho",
+     "texto": "El género creció con la «Monita secreta», publicada en Cracovia en 1612 por un exjesuita, y con juramentos falsos como el de un libro de 1689 cuyo autor quedó señalado como falsificador. Alimentó leyes como la prusiana de 1872 contra la orden. Una versión moderna atribuye a los jesuitas la creación de la Reserva Federal y el hundimiento del Titanic."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, la orden maneja, mediante antiguos alumnos, una larga cadena de instituciones, desde la jefatura del Estado y el Tribunal Supremo hasta la Reserva Federal y la CIA."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que haya antiguos alumnos en cargos se puede comprobar caso por caso; que la orden los dirija no tiene prueba en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -31790,6 +31881,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Black Legend",
       "url": "https://en.wikipedia.org/wiki/Black_Legend_(Spain)",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Black Legend",
+      "url": "https://en.wikipedia.org/wiki/Black_Legend",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31801,6 +31897,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El concepto",
+     "nivel": "hecho",
+     "texto": "Se llama leyenda negra a una tendencia a atribuir rasgos negativos a la historia de España, que sus críticos ven como propaganda antiespañola y anticatólica. El término lo usaron Emilia Pardo Bazán y Blasco Ibáñez antes que Julián Juderías, que fue su gran difusor con su libro de 1914."
+    },
+    {
+     "titulo": "La discusión sobre su origen",
+     "nivel": "hecho",
+     "texto": "La versión corriente sitúa su origen en el siglo XVI, difundida por la rivalidad de potencias como la inglesa y la neerlandesa. Sverker Arnoldsson lo buscó en la Italia medieval, hostil a España, con una fase anticatalana o antiaragonesa desde comienzos del XIV y otra desde 1500. Otros historiadores lo discuten: escribir contra quien domina es una reacción normal y no basta para hablar de leyenda."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, nació en Venecia contra Aragón, por el control del Mediterráneo, mucho antes de la conquista de América."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hay un historiador que defiende raíces medievales antiaragonesas, lo que apoya en parte la tesis. En lo leído no se atribuyen en particular a Venecia, y la opinión académica está dividida."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
