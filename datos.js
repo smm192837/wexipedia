@@ -50329,9 +50329,46 @@ window.CRONO = {
       "titulo": "BPI: Agustín Carstens",
       "url": "https://www.bis.org/about/bioac.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Agustín Carstens",
+      "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Carstens",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Agustín Carstens",
+      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Carstens",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Agustín Carstens appointed as BIS General Manager | Bank for International Settlements",
+      "url": "https://www.bis.org/press/p161201.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista y funcionario mexicano (Ciudad de México, 9-6-1958), formado en el Colegio Alemán Alexander von Humboldt."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en el Banco de México en 1980, fue director ejecutivo en el FMI (1999-2000), subsecretario de Hacienda con Fox (2000-2003), secretario de Hacienda con Calderón (2006-2009) y gobernador del Banco de México (2010-2017). En el Banco de Pagos Internacionales fue consejero desde 2011, presidió desde 2013 la reunión de gobernadores sobre la economía mundial y lo dirigió de diciembre de 2017 a mediados de 2025, relevando a Caruana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, es el gerente actual del BPI."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Fue gerente hasta 2025: según la versión oficial y las fuentes leídas, ya no lo es."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -50365,6 +50402,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Fern%C3%A1ndez_Mallo",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Agustín Fernández Mallo",
+      "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Fern%C3%A1ndez_Mallo",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -50376,6 +50418,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Físico y escritor español (A Coruña, 1967), afincado en Palma de Mallorca."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Acuñó en 2000 la «poesía pospoética», formalizada en el ensayo «Postpoesía», que cruza arte y ciencia. Su trilogía «Nocilla» (2006-2009), de rápido éxito, dio nombre a la llamada Generación Nocilla; trabaja sus textos como redes, mezclando alta y baja cultura. Ha publicado más de una veintena de libros, entre ellos «Trilogía de la guerra» y el ensayo «Teoría general de la basura» (2018), traducidos a una decena de idiomas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Fernández Mallo sitúa en «Teoría general de la basura» el inicio del capitalismo en la Venecia medieval."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El ensayo consta; no se ha abierto y la idea sobre Venecia no aparece en los artículos leídos."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -51048,6 +51112,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Alex_Karp",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Alex Karp",
+      "url": "https://es.wikipedia.org/wiki/Alex_Karp",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Alex Karp",
+      "url": "https://en.wikipedia.org/wiki/Alex_Karp",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -51067,6 +51141,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario estadounidense (Nueva York, 2-10-1967), hijo de un pediatra judío y de una artista afroamericana, criado en Filadelfia y con dislexia desde niño; estudió en Haverford, Derecho en Stanford (1992) y se doctoró en teoría social en la Universidad Goethe de Fráncfort (2002)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Fue investigador en el Instituto Sigmund Freud de Fráncfort, invirtió una herencia y creó en Londres la gestora Caedmon. En 2004 cofundó Palantir con Peter Thiel, compañero de Stanford, y es su consejero delegado; fue el ejecutivo de cotizada mejor pagado en 2020. Estuvo en los consejos de Axel Springer y BASF. Sostiene que las tecnológicas deben apoyar al ejército de EE. UU., respalda con firmeza a Israel y se ha descrito como socialista y progresista; sus declaraciones suelen ser polémicas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Karp se formó en la Universidad Goethe de Fráncfort, en Hesse."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El dato consta."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -52743,9 +52839,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Ben Bernanke",
       "url": "https://es.wikipedia.org/wiki/Ben_Bernanke",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Ben Bernanke",
+      "url": "https://en.wikipedia.org/wiki/Ben_Bernanke",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Ben Bernanke",
+      "url": "https://es.wikipedia.org/wiki/Ben_Bernanke",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista estadounidense de origen judío (Augusta, Georgia, 13-12-1953), criado en Carolina del Sur, hijo de un farmacéutico y una maestra."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Enseñó en Stanford y en Princeton, donde dirigió el departamento de Economía hasta 2002; estudió cómo la ruptura del crédito en 1930-1933 agravó la Gran Depresión. Gobernador de la Reserva Federal desde 2002, presidió brevemente el consejo de asesores económicos de Bush y la Reserva de 2006 a 2014. En la crisis de 2008 bajó el tipo de interés casi a cero y aplicó medidas inusuales; fue criticado por el rescate de entidades y por presionar a Bank of America para comprar Merrill Lynch. Nobel de Economía en 2022 con Diamond y Dybvig."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue presidente de la Fed y miembro del comité de 2013, y lo califica por su cuenta de sionista."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo en 2013 consta. El calificativo de sionista es del autor y no aparece en lo buscado; el origen judío no equivale a una posición política."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -53565,6 +53693,16 @@ window.CRONO = {
       "titulo": "Real Casa di Borbone delle Due Sicilie: biografía del duque de Castro",
       "url": "https://realcasadiborbone.it/en/?p=38033",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Prince Carlo, Duke of Castro",
+      "url": "https://en.wikipedia.org/wiki/Prince_Carlo,_Duke_of_Castro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "His Royal Highness Prince Carlo of Bourbon Two Sicilies, Duke of Castro",
+      "url": "https://realcasadiborbone.it/en/?p=38033",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -53575,6 +53713,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Carlo de Borbón-Dos Sicilias, duque de Castro (Saint-Raphaël, Francia, 24-2-1963), hijo único del príncipe Fernando y de Chantal de Chevron-Villette; estudió en París."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Se casó en Mónaco en 1998 con Camilla Crociani, hija del empresario italiano multimillonario Camillo Crociani; tienen dos hijas. En 2008 heredó la pretensión de su padre a la jefatura de la casa y a la soberanía de la Orden Constantiniana de San Jorge. Se la disputa la rama española, la de Pedro, reconocida por el Gobierno y la Casa Real de España y por las casas de Parma y Portugal; a la rama de Carlo la respaldaron otras casas sin trono."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, como gran maestre fue recibido con honores en el USS Enterprise, se fotografió con Bush y hay príncipes de la casa moviéndose por Washington con acuerdos sin cargo público. Según Rubén Avilés, la casa, heredera de los Farnese, supervisa a los jesuitas, los Chigi supervisan a los Borbones italianos, y Carlo se fotografió con Trump y lo visitó en Mar-a-Lago. Según Giuseppe Nocera, tiene conexiones en EE. UU. como persona y no por el ducado, preside la orden que emite pasaportes, desciende de los Farnese, no tiene hijos varones y corren rumores de que Escobar le informaba."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la jefatura disputada, la orden y que sus dos hijos son mujeres. El portaaviones, Bush, Trump, Mar-a-Lago, los pasaportes, la supervisión de los jesuitas y Escobar no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -56168,6 +56328,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Elon Musk",
       "url": "https://es.wikipedia.org/wiki/Elon_Musk",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Wikipedia (es): Elon Musk",
+      "url": "https://es.wikipedia.org/wiki/Elon_Musk",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Elon Musk",
+      "url": "https://en.wikipedia.org/wiki/Elon_Musk",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56183,6 +56353,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario sudafricano naturalizado estadounidense (Pretoria, 28-6-1971); por su madre desciende de los Haldeman, y debe su nombre a un bisabuelo, John Elon Haldeman."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Vendió Zip2 a Compaq en 1999, cofundó el banco en línea X.com, que se fundió con Confinity en PayPal, y era su mayor accionista cuando eBay la compró en 2002 por 1.500 millones. Fundó SpaceX en 2002, dirige Tesla desde 2008, impulsó SolarCity y cofundó OpenAI; su red de satélites Starlink dio servicio a Ucrania. SpaceX tiene grandes contratos con la NASA desde 2008. Fue el mayor donante político en la etapa del triunfo de Trump y de enero a mayo de 2025 dirigió de hecho el Departamento de Eficiencia Gubernamental (DOGE), muy criticado por sus recortes; después se enfrentó en público con Trump. Es la persona más rica del mundo según Forbes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, lo aupó el Estado, el nombre DOGE es un guiño al dux veneciano y una novela de Von Braun de los sesenta ya presentaba a un «Elon» colonizando Marte. Según Rubén Avilés, sus empresas han recibido 19.800 millones en contratos públicos desde 2009, cinco inspectores generales que lo investigaban fueron despedidos, muchos condados usaron Starlink en el registro de votantes, dijo que las máquinas de voto son fáciles de piratear, cayó un satélite y su patrimonio subió 51.000 millones en una semana."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan los contratos públicos, Starlink y el cargo en DOGE. La novela de Von Braun, el guiño veneciano, la cifra de 19.800 millones, los inspectores y lo del voto no aparecen en lo buscado; no hay nada en lo leído que apoye una manipulación electoral."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -56432,6 +56624,16 @@ window.CRONO = {
       "titulo": "CIDOB — Emmanuel Macron",
       "url": "https://www.cidob.org/biografias_lideres_politicos/europa/francia/emmanuel_macron",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Emmanuel Macron",
+      "url": "https://es.wikipedia.org/wiki/Emmanuel_Macron",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Emmanuel Macron",
+      "url": "https://en.wikipedia.org/wiki/Emmanuel_Macron",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -56447,6 +56649,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político, alto funcionario y exbanquero francés (Amiens, 21-12-1977), hijo de un profesor de Neurología y de una médica; estudió en el colegio jesuita La Providence, acabó el bachillerato en el liceo Henri IV y se formó en la ENA, de donde salen las élites del Estado."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Inspector de finanzas y relator de la comisión Attali en 2007, entró en 2008 en la banca Rothschild, donde fue socio y llevó la compra por Nestlé de una filial de Pfizer por 9.000 millones de dólares. Asesor de Hollande desde 2012 y ministro de Economía en 2014, creó en 2016 el movimiento En Marcha, dimitió y ganó la presidencia en 2017; la revalidó en 2022. Su mandato incluye la protesta de los chalecos amarillos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Macron estudió en un colegio jesuita y trabajó para el banco Rothschild."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos datos constan. Que de ellos se siga una dependencia de los jesuitas o de la banca no está en lo leído; el paso de la administración a la banca y de vuelta a la política sí es un hilo para seguir el dinero."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -57339,6 +57563,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Felipe VI",
       "url": "https://es.wikipedia.org/wiki/Felipe_VI_de_España"
+     },
+     {
+      "titulo": "Wikipedia (es): Felipe VI de España",
+      "url": "https://es.wikipedia.org/wiki/Felipe_VI_de_Espa%C3%B1a",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Felipe VI",
+      "url": "https://en.wikipedia.org/wiki/Felipe_VI",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -57357,6 +57591,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Rey de España (Madrid, 30-1-1968), tercer hijo y único varón de Juan Carlos I y Sofía de Grecia."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Príncipe de Asturias desde 1977 y proclamado ante las Cortes en 1986, estudió bachillerato en Canadá, se formó en los tres ejércitos desde 1985, se licenció en Derecho por la Autónoma de Madrid en 1993 y cursó un máster en relaciones internacionales en la escuela Walsh de Georgetown (1993-1995). Reina desde el 19 de junio de 2014, tras la abdicación de su padre, con la jefatura del Estado y el mando supremo de las Fuerzas Armadas; su discurso de octubre de 2017 sobre Cataluña fue apoyado por los partidos constitucionalistas y criticado por los independentistas."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, es caballero de la Orden de Malta, o sea sirviente militar de Roma, y de la Jarretera, lo que debería ser alta traición; lo prepararon los jesuitas en Georgetown y es ejemplo de jefe militar con educación jesuita; por estar en primera fila en los entierros israelíes y ser rey de León y de Jerusalén, tendría autoridad en el sionismo y la cábala."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan el máster en Georgetown y la Jarretera. La Orden de Malta no figura en lo buscado, y la autoridad sobre el sionismo no se deduce de un título histórico ni aparece en las fuentes."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -58528,6 +58784,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Fritz_Springmeier",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Fritz Springmeier",
+      "url": "https://en.wikipedia.org/wiki/Fritz_Springmeier",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Fritz Springmeier",
+      "url": "https://es.wikipedia.org/wiki/Fritz_Springmeier",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -58539,6 +58805,28 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Autor estadounidense de literatura conspirativa (24-9-1955), nacido Viktor E. Schoof; su padre trabajaba como agrónomo para la agencia de desarrollo de EE. UU. en Pakistán. Máster en Literatura inglesa por Kansas."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Ha escrito y autoeditado libros sobre linajes «satánicos» de los Illuminati y sobre control mental, y da por real el supuesto proyecto Monarch de la CIA. En 2003 fue declarado culpable de un atraco a mano armada a un banco y en noviembre de ese año condenado a 51 meses por el robo y 60 por el uso de arma; la apelación confirmó la condena."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, los «13 linajes» de Springmeier no le cuadraban, y por eso siguió otra investigación familia por familia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que su obra «Bloodlines of the Illuminati» se tituló antes «los 13 linajes principales». Sus tesis no tienen respaldo en lo leído."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -63278,6 +63566,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Jack_Lew",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Jack Lew",
+      "url": "https://en.wikipedia.org/wiki/Jack_Lew",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Jack Lew",
+      "url": "https://es.wikipedia.org/wiki/Jack_Lew",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63293,6 +63591,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y diplomático estadounidense del Partido Demócrata (Nueva York, 29-8-1955), de familia judía; estudió en Harvard y se licenció en Derecho en Georgetown en 1983."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Asesor en la Cámara desde los años setenta, entre ellos del presidente Tip O'Neill, dirigió la oficina del presupuesto con Clinton y con Obama, fue vicepresidente de la Universidad de Nueva York y desde 2006 directivo de una unidad de inversiones alternativas de Citigroup, donde fue criticado por sus inversiones durante la crisis. Número dos del Departamento de Estado, jefe de gabinete de la Casa Blanca (2012-2013), secretario del Tesoro (2013-2017), socio de la firma de capital privado Lindsay Goldberg desde 2017 y embajador en Israel (2023-2025)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Lew, formado por jesuitas en Georgetown, es uno de los tesoreros que responden ante el Vaticano, y el edificio del Tesoro imitaría la Villa Torlonia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que estudió Derecho en Georgetown, universidad jesuita según el autor; ni el Vaticano ni la Villa Torlonia aparecen en lo buscado. Sus pasos por Citigroup y el capital privado son un hilo para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -63627,9 +63947,41 @@ window.CRONO = {
       "titulo": "Wikipedia: Jaime Caruana",
       "url": "https://en.wikipedia.org/wiki/Jaime_Caruana",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (es): Jaime Caruana",
+      "url": "https://es.wikipedia.org/wiki/Jaime_Caruana",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Management of the BIS | Bank for International Settlements",
+      "url": "https://www.bis.org/about/biojc.htm",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Economista y funcionario español (Valencia, 14-3-1952), titulado como ingeniero de telecomunicación por la Politécnica de Madrid en 1974."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Director general del Tesoro (1996-1999) y gobernador del Banco de España (2000-2006); en mayo de 2006 los inspectores del banco le advirtieron de que su lectura complaciente de la economía llevaba al desastre, y el crecimiento del crédito de esos años se ha ligado a la burbuja inmobiliaria. Pasó al FMI en 2006 de la mano de Rodrigo Rato, dirigió el Banco de Pagos Internacionales de 2009 a 2017 y en 2018 entró como consejero independiente de BBVA; es miembro del Grupo de los Treinta."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, fue director general del BPI y gobernador del Banco de España, y su familia está condecorada con la Orden de San Juan de Jerusalén."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los dos cargos constan. La condecoración de la Orden de San Juan no aparece en lo leído. El recorrido Banco de España, FMI, BPI y banca privada es un hilo útil para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -63686,6 +64038,21 @@ window.CRONO = {
       "titulo": "Estado de Minas: el príncipe Luiz Philippe, posible vice de Bolsonaro (2018)",
       "url": "https://www.em.com.br/app/noticia/politica/2018/07/26/interna_politica,975976/amp.html",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (es): Jair Bolsonaro",
+      "url": "https://es.wikipedia.org/wiki/Jair_Bolsonaro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Jair Bolsonaro",
+      "url": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Príncipe acena com disposição em ser vice na chapa de Jair Bolsonaro",
+      "url": "https://www.em.com.br/app/noticia/politica/2018/07/26/interna_politica,975976/amp.html",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63697,6 +64064,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político y militar retirado brasileño (Glicério, São Paulo, 21-3-1955), de ideas descritas como ultraconservadoras y de extrema derecha."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en el ejército en 1973; en 1986 fue arrestado por criticar en una revista los sueldos de los oficiales, y sus superiores lo describían como muy ambicioso en lo económico. Concejal de Río y diputado federal de 1991 a 2019, ganó la presidencia en 2018 frente a Haddad y gobernó de 2019 a comienzos de 2023. El Tribunal Electoral lo inhabilitó hasta 2030 y en septiembre de 2025 el Supremo lo condenó a 27 años y 3 meses por intento de golpe; después empezó a cumplir la pena."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Jorge Guerra, los Braganza reclaman el trono de Brasil y estaban detrás de Bolsonaro. Según Giuseppe Nocera, la convención de la derecha en Foz de Iguazú la abrió un descendiente de la familia imperial y por eso supo que nada de lo prometido iba a pasar."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que Luiz Philippe de Orléans-Braganza, de su partido, sonó en 2018 como compañero de candidatura. Que la familia estuviera detrás de él no se deduce de eso; la apertura de la convención de Foz no aparece en lo buscado."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -63962,6 +64351,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_Franssu",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Jean-Baptiste de Franssu",
+      "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_Franssu",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -63977,6 +64371,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Financiero francés de la gestión de inversiones (8-7-1963), que empezó como periodista en una revista de bolsa."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Entró en el grupo Caisse des Dépôts en 1987, pasó a Invesco Francia en 1990 y dirigió Invesco Europa de 1997 a 2011, años de expansión de la firma; presidió además una asociación europea del sector (2009-2011). Luego fue consultor en fusiones y consejero de firmas financieras. En marzo de 2014 el papa Francisco lo nombró miembro de la comisión sobre la estructura económica de la Santa Sede y en julio presidente del consejo de superintendencia del IOR, el banco vaticano."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, De Franssu dirige el IOR, con el que trabaja la Banca del Fucino de los Torlonia, y su familia está emparentada con los MacMahon, duques de Magenta."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presidencia del IOR consta. La Banca del Fucino, los Torlonia y los MacMahon no aparecen en lo leído."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -64123,6 +64539,21 @@ window.CRONO = {
       "titulo": "The Court Jeweller — boda de 2019",
       "url": "https://thecourtjeweller.com/page/837",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Jean-Christophe, Prince Napoléon",
+      "url": "https://en.wikipedia.org/wiki/Jean-Christophe,_Prince_Napol%C3%A9on",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Juan Cristóbal Napoleón",
+      "url": "https://es.wikipedia.org/wiki/Juan_Crist%C3%B3bal_Napole%C3%B3n",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "The Imperial Family – Maison Napoléon Bonaparte",
+      "url": "https://www.maison-napoleon-bonaparte.fr/?p=1646",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64142,6 +64573,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Financiero francés (Saint-Raphaël, 11-7-1986), hijo del príncipe Charles Napoléon y de Béatrice de Borbón-Dos Sicilias, hija de un duque de Castro pretendiente a las Dos Sicilias."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Su abuelo Louis dispuso al morir en 1997 que él, con once años, le sucediera como jefe de la Casa Imperial, saltando a su padre, de ideas republicanas; la jefatura sigue disputada. Estudió en HEC París y cursó un MBA en Harvard (2017); trabajó como analista en Morgan Stanley en Nueva York, en el capital riesgo en Londres, incluido Blackstone (2017-2022), y en 2022 fundó la firma Leon Capital. En 2019 se casó con Olympia von und zu Arco-Zinneberg, bisnieta de Carlos I de Austria."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, encabeza la Casa Imperial, su madre es Borbón-Dos Sicilias y el príncipe Carlos sería su tío, y trabajó en Morgan Stanley y ahora en Blackstone."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan la jefatura, disputada, la madre y Morgan Stanley. En Blackstone trabajó hasta 2022, según el artículo en inglés, así que el «ahora» no se sostiene."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -64365,6 +64818,16 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Jeffrey Epstein",
       "url": "https://es.wikipedia.org/wiki/Jeffrey_Epstein"
+     },
+     {
+      "titulo": "Wikipedia (es): Jeffrey Epstein",
+      "url": "https://es.wikipedia.org/wiki/Jeffrey_Epstein",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Jeffrey Epstein",
+      "url": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64375,6 +64838,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Financiero y delincuente sexual de menores estadounidense (Brooklyn, 20-1-1953 – Manhattan, 10-8-2019), de padres judíos."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Profesor de matemáticas en la escuela Dalton, de la que fue despedido, entró en Bear Stearns en 1976 y después fundó su propia firma para gestionar patrimonios de multimillonarios, como Leslie Wexner, fuente inicial de su dinero, y Leon Black, que le pagó 170 millones de dólares entre 2012 y 2018; el origen completo de su fortuna se desconoce. Cultivó un círculo de políticos y empresarios. Investigado desde 2005, en 2008 un acuerdo muy discutido le evitó cargos federales; detenido en 2019 por tráfico de menores, murió en su celda, oficialmente por suicidio. Su pareja, Ghislaine Maxwell, está implicada como reclutadora."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, desciende de los señores de Eppstein, la familia real noruega de sus archivos sirve a Roma a través de Malta, seguramente no ha muerto, y Leon Black pagó 62,5 millones a las Islas Vírgenes y a Epstein hasta 158 millones. Según Guillermo Mas Arellano, el caso muestra una red como la de la P2, con magia sexual ritual, que se quiso que se supiera, y se ha relacionado con Israel por el padre de Maxwell."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan los pagos de Black, con otra cifra (170 millones) en el artículo leído, y que Ghislaine era hija de Robert Maxwell; un asistente de Epstein atribuyó a este el comienzo de su fortuna. El señorío de Eppstein, Malta, la magia ritual, el acuerdo de 62,5 millones y que siga vivo no aparecen en lo buscado; las teorías sobre su muerte no tienen confirmación."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -64413,6 +64898,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Jerome Powell",
       "url": "https://es.wikipedia.org/wiki/Jerome_Powell",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Jerome Powell",
+      "url": "https://en.wikipedia.org/wiki/Jerome_Powell",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Jerome Powell",
+      "url": "https://es.wikipedia.org/wiki/Jerome_Powell",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -64428,6 +64923,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado, banquero de inversión y banquero central estadounidense (Washington, 4-2-1953), hijo de un abogado; estudió en la preparatoria jesuita de Georgetown, en Princeton y en Derecho en Georgetown."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Tras ejercer como abogado, entró en 1984 en el banco Dillon, Read; fue al Tesoro con George H. W. Bush, donde llegó a subsecretario y dirigió la sanción a Salomon Brothers; fue socio de Carlyle desde 1997 y en 2005 creó una firma de capital privado. Gobernador de la Reserva Federal desde 2012, la presidió desde 2018, nombrado por Trump y renovado por Biden; según la versión oficial dejó la presidencia en mayo de 2026."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Powell, formado por jesuitas en Georgetown, es uno de los tesoreros que supervisan el Tesoro estadounidense en nombre del Vaticano."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta la educación jesuita en la preparatoria y su paso por el Tesoro. La supervisión en nombre del Vaticano no aparece en lo buscado y de la formación no se deduce. La trayectoria entre banca, Tesoro y capital privado es un hilo para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -67579,6 +68096,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Lindsey Graham",
       "url": "https://es.wikipedia.org/wiki/Lindsey_Graham",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Lindsey Graham",
+      "url": "https://en.wikipedia.org/wiki/Lindsey_Graham",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Lindsey Graham",
+      "url": "https://es.wikipedia.org/wiki/Lindsey_Graham",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -67597,6 +68124,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Político, abogado y militar estadounidense (Central, Carolina del Sur, 9-7-1955 – 11-7-2026), el primero de su familia en ir a la universidad; huérfano joven, se ocupó de su hermana."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Sirvió en la Fuerza Aérea desde 1982 y siguió como reservista hasta coronel; congresista, intervino en el juicio político a Clinton, y senador desde 2003 hasta su muerte. Halcón en política exterior, firme apoyo de Israel, Ucrania y la OTAN, criticó a Trump en 2016 y fue después un estrecho aliado. Pidió golpear a Irán, instó en 2026 a Trump a matar a Jameneí, asesoró a Netanyahu sobre cómo convencerlo y apoyó la guerra de 2026. Murió de una disección aórtica semanas después de ganar la candidatura a un quinto mandato."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, amenazó a Arabia Saudí con romper la alianza si no entraba en la guerra, presumió de haber tomado Venezuela e Irán y de controlar el 30 % de las reservas de petróleo, y se jactó de «matar a la gente correcta»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Su postura belicista consta; las frases concretas sobre Arabia Saudí, el petróleo y «matar a la gente correcta» no aparecen en lo buscado. La versión oficial lo sigue presentando como senador en ejercicio: según los dos artículos leídos, murió en julio de 2026."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -68090,6 +68639,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Luc_Frieden",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Luc Frieden",
+      "url": "https://en.wikipedia.org/wiki/Luc_Frieden",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (es): Luc Frieden",
+      "url": "https://es.wikipedia.org/wiki/Luc_Frieden",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -68101,6 +68660,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y político luxemburgués del partido socialcristiano (Esch-sur-Alzette, 16-9-1963)."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Ministro de Justicia desde 1998 con Juncker, llevó el Tesoro y el Presupuesto en el paso al euro y Finanzas en la crisis de deuda; fue quince años gobernador del Banco Mundial y presidió las juntas del FMI y el Banco Mundial. Pasó al sector privado: vicepresidente de Deutsche Bank (2014-2016), socio del bufete Elvinger Hoss Prussen desde 2016, presidente del consejo del Banque Internationale à Luxembourg (2016-2023) y de la Cámara de Comercio. Volvió en 2023 y es primer ministro desde noviembre de ese año."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, presidió la junta de gobernadores del FMI y del Banco Mundial, en un Luxemburgo cuya familia real «administran» los Torlonia."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La presidencia de las juntas consta; los artículos leídos la fechan en 2013 y la versión oficial en 2012. Los Torlonia no aparecen. El ida y vuelta entre ministerio y banca privada es un hilo para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -70197,11 +70778,43 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Shriners",
       "url": "https://en.wikipedia.org/wiki/Shriners"
+     },
+     {
+      "titulo": "Wikipedia (es): Mohamed VI de Marruecos",
+      "url": "https://es.wikipedia.org/wiki/Mohamed_VI_de_Marruecos",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Mohammed VI of Morocco",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco",
+      "consultado": "2026-11-27"
      }
     ]
    },
    "conexiones": [],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Rey de Marruecos (Rabat, 21-8-1963), hijo mayor de Hasán II y Lalla Latifa, de la dinastía alauí, que reina desde 1666."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Subió al trono el 23 de julio de 1999. Reformó el código de familia a favor de las mujeres, modernizó parte de la economía y en 2011, ante las protestas, impulsó una nueva Constitución aprobada en referéndum. Cables filtrados en 2010 dieron pie a acusaciones de corrupción en su corte, y se le critica la represión de periodistas. La familia real tiene la mayoría del holding Al Mada, con participaciones en Attijariwafa, el mayor banco del país, y en minería; su fortuna se ha estimado en miles de millones de dólares. Mantiene desde 2020 un acuerdo de seguridad con Israel."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, dirige a los Shriners, «masones islámicos», pertenece a tres órdenes españolas, es el primer accionista de las empresas marroquíes que negocian con Europa y es un títere. Según Jorge Guerra, sirve al imperio anglo como tapón en el estrecho, incluido el narcotráfico."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Constan las condecoraciones españolas y el peso de la casa real en Al Mada. Los Shriners, el papel de títere y el narcotráfico al servicio de otro país no aparecen en lo buscado. Las cifras de su fortuna difieren mucho entre las fuentes. La versión oficial no explica quién es: conviene rehacerla."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -72328,6 +72941,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Paul_Manning_(journalist)",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Paul Manning (journalist)",
+      "url": "https://en.wikipedia.org/wiki/Paul_Manning_(journalist)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72343,6 +72961,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Periodista de radio estadounidense, fallecido en 1995."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó estrechamente con Edward R. Murrow como corresponsal de guerra de CBS Radio y después en la Mutual; se entrenó en 1943 con un grupo de periodistas que volaban en bombarderos. Tras la guerra escribió discursos para Nelson Rockefeller. Publicó «Martin Bormann: Nazi in Exile» (1981) y un libro sobre Hirohito y MacArthur (1986)."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Manning sostiene que Bormann huyó a Argentina disfrazado de jesuita, con ayuda de Müller, y controló 750 empresas tapadera."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro consta, pero no se ha abierto: la huida disfrazado, Müller y las 750 empresas quedan sin comprobar. Según la ficha de Bormann de este mismo carril, su muerte en Berlín en 1945 está confirmada por ADN, lo que contradice esa huida."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -72689,6 +73329,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Peter Thiel",
       "url": "https://es.wikipedia.org/wiki/Peter_Thiel",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (es): Peter Thiel",
+      "url": "https://es.wikipedia.org/wiki/Peter_Thiel",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Peter Thiel",
+      "url": "https://en.wikipedia.org/wiki/Peter_Thiel",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -72708,6 +73358,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario e inversor germano-estadounidense (Fráncfort del Meno, 11-10-1967), que se trasladó de niño a EE. UU. y estudió Filosofía en Stanford."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Trabajó con un juez, ejerció de abogado y operó con derivados; creó su fondo en 1996 y cofundó PayPal en 1998, vendida a eBay en 2002 por 1.500 millones. Montó el fondo Clarium, cofundó Palantir en 2003, financiada al principio por él y con unos 2 millones de In-Q-Tel, la firma de capital riesgo vinculada a la CIA; compró en 2004 el 10,7 % de Facebook y creó Founders Fund en 2005. Gran donante republicano y apoyo de candidatos de Trump, se define como libertario conservador y ha dicho que libertad y democracia son incompatibles."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Thiel parece un nuevo rico frente a la vieja riqueza, pero lo aupó el Estado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La entrada de capital ligado a la CIA y el peso de los contratos de inteligencia en Palantir constan y dan apoyo parcial a la idea del impulso estatal; la mayor parte del arranque la puso el propio Thiel, ya rico tras PayPal."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -74759,6 +75431,16 @@ window.CRONO = {
       "titulo": "PBS NewsHour: Torricelli abandona (2002), sin cargos penales",
       "url": "https://www.pbs.org/newshour/show/background-bowing-out",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Robert Torricelli",
+      "url": "https://en.wikipedia.org/wiki/Robert_Torricelli",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Background: Bowing Out | PBS News",
+      "url": "https://www.pbs.org/newshour/show/background-bowing-out",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -74770,6 +75452,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y político demócrata estadounidense (Paterson, Nueva Jersey, 27-8-1951), hijo de un abogado y de una bibliotecaria escolar; después se dedicó a la consultoría y la promoción inmobiliaria."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Representó a Nueva Jersey en la Cámara (1983-1997), donde destacó en política exterior, y en el Senado (1997-2003); presidió el comité de campaña de los senadores demócratas en 2000. La investigación penal federal se cerró a comienzos de 2002, pero ese verano el Comité de Ética del Senado lo amonestó por aceptar regalos indebidos del empresario David Chang, condenado por contribuciones ilegales a su campaña, y en septiembre abandonó la reelección. En 2003 un tribunal lo nombró supervisor especial de una limpieza ambiental, y en 2007 se le criticó el destino de fondos de campaña sobrantes."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, el exsenador Torricelli sería un «agente» de los Torlonia y los Borghese."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los Torlonia y los Borghese no aparecen en lo leído; la versión oficial tampoco halla vínculo con familias nobles italianas. Sí consta el escándalo de los regalos, sin cargos penales contra él."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -77049,6 +77753,11 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Tilman_Fertitta",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (en): Tilman Fertitta",
+      "url": "https://en.wikipedia.org/wiki/Tilman_Fertitta",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -77060,6 +77769,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Empresario, diplomático y personaje televisivo estadounidense (Galveston, 25-6-1957), de origen siciliano; su padre tenía un restaurante de marisco."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Construyó un hotel en Galveston, compró Landry's y lo convirtió en un grupo de restaurantes y casinos, entre ellos Golden Nugget; se desprendió de su participación en un equipo de fútbol americano porque la liga prohíbe vínculos con el juego. Compró en 2017 los Houston Rockets por 2.200 millones de dólares, presidió la junta de regentes de la Universidad de Houston (2014-2025), es el primer accionista de Wynn Resorts y desde mayo de 2025 embajador en Italia y San Marino. Su fortuna se estimaba en 10.700 millones en 2025."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, estaría ligado a las redes de las familias italianas y al amaño de la NBA."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El origen siciliano y los casinos constan; ninguna vinculación con redes familiares ni con amaños aparece en lo buscado."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -77142,6 +77873,16 @@ window.CRONO = {
       "titulo": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Timothy_Geithner",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Timothy Geithner",
+      "url": "https://es.wikipedia.org/wiki/Timothy_Geithner",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Timothy Geithner",
+      "url": "https://en.wikipedia.org/wiki/Timothy_Geithner",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -77157,6 +77898,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Funcionario y banquero estadounidense (Brooklyn, 18-8-1961), criado en Zimbabue, India y Tailandia porque sus padres trabajaban para la Fundación Ford; estudió además chino en Pekín."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Empezó en la consultora de Kissinger (1985-1988), pasó al Tesoro, donde ascendió en los asuntos internacionales, presidió la Reserva Federal de Nueva York (2003-2009), en plena crisis financiera, y fue secretario del Tesoro con Obama (2009-2013), relevado por Jack Lew. Después pasó a presidir la firma de inversión Warburg Pincus."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Geithner preside Warburg Pincus, ligada a la familia Warburg."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cargo en Warburg Pincus consta. En lo buscado no se detalla el vínculo actual de la familia Warburg con la firma. El paso de la consultora de Kissinger al Tesoro, a la Reserva y a la inversión privada es un hilo para seguir el dinero."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -77418,6 +78181,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Uki Goñi",
       "url": "https://en.wikipedia.org/wiki/Uki_Go%C3%B1i",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Uki Goñi",
+      "url": "https://es.wikipedia.org/wiki/Uki_Go%C3%B1i",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Uki Goñi",
+      "url": "https://en.wikipedia.org/wiki/Uki_Go%C3%B1i",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -77433,6 +78206,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Músico, escritor y periodista argentino nacido en Washington el 17-10-1953, hijo de un diplomático; se crio en EE. UU., Argentina, México e Irlanda."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Dejó sus estudios en el Trinity College de Dublín para instalarse en Buenos Aires a los 21 años y empezó en el «Buenos Aires Herald», informando sobre las desapariciones de la dictadura; en los ochenta lideró la banda Los Helicópteros. Su libro sobre Alfredo Astiz (1996) fue muy citado en el juicio de la ESMA que lo condenó en 2011. «La auténtica Odessa» (2002), basada en archivos de Argentina, Suiza, EE. UU., Reino Unido y Bélgica, investiga la huida de criminales nazis a la Argentina de Perón. Escribe en «The Guardian» y «The New York Times»."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Guillermo Mas Arellano, Goñi habla en «La auténtica Odessa» (2002) de hasta 300 criminales nazis acogidos en la Argentina de Perón."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El libro y su tema constan. La cifra de 300 no aparece en los dos artículos leídos y el libro no se ha abierto."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -77667,6 +78462,16 @@ window.CRONO = {
       "titulo": "Encyclopaedia Britannica",
       "url": "https://www.britannica.com/more-on-this-day/October-7",
       "consultado": "2026-11-04"
+     },
+     {
+      "titulo": "Wikipedia (es): Vladímir Putin",
+      "url": "https://es.wikipedia.org/wiki/Vlad%C3%ADmir_Putin",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Vladimir Putin",
+      "url": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -77686,6 +78491,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Quién fue",
+     "nivel": "hecho",
+     "texto": "Abogado y político ruso (Leningrado, 7-10-1952), el menor de tres hermanos; su abuelo fue cocinero de Lenin y Stalin."
+    },
+    {
+     "titulo": "Qué hizo",
+     "nivel": "hecho",
+     "texto": "Oficial de inteligencia exterior del KGB durante dieciséis años, hasta teniente coronel, pasó en 1991 a la administración de San Petersburgo con Sobchak y en 1996 a la presidencial de Yeltsin; dirigió el servicio de seguridad FSB, fue primer ministro en 1999 y presidente interino tras dimitir Yeltsin. Presidente de 2000 a 2008 y desde 2012, y primer ministro entre ambos periodos. Su etapa incluye la guerra de Chechenia, la guerra del Dombás y las sanciones, el culto a su imagen y una orden de arresto de la Corte Penal Internacional en 2023 por la deportación de población."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Rubén Avilés, Mónaco, subalterno de los Saboya, lo condecoró en 2003. Según Guillermo Mas Arellano, usa el águila bicéfala como recordatorio de que el imperio continúa. Según Giuseppe Nocera, al asumir el cargo estaba junto a un Saboya traído por Pirelli, es parte de una fricción que genera negocio y tras él están los Saboya, los Grimaldi y los Romanov, con reuniones con una heredera de estos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La condecoración de 2003, los Saboya, Pirelli, los Grimaldi y las reuniones no aparecen en lo buscado. El artículo en inglés recoge que su entorno difundió a comienzos de los 2000 la idea de ser los nuevos Romanov como pacificadores, que es otra cosa."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
