@@ -1895,6 +1895,11 @@ window.CRONO = {
       "titulo": "Britannica — Charles Lindbergh",
       "url": "https://www.britannica.com/biography/Charles-Lindbergh/Germany-and-the-America-First-movement",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): America First Committee",
+      "url": "https://en.wikipedia.org/wiki/America_First_Committee",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -1925,6 +1930,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "Grupo de presión aislacionista contra la entrada en la guerra, lanzado en septiembre de 1940; superó 800.000 miembros en 450 secciones. Reunió republicanos, demócratas, progresistas, agricultores, industriales, comunistas, anticomunistas, estudiantes y periodistas."
+    },
+    {
+     "titulo": "Quién lo dirigía",
+     "nivel": "hecho",
+     "texto": "Lo impulsó el estudiante R. Douglas Stuart, heredero de la fortuna de Quaker Oats, y lo presidió el general retirado Robert Wood, presidente de Sears. Henry Ford fue miembro destacado al principio y dimitió con polémica. Charles Lindbergh se convirtió en su orador principal, lo que avivó las críticas de antisemitismo y simpatías fascistas."
+    },
+    {
+     "titulo": "Argumentos y final",
+     "nivel": "hecho",
+     "texto": "Sostenía que un país bien defendido no podía ser atacado y que ayudar a Gran Bretaña arrastraba a la guerra; combatió el préstamo y arriendo. Se disolvió el 11 de diciembre de 1941."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las afirmaciones sobre dirección alemana y apoyos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La composición variada, la dirección empresarial y las simpatías de parte de sus dirigentes constan. En lo leído no aparece que lo dirigiera una potencia extranjera."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -6345,9 +6377,41 @@ window.CRONO = {
       "titulo": "Informe de EE. UU. sobre oro saqueado, cap. XI",
       "url": "https://phdn.org/archives/www.ess.uwe.ac.uk/documents/eleven.htm",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Bank for International Settlements",
+      "url": "https://en.wikipedia.org/wiki/Bank_for_International_Settlements",
+      "consultado": "2026-11-27"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El oro checoslovaco",
+     "nivel": "hecho",
+     "texto": "En marzo de 1939, en pleno apaciguamiento y tras la anexión de Checoslovaquia, el Banco de Pagos transfirió al Reichsbank 23 toneladas de oro que guardaba por cuenta checoslovaca. Lo autorizaron el Banco de Inglaterra y el de Francia, consultados con prisa; Montagu Norman lo aprobó sin consultar al Tesoro, diciendo que meter al gobierno en los asuntos bancarios del banco sería la ruina. Se considera su acto más controvertido."
+    },
+    {
+     "titulo": "Durante la guerra",
+     "nivel": "hecho",
+     "texto": "El volumen de negocio cayó un 95 % en 1943. Puhl, del Reichsbank, fue condenado en Núremberg por procesar oro dental saqueado a víctimas de los campos."
+    },
+    {
+     "titulo": "Consecuencia",
+     "nivel": "hecho",
+     "texto": "Londres y Washington miraban sus operaciones con creciente sospecha, menos sus bancos centrales. La conferencia de Bretton Woods de 1944 recomendó liquidarlo cuanto antes, lo que abrió una disputa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha de hechos recoge los datos del propio banco; las tesis de los autores sobre el banco están en su ficha."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Las transferencias y el oro saqueado están documentados. La diferencia entre la postura de los gobiernos y la de los bancos centrales es la clave para seguir el dinero.\n\nLas cifras de oro saqueado varían; ver la versión oficial."
+    }
+   ],
    "naturaleza": "banca",
    "vista": "economia"
   },
@@ -6536,6 +6600,11 @@ window.CRONO = {
       "titulo": "Comune di Roma: reapertura del búnker y los refugios (1940-1943)",
       "url": "https://www.comune.roma.it/web/it/notizia.page?contentId=NWS157736",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Villa Torlonia (Roma)",
+      "url": "https://it.wikipedia.org/wiki/Villa_Torlonia_(Roma)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -6550,6 +6619,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La villa",
+     "nivel": "hecho",
+     "texto": "Propiedad de los Pamphilj y luego de los Colonna, la compró en 1797 el banquero Giovanni Raimondo Torlonia; Valadier la transformó y Alessandro añadió, desde 1832, entre otras cosas un templo de Saturno. Es parque público desde 1978."
+    },
+    {
+     "titulo": "Los refugios",
+     "nivel": "hecho",
+     "texto": "Mussolini y el príncipe Carlo Torlonia construyeron un refugio contra bombardeos; desde el sótano del edificio principal se accede además a un búnker antiaéreo que mandó hacer Mussolini. La familia dejó la villa tras el 25 de julio de 1943, y de 1944 a 1947 la ocupó el mando angloestadounidense."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra da medidas de dos refugios y el grosor de sus paredes."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La existencia de refugio y búnker consta. En los pasajes leídos no aparecen medidas ni resistencia.\n\nPendiente: la documentación del museo."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -11543,6 +11634,16 @@ window.CRONO = {
       "titulo": "SourceWatch: American Security Council",
       "url": "https://sourcewatch.org/index.php/American_Security_Council",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): American Security Council Foundation",
+      "url": "https://en.wikipedia.org/wiki/American_Security_Council_Foundation",
+      "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): America First Committee",
+      "url": "https://en.wikipedia.org/wiki/America_First_Committee",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -11561,6 +11662,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El Consejo",
+     "nivel": "hecho",
+     "texto": "Según lo leído, el American Security Council lo fundó en 1954 Robert E. Wood, expresidente de Sears. Una fundación asociada, creada en 1958 por John Fisher como instituto de estrategia, se fusionó con él en 1997 y busca influir en la política exterior con el lema de la paz por la fuerza."
+    },
+    {
+     "titulo": "Influencia",
+     "nivel": "hecho",
+     "texto": "En 1963 publicó una guía para vencer en la guerra fría que pedía abandonar el acomodo con la URSS; en 1978 lanzó una coalición por esa estrategia, cuya resolución pasó al programa republicano, y Reagan le atribuyó el tema de su presidencia."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en la versión oficial que el autor parece mezclar este consejo con America First."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La continuidad personal existe: Wood presidió America First y fundó el consejo. Son organizaciones distintas.\n\nEl año de fundación difiere entre lo leído (1954) y la versión oficial (1955)."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -16875,6 +16998,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Léon Degrelle",
       "url": "https://es.wikipedia.org/wiki/Léon_Degrelle",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Ratlines (World War II)",
+      "url": "https://en.wikipedia.org/wiki/Ratlines_(World_War_II)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -16893,6 +17021,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Las rutas",
+     "nivel": "hecho",
+     "texto": "Tras la guerra funcionaron dos rutas de huida que acabaron colaborando: una de Alemania a España y de ahí a Argentina, y otra por Roma y Génova a Sudamérica. Hasta 9.000 criminales y colaboradores habrían escapado, hasta 5.000 a Argentina."
+    },
+    {
+     "titulo": "El caso Skorzeny",
+     "nivel": "hecho",
+     "texto": "Otto Skorzeny (Viena, 1908 – Madrid, 1975), coronel de las SS famoso por rescatar a Mussolini, llegó a España en 1948, se estableció en Madrid como ingeniero representando a siderúrgicas alemanas y fue bien tratado y popular bajo el régimen. Se cree que fue uno de los organizadores de ODESSA en España."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano dice que Perón huyó a España en 1955 con ayuda de Skorzeny y que Franco, que debía su victoria a Hitler y Mussolini, convirtió España en bastión del espionaje alemán."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La protección a Skorzeny y la ruta española constan. Perón no llegó a España en 1955 sino en 1960, según la versión oficial.\n\nPendiente: las demandas de extradición."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -17913,6 +18063,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Nueva Suabia",
       "url": "https://es.wikipedia.org/wiki/Nueva_Suabia",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): German Antarctic Expedition (1938–1939)",
+      "url": "https://en.wikipedia.org/wiki/German_Antarctic_Expedition_(1938%E2%80%931939)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -17923,6 +18078,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Alemania ya había enviado a la Antártida las expediciones de Drygalski (1901-1903) y Filchner (1911-1912). Una flota ballenera salió en 1937 y a su regreso, en 1938, se planeó la tercera expedición."
+    },
+    {
+     "titulo": "La expedición",
+     "nivel": "hecho",
+     "texto": "La mandó Alfred Ritscher, capitán de la marina, por orden de Göring como comisario del plan cuatrienal; planificó Helmuth Wohlthat. Con el viejo MS Schwabenland e hidroaviones de Lufthansa hizo un programa científico en la costa y llamó Nueva Suabia a la región."
+    },
+    {
+     "titulo": "El interés",
+     "nivel": "hecho",
+     "texto": "El objetivo principal era económico: una estación ballenera y caladeros para depender menos de grasas y aceites importados. Se preparó en secreto porque debía valorar además una futura ocupación. Noruega se enteró de la actividad alemana."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de autores."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El motivo económico y la evaluación territorial constan. En lo leído no hay base militar permanente."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -21751,6 +21933,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La emisión",
+     "nivel": "hecho",
+     "texto": "El 30 de octubre de 1938, a las 20:00, el programa The Mercury Theatre on the Air emitió en CBS una adaptación de la novela de H. G. Wells dirigida y narrada por Orson Welles. La primera mitad imitaba boletines de noticias y la primera pausa llegó tras describir la invasión y la caída de Nueva York."
+    },
+    {
+     "titulo": "La reacción",
+     "nivel": "hecho",
+     "texto": "Hubo confusión y miedo, pero la escala del pánico se discute; la idea de que muchos sintonizaron tarde desde otro programa popular ocurrió, según la investigación moderna, solo en casos raros. La prensa se indignó, se pidió regulación y Welles se disculpó al día siguiente sin sanciones. El episodio le dio fama con 23 años."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra dice que el francmasón Orson Welles causó pánico masivo con un falso noticiario y que parece un experimento social."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La emisión consta; el pánico masivo está discutido. En lo leído no aparecen la masonería ni un diseño experimental.\n\nEl interés de la prensa en agrandar el pánico es un dato a considerar."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -27857,6 +28061,11 @@ window.CRONO = {
       "titulo": "Brill: «Pouring Jewish Water into Fascist Wine», vol. II (139 cartas del archivo de Tacchi Venturi)",
       "url": "https://books.google.com.sg/books?id=ttjzDQAAQBAJ",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (it): Leggi razziali fasciste",
+      "url": "https://it.wikipedia.org/wiki/Leggi_razziali_fasciste",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -27875,6 +28084,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La emancipación previa",
+     "nivel": "hecho",
+     "texto": "Los judíos italianos habían logrado la igualdad con el proceso de unidad, desde el Estatuto Albertino de 1848 hasta Roma en 1870."
+    },
+    {
+     "titulo": "Las leyes",
+     "nivel": "hecho",
+     "texto": "Entre 1938 y los primeros años cuarenta se dictaron medidas sobre todo contra los judíos; Mussolini las anunció en Trieste el 18 de septiembre de 1938. Expulsaron a alumnos y maestros judíos a escuelas separadas, vetaron libros con autores judíos y prohibieron el servicio militar, la tutela de menores, la propiedad de empresas de interés para la defensa y limitaron tierras y edificios."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "El Reino del Sur las derogó en enero de 1944; en la República Social siguieron hasta abril de 1945."
+    },
+    {
+     "titulo": "Tacchi Venturi",
+     "nivel": "hecho",
+     "texto": "Una anotación recogida en la fuente cuenta que Mussolini, irritado por un discurso del papa contra el racismo, convocó al jesuita y amenazó con represalias si el pontífice seguía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha no recoge afirmaciones de autores en este apartado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El choque entre el papa y Mussolini por el racismo aparece en lo leído, con el jesuita de intermediario.\n\nVer en la versión oficial las cartas de intercesión por casos concretos."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -35444,6 +35685,11 @@ window.CRONO = {
       "titulo": "Commemorations marking the 87th Anniversary of the Soviet Aggression against Poland",
       "url": "https://eng.ipn.gov.pl/en/news/13614,Commemorations-marking-the-87th-Anniversary-of-the-Soviet-Aggression-against-Pol.html",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (es): Pacto Ribbentrop-Mólotov",
+      "url": "https://es.wikipedia.org/wiki/Pacto_Ribbentrop-M%C3%B3lotov",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -35463,6 +35709,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "El tratado",
+     "nivel": "hecho",
+     "texto": "Lo firmaron en Moscú el 23 de agosto de 1939 los ministros Ribbentrop y Mólotov, nueve días antes de la guerra: no agresión, arreglo pacífico de disputas, trato económico preferente y no entrar en alianzas contra el otro. Lo precedió un acuerdo de crédito."
+    },
+    {
+     "titulo": "El protocolo secreto",
+     "nivel": "hecho",
+     "texto": "Un anexo no publicado repartía Europa central y oriental en zonas de influencia; empezada la guerra, se repartieron Polonia."
+    },
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Siguieron un tratado de amistad y conversaciones sobre la entrada soviética en el Eje; la hostilidad creció hasta la invasión alemana de 1941, decidida en julio de 1940."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Jorge Guerra comenta el entendimiento de 1939 entre los regímenes de Stalin y Hitler; el detalle está en «Según los autores»."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El pacto y el reparto constan. El acuerdo de crédito previo apunta a intereses económicos mutuos que merece seguir."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
