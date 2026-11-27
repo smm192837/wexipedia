@@ -14311,6 +14311,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Redacción",
+     "nivel": "hecho",
+     "texto": "La comisión creó un comité de redacción de ocho miembros, con Eleanor Roosevelt, René Cassin, Charles Malik, Peng Chun Chang, Hernán Santa Cruz y representantes soviético y británico, entre otros."
+    },
+    {
+     "titulo": "Aprobación",
+     "nivel": "hecho",
+     "texto": "La Asamblea General la adoptó en París el 10 de diciembre de 1948, resolución 217 A (III), con 30 artículos. Se abstuvieron los países del Este, Arabia Saudí y Sudáfrica; la abstención sudafricana protegía el apartheid."
+    },
+    {
+     "titulo": "Alcance",
+     "nivel": "hecho",
+     "texto": "Sin consenso para un tratado obligatorio, quedó como ideal orientador. Unas tres décadas después entraron en vigor los pactos internacionales que sí obligan, y hoy hay nueve tratados básicos."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre fabianos y Huxley."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El grupo redactor era plural. En los pasajes leídos no aparece Julian Huxley en el comité."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -24389,6 +24416,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Muerte de Adolf Hitler",
       "url": "https://es.wikipedia.org/wiki/Muerte_de_Adolf_Hitler",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Conspiracy theories about Adolf Hitler's death",
+      "url": "https://en.wikipedia.org/wiki/Conspiracy_theories_about_Adolf_Hitler's_death",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -24415,6 +24447,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Lo establecido",
+     "nivel": "hecho",
+     "texto": "El hecho aceptado es que Hitler se suicidó en el búnker de Berlín el 30 de abril de 1945. Los historiadores y expertos consideran refutadas las teorías de huida por la prueba dental, en especial los dientes de un fragmento de mandíbula, lo único de su cuerpo confirmado, y por testimonios."
+    },
+    {
+     "titulo": "De dónde salen las dudas",
+     "nivel": "hecho",
+     "texto": "Proceden en gran parte de una campaña de desinformación soviética. Ya antes hubo fuentes dudosas sobre dobles. El FBI y la CIA investigaron avisos y una fotografía sin darlos por ciertos; la desclasificación de esos archivos y el hallazgo de que un cráneo del archivo soviético era de mujer alimentaron las teorías."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las versiones sobre la huida."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El cráneo mal atribuido es cierto, pero no es la pieza que prueba la muerte. Investigar un rumor no es confirmarlo."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -24581,6 +24635,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "Se formó en abril de 1945 en La Habana, heredera de una asociación de 1919 creada en La Haya, con 57 aerolíneas de 31 países. Su primer trabajo fue sobre todo técnico y aportó a la nueva organización de aviación civil."
+    },
+    {
+     "titulo": "Precios",
+     "nivel": "hecho",
+     "texto": "El convenio de Chicago no acordó la regulación económica; según Warren Koffler, la asociación nació para llenar ese vacío y dar a las aerolíneas un mecanismo de fijación de precios, y desde finales de los años cuarenta celebró conferencias de tarifas. Se la ha descrito como un cártel."
+    },
+    {
+     "titulo": "Hoy",
+     "nivel": "hecho",
+     "texto": "Asociación comercial con sede en Montreal, más de 370 aerolíneas de más de 120 países y en torno al 85 % del tráfico mundial."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Giuseppe Nocera la sitúa en una cadena de dependencia bajo la ONU."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Es una asociación de empresas, no un organismo de la ONU. El dato fuerte para seguir el dinero es el de la fijación de tarifas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -31654,6 +31735,11 @@ window.CRONO = {
       "titulo": "Pagine Filosofali: Evola y la revista L'Italiano (polémica Evola–Almirante)",
       "url": "https://paginefilosofali.it/evola-e-litaliano-1959-1973-la-collaborazione-del-filosofo-alla-rivista-di-romualdi-giovanni-sessa/?print=pdf",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (it): Movimento Sociale Italiano",
+      "url": "https://it.wikipedia.org/wiki/Movimento_Sociale_Italiano",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -31680,6 +31766,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Fundación",
+     "nivel": "hecho",
+     "texto": "Partido neofascista fundado el 26 de diciembre de 1946 por antiguos miembros de la República Social, como Almirante y Romualdi, y del régimen. Desde 1947 usó la llama tricolor."
+    },
+    {
+     "titulo": "Línea",
+     "nivel": "hecho",
+     "texto": "Nacido en oposición al sistema democrático para mantener viva la idea fascista, no condenó el régimen pero decía no querer restaurarlo: «no renegar, no restaurar», lema de De Marsanich."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "Tras la propuesta de Fisichella (1992) de una alianza de derecha, se disolvió el 27 de enero de 1995 en Alianza Nacional; una parte formó con Rauti el Fiamma Tricolore."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre el partido."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La continuidad con el fascismo la declaraba el propio partido. La versión oficial recoge la presidencia honoraria de Borghese."
+    }
+   ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
   },
@@ -34334,6 +34447,33 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Origen",
+     "nivel": "hecho",
+     "texto": "Sustituyó a la Sociedad de Naciones, que no evitó otra guerra; el nombre «Naciones Unidas» se usó durante la contienda. Se estableció con la firma de la Carta el 26 de junio de 1945."
+    },
+    {
+     "titulo": "Estructura",
+     "nivel": "hecho",
+     "texto": "Seis órganos principales: Asamblea General, Consejo de Seguridad, Consejo Económico y Social, Secretaría, Administración Fiduciaria y Corte Internacional de Justicia, más organismos especializados. Sede en Nueva York; 193 miembros y 2 observadores. Los cinco permanentes del Consejo, o sus sucesores, tienen veto."
+    },
+    {
+     "titulo": "Balance",
+     "nivel": "hecho",
+     "texto": "Se centró mucho en desarrollo durante la descolonización. Recibe elogios y premios Nobel, y críticas por ineficacia, parcialidad y corrupción."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre su papel."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El veto muestra dónde está el poder de decisión: en cinco Estados."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -34640,6 +34780,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Operación Highjump",
       "url": "https://es.wikipedia.org/wiki/Operación_Highjump",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Operation Highjump",
+      "url": "https://en.wikipedia.org/wiki/Operation_Highjump",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -34650,6 +34795,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué fue",
+     "nivel": "hecho",
+     "texto": "Programa de desarrollo antártico de la marina de EE. UU. de 1946-1947, organizado por el contraalmirante Byrd y mandado por el contraalmirante Larson. Empezó el 26 de agosto de 1946 y acabó a finales de febrero de 1947, con 4.700 hombres, 13 barcos y 33 aviones."
+    },
+    {
+     "titulo": "Objetivos",
+     "nivel": "hecho",
+     "texto": "Establecer la base Little America IV, probar la logística de barcos, aviones y equipos en la Antártida, entrenar personal, fotografiar y cartografiar, y por seguridad nacional probar navegación y comunicaciones polares y mantener presencia donde podía haber reclamaciones de soberanía."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano la relaciona con la expedición alemana y con leyendas de platillos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Los objetivos descritos son militares, científicos y de soberanía. En lo leído no hay combate ni base alemana."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -34774,6 +34941,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La carrera por la ciencia alemana",
+     "nivel": "hecho",
+     "texto": "Terminada la guerra en Europa, EE. UU. y la URSS se disputaron los avances alemanes, sobre todo aeronáuticos y químicos. En julio de 1945 empezó el reclutamiento como operación Overcast, al principio solo para entrevistar expertos en cohetes; en septiembre Truman aprobó por directiva secreta ampliarlo."
+    },
+    {
+     "titulo": "Quiénes",
+     "nivel": "hecho",
+     "texto": "Se llevaron especialistas en cohetes, armas químicas y experimentación médica; la lista la encabezaba Wernher von Braun, luego figura de la NASA. La gestionó una agencia de objetivos de inteligencia disuelta en 1962."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las afirmaciones relacionadas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El traslado de científicos del régimen nazi está documentado.\n\nPendiente: cómo se revisaron sus antecedentes."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -35489,6 +35678,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Organización Gehlen",
       "url": "https://es.wikipedia.org/wiki/Organización_Gehlen",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Gehlen Organization",
+      "url": "https://en.wikipedia.org/wiki/Gehlen_Organization",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -35503,6 +35697,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Creación",
+     "nivel": "hecho",
+     "texto": "Servicio de inteligencia creado en junio de 1946 por las autoridades estadounidenses de ocupación con antiguos miembros de la sección Ejércitos Extranjeros Este, bajo Reinhard Gehlen, jefe de la inteligencia militar alemana en el frente oriental."
+    },
+    {
+     "titulo": "Con la CIA",
+     "nivel": "hecho",
+     "texto": "Desde 1947 se orientó al espionaje político, económico y técnico contra el Este. Según un informe, fue durante años los únicos ojos y oídos de la CIA en el bloque soviético: ponía el personal y la CIA el dinero, coches y aviones. Entrevistaba a los prisioneros que volvían de la URSS."
+    },
+    {
+     "titulo": "Exnazis y sucesión",
+     "nivel": "hecho",
+     "texto": "En 1953 se reconoció ante el Bundestag que unos 40 empleados venían de las SS y el SD; también hubo infiltración soviética. En 1956 se convirtió en el BND."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre la organización."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El empleo de exmiembros de las SS y la financiación estadounidense están documentados: seguir el dinero aquí lleva a la CIA."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
@@ -41402,6 +41623,11 @@ window.CRONO = {
       "titulo": "Haaretz (2007), vía Rebelión: Walter Rauff, al servicio de la inteligencia israelí a finales de los años 40",
       "url": "https://rebelion.org/?p=438318",
       "consultado": "2026-11-13"
+     },
+     {
+      "titulo": "Wikipedia (en): Ratlines (World War II)",
+      "url": "https://en.wikipedia.org/wiki/Ratlines_(World_War_II)",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -41420,6 +41646,33 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Las rutas",
+     "nivel": "hecho",
+     "texto": "Desde 1945 nazis y colaboradores huyeron de Europa por dos vías que acabaron cooperando: por España y por Roma y Génova. La mayoría se instaló en Argentina u otros países sudamericanos."
+    },
+    {
+     "titulo": "Quién ayudó",
+     "nivel": "hecho",
+     "texto": "Clérigos católicos como el obispo austriaco Alois Hudal y el sacerdote croata Draganović, y algunas oficinas de la Cruz Roja. Los nazis pagaron desde hacia 1943 a funcionarios argentinos, lo que impulsó a Perón, cuyo régimen abrió otras rutas por Escandinavia y Suiza."
+    },
+    {
+     "titulo": "También los aliados",
+     "nivel": "hecho",
+     "texto": "Escaparon Pavelić, Eichmann y Mengele. Desde 1945 Estados Unidos usó las rutas para sacar posibles activos de la guerra fría, como Klaus Barbie."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "La ficha recoge en «Según los autores» las tesis sobre las rutas."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La participación de clérigos, gobiernos y la inteligencia estadounidense está descrita. Que participaran personas de una institución no prueba una orden de toda ella."
+    }
+   ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
   },
@@ -44770,6 +45023,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Testamento político de Adolf Hitler",
       "url": "https://es.wikipedia.org/wiki/Testamento_político_de_Adolf_Hitler",
       "consultado": "2026-11-02"
+     },
+     {
+      "titulo": "Wikipedia (en): Last will and testament of Adolf Hitler",
+      "url": "https://en.wikipedia.org/wiki/Last_will_and_testament_of_Adolf_Hitler",
+      "consultado": "2026-11-27"
      }
     ]
    },
@@ -44784,6 +45042,28 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "La firma",
+     "nivel": "hecho",
+     "texto": "Hitler firmó su testamento político y su testamento privado en el búnker el 29 de abril de 1945, dictados a Traudl Junge, la víspera de suicidarse con Eva Braun. Se cree que Goebbels ayudó a redactarlo."
+    },
+    {
+     "titulo": "Contenido",
+     "nivel": "hecho",
+     "texto": "Negaba haber querido la guerra, pedía seguir luchando, declaraba traidores a Himmler y Göring y nombraba un gobierno: Dönitz presidente y jefe de la marina y de Guerra, Goebbels canciller, Bormann ministro del Partido y Seyss-Inquart de Exteriores, entre otros. Encargaba a Bormann ocuparse de bienes de valor sentimental para sus allegados y dejaba el resto al partido."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Guillermo Mas Arellano recoge los nombramientos y sostiene que Bormann quedaba como sucesor."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Según el texto, el presidente era Dönitz, no Bormann."
+    }
+   ],
    "naturaleza": "gobiernos",
    "vista": "politica"
   },
