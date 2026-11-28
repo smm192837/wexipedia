@@ -6957,8 +6957,8 @@ window.CRONO = {
     {
      "resumen": "Lo que necesitamos es odio",
      "atribuida_a": "Anatoli Lunacharski",
-     "verificacion": "sin-comprobar",
-     "fuente": "Atribuida por Jorge Guerra, sin fuente."
+     "verificacion": "dudosa",
+     "fuente": "Atribuida por Jorge Guerra, sin fuente. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -11038,8 +11038,8 @@ window.CRONO = {
     {
      "resumen": "Relato de Grinberg sobre un supuesto injerto de vejiga que se materializa y desaparece en manos de Pachita",
      "atribuida_a": "Jacobo Grinberg",
-     "verificacion": "sin-comprobar",
-     "fuente": "Reproducido en el libro, pp. 262-263; pendiente de localizar en la obra de Grinberg"
+     "verificacion": "dudosa",
+     "fuente": "Reproducido en el libro, pp. 262-263; pendiente de localizar en la obra de Grinberg Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -11250,8 +11250,8 @@ window.CRONO = {
     {
      "resumen": "La revista publicó una biografía muy favorable de Mazzini, lo que ofendió al gobierno romano",
      "atribuida_a": "Morning Chronicle, 1851 (citado por el autor)",
-     "verificacion": "sin-comprobar",
-     "fuente": "Solo se conoce por la cita que hace el autor en el vídeo; no se ha localizado el texto del Morning Chronicle."
+     "verificacion": "dudosa",
+     "fuente": "Solo se conoce por la cita que hace el autor en el vídeo; no se ha localizado el texto del Morning Chronicle. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -14649,20 +14649,20 @@ window.CRONO = {
     {
      "resumen": "Pasteur habría reconocido antes de morir que Bernard tenía razón: el germen no es nada y el terreno lo es todo",
      "atribuida_a": "Louis Pasteur",
-     "verificacion": "sin-comprobar",
-     "fuente": "El libro la presenta con «se dice»; pendiente de rastrear el origen (suele considerarse apócrifa)"
+     "verificacion": "dudosa",
+     "fuente": "El libro la presenta con «se dice»; pendiente de rastrear el origen (suele considerarse apócrifa) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Epígrafe del capítulo: las microzimas de las bacterias destruidas siguen vivas y son el principio y el final de toda vida física",
      "atribuida_a": "Antoine Béchamp",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe de la p. 123 del libro, sin obra ni página de origen; pendiente de comprobar en la obra de Béchamp"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe de la p. 123 del libro, sin obra ni página de origen; pendiente de comprobar en la obra de Béchamp Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Pasteur habría confesado en su lecho de muerte que su teoría microbiana era falsa y que Béchamp tenía razón",
      "atribuida_a": "Louis Pasteur",
-     "verificacion": "sin-comprobar",
-     "fuente": "El vídeo la da como un hecho, sin obra ni testigo; no consta en las fuentes consultadas (otra versión de la misma frase, sobre Bernard, ya está registrada arriba)"
+     "verificacion": "dudosa",
+     "fuente": "El vídeo la da como un hecho, sin obra ni testigo; no consta en las fuentes consultadas (otra versión de la misma frase, sobre Bernard, ya está registrada arriba) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "detalle": [
@@ -19968,14 +19968,14 @@ window.CRONO = {
     {
      "resumen": "Por el principio de incertidumbre, los campos fluctúan incluso en el vacío y tienen una densidad de energía infinita",
      "atribuida_a": "Stephen Hawking",
-     "verificacion": "sin-comprobar",
-     "fuente": "Leída en la charla (min. 24:11). Origen sin localizar"
+     "verificacion": "dudosa",
+     "fuente": "Leída en la charla (min. 24:11). Origen sin localizar Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Cada centímetro cúbico de vacío equivale a 10^94 g de materia",
      "atribuida_a": "John Wheeler y Richard Feynman",
-     "verificacion": "sin-comprobar",
-     "fuente": "Dicho en la charla (min. 24:28). Origen sin localizar"
+     "verificacion": "dudosa",
+     "fuente": "Dicho en la charla (min. 24:28). Origen sin localizar Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -26475,8 +26475,8 @@ window.CRONO = {
     {
      "resumen": "Ante la advertencia de Tacchi Venturi, Mussolini responde que, si quieren guerra, la tendrán",
      "atribuida_a": "Benito Mussolini",
-     "verificacion": "sin-comprobar",
-     "fuente": "Tacchi Venturi, notas citadas por el autor; no se ha localizado el original"
+     "verificacion": "dudosa",
+     "fuente": "Tacchi Venturi, notas citadas por el autor; no se ha localizado el original Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -37643,8 +37643,8 @@ window.CRONO = {
     {
      "resumen": "Según un premio Nobel de Química de 2009, los laboratorios privados solo investigan fármacos que haya que tomar de por vida, no prevención ni curas",
      "atribuida_a": "«Thomas States» (¿Thomas Steitz, Nobel de Química 2009?)",
-     "verificacion": "sin-comprobar",
-     "fuente": "El vídeo da el nombre deformado y ninguna obra; no se ha encontrado la frase en las fuentes consultadas"
+     "verificacion": "dudosa",
+     "fuente": "El vídeo da el nombre deformado y ninguna obra; no se ha encontrado la frase en las fuentes consultadas Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -45832,8 +45832,8 @@ window.CRONO = {
     {
      "resumen": "Un pentagrama invertido atrae fuerzas siniestras y muestra el triunfo de la materia sobre el espíritu",
      "atribuida_a": "Eliphas Lévi",
-     "verificacion": "sin-comprobar",
-     "fuente": "Pendiente: obra no dicha en el vídeo (E55)"
+     "verificacion": "dudosa",
+     "fuente": "Pendiente: obra no dicha en el vídeo (E55) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "detalle": [
@@ -49055,8 +49055,8 @@ window.CRONO = {
     {
      "resumen": "Los banqueros centrales parecen ahora más poderosos que los políticos.",
      "atribuida_a": "The Economist",
-     "verificacion": "sin-comprobar",
-     "fuente": "La menciona el autor sin dar artículo ni fecha. Contrastador: no se ha encontrado el origen de la frase en fuente abierta."
+     "verificacion": "dudosa",
+     "fuente": "La menciona el autor sin dar artículo ni fecha. Contrastador: no se ha encontrado el origen de la frase en fuente abierta. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -53357,8 +53357,8 @@ window.CRONO = {
     {
      "resumen": "El régimen jesuítico del seminario despertó en Stalin una protesta ardiente",
      "atribuida_a": "G. F. Aleksándrov (1947)",
-     "verificacion": "sin-comprobar",
-     "fuente": "Citada por Jorge Guerra, sin enlace."
+     "verificacion": "dudosa",
+     "fuente": "Citada por Jorge Guerra, sin enlace. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -56033,8 +56033,8 @@ window.CRONO = {
     {
      "resumen": "Cuando bastantes personas crean en el transhumanismo, la humanidad estará en el umbral de una existencia nueva, tan distinta de la nuestra como la nuestra de la del hombre de Pekín.",
      "atribuida_a": "Julian Huxley",
-     "verificacion": "sin-comprobar",
-     "fuente": "Relatada por Jorge Guerra, que la sitúa en New Bottles for New Wine (1957); no comprobada en el original."
+     "verificacion": "verificada",
+     "fuente": "Wikiquote (en), Julian Huxley, «Transhumanism», en New Bottles for New Wine (1957), pp. 13-17: «I believe in transhumanism: once there are enough people who can truly say that, the human species will be on the threshold of a new kind of existence». Consultada el 28-11-2026. Contrastador (28-11-2026): rastreada y confirmada."
     }
    ],
    "conexiones": [
@@ -60067,8 +60067,8 @@ window.CRONO = {
     {
      "resumen": "«Follow the money»: consejo atribuido a Ezra Pound para Eustace Mullins",
      "atribuida_a": "Ezra Pound",
-     "verificacion": "sin-comprobar",
-     "fuente": "El contrastador debe rastrear su origen"
+     "verificacion": "dudosa",
+     "fuente": "El contrastador debe rastrear su origen Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -61533,8 +61533,8 @@ window.CRONO = {
     {
      "resumen": "Los pilares gemelos actúan como portal a los misterios",
      "atribuida_a": "Albert Pike",
-     "verificacion": "sin-comprobar",
-     "fuente": "Pendiente: «Moral y dogma», pasaje por localizar (E67)"
+     "verificacion": "dudosa",
+     "fuente": "Pendiente: «Moral y dogma», pasaje por localizar (E67) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "detalle": [
@@ -61762,14 +61762,14 @@ window.CRONO = {
     {
      "resumen": "El feudalismo fue el mejor sistema social de la historia, por su origen patriarcal",
      "atribuida_a": "Aleister Crowley",
-     "verificacion": "sin-comprobar",
-     "fuente": "Pendiente: obra sin identificar en el vídeo (E34); la comprobará el contrastador"
+     "verificacion": "dudosa",
+     "fuente": "Pendiente: obra sin identificar en el vídeo (E34); la comprobará el contrastador Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "El 11 es el número de la magia y el sagrado del nuevo eón",
      "atribuida_a": "Aleister Crowley",
-     "verificacion": "sin-comprobar",
-     "fuente": "Pendiente: obra sin identificar (E38); la comprobará el contrastador"
+     "verificacion": "dudosa",
+     "fuente": "Pendiente: obra sin identificar (E38); la comprobará el contrastador Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -64630,8 +64630,8 @@ window.CRONO = {
     {
      "resumen": "Epígrafe sobre las emociones y el cuerpo",
      "atribuida_a": "Candace Pert",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 164)"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 164) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -69294,8 +69294,8 @@ window.CRONO = {
     {
      "resumen": "Que su éxito se debía a los jesuitas de Saint-Clément y a su lema «Dios y el país»",
      "atribuida_a": "Ferdinand Foch",
-     "verificacion": "sin-comprobar",
-     "fuente": "Solo se conoce por la cita del autor; el acto de Georgetown de 1921 está documentado, el texto exacto del discurso no se ha localizado."
+     "verificacion": "dudosa",
+     "fuente": "Solo se conoce por la cita del autor; el acto de Georgetown de 1921 está documentado, el texto exacto del discurso no se ha localizado. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -74395,8 +74395,8 @@ window.CRONO = {
     {
      "resumen": "Genio del resurgimiento de la economía alemana y «piloto de hierro» de las finanzas nazis.",
      "atribuida_a": "The New York Times",
-     "verificacion": "sin-comprobar",
-     "fuente": "La da el autor sin indicar artículo ni fecha. Contrastador: no se ha encontrado el origen de la frase en fuente abierta."
+     "verificacion": "dudosa",
+     "fuente": "La da el autor sin indicar artículo ni fecha. Contrastador: no se ha encontrado el origen de la frase en fuente abierta. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -81065,8 +81065,8 @@ window.CRONO = {
     {
      "resumen": "«Que Arabia Saudí se una a la guerra contra Irán; si no, quizá no debamos seguir siendo socios».",
      "atribuida_a": "Lindsey Graham",
-     "verificacion": "sin-comprobar",
-     "fuente": "Fox News, según el invitado; traducción suya"
+     "verificacion": "dudosa",
+     "fuente": "Fox News, según el invitado; traducción suya Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -81454,8 +81454,8 @@ window.CRONO = {
     {
      "resumen": "Monod y otro genetista nominaron a Kervran al Nobel en 1975.",
      "atribuida_a": "Jacques Monod",
-     "verificacion": "sin-comprobar",
-     "fuente": "No hay fuente abierta; Monod ganó el Nobel en 1965."
+     "verificacion": "dudosa",
+     "fuente": "No hay fuente abierta; Monod ganó el Nobel en 1965. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "detalle": [
@@ -84954,20 +84954,20 @@ window.CRONO = {
     {
      "resumen": "En su juventud veía imágenes y destellos de luz que no eran alucinaciones, como ideas que le mostraba una mente cósmica",
      "atribuida_a": "Nikola Tesla",
-     "verificacion": "sin-comprobar",
-     "fuente": "Leída en la charla (min. 19:10). Origen probable: My Inventions (1919), cap. 1 — por comprobar"
+     "verificacion": "dudosa",
+     "fuente": "Leída en la charla (min. 19:10). Origen probable: My Inventions (1919), cap. 1 — por comprobar Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Solo un campo de fuerza explica el movimiento de los cuerpos; los intentos de explicar el universo sin el éter están destinados al olvido",
      "atribuida_a": "Nikola Tesla",
-     "verificacion": "sin-comprobar",
-     "fuente": "Leída en la charla (min. 20:07). Origen sin localizar"
+     "verificacion": "dudosa",
+     "fuente": "Leída en la charla (min. 20:07). Origen sin localizar Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Se burló de E=mc² diciendo que él había producido enormes cantidades de energía sin destruir un solo átomo",
      "atribuida_a": "Nikola Tesla",
-     "verificacion": "sin-comprobar",
-     "fuente": "Recogida por Artur Sala; pendiente de comprobar"
+     "verificacion": "dudosa",
+     "fuente": "Recogida por Artur Sala; pendiente de comprobar Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Que el día en que la ciencia estudie los fenómenos no físicos avanzará más en poco tiempo que en toda su historia, y que para entender el universo hay que pensar en energía, frecuencia y vibración.",
@@ -88585,8 +88585,8 @@ window.CRONO = {
     {
      "resumen": "Si te cortan un brazo, solo importan el ángulo, la presión y la fuerza; todo lo demás es irrelevante.",
      "atribuida_a": "René Descartes (según Artur Sala)",
-     "verificacion": "sin-comprobar",
-     "fuente": "Sin comprobar: el autor no da obra ni pasaje."
+     "verificacion": "dudosa",
+     "fuente": "Sin comprobar: el autor no da obra ni pasaje. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -92644,14 +92644,14 @@ window.CRONO = {
     {
      "resumen": "Llegará un día en que un litro de agua costará más que uno de petróleo.",
      "atribuida_a": "Viktor Schauberger",
-     "verificacion": "sin-comprobar",
-     "fuente": "Atribuida por Artur Sala (min. 1:13:53); sin fuente original. Contrastador: solo aparece una profecía sobre agua más cara que el vino (Alexandersson, Living Water); se mantiene sin comprobar."
+     "verificacion": "dudosa",
+     "fuente": "Atribuida por Artur Sala (min. 1:13:53); sin fuente original. Contrastador: solo aparece una profecía sobre agua más cara que el vino (Alexandersson, Living Water); se mantiene sin comprobar. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     },
     {
      "resumen": "Me llaman loco; si estoy en lo cierto y la ciencia se equivoca, que Dios se apiade de la humanidad.",
      "atribuida_a": "Viktor Schauberger",
-     "verificacion": "sin-comprobar",
-     "fuente": "Atribuida por Artur Sala (min. 1:13:10); sin fuente original. Contrastador: circula en webs de citas sin obra primaria localizada; se mantiene sin comprobar."
+     "verificacion": "dudosa",
+     "fuente": "Atribuida por Artur Sala (min. 1:13:10); sin fuente original. Contrastador: circula en webs de citas sin obra primaria localizada; se mantiene sin comprobar. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -93540,8 +93540,8 @@ window.CRONO = {
     {
      "resumen": "El 11 es el número de mala reputación entre los pueblos, esencia de lo pecaminoso y dañino, frente a los diez sefirot",
      "atribuida_a": "William Wynn Westcott",
-     "verificacion": "sin-comprobar",
-     "fuente": "Pendiente: «Numbers: Their Occult Powers and Mystic Virtues» (E37)"
+     "verificacion": "dudosa",
+     "fuente": "Pendiente: «Numbers: Their Occult Powers and Mystic Virtues» (E37) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -95677,8 +95677,8 @@ window.CRONO = {
     {
      "resumen": "Beber con sed da placer antes de hidratar las células porque el campo etérico absorbe la energía del agua.",
      "atribuida_a": "Rudolf Steiner",
-     "verificacion": "sin-comprobar",
-     "fuente": "El autor no cita obra; no se ha localizado en la obra de Steiner."
+     "verificacion": "dudosa",
+     "fuente": "El autor no cita obra; no se ha localizado en la obra de Steiner. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "vista": "ciencia"
@@ -95889,8 +95889,8 @@ window.CRONO = {
     {
      "resumen": "Epígrafe sobre el corazón",
      "atribuida_a": "Hua Hu Ching",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 184)"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 184) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -96234,8 +96234,8 @@ window.CRONO = {
     {
      "resumen": "«Mientras no derribemos nuestros esquemas mentales... seguiremos siendo sus productos».",
      "atribuida_a": "Jorge Guerra",
-     "verificacion": "sin-comprobar",
-     "fuente": "Transcripción del vídeo, 12:18–12:33; sin URL."
+     "verificacion": "dudosa",
+     "fuente": "Transcripción del vídeo, 12:18–12:33; sin URL. Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -98912,8 +98912,8 @@ window.CRONO = {
     {
      "resumen": "Definición de la matriz viviente como tejido molecular continuo del organismo",
      "atribuida_a": "James Oschman",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe de la p. 148 del libro; no se localizó la obra original"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe de la p. 148 del libro; no se localizó la obra original Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -99295,8 +99295,8 @@ window.CRONO = {
     {
      "resumen": "La electricidad como gran sanadora, tras un tratamiento eléctrico propio",
      "atribuida_a": "Nikola Tesla",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe de la p. 154 del libro; Tesla escribió en 1896 una carta abierta sobre curación eléctrica (Detroit Free Press), pero no se localizó la frase"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe de la p. 154 del libro; Tesla escribió en 1896 una carta abierta sobre curación eléctrica (Detroit Free Press), pero no se localizó la frase Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -99663,8 +99663,8 @@ window.CRONO = {
     {
      "resumen": "Einstein avaló el modelo estelar de Chandrasekhar.",
      "atribuida_a": "Albert Einstein",
-     "verificacion": "sin-comprobar",
-     "fuente": "No consta en la biografía de Chandrasekhar consultada (Britannica)."
+     "verificacion": "dudosa",
+     "fuente": "No consta en la biografía de Chandrasekhar consultada (Britannica). Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "vista": "ciencia"
@@ -100447,8 +100447,8 @@ window.CRONO = {
     {
      "resumen": "La vida como única forma de existencia, que se manifiesta como Espíritu, Alma y Materia, con la materia como vehículo del alma y el alma del espíritu",
      "atribuida_a": "Helena P. Blavatsky",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe de la p. 121 del libro; la redacción aparece atribuida a Blavatsky en Theosophy Wiki (https://theosophy.wiki/en/Life), pero no se localizó la obra y la página original"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe de la p. 121 del libro; la redacción aparece atribuida a Blavatsky en Theosophy Wiki (https://theosophy.wiki/en/Life), pero no se localizó la obra y la página original Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "detalle": [
@@ -101648,8 +101648,8 @@ window.CRONO = {
     {
      "resumen": "Epígrafe sobre el intestino",
      "atribuida_a": "Irina Matveikova",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 189)"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 189) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -101954,8 +101954,8 @@ window.CRONO = {
     {
      "resumen": "Los meridianos como canales por los que circula el qi entre vísceras, extremidades y capas del cuerpo",
      "atribuida_a": "Mae-Wan Ho",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe de la p. 158 del libro; no se localizó la obra original"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe de la p. 158 del libro; no se localizó la obra original Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
@@ -102512,8 +102512,8 @@ window.CRONO = {
     {
      "resumen": "Epígrafe sobre la importancia del conocimiento anatómico",
      "atribuida_a": "Andrew Taylor Still",
-     "verificacion": "sin-comprobar",
-     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 160)"
+     "verificacion": "dudosa",
+     "fuente": "Epígrafe del libro; no se localizó la obra original (p. 160) Contrastador (28-11-2026): revisada y no localizada en fuente abierta; queda como atribución dudosa (REGLAS §2.4)."
     }
    ],
    "conexiones": [
