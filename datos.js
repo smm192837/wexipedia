@@ -48942,7 +48942,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada y su estatus soberano no está reconocido por la ONU. El libro fue la edición «Processus contra Templarios» de Scrinium (799 ejemplares, octubre de 2007); según los informes, Clemente V absolvió a los dirigentes de herejía, pero los halló culpables de otras faltas y ordenó disolver la orden. El pergamino lo halló Barbara Frale en 2001 en los Archivos Vaticanos.",
+    "resumen": "En 2007 el Vaticano publicó el Pergamino de Chinon (fechado el 17–20 de agosto de 1308), en edición limitada; según la interpretación de una historiadora, muestra que Clemente V absolvió a los dirigentes templarios. Las órdenes que se llaman templarias hoy son asociaciones modernas sin continuidad histórica probada: la OSMTH nace del templarismo revivalista de 1804 y llegó a renunciar a la pretensión de descender de los templarios medievales; su estatus soberano no está reconocido por la ONU, y no consta ningún reconocimiento por parte de Isabel II. El libro fue la edición «Processus contra Templarios» de Scrinium (799 ejemplares, octubre de 2007); según los informes, Clemente V absolvió a los dirigentes de herejía, pero los halló culpables de otras faltas y ordenó disolver la orden. El pergamino lo halló Barbara Frale en 2001 en los Archivos Vaticanos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pergamino de Chinon",
@@ -48963,6 +48963,11 @@ window.CRONO = {
       "titulo": "NBC News: Long-lost text lifts cloud from Knights Templar",
       "url": "https://www.nbcnews.com/id/wbna21267691",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Sovereign Military Order of the Temple of Jerusalem",
+      "url": "https://en.wikipedia.org/wiki/Sovereign_Military_Order_of_the_Temple_of_Jerusalem",
+      "consultado": "2026-11-28"
      }
     ]
    },
