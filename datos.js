@@ -665,6 +665,16 @@ window.CRONO = {
      "estado": "procesada",
      "fecha": "2026-11-20",
      "resumen": "Lista de pistas que SMiguel1 pide investigar con fuente (radio y nazismo, JFK, memorando de la CIA de 1967, BIS y Bergier, frase de Foch)."
+    },
+    {
+     "id": "pistas-2026-11-28",
+     "titulo": "Pistas por investigar: el Titanic (conversación con Nexus, 28-11-2026)",
+     "tipo": "conversacion",
+     "referencia": "Nota de captura 001 CAPTURA/2026-11-28-titanic.md, escrita por SMiguel1 a Nexus; no hay vídeo ni URL.",
+     "url": null,
+     "estado": "procesada",
+     "fecha": "2026-11-28",
+     "resumen": "Pide incluir el Titanic y documentar los pasajeros contrarios a la creación de la Reserva Federal."
     }
    ]
   },
@@ -15631,7 +15641,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Reserva Federal se creó con la Ley de la Reserva Federal firmada por Woodrow Wilson el 23-12-1913; Edward Mandell House fue asesor clave de Wilson. El Titanic se hundió el 15-4-1912 y murieron magnates como Astor, Guggenheim y Straus; no hay prueba de que su muerte tuviera relación con la ley.",
+    "resumen": "La Reserva Federal se creó con la Ley de la Reserva Federal firmada por Woodrow Wilson el 23-12-1913; Edward Mandell House fue asesor clave de Wilson. El Titanic se hundió el 15-4-1912 y murieron magnates como Astor, Guggenheim y Straus; no hay prueba de que su muerte tuviera relación con la ley. Tampoco se ha hallado que se opusieran a ella en público Astor ni Guggenheim, y Straus escribió en 1911 a favor de la reforma, con objeciones.",
     "fuentes": [
      {
       "titulo": "Britannica: Federal Reserve System",
@@ -15662,6 +15672,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Federal Reserve Act",
       "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Titanic conspiracy theories",
+      "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "PolitiFact: el hundimiento fue un accidente (26-1-2023)",
+      "url": "https://www.politifact.com/factchecks/2023/jan/26/instagram-posts/titanic-sinking-was-accident-caused-over-1500-deat/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lead Stories: el Titanic y la Reserva Federal (2022)",
+      "url": "https://leadstories.com/hoax-alert/2022/05/fact-check-no-evidence-titanic-was-intentionally-sunk-to-create-federal-reserve.html",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -15720,6 +15745,10 @@ window.CRONO = {
     {
      "id": "wall-street-financia-bolchevismo-y-nazismo",
      "nota": "Tesis general"
+    },
+    {
+     "id": "hundimiento-titanic-1912",
+     "nota": "La tesis sobre sus víctimas."
     }
    ],
    "estado": "borrador",
@@ -29526,6 +29555,195 @@ window.CRONO = {
    ],
    "naturaleza": "conflictos-belicos",
    "vista": "politica"
+  },
+  {
+   "id": "hundimiento-titanic-1912",
+   "tipo": "hecho",
+   "titulo": "El hundimiento del Titanic (1912)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1912,
+    "texto": "15 de abril de 1912",
+    "fuente": "oficial"
+   },
+   "resumen": "Naufragio del transatlántico Titanic, de la naviera White Star Line, que chocó con un iceberg el 14 de abril de 1912, en su viaje inaugural a Nueva York, y se hundió en la madrugada del 15 con unas 1.500 víctimas. La tesis de que se provocó para eliminar a opositores a la Reserva Federal no tiene respaldo documental.",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-28",
+     "ubicacion": "nota de captura",
+     "url": null,
+     "resumen": "Tesis de SMiguel1: en el Titanic viajaba Guggenheim, a quien identifica como político estadounidense contrario a la creación de la Reserva Federal en 1912, y no era el único; pide documentarlo.",
+     "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 154–157",
+     "url": null,
+     "resumen": "Nocera sostiene que Guggenheim, Straus y Astor se oponían en 1911-1912 al plan que llevó a la Reserva Federal y que los tres murieron en el Titanic.",
+     "contradice": []
+    },
+    {
+     "autor": "guillermo-masarellano",
+     "obra": "historia-secreta-cuarto-reich",
+     "ubicacion": "min. 2:07:22",
+     "url": "https://www.youtube.com/watch?v=v8AXJRSc0FU&t=7642s",
+     "resumen": "Sugiere que en el Titanic murieron algunas de las personas que podrían haberse opuesto a la Reserva Federal. Un oyente le corrige: la Reserva se creó un año después, no tres.",
+     "contradice": []
+    },
+    {
+     "autor": "guillermo-masarellano",
+     "obra": "historia-secreta-cuarto-reich",
+     "ubicacion": "min. 1:08:02",
+     "url": "https://www.youtube.com/watch?v=v8AXJRSc0FU&t=4082s",
+     "resumen": "Dice que Wilson y House provienen del hundimiento del Titanic como rito.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "El Titanic, de la White Star Line, chocó con un iceberg a las 23:40 del 14 de abril de 1912 y se hundió a las 2:20 del 15; murieron unas 1.500 personas, entre ellas John Jacob Astor IV, Benjamin Guggenheim e Isidor Straus. Los especialistas rechazan que se hundiera a propósito. No se ha hallado que Guggenheim ni Astor se opusieran en público a un banco central (sobre Astor, una fuente recoge incluso que lo apoyaba), y Straus escribió a favor de la reforma, con objeciones a algunos puntos. La Ley de la Reserva Federal se firmó el 23 de diciembre de 1913. Guggenheim era empresario, no político: el pasajero que había sido congresista es Straus.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Sinking of the Titanic",
+      "url": "https://en.wikipedia.org/wiki/Sinking_of_the_Titanic",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Titanic conspiracy theories",
+      "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "PolitiFact: el hundimiento fue un accidente (26-1-2023)",
+      "url": "https://www.politifact.com/factchecks/2023/jan/26/instagram-posts/titanic-sinking-was-accident-caused-over-1500-deat/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Snopes: el Titanic y la Reserva Federal",
+      "url": "https://www.snopes.com/fact-check/titanic-sinking-inside-job/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lead Stories: el Titanic y la Reserva Federal (2022)",
+      "url": "https://leadstories.com/hoax-alert/2022/05/fact-check-no-evidence-titanic-was-intentionally-sunk-to-create-federal-reserve.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): History of the Federal Reserve System",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Federal_Reserve_System",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Federal Reserve Act",
+      "url": "https://en.wikipedia.org/wiki/Federal_Reserve_Act",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): International Mercantile Marine Co.",
+      "url": "https://en.wikipedia.org/wiki/International_Mercantile_Marine_Co.",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Nelson W. Aldrich",
+      "url": "https://en.wikipedia.org/wiki/Nelson_W._Aldrich",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Isidor Straus",
+      "url": "https://en.wikipedia.org/wiki/Isidor_Straus",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "La tesis los une."
+    },
+    {
+     "id": "sistema-reserva-federal",
+     "nota": "El organismo en discusión."
+    },
+    {
+     "id": "benjamin-guggenheim",
+     "nota": "Murió en el naufragio."
+    },
+    {
+     "id": "isidor-straus",
+     "nota": "Murió en el naufragio."
+    },
+    {
+     "id": "john-jacob-astor-iv",
+     "nota": "Murió en el naufragio."
+    },
+    {
+     "id": "paul-warburg",
+     "nota": "Redactor del plan Aldrich."
+    }
+   ],
+   "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "El choque",
+     "nivel": "hecho",
+     "texto": "El Titanic llevaba cuatro días de su viaje inaugural, de Southampton a Nueva York, con más de 2.200 personas a bordo. Había recibido siete avisos de hielo e iba a unos 22 nudos cuando los vigías vieron el iceberg. El golpe lateral abrió al mar seis de sus dieciséis compartimentos; estaba diseñado para flotar con cuatro de los de proa inundados."
+    },
+    {
+     "titulo": "El naufragio",
+     "nivel": "hecho",
+     "texto": "Llevaba veinte botes, cuatro de ellos plegables, insuficientes para todos, y muchos se arriaron sin llenarse. Se hundió dos horas y cuarenta minutos después del choque. El Carpathia recogió a los supervivientes. Las cifras varían: los historiadores recientes dan 1.496 muertos y 712 supervivientes de 2.208; las investigaciones de la época, entre 1.490 y 1.517 muertos. Las pesquisas llevaron a cambiar las normas marítimas, con el convenio de seguridad de la vida en el mar de 1914."
+    },
+    {
+     "titulo": "Quiénes murieron",
+     "nivel": "hecho",
+     "texto": "John Jacob Astor IV, el pasajero más rico, con unos 87 millones de dólares de patrimonio; Benjamin Guggenheim, de la familia de la minería; Isidor Straus, copropietario de los almacenes Macy's y antiguo congresista, y su mujer, Ida, que se negó a dejarlo. También murió Archibald Butt, ayudante militar del presidente Taft; en lo leído no aparece relación suya con el debate del banco central."
+    },
+    {
+     "titulo": "Por qué iban en ese barco",
+     "nivel": "hecho",
+     "texto": "Los Straus pensaban volver en otro buque y cambiaron por una huelga del carbón en Inglaterra que dejó barcos amarrados. Guggenheim, según una nota del New York Times del 19 de abril recogida por Lead Stories, tenía pasaje en el Lusitania, que se anuló por reparaciones, y prefirió esperar al Titanic. Los Astor embarcaron en Cherburgo porque querían que su hijo naciera en Estados Unidos. No se ha hallado prueba de invitaciones para reunirlos."
+    },
+    {
+     "titulo": "Seguir el dinero: de quién era el barco",
+     "nivel": "hecho",
+     "texto": "La White Star Line pertenecía a la International Mercantile Marine, un consorcio naviero financiado por J. P. Morgan. Morgan había reservado pasaje y no embarcó; se habló de enfermedad y se quedó en Francia. Los especialistas rechazan que supiera lo que iba a pasar y ofrecen otras explicaciones."
+    },
+    {
+     "titulo": "La Reserva Federal en 1912",
+     "nivel": "hecho",
+     "texto": "En noviembre de 1910, banqueros entre los que estaba Paul Warburg se reunieron en secreto en la isla Jekyll con el senador Nelson Aldrich. Su proyecto, el plan Aldrich, con una Asociación Nacional de Reserva, llegó al Congreso con el informe de la Comisión Monetaria Nacional el 9 de enero de 1912. No tenía apoyos suficientes. El programa demócrata de 1912 lo rechazó, los demócratas ganaron la presidencia y las dos cámaras, y Woodrow Wilson sacó una ley distinta, con una junta nombrada por el presidente y doce bancos regionales, aunque muy influida por aquel plan. La Cámara la aprobó por 298 a 60 el 22 de diciembre de 1913, el Senado por 43 a 25 al día siguiente y Wilson la firmó el 23."
+    },
+    {
+     "titulo": "Quién se opuso",
+     "nivel": "hecho",
+     "texto": "La oposición fue pública y no iba en el barco: William Jennings Bryan dijo que detrás del plan estaban los grandes financieros; el senador republicano Robert La Follette y el congresista Charles Lindbergh padre lo denunciaron como favor a Wall Street y al «trust del dinero»; y de mayo de 1912 a enero de 1913 la comisión Pujo investigó esa concentración de poder financiero."
+    },
+    {
+     "titulo": "Lo que consta de los tres",
+     "nivel": "hecho",
+     "texto": "El experto George Behe, citado por PolitiFact y Snopes, no conoce documentos de que Guggenheim, Straus o Astor se opusieran. Straus publicó en el New York Times, el 25 de octubre de 1911, una carta que defendía la causa y discutía cómo contar como reserva los billetes de la asociación; otras noticias de ese mes recogen desacuerdos suyos con partes del proyecto. Sobre Astor hay dos versiones: según Snopes, el New York Times recogió en 1911 que lo apoyaba; Lead Stories y la Wikipedia dicen que no consta su postura. De Guggenheim no se conoce ninguna."
+    },
+    {
+     "titulo": "De dónde sale la idea",
+     "nivel": "tesis",
+     "texto": "Según la Wikipedia, la acusación de que J. P. Morgan hundió el barco para matar a esos opositores aparece ya en 2002 en «The Secret Terrorists», de Bill Hughes, como parte de una trama jesuita para crear un banco central, y ganó difusión desde finales de 2017."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "SMiguel1 sostiene que en el barco iba Guggenheim y otros contrarios a la Reserva Federal. Giuseppe Nocera nombra a Guggenheim, Straus y Astor como los tres opositores. Guillermo Mas Arellano sugiere que murieron posibles opositores y habla del hundimiento como rito."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Consta que los tres murieron, que el barco era de un consorcio financiado por Morgan, que Morgan no embarcó y que Warburg y el plan Aldrich son anteriores. No consta la oposición de los tres ni un hundimiento provocado.\n\nHipótesis de Nexus: la coincidencia es real, pero la oposición que frenó el plan Aldrich estaba en el Congreso y en un partido entero que sobrevivió y ganó en 1912; eliminar a tres pasajeros no la quitaba de en medio. No se han leído los originales del New York Times ni los estudios de George Behe."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "iata-1945",
@@ -63988,6 +64206,108 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "benjamin-guggenheim",
+   "tipo": "persona",
+   "titulo": "Benjamin Guggenheim",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1865,
+    "hasta": 1912,
+    "fuente": "oficial"
+   },
+   "resumen": "Empresario estadounidense de la familia Guggenheim, enriquecida con la minería; murió en el hundimiento del Titanic en 1912.",
+   "segun": [
+    {
+     "autor": "smiguel1",
+     "obra": "pistas-2026-11-28",
+     "ubicacion": "nota de captura",
+     "url": null,
+     "resumen": "Tesis de SMiguel1: lo identifica como político estadounidense contrario a la creación de la Reserva Federal, que viajaba en el Titanic.",
+     "contradice": []
+    },
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 154–157",
+     "url": null,
+     "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Benjamin Guggenheim (Filadelfia, 26-10-1865 – Atlántico Norte, 15-4-1912), empresario estadounidense, quinto de los siete hijos de Meyer Guggenheim, magnate de la minería. No fue político. Murió en el hundimiento del Titanic. No se ha hallado que se pronunciara en público sobre un banco central.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Benjamin Guggenheim",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Guggenheim",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "PolitiFact: el hundimiento fue un accidente (26-1-2023)",
+      "url": "https://www.politifact.com/factchecks/2023/jan/26/instagram-posts/titanic-sinking-was-accident-caused-over-1500-deat/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Snopes: el Titanic y la Reserva Federal",
+      "url": "https://www.snopes.com/fact-check/titanic-sinking-inside-job/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lead Stories: el Titanic y la Reserva Federal (2022)",
+      "url": "https://leadstories.com/hoax-alert/2022/05/fact-check-no-evidence-titanic-was-intentionally-sunk-to-create-federal-reserve.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Titanic conspiracy theories",
+      "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "hundimiento-titanic-1912",
+     "nota": "Murió en él."
+    },
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "Se le cita como opositor."
+    }
+   ],
+   "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Familia",
+     "nivel": "hecho",
+     "texto": "Nació en Filadelfia en 1865, de una familia judía de origen suizo; su padre, Meyer, hizo fortuna en la minería. Por sus negocios vivía a menudo lejos de su familia, con piso en París."
+    },
+    {
+     "titulo": "En el Titanic",
+     "nivel": "hecho",
+     "texto": "Viajaba con su secretario, Victor Giglio, su chófer y la cantante francesa Léontine Aubart. Ayudó a subir a mujeres y niños, se cambió a traje de etiqueta y no se salvó; Giglio y el chófer tampoco."
+    },
+    {
+     "titulo": "La Reserva Federal",
+     "nivel": "hecho",
+     "texto": "No se conoce ninguna declaración suya a favor ni en contra."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Nocera lo cuenta entre los opositores a la Reserva Federal y SMiguel1 lo identifica además como político estadounidense."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La condición de político no consta y la oposición tampoco. No se han leído biografías extensas ni su correspondencia."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "benjamin-netanyahu",
    "tipo": "persona",
    "titulo": "Benjamin Netanyahu",
@@ -75059,6 +75379,100 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "isidor-straus",
+   "tipo": "persona",
+   "titulo": "Isidor Straus",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1845,
+    "hasta": 1912,
+    "fuente": "oficial"
+   },
+   "resumen": "Empresario y político estadounidense de origen alemán, copropietario de los almacenes Macy's y congresista demócrata por Nueva York; murió en el hundimiento del Titanic en 1912.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 154–157",
+     "url": null,
+     "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "Isidor Straus (Otterberg, 6-2-1845 – Atlántico Norte, 15-4-1912), empresario y político estadounidense de origen alemán, copropietario de Macy's y miembro demócrata de la Cámara de Representantes por Nueva York de enero de 1894 a marzo de 1895. Murió con su mujer en el hundimiento del Titanic. Sobre la reforma bancaria, escribió a favor en 1911, con objeciones a algunos puntos: no consta que se opusiera.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Isidor Straus",
+      "url": "https://en.wikipedia.org/wiki/Isidor_Straus",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "PolitiFact: el hundimiento fue un accidente (26-1-2023)",
+      "url": "https://www.politifact.com/factchecks/2023/jan/26/instagram-posts/titanic-sinking-was-accident-caused-over-1500-deat/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lead Stories: el Titanic y la Reserva Federal (2022)",
+      "url": "https://leadstories.com/hoax-alert/2022/05/fact-check-no-evidence-titanic-was-intentionally-sunk-to-create-federal-reserve.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Titanic conspiracy theories",
+      "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "hundimiento-titanic-1912",
+     "nota": "Murió en él."
+    },
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "Se le cita como opositor; escribió sobre la reforma."
+    }
+   ],
+   "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Vida y negocios",
+     "nivel": "hecho",
+     "texto": "Nacido en una familia judía del Palatinado, llegó a Estados Unidos con nueve años y se crio en Georgia; en la Guerra de Secesión trabajó en Inglaterra para los confederados. En Nueva York, la familia pasó de una sección de loza en Macy's a la propiedad compartida de los almacenes con su hermano Nathan. En 1902 figuraba entre los trece consejeros de una sociedad fiduciaria con William Rockefeller y Cornelius Vanderbilt."
+    },
+    {
+     "titulo": "En el Congreso",
+     "nivel": "hecho",
+     "texto": "Ganó una elección especial en 1894 y sirvió poco más de un año. Defendió rebajar los aranceles y no se presentó a la reelección."
+    },
+    {
+     "titulo": "La reforma bancaria",
+     "nivel": "hecho",
+     "texto": "El 25 de octubre de 1911 el New York Times publicó una carta suya en defensa de la reforma, en la que discutía que los billetes de la asociación de reserva debían contar como dinero de reserva. Otras noticias de ese mes recogen desacuerdos con partes del proyecto."
+    },
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "Había pasado el invierno en Europa. Su mujer, Ida, no quiso subir a un bote sin él y murieron los dos. Su cuerpo se recuperó."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Nocera lo cuenta entre los opositores a la Reserva Federal."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Lo leído contradice la oposición, aunque su apoyo no era incondicional. No se ha leído la carta original ni la prensa de 1911."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "isidoro-de-sevilla",
    "tipo": "persona",
    "titulo": "Isidoro de Sevilla",
@@ -77497,6 +77911,100 @@ window.CRONO = {
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "john-jacob-astor-iv",
+   "tipo": "persona",
+   "titulo": "John Jacob Astor IV",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1864,
+    "hasta": 1912,
+    "fuente": "oficial"
+   },
+   "resumen": "Magnate inmobiliario estadounidense de la familia Astor; fue el pasajero más rico del Titanic y murió en su hundimiento en 1912.",
+   "segun": [
+    {
+     "autor": "giuseppe-nocera",
+     "obra": "mientras-dormiamos",
+     "ubicacion": "cap. 3, pp. 154–157",
+     "url": null,
+     "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
+     "contradice": []
+    }
+   ],
+   "oficial": {
+    "resumen": "John Jacob Astor IV (Rhinebeck, 13-7-1864 – Atlántico Norte, 15-4-1912), promotor inmobiliario e inversor estadounidense, constructor del hotel Astoria. Murió en el hundimiento del Titanic, del que era el pasajero más rico. Sobre un banco central las fuentes no coinciden: una recoge que lo apoyaba y otras que no consta su postura; no se ha hallado que se opusiera.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): John Jacob Astor IV",
+      "url": "https://en.wikipedia.org/wiki/John_Jacob_Astor_IV",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Snopes: el Titanic y la Reserva Federal",
+      "url": "https://www.snopes.com/fact-check/titanic-sinking-inside-job/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lead Stories: el Titanic y la Reserva Federal (2022)",
+      "url": "https://leadstories.com/hoax-alert/2022/05/fact-check-no-evidence-titanic-was-intentionally-sunk-to-create-federal-reserve.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Titanic conspiracy theories",
+      "url": "https://en.wikipedia.org/wiki/Titanic_conspiracy_theories",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "PolitiFact: el hundimiento fue un accidente (26-1-2023)",
+      "url": "https://www.politifact.com/factchecks/2023/jan/26/instagram-posts/titanic-sinking-was-accident-caused-over-1500-deat/",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "hundimiento-titanic-1912",
+     "nota": "Murió en él."
+    },
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "Se le cita como opositor."
+    }
+   ],
+   "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Fortuna y actividades",
+     "nivel": "hecho",
+     "texto": "Hijo de William Backhouse Astor, heredó una de las grandes fortunas inmobiliarias. En 1897 levantó el Astoria, unido al Waldorf de su primo. Fue teniente coronel en la guerra con España, para la que pagó una batería de artillería, escribió y ayudó a desarrollar una turbina."
+    },
+    {
+     "titulo": "En el Titanic",
+     "nivel": "hecho",
+     "texto": "Volvía con su segunda mujer, Madeleine, embarazada. La ayudó a subir al bote 4, no se le dejó acompañarla y murió. Su hijo nació cuatro meses después."
+    },
+    {
+     "titulo": "La Reserva Federal",
+     "nivel": "hecho",
+     "texto": "Según Snopes, el New York Times recogió en 1911 que era partidario de la idea; Lead Stories y la Wikipedia sostienen que no consta lo que pensaba."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Nocera lo cuenta entre los opositores a la Reserva Federal."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "No se ha abierto la noticia de 1911 que lo daría como partidario, así que su postura queda sin resolver."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "john-law",
@@ -102728,7 +103236,7 @@ window.CRONO = {
   }
  ],
  "cielo": {
-  "generado": "2026-11-22",
+  "generado": "2026-11-28",
   "metodo": "Calculado con VSOP87D (planetas), ELP2000-82B (Luna), ΔT de Espenak y Meeus, nutación y tiempo de luz: el mismo motor que usa la web. 12:00 UTC, zodiaco tropical, geocéntrico, longitudes aparentes. Rango -3000 a 3000. Plutón: tabla de JPL Horizons 1599-1890 y fórmula de Schlyter 1885-2099; en ciclos y recuentos, desde 1800. Sin Luna ni casas en las fichas: ninguna da la hora.",
   "motor": "VSOP87D-ELP2000",
   "rango": {
@@ -104237,6 +104745,128 @@ window.CRONO = {
    }
   ],
   "dias": {
+   "acnur-1950": {
+    "fecha": "1950-12-14",
+    "pos": {
+     "Sol": "21°Sag",
+     "Mercurio": "12°Cap",
+     "Venus": "29°Sag",
+     "Marte": "29°Cap",
+     "Júpiter": "1°Pis",
+     "Saturno": "1°Lib",
+     "Urano": "8°Can",
+     "Neptuno": "19°Lib",
+     "Plutón": "19°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Pis",
+     "oposiciones": []
+    }
+   },
+   "ad-abolendam-1184": {
+    "fecha": "1184-11-04",
+    "pos": {
+     "Sol": "19°Esc",
+     "Mercurio": "0°Esc",
+     "Venus": "28°Lib",
+     "Marte": "0°Esc",
+     "Júpiter": "19°Leo",
+     "Saturno": "19°Vir",
+     "Urano": "14°Tau",
+     "Neptuno": "9°Acu"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "11°Esc",
+     "oposiciones": [
+      {
+       "planeta": "Urano",
+       "orbe": 2.8
+      }
+     ]
+    }
+   },
+   "ad-extirpanda-1252": {
+    "fecha": "1252-05-15",
+    "pos": {
+     "Sol": "1°Gem",
+     "Mercurio": "5°Gem",
+     "Venus": "15°Gem",
+     "Marte": "12°Leo",
+     "Júpiter": "23°Ari",
+     "Saturno": "25°Sag",
+     "Urano": "12°Pis",
+     "Neptuno": "10°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.3
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "29°Can",
+     "oposiciones": []
+    }
+   },
+   "agenda-2030": {
+    "fecha": "2015-09-25",
+    "pos": {
+     "Sol": "2°Lib",
+     "Mercurio": "12°Lib",
+     "Venus": "20°Leo",
+     "Marte": "0°Vir",
+     "Júpiter": "9°Vir",
+     "Saturno": "0°Sag",
+     "Urano": "19°Ari",
+     "Neptuno": "7°Pis",
+     "Plutón": "12°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Acu",
+     "oposiciones": []
+    }
+   },
    "armisticio-del-11-de-noviembre-1918": {
     "fecha": "1918-11-11",
     "pos": {
@@ -104330,6 +104960,39 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "atentado-de-sarajevo": {
+    "fecha": "1914-06-28",
+    "pos": {
+     "Sol": "5°Can",
+     "Mercurio": "28°Can",
+     "Venus": "9°Leo",
+     "Marte": "1°Vir",
+     "Júpiter": "21°Acu",
+     "Saturno": "23°Gem",
+     "Urano": "10°Acu",
+     "Neptuno": "27°Can",
+     "Plutón": "0°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Vir",
+     "oposiciones": []
+    }
+   },
    "atentado-sarpi-1607": {
     "fecha": "1607-10-05",
     "pos": {
@@ -104420,6 +105083,33 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "1°Tau",
+     "oposiciones": []
+    }
+   },
+   "atentados-11s": {
+    "fecha": "2001-09-11",
+    "pos": {
+     "Sol": "18°Vir",
+     "Mercurio": "14°Lib",
+     "Venus": "18°Leo",
+     "Marte": "1°Cap",
+     "Júpiter": "11°Can",
+     "Saturno": "14°Gem",
+     "Urano": "21°Acu",
+     "Neptuno": "6°Acu",
+     "Plutón": "12°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "27°Gem",
      "oposiciones": []
     }
    },
@@ -104537,6 +105227,25 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "batalla-de-kulikovo-1380": {
+    "fecha": "1380-09-08",
+    "pos": {
+     "Sol": "23°Vir",
+     "Mercurio": "24°Vir",
+     "Venus": "10°Esc",
+     "Marte": "7°Esc",
+     "Júpiter": "26°Cap",
+     "Saturno": "2°Tau",
+     "Urano": "22°Vir",
+     "Neptuno": "23°Ari"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "4°Cap",
+     "oposiciones": []
+    }
+   },
    "boda-jean-christophe-napoleon-olimpia-2019": {
     "fecha": "2019-10-19",
     "pos": {
@@ -104564,6 +105273,116 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "bombardeo-dresde-1945": {
+    "fecha": "1945-02-15",
+    "pos": {
+     "Sol": "26°Acu",
+     "Mercurio": "16°Acu",
+     "Venus": "12°Ari",
+     "Marte": "0°Acu",
+     "Júpiter": "25°Vir",
+     "Saturno": "4°Can",
+     "Urano": "9°Gem",
+     "Neptuno": "6°Lib",
+     "Plutón": "8°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "4°Ari",
+     "oposiciones": [
+      {
+       "planeta": "Neptuno",
+       "orbe": 1.2
+      }
+     ]
+    }
+   },
+   "boson-de-higgs-2012": {
+    "fecha": "2012-07-04",
+    "pos": {
+     "Sol": "12°Can",
+     "Mercurio": "8°Leo",
+     "Venus": "8°Gem",
+     "Marte": "0°Lib",
+     "Júpiter": "5°Gem",
+     "Saturno": "22°Lib",
+     "Urano": "8°Ari",
+     "Neptuno": "2°Pis",
+     "Plutón": "8°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "22°Cap",
+     "oposiciones": []
+    }
+   },
+   "bretton-woods-1944": {
+    "fecha": "1944-07-22",
+    "pos": {
+     "Sol": "29°Can",
+     "Mercurio": "20°Leo",
+     "Venus": "6°Leo",
+     "Marte": "6°Vir",
+     "Júpiter": "29°Leo",
+     "Saturno": "4°Can",
+     "Urano": "11°Gem",
+     "Neptuno": "1°Lib",
+     "Plutón": "8°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Leo",
+     "oposiciones": []
+    }
+   },
    "bush-escuela-sarasota-2001": {
     "fecha": "2001-09-11",
     "pos": {
@@ -104588,6 +105407,290 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "27°Gem",
+     "oposiciones": []
+    }
+   },
+   "caida-constantinopla-1453": {
+    "fecha": "1453-05-29",
+    "pos": {
+     "Sol": "16°Gem",
+     "Mercurio": "4°Can",
+     "Venus": "23°Tau",
+     "Marte": "24°Can",
+     "Júpiter": "9°Ari",
+     "Saturno": "24°Lib",
+     "Urano": "28°Can",
+     "Neptuno": "1°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "5°Pis",
+     "oposiciones": []
+    }
+   },
+   "calendario-gregoriano-gregorio-xiii": {
+    "fecha": "1582-02-24",
+    "pos": {
+     "Sol": "15°Pis",
+     "Mercurio": "4°Pis",
+     "Venus": "1°Tau",
+     "Marte": "14°Acu",
+     "Júpiter": "9°Acu",
+     "Saturno": "3°Pis",
+     "Urano": "20°Acu",
+     "Neptuno": "15°Can"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "9°Ari",
+     "oposiciones": []
+    }
+   },
+   "clericis-laicos-1296": {
+    "fecha": "1296-02-24",
+    "pos": {
+     "Sol": "12°Pis",
+     "Mercurio": "6°Pis",
+     "Venus": "3°Ari",
+     "Marte": "25°Cap",
+     "Júpiter": "29°Sag",
+     "Saturno": "13°Gem",
+     "Urano": "18°Vir",
+     "Neptuno": "18°Lib"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "3°Esc",
+     "oposiciones": []
+    }
+   },
+   "colon-1492-colonizacion-hordiana": {
+    "fecha": "1492-10-12",
+    "pos": {
+     "Sol": "28°Lib",
+     "Mercurio": "20°Esc",
+     "Venus": "17°Esc",
+     "Marte": "28°Leo",
+     "Júpiter": "10°Leo",
+     "Saturno": "13°Acu",
+     "Urano": "24°Cap",
+     "Neptuno": "27°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "18°Can",
+     "oposiciones": []
+    }
+   },
+   "comision-bergier": {
+    "fecha": "1996-12-12",
+    "pos": {
+     "Sol": "20°Sag",
+     "Mercurio": "10°Cap",
+     "Venus": "24°Esc",
+     "Marte": "21°Vir",
+     "Júpiter": "20°Cap",
+     "Saturno": "0°Ari",
+     "Urano": "2°Acu",
+     "Neptuno": "26°Cap",
+     "Plutón": "3°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Cap",
+     "oposiciones": []
+    }
+   },
+   "comision-warren-zapruder-1964": {
+    "fecha": "1964-09-24",
+    "pos": {
+     "Sol": "1°Lib",
+     "Mercurio": "15°Vir",
+     "Venus": "17°Leo",
+     "Marte": "5°Leo",
+     "Júpiter": "25°Tau",
+     "Saturno": "29°Acu",
+     "Urano": "11°Vir",
+     "Neptuno": "15°Esc",
+     "Plutón": "14°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Tau",
+     "oposiciones": []
+    }
+   },
+   "congreso-iberico-astrologia-vigo-2016": {
+    "fecha": "2016-06-26",
+    "pos": {
+     "Sol": "5°Can",
+     "Mercurio": "22°Gem",
+     "Venus": "10°Can",
+     "Marte": "23°Esc",
+     "Júpiter": "16°Vir",
+     "Saturno": "11°Sag",
+     "Urano": "24°Ari",
+     "Neptuno": "11°Pis",
+     "Plutón": "16°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "18°Pis",
+     "oposiciones": [
+      {
+       "planeta": "Júpiter",
+       "orbe": 2.5
+      }
+     ]
+    }
+   },
+   "congreso-wilhelmsbad": {
+    "fecha": "1782-07-16",
+    "pos": {
+     "Sol": "23°Can",
+     "Mercurio": "5°Leo",
+     "Venus": "13°Gem",
+     "Marte": "6°Leo",
+     "Júpiter": "20°Sag",
+     "Saturno": "26°Sag",
+     "Urano": "4°Can",
+     "Neptuno": "5°Lib",
+     "Plutón": "7°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Lib",
+     "oposiciones": []
+    }
+   },
+   "conjuncion-jupiter-saturno-2020": {
+    "fecha": "2020-12-21",
+    "pos": {
+     "Sol": "0°Cap",
+     "Mercurio": "0°Cap",
+     "Venus": "7°Sag",
+     "Marte": "23°Ari",
+     "Júpiter": "0°Acu",
+     "Saturno": "0°Acu",
+     "Urano": "6°Tau",
+     "Neptuno": "18°Pis",
+     "Plutón": "23°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 0.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Pis",
      "oposiciones": []
     }
    },
@@ -104638,6 +105741,52 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "csic-1939": {
+    "fecha": "1939-11-24",
+    "pos": {
+     "Sol": "1°Sag",
+     "Mercurio": "10°Sag",
+     "Venus": "21°Sag",
+     "Marte": "3°Pis",
+     "Júpiter": "28°Pis",
+     "Saturno": "25°Ari",
+     "Urano": "19°Tau",
+     "Neptuno": "25°Vir",
+     "Plutón": "2°Leo"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Tau",
+     "oposiciones": []
+    }
+   },
+   "cum-nimis-absurdum-1555": {
+    "fecha": "1555-07-14",
+    "pos": {
+     "Sol": "0°Leo",
+     "Mercurio": "11°Leo",
+     "Venus": "22°Gem",
+     "Marte": "13°Lib",
+     "Júpiter": "26°Lib",
+     "Saturno": "11°Ari",
+     "Urano": "23°Lib",
+     "Neptuno": "19°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "12°Gem",
+     "oposiciones": []
+    }
+   },
    "curso-agricultura-koberwitz-1924": {
     "fecha": "1924-06-16",
     "pos": {
@@ -104662,6 +105811,168 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "15°Sag",
+     "oposiciones": []
+    }
+   },
+   "decet-romanum-pontificem-1521": {
+    "fecha": "1521-01-03",
+    "pos": {
+     "Sol": "22°Cap",
+     "Mercurio": "7°Acu",
+     "Venus": "12°Acu",
+     "Marte": "10°Leo",
+     "Júpiter": "13°Sag",
+     "Saturno": "4°Acu",
+     "Urano": "16°Tau",
+     "Neptuno": "29°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "21°Esc",
+     "oposiciones": []
+    }
+   },
+   "declaracion-derechos-humanos": {
+    "fecha": "1948-12-10",
+    "pos": {
+     "Sol": "18°Sag",
+     "Mercurio": "17°Sag",
+     "Venus": "17°Esc",
+     "Marte": "10°Cap",
+     "Júpiter": "5°Cap",
+     "Saturno": "6°Vir",
+     "Urano": "28°Gem",
+     "Neptuno": "14°Lib",
+     "Plutón": "16°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "9°Ari",
+     "oposiciones": []
+    }
+   },
+   "dictadura-argentina-1976": {
+    "fecha": "1976-03-24",
+    "pos": {
+     "Sol": "3°Ari",
+     "Mercurio": "25°Pis",
+     "Venus": "11°Pis",
+     "Marte": "2°Can",
+     "Júpiter": "29°Ari",
+     "Saturno": "26°Can",
+     "Urano": "6°Esc",
+     "Neptuno": "13°Sag",
+     "Plutón": "10°Lib"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Cap",
+     "oposiciones": [
+      {
+       "planeta": "Saturno",
+       "orbe": 1.5
+      }
+     ]
+    }
+   },
+   "dictadura-militar-chile": {
+    "fecha": "1973-09-11",
+    "pos": {
+     "Sol": "18°Vir",
+     "Mercurio": "26°Vir",
+     "Venus": "27°Lib",
+     "Marte": "8°Tau",
+     "Júpiter": "2°Acu",
+     "Saturno": "3°Can",
+     "Urano": "21°Lib",
+     "Neptuno": "4°Sag",
+     "Plutón": "3°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "4°Pis",
+     "oposiciones": []
+    }
+   },
+   "dictadura-primo-de-rivera": {
+    "fecha": "1923-09-13",
+    "pos": {
+     "Sol": "19°Vir",
+     "Mercurio": "13°Lib",
+     "Venus": "20°Vir",
+     "Marte": "7°Vir",
+     "Júpiter": "15°Esc",
+     "Saturno": "19°Lib",
+     "Urano": "15°Pis",
+     "Neptuno": "19°Leo",
+     "Plutón": "12°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Lib",
      "oposiciones": []
     }
    },
@@ -104709,6 +106020,149 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "5°Acu",
+     "oposiciones": []
+    }
+   },
+   "dominus-ac-redemptor-1773": {
+    "fecha": "1773-07-21",
+    "pos": {
+     "Sol": "28°Can",
+     "Mercurio": "20°Leo",
+     "Venus": "11°Leo",
+     "Marte": "21°Vir",
+     "Júpiter": "9°Ari",
+     "Saturno": "10°Vir",
+     "Urano": "27°Tau",
+     "Neptuno": "16°Vir",
+     "Plutón": "21°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Leo",
+     "oposiciones": []
+    }
+   },
+   "dum-diversas-1452": {
+    "fecha": "1452-06-18",
+    "pos": {
+     "Sol": "5°Can",
+     "Mercurio": "26°Can",
+     "Venus": "12°Leo",
+     "Marte": "28°Pis",
+     "Júpiter": "7°Pis",
+     "Saturno": "12°Lib",
+     "Urano": "24°Can",
+     "Neptuno": "29°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.0
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "17°Can",
+     "oposiciones": []
+    }
+   },
+   "east-india-company-1600": {
+    "fecha": "1600-12-31",
+    "pos": {
+     "Sol": "10°Cap",
+     "Mercurio": "28°Cap",
+     "Venus": "2°Acu",
+     "Marte": "19°Cap",
+     "Júpiter": "22°Vir",
+     "Saturno": "8°Esc",
+     "Urano": "1°Tau",
+     "Neptuno": "29°Leo",
+     "Plutón": "22°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Esc",
+     "oposiciones": []
+    }
+   },
+   "ecclesiam-a-jesu-christo-1821": {
+    "fecha": "1821-09-13",
+    "pos": {
+     "Sol": "20°Vir",
+     "Mercurio": "19°Vir",
+     "Venus": "20°Lib",
+     "Marte": "20°Can",
+     "Júpiter": "29°Ari",
+     "Saturno": "25°Ari",
+     "Urano": "29°Sag",
+     "Neptuno": "0°Cap",
+     "Plutón": "28°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "11°Ari",
      "oposiciones": []
     }
    },
@@ -104766,32 +106220,6 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "7°Leo",
-     "oposiciones": []
-    }
-   },
-   "embajadas-preste-juan-1486": {
-    "fecha": "1486-10-10",
-    "pos": {
-     "Sol": "25°Lib",
-     "Mercurio": "19°Esc",
-     "Venus": "16°Vir",
-     "Marte": "28°Gem",
-     "Júpiter": "6°Cap",
-     "Saturno": "8°Sag",
-     "Urano": "29°Sag",
-     "Neptuno": "14°Sag"
-    },
-    "aspectos": [
-     {
-      "a": "Marte",
-      "b": "Urano",
-      "aspecto": "oposición",
-      "orbe": 1.1
-     }
-    ],
-    "sin_pluton": true,
-    "luna": {
-     "pos": "18°Pis",
      "oposiciones": []
     }
    },
@@ -104909,6 +106337,85 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "execrabilis-1460": {
+    "fecha": "1460-01-18",
+    "pos": {
+     "Sol": "6°Acu",
+     "Mercurio": "8°Acu",
+     "Venus": "6°Acu",
+     "Marte": "18°Acu",
+     "Júpiter": "29°Lib",
+     "Saturno": "14°Cap",
+     "Urano": "2°Vir",
+     "Neptuno": "19°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "8°Sag",
+     "oposiciones": []
+    }
+   },
+   "expulsion-jesuitas-1767": {
+    "fecha": "1767-01-29",
+    "pos": {
+     "Sol": "9°Acu",
+     "Mercurio": "16°Cap",
+     "Venus": "14°Acu",
+     "Marte": "23°Ari",
+     "Júpiter": "22°Vir",
+     "Saturno": "13°Gem",
+     "Urano": "25°Ari",
+     "Neptuno": "4°Vir",
+     "Plutón": "10°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Acu",
+     "oposiciones": []
+    }
+   },
+   "exsurge-domine-1520": {
+    "fecha": "1520-06-15",
+    "pos": {
+     "Sol": "3°Can",
+     "Mercurio": "11°Can",
+     "Venus": "2°Gem",
+     "Marte": "17°Tau",
+     "Júpiter": "12°Esc",
+     "Saturno": "2°Acu",
+     "Urano": "19°Tau",
+     "Neptuno": "1°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.7
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "5°Can",
+     "oposiciones": []
+    }
+   },
    "festival-altamont-1969": {
     "fecha": "1969-12-06",
     "pos": {
@@ -104941,6 +106448,121 @@ window.CRONO = {
      ]
     }
    },
+   "guerra-civil-espanola": {
+    "fecha": "1936-07-17",
+    "pos": {
+     "Sol": "24°Can",
+     "Mercurio": "16°Can",
+     "Venus": "29°Can",
+     "Marte": "14°Can",
+     "Júpiter": "15°Sag",
+     "Saturno": "22°Pis",
+     "Urano": "9°Tau",
+     "Neptuno": "14°Vir",
+     "Plutón": "26°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Can",
+     "oposiciones": []
+    }
+   },
+   "guerra-de-afganistan-2001": {
+    "fecha": "2001-10-07",
+    "pos": {
+     "Sol": "14°Lib",
+     "Mercurio": "27°Lib",
+     "Venus": "20°Vir",
+     "Marte": "16°Cap",
+     "Júpiter": "14°Can",
+     "Saturno": "14°Gem",
+     "Urano": "21°Acu",
+     "Neptuno": "6°Acu",
+     "Plutón": "13°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "oposición",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "11°Gem",
+     "oposiciones": [
+      {
+       "planeta": "Plutón",
+       "orbe": 1.9
+      }
+     ]
+    }
+   },
+   "guerra-de-los-cien-anos": {
+    "fecha": "1337-05-24",
+    "pos": {
+     "Sol": "10°Gem",
+     "Mercurio": "17°Gem",
+     "Venus": "19°Can",
+     "Marte": "3°Esc",
+     "Júpiter": "19°Gem",
+     "Saturno": "15°Esc",
+     "Urano": "17°Pis",
+     "Neptuno": "18°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "21°Pis",
+     "oposiciones": []
+    }
+   },
    "guerra-de-los-mundos-radio-1938": {
     "fecha": "1938-10-30",
     "pos": {
@@ -104965,6 +106587,221 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "27°Cap",
+     "oposiciones": []
+    }
+   },
+   "guerra-de-los-seis-dias-1967": {
+    "fecha": "1967-06-10",
+    "pos": {
+     "Sol": "18°Gem",
+     "Mercurio": "13°Can",
+     "Venus": "3°Leo",
+     "Marte": "16°Lib",
+     "Júpiter": "3°Leo",
+     "Saturno": "10°Ari",
+     "Urano": "20°Vir",
+     "Neptuno": "22°Esc",
+     "Plutón": "18°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Can",
+     "oposiciones": []
+    }
+   },
+   "guerra-de-secesion": {
+    "fecha": "1861-04-12",
+    "pos": {
+     "Sol": "22°Ari",
+     "Mercurio": "25°Pis",
+     "Venus": "14°Ari",
+     "Marte": "6°Gem",
+     "Júpiter": "17°Leo",
+     "Saturno": "3°Vir",
+     "Urano": "9°Gem",
+     "Neptuno": "29°Pis",
+     "Plutón": "8°Tau"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Tau",
+     "oposiciones": []
+    }
+   },
+   "guerra-franco-prusiana": {
+    "fecha": "1870-07-19",
+    "pos": {
+     "Sol": "26°Can",
+     "Mercurio": "17°Can",
+     "Venus": "21°Gem",
+     "Marte": "26°Gem",
+     "Júpiter": "16°Gem",
+     "Saturno": "23°Sag",
+     "Urano": "22°Can",
+     "Neptuno": "21°Ari",
+     "Plutón": "18°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.2
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Ari",
+     "oposiciones": []
+    }
+   },
+   "guerra-iran-2026": {
+    "fecha": "2026-02-28",
+    "pos": {
+     "Sol": "9°Pis",
+     "Mercurio": "22°Pis",
+     "Venus": "22°Pis",
+     "Marte": "28°Acu",
+     "Júpiter": "15°Can",
+     "Saturno": "1°Ari",
+     "Urano": "27°Tau",
+     "Neptuno": "1°Ari",
+     "Plutón": "4°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.6
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Leo",
+     "oposiciones": [
+      {
+       "planeta": "Plutón",
+       "orbe": 2.4
+      }
+     ]
+    }
+   },
+   "guerra-ruso-japonesa": {
+    "fecha": "1904-02-08",
+    "pos": {
+     "Sol": "18°Acu",
+     "Mercurio": "22°Cap",
+     "Venus": "11°Cap",
+     "Marte": "15°Pis",
+     "Júpiter": "25°Pis",
+     "Saturno": "12°Acu",
+     "Urano": "28°Sag",
+     "Neptuno": "3°Can",
+     "Plutón": "18°Gem"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "19°Esc",
+     "oposiciones": []
+    }
+   },
+   "huida-hitler-argentina": {
+    "fecha": "1945-04-30",
+    "pos": {
+     "Sol": "9°Tau",
+     "Mercurio": "17°Ari",
+     "Venus": "18°Ari",
+     "Marte": "28°Pis",
+     "Júpiter": "17°Vir",
+     "Saturno": "6°Can",
+     "Urano": "11°Gem",
+     "Neptuno": "4°Lib",
+     "Plutón": "7°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Sag",
+     "oposiciones": [
+      {
+       "planeta": "Urano",
+       "orbe": 2.5
+      }
+     ]
+    }
+   },
+   "humanum-genus-1884": {
+    "fecha": "1884-04-20",
+    "pos": {
+     "Sol": "0°Tau",
+     "Mercurio": "20°Tau",
+     "Venus": "15°Gem",
+     "Marte": "10°Leo",
+     "Júpiter": "25°Can",
+     "Saturno": "8°Gem",
+     "Urano": "24°Vir",
+     "Neptuno": "20°Tau",
+     "Plutón": "0°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "22°Acu",
      "oposiciones": []
     }
    },
@@ -105004,6 +106841,107 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "16°Sag",
+     "oposiciones": []
+    }
+   },
+   "hundimiento-titanic-1912": {
+    "fecha": "1912-04-15",
+    "pos": {
+     "Sol": "25°Ari",
+     "Mercurio": "25°Ari",
+     "Venus": "3°Ari",
+     "Marte": "5°Can",
+     "Júpiter": "15°Sag",
+     "Saturno": "19°Tau",
+     "Urano": "3°Acu",
+     "Neptuno": "21°Can",
+     "Plutón": "27°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Ari",
+     "oposiciones": []
+    }
+   },
+   "iglesia-de-satan": {
+    "fecha": "1966-04-30",
+    "pos": {
+     "Sol": "9°Tau",
+     "Mercurio": "15°Ari",
+     "Venus": "24°Pis",
+     "Marte": "9°Tau",
+     "Júpiter": "29°Gem",
+     "Saturno": "25°Pis",
+     "Urano": "15°Vir",
+     "Neptuno": "21°Esc",
+     "Plutón": "15°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Vir",
+     "oposiciones": []
+    }
+   },
+   "illuminati-de-baviera-1776": {
+    "fecha": "1776-05-01",
+    "pos": {
+     "Sol": "11°Tau",
+     "Mercurio": "28°Ari",
+     "Venus": "14°Ari",
+     "Marte": "5°Tau",
+     "Júpiter": "21°Gem",
+     "Saturno": "16°Lib",
+     "Urano": "5°Gem",
+     "Neptuno": "22°Vir",
+     "Plutón": "28°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Lib",
+     "oposiciones": []
+    }
+   },
+   "in-eminenti-apostolatus-1738": {
+    "fecha": "1738-04-28",
+    "pos": {
+     "Sol": "7°Tau",
+     "Mercurio": "17°Tau",
+     "Venus": "13°Tau",
+     "Marte": "9°Pis",
+     "Júpiter": "14°Ari",
+     "Saturno": "22°Gem",
+     "Urano": "6°Cap",
+     "Neptuno": "28°Gem",
+     "Plutón": "2°Esc"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "23°Leo",
      "oposiciones": []
     }
    },
@@ -105097,6 +107035,78 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "inter-caetera-1493": {
+    "fecha": "1493-05-04",
+    "pos": {
+     "Sol": "22°Tau",
+     "Mercurio": "22°Tau",
+     "Venus": "26°Ari",
+     "Marte": "26°Vir",
+     "Júpiter": "5°Leo",
+     "Saturno": "1°Pis",
+     "Urano": "1°Acu",
+     "Neptuno": "1°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "26°Sag",
+     "oposiciones": []
+    }
+   },
+   "inter-gravissimas-1582": {
+    "fecha": "1582-02-24",
+    "pos": {
+     "Sol": "15°Pis",
+     "Mercurio": "4°Pis",
+     "Venus": "1°Tau",
+     "Marte": "14°Acu",
+     "Júpiter": "9°Acu",
+     "Saturno": "3°Pis",
+     "Urano": "20°Acu",
+     "Neptuno": "15°Can"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "9°Ari",
+     "oposiciones": []
+    }
+   },
+   "laudate-deum-2023": {
+    "fecha": "2023-10-04",
+    "pos": {
+     "Sol": "11°Lib",
+     "Mercurio": "29°Vir",
+     "Venus": "26°Leo",
+     "Marte": "24°Lib",
+     "Júpiter": "14°Tau",
+     "Saturno": "1°Pis",
+     "Urano": "22°Tau",
+     "Neptuno": "25°Pis",
+     "Plutón": "27°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Gem",
+     "oposiciones": []
+    }
+   },
    "legion-de-honor": {
     "fecha": "1802-05-19",
     "pos": {
@@ -105121,6 +107131,33 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "22°Sag",
+     "oposiciones": []
+    }
+   },
+   "liga-de-naciones-1919": {
+    "fecha": "1919-06-28",
+    "pos": {
+     "Sol": "5°Can",
+     "Mercurio": "23°Can",
+     "Venus": "21°Leo",
+     "Marte": "23°Gem",
+     "Júpiter": "22°Can",
+     "Saturno": "24°Leo",
+     "Urano": "1°Pis",
+     "Neptuno": "7°Leo",
+     "Plutón": "6°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Can",
      "oposiciones": []
     }
    },
@@ -105190,6 +107227,45 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "mirari-vos-1832": {
+    "fecha": "1832-08-15",
+    "pos": {
+     "Sol": "22°Leo",
+     "Mercurio": "19°Vir",
+     "Venus": "27°Leo",
+     "Marte": "18°Tau",
+     "Júpiter": "27°Pis",
+     "Saturno": "15°Vir",
+     "Urano": "16°Acu",
+     "Neptuno": "25°Cap",
+     "Plutón": "11°Ari"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     },
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "6°Ari",
+     "oposiciones": []
+    }
+   },
    "morgan-lamont-mussolini": {
     "fecha": "1925-04-13",
     "pos": {
@@ -105250,6 +107326,206 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "muerte-de-lenin-1924": {
+    "fecha": "1924-01-21",
+    "pos": {
+     "Sol": "0°Acu",
+     "Mercurio": "13°Cap",
+     "Venus": "2°Pis",
+     "Marte": "1°Sag",
+     "Júpiter": "12°Sag",
+     "Saturno": "1°Esc",
+     "Urano": "15°Pis",
+     "Neptuno": "19°Leo",
+     "Plutón": "10°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "23°Can",
+     "oposiciones": []
+    }
+   },
+   "mussolini-caballero-de-malta": {
+    "fecha": "1923-04-02",
+    "pos": {
+     "Sol": "11°Ari",
+     "Mercurio": "5°Ari",
+     "Venus": "1°Pis",
+     "Marte": "20°Tau",
+     "Júpiter": "17°Esc",
+     "Saturno": "17°Lib",
+     "Urano": "15°Pis",
+     "Neptuno": "15°Leo",
+     "Plutón": "9°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "oposición",
+      "orbe": 2.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Lib",
+     "oposiciones": []
+    }
+   },
+   "napoleon-ocupa-malta-1798": {
+    "fecha": "1798-06-11",
+    "pos": {
+     "Sol": "20°Gem",
+     "Mercurio": "2°Gem",
+     "Venus": "5°Tau",
+     "Marte": "29°Acu",
+     "Júpiter": "14°Tau",
+     "Saturno": "12°Can",
+     "Urano": "13°Vir",
+     "Neptuno": "10°Esc",
+     "Plutón": "1°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Tau",
+     "oposiciones": []
+    }
+   },
+   "napoleon-ocupa-roma-1798": {
+    "fecha": "1798-02-11",
+    "pos": {
+     "Sol": "23°Acu",
+     "Mercurio": "29°Cap",
+     "Venus": "1°Ari",
+     "Marte": "17°Sag",
+     "Júpiter": "17°Ari",
+     "Saturno": "5°Can",
+     "Urano": "16°Vir",
+     "Neptuno": "12°Esc",
+     "Plutón": "29°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     },
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Cap",
+     "oposiciones": [
+      {
+       "planeta": "Saturno",
+       "orbe": 0.1
+      }
+     ]
+    }
+   },
+   "nssm-200-1974": {
+    "fecha": "1974-04-24",
+    "pos": {
+     "Sol": "3°Tau",
+     "Mercurio": "22°Ari",
+     "Venus": "18°Pis",
+     "Marte": "2°Can",
+     "Júpiter": "10°Pis",
+     "Saturno": "0°Can",
+     "Urano": "25°Lib",
+     "Neptuno": "9°Sag",
+     "Plutón": "4°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Gem",
+     "oposiciones": []
+    }
+   },
    "numero-911-emergencias-1968": {
     "fecha": "1968-02-16",
     "pos": {
@@ -105283,6 +107559,212 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "omne-datum-optimum-1139": {
+    "fecha": "1139-03-29",
+    "pos": {
+     "Sol": "14°Ari",
+     "Mercurio": "26°Pis",
+     "Venus": "28°Tau",
+     "Marte": "26°Gem",
+     "Júpiter": "26°Vir",
+     "Saturno": "18°Acu",
+     "Urano": "9°Esc",
+     "Neptuno": "2°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "11°Pis",
+     "oposiciones": []
+    }
+   },
+   "oms-fundacion-1948": {
+    "fecha": "1948-04-07",
+    "pos": {
+     "Sol": "17°Ari",
+     "Mercurio": "27°Pis",
+     "Venus": "3°Gem",
+     "Marte": "18°Leo",
+     "Júpiter": "28°Sag",
+     "Saturno": "15°Leo",
+     "Urano": "22°Gem",
+     "Neptuno": "11°Lib",
+     "Plutón": "12°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Pis",
+     "oposiciones": []
+    }
+   },
+   "onu": {
+    "fecha": "1945-10-24",
+    "pos": {
+     "Sol": "0°Esc",
+     "Mercurio": "14°Esc",
+     "Venus": "6°Lib",
+     "Marte": "23°Can",
+     "Júpiter": "12°Lib",
+     "Saturno": "24°Can",
+     "Urano": "17°Gem",
+     "Neptuno": "7°Lib",
+     "Plutón": "11°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 0.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Gem",
+     "oposiciones": []
+    }
+   },
+   "origen-de-las-especies": {
+    "fecha": "1859-11-24",
+    "pos": {
+     "Sol": "1°Sag",
+     "Mercurio": "23°Sag",
+     "Venus": "16°Sag",
+     "Marte": "18°Lib",
+     "Júpiter": "25°Can",
+     "Saturno": "25°Leo",
+     "Urano": "5°Gem",
+     "Neptuno": "24°Pis",
+     "Plutón": "7°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Sag",
+     "oposiciones": []
+    }
+   },
+   "otan-1949": {
+    "fecha": "1949-04-04",
+    "pos": {
+     "Sol": "14°Ari",
+     "Mercurio": "5°Ari",
+     "Venus": "11°Ari",
+     "Marte": "10°Ari",
+     "Júpiter": "29°Cap",
+     "Saturno": "29°Leo",
+     "Urano": "26°Gem",
+     "Neptuno": "13°Lib",
+     "Plutón": "14°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "19°Gem",
+     "oposiciones": []
+    }
+   },
+   "pandemia-covid-19": {
+    "fecha": "2020-03-11",
+    "pos": {
+     "Sol": "21°Pis",
+     "Mercurio": "28°Acu",
+     "Venus": "6°Tau",
+     "Marte": "16°Cap",
+     "Júpiter": "21°Cap",
+     "Saturno": "29°Cap",
+     "Urano": "4°Tau",
+     "Neptuno": "18°Pis",
+     "Plutón": "24°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Lib",
+     "oposiciones": []
+    }
+   },
+   "partido-comunista-de-china-1921": {
+    "fecha": "1921-07-31",
+    "pos": {
+     "Sol": "7°Leo",
+     "Mercurio": "18°Can",
+     "Venus": "24°Gem",
+     "Marte": "28°Can",
+     "Júpiter": "18°Vir",
+     "Saturno": "21°Vir",
+     "Urano": "8°Pis",
+     "Neptuno": "13°Leo",
+     "Plutón": "9°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Gem",
+     "oposiciones": []
+    }
+   },
    "patente-tesla-787412": {
     "fecha": "1905-04-18",
     "pos": {
@@ -105307,6 +107789,122 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "12°Lib",
+     "oposiciones": []
+    }
+   },
+   "phi-beta-kappa-1776": {
+    "fecha": "1776-12-05",
+    "pos": {
+     "Sol": "14°Sag",
+     "Mercurio": "29°Esc",
+     "Venus": "13°Cap",
+     "Marte": "24°Vir",
+     "Júpiter": "24°Can",
+     "Saturno": "29°Lib",
+     "Urano": "8°Gem",
+     "Neptuno": "26°Vir",
+     "Plutón": "26°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     },
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.1
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición",
+      "orbe": 2.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "11°Lib",
+     "oposiciones": []
+    }
+   },
+   "privilegios-inmunidad-bpi": {
+    "fecha": "1987-02-10",
+    "pos": {
+     "Sol": "21°Acu",
+     "Mercurio": "9°Pis",
+     "Venus": "6°Cap",
+     "Marte": "23°Ari",
+     "Júpiter": "25°Pis",
+     "Saturno": "19°Sag",
+     "Urano": "25°Sag",
+     "Neptuno": "7°Cap",
+     "Plutón": "9°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Can",
+     "oposiciones": []
+    }
+   },
+   "providas-romanorum-1751": {
+    "fecha": "1751-03-18",
+    "pos": {
+     "Sol": "27°Pis",
+     "Mercurio": "1°Pis",
+     "Venus": "12°Ari",
+     "Marte": "12°Cap",
+     "Júpiter": "6°Tau",
+     "Saturno": "13°Sag",
+     "Urano": "27°Acu",
+     "Neptuno": "27°Can",
+     "Plutón": "6°Sag"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Sag",
      "oposiciones": []
     }
    },
@@ -105335,6 +107933,463 @@ window.CRONO = {
     "luna": {
      "pos": "14°Lib",
      "oposiciones": []
+    }
+   },
+   "reforma-corte-papal-pontificalis-domus": {
+    "fecha": "1968-03-28",
+    "pos": {
+     "Sol": "7°Ari",
+     "Mercurio": "14°Pis",
+     "Venus": "15°Pis",
+     "Marte": "0°Tau",
+     "Júpiter": "26°Leo",
+     "Saturno": "14°Ari",
+     "Urano": "26°Vir",
+     "Neptuno": "26°Esc",
+     "Plutón": "21°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.5
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Ari",
+     "oposiciones": []
+    }
+   },
+   "regnans-in-excelsis-1570": {
+    "fecha": "1570-02-25",
+    "pos": {
+     "Sol": "16°Pis",
+     "Mercurio": "23°Pis",
+     "Venus": "26°Acu",
+     "Marte": "29°Leo",
+     "Júpiter": "6°Acu",
+     "Saturno": "20°Lib",
+     "Urano": "3°Cap",
+     "Neptuno": "18°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "19°Esc",
+     "oposiciones": []
+    }
+   },
+   "rerum-novarum-1891": {
+    "fecha": "1891-05-15",
+    "pos": {
+     "Sol": "24°Tau",
+     "Mercurio": "16°Tau",
+     "Venus": "21°Ari",
+     "Marte": "17°Gem",
+     "Júpiter": "13°Pis",
+     "Saturno": "10°Vir",
+     "Urano": "28°Lib",
+     "Neptuno": "6°Gem",
+     "Plutón": "7°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 1.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "21°Leo",
+     "oposiciones": []
+    }
+   },
+   "revista-nature": {
+    "fecha": "1869-11-04",
+    "pos": {
+     "Sol": "12°Esc",
+     "Mercurio": "23°Lib",
+     "Venus": "25°Sag",
+     "Marte": "12°Sag",
+     "Júpiter": "16°Tau",
+     "Saturno": "15°Sag",
+     "Urano": "21°Can",
+     "Neptuno": "17°Ari",
+     "Plutón": "17°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "19°Esc",
+     "oposiciones": [
+      {
+       "planeta": "Júpiter",
+       "orbe": 2.9
+      },
+      {
+       "planeta": "Plutón",
+       "orbe": 2.3
+      }
+     ]
+    }
+   },
+   "revolucion-cubana": {
+    "fecha": "1953-07-26",
+    "pos": {
+     "Sol": "3°Leo",
+     "Mercurio": "1°Leo",
+     "Venus": "20°Gem",
+     "Marte": "27°Can",
+     "Júpiter": "17°Gem",
+     "Saturno": "21°Lib",
+     "Urano": "19°Can",
+     "Neptuno": "21°Lib",
+     "Plutón": "22°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Acu",
+     "oposiciones": []
+    }
+   },
+   "romanus-pontifex-1455": {
+    "fecha": "1455-01-08",
+    "pos": {
+     "Sol": "27°Cap",
+     "Mercurio": "12°Acu",
+     "Venus": "5°Cap",
+     "Marte": "2°Gem",
+     "Júpiter": "10°Tau",
+     "Saturno": "22°Esc",
+     "Urano": "8°Leo",
+     "Neptuno": "8°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.5
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "20°Vir",
+     "oposiciones": []
+    }
+   },
+   "sagrada-familia-fecha-882": {
+    "fecha": "1882-03-19",
+    "pos": {
+     "Sol": "28°Pis",
+     "Mercurio": "1°Pis",
+     "Venus": "5°Ari",
+     "Marte": "6°Can",
+     "Júpiter": "23°Tau",
+     "Saturno": "9°Tau",
+     "Urano": "15°Vir",
+     "Neptuno": "14°Tau",
+     "Plutón": "27°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "28°Pis",
+     "oposiciones": []
+    }
+   },
+   "saludo-musk-2025": {
+    "fecha": "2025-01-20",
+    "pos": {
+     "Sol": "0°Acu",
+     "Mercurio": "17°Cap",
+     "Venus": "17°Pis",
+     "Marte": "24°Can",
+     "Júpiter": "11°Gem",
+     "Saturno": "16°Pis",
+     "Urano": "23°Tau",
+     "Neptuno": "27°Pis",
+     "Plutón": "1°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Lib",
+     "oposiciones": []
+    }
+   },
+   "sayops-jumilla-torre-pacheco-2025": {
+    "fecha": "2025-07-09",
+    "pos": {
+     "Sol": "17°Can",
+     "Mercurio": "12°Leo",
+     "Venus": "5°Gem",
+     "Marte": "12°Vir",
+     "Júpiter": "6°Can",
+     "Saturno": "1°Ari",
+     "Urano": "0°Gem",
+     "Neptuno": "2°Ari",
+     "Plutón": "2°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.1
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Cap",
+     "oposiciones": []
+    }
+   },
+   "secuestro-hijo-lindbergh-1932": {
+    "fecha": "1932-03-01",
+    "pos": {
+     "Sol": "10°Pis",
+     "Mercurio": "13°Pis",
+     "Venus": "21°Ari",
+     "Marte": "4°Pis",
+     "Júpiter": "14°Leo",
+     "Saturno": "0°Acu",
+     "Urano": "17°Ari",
+     "Neptuno": "6°Vir",
+     "Plutón": "20°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "2°Cap",
+     "oposiciones": []
+    }
+   },
+   "secuestro-pio-vii-1809": {
+    "fecha": "1809-07-06",
+    "pos": {
+     "Sol": "13°Can",
+     "Mercurio": "20°Can",
+     "Venus": "1°Gem",
+     "Marte": "20°Lib",
+     "Júpiter": "22°Ari",
+     "Saturno": "27°Esc",
+     "Urano": "5°Esc",
+     "Neptuno": "4°Sag",
+     "Plutón": "15°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "oposición",
+      "orbe": 1.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Tau",
+     "oposiciones": [
+      {
+       "planeta": "Urano",
+       "orbe": 0.3
+      }
+     ]
+    }
+   },
+   "sistema-reserva-federal": {
+    "fecha": "1913-12-23",
+    "pos": {
+     "Sol": "1°Cap",
+     "Mercurio": "13°Sag",
+     "Venus": "19°Sag",
+     "Marte": "19°Can",
+     "Júpiter": "23°Cap",
+     "Saturno": "13°Gem",
+     "Urano": "5°Acu",
+     "Neptuno": "27°Can",
+     "Plutón": "0°Can"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Esc",
+     "oposiciones": []
+    }
+   },
+   "sitio-jativa-1522-1707": {
+    "fecha": "1707-04-25",
+    "pos": {
+     "Sol": "4°Tau",
+     "Mercurio": "18°Tau",
+     "Venus": "18°Pis",
+     "Marte": "10°Can",
+     "Júpiter": "21°Leo",
+     "Saturno": "2°Gem",
+     "Urano": "9°Leo",
+     "Neptuno": "21°Ari",
+     "Plutón": "20°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.5
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Acu",
+     "oposiciones": [
+      {
+       "planeta": "Urano",
+       "orbe": 1.3
+      }
+     ]
     }
    },
    "sociedad-de-los-peregrinos": {
@@ -105367,6 +108422,90 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "6°Lib",
+     "oposiciones": []
+    }
+   },
+   "sollicitudo-omnium-ecclesiarum-1814": {
+    "fecha": "1814-08-07",
+    "pos": {
+     "Sol": "14°Leo",
+     "Mercurio": "18°Leo",
+     "Venus": "9°Can",
+     "Marte": "22°Leo",
+     "Júpiter": "12°Vir",
+     "Saturno": "26°Cap",
+     "Urano": "28°Esc",
+     "Neptuno": "15°Sag",
+     "Plutón": "21°Pis"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Ari",
+     "oposiciones": []
+    }
+   },
+   "sublimis-deus-1537": {
+    "fecha": "1537-06-02",
+    "pos": {
+     "Sol": "20°Gem",
+     "Mercurio": "16°Gem",
+     "Venus": "5°Leo",
+     "Marte": "17°Tau",
+     "Júpiter": "10°Tau",
+     "Saturno": "1°Vir",
+     "Urano": "29°Can",
+     "Neptuno": "9°Ari"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "14°Ari",
+     "oposiciones": []
+    }
+   },
+   "summis-desiderantes-1484": {
+    "fecha": "1484-12-05",
+    "pos": {
+     "Sol": "23°Sag",
+     "Mercurio": "17°Sag",
+     "Venus": "11°Esc",
+     "Marte": "26°Ari",
+     "Júpiter": "26°Esc",
+     "Saturno": "25°Esc",
+     "Urano": "24°Sag",
+     "Neptuno": "12°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 1.7
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "29°Can",
      "oposiciones": []
     }
    },
@@ -105450,6 +108589,522 @@ window.CRONO = {
      "pos": "2°Can",
      "oposiciones": []
     }
+   },
+   "toma-de-berlin-1945": {
+    "fecha": "1945-05-08",
+    "pos": {
+     "Sol": "17°Tau",
+     "Mercurio": "21°Ari",
+     "Venus": "17°Ari",
+     "Marte": "4°Ari",
+     "Júpiter": "17°Vir",
+     "Saturno": "7°Can",
+     "Urano": "11°Gem",
+     "Neptuno": "4°Lib",
+     "Plutón": "7°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     },
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Ari",
+     "oposiciones": []
+    }
+   },
+   "toma-de-kazan-1552": {
+    "fecha": "1552-10-02",
+    "pos": {
+     "Sol": "19°Lib",
+     "Mercurio": "12°Esc",
+     "Venus": "18°Lib",
+     "Marte": "0°Leo",
+     "Júpiter": "28°Leo",
+     "Saturno": "27°Acu",
+     "Urano": "13°Lib",
+     "Neptuno": "12°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.5
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "17°Ari",
+     "oposiciones": []
+    }
+   },
+   "tratado-de-paris-1783": {
+    "fecha": "1783-09-03",
+    "pos": {
+     "Sol": "10°Vir",
+     "Mercurio": "23°Vir",
+     "Venus": "24°Lib",
+     "Marte": "14°Ari",
+     "Júpiter": "22°Cap",
+     "Saturno": "5°Cap",
+     "Urano": "11°Can",
+     "Neptuno": "8°Lib",
+     "Plutón": "8°Acu"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "0°Sag",
+     "oposiciones": []
+    }
+   },
+   "tratado-de-versalles": {
+    "fecha": "1919-06-28",
+    "pos": {
+     "Sol": "5°Can",
+     "Mercurio": "23°Can",
+     "Venus": "21°Leo",
+     "Marte": "23°Gem",
+     "Júpiter": "22°Can",
+     "Saturno": "24°Leo",
+     "Urano": "1°Pis",
+     "Neptuno": "7°Leo",
+     "Plutón": "6°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Can",
+     "oposiciones": []
+    }
+   },
+   "uicn-fundacion-1948": {
+    "fecha": "1948-10-05",
+    "pos": {
+     "Sol": "12°Lib",
+     "Mercurio": "5°Esc",
+     "Venus": "28°Leo",
+     "Marte": "21°Esc",
+     "Júpiter": "22°Sag",
+     "Saturno": "1°Vir",
+     "Urano": "0°Can",
+     "Neptuno": "12°Lib",
+     "Plutón": "16°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "18°Esc",
+     "oposiciones": []
+    }
+   },
+   "uit-itu-1865": {
+    "fecha": "1865-05-17",
+    "pos": {
+     "Sol": "26°Tau",
+     "Mercurio": "7°Tau",
+     "Venus": "12°Tau",
+     "Marte": "25°Can",
+     "Júpiter": "27°Sag",
+     "Saturno": "24°Lib",
+     "Urano": "27°Gem",
+     "Neptuno": "9°Ari",
+     "Plutón": "13°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 0.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Acu",
+     "oposiciones": []
+    }
+   },
+   "unam-sanctam-1302": {
+    "fecha": "1302-11-18",
+    "pos": {
+     "Sol": "3°Sag",
+     "Mercurio": "13°Esc",
+     "Venus": "21°Lib",
+     "Marte": "11°Vir",
+     "Júpiter": "2°Leo",
+     "Saturno": "24°Vir",
+     "Urano": "22°Lib",
+     "Neptuno": "3°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "9°Esc",
+     "oposiciones": []
+    }
+   },
+   "unesco-fundacion-1946": {
+    "fecha": "1946-11-04",
+    "pos": {
+     "Sol": "11°Esc",
+     "Mercurio": "4°Sag",
+     "Venus": "1°Sag",
+     "Marte": "28°Esc",
+     "Júpiter": "8°Esc",
+     "Saturno": "8°Leo",
+     "Urano": "21°Gem",
+     "Neptuno": "9°Lib",
+     "Plutón": "13°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Pis",
+     "oposiciones": []
+    }
+   },
+   "union-sovietica": {
+    "fecha": "1922-12-30",
+    "pos": {
+     "Sol": "8°Cap",
+     "Mercurio": "21°Cap",
+     "Venus": "28°Esc",
+     "Marte": "13°Pis",
+     "Júpiter": "12°Esc",
+     "Saturno": "19°Lib",
+     "Urano": "10°Pis",
+     "Neptuno": "17°Leo",
+     "Plutón": "10°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Tau",
+     "oposiciones": []
+    }
+   },
+   "universidad-harvard": {
+    "fecha": "1636-10-28",
+    "pos": {
+     "Sol": "5°Esc",
+     "Mercurio": "24°Esc",
+     "Venus": "25°Vir",
+     "Marte": "7°Cap",
+     "Júpiter": "26°Vir",
+     "Saturno": "9°Cap",
+     "Urano": "15°Lib",
+     "Neptuno": "15°Esc",
+     "Plutón": "27°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 1.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Esc",
+     "oposiciones": []
+    }
+   },
+   "universidad-johns-hopkins-1876": {
+    "fecha": "1876-02-22",
+    "pos": {
+     "Sol": "3°Pis",
+     "Mercurio": "15°Acu",
+     "Venus": "9°Ari",
+     "Marte": "26°Ari",
+     "Júpiter": "1°Sag",
+     "Saturno": "29°Acu",
+     "Urano": "17°Leo",
+     "Neptuno": "0°Tau",
+     "Plutón": "21°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "1°Acu",
+     "oposiciones": []
+    }
+   },
+   "visita-uss-enterprise-napoles-2018": {
+    "fecha": "2018-11-05",
+    "pos": {
+     "Sol": "13°Esc",
+     "Mercurio": "6°Sag",
+     "Venus": "27°Lib",
+     "Marte": "23°Acu",
+     "Júpiter": "29°Esc",
+     "Saturno": "5°Cap",
+     "Urano": "0°Tau",
+     "Neptuno": "13°Pis",
+     "Plutón": "19°Cap"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Lib",
+     "oposiciones": []
+    }
+   },
+   "vix-pervenit-1745": {
+    "fecha": "1745-11-01",
+    "pos": {
+     "Sol": "9°Esc",
+     "Mercurio": "26°Lib",
+     "Venus": "3°Lib",
+     "Marte": "27°Sag",
+     "Júpiter": "21°Esc",
+     "Saturno": "9°Lib",
+     "Urano": "1°Acu",
+     "Neptuno": "18°Can",
+     "Plutón": "21°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Acu",
+     "oposiciones": []
+    }
+   },
+   "volksempfaenger-1933": {
+    "fecha": "1933-08-18",
+    "pos": {
+     "Sol": "25°Leo",
+     "Mercurio": "6°Leo",
+     "Venus": "26°Vir",
+     "Marte": "25°Lib",
+     "Júpiter": "25°Vir",
+     "Saturno": "12°Acu",
+     "Urano": "27°Ari",
+     "Neptuno": "9°Vir",
+     "Plutón": "23°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.2
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "23°Can",
+     "oposiciones": []
+    }
+   },
+   "vox-in-excelso-1312": {
+    "fecha": "1312-03-22",
+    "pos": {
+     "Sol": "9°Ari",
+     "Mercurio": "18°Ari",
+     "Venus": "13°Pis",
+     "Marte": "20°Gem",
+     "Júpiter": "0°Tau",
+     "Saturno": "10°Cap",
+     "Urano": "4°Sag",
+     "Neptuno": "23°Esc"
+    },
+    "aspectos": [],
+    "sin_pluton": true,
+    "luna": {
+     "pos": "21°Vir",
+     "oposiciones": []
+    }
+   },
+   "wwf-fundacion-1961": {
+    "fecha": "1961-04-29",
+    "pos": {
+     "Sol": "8°Tau",
+     "Mercurio": "6°Tau",
+     "Venus": "12°Ari",
+     "Marte": "26°Can",
+     "Júpiter": "6°Acu",
+     "Saturno": "29°Cap",
+     "Urano": "21°Leo",
+     "Neptuno": "9°Esc",
+     "Plutón": "5°Vir"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "23°Lib",
+     "oposiciones": []
+    }
    }
   },
   "paralelos": [
@@ -105457,27 +109112,30 @@ window.CRONO = {
     "id": "PAR-001",
     "titulo": "Saturno-Plutón en los hechos con día exacto",
     "pregunta": "¿Caen los hechos fechados al día más a menudo en un aspecto duro de Saturno y Plutón (conjunción, cuadratura u oposición, orbe 3°) que un día cualquiera?",
-    "n": 37,
-    "aciertos": 3,
-    "esperado": 2.5,
-    "porc_hechos": 8.1,
+    "n": 99,
+    "aciertos": 6,
+    "esperado": 6.6,
+    "porc_hechos": 6.1,
     "porc_azar": 6.6,
     "hechos": [
      "atentado-wtc-1993",
+     "atentados-11s",
      "bush-escuela-sarasota-2001",
+     "dictadura-militar-chile",
+     "guerra-de-afganistan-2001",
      "hundimiento-del-maine-1898"
     ],
     "lectura": "Observación, no prueba: la diferencia con el azar es pequeña y la muestra está sesgada (sobre todo atentados fechados al día).",
-    "razon": 1.23
+    "razon": 0.92
    },
    {
     "id": "PAR-002",
     "titulo": "Ciclo largo Saturno-Plutón y hechos fechados por año",
     "pregunta": "¿Caen los hechos de Wexipedia (1800-2026) más a menudo en los años con aspecto duro de Saturno y Plutón (orbe 6°) que un año cualquiera?",
-    "n": 313,
-    "aciertos": 94,
-    "esperado": 99.3,
-    "porc_hechos": 30.0,
+    "n": 421,
+    "aciertos": 132,
+    "esperado": 133.5,
+    "porc_hechos": 31.4,
     "porc_azar": 31.7,
     "hechos": [
      "america-first-movimiento",
@@ -105489,6 +109147,7 @@ window.CRONO = {
      "atentados-bali-2002",
      "banco-pagos-internacionales",
      "bayer-heroina-1898",
+     "biopatia-del-cancer-1948",
      "bloques-de-la-primera-guerra-mundial",
      "boda-jean-christophe-napoleon-olimpia-2019",
      "bpi-reichsbank-guerra-mundial",
@@ -105498,11 +109157,20 @@ window.CRONO = {
      "canal-troncos-schauberger",
      "centro-internacional-de-cabala",
      "cimatica-hans-jenny",
+     "college-holy-cross-1843",
+     "conjuncion-jupiter-saturno-2020",
      "consejo-de-seguridad-estadounidense",
+     "consejo-mundial-de-la-energia-1923",
+     "consejo-relaciones-exteriores",
+     "corte-penal-internacional-2002",
      "cowan-cancer-potencial-agua",
+     "csic-1939",
      "cuatro-imperios-1914",
      "declaracion-derechos-humanos",
      "decretos-proclericales-fascismo-1922",
+     "dictadura-franquista",
+     "dictadura-militar-chile",
+     "dictadura-primo-de-rivera",
      "ecat-rossi",
      "efecto-casimir",
      "entrevista-stalin-emil-ludwig-1931",
@@ -105516,10 +109184,17 @@ window.CRONO = {
      "expulsion-jesuitas-rusia-1820",
      "fabianismo",
      "familia-gambino",
+     "fundacion-bill-y-melinda-gates-1994",
      "gates-vacunas-poblacion-2010",
+     "guerra-de-afganistan-2001",
      "guerra-de-irak",
+     "guerra-de-los-seis-dias-1967",
+     "guerra-de-vietnam",
+     "guerras-napoleonicas",
+     "humanum-genus-1884",
      "hundimiento-del-maine-1898",
      "iglesia-de-satan",
+     "imperio-austrohungaro-1867",
      "incendio-primer-goetheanum-1922",
      "informe-iron-mountain-1967",
      "instituto-tavistock",
@@ -105528,11 +109203,14 @@ window.CRONO = {
      "kolkhoz-modelo-reducciones-jesuitas",
      "legion-de-honor",
      "lenin-readmite-jesuitas-1922",
+     "les-savants-maudits-lance",
      "libro-bechamp-or-pasteur",
      "lock-step-rockefeller-2010",
      "lockdown-files-2020",
      "masoneria-italiana-1908",
+     "memorando-cia-1967",
      "montagnier-adn",
+     "movimiento-scout-1907",
      "movimiento-sionista",
      "movimiento-social-italiano",
      "muerte-bin-laden-2011",
@@ -105541,9 +109219,14 @@ window.CRONO = {
      "mussolini-titere-del-vaticano",
      "naturaleza-enlace-quimico-pauling",
      "new-world-order-wells-1940",
+     "nftc-1914",
      "nssm-200-1974",
+     "nueva-ciencia-de-la-vida-1981",
+     "ocde-1948",
+     "omi-imo-1948",
      "oms-fundacion-1948",
      "oms-pandemias-gripe-a-ebola-zika",
+     "omt-unwto",
      "operacion-barbarroja-1941",
      "operacion-condor",
      "operacion-gladio",
@@ -105553,75 +109236,232 @@ window.CRONO = {
      "pacto-germano-sovietico-1939",
      "palantir",
      "pandemia-covid-19",
+     "partido-comunista-de-china-1921",
      "pasteur-gusano-de-seda",
      "pentagono",
+     "petrodolar",
      "pistola-de-gavrilo-princip",
+     "piweir-imemo-1956",
      "postulados-de-koch-1884",
      "potencial-transferido-grinberg",
      "primera-guerra-mundial",
      "proton-21-mct",
      "quema-libros-reich",
      "reconstruccion-santo-sepulcro-1810",
+     "reichsbank-1876",
+     "rerum-novarum-1891",
      "rosetta-confiscada-1801",
+     "ruptura-reich-psicoanalisis",
      "sagrada-familia-fecha-882",
      "salvamento-banco-de-roma-1922",
      "secuestro-hijo-lindbergh-1932",
      "secuestro-pio-vii-1809",
      "segunda-guerra-mundial",
+     "society-for-scientific-exploration",
      "the-lone-gunmen-piloto-2001",
      "transistor",
      "uicn-fundacion-1948",
+     "uit-itu-1865",
      "unesco-fundacion-1946",
+     "unicef-1946",
      "unificacion-italiana",
+     "union-interparlamentaria-1889",
+     "union-sovietica",
+     "universidad-johns-hopkins-1876",
+     "universidad-pontificia-comillas-1890",
      "world-trade-center"
     ],
     "lectura": "Observación, no prueba. Los autores no reparten sus hechos por igual en el tiempo (hay más en ciertas décadas), y eso solo ya puede subir o bajar el porcentaje.",
-    "razon": 0.95
+    "razon": 0.99
    },
    {
     "id": "PAR-003",
     "titulo": "Naturaleza de las estrellas y hechos con día exacto",
     "pregunta": "¿Tienen los hechos fechados al día, más a menudo que un día cualquiera, un planeta a menos de 1° de una estrella fija de su misma naturaleza, según Robson?",
-    "n": 41,
-    "aciertos": 13,
-    "esperado": 14.7,
-    "porc_hechos": 31.7,
-    "porc_azar": 35.8,
+    "n": 138,
+    "aciertos": 53,
+    "esperado": 50.7,
+    "porc_hechos": 38.4,
+    "porc_azar": 36.7,
     "hechos": [
+     "acnur-1950",
+     "agenda-2030",
+     "atentado-bolonia-1980",
+     "atentado-de-sarajevo",
      "atentado-wtc-1993",
      "boda-jean-christophe-napoleon-olimpia-2019",
-     "embajadas-preste-juan-1486",
+     "bretton-woods-1944",
+     "clericis-laicos-1296",
+     "colon-1492-colonizacion-hordiana",
+     "comision-bergier",
+     "comision-warren-zapruder-1964",
+     "congreso-iberico-astrologia-vigo-2016",
+     "dictadura-primo-de-rivera",
+     "ecclesiam-a-jesu-christo-1821",
      "estado-de-israel",
      "estatua-de-la-libertad-pedestal-1884",
      "evento-201-2019",
+     "expulsion-jesuitas-1767",
+     "exsurge-domine-1520",
      "festival-altamont-1969",
+     "guerra-de-afganistan-2001",
      "guerra-de-los-mundos-radio-1938",
+     "guerra-franco-prusiana",
+     "guerra-iran-2026",
+     "huida-hitler-argentina",
      "incendio-primer-goetheanum-1922",
+     "laudate-deum-2023",
      "legion-de-honor",
+     "liga-de-naciones-1919",
+     "muerte-de-lenin-1924",
+     "mussolini-caballero-de-malta",
      "numero-911-emergencias-1968",
+     "omne-datum-optimum-1139",
+     "onu",
+     "origen-de-las-especies",
+     "partido-comunista-de-china-1921",
+     "providas-romanorum-1751",
+     "regnans-in-excelsis-1570",
+     "sagrada-familia-fecha-882",
+     "secuestro-pio-vii-1809",
+     "sitio-jativa-1522-1707",
      "sociedad-de-los-peregrinos",
-     "the-lone-gunmen-piloto-2001"
+     "sublimis-deus-1537",
+     "summis-desiderantes-1484",
+     "the-lone-gunmen-piloto-2001",
+     "toma-de-kazan-1552",
+     "tratado-de-versalles",
+     "uicn-fundacion-1948",
+     "unesco-fundacion-1946",
+     "union-sovietica",
+     "visita-uss-enterprise-napoles-2018",
+     "vix-pervenit-1745",
+     "vox-in-excelso-1312"
     ],
     "detalle": {
-     "estrellas_que_cuentan": 46,
+     "estrellas_que_cuentan": 47,
      "ventana_azar": "1885-2026",
      "dias_azar": 20000,
-     "dias_azar_con_coincidencia": 7151,
-     "p_una_cola": 0.756,
+     "dias_azar_con_coincidencia": 7349,
+     "p_una_cola": 0.373,
      "desde_1885": {
       "nombre": "hechos de 1885 a 2026",
-      "n": 35,
-      "aciertos": 10,
-      "porc": 28.6,
-      "esperado": 12.5,
-      "p_una_cola": 0.857
+      "n": 85,
+      "aciertos": 33,
+      "porc": 38.8,
+      "esperado": 31.2,
+      "p_una_cola": 0.384
      }
     },
-    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 10 de 35 (28,6 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
-    "razon": 0.89
+    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 33 de 85 (38,8 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
+    "razon": 1.05
    }
   ],
   "anios": {
+   "-2140": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Vir",
+     "Urano": "Vir",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "2°Ari",
+     "Saturno": "11°Vir",
+     "Urano": "11°Vir",
+     "Neptuno": "21°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "-2133": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Sag",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "1°Sag",
+     "Urano": "12°Lib",
+     "Neptuno": "6°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "-2131": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Sag",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "17°Sag",
+     "Saturno": "26°Sag",
+     "Urano": "21°Lib",
+     "Neptuno": "11°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
    "-2000": {
     "pos": {
      "Júpiter": "Cap",
@@ -107436,6 +111276,421 @@ window.CRONO = {
      }
     ]
    },
+   "-210": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Ari",
+     "Urano": "Vir",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Sag",
+     "Saturno": "18°Ari",
+     "Urano": "27°Vir",
+     "Neptuno": "5°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "-203": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Can",
+     "Urano": "Lib",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "29°Can",
+     "Saturno": "16°Can",
+     "Urano": "29°Lib",
+     "Neptuno": "20°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "-201": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Leo",
+     "Urano": "Esc",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "19°Vir",
+     "Saturno": "10°Leo",
+     "Urano": "8°Esc",
+     "Neptuno": "24°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "-50": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Vir",
+     "Urano": "Leo",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "2°Can",
+     "Saturno": "23°Vir",
+     "Urano": "22°Leo",
+     "Neptuno": "27°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "-43": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Sag",
+     "Urano": "Vir",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Acu",
+     "Saturno": "14°Sag",
+     "Urano": "24°Vir",
+     "Neptuno": "12°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "-41": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Cap",
+     "Urano": "Lib",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "9°Cap",
+     "Urano": "3°Lib",
+     "Neptuno": "16°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "-10": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Cap",
+     "Urano": "Acu",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "26°Lib",
+     "Saturno": "29°Cap",
+     "Urano": "19°Acu",
+     "Neptuno": "23°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 2.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 3.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "-3": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Tau",
+     "Urano": "Pis",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "21°Gem",
+     "Saturno": "1°Tau",
+     "Urano": "17°Pis",
+     "Neptuno": "9°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "-1": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Tau",
+     "Urano": "Pis",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Leo",
+     "Saturno": "27°Tau",
+     "Urano": "25°Pis",
+     "Neptuno": "13°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
    "30": {
     "pos": {
      "Júpiter": "Ari",
@@ -107625,6 +111880,283 @@ window.CRONO = {
      }
     ]
    },
+   "60": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Gem",
+     "Urano": "Sag",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "24°Vir",
+     "Saturno": "24°Gem",
+     "Urano": "21°Sag",
+     "Neptuno": "1°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura",
+      "orbe": 0.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "64": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Leo",
+     "Urano": "Cap",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "11°Acu",
+     "Saturno": "12°Leo",
+     "Urano": "8°Cap",
+     "Neptuno": "9°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "69": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Lib",
+     "Urano": "Cap",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Can",
+     "Saturno": "9°Lib",
+     "Urano": "29°Cap",
+     "Neptuno": "21°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "100": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Lib",
+     "Urano": "Gem",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Acu",
+     "Saturno": "27°Lib",
+     "Urano": "6°Gem",
+     "Neptuno": "28°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 0.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "109": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Acu",
+     "Urano": "Can",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Esc",
+     "Saturno": "17°Acu",
+     "Urano": "14°Can",
+     "Neptuno": "17°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
    "120": {
     "pos": {
      "Júpiter": "Lib",
@@ -107697,6 +112229,86 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Urano",
       "aspecto": "conjunción"
+     }
+    ]
+   },
+   "170": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Pis",
+     "Urano": "Ari",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Cap",
+     "Saturno": "15°Pis",
+     "Urano": "9°Ari",
+     "Neptuno": "29°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "179": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Can",
+     "Urano": "Tau",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "5°Lib",
+     "Saturno": "11°Can",
+     "Urano": "16°Tau",
+     "Neptuno": "19°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
      }
     ]
    },
@@ -107828,6 +112440,319 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Urano",
       "aspecto": "sextil"
+     }
+    ]
+   },
+   "270": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "29°Gem",
+     "Saturno": "13°Leo",
+     "Urano": "16°Gem",
+     "Neptuno": "12°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "274": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Can",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Lib",
+     "Saturno": "29°Vir",
+     "Urano": "3°Can",
+     "Neptuno": "20°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "279": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Ari",
+     "Saturno": "26°Esc",
+     "Urano": "25°Can",
+     "Neptuno": "1°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "320": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Ari",
+     "Urano": "Cap",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "2°Vir",
+     "Saturno": "24°Ari",
+     "Urano": "28°Cap",
+     "Neptuno": "29°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.8
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "324": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "6°Cap",
+     "Saturno": "15°Gem",
+     "Urano": "15°Acu",
+     "Neptuno": "8°Esc",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "325": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Acu",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "16°Acu",
+     "Saturno": "28°Gem",
+     "Urano": "19°Acu",
+     "Neptuno": "10°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "329": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Leo",
+     "Urano": "Pis",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "22°Gem",
+     "Saturno": "15°Leo",
+     "Urano": "5°Pis",
+     "Neptuno": "19°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
      }
     ]
    },
@@ -108119,6 +113044,200 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "trígono"
+     }
+    ]
+   },
+   "560": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Gem",
+     "Urano": "Sag",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "24°Esc",
+     "Saturno": "22°Gem",
+     "Urano": "9°Sag",
+     "Neptuno": "20°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "569": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Lib",
+     "Urano": "Cap",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Vir",
+     "Saturno": "8°Lib",
+     "Urano": "19°Cap",
+     "Neptuno": "10°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "590": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Gem",
+     "Urano": "Ari",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "26°Gem",
+     "Saturno": "29°Gem",
+     "Urano": "14°Ari",
+     "Neptuno": "26°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "599": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Lib",
+     "Urano": "Tau",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "3°Ari",
+     "Saturno": "14°Lib",
+     "Urano": "21°Tau",
+     "Neptuno": "15°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
      }
     ]
    },
@@ -108690,6 +113809,45 @@ window.CRONO = {
      }
     ]
    },
+   "756": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Acu",
+     "Urano": "Ari",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "27°Gem",
+     "Saturno": "12°Acu",
+     "Urano": "8°Ari",
+     "Neptuno": "1°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
    "759": {
     "pos": {
      "Júpiter": "Vir",
@@ -108726,6 +113884,837 @@ window.CRONO = {
       "a": "Urano",
       "b": "Neptuno",
       "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "760": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Ari",
+     "Urano": "Ari",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "7°Lib",
+     "Saturno": "4°Ari",
+     "Urano": "24°Ari",
+     "Neptuno": "10°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "768": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Can",
+     "Urano": "Tau",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Can",
+     "Saturno": "15°Can",
+     "Urano": "27°Tau",
+     "Neptuno": "27°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "769": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Can",
+     "Urano": "Gem",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Can",
+     "Saturno": "27°Can",
+     "Urano": "1°Gem",
+     "Neptuno": "29°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.5
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "770": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Leo",
+     "Urano": "Gem",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Leo",
+     "Saturno": "9°Leo",
+     "Urano": "5°Gem",
+     "Neptuno": "1°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "772": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "11°Lib",
+     "Saturno": "3°Vir",
+     "Urano": "13°Gem",
+     "Neptuno": "5°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "773": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Vir",
+     "Urano": "Gem",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "11°Esc",
+     "Saturno": "14°Vir",
+     "Urano": "18°Gem",
+     "Neptuno": "7°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "778": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Tau",
+     "Saturno": "12°Esc",
+     "Urano": "9°Can",
+     "Neptuno": "18°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "779": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Esc",
+     "Urano": "Can",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Gem",
+     "Saturno": "24°Esc",
+     "Urano": "13°Can",
+     "Neptuno": "20°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "780": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Sag",
+     "Urano": "Can",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "4°Can",
+     "Saturno": "5°Sag",
+     "Urano": "17°Can",
+     "Neptuno": "22°Leo",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "782": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Sag",
+     "Urano": "Can",
+     "Neptuno": "Leo",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Leo",
+     "Saturno": "29°Sag",
+     "Urano": "26°Can",
+     "Neptuno": "27°Leo",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "788": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "8°Pis",
+     "Saturno": "15°Pis",
+     "Urano": "23°Leo",
+     "Neptuno": "9°Vir",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "789": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Pis",
+     "Urano": "Leo",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Ari",
+     "Saturno": "28°Pis",
+     "Urano": "27°Leo",
+     "Neptuno": "11°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "800": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Leo",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Pis",
+     "Saturno": "16°Leo",
+     "Urano": "18°Lib",
+     "Neptuno": "5°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "801": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Leo",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "18°Ari",
+     "Saturno": "28°Leo",
+     "Urano": "22°Lib",
+     "Neptuno": "7°Lib",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "802": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "19°Tau",
+     "Saturno": "9°Vir",
+     "Urano": "27°Lib",
+     "Neptuno": "9°Lib",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "806": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Lib",
+     "Urano": "Esc",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Vir",
+     "Saturno": "25°Lib",
+     "Urano": "15°Esc",
+     "Neptuno": "18°Lib",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "809": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Sag",
+     "Urano": "Esc",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Esc",
+     "Saturno": "0°Sag",
+     "Urano": "29°Esc",
+     "Neptuno": "25°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 1.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "810": {
+    "pos": {
+     "Júpiter": "Cap",
+     "Saturno": "Sag",
+     "Urano": "Sag",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Cap",
+     "Saturno": "12°Sag",
+     "Urano": "3°Sag",
+     "Neptuno": "27°Lib",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "814": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Acu",
+     "Urano": "Sag",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "23°Tau",
+     "Saturno": "1°Acu",
+     "Urano": "21°Sag",
+     "Neptuno": "6°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "819": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Ari",
+     "Urano": "Cap",
+     "Neptuno": "Esc",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Lib",
+     "Saturno": "5°Ari",
+     "Urano": "13°Cap",
+     "Neptuno": "17°Esc",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
      }
     ]
    },
@@ -108823,6 +114812,47 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "904": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Acu",
+     "Urano": "Cap",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "0°Sag",
+     "Saturno": "23°Acu",
+     "Urano": "18°Cap",
+     "Neptuno": "27°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
      },
      {
       "a": "Urano",
@@ -109159,6 +115189,142 @@ window.CRONO = {
       "a": "Urano",
       "b": "Neptuno",
       "aspecto": "oposición"
+     }
+    ]
+   },
+   "1060": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Gem",
+     "Urano": "Esc",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Acu",
+     "Saturno": "18°Gem",
+     "Urano": "28°Esc",
+     "Neptuno": "10°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1066": {
+    "pos": {
+     "Júpiter": "Leo",
+     "Saturno": "Vir",
+     "Urano": "Sag",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "10°Leo",
+     "Saturno": "0°Vir",
+     "Urano": "24°Sag",
+     "Neptuno": "23°Tau",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1069": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Lib",
+     "Urano": "Cap",
+     "Neptuno": "Gem",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "28°Lib",
+     "Saturno": "5°Lib",
+     "Urano": "7°Cap",
+     "Neptuno": "0°Gem",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
      }
     ]
    },
@@ -109611,6 +115777,40 @@ window.CRONO = {
      }
     ]
    },
+   "1155": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Vir",
+     "Urano": "Cap",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Acu",
+     "Saturno": "9°Vir",
+     "Urano": "17°Cap",
+     "Neptuno": "6°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
    "1157": {
     "pos": {
      "Júpiter": "Ari",
@@ -110052,6 +116252,45 @@ window.CRONO = {
      }
     ]
    },
+   "1184": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Vir",
+     "Urano": "Tau",
+     "Neptuno": "Acu",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "5°Vir",
+     "Urano": "15°Tau",
+     "Neptuno": "11°Acu",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     }
+    ]
+   },
    "1185": {
     "pos": {
      "Júpiter": "Leo",
@@ -110451,6 +116690,68 @@ window.CRONO = {
      }
     ]
    },
+   "1218": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Lib",
+     "Urano": "Lib",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "16°Gem",
+     "Saturno": "28°Lib",
+     "Urano": "14°Lib",
+     "Neptuno": "28°Ari",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     }
+    ]
+   },
    "1219": {
     "pos": {
      "Júpiter": "Can",
@@ -110618,6 +116919,130 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "sextil"
+     }
+    ]
+   },
+   "1250": {
+    "pos": {
+     "Júpiter": "Acu",
+     "Saturno": "Esc",
+     "Urano": "Pis",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "20°Acu",
+     "Saturno": "28°Esc",
+     "Urano": "4°Pis",
+     "Neptuno": "7°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1252": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Sag",
+     "Urano": "Pis",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "1°Tau",
+     "Saturno": "22°Sag",
+     "Urano": "12°Pis",
+     "Neptuno": "12°Can",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.4
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1259": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Pis",
+     "Urano": "Ari",
+     "Neptuno": "Can",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "7°Esc",
+     "Saturno": "20°Pis",
+     "Urano": "10°Ari",
+     "Neptuno": "27°Can",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
      }
     ]
    },
@@ -110901,6 +117326,45 @@ window.CRONO = {
       "a": "Urano",
       "b": "Neptuno",
       "aspecto": "sextil"
+     }
+    ]
+   },
+   "1277": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Esc",
+     "Urano": "Gem",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "9°Gem",
+     "Saturno": "0°Esc",
+     "Urano": "23°Gem",
+     "Neptuno": "5°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
      }
     ]
    },
@@ -111377,6 +117841,52 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1302": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Vir",
+     "Urano": "Lib",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "12°Can",
+     "Saturno": "9°Vir",
+     "Urano": "15°Lib",
+     "Neptuno": "29°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.3
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
      },
      {
       "a": "Urano",
@@ -112848,6 +119358,45 @@ window.CRONO = {
      }
     ]
    },
+   "1452": {
+    "pos": {
+     "Júpiter": "Pis",
+     "Saturno": "Lib",
+     "Urano": "Can",
+     "Neptuno": "Vir",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "6°Pis",
+     "Saturno": "12°Lib",
+     "Urano": "25°Can",
+     "Neptuno": "29°Vir",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
    "1453": {
     "pos": {
      "Júpiter": "Ari",
@@ -112896,6 +119445,52 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "conjunción"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
+   "1455": {
+    "pos": {
+     "Júpiter": "Gem",
+     "Saturno": "Esc",
+     "Urano": "Leo",
+     "Neptuno": "Lib",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "13°Gem",
+     "Saturno": "17°Esc",
+     "Urano": "8°Leo",
+     "Neptuno": "6°Lib",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
      },
      {
       "a": "Urano",
@@ -113357,6 +119952,40 @@ window.CRONO = {
      "Saturno": "0°Esc",
      "Urano": "16°Sag",
      "Neptuno": "7°Sag",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     }
+    ]
+   },
+   "1484": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Esc",
+     "Urano": "Sag",
+     "Neptuno": "Sag",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "29°Lib",
+     "Saturno": "12°Esc",
+     "Urano": "21°Sag",
+     "Neptuno": "9°Sag",
      "Plutón": null
     },
     "aspectos": [],
@@ -114136,6 +120765,52 @@ window.CRONO = {
      }
     ]
    },
+   "1521": {
+    "pos": {
+     "Júpiter": "Sag",
+     "Saturno": "Acu",
+     "Urano": "Tau",
+     "Neptuno": "Pis",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Sag",
+     "Saturno": "13°Acu",
+     "Urano": "23°Tau",
+     "Neptuno": "3°Pis",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.5
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     }
+    ]
+   },
    "1524": {
     "pos": {
      "Júpiter": "Ari",
@@ -114463,6 +121138,40 @@ window.CRONO = {
       "a": "Urano",
       "b": "Neptuno",
       "aspecto": "cuadratura"
+     }
+    ]
+   },
+   "1537": {
+    "pos": {
+     "Júpiter": "Tau",
+     "Saturno": "Vir",
+     "Urano": "Leo",
+     "Neptuno": "Ari",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "15°Tau",
+     "Saturno": "3°Vir",
+     "Urano": "1°Leo",
+     "Neptuno": "9°Ari",
+     "Plutón": null
+    },
+    "aspectos": [],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
      }
     ]
    },
@@ -115020,6 +121729,47 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Neptuno",
       "aspecto": "sextil"
+     }
+    ]
+   },
+   "1555": {
+    "pos": {
+     "Júpiter": "Lib",
+     "Saturno": "Ari",
+     "Urano": "Lib",
+     "Neptuno": "Tau",
+     "Plutón": null
+    },
+    "grados": {
+     "Júpiter": "25°Lib",
+     "Saturno": "11°Ari",
+     "Urano": "22°Lib",
+     "Neptuno": "19°Tau",
+     "Plutón": null
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.6
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
      }
     ]
    },
@@ -117494,6 +124244,67 @@ window.CRONO = {
       "a": "Saturno",
       "b": "Urano",
       "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     }
+    ]
+   },
+   "1636": {
+    "pos": {
+     "Júpiter": "Vir",
+     "Saturno": "Cap",
+     "Urano": "Lib",
+     "Neptuno": "Esc",
+     "Plutón": "Tau"
+    },
+    "grados": {
+     "Júpiter": "1°Vir",
+     "Saturno": "10°Cap",
+     "Urano": "9°Lib",
+     "Neptuno": "14°Esc",
+     "Plutón": "28°Tau"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.9
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
      },
      {
       "a": "Neptuno",
@@ -120198,6 +127009,89 @@ window.CRONO = {
      }
     ]
    },
+   "1738": {
+    "pos": {
+     "Júpiter": "Ari",
+     "Saturno": "Can",
+     "Urano": "Cap",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "26°Ari",
+     "Saturno": "0°Can",
+     "Urano": "4°Cap",
+     "Neptuno": "0°Can",
+     "Plutón": "0°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.1
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.1
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
    "1739": {
     "pos": {
      "Júpiter": "Tau",
@@ -120538,6 +127432,72 @@ window.CRONO = {
       "a": "Urano",
       "b": "Plutón",
       "aspecto": "sextil"
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "trígono"
+     }
+    ]
+   },
+   "1745": {
+    "pos": {
+     "Júpiter": "Esc",
+     "Saturno": "Vir",
+     "Urano": "Acu",
+     "Neptuno": "Can",
+     "Plutón": "Esc"
+    },
+    "grados": {
+     "Júpiter": "4°Esc",
+     "Saturno": "26°Vir",
+     "Urano": "4°Acu",
+     "Neptuno": "16°Can",
+     "Plutón": "19°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "conjunción"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
      },
      {
       "a": "Neptuno",
