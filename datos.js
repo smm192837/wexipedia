@@ -1210,6 +1210,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "acuerdo-del-plaza-1985",
+   "tipo": "hecho",
+   "titulo": "El acuerdo del Plaza (1985)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1985,
+    "fuente": "oficial",
+    "texto": "22 de septiembre de 1985"
+   },
+   "resumen": "Acuerdo de cinco potencias para devaluar el dólar interviniendo en los mercados de divisas.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 22 de septiembre de 1985, en el hotel Plaza de Nueva York, Francia, Alemania Occidental, Japón, el Reino Unido y Estados Unidos acordaron intervenir para depreciar el dólar frente al franco, el marco, el yen y la libra. Lo consiguieron de forma notable hasta que lo sustituyó el acuerdo del Louvre en 1987.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Acuerdo del Plaza",
+      "url": "https://es.wikipedia.org/wiki/Acuerdo_del_Plaza",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-japon-1882",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "shock-de-nixon-1971",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Consecuencias",
+     "nivel": "hecho",
+     "texto": "Algunos analistas creen que contribuyó a la burbuja financiera e inmobiliaria de Japón a finales de los ochenta."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "acuerdo-haavara-1933",
    "tipo": "hecho",
    "titulo": "Acuerdo Haavara",
@@ -2404,6 +2450,53 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "apartheid-en-sudafrica-1948",
+   "tipo": "hecho",
+   "titulo": "El apartheid en Sudáfrica (1948–1991)",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "fuente": "oficial",
+    "texto": "1948 – 1991",
+    "hasta": 1991
+   },
+   "resumen": "Sistema de segregación racial de Sudáfrica y Namibia para conservar el poder de la minoría blanca.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El apartheid rigió en Sudáfrica y Namibia entre 1948 y 1991. Separaba viviendas, escuelas y ocio por grupos raciales, reservaba el voto a los blancos, que eran el 21 % de la población, y prohibía los matrimonios y relaciones mixtas. Provocó resistencia de la población no blanca.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Apartheid",
+      "url": "https://es.wikipedia.org/wiki/Apartheid",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-reserva-de-sudafrica-1921",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El final",
+     "nivel": "hecho",
+     "texto": "A finales de los ochenta la Unión Soviética retiró su apoyo a Angola y Cuba en la guerra de la frontera y Estados Unidos cortó la ayuda financiera a Pretoria, lo que fue el principio del fin del régimen."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "apertura-archivo-secreto-vaticano-2006",
@@ -15587,6 +15680,48 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "conferencia-de-bandung-1955",
+   "tipo": "hecho",
+   "titulo": "La conferencia de Bandung (1955)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1955,
+    "fuente": "oficial",
+    "texto": "18 de abril de 1955"
+   },
+   "resumen": "Reunión de Estados asiáticos y africanos, muchos recién independizados, contra el colonialismo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Del 18 al 24 de abril de 1955 se reunieron en Bandung, Indonesia, Estados de Asia y África, la mayoría recién independientes. La impulsaron Nasser, Nehru y Sukarno junto con los dirigentes de Pakistán, Birmania y Ceilán. Buscaba la cooperación económica y cultural afroasiática frente al colonialismo y el neocolonialismo, y fue un paso hacia el Movimiento de Países No Alineados.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Conferencia de Bandung",
+      "url": "https://es.wikipedia.org/wiki/Conferencia_de_Bandung",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Quién invitaba",
+     "nivel": "hecho",
+     "texto": "Cinco países asiáticos invitaron a otros veinticinco."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "conferencia-de-yalta-1945",
    "tipo": "hecho",
    "titulo": "La conferencia de Yalta (1945)",
@@ -16657,6 +16792,52 @@ window.CRONO = {
    ],
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "constitucion-espanola-de-1978",
+   "tipo": "hecho",
+   "titulo": "La Constitución española de 1978",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1978,
+    "fuente": "oficial",
+    "texto": "6 de diciembre de 1978"
+   },
+   "resumen": "Norma suprema que culminó la transición a la democracia en España tras la muerte de Franco.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Las Cortes la aprobaron el 31 de octubre de 1978, se ratificó en referéndum el 6 de diciembre, la sancionó Juan Carlos I el 27 y entró en vigor el 29. Define un Estado social y democrático de derecho, con soberanía nacional y monarquía parlamentaria.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Constitución española de 1978",
+      "url": "https://es.wikipedia.org/wiki/Constituci%C3%B3n_espa%C3%B1ola_de_1978",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "dictadura-franquista",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "titulo-rey-de-jerusalen-corona-espanola",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Transición",
+     "nivel": "hecho",
+     "texto": "Culmina el proceso abierto con la muerte de Franco el 20 de noviembre de 1975 y deroga las Leyes Fundamentales del régimen."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "constitucion-siciliana-1812",
@@ -18056,6 +18237,141 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "crisis-de-la-deuda-latinoamericana-1982",
+   "tipo": "hecho",
+   "titulo": "La crisis de la deuda latinoamericana (años 1980)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1982,
+    "fuente": "oficial",
+    "texto": "inicios de los años 1980",
+    "aprox": true
+   },
+   "resumen": "Crisis de principios de los ochenta en la que los países latinoamericanos no pudieron pagar su deuda externa; la «década perdida».",
+   "segun": [],
+   "oficial": {
+    "resumen": "A comienzos de los años ochenta la deuda externa de Latinoamérica superó su capacidad de pago. En las décadas anteriores países como Argentina, Brasil y México habían pedido grandes sumas a acreedores internacionales para industrializarse e invertir en infraestructuras.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Crisis de la deuda latinoamericana",
+      "url": "https://es.wikipedia.org/wiki/Crisis_de_la_deuda_latinoamericana",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "petrodolar",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La deuda con la banca comercial creció un 20,4 % al año entre 1975 y 1982. La deuda externa pasó de 75.000 millones de dólares en 1975 a más de 315.000 en 1983, la mitad del producto de la región, y su servicio subió de 12.000 millones en 1975 a 66.000 en 1982."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "crisis-de-los-misiles-1962",
+   "tipo": "hecho",
+   "titulo": "La crisis de los misiles de Cuba (1962)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1962,
+    "fuente": "oficial",
+    "texto": "16 de octubre de 1962"
+   },
+   "resumen": "Trece días de enfrentamiento entre Estados Unidos y la Unión Soviética por los misiles instalados en Cuba, al borde de la guerra nuclear.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La crisis duró del 16 al 28 de octubre de 1962 y empezó cuando Estados Unidos supo del despliegue de misiles soviéticos en Cuba. Muchos expertos la consideran uno de los momentos en que más cerca se estuvo de una guerra nuclear.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Crisis de los misiles de Cuba",
+      "url": "https://es.wikipedia.org/wiki/Crisis_de_los_misiles_de_Cuba",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "invasion-de-bahia-de-cochinos-1961",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1961 Estados Unidos había puesto misiles Júpiter en Italia y Turquía, al alcance de Moscú, apoyado la invasión de bahía de Cochinos y lanzado la Operación Mangosta de sabotajes. Jruschov y Castro acordaron los misiles en julio de 1962."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "crisis-de-suez-1956",
+   "tipo": "hecho",
+   "titulo": "La crisis de Suez (1956)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1956,
+    "fuente": "oficial",
+    "texto": "29 de octubre de 1956"
+   },
+   "resumen": "Invasión de Egipto por Israel, el Reino Unido y Francia tras la nacionalización del canal de Suez.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Israel invadió Egipto el 29 de octubre de 1956, sobre todo para reabrir el estrecho de Tirán, y el Reino Unido y Francia se sumaron el 5 de noviembre buscando derribar a Nasser y recuperar el canal. Ganaron militarmente, pero la presión de Estados Unidos y la Unión Soviética les obligó a retirarse. Egipto conservó el canal y Nasser salió reforzado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra del Sinaí",
+      "url": "https://es.wikipedia.org/wiki/Guerra_del_Sina%C3%AD",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "estado-de-israel",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Nasser había nacionalizado la Compañía del Canal de Suez, de propiedad extranjera, y pasado su gestión a una autoridad pública egipcia."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "crisis-del-petroleo-1973",
    "tipo": "hecho",
    "titulo": "La crisis del petróleo de 1973",
@@ -18191,6 +18507,43 @@ window.CRONO = {
    "conexiones": [],
    "estado": "borrador",
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "crisis-financiera-asiatica-1997",
+   "tipo": "hecho",
+   "titulo": "La crisis financiera asiática (1997)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1997,
+    "fuente": "oficial",
+    "texto": "2 de julio de 1997"
+   },
+   "resumen": "Crisis que empezó con la devaluación de la moneda tailandesa y se extendió por Asia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Comenzó el 2 de julio de 1997 al devaluarse el baht tailandés y arrastró a Malasia, Indonesia y Filipinas, con efectos en Taiwán, Hong Kong y Corea del Sur. Se la llamó la primera gran crisis de la globalización y también crisis del Fondo Monetario Internacional.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Crisis financiera asiática",
+      "url": "https://es.wikipedia.org/wiki/Crisis_financiera_asi%C3%A1tica",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Tailandia dejó flotar su moneda, atada al dólar, cuando la deuda externa y el exceso inmobiliario la tenían de hecho en quiebra. En las primeras semanas un millón de tailandeses y 21 millones de indonesios cayeron en la pobreza oficial."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -19590,6 +19943,57 @@ window.CRONO = {
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
+  },
+  {
+   "id": "derogacion-de-la-ley-glass-steagall-1999",
+   "tipo": "hecho",
+   "titulo": "La derogación de la ley Glass-Steagall (1999)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1999,
+    "fuente": "oficial",
+    "texto": "12 de noviembre de 1999"
+   },
+   "resumen": "Fin de la separación legal entre banca de depósito y banca de inversión en Estados Unidos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La ley bancaria de 1933, conocida como Glass-Steagall, creó el seguro federal de depósitos y separó la banca de depósito de la de inversión para evitar otra crisis como la de 1929. Criticada desde mediados de los setenta, quedó derogada en este punto el 12 de noviembre de 1999 por la ley Gramm-Leach-Bliley.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Ley Glass-Steagall",
+      "url": "https://es.wikipedia.org/wiki/Ley_Glass-Steagall",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "crac-de-1929",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "new-deal-1933",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La fuente subraya que la derogación llegó justo a tiempo para permitir la constitución de Citigroup."
+    },
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Siguió a las audiencias en el Senado en las que Ferdinand Pecora interrogó a directivos de la banca sobre su papel en la crisis."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "detencion-jesus-cohorte-romana",
@@ -22760,6 +23164,44 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "escandalo-watergate-1972",
+   "tipo": "hecho",
+   "titulo": "El escándalo Watergate (1972–1974)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1972,
+    "fuente": "oficial",
+    "texto": "17 de junio de 1972",
+    "hasta": 1974
+   },
+   "resumen": "Espionaje a la sede del Partido Demócrata y encubrimiento desde la Casa Blanca que acabó con la dimisión de Nixon.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 17 de junio de 1972 cinco hombres fueron detenidos al allanar la sede demócrata en el complejo Watergate de Washington para robar documentos y poner escuchas. El intento del gobierno de Nixon de encubrirlo y su resistencia a la investigación del Congreso abrieron una crisis institucional. Nixon dimitió en agosto de 1974.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Escándalo Watergate",
+      "url": "https://es.wikipedia.org/wiki/Esc%C3%A1ndalo_Watergate",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Alcance",
+     "nivel": "hecho",
+     "texto": "Salieron a la luz acosos a opositores usando el FBI, la CIA y Hacienda. De 69 personas afectadas, 48 fueron declaradas culpables, muchas de ellas altos cargos."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "escuela-de-salamanca",
@@ -27849,6 +28291,43 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "genocidio-de-ruanda-1994",
+   "tipo": "hecho",
+   "titulo": "El genocidio de Ruanda (1994)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1994,
+    "fuente": "oficial",
+    "texto": "7 de abril de 1994"
+   },
+   "resumen": "Exterminio de gran parte de la población tutsi, y de hutus moderados, ejecutado por el gobierno y la población hutu.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Entre el 7 de abril y el 15 de julio de 1994 fueron asesinadas entre 500.000 y un millón de personas, alrededor del 70 % de los tutsis. La matanza empezó tras el derribo del avión en que viajaban los presidentes de Ruanda y Burundi; quién lo hizo sigue sin aclararse. Acabó cuando el Frente Patriótico Ruandés tomó Kigali.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Genocidio de Ruanda",
+      "url": "https://es.wikipedia.org/wiki/Genocidio_de_Ruanda",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "El gobierno colonial belga había establecido un sistema social racista a partir de una antigua distinción dentro del pueblo banyaruanda. La violencia sexual fue generalizada."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "georgetown-universidad",
    "tipo": "hecho",
    "titulo": "Universidad de Georgetown",
@@ -28078,6 +28557,102 @@ window.CRONO = {
    ],
    "naturaleza": "ocultismo",
    "vista": "religion"
+  },
+  {
+   "id": "golpe-de-estado-en-guatemala-1954",
+   "tipo": "hecho",
+   "titulo": "El golpe de Estado en Guatemala (1954)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1954,
+    "fuente": "oficial",
+    "texto": "18 de junio de 1954"
+   },
+   "resumen": "Operación encubierta de la CIA que derribó al presidente elegido Jacobo Árbenz.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La CIA organizó la operación PBSUCCESS para derrocar a Jacobo Árbenz, presidente elegido democráticamente, con la justificación de que los comunistas influían en su gobierno. Las fuerzas de Castillo Armas cruzaron la frontera el 18 de junio de 1954 y Árbenz anunció su renuncia el 27. Una junta militar entregó el poder a Castillo Armas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Golpe de Estado en Guatemala de 1954",
+      "url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guatemala_de_1954",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "allen-dulles",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La reforma agraria de Árbenz perjudicaba a la multinacional estadounidense United Fruit Company y a la oligarquía local, que movilizaron grupos de presión en Estados Unidos."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "golpe-de-estado-en-iran-1953",
+   "tipo": "hecho",
+   "titulo": "El golpe de Estado en Irán (1953)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1953,
+    "fuente": "oficial",
+    "texto": "19 de agosto de 1953"
+   },
+   "resumen": "Derrocamiento del primer ministro elegido Mosaddegh, orquestado por Estados Unidos y el Reino Unido, en favor del sah.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 19 de agosto de 1953 fue derrocado el primer ministro elegido democráticamente, Mohammad Mosaddegh, en favor de Mohammad Reza Pahlaví. Lo orquestaron Estados Unidos, con la Operación Ajax, y el Reino Unido. Fue la primera acción encubierta estadounidense para derribar un gobierno extranjero en tiempos de paz.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Golpe de Estado en Irán de 1953",
+      "url": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Ir%C3%A1n_de_1953",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-central-de-iran-1960",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "revolucion-islamica-1979",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Mosaddegh quiso auditar la Anglo-Iranian Oil Company, hoy parte de BP, y limitar su control del petróleo. El parlamento nacionalizó la industria y el Reino Unido promovió un boicot mundial al crudo iraní antes de apoyar el golpe, por temor también a una toma del poder comunista."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "gosbank-1921",
@@ -28924,6 +29499,53 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerra-de-afganistan-1979",
+   "tipo": "hecho",
+   "titulo": "La guerra soviética en Afganistán (1979–1989)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1979,
+    "fuente": "oficial",
+    "texto": "diciembre de 1979 – febrero de 1989",
+    "hasta": 1989
+   },
+   "resumen": "Guerra entre el gobierno afgano apoyado por la Unión Soviética y los muyahidines apoyados por Estados Unidos y otros países.",
+   "segun": [],
+   "oficial": {
+    "resumen": "De diciembre de 1979 a febrero de 1989 la República Democrática de Afganistán, con ayuda económica y militar soviética, combatió a los muyahidines. Es la primera fase de la larga guerra civil afgana y parte de la Guerra Fría. Las tropas soviéticas depusieron y ejecutaron al gobernante Hafizullah Amín.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de Afganistán (1978-1989)",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_%281978-1989%29",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "disolucion-de-la-urss-1991",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Según la fuente, Estados Unidos armó y financió a los rebeldes con la Operación Ciclón desde antes de la intervención, que el Consejo Revolucionario afgano pidió a Moscú."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "guerra-de-afganistan-2001",
    "tipo": "hecho",
    "titulo": "Guerra de Afganistán (2001-2021)",
@@ -29301,6 +29923,48 @@ window.CRONO = {
     }
    ],
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "guerra-de-las-malvinas-1982",
+   "tipo": "hecho",
+   "titulo": "La guerra de las Malvinas (1982)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1982,
+    "fuente": "oficial",
+    "texto": "2 de abril de 1982"
+   },
+   "resumen": "Guerra entre Argentina y el Reino Unido por la soberanía de las islas del Atlántico Sur.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La guerra, no declarada, empezó el 2 de abril de 1982 con el desembarco argentino en las Malvinas y terminó tras 74 días con la rendición argentina el 14 de junio; las islas volvieron a control británico. La soberanía sigue disputada.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerra de las Malvinas",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_las_Malvinas",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "dictadura-argentina-1976",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las víctimas",
+     "nivel": "hecho",
+     "texto": "Murieron 649 militares argentinos, 255 británicos y tres civiles de las islas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -33858,6 +34522,48 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "independencia-y-particion-de-la-india-1947",
+   "tipo": "hecho",
+   "titulo": "La partición de la India (1947)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1947,
+    "fuente": "oficial",
+    "texto": "15 de agosto de 1947"
+   },
+   "resumen": "División del Imperio indio británico en dos Estados soberanos, India y Pakistán, con una violencia y un desplazamiento enormes.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 15 de agosto de 1947 la India británica se dividió en el Dominio de Pakistán, del que después saldría Bangladés, y la Unión de la India. Se partieron las provincias de Bengala y Punjab y también el ejército, la administración, los ferrocarriles y el tesoro. La relación entre ambos países sigue siendo tensa.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Partición de la India",
+      "url": "https://es.wikipedia.org/wiki/Partici%C3%B3n_de_la_India",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-reserva-de-la-india-1935",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El coste",
+     "nivel": "hecho",
+     "texto": "En la violencia entre comunidades religiosas en el Punjab hubo entre 200.000 y 2 millones de muertos. ACNUR estima en 14 millones los hindúes, sijes y musulmanes desplazados."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "infalibilidad-papal-1870",
    "tipo": "hecho",
    "titulo": "Infalibilidad papal (1870)",
@@ -34726,6 +35432,56 @@ window.CRONO = {
     }
    ],
    "vista": "religion"
+  },
+  {
+   "id": "invasion-de-bahia-de-cochinos-1961",
+   "tipo": "hecho",
+   "titulo": "La invasión de bahía de Cochinos (1961)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1961,
+    "fuente": "oficial",
+    "texto": "17 de abril de 1961"
+   },
+   "resumen": "Desembarco fallido de exiliados cubanos financiados por Estados Unidos para derribar a Fidel Castro.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En abril de 1961 una fuerza de exiliados cubanos, financiada y apoyada de forma clandestina por el gobierno estadounidense, desembarcó en Playa Girón. Las fuerzas armadas cubanas la derrotaron en tres días. El fracaso pesó en las relaciones entre Cuba, Estados Unidos y la Unión Soviética.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Invasión de bahía de Cochinos",
+      "url": "https://es.wikipedia.org/wiki/Invasi%C3%B3n_de_bah%C3%ADa_de_Cochinos",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-cubana",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "crisis-de-los-misiles-1962",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Tras la revolución de 1959 Castro nacionalizó empresas estadounidenses: bancos, refinerías y plantaciones de azúcar y café. Eisenhower buscó desde 1960 cómo apartarlo y aprobó el plan de Richard Bissell."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "invasion-horda-europa-1323-1341",
@@ -38637,6 +39393,48 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "lunes-negro-1987",
+   "tipo": "hecho",
+   "titulo": "El lunes negro de 1987",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1987,
+    "fuente": "oficial",
+    "texto": "19 de octubre de 1987"
+   },
+   "resumen": "Desplome simultáneo de las bolsas de todo el mundo en una sola jornada.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El lunes 19 de octubre de 1987 los mercados se hundieron en muy poco tiempo: la caída empezó en Hong Kong, pasó a Europa y llegó a Estados Unidos, donde el Dow Jones perdió 408 puntos, un 22,6 %.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Lunes negro (1987)",
+      "url": "https://es.wikipedia.org/wiki/Lunes_negro_%281987%29",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "crac-de-1929",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "A fin de mes",
+     "nivel": "hecho",
+     "texto": "Hong Kong había caído un 45,8 %, Australia un 41,8 %, el Reino Unido un 26,4 % y Canadá un 22,5 %. Nueva Zelanda cayó un 60 % desde su máximo y tardó años en recuperarse."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "mafia-siciliana",
    "tipo": "hecho",
    "titulo": "La mafia siciliana",
@@ -40053,6 +40851,43 @@ window.CRONO = {
    ],
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "mayo-de-1968",
+   "tipo": "hecho",
+   "titulo": "Mayo de 1968 en Francia",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1968,
+    "fuente": "oficial",
+    "texto": "mayo y junio de 1968"
+   },
+   "resumen": "Protestas estudiantiles y huelga general que pusieron contra las cuerdas al gobierno de De Gaulle.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En mayo y junio de 1968 una cadena de protestas, primero universitarias y luego sindicales, sacudió Francia. Los estudiantes rechazaban la sociedad de consumo, el capitalismo, el imperialismo y el autoritarismo; los obreros tenían objetivos sobre todo laborales. Fue la mayor huelga general de la historia francesa, con más de nueve millones de trabajadores.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Mayo de 1968 en Francia",
+      "url": "https://es.wikipedia.org/wiki/Mayo_de_1968_en_Francia",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Hasta dónde llegó",
+     "nivel": "hecho",
+     "texto": "De Gaulle llegó a temer una insurrección, aunque la mayoría de los participantes, incluido el Partido Comunista, no se planteó tomar el poder."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "mecanica-causal-kozyrev",
@@ -47124,6 +47959,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "organizacion-mundial-del-comercio-1995",
+   "tipo": "hecho",
+   "titulo": "La Organización Mundial del Comercio (1995)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1995,
+    "fuente": "oficial",
+    "texto": "1995"
+   },
+   "resumen": "Organización internacional que se ocupa de las normas del comercio entre países, heredera del GATT.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La OMC se estableció en 1995, con sede en Ginebra, y es la única organización internacional dedicada a las normas del comercio entre países, basadas en acuerdos firmados por la gran mayoría de los participantes y ratificados por sus parlamentos. No forma parte de la ONU ni de los organismos de Bretton Woods.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Organización Mundial del Comercio",
+      "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_del_Comercio",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "gatt-1947",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "bretton-woods-1944",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Rondas",
+     "nivel": "hecho",
+     "texto": "La Ronda de Doha, abierta en 2001, debía acabar en 2005 y no lo hizo, dividida por los subsidios agrícolas y la propiedad intelectual."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "origen-catolico-del-comunismo",
    "tipo": "hecho",
    "titulo": "El comunismo, modelo social de origen cristiano",
@@ -47450,6 +48331,56 @@ window.CRONO = {
      "titulo": "Qué queda abierto",
      "nivel": "hipotesis",
      "texto": "Esta ficha tiene un autor registrado (sus tesis están arriba, con su versión oficial al lado); la sección «En detalle» solo recoge la versión de la fuente abierta. La fuente es un artículo de una enciclopedia abierta con una marca «cita requerida» y pasajes de actualidad que no he comprobado. No he leído la lista de miembros ni los acuerdos con países ajenos. Siguiendo la regla de seguir el dinero y el poder, queda abierto cómo se reparte la financiación real (la fuente solo da el porcentaje conjunto del gasto militar), qué industrias de defensa se benefician de las ampliaciones y quién decidió en cada caso las ampliaciones al Este. No consta aquí y queda como tema abierto, no como dato."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "pacto-de-varsovia-1955",
+   "tipo": "hecho",
+   "titulo": "El Pacto de Varsovia (1955)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1955,
+    "fuente": "oficial",
+    "texto": "14 de mayo de 1955"
+   },
+   "resumen": "Alianza militar del bloque del Este dirigida por la Unión Soviética, contrapeso de la OTAN.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Tratado de Amistad, Colaboración y Asistencia Mutua se firmó en Varsovia el 14 de mayo de 1955 bajo liderazgo soviético para contrarrestar a la OTAN y el rearme de Alemania Occidental. No llegó a combatir directamente contra la Alianza. Se deshizo tras las revoluciones de 1989.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Pacto de Varsovia",
+      "url": "https://es.wikipedia.org/wiki/Pacto_de_Varsovia",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "otan-1949",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "primavera-de-praga-1968",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Su mayor operación",
+     "nivel": "hecho",
+     "texto": "La invasión de Checoslovaquia en agosto de 1968, con todos los miembros salvo Albania y Rumanía; Albania se retiró menos de un mes después."
     }
    ],
    "vista": "politica"
@@ -50035,6 +50966,52 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "primavera-de-praga-1968",
+   "tipo": "hecho",
+   "titulo": "La Primavera de Praga (1968)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1968,
+    "fuente": "oficial",
+    "texto": "5 de enero de 1968"
+   },
+   "resumen": "Periodo de reformas en Checoslovaquia que la Unión Soviética y otros países del Pacto de Varsovia aplastaron con una invasión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Empezó el 5 de enero de 1968 con la elección de Alexander Dubček al frente del Partido Comunista y duró hasta la invasión del 21 de agosto. Las reformas descentralizaban en parte la economía, democratizaban y aflojaban las restricciones a la prensa, la expresión y los viajes.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Primavera de Praga",
+      "url": "https://es.wikipedia.org/wiki/Primavera_de_Praga",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "pacto-de-varsovia-1955",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "revolucion-hungara-1956",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La invasión",
+     "nivel": "hecho",
+     "texto": "Tras negociaciones fallidas se envió medio millón de soldados y tanques del Pacto de Varsovia. De las reformas solo sobrevivió formalmente la federación de las repúblicas checa y eslovaca."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "primer-imperio-egipto-medieval",
    "tipo": "hecho",
    "titulo": "Primer imperio medieval en el delta del Nilo",
@@ -50363,6 +51340,48 @@ window.CRONO = {
    ],
    "naturaleza": "banca",
    "vista": "economia"
+  },
+  {
+   "id": "protestas-de-tiananmen-1989",
+   "tipo": "hecho",
+   "titulo": "Las protestas y la matanza de Tiananmén (1989)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1989,
+    "fuente": "oficial",
+    "texto": "4 de junio de 1989"
+   },
+   "resumen": "Manifestaciones encabezadas por estudiantes en China, reprimidas por el ejército por orden de las autoridades.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Entre el 15 de abril y el 4 de junio de 1989 hubo manifestaciones lideradas por estudiantes, que arrancaron con la muerte de Hu Yaobang. El gobierno declaró la ley marcial el 20 de mayo y, tras dividirse la dirección del partido, decidió desalojar la plaza; el ejército disolvió la movilización.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Protestas y masacre de la plaza de Tiananmén de 1989",
+      "url": "https://es.wikipedia.org/wiki/Protestas_y_masacre_de_la_plaza_de_Tiananm%C3%A9n_de_1989",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "reforma-economica-china-1978",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Quiénes protestaban",
+     "nivel": "hecho",
+     "texto": "Intelectuales que veían un gobierno represivo y corrupto, y trabajadores urbanos que creían que las reformas de mercado habían ido demasiado lejos, con inflación y paro."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "protocolos-de-los-sabios-de-sion",
@@ -51283,6 +52302,52 @@ window.CRONO = {
    ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
+  },
+  {
+   "id": "reforma-economica-china-1978",
+   "tipo": "hecho",
+   "titulo": "La reforma económica de China (1978)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1978,
+    "fuente": "oficial",
+    "texto": "18 de diciembre de 1978"
+   },
+   "resumen": "Programa de «reforma y apertura» de Deng Xiaoping para pasar de la economía planificada a una socialista de mercado.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Los reformistas del Partido Comunista, dirigidos por Deng Xiaoping, iniciaron el 18 de diciembre de 1978 la reforma y apertura, llamada socialismo con características chinas. Se detuvo tras Tiananmén en 1989 y se reanudó en 1992.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Reforma económica china",
+      "url": "https://es.wikipedia.org/wiki/Reforma_econ%C3%B3mica_china",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-cultural-china-1966",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "banco-popular-de-china-1948",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Resultado",
+     "nivel": "hecho",
+     "texto": "En 2010 China era la segunda economía del mundo y en 2014 la primera medida en paridad de poder adquisitivo."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "reforma-protestante-1517",
@@ -52289,6 +53354,52 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "reunificacion-alemana-1990",
+   "tipo": "hecho",
+   "titulo": "La reunificación alemana (1990)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1990,
+    "fuente": "oficial",
+    "texto": "3 de octubre de 1990"
+   },
+   "resumen": "Adhesión de la República Democrática Alemana a la República Federal, que volvió a unir Alemania.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El proceso de 1989 y 1990 acabó el 3 de octubre de 1990 con la adhesión de la RDA a la República Federal según el artículo 23 de su Ley Fundamental. Antes hubo éxodo por Checoslovaquia y Hungría, la apertura del Muro y, en marzo de 1990, las primeras elecciones libres en el Este.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Reunificación alemana",
+      "url": "https://es.wikipedia.org/wiki/Reunificaci%C3%B3n_alemana",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "caida-del-muro-de-berlin-1989",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "bundesbank-1957",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El tratado de unión monetaria, económica y social, firmado el 18 de mayo con participación del Bundesbank, entró en vigor el 1 de julio."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "reunion-gobernadores-bpi-2013",
    "tipo": "hecho",
    "titulo": "Reuniones bimestrales de gobernadores en el BPI (comité de 2013)",
@@ -52697,6 +53808,95 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "revolucion-cultural-china-1966",
+   "tipo": "hecho",
+   "titulo": "La Revolución Cultural china (1966–1976)",
+   "carril": "politica-economia",
+   "naturaleza": "ideales-sociales",
+   "temas": [],
+   "fecha": {
+    "desde": 1966,
+    "fuente": "oficial",
+    "texto": "1966 – 1976",
+    "hasta": 1976
+   },
+   "resumen": "Campaña lanzada por Mao para purgar a sus rivales y los restos capitalistas y tradicionales de la sociedad china.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Gran Revolución Cultural Proletaria, iniciada por Mao Zedong en mayo de 1966 y terminada en 1976, declaraba querer preservar el comunismo chino eliminando elementos capitalistas y tradicionales e imponer su pensamiento en el partido. Los jóvenes formaron la Guardia Roja y la lucha de facciones se extendió al ejército, a los obreros y a la dirección.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución Cultural",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Cultural",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "revolucion-china-1949",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "reforma-economica-china-1978",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el poder",
+     "nivel": "hecho",
+     "texto": "Supuso el regreso de Mao al poder tras el fracaso del Gran Salto Adelante, durante el cual murieron unos 30 millones de personas en la gran hambruna."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-de-los-claveles-1974",
+   "tipo": "hecho",
+   "titulo": "La Revolución de los Claveles (1974)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1974,
+    "fuente": "oficial",
+    "texto": "25 de abril de 1974"
+   },
+   "resumen": "Golpe militar en Portugal que acabó con la dictadura del Estado Nuevo y abrió el paso a la democracia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 25 de abril de 1974 el Movimiento de las Fuerzas Armadas derribó la dictadura del Estado Nuevo, en el poder desde 1926. Un año después hubo las primeras elecciones libres y antes de acabar 1975 se había concedido la independencia a la mayor parte de las colonias.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución de los Claveles",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_los_Claveles",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "estado-novo-portugal",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las colonias",
+     "nivel": "hecho",
+     "texto": "Obtuvieron la independencia Angola, Cabo Verde, Guinea-Bisáu, Mozambique, Santo Tomé y Timor Oriental tras las guerras coloniales. Macao no pasó a China hasta 1999."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "revolucion-de-xinhai-1911",
    "tipo": "hecho",
    "titulo": "La Revolución de Xinhai y el fin del Imperio chino (1911)",
@@ -52863,6 +54063,52 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-hungara-1956",
+   "tipo": "hecho",
+   "titulo": "La revolución húngara (1956)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1956,
+    "fuente": "oficial",
+    "texto": "23 de octubre de 1956"
+   },
+   "resumen": "Levantamiento nacional contra el gobierno comunista de Hungría y las políticas impuestas desde Moscú.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Entre el 23 de octubre y el 10 de noviembre de 1956 un movimiento espontáneo se alzó contra el gobierno de la República Popular de Hungría y las políticas soviéticas. Empezó como una protesta estudiantil en Budapest; la policía política abrió fuego desde la radio estatal y la revuelta se extendió, con soldados húngaros sumándose.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución húngara de 1956",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_h%C3%BAngara_de_1956",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "union-sovietica",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "pacto-de-varsovia-1955",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "Tras la denuncia de los excesos de Stalin por Jruschov, surgieron movimientos que pedían libertad para elegir el sistema político y frenar a la policía secreta."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -58974,6 +60220,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "tlcan-1994",
+   "tipo": "hecho",
+   "titulo": "El Tratado de Libre Comercio de América del Norte (1994)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1994,
+    "fuente": "oficial",
+    "texto": "1994"
+   },
+   "resumen": "Zona de libre comercio entre Canadá, Estados Unidos y México.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El TLCAN creó una zona de libre comercio, sin unión aduanera, entre Canadá, Estados Unidos y México. Ampliaba el acuerdo entre Canadá y Estados Unidos de 1988. Se firmó en diciembre de 1992 y entró en vigor en 1994.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Tratado de Libre Comercio de América del Norte",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Libre_Comercio_de_Am%C3%A9rica_del_Norte",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "gatt-1947",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo se negoció",
+     "nivel": "hecho",
+     "texto": "Los tres países acordaron negociar en 1990 y empezaron en febrero de 1991; lo firmaron Bush, Mulroney y Salinas de Gortari."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "toma-constantinopla-1261",
@@ -108392,6 +109680,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "acuerdo-del-plaza-1985": {
+    "fecha": "1985-09-22",
+    "pos": {
+     "Sol": "29°Vir",
+     "Mercurio": "29°Vir",
+     "Venus": "0°Vir",
+     "Marte": "7°Vir",
+     "Júpiter": "7°Acu",
+     "Saturno": "24°Esc",
+     "Urano": "14°Sag",
+     "Neptuno": "0°Cap",
+     "Plutón": "3°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "12°Cap",
+     "oposiciones": []
+    }
+   },
    "acuerdo-sykes-picot-1916": {
     "fecha": "1916-05-16",
     "pos": {
@@ -109357,6 +110672,45 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "conferencia-de-bandung-1955": {
+    "fecha": "1955-04-18",
+    "pos": {
+     "Sol": "27°Ari",
+     "Mercurio": "22°Ari",
+     "Venus": "22°Pis",
+     "Marte": "5°Gem",
+     "Júpiter": "21°Can",
+     "Saturno": "19°Esc",
+     "Urano": "23°Can",
+     "Neptuno": "26°Lib",
+     "Plutón": "24°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 2.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "3°Pis",
+     "oposiciones": []
+    }
+   },
    "conferencia-de-yalta-1945": {
     "fecha": "1945-02-04",
     "pos": {
@@ -109518,6 +110872,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "constitucion-espanola-de-1978": {
+    "fecha": "1978-12-06",
+    "pos": {
+     "Sol": "14°Sag",
+     "Mercurio": "12°Sag",
+     "Venus": "8°Esc",
+     "Marte": "25°Sag",
+     "Júpiter": "8°Leo",
+     "Saturno": "13°Vir",
+     "Urano": "18°Esc",
+     "Neptuno": "17°Sag",
+     "Plutón": "18°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "7°Pis",
+     "oposiciones": []
+    }
+   },
    "convencion-derecha-foz-iguazu-2018": {
     "fecha": "2018-12-08",
     "pos": {
@@ -109562,6 +110943,78 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "8°Esc",
+     "oposiciones": []
+    }
+   },
+   "crisis-de-los-misiles-1962": {
+    "fecha": "1962-10-16",
+    "pos": {
+     "Sol": "22°Lib",
+     "Mercurio": "6°Lib",
+     "Venus": "26°Esc",
+     "Marte": "2°Leo",
+     "Júpiter": "3°Pis",
+     "Saturno": "4°Acu",
+     "Urano": "3°Vir",
+     "Neptuno": "12°Esc",
+     "Plutón": "11°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "oposición",
+      "orbe": 0.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "4°Gem",
+     "oposiciones": []
+    }
+   },
+   "crisis-de-suez-1956": {
+    "fecha": "1956-10-29",
+    "pos": {
+     "Sol": "6°Esc",
+     "Mercurio": "26°Lib",
+     "Venus": "27°Vir",
+     "Marte": "15°Pis",
+     "Júpiter": "23°Vir",
+     "Saturno": "1°Sag",
+     "Urano": "6°Leo",
+     "Neptuno": "0°Esc",
+     "Plutón": "0°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "12°Vir",
      "oposiciones": []
     }
    },
@@ -109619,6 +111072,45 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "20°Gem",
+     "oposiciones": []
+    }
+   },
+   "crisis-financiera-asiatica-1997": {
+    "fecha": "1997-07-02",
+    "pos": {
+     "Sol": "10°Can",
+     "Mercurio": "18°Can",
+     "Venus": "4°Leo",
+     "Marte": "6°Lib",
+     "Júpiter": "21°Acu",
+     "Saturno": "19°Ari",
+     "Urano": "7°Acu",
+     "Neptuno": "29°Cap",
+     "Plutón": "3°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.6
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.8
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Gem",
      "oposiciones": []
     }
    },
@@ -109751,6 +111243,33 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "9°Ari",
+     "oposiciones": []
+    }
+   },
+   "derogacion-de-la-ley-glass-steagall-1999": {
+    "fecha": "1999-11-12",
+    "pos": {
+     "Sol": "19°Esc",
+     "Mercurio": "27°Esc",
+     "Venus": "3°Lib",
+     "Marte": "19°Cap",
+     "Júpiter": "27°Ari",
+     "Saturno": "13°Tau",
+     "Urano": "13°Acu",
+     "Neptuno": "1°Acu",
+     "Plutón": "9°Sag"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "6°Cap",
      "oposiciones": []
     }
    },
@@ -110203,6 +111722,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "escandalo-watergate-1972": {
+    "fecha": "1972-06-17",
+    "pos": {
+     "Sol": "26°Gem",
+     "Mercurio": "10°Can",
+     "Venus": "26°Gem",
+     "Marte": "22°Can",
+     "Júpiter": "4°Cap",
+     "Saturno": "12°Gem",
+     "Urano": "14°Lib",
+     "Neptuno": "3°Sag",
+     "Plutón": "29°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "13°Vir",
+     "oposiciones": []
+    }
+   },
    "estado-de-israel": {
     "fecha": "1948-05-14",
     "pos": {
@@ -110428,6 +111974,176 @@ window.CRONO = {
      ]
     }
    },
+   "genocidio-de-ruanda-1994": {
+    "fecha": "1994-04-07",
+    "pos": {
+     "Sol": "17°Ari",
+     "Mercurio": "26°Pis",
+     "Venus": "7°Tau",
+     "Marte": "24°Pis",
+     "Júpiter": "12°Esc",
+     "Saturno": "8°Pis",
+     "Urano": "26°Cap",
+     "Neptuno": "23°Cap",
+     "Plutón": "27°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     },
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 2.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Pis",
+     "oposiciones": []
+    }
+   },
+   "golpe-de-estado-en-guatemala-1954": {
+    "fecha": "1954-06-18",
+    "pos": {
+     "Sol": "26°Gem",
+     "Mercurio": "18°Can",
+     "Venus": "0°Leo",
+     "Marte": "4°Cap",
+     "Júpiter": "5°Can",
+     "Saturno": "2°Esc",
+     "Urano": "21°Can",
+     "Neptuno": "23°Lib",
+     "Plutón": "22°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "oposición",
+      "orbe": 1.1
+     },
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 1.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 2.7
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Cap",
+     "oposiciones": [
+      {
+       "planeta": "Urano",
+       "orbe": 1.6
+      }
+     ]
+    }
+   },
+   "golpe-de-estado-en-iran-1953": {
+    "fecha": "1953-08-19",
+    "pos": {
+     "Sol": "26°Leo",
+     "Mercurio": "9°Leo",
+     "Venus": "17°Can",
+     "Marte": "13°Leo",
+     "Júpiter": "21°Gem",
+     "Saturno": "23°Lib",
+     "Urano": "21°Can",
+     "Neptuno": "21°Lib",
+     "Plutón": "23°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 0.0
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 0.7
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Sag",
+     "oposiciones": []
+    }
+   },
    "guerra-civil-espanola": {
     "fecha": "1936-07-17",
     "pos": {
@@ -110497,6 +112213,33 @@ window.CRONO = {
        "orbe": 1.9
       }
      ]
+    }
+   },
+   "guerra-de-las-malvinas-1982": {
+    "fecha": "1982-04-02",
+    "pos": {
+     "Sol": "12°Ari",
+     "Mercurio": "3°Ari",
+     "Venus": "25°Acu",
+     "Marte": "9°Lib",
+     "Júpiter": "8°Esc",
+     "Saturno": "19°Lib",
+     "Urano": "4°Sag",
+     "Neptuno": "27°Sag",
+     "Plutón": "25°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "29°Can",
+     "oposiciones": []
     }
    },
    "guerra-de-los-cien-anos": {
@@ -111015,6 +112758,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "independencia-y-particion-de-la-india-1947": {
+    "fecha": "1947-08-15",
+    "pos": {
+     "Sol": "21°Leo",
+     "Mercurio": "8°Leo",
+     "Venus": "16°Leo",
+     "Marte": "1°Can",
+     "Júpiter": "19°Esc",
+     "Saturno": "13°Leo",
+     "Urano": "25°Gem",
+     "Neptuno": "8°Lib",
+     "Plutón": "13°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "8°Leo",
+     "oposiciones": []
+    }
+   },
    "inter-caetera-1493": {
     "fecha": "1493-05-04",
     "pos": {
@@ -111057,6 +112827,26 @@ window.CRONO = {
     "sin_pluton": true,
     "luna": {
      "pos": "9°Ari",
+     "oposiciones": []
+    }
+   },
+   "invasion-de-bahia-de-cochinos-1961": {
+    "fecha": "1961-04-17",
+    "pos": {
+     "Sol": "27°Ari",
+     "Mercurio": "12°Ari",
+     "Venus": "16°Ari",
+     "Marte": "20°Can",
+     "Júpiter": "4°Acu",
+     "Saturno": "29°Cap",
+     "Urano": "21°Leo",
+     "Neptuno": "10°Esc",
+     "Plutón": "5°Vir"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Tau",
      "oposiciones": []
     }
    },
@@ -111165,6 +112955,39 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "14°Can",
+     "oposiciones": []
+    }
+   },
+   "lunes-negro-1987": {
+    "fecha": "1987-10-19",
+    "pos": {
+     "Sol": "25°Lib",
+     "Mercurio": "12°Esc",
+     "Venus": "10°Esc",
+     "Marte": "6°Lib",
+     "Júpiter": "24°Ari",
+     "Saturno": "17°Sag",
+     "Urano": "23°Sag",
+     "Neptuno": "5°Cap",
+     "Plutón": "9°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 0.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "17°Vir",
      "oposiciones": []
     }
    },
@@ -111817,6 +113640,57 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "pacto-de-varsovia-1955": {
+    "fecha": "1955-05-14",
+    "pos": {
+     "Sol": "22°Tau",
+     "Mercurio": "13°Gem",
+     "Venus": "23°Ari",
+     "Marte": "22°Gem",
+     "Júpiter": "24°Can",
+     "Saturno": "17°Esc",
+     "Urano": "24°Can",
+     "Neptuno": "26°Lib",
+     "Plutón": "24°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "conjunción",
+      "orbe": 0.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.4
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.8
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Acu",
+     "oposiciones": []
+    }
+   },
    "pandemia-covid-19": {
     "fecha": "2020-03-11",
     "pos": {
@@ -112014,6 +113888,44 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "primavera-de-praga-1968": {
+    "fecha": "1968-01-05",
+    "pos": {
+     "Sol": "14°Cap",
+     "Mercurio": "18°Cap",
+     "Venus": "4°Sag",
+     "Marte": "26°Acu",
+     "Júpiter": "5°Vir",
+     "Saturno": "6°Ari",
+     "Urano": "29°Vir",
+     "Neptuno": "25°Esc",
+     "Plutón": "22°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Pis",
+     "oposiciones": [
+      {
+       "planeta": "Plutón",
+       "orbe": 1.9
+      }
+     ]
+    }
+   },
    "privilegios-inmunidad-bpi": {
     "fecha": "1987-02-10",
     "pos": {
@@ -112050,6 +113962,45 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "13°Can",
+     "oposiciones": []
+    }
+   },
+   "protestas-de-tiananmen-1989": {
+    "fecha": "1989-06-04",
+    "pos": {
+     "Sol": "13°Gem",
+     "Mercurio": "28°Tau",
+     "Venus": "29°Gem",
+     "Marte": "22°Can",
+     "Júpiter": "17°Gem",
+     "Saturno": "12°Cap",
+     "Urano": "4°Cap",
+     "Neptuno": "11°Cap",
+     "Plutón": "12°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.8
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "22°Gem",
      "oposiciones": []
     }
    },
@@ -112133,6 +114084,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "reforma-economica-china-1978": {
+    "fecha": "1978-12-18",
+    "pos": {
+     "Sol": "26°Sag",
+     "Mercurio": "5°Sag",
+     "Venus": "14°Esc",
+     "Marte": "4°Cap",
+     "Júpiter": "8°Leo",
+     "Saturno": "13°Vir",
+     "Urano": "19°Esc",
+     "Neptuno": "18°Sag",
+     "Plutón": "18°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Leo",
+     "oposiciones": []
+    }
+   },
    "regnans-in-excelsis-1570": {
     "fecha": "1570-02-25",
     "pos": {
@@ -112183,6 +114161,33 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "21°Leo",
+     "oposiciones": []
+    }
+   },
+   "reunificacion-alemana-1990": {
+    "fecha": "1990-10-03",
+    "pos": {
+     "Sol": "10°Lib",
+     "Mercurio": "26°Vir",
+     "Venus": "2°Lib",
+     "Marte": "12°Gem",
+     "Júpiter": "8°Leo",
+     "Saturno": "18°Cap",
+     "Urano": "5°Cap",
+     "Neptuno": "11°Cap",
+     "Plutón": "16°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "26°Pis",
      "oposiciones": []
     }
    },
@@ -112279,6 +114284,45 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "revolucion-de-los-claveles-1974": {
+    "fecha": "1974-04-25",
+    "pos": {
+     "Sol": "4°Tau",
+     "Mercurio": "24°Ari",
+     "Venus": "19°Pis",
+     "Marte": "3°Can",
+     "Júpiter": "10°Pis",
+     "Saturno": "0°Can",
+     "Urano": "25°Lib",
+     "Neptuno": "9°Sag",
+     "Plutón": "4°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.5
+     },
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Gem",
+     "oposiciones": []
+    }
+   },
    "revolucion-de-xinhai-1911": {
     "fecha": "1911-10-10",
     "pos": {
@@ -112315,6 +114359,39 @@ window.CRONO = {
        "orbe": 0.4
       }
      ]
+    }
+   },
+   "revolucion-hungara-1956": {
+    "fecha": "1956-10-23",
+    "pos": {
+     "Sol": "0°Esc",
+     "Mercurio": "16°Lib",
+     "Venus": "20°Vir",
+     "Marte": "14°Pis",
+     "Júpiter": "22°Vir",
+     "Saturno": "1°Sag",
+     "Urano": "6°Leo",
+     "Neptuno": "0°Esc",
+     "Plutón": "0°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "17°Gem",
+     "oposiciones": []
     }
    },
    "revolucion-mexicana-1910": {
@@ -113414,14 +115491,17 @@ window.CRONO = {
     "id": "PAR-001",
     "titulo": "Saturno-Plutón en los hechos con día exacto",
     "pregunta": "¿Caen los hechos fechados al día más a menudo en un aspecto duro de Saturno y Plutón (conjunción, cuadratura u oposición, orbe 3°) que un día cualquiera?",
-    "n": 116,
-    "aciertos": 7,
-    "esperado": 7.7,
-    "porc_hechos": 6.0,
+    "n": 137,
+    "aciertos": 10,
+    "esperado": 9.1,
+    "porc_hechos": 7.3,
     "porc_azar": 6.6,
     "hechos": [
      "hundimiento-del-maine-1898",
      "marcha-sobre-roma-1922",
+     "independencia-y-particion-de-la-india-1947",
+     "revolucion-hungara-1956",
+     "crisis-de-suez-1956",
      "dictadura-militar-chile",
      "crisis-del-petroleo-1973",
      "atentado-wtc-1993",
@@ -113429,19 +115509,20 @@ window.CRONO = {
      "guerra-de-afganistan-2001"
     ],
     "lectura": "Observación, no prueba: la diferencia con el azar es pequeña y la muestra está sesgada (sobre todo atentados fechados al día).",
-    "razon": 0.91
+    "razon": 1.11
    },
    {
     "id": "PAR-002",
     "titulo": "Ciclo largo Saturno-Plutón y hechos fechados por año",
     "pregunta": "¿Caen los hechos de Wexipedia (1800-2026) más a menudo en los años con aspecto duro de Saturno y Plutón (orbe 6°) que un año cualquiera?",
-    "n": 481,
-    "aciertos": 150,
-    "esperado": 152.6,
-    "porc_hechos": 31.2,
+    "n": 510,
+    "aciertos": 162,
+    "esperado": 161.8,
+    "porc_hechos": 31.8,
     "porc_azar": 31.7,
     "hechos": [
      "america-first-movimiento",
+     "apartheid-en-sudafrica-1948",
      "arco-iris-y-gusano-mae-wan-ho",
      "asesinatos-osage",
      "ataque-a-pearl-harbor-1941",
@@ -113468,12 +115549,15 @@ window.CRONO = {
      "centro-internacional-de-cabala",
      "cimatica-hans-jenny",
      "college-holy-cross-1843",
+     "conferencia-de-bandung-1955",
      "conjuncion-jupiter-saturno-2020",
      "consejo-de-seguridad-estadounidense",
      "consejo-mundial-de-la-energia-1923",
      "consejo-relaciones-exteriores",
      "corte-penal-internacional-2002",
      "cowan-cancer-potencial-agua",
+     "crisis-de-la-deuda-latinoamericana-1982",
+     "crisis-de-suez-1956",
      "crisis-del-petroleo-1973",
      "csic-1939",
      "cuatro-imperios-1914",
@@ -113500,9 +115584,11 @@ window.CRONO = {
      "gates-vacunas-poblacion-2010",
      "gatt-1947",
      "genocidio-armenio-1915",
+     "genocidio-de-ruanda-1994",
      "gosbank-1921",
      "guerra-de-afganistan-2001",
      "guerra-de-irak",
+     "guerra-de-las-malvinas-1982",
      "guerra-de-los-seis-dias-1967",
      "guerra-de-vietnam",
      "guerras-napoleonicas",
@@ -113514,6 +115600,7 @@ window.CRONO = {
      "iglesia-de-satan",
      "imperio-austrohungaro-1867",
      "incendio-primer-goetheanum-1922",
+     "independencia-y-particion-de-la-india-1947",
      "informe-iron-mountain-1967",
      "instituto-tavistock",
      "iran-criptomonedas-sanciones",
@@ -113552,6 +115639,7 @@ window.CRONO = {
      "operacion-highjump",
      "organizacion-gehlen",
      "origen-de-las-especies",
+     "pacto-de-varsovia-1955",
      "pacto-germano-sovietico-1939",
      "palantir",
      "pandemia-covid-19",
@@ -113570,6 +115658,9 @@ window.CRONO = {
      "reconstruccion-santo-sepulcro-1810",
      "reichsbank-1876",
      "rerum-novarum-1891",
+     "revolucion-cultural-china-1966",
+     "revolucion-de-los-claveles-1974",
+     "revolucion-hungara-1956",
      "rosetta-confiscada-1801",
      "ruptura-reich-psicoanalisis",
      "sagrada-familia-fecha-882",
@@ -113579,6 +115670,7 @@ window.CRONO = {
      "segunda-guerra-mundial",
      "society-for-scientific-exploration",
      "the-lone-gunmen-piloto-2001",
+     "tlcan-1994",
      "transistor",
      "tratado-de-maastricht-1992",
      "uicn-fundacion-1948",
@@ -113593,16 +115685,16 @@ window.CRONO = {
      "world-trade-center"
     ],
     "lectura": "Observación, no prueba. Los autores no reparten sus hechos por igual en el tiempo (hay más en ciertas décadas), y eso solo ya puede subir o bajar el porcentaje.",
-    "razon": 0.98
+    "razon": 1.0
    },
    {
     "id": "PAR-003",
     "titulo": "Naturaleza de las estrellas y hechos con día exacto",
     "pregunta": "¿Tienen los hechos fechados al día, más a menudo que un día cualquiera, un planeta a menos de 1° de una estrella fija de su misma naturaleza, según Robson?",
-    "n": 153,
-    "aciertos": 56,
-    "esperado": 56.2,
-    "porc_hechos": 36.6,
+    "n": 174,
+    "aciertos": 63,
+    "esperado": 63.9,
+    "porc_hechos": 36.2,
     "porc_azar": 36.7,
     "hechos": [
      "omne-datum-optimum-1139",
@@ -113641,17 +115733,24 @@ window.CRONO = {
      "huida-hitler-argentina",
      "onu",
      "unesco-fundacion-1946",
+     "independencia-y-particion-de-la-india-1947",
      "estado-de-israel",
      "uicn-fundacion-1948",
      "acnur-1950",
+     "pacto-de-varsovia-1955",
+     "revolucion-hungara-1956",
+     "crisis-de-suez-1956",
      "tratados-de-roma-1957",
      "comision-warren-zapruder-1964",
      "numero-911-emergencias-1968",
      "festival-altamont-1969",
      "crisis-del-petroleo-1973",
      "atentado-bolonia-1980",
+     "protestas-de-tiananmen-1989",
      "atentado-wtc-1993",
+     "genocidio-de-ruanda-1994",
      "comision-bergier",
+     "derogacion-de-la-ley-glass-steagall-1999",
      "the-lone-gunmen-piloto-2001",
      "guerra-de-afganistan-2001",
      "agenda-2030",
@@ -113667,18 +115766,18 @@ window.CRONO = {
      "ventana_azar": "1885-2026",
      "dias_azar": 20000,
      "dias_azar_con_coincidencia": 7349,
-     "p_una_cola": 0.545,
+     "p_una_cola": 0.587,
      "desde_1885": {
       "nombre": "hechos de 1885 a 2026",
-      "n": 102,
-      "aciertos": 36,
-      "porc": 35.3,
-      "esperado": 37.5,
-      "p_una_cola": 0.655
+      "n": 123,
+      "aciertos": 43,
+      "porc": 35.0,
+      "esperado": 45.2,
+      "p_una_cola": 0.691
      }
     },
-    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 36 de 102 (35,3 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
-    "razon": 1.0
+    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 43 de 123 (35,0 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
+    "razon": 0.99
    }
   ],
   "anios": {
