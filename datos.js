@@ -1276,6 +1276,102 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "acuerdo-sykes-picot-1916",
+   "tipo": "hecho",
+   "titulo": "El acuerdo Sykes-Picot (1916)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1916,
+    "fuente": "oficial",
+    "texto": "16 de mayo de 1916"
+   },
+   "resumen": "Acuerdo secreto entre el Reino Unido y Francia para repartirse zonas de influencia en Oriente Próximo si vencían al Imperio otomano.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El acuerdo Sykes-Picot, negociado entre noviembre de 1915 y marzo de 1916 y firmado en mayo de ese año, definía las esferas de influencia británica y francesa en Oriente Próximo en caso de victoria sobre el Imperio otomano. Los diarios rusos Izvestia y Pravda lo hicieron público en noviembre de 1917.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Acuerdo Sykes-Picot",
+      "url": "https://es.wikipedia.org/wiki/Acuerdo_Sykes-Picot",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "declaracion-balfour",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "mandato-britanico-de-palestina",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El reparto",
+     "nivel": "hecho",
+     "texto": "Los británicos recibían la zona entre el Mediterráneo y el Jordán, Jordania, el sur de Irak y un acceso al mar por Haifa y Acre. Se incumplían las promesas de una patria árabe en la Gran Siria hechas a cambio de la alianza contra los otomanos."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "acuerdos-de-munich-1938",
+   "tipo": "hecho",
+   "titulo": "Los acuerdos de Múnich (1938)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1938,
+    "fuente": "oficial",
+    "texto": "30 de septiembre de 1938"
+   },
+   "resumen": "Pacto por el que el Reino Unido, Francia e Italia aceptaron que Alemania se anexionara los Sudetes checoslovacos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Los acuerdos de Múnich, firmados por los jefes de gobierno del Reino Unido, Francia, Italia y Alemania, aprobaron la incorporación de los Sudetes a Alemania sin que Checoslovaquia estuviera presente. Chamberlain y Daladier buscaban evitar una nueva guerra, aun poniendo en peligro la existencia del país. Los checos los llamaron la traición de Múnich.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Acuerdos de Múnich",
+      "url": "https://es.wikipedia.org/wiki/Acuerdos_de_M%C3%BAnich",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tercer-reich",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "pacto-germano-sovietico-1939",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La mediación",
+     "nivel": "hecho",
+     "texto": "El acuerdo llegó con la mediación de Mussolini y a iniciativa de Hermann Göring."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "acuerdos-generales-prestamo-gab-1962",
    "tipo": "hecho",
    "titulo": "Acuerdos Generales de Préstamo (GAB) y G10, 1962",
@@ -3147,6 +3243,52 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "vista": "ciencia"
+  },
+  {
+   "id": "ataque-a-pearl-harbor-1941",
+   "tipo": "hecho",
+   "titulo": "El ataque a Pearl Harbor (1941)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1941,
+    "fuente": "oficial",
+    "texto": "7 de diciembre de 1941"
+   },
+   "resumen": "Ataque sorpresa de la Armada japonesa contra la base estadounidense de Hawái.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En la mañana del 7 de diciembre de 1941, 353 aviones japoneses salidos de seis portaaviones atacaron la base de Pearl Harbor para impedir que la flota estadounidense del Pacífico interviniera en los planes de Japón en el Sudeste Asiático. Los ocho acorazados atracados resultaron dañados, cuatro se hundieron y murieron 2.403 estadounidenses.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Ataque a Pearl Harbor",
+      "url": "https://es.wikipedia.org/wiki/Ataque_a_Pearl_Harbor",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "bombardeos-atomicos-1945",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Lo que no se atacó",
+     "nivel": "hecho",
+     "texto": "Japón no atacó la central eléctrica, el astillero, los depósitos de combustible ni las instalaciones de mantenimiento. Seis de los ocho acorazados volvieron al servicio durante la guerra."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "atentado-bolonia-1980",
@@ -8996,6 +9138,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "bombardeos-atomicos-1945",
+   "tipo": "hecho",
+   "titulo": "Las bombas atómicas sobre Hiroshima y Nagasaki (1945)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "fuente": "oficial",
+    "texto": "6 de agosto de 1945"
+   },
+   "resumen": "Los dos únicos ataques nucleares de la historia, ordenados por Truman contra Japón.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 6 y el 9 de agosto de 1945 Estados Unidos lanzó bombas atómicas sobre Hiroshima y Nagasaki por orden del presidente Truman. Junto con la guerra soviético-japonesa, contribuyeron a la rendición de Japón y al final de la Segunda Guerra Mundial. La gran mayoría de las víctimas fueron civiles.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Bombardeos atómicos de Hiroshima y Nagasaki",
+      "url": "https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_de_Hiroshima_y_Nagasaki",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "ataque-a-pearl-harbor-1941",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las cifras",
+     "nivel": "hecho",
+     "texto": "Se estima que a finales de 1945 habían muerto 166.000 personas en Hiroshima y 80.000 en Nagasaki, alrededor de la mitad en los días de los bombardeos. Antes se había bombardeado intensamente otras 67 ciudades."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "boson-de-higgs-2012",
    "tipo": "hecho",
    "titulo": "Detección del bosón de Higgs en el CERN",
@@ -9970,6 +10158,56 @@ window.CRONO = {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
      "texto": "Las fuentes leídas fechan el asedio en 1522 y la salida de la orden en enero de 1523; no hay ninguna caída de Rodas en 1720 ni en 1708. El autor da dos fechas distintas para el mismo suceso dentro de su propia cronología.\n\nLa fecha de 1720 de esta ficha es la del autor, no la comprobada."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "caida-del-muro-de-berlin-1989",
+   "tipo": "hecho",
+   "titulo": "La caída del Muro de Berlín (1989)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1989,
+    "fuente": "oficial",
+    "texto": "9 de noviembre de 1989"
+   },
+   "resumen": "Revuelta popular que abrió el Muro de Berlín y marcó el final de la Guerra Fría.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 9 de noviembre de 1989 una revuelta popular en Berlín Oriental acabó con las fortificaciones que lo separaban de Berlín Occidental. Marcó el fin del telón de acero; la cumbre de Malta proclamó tres semanas después el final de la Guerra Fría, y la reunificación alemana llegó menos de once meses más tarde.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Caída del Muro de Berlín",
+      "url": "https://es.wikipedia.org/wiki/Ca%C3%ADda_del_Muro_de_Berl%C3%ADn",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "muro-de-berlin-1961",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "disolucion-de-la-urss-1991",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La reacción en cadena",
+     "nivel": "hecho",
+     "texto": "En abril de 1989 se desmanteló la valla eléctrica entre Hungría y Austria, y el 19 de agosto el Pícnic Paneuropeo, idea de Otto de Habsburgo, abrió el paso. Fue la mayor huida de alemanes orientales desde 1961."
     }
    ],
    "vista": "politica"
@@ -12327,6 +12565,53 @@ window.CRONO = {
     }
    ],
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "ceca-1951",
+   "tipo": "hecho",
+   "titulo": "La Comunidad Europea del Carbón y del Acero (1951)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1951,
+    "fuente": "oficial",
+    "texto": "1951 – 2002",
+    "hasta": 2002
+   },
+   "resumen": "Primera comunidad europea, que puso en común la regulación del carbón y el acero de seis países.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La CECA, promovida desde 1950 por Robert Schuman y Jean Monnet, se creó con el tratado de París de 1951 entre Francia, Alemania Occidental, Italia, Bélgica, Luxemburgo y los Países Bajos. Fue el antecedente directo de las comunidades de los Tratados de Roma. Su tratado entró en vigor en 1952 y expiró en 2002.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Comunidad Europea del Carbón y del Acero",
+      "url": "https://es.wikipedia.org/wiki/Comunidad_Europea_del_Carb%C3%B3n_y_del_Acero",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tratados-de-roma-1957",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "plan-marshall-1948",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Para qué",
+     "nivel": "hecho",
+     "texto": "Acercar a Francia y Alemania para evitar nuevas disputas, empezando por las zonas industriales del Ruhr y el Sarre, en el centro de sus disputas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -15302,6 +15587,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "conferencia-de-yalta-1945",
+   "tipo": "hecho",
+   "titulo": "La conferencia de Yalta (1945)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "fuente": "oficial",
+    "texto": "4 de febrero de 1945"
+   },
+   "resumen": "Reunión de Stalin, Churchill y Roosevelt antes de terminar la guerra, que suele verse como el comienzo de la Guerra Fría.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Del 4 al 11 de febrero de 1945, Stalin, Churchill y Roosevelt se reunieron en el palacio de Livadia, en Crimea. Sus acuerdos fueron polémicos: no se consultó ni informó a otros gobiernos, y se reprochó no haber asegurado un control internacional sobre los países liberados por la URSS.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Conferencia de Yalta",
+      "url": "https://es.wikipedia.org/wiki/Conferencia_de_Yalta",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La serie de cumbres",
+     "nivel": "hecho",
+     "texto": "Seguía a las de Moscú (1942), Casablanca, El Cairo y Teherán (1943), y precedió a la de Potsdam. Francia no estaba en las negociaciones."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "congregacion-de-auxiliis",
    "tipo": "hecho",
    "titulo": "La Congregación De Auxiliis",
@@ -17722,6 +18053,56 @@ window.CRONO = {
    "estado": "borrador",
    "fecha_autor": "tras el hundimiento del Titanic (1912)",
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "crisis-del-petroleo-1973",
+   "tipo": "hecho",
+   "titulo": "La crisis del petróleo de 1973",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1973,
+    "fuente": "oficial",
+    "texto": "16 de octubre de 1973"
+   },
+   "resumen": "Embargo de los países exportadores de petróleo a quienes apoyaron a Israel, que disparó el precio y la inflación.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La crisis empezó en octubre de 1973, cuando la OPEP decidió no exportar petróleo a los países que habían apoyado a Israel en la guerra de Yom Kipur. El embargo afectó primero a Estados Unidos, Canadá, Japón, los Países Bajos y el Reino Unido y se extendió después a otros. El encarecimiento, unido a la dependencia del petróleo, provocó inflación y frenó la actividad.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Crisis del petróleo de 1973",
+      "url": "https://es.wikipedia.org/wiki/Crisis_del_petr%C3%B3leo_de_1973",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "opep-1960",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "petrodolar",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "shock-de-nixon-1971",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "La dependencia",
+     "nivel": "hecho",
+     "texto": "Entre 1945 y finales de los sesenta Occidente y Japón consumieron más petróleo que nunca. Estados Unidos, con el 6 % de la población mundial, gastaba el 33 % de la energía."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -20217,6 +20598,60 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "disolucion-de-la-urss-1991",
+   "tipo": "hecho",
+   "titulo": "La disolución de la Unión Soviética (1991)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1991,
+    "fuente": "oficial",
+    "texto": "8 de diciembre de 1991"
+   },
+   "resumen": "Desintegración del Estado soviético y de su gobierno central, con la independencia de sus quince repúblicas.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La disolución culminó con la independencia de las quince repúblicas entre marzo de 1990 y diciembre de 1991. En el acuerdo de Belavezha, del 8 de diciembre de 1991, los dirigentes de Rusia, Ucrania y Bielorrusia (Yeltsin, Kravchuk y Shushkévich) declararon disuelta la URSS. Marcó el final de la Guerra Fría.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Disolución de la Unión Soviética",
+      "url": "https://es.wikipedia.org/wiki/Disoluci%C3%B3n_de_la_Uni%C3%B3n_Sovi%C3%A9tica",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "union-sovietica",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "gosbank-1921",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "banco-de-rusia-1990",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El derrumbe fue económico y territorial: las reformas de Gorbachov, la perestroika, intentaban pasar con rapidez de la economía planificada a una de mercado ante el colapso económico."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "divisio-regnorum-806",
    "tipo": "hecho",
    "titulo": "Divisio regnorum (806)",
@@ -20405,6 +20840,56 @@ window.CRONO = {
     }
    ],
    "naturaleza": "ideales-sociales",
+   "vista": "politica"
+  },
+  {
+   "id": "doctrina-truman-1947",
+   "tipo": "hecho",
+   "titulo": "La doctrina Truman (1947)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1947,
+    "fuente": "oficial",
+    "texto": "12 de marzo de 1947"
+   },
+   "resumen": "Principio de la política exterior de Estados Unidos para contener la expansión del comunismo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Truman la expuso ante el Congreso el 12 de marzo de 1947, en plena guerra civil griega. No implicaba usar directamente la fuerza militar, pero el Congreso dio ayuda financiera a Grecia y Turquía y comprometía el apoyo a otras naciones que se consideraran amenazadas. Puso las bases de una política exterior intervencionista, condujo a la OTAN y supuso de hecho el inicio de la Guerra Fría.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Doctrina Truman",
+      "url": "https://es.wikipedia.org/wiki/Doctrina_Truman",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "otan-1949",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "plan-marshall-1948",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El instrumento fue la ayuda financiera votada por el Congreso, antes que las tropas."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -22086,6 +22571,52 @@ window.CRONO = {
     }
    ],
    "vista": "ciencia"
+  },
+  {
+   "id": "entente-cordiale-1904",
+   "tipo": "hecho",
+   "titulo": "La Entente Cordiale (1904)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1904,
+    "fuente": "oficial",
+    "texto": "8 de abril de 1904"
+   },
+   "resumen": "Acuerdo entre el Reino Unido y Francia que reguló sus disputas coloniales y abrió una etapa de entendimiento entre ambos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Entente Cordiale fue un tratado de no agresión y de reparto colonial firmado por el Reino Unido y Francia en 1904. No era una alianza militar, sino un acuerdo para rebajar tensiones ante el auge naval y militar de la Alemania de Guillermo II. Fue la base del sistema de alianzas de la Primera Guerra Mundial conocido como Triple Entente.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Entente Cordiale",
+      "url": "https://es.wikipedia.org/wiki/Entente_Cordiale",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "primera-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "revolucion-rusa-1905",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué se repartió",
+     "nivel": "hecho",
+     "texto": "Los primeros artículos reconocían la zona de influencia británica en Egipto y la francesa en Marruecos, y afirmaban la libertad de comercio y de paso por el canal de Suez y el estrecho de Gibraltar."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "entrevista-stalin-emil-ludwig-1931",
@@ -27088,6 +27619,49 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "gatt-1947",
+   "tipo": "hecho",
+   "titulo": "El GATT, acuerdo sobre aranceles y comercio (1947)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1947,
+    "fuente": "oficial",
+    "texto": "1947 – 1995",
+    "hasta": 1995
+   },
+   "resumen": "Tratado internacional para reducir aranceles y promover el comercio, antecedente de la Organización Mundial del Comercio.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El GATT se firmó en 1947 entre 23 países para promover el comercio mediante rondas de reducción de aranceles basadas en la reciprocidad. Lo desarrollaron Estados Unidos y el Reino Unido junto al proyecto de una Organización Internacional del Comercio. La Ronda de Uruguay creó en 1994 la Organización Mundial del Comercio, y el GATT de 1947 se dio por terminado a finales de 1995.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Acuerdo General sobre Aranceles Aduaneros y Comercio",
+      "url": "https://es.wikipedia.org/wiki/Acuerdo_General_sobre_Aranceles_Aduaneros_y_Comercio",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bretton-woods-1944",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo se negocia",
+     "nivel": "hecho",
+     "texto": "Producto a producto y entre miembros, con peticiones y ofertas. Antes, la ley estadounidense de acuerdos recíprocos de 1934 había permitido pactos bilaterales que apenas ampliaron el comercio."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "geidco-2016",
    "tipo": "hecho",
    "titulo": "GEIDCO, Organización para el Desarrollo y la Cooperación de la Interconexión Energética Global",
@@ -27221,6 +27795,58 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "genocidio-armenio-1915",
+   "tipo": "hecho",
+   "titulo": "El genocidio armenio (1915–1923)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1915,
+    "fuente": "oficial",
+    "texto": "1915 – 1923",
+    "hasta": 1923
+   },
+   "resumen": "Deportación y exterminio de la población armenia del Imperio otomano por el gobierno de los Jóvenes Turcos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El genocidio armenio fue la deportación forzosa y el exterminio sistemático de alrededor de 1,5 millones de armenios cristianos del Imperio otomano, entre 1915 y 1923, por el gobierno del Comité de Unión y Progreso. La mayoría de los historiadores y numerosos países lo reconocen como genocidio; el gobierno de Turquía niega ese carácter.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Genocidio armenio",
+      "url": "https://es.wikipedia.org/wiki/Genocidio_armenio",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerras-de-los-balcanes-1912",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "primera-guerra-mundial",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Qué ocurrió",
+     "nivel": "hecho",
+     "texto": "Hubo marchas de la muerte por el desierto sirio, ejecuciones masivas, hambre y conversiones forzadas, sobre todo de mujeres y niños. Ya se habían producido matanzas en la década de 1890 y en 1909."
+    },
+    {
+     "titulo": "Contexto",
+     "nivel": "hecho",
+     "texto": "Las derrotas de las guerras de los Balcanes despertaron entre los dirigentes el temor a que los armenios buscaran la independencia en Anatolia, que consideraban el último refugio de la nación turca."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "georgetown-universidad",
@@ -27731,6 +28357,54 @@ window.CRONO = {
    ],
    "naturaleza": "tratados-y-escritos",
    "vista": "religion"
+  },
+  {
+   "id": "gran-purga-urss",
+   "tipo": "hecho",
+   "titulo": "La Gran Purga en la Unión Soviética (finales de los años 1930)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1936,
+    "fuente": "oficial",
+    "texto": "finales de los años 1930",
+    "hasta": 1939,
+    "aprox": true
+   },
+   "resumen": "Campaña de represión política de Stalin, con juicios públicos, campos de trabajo y ejecuciones.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Gran Purga, o Gran Terror, fue la serie de campañas de represión en la Unión Soviética a finales de los años treinta. Cientos de miles de comunistas, viejos bolcheviques, socialistas, anarquistas y opositores fueron perseguidos, juzgados o enviados al Gulag. Fue decisiva para consolidar el poder de Stalin.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Gran Purga",
+      "url": "https://es.wikipedia.org/wiki/Gran_Purga",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "stalin-poder-1929",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "checa-policia-secreta-sovietica",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Quién la ejecutó",
+     "nivel": "hecho",
+     "texto": "La mayoría de las detenciones las hizo el NKVD dirigido por Nikolái Yezhov, y en los grandes juicios intervino el fiscal general Andréi Vyshinski. En 1937 se autorizó la tortura para obtener confesiones. Muchas víctimas eran del propio partido y del Ejército Rojo."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "gran-tartaria-fuentes-siglo-xviii",
@@ -30447,6 +31121,53 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "guerras-de-los-balcanes-1912",
+   "tipo": "hecho",
+   "titulo": "Las guerras de los Balcanes (1912–1913)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1912,
+    "fuente": "oficial",
+    "texto": "1912 – 1913",
+    "hasta": 1913
+   },
+   "resumen": "Dos guerras en el sureste de Europa: los Estados balcánicos expulsaron a los otomanos y después se enfrentaron entre sí por el reparto.",
+   "segun": [],
+   "oficial": {
+    "resumen": "En la primera guerra, la Liga de los Balcanes (Bulgaria, Montenegro, Grecia y Serbia) expulsó al Imperio otomano de casi toda la península. La disputa por las tierras conquistadas abrió la segunda. El tratado de Bucarest las cerró, dejando un equilibrio inestable.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Guerras de los Balcanes",
+      "url": "https://es.wikipedia.org/wiki/Guerras_de_los_Balcanes",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "atentado-de-sarajevo",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "primera-guerra-mundial",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Las potencias",
+     "nivel": "hecho",
+     "texto": "Las grandes potencias, en especial Rusia y Austria-Hungría, trataron de influir en la evolución política de la zona."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "guerras-del-opio",
    "tipo": "hecho",
    "titulo": "Guerras del Opio (1839-1860)",
@@ -30911,6 +31632,57 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "hiperinflacion-alemana-1923",
+   "tipo": "hecho",
+   "titulo": "La hiperinflación de la República de Weimar (1921–1923)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1921,
+    "fuente": "oficial",
+    "texto": "1921 – 1923",
+    "hasta": 1923
+   },
+   "resumen": "Hundimiento del valor del marco alemán tras la Primera Guerra Mundial, con precios disparados y abandono de la moneda como medio de cambio.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Entre 1921 y 1923 la Alemania de Weimar sufrió la hiperinflación más conocida de la historia, aunque no la primera ni la más fuerte de los años veinte. Arrancaba de la guerra, cuando el gobierno emitió un marco de papel sin respaldo en oro, y se agravó con las reparaciones fijadas en el tratado de Versalles.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Hiperinflación en la República de Weimar",
+      "url": "https://es.wikipedia.org/wiki/Hiperinflaci%C3%B3n_en_la_Rep%C3%BAblica_de_Weimar",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tratado-de-versalles",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "plan-dawes-1924",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "reichsbank-1876",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El imperio había abandonado el respaldo en oro para pagar la guerra emitiendo papel moneda; la derrota añadió el pago de reparaciones a las potencias vencedoras."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "hipotesis-tiempo-fantasma-1986",
    "tipo": "hecho",
    "titulo": "Hipótesis del tiempo fantasma (Illig y Niemitz)",
@@ -31105,6 +31877,108 @@ window.CRONO = {
    "estado": "aprobado",
    "citas": [],
    "vista": "ciencia"
+  },
+  {
+   "id": "holocausto",
+   "tipo": "hecho",
+   "titulo": "El Holocausto (1941–1945)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1941,
+    "fuente": "oficial",
+    "texto": "1941 – 1945",
+    "hasta": 1945
+   },
+   "resumen": "Genocidio de los judíos de Europa por el régimen de la Alemania nazi durante la Segunda Guerra Mundial.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Holocausto, o Shoá, fue el exterminio sistemático de los judíos de Europa por la Alemania nazi entre 1941 y 1945, el mayor genocidio del siglo XX. La decisión se tomó entre finales del verano y principios del otoño de 1941; desde 1942 las víctimas se transportaban en trenes a campos de exterminio, donde la mayoría eran asesinadas en cámaras de gas. Himmler dirigió la planificación y Hitler dio su aprobación.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Holocausto",
+      "url": "https://es.wikipedia.org/wiki/Holocausto",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tercer-reich",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "segunda-guerra-mundial",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "schutzstaffel-ss-1925",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "juicios-de-nuremberg-1945",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Otras víctimas",
+     "nivel": "hecho",
+     "texto": "La persecución alcanzó también a romaníes y prisioneros de guerra soviéticos, entre otros; el término se usa a veces para incluirlos."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "holodomor-1932",
+   "tipo": "hecho",
+   "titulo": "El Holodomor, la hambruna de Ucrania (1932–1933)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1932,
+    "fuente": "oficial",
+    "texto": "1932 – 1933",
+    "hasta": 1933
+   },
+   "resumen": "Hambruna que asoló Ucrania y otras regiones soviéticas durante la colectivización de la tierra; su carácter de genocidio se debate.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Holodomor fue la hambruna que devastó Ucrania, Kubán y otras zonas de la Unión Soviética hacia 1932–1933, en plena colectivización. Las cifras de muertos ucranianos varían mucho, entre 1,5 y 12 millones. Sus causas, la intención y si fue un genocidio siguen en debate académico: unos sostienen que Stalin la planeó contra el independentismo ucraniano y otros que fue consecuencia de la industrialización.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Holodomor",
+      "url": "https://es.wikipedia.org/wiki/Holodomor",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "stalin-poder-1929",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "gosbank-1921",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Los archivos",
+     "nivel": "hecho",
+     "texto": "Los documentos soviéticos desclasificados registran un exceso de mortalidad de unas 150.000 personas en 1932 y algo más de 1,3 millones en 1933: unos 1,5 millones en total."
+    }
+   ],
+   "vista": "politica"
   },
   {
    "id": "hombre-de-pekin",
@@ -35331,6 +36205,61 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "juicios-de-nuremberg-1945",
+   "tipo": "hecho",
+   "titulo": "Los juicios de Núremberg (1945–1946)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1945,
+    "fuente": "oficial",
+    "texto": "20 de noviembre de 1945 – 1 de octubre de 1946",
+    "hasta": 1946
+   },
+   "resumen": "Procesos de los aliados contra dirigentes y organizaciones del régimen nazi por sus crímenes.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Los juicios de Núremberg, promovidos por los aliados vencedores, determinaron las responsabilidades de dirigentes y colaboradores nazis por abusos y crímenes contra la humanidad. El principal, ante el Tribunal Militar Internacional creado por la Carta de Londres, juzgó a 24 dirigentes y varias organizaciones; le siguieron doce procesos ante un tribunal militar estadounidense.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Juicios de Núremberg",
+      "url": "https://es.wikipedia.org/wiki/Juicios_de_N%C3%BAremberg",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "holocausto",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "tercer-reich",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "operacion-paperclip",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "rutas-de-escape-nazis",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El proceso principal",
+     "nivel": "hecho",
+     "texto": "Declararon 240 testigos y se leyeron unas 300.000 declaraciones; hubo doce condenas a muerte."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "juramento-hipocratico",
    "tipo": "hecho",
    "titulo": "Juramento hipocrático",
@@ -38346,6 +39275,56 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "marcha-sobre-roma-1922",
+   "tipo": "hecho",
+   "titulo": "La Marcha sobre Roma (1922)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1922,
+    "fuente": "oficial",
+    "texto": "28 de octubre de 1922"
+   },
+   "resumen": "Movilización fascista sobre Roma que llevó a Mussolini al gobierno de Italia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Marcha sobre Roma, organizada por Benito Mussolini, líder del Partido Nacional Fascista, entre el 27 y el 29 de octubre de 1922, lo llevó al poder. Su nombramiento como jefe de gobierno se ajustó formalmente a la constitución; la dictadura llegó después, tras el asesinato de Giacomo Matteotti y la prohibición de la oposición.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Marcha sobre Roma",
+      "url": "https://es.wikipedia.org/wiki/Marcha_sobre_Roma",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "mussolini-titere-del-vaticano",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "decretos-proclericales-fascismo-1922",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "estado-totalitario-fascista-1925",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de la marcha",
+     "nivel": "hecho",
+     "texto": "Desde 1919 las escuadras fascistas atacaban a socialistas, comunistas y opositores. Mussolini entró en el parlamento en 1921, y la élite conservadora aceptó al principio el fascismo."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "marianne-simbolo-republica",
    "tipo": "hecho",
    "titulo": "Marianne, símbolo de la República Francesa",
@@ -41230,6 +42209,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "muro-de-berlin-1961",
+   "tipo": "hecho",
+   "titulo": "La construcción del Muro de Berlín (1961)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1961,
+    "fuente": "oficial",
+    "texto": "13 de agosto de 1961"
+   },
+   "resumen": "Frontera fortificada que separó Berlín Oeste de la Alemania Oriental, símbolo de la Guerra Fría.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Muro de Berlín se levantó el 13 de agosto de 1961 y estuvo en pie hasta 1989. Separaba Berlín Oeste, vinculado a la República Federal, de Berlín Este y de la República Democrática. El bloque oriental sostenía que protegía a su población de elementos fascistas; en Occidente se le llamaba el muro de la vergüenza.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Muro de Berlín",
+      "url": "https://es.wikipedia.org/wiki/Muro_de_Berl%C3%ADn",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "caida-del-muro-de-berlin-1989",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo era",
+     "nivel": "hecho",
+     "texto": "45 kilómetros dividían la ciudad y otros 115 rodeaban su parte occidental. Unas 3.000 personas fueron detenidas al intentar cruzar; el número de muertos no se conoce con exactitud."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "mussolini-caballero-de-malta",
    "tipo": "hecho",
    "titulo": "Mussolini, caballero de la Orden de Malta",
@@ -42066,6 +43091,57 @@ window.CRONO = {
     }
    ],
    "vista": "religion"
+  },
+  {
+   "id": "new-deal-1933",
+   "tipo": "hecho",
+   "titulo": "El New Deal (1933–1938)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1933,
+    "fuente": "oficial",
+    "texto": "1933 – 1938",
+    "hasta": 1938
+   },
+   "resumen": "Programa intervencionista de Franklin D. Roosevelt contra los efectos de la Gran Depresión en Estados Unidos.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El New Deal fue la política de Roosevelt para combatir la Gran Depresión entre 1933 y 1938: sostener a los más pobres, reformar los mercados financieros y reactivar la economía. El primero, el de los Cien Días de 1933, buscó mejoras rápidas; el segundo, desde 1935, redistribuyó recursos y poder.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): New Deal",
+      "url": "https://es.wikipedia.org/wiki/New_Deal",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "crac-de-1929",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "orden-ejecutiva-6102-oro-1933",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "sistema-reserva-federal",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Medidas",
+     "nivel": "hecho",
+     "texto": "Reforma bancaria, ayudas de urgencia, empleo y programas agrícolas en la primera fase, con resultados moderados; leyes sindicales y la Ley de Seguridad Social en la segunda. El Tribunal Supremo anuló varias reformas."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "new-world-order-wells-1940",
@@ -45681,6 +46757,61 @@ window.CRONO = {
    "vista": "religion"
   },
   {
+   "id": "orden-ejecutiva-6102-oro-1933",
+   "tipo": "hecho",
+   "titulo": "La orden 6102: entrega obligatoria del oro en EE. UU. (1933)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1933,
+    "fuente": "oficial",
+    "texto": "5 de abril de 1933"
+   },
+   "resumen": "Orden de Roosevelt que prohibió a los ciudadanos acumular oro y les obligó a entregarlo a la Reserva Federal.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La orden ejecutiva 6102 obligaba a los estadounidenses a entregar su oro a la Reserva Federal antes del 1 de mayo de 1933, a cambio de 20,67 dólares por onza, con multas de hasta 10.000 dólares o diez años de cárcel. Después, el precio del oro para las transacciones con el exterior subió a 35 dólares, cambio oficializado en 1934.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Orden Ejecutiva 6102",
+      "url": "https://es.wikipedia.org/wiki/Orden_Ejecutiva_6102",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "new-deal-1933",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "sistema-reserva-federal",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "shock-de-nixon-1971",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Excepciones",
+     "nivel": "hecho",
+     "texto": "Quedaban fuera joyeros, artistas, dentistas y quienes usaran oro en su trabajo. Cada ciudadano podía conservar hasta 100 dólares en monedas de oro, unas cinco onzas."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El gobierno pagó 20,67 dólares por onza y, una vez reunidas grandes cantidades de oro, elevó su precio a 35 dólares para las transacciones con el exterior."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "ordenes-espuela-de-oro-y-cristo-1725",
    "tipo": "hecho",
    "titulo": "Orden de la Espuela de Oro y Orden de Cristo (1725 = 1540)",
@@ -48236,6 +49367,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "plan-dawes-1924",
+   "tipo": "hecho",
+   "titulo": "El Plan Dawes (1924)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1924,
+    "fuente": "oficial",
+    "texto": "16 de agosto de 1924"
+   },
+   "resumen": "Programa promovido por Estados Unidos para que Alemania pudiera pagar las reparaciones de guerra mientras se estabilizaba su economía.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Plan Dawes se negoció bajo auspicio estadounidense para asegurar a los aliados el cobro de las reparaciones del tratado de Versalles y a la vez estabilizar la economía alemana. Se publicó en abril de 1924, se concluyó en agosto y entró en vigor en septiembre.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Plan Dawes",
+      "url": "https://es.wikipedia.org/wiki/Plan_Dawes",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tratado-de-versalles",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "hiperinflacion-alemana-1923",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La comisión de reparaciones fijó en 1921 la deuda alemana en 132.000 millones de marcos oro. Varios aliados, como Italia, Francia y Bélgica, debían dinero de la guerra al Reino Unido y a Estados Unidos, y esperaban cobrar de Alemania para pagar."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "plan-kalergi",
    "tipo": "hecho",
    "titulo": "El «plan Kalergi»",
@@ -48312,6 +49489,62 @@ window.CRONO = {
    ],
    "naturaleza": "ideales-sociales",
    "vista": "politica"
+  },
+  {
+   "id": "plan-marshall-1948",
+   "tipo": "hecho",
+   "titulo": "El Plan Marshall (1948–1952)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "fuente": "oficial",
+    "texto": "3 de abril de 1948",
+    "hasta": 1952
+   },
+   "resumen": "Programa de ayuda de Estados Unidos para reconstruir Europa Occidental y frenar el comunismo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Plan Marshall, oficialmente Programa de Recuperación Europea, aportó unos 13.000 millones de dólares de la época durante cuatro años desde abril de 1948. Buscaba reconstruir las zonas destruidas, quitar barreras al comercio, modernizar la industria y hacer próspera a Europa para evitar la propagación del comunismo. Se beneficiaron 18 países.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Plan Marshall",
+      "url": "https://es.wikipedia.org/wiki/Plan_Marshall",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "doctrina-truman-1947",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "ocde-1948",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "guerra-fria",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El Reino Unido recibió el 26 % del total, Francia el 18 % y Alemania Occidental el 13 %. Las ayudas se repartieron más o menos por habitante, con más para las grandes potencias industriales y algo más por persona para los aliados que para el antiguo Eje o los neutrales."
+    },
+    {
+     "titulo": "Condiciones",
+     "nivel": "hecho",
+     "texto": "Exigía rebajar barreras entre Estados y la regulación de las empresas, y alentaba la productividad, la afiliación sindical y modelos de negocio nuevos."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "pleitos-colombinos",
@@ -51464,6 +52697,53 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "revolucion-de-xinhai-1911",
+   "tipo": "hecho",
+   "titulo": "La Revolución de Xinhai y el fin del Imperio chino (1911)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1911,
+    "fuente": "oficial",
+    "texto": "10 de octubre de 1911 – 12 de febrero de 1912",
+    "hasta": 1912
+   },
+   "resumen": "Revolución que derrocó a la última dinastía imperial china, la Qing, y proclamó la República de China.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Revolución de Xinhai derrocó a la dinastía Qing y estableció la República de China. Su punto de inflexión fue el levantamiento de Wuchang, en octubre de 1911, y terminó con la abdicación del emperador niño Puyi en febrero de 1912, que cerró unos dos mil años de gobierno imperial.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución de Xinhai",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_Xinhai",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "partido-comunista-de-china-1921",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "revolucion-china-1949",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo se resolvió",
+     "nivel": "hecho",
+     "texto": "La breve guerra civil acabó en un compromiso entre Yuan Shikai, el hombre fuerte militar de los Qing, y Sun Yat-sen, líder de la Liga Unida. El detonante del levantamiento fue la mala gestión del conflicto por la protección de los ferrocarriles."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "revolucion-francesa-1789",
    "tipo": "hecho",
    "titulo": "Revolución francesa (1789–1799)",
@@ -51762,6 +53042,104 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-mexicana-1910",
+   "tipo": "hecho",
+   "titulo": "La Revolución mexicana (1910–1917)",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1910,
+    "fuente": "oficial",
+    "texto": "20 de noviembre de 1910 – 5 de febrero de 1917",
+    "hasta": 1917
+   },
+   "resumen": "Conflicto armado en México que puso fin a la larga dictadura de Porfirio Díaz.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Revolución mexicana fue un conflicto armado iniciado en 1910 y cerrado en 1917. Su origen está en el porfiriato, la dictadura de Porfirio Díaz (1876–1911), que trajo crecimiento económico y estabilidad con un alto coste social. Se estima que causó entre uno y dos millones de muertes directas entre 1910 y 1920.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución mexicana",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_mexicana",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-mexico-1925",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo estalló",
+     "nivel": "hecho",
+     "texto": "Díaz dijo en una entrevista que se retiraría al acabar su mandato; la oposición se organizó en torno a Francisco I. Madero. Díaz volvió a presentarse y Madero fue arrestado en San Luis Potosí por sedición."
+    },
+    {
+     "titulo": "Coste",
+     "nivel": "hecho",
+     "texto": "Sumando hambrunas, emigración, la gripe de 1918 y la caída de la natalidad, México perdió hasta 3,4 millones de personas."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
+   "id": "revolucion-rusa-1905",
+   "tipo": "hecho",
+   "titulo": "La Revolución rusa de 1905",
+   "carril": "politica-economia",
+   "naturaleza": "conflictos-belicos",
+   "temas": [],
+   "fecha": {
+    "desde": 1905,
+    "fuente": "oficial",
+    "texto": "1905"
+   },
+   "resumen": "Ola de huelgas, disturbios campesinos y motines contra el régimen del zar Nicolás II, que desembocó en una monarquía constitucional limitada.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La Revolución de 1905 fue una oleada de agitación de masas en buena parte del Imperio ruso, con terrorismo, huelgas, disturbios en el campo y motines militares unidos por el descontento con el zar Nicolás II. Condujo a una monarquía constitucional limitada y a la creación de la Duma Imperial.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Revolución rusa de 1905",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_rusa_de_1905",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "guerra-ruso-japonesa",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "revolucion-rusa-1917",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "banco-estatal-imperio-ruso-1860",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "Las reformas iniciadas en la década de 1860 liberalizaron la economía y la sociedad, pero dejaron casi intacto el sistema político. Medio siglo después de aprobarse los consejos rurales, menos de cuarenta provincias los tenían."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -58319,6 +59697,52 @@ window.CRONO = {
    "vista": "politica"
   },
   {
+   "id": "tratado-de-maastricht-1992",
+   "tipo": "hecho",
+   "titulo": "El Tratado de Maastricht (1992)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1992,
+    "fuente": "oficial",
+    "texto": "7 de febrero de 1992"
+   },
+   "resumen": "Tratado de la Unión Europea, que reunió las comunidades anteriores y añadió la política exterior y los asuntos de justicia e interior.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Tratado de la Unión Europea se firmó en Maastricht el 7 de febrero de 1992 y entró en vigor el 1 de noviembre de 1993. Es uno de los tratados constitutivos de la Unión. Sumó a las tres comunidades existentes dos nuevos pilares: la política exterior y de seguridad común, y los asuntos de justicia e interior.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Tratado de Maastricht",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Maastricht",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "tratados-de-roma-1957",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Después",
+     "nivel": "hecho",
+     "texto": "Lo modificaron los tratados de Ámsterdam, Niza y Lisboa."
+    }
+   ],
+   "vista": "politica"
+  },
+  {
    "id": "tratado-de-paris-1783",
    "tipo": "hecho",
    "titulo": "Tratado de París de 1783",
@@ -58635,6 +60059,52 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "naturaleza": "conflictos-belicos",
+   "vista": "politica"
+  },
+  {
+   "id": "tratados-de-roma-1957",
+   "tipo": "hecho",
+   "titulo": "Los Tratados de Roma (1957)",
+   "carril": "politica-economia",
+   "naturaleza": "gobiernos",
+   "temas": [],
+   "fecha": {
+    "desde": 1957,
+    "fuente": "oficial",
+    "texto": "25 de marzo de 1957"
+   },
+   "resumen": "Tratados que crearon la Comunidad Económica Europea y la comunidad atómica, origen de la Unión Europea.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El 25 de marzo de 1957 Alemania Occidental, Bélgica, Francia, Italia, Luxemburgo y los Países Bajos firmaron los tratados que establecieron la Comunidad Económica Europea y Euratom. Entraron en vigor el 1 de enero de 1958. El tratado de la CEE, muy modificado, es hoy el Tratado de Funcionamiento de la Unión Europea.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Tratados de Roma",
+      "url": "https://es.wikipedia.org/wiki/Tratados_de_Roma",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "ceca-1951",
+     "nota": "Hecho relacionado."
+    },
+    {
+     "id": "tratado-de-maastricht-1992",
+     "nota": "Hecho relacionado."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedente",
+     "nivel": "hecho",
+     "texto": "Seguían a la propuesta de Schuman de 1950 y a la Comunidad del Carbón y del Acero de 1951."
+    }
+   ],
    "vista": "politica"
   },
   {
@@ -106922,6 +108392,66 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "acuerdo-sykes-picot-1916": {
+    "fecha": "1916-05-16",
+    "pos": {
+     "Sol": "25°Tau",
+     "Mercurio": "16°Gem",
+     "Venus": "8°Can",
+     "Marte": "24°Leo",
+     "Júpiter": "22°Ari",
+     "Saturno": "13°Can",
+     "Urano": "19°Acu",
+     "Neptuno": "0°Leo",
+     "Plutón": "1°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 2.4
+     },
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 2.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Esc",
+     "oposiciones": []
+    }
+   },
+   "acuerdos-de-munich-1938": {
+    "fecha": "1938-09-30",
+    "pos": {
+     "Sol": "6°Lib",
+     "Mercurio": "28°Vir",
+     "Venus": "21°Esc",
+     "Marte": "14°Vir",
+     "Júpiter": "22°Acu",
+     "Saturno": "15°Ari",
+     "Urano": "17°Tau",
+     "Neptuno": "21°Vir",
+     "Plutón": "1°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Sag",
+     "oposiciones": []
+    }
+   },
    "ad-abolendam-1184": {
     "fecha": "1184-11-04",
     "pos": {
@@ -107068,6 +108598,39 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "7°Acu",
+     "oposiciones": []
+    }
+   },
+   "ataque-a-pearl-harbor-1941": {
+    "fecha": "1941-12-07",
+    "pos": {
+     "Sol": "15°Sag",
+     "Mercurio": "7°Sag",
+     "Venus": "1°Acu",
+     "Marte": "15°Ari",
+     "Júpiter": "16°Gem",
+     "Saturno": "23°Tau",
+     "Urano": "27°Tau",
+     "Neptuno": "29°Vir",
+     "Plutón": "5°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Can",
      "oposiciones": []
     }
    },
@@ -107461,6 +109024,33 @@ window.CRONO = {
      ]
     }
    },
+   "bombardeos-atomicos-1945": {
+    "fecha": "1945-08-06",
+    "pos": {
+     "Sol": "13°Leo",
+     "Mercurio": "4°Vir",
+     "Venus": "2°Can",
+     "Marte": "9°Gem",
+     "Júpiter": "26°Vir",
+     "Saturno": "18°Can",
+     "Urano": "16°Gem",
+     "Neptuno": "4°Lib",
+     "Plutón": "9°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "25°Can",
+     "oposiciones": []
+    }
+   },
    "boson-de-higgs-2012": {
     "fecha": "2012-07-04",
     "pos": {
@@ -107577,6 +109167,51 @@ window.CRONO = {
     "sin_pluton": true,
     "luna": {
      "pos": "5°Pis",
+     "oposiciones": []
+    }
+   },
+   "caida-del-muro-de-berlin-1989": {
+    "fecha": "1989-11-09",
+    "pos": {
+     "Sol": "17°Esc",
+     "Mercurio": "16°Esc",
+     "Venus": "4°Cap",
+     "Marte": "3°Esc",
+     "Júpiter": "10°Can",
+     "Saturno": "10°Cap",
+     "Urano": "2°Cap",
+     "Neptuno": "10°Cap",
+     "Plutón": "15°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 0.7
+     },
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.6
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.4
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "24°Pis",
      "oposiciones": []
     }
    },
@@ -107719,6 +109354,51 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "7°Tau",
+     "oposiciones": []
+    }
+   },
+   "conferencia-de-yalta-1945": {
+    "fecha": "1945-02-04",
+    "pos": {
+     "Sol": "15°Acu",
+     "Mercurio": "28°Cap",
+     "Venus": "2°Ari",
+     "Marte": "22°Cap",
+     "Júpiter": "26°Vir",
+     "Saturno": "4°Can",
+     "Urano": "9°Gem",
+     "Neptuno": "6°Lib",
+     "Plutón": "8°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 2.9
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.2
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 2.7
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "5°Esc",
      "oposiciones": []
     }
    },
@@ -107882,6 +109562,63 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "8°Esc",
+     "oposiciones": []
+    }
+   },
+   "crisis-del-petroleo-1973": {
+    "fecha": "1973-10-16",
+    "pos": {
+     "Sol": "22°Lib",
+     "Mercurio": "17°Esc",
+     "Venus": "8°Sag",
+     "Marte": "4°Tau",
+     "Júpiter": "2°Acu",
+     "Saturno": "4°Can",
+     "Urano": "23°Lib",
+     "Neptuno": "5°Sag",
+     "Plutón": "5°Lib"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     },
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "sextil",
+      "orbe": 0.3
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.8
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 2.2
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 0.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 0.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "20°Gem",
      "oposiciones": []
     }
    },
@@ -108167,6 +109904,66 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "disolucion-de-la-urss-1991": {
+    "fecha": "1991-12-08",
+    "pos": {
+     "Sol": "15°Sag",
+     "Mercurio": "16°Sag",
+     "Venus": "2°Esc",
+     "Marte": "6°Sag",
+     "Júpiter": "13°Vir",
+     "Saturno": "3°Acu",
+     "Urano": "12°Cap",
+     "Neptuno": "15°Cap",
+     "Plutón": "21°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.5
+     },
+     {
+      "a": "Júpiter",
+      "b": "Neptuno",
+      "aspecto": "trígono",
+      "orbe": 1.5
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "11°Cap",
+     "oposiciones": []
+    }
+   },
+   "doctrina-truman-1947": {
+    "fecha": "1947-03-12",
+    "pos": {
+     "Sol": "21°Pis",
+     "Mercurio": "14°Pis",
+     "Venus": "8°Acu",
+     "Marte": "6°Pis",
+     "Júpiter": "27°Esc",
+     "Saturno": "2°Leo",
+     "Urano": "17°Gem",
+     "Neptuno": "9°Lib",
+     "Plutón": "11°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "26°Esc",
+     "oposiciones": []
+    }
+   },
    "dominus-ac-redemptor-1773": {
     "fecha": "1773-07-21",
     "pos": {
@@ -108364,6 +110161,45 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "7°Leo",
+     "oposiciones": []
+    }
+   },
+   "entente-cordiale-1904": {
+    "fecha": "1904-04-08",
+    "pos": {
+     "Sol": "18°Ari",
+     "Mercurio": "1°Tau",
+     "Venus": "24°Pis",
+     "Marte": "1°Tau",
+     "Júpiter": "9°Ari",
+     "Saturno": "18°Acu",
+     "Urano": "29°Sag",
+     "Neptuno": "3°Can",
+     "Plutón": "18°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 1.4
+     },
+     {
+      "a": "Marte",
+      "b": "Neptuno",
+      "aspecto": "sextil",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 0.2
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "26°Cap",
      "oposiciones": []
     }
    },
@@ -109224,6 +111060,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "juicios-de-nuremberg-1945": {
+    "fecha": "1945-11-20",
+    "pos": {
+     "Sol": "27°Esc",
+     "Mercurio": "19°Sag",
+     "Venus": "10°Esc",
+     "Marte": "1°Leo",
+     "Júpiter": "18°Lib",
+     "Saturno": "24°Can",
+     "Urano": "16°Gem",
+     "Neptuno": "7°Lib",
+     "Plutón": "11°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Gem",
+     "oposiciones": []
+    }
+   },
    "laudate-deum-2023": {
     "fecha": "2023-10-04",
     "pos": {
@@ -109302,6 +111165,45 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "14°Can",
+     "oposiciones": []
+    }
+   },
+   "marcha-sobre-roma-1922": {
+    "fecha": "1922-10-28",
+    "pos": {
+     "Sol": "4°Esc",
+     "Mercurio": "16°Lib",
+     "Venus": "8°Sag",
+     "Marte": "28°Cap",
+     "Júpiter": "0°Esc",
+     "Saturno": "13°Lib",
+     "Urano": "9°Pis",
+     "Neptuno": "18°Leo",
+     "Plutón": "11°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "cuadratura",
+      "orbe": 2.0
+     },
+     {
+      "a": "Saturno",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 2.4
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "trígono",
+      "orbe": 1.3
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Acu",
      "oposiciones": []
     }
    },
@@ -109494,6 +111396,45 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "23°Can",
+     "oposiciones": []
+    }
+   },
+   "muro-de-berlin-1961": {
+    "fecha": "1961-08-13",
+    "pos": {
+     "Sol": "20°Leo",
+     "Mercurio": "19°Leo",
+     "Venus": "11°Can",
+     "Marte": "27°Vir",
+     "Júpiter": "29°Cap",
+     "Saturno": "24°Cap",
+     "Urano": "25°Leo",
+     "Neptuno": "8°Esc",
+     "Plutón": "7°Vir"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Júpiter",
+      "aspecto": "trígono",
+      "orbe": 2.1
+     },
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "trígono",
+      "orbe": 3.0
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.4
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "12°Vir",
      "oposiciones": []
     }
    },
@@ -109795,6 +111736,33 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "orden-ejecutiva-6102-oro-1933": {
+    "fecha": "1933-04-05",
+    "pos": {
+     "Sol": "15°Ari",
+     "Mercurio": "24°Pis",
+     "Venus": "11°Ari",
+     "Marte": "1°Vir",
+     "Júpiter": "15°Vir",
+     "Saturno": "14°Acu",
+     "Urano": "22°Ari",
+     "Neptuno": "7°Vir",
+     "Plutón": "21°Can"
+    },
+    "aspectos": [
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura",
+      "orbe": 1.6
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "10°Leo",
+     "oposiciones": []
+    }
+   },
    "origen-de-las-especies": {
     "fecha": "1859-11-24",
     "pos": {
@@ -109990,6 +111958,59 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "11°Lib",
+     "oposiciones": []
+    }
+   },
+   "plan-dawes-1924": {
+    "fecha": "1924-08-16",
+    "pos": {
+     "Sol": "23°Leo",
+     "Mercurio": "20°Vir",
+     "Venus": "10°Can",
+     "Marte": "2°Pis",
+     "Júpiter": "10°Sag",
+     "Saturno": "27°Lib",
+     "Urano": "20°Pis",
+     "Neptuno": "20°Leo",
+     "Plutón": "12°Can"
+    },
+    "aspectos": [],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "14°Pis",
+     "oposiciones": []
+    }
+   },
+   "plan-marshall-1948": {
+    "fecha": "1948-04-03",
+    "pos": {
+     "Sol": "13°Ari",
+     "Mercurio": "21°Pis",
+     "Venus": "28°Tau",
+     "Marte": "18°Leo",
+     "Júpiter": "28°Sag",
+     "Saturno": "15°Leo",
+     "Urano": "22°Gem",
+     "Neptuno": "11°Lib",
+     "Plutón": "12°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Saturno",
+      "aspecto": "conjunción",
+      "orbe": 2.3
+     },
+     {
+      "a": "Neptuno",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.1
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "6°Acu",
      "oposiciones": []
     }
    },
@@ -110255,6 +112276,77 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "2°Acu",
+     "oposiciones": []
+    }
+   },
+   "revolucion-de-xinhai-1911": {
+    "fecha": "1911-10-10",
+    "pos": {
+     "Sol": "16°Lib",
+     "Mercurio": "6°Lib",
+     "Venus": "13°Vir",
+     "Marte": "10°Gem",
+     "Júpiter": "16°Esc",
+     "Saturno": "19°Tau",
+     "Urano": "25°Cap",
+     "Neptuno": "23°Can",
+     "Plutón": "28°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 2.3
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 1.7
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "16°Tau",
+     "oposiciones": [
+      {
+       "planeta": "Júpiter",
+       "orbe": 0.4
+      }
+     ]
+    }
+   },
+   "revolucion-mexicana-1910": {
+    "fecha": "1910-11-20",
+    "pos": {
+     "Sol": "27°Esc",
+     "Mercurio": "1°Sag",
+     "Venus": "25°Esc",
+     "Marte": "9°Esc",
+     "Júpiter": "1°Esc",
+     "Saturno": "1°Tau",
+     "Urano": "22°Cap",
+     "Neptuno": "21°Can",
+     "Plutón": "27°Gem"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Saturno",
+      "aspecto": "oposición",
+      "orbe": 0.6
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "oposición",
+      "orbe": 0.9
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "15°Can",
      "oposiciones": []
     }
    },
@@ -110793,6 +112885,39 @@ window.CRONO = {
      "oposiciones": []
     }
    },
+   "tratado-de-maastricht-1992": {
+    "fecha": "1992-02-07",
+    "pos": {
+     "Sol": "17°Acu",
+     "Mercurio": "14°Acu",
+     "Venus": "16°Cap",
+     "Marte": "21°Cap",
+     "Júpiter": "12°Vir",
+     "Saturno": "10°Acu",
+     "Urano": "15°Cap",
+     "Neptuno": "17°Cap",
+     "Plutón": "22°Esc"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Plutón",
+      "aspecto": "sextil",
+      "orbe": 1.0
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "conjunción",
+      "orbe": 1.8
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "28°Pis",
+     "oposiciones": []
+    }
+   },
    "tratado-de-paris-1783": {
     "fecha": "1783-09-03",
     "pos": {
@@ -110856,6 +112981,39 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "14°Can",
+     "oposiciones": []
+    }
+   },
+   "tratados-de-roma-1957": {
+    "fecha": "1957-03-25",
+    "pos": {
+     "Sol": "4°Ari",
+     "Mercurio": "9°Ari",
+     "Venus": "29°Pis",
+     "Marte": "4°Gem",
+     "Júpiter": "25°Vir",
+     "Saturno": "14°Sag",
+     "Urano": "2°Leo",
+     "Neptuno": "1°Esc",
+     "Plutón": "28°Leo"
+    },
+    "aspectos": [
+     {
+      "a": "Marte",
+      "b": "Urano",
+      "aspecto": "sextil",
+      "orbe": 1.8
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 1.0
+     }
+    ],
+    "sin_pluton": false,
+    "luna": {
+     "pos": "29°Cap",
      "oposiciones": []
     }
    },
@@ -111256,34 +113414,37 @@ window.CRONO = {
     "id": "PAR-001",
     "titulo": "Saturno-Plutón en los hechos con día exacto",
     "pregunta": "¿Caen los hechos fechados al día más a menudo en un aspecto duro de Saturno y Plutón (conjunción, cuadratura u oposición, orbe 3°) que un día cualquiera?",
-    "n": 96,
-    "aciertos": 5,
-    "esperado": 6.4,
-    "porc_hechos": 5.2,
+    "n": 116,
+    "aciertos": 7,
+    "esperado": 7.7,
+    "porc_hechos": 6.0,
     "porc_azar": 6.6,
     "hechos": [
      "hundimiento-del-maine-1898",
+     "marcha-sobre-roma-1922",
      "dictadura-militar-chile",
+     "crisis-del-petroleo-1973",
      "atentado-wtc-1993",
      "atentados-11s",
      "guerra-de-afganistan-2001"
     ],
     "lectura": "Observación, no prueba: la diferencia con el azar es pequeña y la muestra está sesgada (sobre todo atentados fechados al día).",
-    "razon": 0.79
+    "razon": 0.91
    },
    {
     "id": "PAR-002",
     "titulo": "Ciclo largo Saturno-Plutón y hechos fechados por año",
     "pregunta": "¿Caen los hechos de Wexipedia (1800-2026) más a menudo en los años con aspecto duro de Saturno y Plutón (orbe 6°) que un año cualquiera?",
-    "n": 451,
-    "aciertos": 139,
-    "esperado": 143.0,
-    "porc_hechos": 30.8,
+    "n": 481,
+    "aciertos": 150,
+    "esperado": 152.6,
+    "porc_hechos": 31.2,
     "porc_azar": 31.7,
     "hechos": [
      "america-first-movimiento",
      "arco-iris-y-gusano-mae-wan-ho",
      "asesinatos-osage",
+     "ataque-a-pearl-harbor-1941",
      "atentado-de-sarajevo",
      "atentado-wtc-1993",
      "atentados-11s",
@@ -111313,6 +113474,7 @@ window.CRONO = {
      "consejo-relaciones-exteriores",
      "corte-penal-internacional-2002",
      "cowan-cancer-potencial-agua",
+     "crisis-del-petroleo-1973",
      "csic-1939",
      "cuatro-imperios-1914",
      "declaracion-derechos-humanos",
@@ -111320,6 +113482,7 @@ window.CRONO = {
      "dictadura-franquista",
      "dictadura-militar-chile",
      "dictadura-primo-de-rivera",
+     "doctrina-truman-1947",
      "ecat-rossi",
      "efecto-casimir",
      "entrevista-stalin-emil-ludwig-1931",
@@ -111335,12 +113498,17 @@ window.CRONO = {
      "familia-gambino",
      "fundacion-bill-y-melinda-gates-1994",
      "gates-vacunas-poblacion-2010",
+     "gatt-1947",
+     "genocidio-armenio-1915",
      "gosbank-1921",
      "guerra-de-afganistan-2001",
      "guerra-de-irak",
      "guerra-de-los-seis-dias-1967",
      "guerra-de-vietnam",
      "guerras-napoleonicas",
+     "hiperinflacion-alemana-1923",
+     "holocausto",
+     "holodomor-1932",
      "humanum-genus-1884",
      "hundimiento-del-maine-1898",
      "iglesia-de-satan",
@@ -111357,6 +113525,7 @@ window.CRONO = {
      "libro-bechamp-or-pasteur",
      "lock-step-rockefeller-2010",
      "lockdown-files-2020",
+     "marcha-sobre-roma-1922",
      "masoneria-italiana-1908",
      "memorando-cia-1967",
      "montagnier-adn",
@@ -111392,6 +113561,7 @@ window.CRONO = {
      "petrodolar",
      "pistola-de-gavrilo-princip",
      "piweir-imemo-1956",
+     "plan-marshall-1948",
      "postulados-de-koch-1884",
      "potencial-transferido-grinberg",
      "primera-guerra-mundial",
@@ -111410,6 +113580,7 @@ window.CRONO = {
      "society-for-scientific-exploration",
      "the-lone-gunmen-piloto-2001",
      "transistor",
+     "tratado-de-maastricht-1992",
      "uicn-fundacion-1948",
      "uit-itu-1865",
      "unesco-fundacion-1946",
@@ -111422,16 +113593,16 @@ window.CRONO = {
      "world-trade-center"
     ],
     "lectura": "Observación, no prueba. Los autores no reparten sus hechos por igual en el tiempo (hay más en ciertas décadas), y eso solo ya puede subir o bajar el porcentaje.",
-    "razon": 0.97
+    "razon": 0.98
    },
    {
     "id": "PAR-003",
     "titulo": "Naturaleza de las estrellas y hechos con día exacto",
     "pregunta": "¿Tienen los hechos fechados al día, más a menudo que un día cualquiera, un planeta a menos de 1° de una estrella fija de su misma naturaleza, según Robson?",
-    "n": 133,
-    "aciertos": 52,
-    "esperado": 48.9,
-    "porc_hechos": 39.1,
+    "n": 153,
+    "aciertos": 56,
+    "esperado": 56.2,
+    "porc_hechos": 36.6,
     "porc_azar": 36.7,
     "hechos": [
      "omne-datum-optimum-1139",
@@ -111463,7 +113634,9 @@ window.CRONO = {
      "mussolini-caballero-de-malta",
      "dictadura-primo-de-rivera",
      "muerte-de-lenin-1924",
+     "acuerdos-de-munich-1938",
      "guerra-de-los-mundos-radio-1938",
+     "ataque-a-pearl-harbor-1941",
      "bretton-woods-1944",
      "huida-hitler-argentina",
      "onu",
@@ -111471,9 +113644,11 @@ window.CRONO = {
      "estado-de-israel",
      "uicn-fundacion-1948",
      "acnur-1950",
+     "tratados-de-roma-1957",
      "comision-warren-zapruder-1964",
      "numero-911-emergencias-1968",
      "festival-altamont-1969",
+     "crisis-del-petroleo-1973",
      "atentado-bolonia-1980",
      "atentado-wtc-1993",
      "comision-bergier",
@@ -111492,18 +113667,18 @@ window.CRONO = {
      "ventana_azar": "1885-2026",
      "dias_azar": 20000,
      "dias_azar_con_coincidencia": 7349,
-     "p_una_cola": 0.316,
+     "p_una_cola": 0.545,
      "desde_1885": {
       "nombre": "hechos de 1885 a 2026",
-      "n": 82,
-      "aciertos": 32,
-      "porc": 39.0,
-      "esperado": 30.1,
-      "p_una_cola": 0.374
+      "n": 102,
+      "aciertos": 36,
+      "porc": 35.3,
+      "esperado": 37.5,
+      "p_una_cola": 0.655
      }
     },
-    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 32 de 82 (39,0 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
-    "razon": 1.07
+    "lectura": "Observación, no prueba. El azar se mide sobre días de 1885 a 2026, la ventana de los otros paralelos, así que la comparación limpia es la de los hechos de esa ventana: 36 de 102 (35,3 %). No sale ni en un recuento ni en el otro, y los hechos anteriores a 1885 se comparan con un azar de otra época.",
+    "razon": 1.0
    }
   ],
   "anios": {
