@@ -34431,7 +34431,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial. Wikipedia atribuye la tesis de que la ley convirtió a EE. UU. en una corporación a un malentendido del término «corporación municipal». La definición de 28 U.S.C. § 3002 sirve solo a efectos de la ley de cobro de deudas federales; no se ha abierto aquí. La tesis no forma parte de la versión académica. Según una sentencia del Tribunal Supremo y otras fuentes, el gobierno territorial de 1871 duró poco: se derogó en 1874 y lo sustituyó en 1875 un gobierno permanente (Britannica atribuye la forma de corporación municipal con tres comisionados a la ley de 1878).",
+    "resumen": "AVISO: tesis delicada. La ley orgánica del Distrito de Columbia de 1871 derogó los estatutos de Washington y Georgetown y los unió con el condado de Washington en un solo gobierno territorial. Wikipedia atribuye la tesis de que la ley convirtió a EE. UU. en una corporación a un malentendido del término «corporación municipal». Leído 28 U.S.C. § 3002 (Cornell, consultado el 28-11-2026): son las definiciones del capítulo 176, de cobro de deudas federales, y en su punto 15 «United States» incluye «a Federal corporation», una agencia o un instrumento; es una definición para esa ley, no una declaración de que el país sea una corporación. La tesis no forma parte de la versión académica. Según una sentencia del Tribunal Supremo y otras fuentes, el gobierno territorial de 1871 duró poco: se derogó en 1874 y lo sustituyó en 1875 un gobierno permanente (Britannica atribuye la forma de corporación municipal con tres comisionados a la ley de 1878).",
     "fuentes": [
      {
       "titulo": "Cornell Law: 28 U.S.C. § 3002 (definiciones)",
@@ -42898,7 +42898,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera. Británica sitúa la fundación de Montecassino en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
+    "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera. Nocera sitúa la fundación «bajo el reino de Odoacro», que murió en 493: en 529 reinaba en Italia el ostrogodo Atalarico (526-534), nieto de Teodorico el Grande. Británica sitúa la fundación de Montecassino en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Orden de San Benito",
@@ -42924,6 +42924,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Benedictines",
       "url": "https://en.wikipedia.org/wiki/Benedictines",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Odoacro",
+      "url": "https://es.wikipedia.org/wiki/Odoacro",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia: Atalarico",
+      "url": "https://es.wikipedia.org/wiki/Atalarico",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -42954,7 +42964,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La fecha tradicional consta. En los pasajes buscados no aparecen los Anicios ni los Máximos como antecesores de la orden."
+     "texto": "La fecha tradicional consta. En los pasajes buscados no aparecen los Anicios ni los Máximos como antecesores de la orden.\n\nEl «bajo el reino de Odoacro» de Nocera no encaja con las fechas: Odoacro murió en 493 y en 529 reinaba Atalarico (526-534), con la regencia de su madre Amalasunta."
     }
    ],
    "vista": "religion"
@@ -56231,7 +56241,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña (Hartley y Oswald, por Jorge III) y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales, recomendación que los estados ignoraron. Que los títulos del rey signifiquen sumisión al Vaticano no forma parte de la versión académica. El preámbulo comienza invocando a la «Santísima e Indivisible Trinidad» (versión de los Archivos Nacionales y del Proyecto Avalon); el artículo 4 dice que los acreedores de ambos lados no encontrarán impedimento legal para cobrar en libras esterlinas las deudas legítimas anteriores a la guerra, y el 5 pide a los estados que recomienden devolver los bienes confiscados a los leales.",
+    "resumen": "El Tratado de París se firmó el 3-9-1783 entre Gran Bretaña (Hartley y Oswald, por Jorge III) y EE. UU. y reconoció la independencia; el artículo 4 garantiza el pago de deudas a acreedores británicos y el 5 pide a los estados que recomienden restituir propiedades de leales, recomendación que los estados ignoraron. Que los títulos del rey signifiquen sumisión al Vaticano no forma parte de la versión académica. El encabezado llama a Jorge III «rey de Gran Bretaña, Francia e Irlanda, defensor de la fe, duque de Brunswick y Luneburgo, archi-tesorero y príncipe elector del Sacro Imperio Romano», tal como dice Nocera; lo que no se sigue de ahí es que esos títulos lo supeditaran al Vaticano. El preámbulo comienza invocando a la «Santísima e Indivisible Trinidad» (versión de los Archivos Nacionales y del Proyecto Avalon); el artículo 4 dice que los acreedores de ambos lados no encontrarán impedimento legal para cobrar en libras esterlinas las deudas legítimas anteriores a la guerra, y el 5 pide a los estados que recomienden devolver los bienes confiscados a los leales.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Tratado de París (1783)",
@@ -56251,7 +56261,7 @@ window.CRONO = {
      {
       "titulo": "Proyecto Avalon (Yale): Tratado de París",
       "url": "https://avalon.law.yale.edu/18th_Century/paris.asp",
-      "consultado": "2026-11-25"
+      "consultado": "2026-11-28"
      }
     ]
    },
