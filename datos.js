@@ -4135,6 +4135,386 @@ window.CRONO = {
    "vista": "ciencia"
   },
   {
+   "id": "banco-central-de-africa-occidental-1959",
+   "tipo": "hecho",
+   "titulo": "Banco Central de los Estados de África Occidental, BCEAO (1959)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1959,
+    "fuente": "oficial",
+    "texto": "1959"
+   },
+   "resumen": "Banco central común de ocho países de África Occidental, emisor del franco CFA, moneda ligada primero al franco francés y luego al euro.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El BCEAO es el banco central común de la Unión Económica y Monetaria de África Occidental: Benín, Burkina Faso, Costa de Marfil, Guinea-Bisáu, Malí, Níger, Senegal y Togo. La lista de bancos centrales lo fecha en 1959 y la Wikipedia en español dice que se creó en 1962 por el tratado de la unión monetaria. Emite el franco CFA.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de los Estados de África Occidental",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_los_Estados_de_%C3%81frica_Occidental",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-francia-1800",
+     "nota": "Banco que interviene en la garantía."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Por acuerdo con Francia, el franco CFA fue convertible a tipo fijo con el franco francés hasta 1999, con la garantía de un fondo de reserva depositado en el Tesoro francés y formado con aportaciones de los países miembros. Con el euro se fijó un nuevo tipo y la garantía francesa se mantuvo con condiciones."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-arabia-saudi-1952",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Arabia Saudí (1952)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1952,
+    "fuente": "oficial",
+    "texto": "1952"
+   },
+   "resumen": "Banco central saudí, conocido hasta 2020 como Autoridad Monetaria de Arabia Saudí.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El banco central saudí se creó en 1952 con el nombre de Autoridad Monetaria de Arabia Saudí (SAMA), que cambió en 2020 conservando las siglas. Emite el riyal, supervisa la banca y gestiona las reservas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Saudi Central Bank",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Central_Bank",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de él",
+     "nivel": "hecho",
+     "texto": "Desde 1926 hacía de banco central de hecho una sucursal de la Sociedad Neerlandesa de Comercio, el Saudi Hollandi Bank, que guardaba las reservas de oro y recibía los ingresos del petróleo por cuenta del gobierno."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-argentina-1935",
+   "tipo": "hecho",
+   "titulo": "Banco Central de la República Argentina (1935)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1935,
+    "fuente": "oficial",
+    "texto": "1935"
+   },
+   "resumen": "Banco central argentino, creado por ley como entidad mixta y nacionalizado después.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de la República Argentina se creó en 1935, en el gobierno de Agustín P. Justo, y sustituyó a la Caja de Conversión de 1890. La ley lo define hoy como entidad autárquica del Estado.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de la República Argentina",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_la_Rep%C3%BAblica_Argentina",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Nació con capital a medias entre el gobierno y los bancos nacionales y extranjeros establecidos en el país. Se nacionalizó en 1946 por un decreto del presidente de facto Farrell, bajo la influencia de Perón, entonces presidente electo."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-brasil-1964",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Brasil (1964)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1964,
+    "fuente": "oficial",
+    "texto": "1964"
+   },
+   "resumen": "Máxima autoridad monetaria de Brasil, con autonomía fijada por ley.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de Brasil se estableció a finales de 1964; entre sus creadores estuvo el ministro Roberto de Oliveira Campos. Su autonomía quedó regulada por una ley de 2021.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de Brasil",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_Brasil",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de él",
+     "nivel": "hecho",
+     "texto": "Las funciones se repartían entre la Superintendencia de Moneda y Crédito, creada en 1945 por Getúlio Vargas para preparar el banco central, el Banco do Brasil y el Tesoro."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-chile-1925",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Chile (1925)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1925,
+    "fuente": "oficial",
+    "texto": "1925"
+   },
+   "resumen": "Banco central de Chile, creado por decreto ley en el gobierno de Arturo Alessandri.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de Chile se creó por decreto ley en 1925 y abrió en 1926. Desde 1989 se rige por una ley de rango constitucional que le da autonomía del gobierno, con el objetivo de la estabilidad de la moneda y de los pagos.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de Chile",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_Chile",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Su junta de diez miembros buscaba cierta independencia frente a los sectores público y privado. Desde 1975 se le prohibió financiar tanto al sector público como al privado no financiero."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-iran-1960",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Irán (1960)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1960,
+    "fuente": "oficial",
+    "texto": "1960"
+   },
+   "resumen": "Banco central iraní, que asumió las funciones que antes ejercía el Banco Melli.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de Irán se estableció en 1960, separando las funciones de banca central del Banco Melli, estatal y creado en 1927. Tras la revolución de 1979 pasó a llamarse Banco Central de la República Islámica de Irán.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de la República Islámica de Irán",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_la_Rep%C3%BAblica_Isl%C3%A1mica_de_Ir%C3%A1n",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de él",
+     "nivel": "hecho",
+     "texto": "La banca moderna llegó con el Banco Imperial de Persia, británico, abierto en 1889 sobre una concesión al barón De Reuter; Rusia abrió su propio banco para competir con él."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-reserva-del-peru-1922",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Reserva del Perú (1922)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1922,
+    "fuente": "oficial",
+    "texto": "1922"
+   },
+   "resumen": "Banco central del Perú, creado por ley durante el gobierno de Leguía para ordenar la emisión de moneda.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de Reserva del Perú tiene su origen en la ley de 1922 que creó el Banco de Reserva, durante el Oncenio de Leguía. Tras la crisis de 1929 se transformó con la asesoría de Edwin Kemmerer y quedó ratificado como banco central en 1931.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de Reserva del Perú",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_Reserva_del_Per%C3%BA",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "El primer directorio reunía, además de su presidente, a representantes de bancos nacionales y extranjeros, y tenía como jefe ejecutivo a William Wilson Cumberland."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-central-de-turquia-1930",
+   "tipo": "hecho",
+   "titulo": "Banco Central de Turquía (1930)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1930,
+    "fuente": "oficial",
+    "texto": "1930"
+   },
+   "resumen": "Banco central de la República de Turquía, constituido como sociedad anónima.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Central de Turquía se fundó como sociedad anónima en 1930; la misma fuente dice que la organización se estableció en 1931 y se inauguró en 1932, tras preparativos iniciados en 1926. Recibió el privilegio de emitir billetes por 30 años, hoy indefinido.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Central de la República de Turquía",
+      "url": "https://es.wikipedia.org/wiki/Banco_Central_de_la_Rep%C3%BAblica_de_Turqu%C3%ADa",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Sus acciones se dividen en cuatro clases: las del Tesoro, las de bancos nacionales, las de bancos extranjeros y compañías privilegiadas, y las de sociedades y particulares turcos."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "banco-de-amsterdam",
    "tipo": "hecho",
    "titulo": "Banco de Ámsterdam",
@@ -4237,6 +4617,207 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "banco-de-canada-1934",
+   "tipo": "hecho",
+   "titulo": "Banco de Canadá (1934)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1934,
+    "fuente": "oficial",
+    "texto": "1934"
+   },
+   "resumen": "Banco central de Canadá, creado durante la Gran Depresión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Canadá se fundó en 1934 y empezó a operar en 1935. Hasta entonces el Banco de Montreal hacía de hecho esa función. Nació como sociedad privada y en 1938 pasó a ser una sociedad de la Corona.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Canadá",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Canad%C3%A1",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Con la Depresión se culpó al sistema bancario de agravar la crisis. Pidieron un banco central los agricultores y el Banco Real de Canadá, que quería romper el vínculo del gobierno con el Banco de Montreal; una comisión real lo apoyó en 1933."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-corea-1950",
+   "tipo": "hecho",
+   "titulo": "Banco de Corea (1950)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1950,
+    "fuente": "oficial",
+    "texto": "1950"
+   },
+   "resumen": "Banco central de Corea del Sur, único emisor de su moneda.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Corea se estableció en Seúl en 1950 por su propia ley. Su objetivo principal es la estabilidad de precios y es el único emisor legal de moneda de Corea del Sur.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Corea",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Corea",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Gobierno",
+     "nivel": "hecho",
+     "texto": "La política monetaria la fija un comité cuyos miembros nombra el presidente del país."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-espana-1782",
+   "tipo": "hecho",
+   "titulo": "Banco de España (1782)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1782,
+    "fuente": "oficial",
+    "texto": "1782"
+   },
+   "resumen": "Banco central de España; su origen es el Banco Nacional de San Carlos, creado en Madrid en el reinado de Carlos III.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de España es el banco central de España y miembro del Eurosistema. Su origen se sitúa en 1782, cuando Carlos III creó en Madrid el Banco Nacional de San Carlos, una sociedad por acciones de propietarios particulares con protección de la Corona. Su actividad se regula hoy por la Ley de Autonomía de 1994.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de España",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Espa%C3%B1a",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "El Banco de San Carlos tenía como principal función descontar los vales reales, títulos de deuda pública que circulaban en grandes pagos y se consideran el primer papel moneda en España. Lo apoyaron Floridablanca, Múzquiz y Campomanes; Francisco Cabarrús, creador de los vales, fue su fundador y miembro de la dirección."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "No era un banco público: la propiedad era de instituciones y particulares, con estrechos lazos financieros con el Estado, al que también financiaba."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-finlandia-1812",
+   "tipo": "hecho",
+   "titulo": "Banco de Finlandia (1812)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1812,
+    "fuente": "oficial",
+    "texto": "1812"
+   },
+   "resumen": "Banco central de Finlandia, creado bajo dominio ruso a comienzos del siglo XIX.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Finlandia se estableció en 1812 en Turku por decisión del zar Alejandro I y se trasladó a Helsinki en 1819. Es la autoridad monetaria del país y miembro del Sistema Europeo de Bancos Centrales. Pertenece a la República y lo supervisa el Parlamento.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Finlandia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Finlandia",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo creció",
+     "nivel": "hecho",
+     "texto": "Adquirió funciones de banco central con la moneda propia: creación en 1840 e implantación del marco finlandés entre 1860 y 1865. Tras la Segunda Guerra Mundial gestionó un régimen de control financiero que se liberalizó en los años 1980."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "banco-de-francia-1800",
    "tipo": "hecho",
    "titulo": "Banco de Francia (1800)",
@@ -4293,6 +4874,67 @@ window.CRONO = {
      "titulo": "Qué queda abierto",
      "nivel": "hipotesis",
      "texto": "La ficha no tiene autores registrados. Lo comprobado es el recorrido institucional. Para seguir el dinero y el poder falta saber quién creó el banco en 1800 y con qué capital: la fuente de esta ficha no lo recoge, y queda como tema abierto a documentar con una fuente específica. Tampoco consta cómo afectó la reforma de 1993 a las decisiones de gobierno: la propia fuente dice solo que se hizo «a costa de la política interior»."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-hamburgo-1619",
+   "tipo": "hecho",
+   "titulo": "Banco de Hamburgo (1619)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1619,
+    "fuente": "oficial",
+    "hasta": 1875,
+    "texto": "1619 – 1875"
+   },
+   "resumen": "Banco público de la ciudad libre de Hamburgo, que funcionó desde 1619 hasta integrarse en el banco central alemán en 1875.",
+   "segun": [],
+   "oficial": {
+    "resumen": "La ciudad libre de Hamburgo creó en 1619 una entidad pública de crédito que emitía una moneda de cuenta respaldada en plata, el marco banco, para dar estabilidad al comercio frente a la moneda rebajada. Su modelo fue el Banco de Ámsterdam. Funcionó por su cuenta hasta el 31 de diciembre de 1875, cuando pasó a formar parte del nuevo Reichsbank.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Bank of Hamburg",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Hamburg",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "El modelo en que se inspiró."
+    },
+    {
+     "id": "reichsbank-1876",
+     "nota": "Su sucesor en 1876."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "El Consejo de Hamburgo decidió crearlo en febrero de 1619, en plena crisis monetaria alemana conocida como Kipper und Wipper. Comerciantes ingleses, judíos sefardíes portugueses y refugiados religiosos neerlandeses que vivían en la ciudad aportaron capital y conocimiento."
+    },
+    {
+     "titulo": "Quién lo controlaba",
+     "nivel": "hecho",
+     "texto": "Lo administraban sin sueldo dos senadores, dos notables de la ciudad, dos tesoreros y cinco ciudadanos con cuenta en el banco. Abrir cuenta exigía un ingreso inicial de al menos 400 marcos de Lübeck. Tenía un departamento de préstamos con garantía a comerciantes y a la propia ciudad."
     }
    ],
    "vista": "economia"
@@ -4404,6 +5046,53 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "banco-de-israel-1954",
+   "tipo": "hecho",
+   "titulo": "Banco de Israel (1954)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1954,
+    "fuente": "oficial",
+    "texto": "1954"
+   },
+   "resumen": "Banco central de Israel, creado por ley del parlamento seis años después de la independencia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Israel se fundó en 1954 por ley de la Knéset. Emite el séquel y tiene su sede principal en Jerusalén.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Israel",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Israel",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de él",
+     "nivel": "hecho",
+     "texto": "Desde 1948 emitía la moneda la Anglo Palestine Company, hoy Banco Leumi, y el ministerio de Hacienda llevaba la política monetaria. El control de divisas no pasó al banco hasta 1978."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "banco-de-italia",
    "tipo": "hecho",
    "titulo": "Banco de Italia",
@@ -4488,6 +5177,562 @@ window.CRONO = {
     }
    ],
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-japon-1882",
+   "tipo": "hecho",
+   "titulo": "Banco de Japón (1882)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1882,
+    "fuente": "oficial",
+    "texto": "1882"
+   },
+   "resumen": "Banco central de Japón, creado en la era Meiji para unificar el dinero del país.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Japón es el banco central japonés. Nació tras la Restauración Meiji: la ley de moneda de 1871 estableció el yen y en 1882 el banco obtuvo el control de la oferta de dinero. Emitió sus primeros billetes en 1885.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Japón",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Jap%C3%B3n",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "Japón entró en el patrón oro en 1897 y en 1899 retiró los billetes no emitidos por el banco. La ocupación aliada reestructuró la entidad; la ley se reformó en 1997 para darle más independencia, que la fuente considera aún insuficiente."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-la-republica-colombia-1923",
+   "tipo": "hecho",
+   "titulo": "Banco de la República, Colombia (1923)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1923,
+    "fuente": "oficial",
+    "texto": "1923"
+   },
+   "resumen": "Banco central de Colombia, creado por ley a recomendación de una misión de expertos estadounidenses.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de la República es el banco central de Colombia. Se fundó en 1923, en el gobierno de Pedro Nel Ospina, siguiendo la recomendación de la misión dirigida por el economista estadounidense Edwin Walter Kemmerer. La Constitución de 1991 lo regula como entidad autónoma.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de la República (Colombia)",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_la_Rep%C3%BAblica_(Colombia)",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-central-de-reserva-del-peru-1922",
+     "nota": "También con asesoría de Kemmerer."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "La misión recomendó un banco con capital privado y público."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-los-paises-bajos-1814",
+   "tipo": "hecho",
+   "titulo": "De Nederlandsche Bank, Países Bajos (1814)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1814,
+    "fuente": "oficial",
+    "texto": "1814"
+   },
+   "resumen": "Banco central de los Países Bajos, creado por el rey Guillermo I para reactivar el crédito.",
+   "segun": [],
+   "oficial": {
+    "resumen": "De Nederlandsche Bank es el banco central de los Países Bajos. Lo fundó el rey Guillermo I en 1814, cuando, tras la Revolución Bátava, hacía falta crédito para reactivar la economía. Forma parte del Eurosistema.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de los Países Bajos",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_los_Pa%C3%ADses_Bajos",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "El banco anterior de la plaza."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes de él",
+     "nivel": "hecho",
+     "texto": "El Banco de Ámsterdam había gestionado el cambio de divisas entre 1609 y 1820 sin conceder crédito. El nuevo banco funcionó unos 185 años sin apenas cambios de estructura, hasta la ley bancaria de 1998."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-mexico-1925",
+   "tipo": "hecho",
+   "titulo": "Banco de México (1925)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1925,
+    "fuente": "oficial",
+    "texto": "1925"
+   },
+   "resumen": "Banco central de México, creado por decreto como sociedad anónima durante el gobierno de Calles y hoy autónomo.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de México se fundó por decreto en 1925, como sociedad anónima, durante la presidencia de Plutarco Elías Calles. Desde 1994 es autónomo por mandato constitucional. Regula la emisión del peso, fija tipos de interés y administra las reservas.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de México",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_M%C3%A9xico",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Primeros años",
+     "nivel": "hecho",
+     "texto": "Su primer director general fue Alberto Mascareñas Navarro y el primer presidente del consejo, Manuel Gómez Morín."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-noruega-1816",
+   "tipo": "hecho",
+   "titulo": "Banco de Noruega (1816)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1816,
+    "fuente": "oficial",
+    "texto": "1816"
+   },
+   "resumen": "Banco central de Noruega, creado por ley del Parlamento; hoy administra además el fondo soberano del país.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Noruega es el banco central noruego: emite la corona, vela por la estabilidad y administra el fondo soberano de pensiones. Lo creó el Parlamento en 1816, dos años después de la separación de Dinamarca. La Wikipedia en español escribe 1814 en la fecha del acta, lo que no encaja con ese plazo ni con la lista de bancos centrales.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Noruega",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Noruega",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "En 1875 se implantó la corona al entrar en la Unión Monetaria Escandinava. En 1940 las reservas de oro se evacuaron a Londres y de allí a Nueva York y Ottawa, mientras el banco seguía operando en la Noruega ocupada."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-portugal-1846",
+   "tipo": "hecho",
+   "titulo": "Banco de Portugal (1846)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1846,
+    "fuente": "oficial",
+    "texto": "1846"
+   },
+   "resumen": "Banco central de Portugal, nacido en Lisboa de la fusión de dos entidades y de capital privado hasta su nacionalización.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Portugal es el banco central de la República Portuguesa y miembro del Eurosistema. Se fundó en 1846 en Lisboa, de la fusión del Banco de Lisboa y la Companhia Confiança Nacional, como sociedad anónima.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Portugal",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Portugal",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Fue de capital privado hasta su nacionalización en 1974. Ha emitido el real, el escudo y, desde 1999, billetes de euro."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-prusia-1765",
+   "tipo": "hecho",
+   "titulo": "Banco Real de Prusia, luego Banco de Prusia (1765)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1765,
+    "fuente": "oficial",
+    "hasta": 1875,
+    "texto": "1765 – 1875"
+   },
+   "resumen": "Banco del reino de Prusia, creado por Federico II como entidad estatal y reorganizado con capital privado en el siglo XIX; le sucedió el Reichsbank.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Federico II fundó en 1765 el Banco Real de Prusia, de propiedad estatal, que pronto tuvo apuros y recibió en 1766 una nueva carta para emitir billetes. En 1847 pasó a ser formalmente privado con el nombre de Banco de Prusia. Dejó de funcionar el 1 de enero de 1876, al sucederle el Reichsbank.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): Bank of Prussia",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Prussia",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "reichsbank-1876",
+     "nota": "Su sucesor en 1876."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Tras la derrota ante Napoleón en Jena-Auerstedt (1806), su capital propio quedó en negativo durante mucho tiempo; la convertibilidad volvió poco a poco desde los años 1820. Funcionó más como caja de ahorro que como banco central y emitió pocos billetes."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En la reorganización de 1847 el Estado aportó unos 1,2 millones de táleros, con el negocio del antiguo banco, y los inversores privados, no todos prusianos, 10 millones. Los accionistas tenían un consejo asesor, pero la dirección siguió en manos del gobierno."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-reserva-de-australia-1960",
+   "tipo": "hecho",
+   "titulo": "Banco de Reserva de Australia (1960)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1960,
+    "fuente": "oficial",
+    "texto": "1960"
+   },
+   "resumen": "Banco central de Australia, separado del banco comercial estatal que antes hacía esas funciones.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Reserva de Australia empezó a existir en 1960 como banco central y emisor de billetes, cuando una ley de 1959 retiró esas funciones al Commonwealth Bank. Sus beneficios van al gobierno.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de la Reserva de Australia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_la_Reserva_de_Australia",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "El dólar australiano se dejó flotar en 1983, en la época en que se liberalizó el sistema financiero."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-reserva-de-la-india-1935",
+   "tipo": "hecho",
+   "titulo": "Banco de Reserva de la India (1935)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1935,
+    "fuente": "oficial",
+    "texto": "1935"
+   },
+   "resumen": "Banco central de la India, creado bajo dominio británico como empresa privada y nacionalizado tras la independencia.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Reserva de la India se fundó en 1935 por una ley de 1934. Su sede estuvo primero en Calcuta y desde 1937 en Bombay.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de la Reserva de la India",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_la_Reserva_de_la_India",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Fue en su origen una empresa privada; el gobierno de la India la nacionalizó en 1949."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-reserva-de-sudafrica-1921",
+   "tipo": "hecho",
+   "titulo": "Banco de Reserva de Sudáfrica (1921)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1921,
+    "fuente": "oficial",
+    "texto": "1921"
+   },
+   "resumen": "Banco central de Sudáfrica, el más antiguo de África, creado por los desajustes monetarios de la Primera Guerra Mundial.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Reserva de Sudáfrica nació de una ley de 1920 y abrió en 1921, a raíz de las condiciones monetarias anómalas que trajo la Primera Guerra Mundial. Es el banco central más antiguo de África. Su modelo fue el Banco de Inglaterra.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): South African Reserve Bank",
+      "url": "https://en.wikipedia.org/wiki/South_African_Reserve_Bank",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-inglaterra",
+     "nota": "El modelo."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Es de propiedad privada y actúa como banquero del gobierno, que no es su dueño. El presidente del país nombra al gobernador, a los vicegobernadores y a cuatro consejeros; los otros siete los eligen los accionistas."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-de-rusia-1990",
+   "tipo": "hecho",
+   "titulo": "Banco de Rusia (1990)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1990,
+    "fuente": "oficial",
+    "texto": "1990"
+   },
+   "resumen": "Banco central de la Federación Rusa, creado al declarar Rusia su soberanía dentro de la Unión Soviética.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco de Rusia se fundó en 1990, poco después de la declaración de soberanía de la Rusia soviética, y se considera heredero del Banco Estatal del Imperio ruso. La Constitución lo define como entidad independiente, responsable de la estabilidad del rublo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco de Rusia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Rusia",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-pagos-internacionales",
+     "nota": "Suspendió al banco en 2022."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Sanciones de 2022",
+     "nivel": "hecho",
+     "texto": "En 2022, tras la invasión de Ucrania, Estados Unidos restringió las operaciones con el banco, el Banco de Pagos Internacionales lo suspendió y se bloquearon valores suyos."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Según la ley rusa, la mitad de sus beneficios va al presupuesto federal."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -4734,6 +5979,62 @@ window.CRONO = {
    "vista": "economia"
   },
   {
+   "id": "banco-estatal-imperio-ruso-1860",
+   "tipo": "hecho",
+   "titulo": "Banco Estatal del Imperio ruso (1860)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1860,
+    "fuente": "oficial",
+    "hasta": 1920,
+    "texto": "1860 – 1920"
+   },
+   "resumen": "Principal institución financiera del Imperio ruso desde 1860 hasta la revolución.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Estatal del Imperio ruso, con sede en San Petersburgo, se creó en 1860 tras el hundimiento del sistema bancario estatal anterior. Con el patrón oro de 1897 asumió plenamente las funciones de banco central, sin dejar de ser la principal fuente de crédito de la economía. Tras la revolución absorbió a la fuerza la banca privada, pasó a llamarse Banco del Pueblo y se liquidó en 1920.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): State Bank of the Russian Empire",
+      "url": "https://en.wikipedia.org/wiki/State_Bank_of_the_Russian_Empire",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-finlandia-1812",
+     "nota": "Banco del gran ducado, con zona monetaria propia."
+    },
+    {
+     "id": "gosbank-1921",
+     "nota": "El banco soviético que vino después."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Rusia no tenía banco de emisión propio desde 1818, y el sistema bancario estatal se hundió en una retirada de fondos en 1858-1859. Convivió un tiempo con el Banco de Polonia y con el Banco de Finlandia."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
    "id": "banco-medici",
    "tipo": "hecho",
    "titulo": "Banco Medici (1397-1494)",
@@ -4853,6 +6154,215 @@ window.CRONO = {
      "titulo": "Qué queda abierto",
      "nivel": "hipotesis",
      "texto": "La ficha no tiene autores registrados. Los hechos son el origen, la sede y la misión declarada. Qué resultados han tenido sus préstamos, a quién han beneficiado y qué condiciones han impuesto son cuestiones abiertas que esta ficha no documenta con fuente; quedan como tema abierto, no como dato."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-nacional-de-austria-1816",
+   "tipo": "hecho",
+   "titulo": "Banco Nacional de Austria (1816)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1816,
+    "fuente": "oficial",
+    "texto": "1816"
+   },
+   "resumen": "Banco central de Austria, nacido en la monarquía de los Habsburgo tras una crisis del papel moneda y refundado después de la Primera Guerra Mundial.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Nacional de Austria es el banco central austriaco y parte del Eurosistema. Se fundó en 1816, por iniciativa del conde Stadion y bajo el patrocinio del emperador Francisco II, tras una fuerte devaluación del papel moneda. Se restableció en 1922-1923 con un préstamo de estabilización coordinado por la Sociedad de Naciones.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Nacional de Austria",
+      "url": "https://es.wikipedia.org/wiki/Banco_Nacional_de_Austria",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "El banco anterior de Viena, que emitía billetes desde 1759, quebró en 1811 por las guerras napoleónicas. La institución refundada empezó a operar el 1 de enero de 1923 y asumió el negocio en territorio austriaco del Banco Austrohúngaro."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Desde mayo de 2010 el capital pertenece por entero al Estado; antes, la mitad estaba en manos de organizaciones de empresarios y trabajadores, bancos y aseguradoras."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-nacional-de-belgica-1850",
+   "tipo": "hecho",
+   "titulo": "Banco Nacional de Bélgica (1850)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1850,
+    "fuente": "oficial",
+    "texto": "1850"
+   },
+   "resumen": "Banco central de Bélgica, creado veinte años después del nacimiento del reino y con parte de su capital todavía privado.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Nacional de Bélgica es el banco central belga desde 1850 y forma parte del Eurosistema. Lo creó el ministro Walthère Frère-Orban. El Estado tiene la mitad de las acciones desde el final de la Segunda Guerra Mundial y el resto cotiza en bolsa.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Nacional de Bélgica",
+      "url": "https://es.wikipedia.org/wiki/Banco_Nacional_de_B%C3%A9lgica",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Segunda Guerra Mundial",
+     "nivel": "hecho",
+     "texto": "Con la invasión de 1940 la dirección salió del país; las fuerzas alemanas impusieron un Banco de Emisión para pagar la ocupación. El gobierno en el exilio montó en Londres una administración propia del banco, y el Banco del Congo Belga pasó a ser una importante agencia financiera de ese gobierno."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-nacional-de-dinamarca-1818",
+   "tipo": "hecho",
+   "titulo": "Banco Nacional de Dinamarca (1818)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1818,
+    "fuente": "oficial",
+    "texto": "1818"
+   },
+   "resumen": "Banco central de Dinamarca, creado como banco privado con monopolio de emisión.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Nacional de Dinamarca es el banco central del reino. Lo fundó el rey Federico VI en 1818 como banco privado con el monopolio de emisión por 90 años, prorrogado en 1907. Pertenece al Sistema Europeo de Bancos Centrales sin ser parte de la eurozona.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Nacional de Dinamarca",
+      "url": "https://es.wikipedia.org/wiki/Banco_Nacional_de_Dinamarca",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Historia",
+     "nivel": "hecho",
+     "texto": "En 1914 pasó a ser el banco único del gobierno y en 1936 recibió su base legal permanente. Antes de la ocupación alemana su oro se envió a Estados Unidos; durante ella Dinamarca tuvo que financiar al ocupante."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "banco-nacional-suizo-1906",
+   "tipo": "hecho",
+   "titulo": "Banco Nacional Suizo (1906)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1906,
+    "fuente": "oficial",
+    "texto": "1906"
+   },
+   "resumen": "Banco central de Suiza, creado por ley federal a comienzos del siglo XX.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Nacional Suizo es el banco central de Suiza. Se estableció por ley federal en 1906 y empezó a operar en 1907. Su papel en el oro nazi durante la Segunda Guerra Mundial fue investigado y es objeto de controversia.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Nacional Suizo",
+      "url": "https://es.wikipedia.org/wiki/Banco_Nacional_Suizo",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "comision-bergier",
+     "nota": "Comisión que investigó el oro."
+    },
+    {
+     "id": "bpi-reichsbank-guerra-mundial",
+     "nota": "Oro del Reichsbank durante la guerra."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "El oro nazi",
+     "nivel": "hecho",
+     "texto": "Un estudio del Departamento de Estado de Estados Unidos (1997) señaló que el banco debía saber que parte del oro recibido del Reichsbank había sido saqueado. La Comisión Bergier suiza concluyó en 1998 que recibió 440 millones de dólares en oro de fuentes nazis, de los que se estima que 316 millones eran saqueados. También cambió oro con los aliados."
     }
    ],
    "vista": "economia"
@@ -5090,6 +6600,53 @@ window.CRONO = {
     }
    ],
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "banco-popular-de-china-1948",
+   "tipo": "hecho",
+   "titulo": "Banco Popular de China (1948)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1948,
+    "fuente": "oficial",
+    "texto": "1948"
+   },
+   "resumen": "Banco central de la República Popular China, emisor del yuan.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Banco Popular de China, con sede en Pekín, se fundó en 1948. Controla la política monetaria, regula las instituciones financieras de China continental y emite el yuan.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Popular de China",
+      "url": "https://es.wikipedia.org/wiki/Banco_Popular_de_China",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Tamaño",
+     "nivel": "hecho",
+     "texto": "La fuente le atribuye activos financieros de 2,13 billones de dólares, más que ninguna otra institución pública de finanzas, sin dar el año de la cifra."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -5370,6 +6927,282 @@ window.CRONO = {
     }
    ],
    "naturaleza": "banca",
+   "vista": "economia"
+  },
+  {
+   "id": "bancos-centrales-cronologia",
+   "tipo": "hecho",
+   "titulo": "Los bancos centrales desde el de Venecia, por orden de fundación",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1157,
+    "texto": "desde 1157",
+    "fuente": "oficial"
+   },
+   "resumen": "Lista cronológica de los bancos públicos y centrales, desde el que la tradición sitúa en Venecia en 1157 hasta los creados en el siglo XXI.",
+   "segun": [],
+   "oficial": {
+    "resumen": "Un banco central es la institución que emite la moneda y dirige la política monetaria de un país o de una unión de países. Antes existieron bancos públicos de ciudades y repúblicas, como los de Barcelona, Génova, Venecia, Ámsterdam o Hamburgo. El de Suecia (1668) se considera el banco central más antiguo en funcionamiento, y le sigue el de Inglaterra (1694). La lista consultada recoge 182 instituciones vigentes con fecha, contando una sola vez las compartidas por varios países; además señala países sin banco central propio.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Bank of Venice",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Venice",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (es): Banco de Suecia",
+      "url": "https://es.wikipedia.org/wiki/Banco_de_Suecia",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "banco-de-venecia-1157",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "taula-de-canvi-barcelona",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-san-giorgio-1407",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-della-piazza-di-rialto-1587",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-amsterdam",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-del-giro-1619",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "riksbank-1668",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-inglaterra",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-francia-1800",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "reichsbank-1876",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-italia",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "creacion-reserva-federal-1913",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-pagos-internacionales",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-hamburgo-1619",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-prusia-1765",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-espana-1782",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-finlandia-1812",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-los-paises-bajos-1814",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-nacional-de-austria-1816",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-noruega-1816",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-nacional-de-dinamarca-1818",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-portugal-1846",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-nacional-de-belgica-1850",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-estatal-imperio-ruso-1860",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-japon-1882",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-nacional-suizo-1906",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-reserva-de-sudafrica-1921",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "gosbank-1921",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-reserva-del-peru-1922",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-la-republica-colombia-1923",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-mexico-1925",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-chile-1925",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-turquia-1930",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-canada-1934",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-argentina-1935",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-reserva-de-la-india-1935",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-popular-de-china-1948",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-corea-1950",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-arabia-saudi-1952",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-israel-1954",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "bundesbank-1957",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-africa-occidental-1959",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-iran-1960",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-reserva-de-australia-1960",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-central-de-brasil-1964",
+     "nota": "Banco de la serie."
+    },
+    {
+     "id": "banco-de-rusia-1990",
+     "nota": "Banco de la serie."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antes del banco central: los bancos públicos",
+     "nivel": "hecho",
+     "texto": "1157 · Banco de Venecia, según una tradición que lo presenta como el primer banco con garantía del Estado.\n\n1401 · Taula de canvi de Barcelona (hasta 1714).\n\n1407 · Banco de San Giorgio, Génova (hasta 1805).\n\n1463 · Banco de Nápoles, bajo distintos nombres; ejerció de banco central hasta 1926.\n\n1587 · Banco della Piazza di Rialto, Venecia.\n\n1609 · Banco de Ámsterdam (hasta 1791).\n\n1619 · Banco de Hamburgo (hasta 1875) y Banco del Giro de Venecia."
+    },
+    {
+     "titulo": "1668–1799",
+     "nivel": "hecho",
+     "texto": "1668 · Banco de Suecia (Suecia).\n\n1694 · Banco de Inglaterra (Reino Unido).\n\n1782 · Banco de España."
+    },
+    {
+     "titulo": "1800–1899",
+     "nivel": "hecho",
+     "texto": "1800 · Banco de Francia.\n\n1812 · Banco de Finlandia.\n\n1814 · De Nederlandsche Bank (Países Bajos).\n\n1816 · Banco Nacional de Austria; Banco de Noruega.\n\n1818 · Banco Nacional de Dinamarca.\n\n1828 · Banco Central de Curazao y San Martín.\n\n1846 · Banco de Portugal.\n\n1850 · Banco Nacional de Bélgica.\n\n1879 · Banco Nacional de Bulgaria.\n\n1880 · Banco Nacional de Rumanía.\n\n1882 · Banco de Japón.\n\n1884 · Banco Nacional de Serbia.\n\n1893 · Banco de Italia."
+    },
+    {
+     "titulo": "1900–1945",
+     "nivel": "hecho",
+     "texto": "1906 · Banco Nacional Suizo.\n\n1913 · Reserva Federal (EE. UU.).\n\n1921 · Banco de Reserva de Sudáfrica.\n\n1922 · Banco de Reserva del Perú.\n\n1923 · Banco de la República (Colombia).\n\n1924 · Banco Nacional de Hungría; Banco de Mongolia.\n\n1925 · Banco Central de Chile; Banco de Albania; Banco de México.\n\n1926 · Banco Nacional de Angola.\n\n1927 · Banco Central del Ecuador.\n\n1928 · Banco Central de Bolivia; Banco de Grecia.\n\n1930 · Banco Central de Turquía.\n\n1934 · Banco Central de Reserva de El Salvador; Banco de Reserva de Nueva Zelanda.\n\n1935 · Banco Central de Argentina; Banco de Canadá; Banco de Reserva de la India.\n\n1939 · Banco Central de Venezuela; Banco de Afganistán.\n\n1942 · Banco de Tailandia.\n\n1943 · Banco Central de Irlanda.\n\n1945 · Banco Nacional de Polonia; Banco de Guatemala."
+    },
+    {
+     "titulo": "1946–1969",
+     "nivel": "hecho",
+     "texto": "1947 · Banco Central de Corea del Norte; Banco Central de Irak; Banco Central de la República Dominicana.\n\n1948 · Banco Central de Birmania; Banco Central de Cuba; Banco Estatal de Pakistán; Banco Popular de China.\n\n1949 · Banco Central de Filipinas.\n\n1950 · Banco Central de Costa Rica; Banco Central de Honduras; Banco Central de Sri Lanka; Banco de Corea (Corea del Sur).\n\n1951 · Banco Estatal de Vietnam.\n\n1952 · Banco Central de Arabia Saudí; Banco Central del Paraguay.\n\n1953 · Banco Central de Siria; Banco de Indonesia.\n\n1954 · Banco Nacional de Camboya; Banco de Israel.\n\n1956 · Banco Central de Libia; Banco Rastra de Nepal.\n\n1957 · Banco Central de Surinam; Banco de Ghana; Bundesbank (Alemania).\n\n1958 · Banco Central de Nigeria; Banco Central de Túnez.\n\n1959 · Banco Al-Maghrib (Marruecos); Banco Central de Malasia; Banco Central de los Estados de África Occidental.\n\n1960 · Banco Central de Guinea; Banco Central de Irán; Banco Central de Nicaragua; Banco Central de Somalia; Banco Central de Sudán; Banco de Reserva de Australia.\n\n1961 · Banco Central de Egipto; Banco Central de Islandia; Banco Central de Taiwán; Banco de Jamaica.\n\n1962 · Banco de Argelia.\n\n1963 · Banco Central de Chipre; Banco Nacional de Etiopía; Banco de Sierra Leona; Banco del Líbano.\n\n1964 · Banco Central de Brasil; Banco Central de Jordania; Banco Central de Trinidad y Tobago; Banco Central del Congo (R. D.); Banco Nacional de Ruanda; Banco de Reserva de Malaui; Banco de Reserva de Zimbabue; Banco de Zambia.\n\n1965 · Banco de Guyana; Banco de Tanzania.\n\n1966 · Banco Central de Kenia; Banco de Uganda; Banco de la República de Burundi; Instituto de Emisión de Ultramar (territorios franceses del Pacífico).\n\n1967 · Administración del Patrimonio de la Sede Apostólica (Vaticano); Banco Central del Uruguay; Banco de Mauricio.\n\n1968 · Banco Central de Malta; Banco de Laos.\n\n1969 · Autoridad Monetaria de Bermudas; Banco Central de Kuwait."
+    },
+    {
+     "titulo": "1970–1989",
+     "nivel": "hecho",
+     "texto": "1971 · Autoridad Monetaria de Singapur; Banco Central de Gambia; Banco Central del Yemen; Banco de Bangladés.\n\n1972 · Banco Central de Barbados; Banco de los Estados de África Central.\n\n1973 · Banco Central de Baréin; Banco Central de Catar; Banco Central de Mauritania; Banco de Papúa Nueva Guinea.\n\n1974 · Banco Central de Esuatini; Banco Central de Madagascar; Banco Central de Omán; Banco Central de las Bahamas.\n\n1975 · Banco Central de Santo Tomé y Príncipe; Banco de Botsuana; Banco de Cabo Verde; Banco de Mozambique.\n\n1978 · Banco Central de Lesoto.\n\n1979 · Banco Central de Yibuti; Banco de la República de Haití.\n\n1980 · Banco Central de los Emiratos Árabes Unidos.\n\n1981 · Autoridad Monetaria de Maldivas; Banco Central de las Comoras; Banco de Reserva de Vanuatu.\n\n1982 · Autoridad Monetaria de Bután; Banco Central de Belice.\n\n1983 · Banco Central de Seychelles; Banco Central de las Islas Salomón; Banco Central del Caribe Oriental; Banco Central del Norte de Chipre (reconocimiento parcial).\n\n1984 · Banco Central de Samoa; Banco de Reserva de Fiyi.\n\n1986 · Banco Central de Aruba.\n\n1989 · Banco de Reserva de Tonga."
+    },
+    {
+     "titulo": "1990–2013",
+     "nivel": "hecho",
+     "texto": "1990 · Banco Nacional de Croacia; Banco de Estonia; Banco de Lituania; Banco de Namibia; Banco de Rusia.\n\n1991 · Banco Central de Armenia; Banco Central de Turkmenistán; Banco Central de Uzbekistán; Banco Nacional de Abjasia (reconocimiento parcial); Banco Nacional de Georgia; Banco Nacional de Kirguistán; Banco Nacional de Macedonia del Norte; Banco Nacional de Moldavia; Banco Nacional de Tayikistán; Banco Nacional de Ucrania; Banco de Eslovenia; Banco de Letonia.\n\n1992 · Banco Central de Azerbaiyán; Banco Nacional de Bielorrusia; Banco Republicano de Transnistria (reconocimiento parcial).\n\n1993 · Autoridad Monetaria de Hong Kong; Banco Nacional Checo; Banco Nacional de Eslovaquia; Banco Nacional de Kazajistán; Banco de Eritrea.\n\n1994 · Autoridad Monetaria de Palestina (reconocimiento parcial); Banco de Somalilandia (reconocimiento parcial).\n\n1997 · Autoridad Monetaria de las Islas Caimán; Banco Central de Bosnia y Herzegovina.\n\n1998 · Banco Central de Luxemburgo.\n\n1999 · Autoridad Monetaria de Macao.\n\n2000 · Banco Central de Liberia.\n\n2001 · Banco Central de Montenegro.\n\n2005 · Banco Central de San Marino.\n\n2008 · Banco Central de Kosovo (reconocimiento parcial).\n\n2011 · Banco Central de Brunéi; Banco Central de Timor Oriental; Banco de Sudán del Sur.\n\n2013 · Banco Nacional de Osetia del Sur (reconocimiento parcial).\n\nA estos se suma el Banco Central Europeo (1998), común a los países del euro."
+    },
+    {
+     "titulo": "Bancos centrales que ya no existen",
+     "nivel": "hecho",
+     "texto": "1765–1875 · Banco Real de Prusia y Banco de Prusia.\n\n1816–1893 · Banco de Florencia, luego Banco Nacional Toscano.\n\n1849–1861 · Banco Nacional de los Estados Sardos.\n\n1854–1875 · Banco de Fráncfort.\n\n1909–1950 · Banco de Chosen (Corea).\n\n1917–1991 · Banco del Pueblo y Gosbank (Rusia y URSS).\n\n1919–1966 · Junta Monetaria de África Oriental.\n\n1920–1991 · Bancos nacionales de Yugoslavia (reino y república); 1992–2003, el de Serbia y Montenegro.\n\n1926–1992 · Bancos nacional y estatal de Checoslovaquia.\n\n1932–1945 · Banco Central de Manchukuo.\n\n1940–1945 · Banco de Emisión en la Polonia ocupada.\n\n1941–1945 · Banco Estatal de Croacia.\n\n1948–1990 · Banco emisor y banco estatal de la República Democrática Alemana.\n\n1954–1975 · Banco Nacional de Vietnam del Sur."
+    },
+    {
+     "titulo": "Cómo leer las fechas",
+     "nivel": "hipotesis",
+     "texto": "Los años de 1668 en adelante son los de la columna «establecimiento» de la lista de Wikipedia en inglés; no se han comprobado uno a uno. En varios casos es el año de la primera institución y no el del banco central actual, y algunas no son bancos centrales en sentido estricto (autoridades monetarias o la Administración del Patrimonio de la Sede Apostólica).\n\nHay diferencias con otras fuentes: el Banco del Giro es de 1619 en su ficha y de 1524 en esa lista; el de África Occidental, 1959 en la lista y 1962 en la Wikipedia en español; el de Canadá, 1935 en la lista y fundado en 1934. Sobre 1157, la Wikipedia en inglés solo llama «Banco de Venecia» a los de 1587 y 1619: queda abierto qué fue exactamente el de 1157."
+    }
+   ],
    "vista": "economia"
   },
   {
@@ -7546,6 +9379,61 @@ window.CRONO = {
      "titulo": "Qué queda abierto",
      "nivel": "hipotesis",
      "texto": "La ficha no tiene autores registrados, así que aquí solo hay hechos. Para seguir el dinero y el poder haría falta saber quién tiene cuántos votos en el FMI y qué condiciones impone a quien le pide préstamos; esa información no consta en las fuentes leídas para esta ficha y no se ha comprobado. Queda como tema abierto, a documentar en fichas de episodios concretos (crisis de deuda, programas de ajuste), no como dato."
+    }
+   ],
+   "vista": "economia"
+  },
+  {
+   "id": "bundesbank-1957",
+   "tipo": "hecho",
+   "titulo": "Bundesbank (1957)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1957,
+    "fuente": "oficial",
+    "texto": "1957"
+   },
+   "resumen": "Banco central de la República Federal de Alemania, hoy integrado en el Eurosistema.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El Deutsche Bundesbank se creó en 1957 como banco central de la República Federal de Alemania, con sede en Fráncfort. Con el euro sus competencias principales pasaron al Banco Central Europeo.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (es): Banco Federal Alemán",
+      "url": "https://es.wikipedia.org/wiki/Banco_Federal_Alem%C3%A1n",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "bce-1998",
+     "nota": "Banco central de la eurozona."
+    },
+    {
+     "id": "reichsbank-1876",
+     "nota": "El banco central anterior."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Antecedentes",
+     "nivel": "hecho",
+     "texto": "En 1948 las potencias ocupantes occidentales montaron un sistema de dos niveles, inspirado en la Reserva Federal: los bancos centrales de los Länder y el Bank deutscher Länder, emisor del nuevo marco que sustituyó al Reichsmark."
     }
    ],
    "vista": "economia"
@@ -14822,12 +16710,12 @@ window.CRONO = {
      "obra": "mientras-dormiamos",
      "ubicacion": "cap. 1, pp. 34–41",
      "url": null,
-     "resumen": "Nocera dice que en la Navidad del 800 León III coronó a Carlomagno y que ese Sacro Imperio, formado por el Reino de los Francos, Lombardos y otros, continúa en realidad al Imperio Romano: Carlomagno descendería de prefectos romanos de la Galia y de la dinastía Flavia (figura 13). Desde entonces, afirma, todo monarca necesitaba la legitimidad del papa.",
+     "resumen": "Nocera dice que en la Navidad del 800 León III coronó a Carlomagno y que ese Sacro Imperio, formado por el Reino de los Francos, Lombardos y otros, continúa en realidad al Imperio Romano: Carlomagno descendería, por Arnulfo de Metz y los Ferreolo, de un prefecto romano de la Galia de hacia el año 390, cuya madre, dice, era de la dinastía Flavia. Desde entonces, afirma, todo monarca necesitaba la legitimidad del papa.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "León III coronó emperador a Carlomagno en Roma el 25-12-800. Su genealogía de origen galorromano (los Arnulfing) y la conexión con los Flavios son discutibles. La lectura de continuidad del imperio romano es compartida, con matices, por la historiografía; la subordinación de los monarcas al papa es tesis de Nocera. La coronación el 25-12-800 consta en Wikipedia (es); la genealogía de Arnoaldo, Tonantius Ferreolus y los Flavios no se ha comprobado.",
+    "resumen": "León III coronó emperador a Carlomagno en Roma el 25-12-800. La ascendencia romana no está establecida: los textos de los siglos X y XI que hacen a Arnoaldo padre de Arnulfo de Metz se consideran una fabricación, y los historiadores Patrick Geary y Richard Gerberding señalan que sin textos de la época no se puede rastrear la ascendencia de Arnulfo; otros genealogistas, como Christian Settipani, proponen enlaces distintos con Arnoaldo. Del prefecto Tonancio Ferreolo consta que su madre era hija de Afranio Siagrio, cónsul en 382, y la fuente no la vincula con la dinastía Flavia; desde el siglo IV «Flavio» se usaba además como marca de rango, sin parentesco. Que desde el año 800 todo monarca necesitara la legitimidad del papa es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Britannica: Charlemagne",
@@ -14843,6 +16731,31 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Charlemagne",
       "url": "https://en.wikipedia.org/wiki/Charlemagne",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (en): Arnulf of Metz",
+      "url": "https://en.wikipedia.org/wiki/Arnulf_of_Metz",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Arnoald",
+      "url": "https://en.wikipedia.org/wiki/Arnoald",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Tonantius Ferreolus (prefect)",
+      "url": "https://en.wikipedia.org/wiki/Tonantius_Ferreolus_(prefect)",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Flavia gens",
+      "url": "https://en.wikipedia.org/wiki/Flavia_gens",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Descent from antiquity (artículo con avisos de fuentes)",
+      "url": "https://en.wikipedia.org/wiki/Descent_from_antiquity",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -14861,7 +16774,7 @@ window.CRONO = {
      "nota": "Después."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Antecedentes",
@@ -14874,14 +16787,19 @@ window.CRONO = {
      "texto": "El 25 de diciembre de 800 León III lo coronó emperador en Roma, aprovechando la deposición de Constantino VI y que el trono imperial se consideraba vacante por ocuparlo una mujer, Irene. La corte de Constantinopla se indignó y no reconoció el título; tras un proyecto de boda frustrado hubo guerra. El imperio carolingio se considera la primera fase del Sacro Imperio."
     },
     {
+     "titulo": "La genealogía romana",
+     "nivel": "hecho",
+     "texto": "La Commemoratio genealogiae da a Arnulfo de Metz por hijo de Arnoaldo y apunta a que Arnoaldo era de los Ferreolo, aunque hay quien sostiene que esa relación se inventó. Joseph Depoin rechazó esa paternidad, y David H. Kelley y Christian Settipani propusieron otros enlaces entre Arnoaldo y los carolingios. Patrick Geary y Richard Gerberding señalan que faltan textos de la época.\n\nSegún Sidonio Apolinar, la madre del prefecto Tonancio Ferreolo era hija de Afranio Siagrio, cónsul en 382. A partir del siglo IV el nombre «Flavio» se extendió como marca de dignidad, y la gran mayoría de quienes lo llevaban no podían descender de la gens Flavia. La idea de una cadena familiar sin cortes desde la Antigüedad hasta una dinastía europea no está aceptada en ningún caso."
+    },
+    {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
-     "texto": "Según Giuseppe Nocera, ese Sacro Imperio continúa en realidad el Imperio romano, Carlomagno descendería de prefectos romanos de la Galia y de la dinastía Flavia, y desde entonces todo monarca necesitó la legitimidad del papa."
+     "texto": "Según Giuseppe Nocera, ese Sacro Imperio continúa en realidad el Imperio romano; Carlomagno descendería, por Arnulfo de Metz, Arnoaldo y los Ferreolo, de un prefecto romano de la Galia cuya madre era de la dinastía Flavia, y desde entonces todo monarca necesitó la legitimidad del papa."
     },
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La coronación consta. En los pasajes buscados no aparece una ascendencia Flavia, y que desde entonces todo monarca dependiera del papa es lectura del autor."
+     "texto": "La coronación consta. La cadena entre los Ferreolo y los carolingios es una propuesta discutida, no un hecho; no se ha leído directamente a Settipani. En las fuentes abiertas no aparece la ascendencia Flavia, y que desde entonces todo monarca dependiera del papa es lectura del autor."
     }
    ],
    "vista": "politica"
@@ -17369,7 +19287,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. El censo contó 3.929.214 habitantes. No consta una ley federal de bancarrota de 1813 en EE. UU. (la de 1800 se derogó en 1803), aunque sí una británica de ese año sobre presos por deudas. El recuento de las veces que las leyes usan la palabra «deuda» no se ha comprobado.",
+    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. El censo contó 3.929.214 habitantes. No consta una ley federal de bancarrota de 1813 en EE. UU. (la de 1800 se derogó en 1803), aunque sí una británica de ese año sobre presos por deudas. Con las cifras del propio autor, 11 dólares a 19,39 la onza son unas 0,57 onzas de oro, no casi una. El recuento de las veces que las leyes usan la palabra «deuda» no se ha comprobado: la nota del libro enlaza solo el archivo de las leyes del 6.º Congreso (1799–1801).",
     "fuentes": [
      {
       "titulo": "Constitución de EE. UU. (art. VI)",
@@ -17467,9 +19385,14 @@ window.CRONO = {
      "texto": "Según Giuseppe Nocera, el artículo VI de la Constitución asegura la validez de las deudas anteriores; en 1783 la deuda pública era de 43 millones de dólares, unos 11 por habitante (casi una onza de oro); en las leyes del Congreso de 1799 a 1845 «deuda» aparece 147 veces y «deudor» más de 30, y en 1813 EE. UU. y el Reino Unido adoptaron leyes de bancarrota para evitar la prisión de miles de personas. Lo lee como un sistema que obliga a las personas al «favor» del Estado."
     },
     {
+     "titulo": "La fuente del recuento",
+     "nivel": "hecho",
+     "texto": "En la página 55 el autor remite, para las 147 apariciones de «deuda» y las más de 30 de «deudor», a un archivo de la Biblioteca del Congreso llamado c6.pdf, dentro de la carpeta del 6.º Congreso, que legisló entre 1799 y 1801. La figura 21 reproduce la portada de los Public Statutes at Large, que cubren hasta el 3 de marzo de 1845."
+    },
+    {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras en las leyes sigue sin verificar: no se ha intentado, porque haría falta el texto de las leyes federales de 1799 a 1845 y un criterio de conteo.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras sigue sin verificar. Hipótesis de Nexus: las cifras podrían salir solo del archivo del 6.º Congreso y la fecha de 1845, de la portada de la colección; se comprobaría contando las dos palabras en ese archivo.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
     }
    ],
    "vista": "economia"
@@ -25501,6 +27424,63 @@ window.CRONO = {
    ],
    "naturaleza": "ocultismo",
    "vista": "religion"
+  },
+  {
+   "id": "gosbank-1921",
+   "tipo": "hecho",
+   "titulo": "Gosbank, el banco estatal soviético (1921)",
+   "carril": "politica-economia",
+   "naturaleza": "banca",
+   "temas": [],
+   "fecha": {
+    "desde": 1921,
+    "fuente": "oficial",
+    "hasta": 1991,
+    "texto": "1921 – 1991"
+   },
+   "resumen": "Banco central de la Unión Soviética y durante décadas casi su única entidad bancaria, instrumento de la economía planificada.",
+   "segun": [],
+   "oficial": {
+    "resumen": "El banco estatal de la Rusia soviética se creó en 1921, dentro de la Nueva Política Económica, como parte del ministerio de Finanzas, y pasó a ser el Gosbank de la URSS. Era una de las tres grandes autoridades económicas, junto al Gosplán y el Gossnab. Desapareció con la Unión Soviética y le sucedió el Banco Central de Rusia; las fuentes dan 1991 o 1992.",
+    "fuentes": [
+     {
+      "titulo": "Wikipedia (en): State Bank of the USSR",
+      "url": "https://en.wikipedia.org/wiki/State_Bank_of_the_USSR",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): List of central banks",
+      "url": "https://en.wikipedia.org/wiki/List_of_central_banks",
+      "consultado": "2026-11-28"
+     }
+    ]
+   },
+   "citas": [],
+   "conexiones": [
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
+    },
+    {
+     "id": "banco-de-rusia-1990",
+     "nota": "El banco central ruso que le sucede."
+    }
+   ],
+   "estado": "aprobado",
+   "solo_oficial": true,
+   "detalle": [
+    {
+     "titulo": "Cómo nació",
+     "nivel": "hecho",
+     "texto": "Empezó a operar en noviembre de 1921, tras el desorden monetario y el trueque de la guerra civil. Presidió las devaluaciones del rublo de 1922 y 1923 y desde 1922 emitió el chervonets, respaldado en oro."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Repartía el crédito según el plan y servía para controlar las empresas a través de sus cuentas. En la perestroika se le desgajaron bancos especializados, entre ellos la caja de ahorros Sberbank."
+    }
+   ],
+   "vista": "economia"
   },
   {
    "id": "gran-imperio-mongol-horda-rusa",
@@ -35111,14 +37091,14 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 1, p. 32 y figura 12",
+     "ubicacion": "cap. 1, pp. 32–33 y figura 12",
      "url": null,
      "resumen": "Nocera dice que Gregorio I era descendiente de la dinastía de los Anicios, presente en Roma desde las guerras de Macedonia, y que san Félix III y san Félix IV comparten su línea de sangre; lo toma como prueba de que los papas pertenecían al mismo círculo de poder romano.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano; se tiene a Félix III por su tatarabuelo, a través de Gordiano. Que ello implique continuidad de un poder oculto es tesis de Nocera. Las fuentes consultadas coinciden en que Gregorio descendía de Félix III a través de su padre Gordiano, aunque difieren en cuántas generaciones los separan (tatarabuelo, bisabuelo o abuelo) y es una filiación tradicional, no documentada con firmeza. Ninguna menciona a Félix IV.",
+    "resumen": "Gregorio Magno (590–604) nació en una rica familia noble romana, hijo del senador y prefecto Gordiano. El propio Gregorio cuenta en sus Diálogos (libro IV, cap. 16) que a su tía Tarsila se le apareció su antepasado Félix, obispo de Roma; no dice cuál, y se suele identificar con Félix III (483–492), aunque las fuentes difieren en cuántas generaciones los separan. Para Félix IV solo se halló la mención de que Juan el Diácono lo señaló como el antepasado, y que es menos probable por ser samnita y Gregorio de origen romano. La adscripción a los Anicios es tradicional y no se ha comprobado en el estudio especializado. Que ello implique un poder continuado es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Gregorio I",
@@ -35154,6 +37134,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Pope Felix III",
       "url": "https://en.wikipedia.org/wiki/Pope_Felix_III",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Gregorio Magno, Diálogos, libro IV, cap. 16 (traducción inglesa de 1911, Tertullian.org)",
+      "url": "https://tertullian.org/fathers/gregory_04_dialogues_book4.htm",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Dictionary of Early Christian Biography: Gordianus (resultado de búsqueda; la página no se pudo abrir)",
+      "url": "https://studylight.org/dictionaries/eng/hwd/g/gordianus-father-of-pope-gregory-the-great.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Lellia Cracco Ruggini, «Gli Anicii a Roma e in provincia», MEFRM 100 (1988), pp. 69–85 (leída solo la primera página)",
+      "url": "https://www.persee.fr/doc/mefr_0223-5110_1988_num_100_1_2958",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -35164,7 +37159,7 @@ window.CRONO = {
      "nota": "Mismo capítulo."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Antecedentes",
@@ -35177,6 +37172,11 @@ window.CRONO = {
      "texto": "Fue papa del 3 de septiembre de 590 al 12 de marzo de 604, el primer monje en serlo. La Wikipedia en español lo sitúa en la gens Anicia, hace de Félix III su bisabuelo y cuenta entre sus parientes al papa Agapito I."
     },
     {
+     "titulo": "Lo que dice el propio Gregorio",
+     "nivel": "hecho",
+     "texto": "En el libro IV de los Diálogos, capítulo 16, Gregorio narra la muerte de su tía Tarsila y cuenta que antes se le apareció en visión Félix, antiguo obispo de Roma y antepasado suyo («my great-grandfather» en la traducción inglesa de 1911). El texto no da el número del papa.\n\nEl libro de Nocera remite para los Anicios a un estudio de Lellia Cracco Ruggini (pp. 70 y 84), que fecha en 1984; el catálogo de la revista lo fecha en 1988 (tomo 100, pp. 69–85)."
+    },
+    {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
      "texto": "Según Giuseppe Nocera, descendía de los Anicios, presentes desde las guerras de Macedonia, y Félix III y Félix IV compartían su sangre, prueba de que los papas pertenecen a un linaje."
@@ -35184,7 +37184,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El parentesco con Félix III consta como filiación transmitida, con distinto número de generaciones según la fuente. En lo leído no aparece Félix IV, y un parentesco entre algunos papas no demuestra un linaje continuo."
+     "texto": "El parentesco con un papa Félix consta por el propio Gregorio; que sea Félix III es la identificación habitual. Félix IV no tiene más apoyo hallado que la mención atribuida a Juan el Diácono, vista solo en un resultado de búsqueda. No se ha leído si Cracco Ruggini hace a Gregorio un Anicio, y un parentesco entre algunos papas no demuestra un linaje continuo."
     }
    ],
    "vista": "religion"
@@ -55381,14 +57381,14 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 1, pp. 30–31",
+     "ubicacion": "cap. 1, pp. 30–32",
      "url": null,
-     "resumen": "Nocera repasa el Imperio Latino de Constantinopla (siglo XIII), a Balduino II, rey de Jerusalén, y cuenta que en 1277 María de Antioquía vendió sus derechos a Carlos I de Anjou, que en 1504 Fernando el Católico unió el título a la Corona de Aragón y que hoy sigue entre los títulos del rey de España, con la heráldica de la cruz de Jerusalén en el escudo; para él, la Corona española está supeditada al Vaticano.",
+     "resumen": "Nocera repasa el Imperio Latino, que sitúa a comienzos del siglo XII, y a su último emperador, Balduino II, al que llama rey de Jerusalén, y cuenta que en 1277 María de Antioquía vendió sus derechos a Carlos I de Anjou, que en 1504 Fernando el Católico unió el título a la Corona de Aragón y que hoy sigue entre los títulos del rey de España, con la heráldica de la cruz de Jerusalén en el escudo; para él, la Corona española está supeditada al Vaticano.",
      "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "En 1277 Carlos de Anjou compró el título de rey de Jerusalén a una pretendiente (María de Antioquía); los reyes de Nápoles heredaron el título, que pasó a los Trastámara de Aragón y de ahí a los Habsburgo y a los Borbones; Felipe VI lo mantiene entre sus títulos históricos. La dependencia de la Corona respecto al Vaticano es tesis de Nocera. En líneas generales la cadena consta en fuentes secundarias: los Anjou de Nápoles y los Lusignan de Chipre mantuvieron pretensiones rivales; tras morir Luis III de Anjou (1434) y la reina Juana II (1435), Renato de Anjou y Alfonso de Aragón se disputaron Nápoles, que Alfonso ganó en 1442; en 1503-1504 las tropas de Fernando el Católico recuperaron el reino, con la pretensión, que hoy conserva Felipe VI. Una fuente sitúa la cesión de María en 1269 y la confirmación del papa en 1277.",
+    "resumen": "En 1277 Carlos de Anjou compró a María de Antioquía su derecho al título de rey de Jerusalén (una lista basada en É. Léonard fecha la cesión en 1269 y la confirmación del papa en 1277). El título quedó ligado a Nápoles, pasó a la Corona de Aragón —Alfonso V ganó Nápoles en 1442 y Fernando el Católico recuperó el reino en 1503–1504— y de ella a los reyes de España. Hoy el rey puede usarlo entre los demás títulos de la Corona (art. 56.2 de la Constitución y art. 1.1 del Real Decreto 1368/1987), y un estudio académico lo clasifica como título «pro memoria», de recuerdo histórico y sin jurisdicción. Dos datos del libro no encajan: el Imperio Latino duró de 1204 a 1261, en el siglo XIII, y su último emperador, Balduino II de Constantinopla, no es el Balduino II que reinó en Jerusalén (1118–1131). La dependencia de la Corona respecto al Vaticano es tesis de Nocera.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Título de rey de Jerusalén",
@@ -55439,6 +57439,41 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Reino de Nápoles",
       "url": "https://es.wikipedia.org/wiki/Reino_de_N%C3%A1poles",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Philip B. Baldwin, Pope Gregory X and the Crusades (Boydell, 2014), cap. 4, resumen",
+      "url": "https://www.cambridge.org/core/books/pope-gregory-x-and-the-crusades/problem-of-governance-pope-gregory-x-charles-of-anjou-and-the-latin-kingdom-of-jerusalem/CC2083593BE49D5B964725FE41B4C264",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Fordham, Internet Medieval Sourcebook: Latin Kings of Jerusalem",
+      "url": "https://sourcebooks.web.fordham.edu/source/latinkings.asp",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "F. García-Mercadal, Los títulos de la Casa Real (Real Academia Matritense de Heráldica y Genealogía, 1998), pp. 12–13",
+      "url": "https://ramhg.es/wp-content/uploads/2024/09/garcia-mercadal_los_titulos_de_la_casa_real.pdf",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "BOE: Real Decreto 1368/1987, art. 1",
+      "url": "https://www.boe.es/buscar/pdf/1987/BOE-A-1987-25284-consolidado.pdf",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Latin Empire",
+      "url": "https://en.wikipedia.org/wiki/Latin_Empire",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Baldwin II, Latin Emperor",
+      "url": "https://en.wikipedia.org/wiki/Baldwin_II,_Latin_Emperor",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Baldwin II of Jerusalem",
+      "url": "https://en.wikipedia.org/wiki/Baldwin_II_of_Jerusalem",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -55453,7 +57488,7 @@ window.CRONO = {
      "nota": "Nápoles, cadena de herencia."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Antecedentes",
@@ -55471,6 +57506,11 @@ window.CRONO = {
      "texto": "También lo reclamaron Otón de Habsburgo, hasta 1958, y los reyes de Italia, hasta 1946."
     },
     {
+     "titulo": "El título hoy",
+     "nivel": "hecho",
+     "texto": "La Constitución (art. 56.2) y el Real Decreto 1368/1987 (art. 1.1) permiten al rey usar los demás títulos que correspondan a la Corona, sin enumerarlos. El jurista Fernando García-Mercadal, en su discurso de ingreso en la Real Academia Matritense de Heráldica y Genealogía (1998), clasifica «Rey de Jerusalén» entre los títulos de recuerdo histórico, de territorios que no se administran, y recoge que Alfonso XIII lo llevaba en el Almanaque de Gotha de 1941.\n\nSobre 1277, el historiador Philip B. Baldwin subraya que Carlos de Anjou no compró el derecho de María hasta esa fecha, ya muerto Gregorio X, y que la idea de que ese papa lo impulsó se sostiene sin pruebas sólidas."
+    },
+    {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
      "texto": "Según Giuseppe Nocera, María de Antioquía vendió sus derechos a Carlos de Anjou en 1277, Fernando el Católico unió el título a la Corona de Aragón en 1504 y la Corona española está supeditada al Vaticano."
@@ -55478,7 +57518,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cadena del título consta en líneas generales, con el paso a Aragón en 1442. La condición de feudo papal se refiere a Nápoles; en lo leído no aparece que hoy la Corona dependa del Vaticano por este título."
+     "texto": "La cadena del título consta en líneas generales. No se han leído Runciman ni Léonard directamente. La condición de feudo papal se refiere a Nápoles; en lo leído no aparece que hoy la Corona dependa del Vaticano por este título."
     }
    ],
    "vista": "politica"
@@ -71654,8 +73694,10 @@ window.CRONO = {
    "naturaleza": "teoria-alternativa",
    "temas": [],
    "fecha": {
-    "desde": 1942,
+    "desde": 1940,
     "hasta": null,
+    "aprox": true,
+    "margen": 1,
     "fuente": "oficial"
    },
    "resumen": "Bioingeniero estadounidense, profesor en la Universidad de Washington; conocido por su tesis de la «cuarta fase» del agua (agua EZ) y por sus libros sobre el agua celular, difundidos sobre todo fuera de la ciencia académica mayoritaria.",
@@ -71680,12 +73722,32 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Bioingeniero estadounidense, profesor de bioingeniería en la Universidad de Washington. Es conocido por defender la existencia de una «cuarta fase» del agua y por sus libros sobre el agua celular, tesis que difunde sobre todo fuera de los circuitos académicos mayoritarios.",
+    "resumen": "Bioingeniero estadounidense, profesor de bioingeniería en la Universidad de Washington. Es conocido por defender la existencia de una «cuarta fase» del agua y por sus libros sobre el agua celular, tesis que difunde sobre todo fuera de los circuitos académicos mayoritarios. Se doctoró en ingeniería biomédica en la Universidad de Pensilvania en 1968. Su currículo no da el año de nacimiento; dos directorios biográficos lo sitúan en 1939 y 1940.",
     "fuentes": [
      {
       "titulo": "Gerald Pollack — Department of Bioengineering, University of Washington",
       "url": "https://bioe.uw.edu/portfolio-items/pollack/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Currículo de Gerald H. Pollack (pollacklab.org)",
+      "url": "https://www.pollacklab.org/_files/ugd/4c5fa1_30be9ec99d074261ae36e21e0a62b9b1.pdf",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Library of Congress, autoridad de nombres n79091575 (sin año de nacimiento)",
+      "url": "https://id.loc.gov/authorities/names/n79091575.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "bucket.foundation: Gerald Pollack (da 1939; no es fuente primaria)",
+      "url": "https://www.bucket.foundation/canon/biophysics/figures/pollack",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Prabook: Gerald Harvey Pollack (da 1940; resultado de búsqueda, página no abierta)",
+      "url": "https://prabook.com/web/gerald_harvey.pollack/834848",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -109185,10 +111247,10 @@ window.CRONO = {
     "id": "PAR-002",
     "titulo": "Ciclo largo Saturno-Plutón y hechos fechados por año",
     "pregunta": "¿Caen los hechos de Wexipedia (1800-2026) más a menudo en los años con aspecto duro de Saturno y Plutón (orbe 6°) que un año cualquiera?",
-    "n": 421,
-    "aciertos": 132,
-    "esperado": 133.5,
-    "porc_hechos": 31.4,
+    "n": 451,
+    "aciertos": 139,
+    "esperado": 143.0,
+    "porc_hechos": 30.8,
     "porc_azar": 31.7,
     "hechos": [
      "america-first-movimiento",
@@ -109198,7 +111260,13 @@ window.CRONO = {
      "atentado-wtc-1993",
      "atentados-11s",
      "atentados-bali-2002",
+     "banco-central-de-reserva-del-peru-1922",
+     "banco-central-de-turquia-1930",
+     "banco-de-japon-1882",
+     "banco-de-la-republica-colombia-1923",
+     "banco-de-reserva-de-sudafrica-1921",
      "banco-pagos-internacionales",
+     "banco-popular-de-china-1948",
      "bayer-heroina-1898",
      "biopatia-del-cancer-1948",
      "bloques-de-la-primera-guerra-mundial",
@@ -109239,6 +111307,7 @@ window.CRONO = {
      "familia-gambino",
      "fundacion-bill-y-melinda-gates-1994",
      "gates-vacunas-poblacion-2010",
+     "gosbank-1921",
      "guerra-de-afganistan-2001",
      "guerra-de-irak",
      "guerra-de-los-seis-dias-1967",
@@ -109325,7 +111394,7 @@ window.CRONO = {
      "world-trade-center"
     ],
     "lectura": "Observación, no prueba. Los autores no reparten sus hechos por igual en el tiempo (hay más en ciertas décadas), y eso solo ya puede subir o bajar el porcentaje.",
-    "razon": 0.99
+    "razon": 0.97
    },
    {
     "id": "PAR-003",
@@ -128148,6 +130217,68 @@ window.CRONO = {
       "a": "Neptuno",
       "b": "Plutón",
       "aspecto": "trígono"
+     }
+    ]
+   },
+   "1765": {
+    "pos": {
+     "Júpiter": "Can",
+     "Saturno": "Gem",
+     "Urano": "Ari",
+     "Neptuno": "Leo",
+     "Plutón": "Cap"
+    },
+    "grados": {
+     "Júpiter": "26°Can",
+     "Saturno": "0°Gem",
+     "Urano": "24°Ari",
+     "Neptuno": "28°Leo",
+     "Plutón": "6°Cap"
+    },
+    "aspectos": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura",
+      "orbe": 1.9
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "cuadratura",
+      "orbe": 2.1
+     }
+    ],
+    "sinergias": [
+     {
+      "a": "Júpiter",
+      "b": "Urano",
+      "aspecto": "cuadratura"
+     },
+     {
+      "a": "Júpiter",
+      "b": "Plutón",
+      "aspecto": "oposición"
+     },
+     {
+      "a": "Saturno",
+      "b": "Urano",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Saturno",
+      "b": "Neptuno",
+      "aspecto": "sextil"
+     },
+     {
+      "a": "Urano",
+      "b": "Neptuno",
+      "aspecto": "trígono"
+     },
+     {
+      "a": "Urano",
+      "b": "Plutón",
+      "aspecto": "cuadratura"
      }
     ]
    },
