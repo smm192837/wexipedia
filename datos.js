@@ -1,6 +1,6 @@
 // Generado por herramientas/compilar.py — no editar a mano.
 window.CRONO = {
- "generado": "2026-11-27",
+ "generado": "2026-11-28",
  "publica": false,
  "carriles": [
   {
@@ -2315,17 +2315,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El Vaticano abrió a los investigadores los archivos del pontificado de Pío XI (1922-1939) el 18 de septiembre de 2006. La documentación incluye la correspondencia de la Secretaría de Estado y papeles de la Segunda Guerra Mundial.",
+    "resumen": "Según el comunicado de la Santa Sede del 30 de junio de 2006, Benedicto XVI decidió que desde el 18 de septiembre de ese año fuera accesible a los investigadores toda la documentación del pontificado de Pío XI (del 6 de febrero de 1922 al 10 de febrero de 1939), conservada en los archivos de la Santa Sede, principalmente en el Archivo Secreto Vaticano y en el de la Segunda Sección de la Secretaría de Estado.",
     "fuentes": [
      {
       "titulo": "Sala de Prensa de la Santa Sede: apertura de los archivos de Pío XI (30-6-2006)",
       "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2006/06/30/0340/00992.pdf",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "Wikipedia: Archivo Apostólico Vaticano",
       "url": "https://es.wikipedia.org/wiki/Archivo_Apost%C3%B3lico_Vaticano",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "Wikipedia (en): Vatican Apostolic Archive",
@@ -2358,7 +2358,7 @@ window.CRONO = {
     {
      "titulo": "La apertura",
      "nivel": "hecho",
-     "texto": "La ficha fecha en septiembre de 2006 el acceso a los fondos de Pío XI (1922-1939). La Santa Sede abre los archivos por pontificados completos; desde 2006 los archiveros preparaban además millones de páginas del siguiente, el de Pío XII."
+     "texto": "El comunicado de la Santa Sede del 30 de junio de 2006 anunció que desde el 18 de septiembre sería accesible toda la documentación del pontificado de Pío XI (6 de febrero de 1922 a 10 de febrero de 1939), algo que ya había deseado Juan Pablo II. Antes, Juan Pablo II había dispuesto en 2002 que desde 2003 se consultaran los fondos sobre las relaciones con Alemania en ese periodo. La Santa Sede abre los archivos por pontificados completos; desde 2006 los archiveros preparaban además millones de páginas del siguiente, el de Pío XII."
     },
     {
      "titulo": "Seguir el poder",
@@ -2373,7 +2373,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La nota de la Santa Sede que cita la ficha es un PDF que no se ha podido leer ahora. No se han visto los documentos sobre Tacchi Venturi."
+     "texto": "El comunicado no menciona a Tacchi Venturi y no se han visto los documentos sobre él: lo que sostiene el autor queda sin comprobar."
     }
    ],
    "naturaleza": "tratados-y-escritos",
@@ -33931,13 +33931,13 @@ window.CRONO = {
   {
    "id": "lenin-readmite-jesuitas-1922",
    "tipo": "hecho",
-   "titulo": "Lenin readmite formalmente a los jesuitas en Rusia, 1922",
+   "titulo": "Los jesuitas en la misión papal de socorro a Rusia, 1922",
    "carril": "religion",
    "temas": [],
    "fecha": {
     "desde": 1922
    },
-   "resumen": "En 1922 el Vaticano y el gobierno soviético acordaron (12-3-1922) una misión pontificia de socorro por la hambruna del Volga, dirigida por el jesuita estadounidense Edmund Walsh hasta 1923, dentro de la American Relief Administration.",
+   "resumen": "Misión pontificia de socorro por la hambruna en la Rusia soviética, acordada en 1922 entre el Vaticano y el gobierno soviético, dirigida por el jesuita estadounidense Edmund Walsh y con jesuitas y religiosos de otras órdenes. Una tesis sostiene que Lenin readmitió ese año a la Compañía de Jesús en Rusia; la versión oficial no recoge ninguna readmisión formal.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -33949,7 +33949,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "No consta una readmisión formal de la Compañía de Jesús en la URSS. En 1922 el Vaticano y el gobierno soviético acordaron (12-3-1922) una misión pontificia de socorro por la hambruna del Volga, dirigida por el jesuita estadounidense Edmund Walsh hasta 1923, dentro de la American Relief Administration.",
+    "resumen": "No consta una readmisión formal de la Compañía de Jesús en la URSS. En 1922 el Vaticano y el gobierno soviético acordaron (12-3-1922) una misión pontificia de socorro por la hambruna del Volga, dirigida por el jesuita estadounidense Edmund Walsh hasta 1923, dentro de la American Relief Administration. En la misión, que trabajó en el país de agosto de 1922 a septiembre de 1924, hubo religiosos de cuatro órdenes (jesuitas, salesianos, verbitas y claretianos), cuya presencia era especialmente indeseada por las autoridades. La región rusa de la Compañía sitúa su regreso oficial en 1992.",
     "fuentes": [
      {
       "titulo": "CNEWA: Edmund A. Walsh, S.J.",
@@ -33960,6 +33960,21 @@ window.CRONO = {
       "titulo": "Georgetown University Library: Edmund Walsh",
       "url": "https://library.georgetown.edu/exhibition/rev-edmund-walsh-sj-priest-educator-and-diplomat",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "E. Tokareva, The Adventures of a Jesuit in Russia (Istoriya, 2021), resumen",
+      "url": "https://history.jes.su/s207987840016690-8-1/?sl=en",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Edmund A. Walsh",
+      "url": "https://en.wikipedia.org/wiki/Edmund_A._Walsh",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Región rusa de la Compañía de Jesús",
+      "url": "https://jesuit.ru/russian-jesuit-region-welcomes-you/",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -33988,7 +34003,12 @@ window.CRONO = {
     {
      "titulo": "La misión de 1922",
      "nivel": "hecho",
-     "texto": "El Vaticano le encargó coordinar la misión pontificia de socorro contra la hambruna en Rusia, con cocinas católicas donde esperaban y comían niños."
+     "texto": "El Vaticano le encargó coordinar la misión pontificia de socorro contra la hambruna en Rusia, con cocinas católicas donde esperaban y comían niños. Walsh llegó a Moscú en marzo de 1922 y en junio Pío XI lo nombró director de la misión. Esta trabajó de agosto de 1922 a septiembre de 1924. Según el historiador Paul Gabel, citado por Wikipedia, tenía órdenes estrictas de los bolcheviques y del Vaticano de no hacer proselitismo."
+    },
+    {
+     "titulo": "Los jesuitas y las autoridades",
+     "nivel": "hecho",
+     "texto": "En la misión había miembros de cuatro órdenes: jesuitas, salesianos, verbitas y claretianos. Según el resumen del estudio de Evgenia Tokareva, su presencia era especialmente indeseada en los años de persecución religiosa y de los primeros grandes procesos contra clérigos ortodoxos y católicos, y Walsh irritó a las autoridades al informar al Vaticano de hechos desfavorables para ellas."
     },
     {
      "titulo": "Después",
@@ -34003,7 +34023,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Consta una misión de socorro dirigida por un jesuita, no una readmisión formal de la Compañía. El título de la ficha enuncia la tesis del autor como hecho. La página de CNEWA no se pudo abrir."
+     "texto": "No se ha hallado ninguna fuente de una readmisión formal: consta la presencia de jesuitas dentro de la misión de socorro, y la región rusa de la Compañía sitúa el regreso oficial en 1992. No se han leído el acuerdo del 12 de marzo de 1922, el artículo de M. P. Trythall (2018) ni el texto completo de Tokareva, así que la búsqueda no permite descartar la tesis del todo. La página de CNEWA no se pudo abrir."
     }
    ],
    "naturaleza": "logias",
@@ -38883,7 +38903,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "no da fecha",
-   "resumen": "Mussolini figura como caballero de la Orden de Malta con el grado de Balì Gran Croce di Onore e Devozione, concedido el 2 de abril de 1923; el dato aparece en las listas de condecoraciones que recogen varias fuentes, aunque la Orden no lo publicita.",
+   "resumen": "Distinción de la Orden de Malta a Benito Mussolini: el grado de bailío gran cruz de honor y devoción, que las Wikipedias en francés e italiano fechan el 2 de abril de 1923 sin citar documento. No se ha hallado fuente primaria.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38895,17 +38915,22 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Mussolini figura como caballero de la Orden de Malta con el grado de Balì Gran Croce di Onore e Devozione, concedido el 2 de abril de 1923; el dato aparece en las listas de condecoraciones que recogen varias fuentes, aunque la Orden no lo publicita.",
+    "resumen": "Las listas de condecoraciones de las Wikipedias en francés e italiano recogen para Mussolini el grado de bailío gran cruz de honor y devoción de la Orden de Malta, fechado el 2 de abril de 1923. Ninguna cita documento, pueden copiarse una de otra y no se ha hallado fuente primaria.",
     "fuentes": [
      {
       "titulo": "Wikipedia (francés): Benito Mussolini, distinciones",
       "url": "https://fr.wikipedia.org/wiki/Benito_Mussolini",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "Wikipedia (es): Benito Mussolini",
       "url": "https://es.wikipedia.org/wiki/Benito_Mussolini",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (italiano): Benito Mussolini, onorificenze",
+      "url": "https://it.wikipedia.org/wiki/Benito_Mussolini",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -38929,7 +38954,7 @@ window.CRONO = {
     {
      "titulo": "El dato",
      "nivel": "hecho",
-     "texto": "La ficha recoge la concesión del grado de bailío gran cruz de honor y devoción el 2 de abril de 1923, que aparece en listas de condecoraciones."
+     "texto": "Las listas de condecoraciones de las Wikipedias en francés e italiano dan el grado de bailío gran cruz de honor y devoción y la fecha del 2 de abril de 1923. La alemana lo clasifica con ese grado y la española, entre los caballeros de la Orden, sin que en lo buscado dé fecha."
     },
     {
      "titulo": "Qué dice el autor",
@@ -38939,7 +38964,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "En los pasajes releídos de las biografías en francés, español e inglés no se ha localizado la concesión; falta una fuente de la propia Orden o un documento. Conviene tratar la fecha y el grado como pendientes de confirmar."
+     "texto": "Falta una fuente de la propia Orden o un documento. Las dos listas no llevan nota y pueden depender una de otra, así que la fecha y el grado se apoyan, por ahora, en lo que equivale a una sola fuente enciclopédica."
     }
    ],
    "naturaleza": "logias",
@@ -47553,9 +47578,11 @@ window.CRONO = {
    "carril": "religion",
    "temas": [],
    "fecha": {
-    "desde": 1969
+    "desde": 1968,
+    "texto": "28 de marzo de 1968",
+    "fuente": "oficial"
    },
-   "resumen": "Reforma de la corte papal tras la cual solo sobreviven unas pocas familias aristocráticas. El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968 (no 1969): rebautizó la Corte Pontificia como Casa Pontificia y suprimió los títulos de nobleza de la corte.",
+   "resumen": "Reforma de la corte del papa, decidida por Pablo VI con el motu proprio Pontificalis Domus del 28 de marzo de 1968: la Corte Pontificia pasó a llamarse Casa Pontificia, se suprimieron o transformaron cargos y dignidades, muchos de ellos ya solo honoríficos, y se estableció que ningún cargo de la Casa es hereditario.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -47596,7 +47623,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968 (no 1969): rebautizó la Corte Pontificia como Casa Pontificia y suprimió los títulos de nobleza de la corte. Según Wikipedia, el título de príncipe asistente al solio fue hereditario hasta esa reforma y hoy no se usa, aunque no se suprimió formalmente; esto choca con la afirmación del autor de que Alessandro Torlonia y Marco Antonio Colonna lo ostentan «hoy».",
+    "resumen": "El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968. La Corte Pontificia pasó a llamarse Casa Pontificia, dividida en Capilla y Familia, y ningún cargo en ella es hereditario. De la Capilla se suprimieron, entre otros, el cargo y el nombre de «Príncipes asistentes al solio»; en la Familia laica se mantuvieron los «Asistentes al solio». Según Wikipedia, los dos titulares que vivían, Aspreno Colonna y Alessandro Torlonia, conservaron el título a título personal hasta su muerte (1987 y 2017). Esto choca en parte con el autor: desde 1968 el cargo no es hereditario y Torlonia murió a finales de 2017; no se ha hallado fuente sobre un Marco Antonio Colonna que lo ostente.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pontificalis Domus",
@@ -47606,12 +47633,27 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Prince assistant to the papal throne",
       "url": "https://en.wikipedia.org/wiki/Prince_assistant_to_the_papal_throne",
-      "consultado": "2026-11-14"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "Pablo VI, Pontificalis Domus (texto latino, 28-3-1968)",
       "url": "https://documentacatholicaomnia.eu/01p/1968-03-28,_SS_Paulus_VI,_Motu_Proprio_'Pontificalis_Domus',_LT.pdf",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Santa Sede: Pablo VI, Pontificalis Domus (texto italiano, 28-3-1968)",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Santa Sede: Pablo VI, Pontificalis Domus (texto latino, 28-3-1968)",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Il Centro: muerte de Alessandro Torlonia (2-1-2018)",
+      "url": "https://www.ilcentro.it/l-aquila/morto-a-92-anni-don-alessandro-torlonia-ultimo-principe-del-fucino-1.1794615",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -47629,7 +47671,7 @@ window.CRONO = {
     {
      "titulo": "El príncipe asistente al solio",
      "nivel": "hecho",
-     "texto": "Era un título hereditario desde el siglo XVI, disputado entre Colonna y Orsini hasta que Benedicto XIII estableció la alternancia; los Orsini lo tuvieron hasta 1958. Desde 1968 no se usa, aunque no se suprimió formalmente según Wikipedia."
+     "texto": "Era un título hereditario desde el siglo XVI, disputado entre Colonna y Orsini hasta que Benedicto XIII estableció la alternancia; los Orsini lo tuvieron hasta 1958. El motu proprio suprime de la Capilla el cargo y el nombre de «Príncipes asistentes al solio» (n. 6 § 4), mantiene los «Asistentes al solio» en la Familia laica, que ayudan al prefecto del Palacio Apostólico en las ceremonias civiles solemnes (n. 7 § 2 y § 9), y declara que ningún cargo es hereditario (n. 3 § 4). Según Wikipedia en inglés, Aspreno Colonna y Alessandro Torlonia conservaron el título personalmente hasta su muerte, en 1987 y 2017, y hoy no está en uso."
     },
     {
      "titulo": "Qué dice el autor",
@@ -47639,7 +47681,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La ficha está fechada en 1969 y las fuentes dan 1968. El texto latino no se pudo abrir."
+     "texto": "El autor fecha la reforma en 1969; el texto pontificio es de 1968. En lo leído no consta quién es el Marco Antonio Colonna que cita ni que alguien ostente hoy el título. El artículo de Liturgical Arts Journal en que se apoya la Wikipedia no se pudo abrir."
     }
    ],
    "naturaleza": "tratados-y-escritos",
