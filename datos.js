@@ -7015,7 +7015,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El bombardeo de Dresde por la RAF y la fuerza aérea de EE. UU. se produjo entre el 13 y el 15 de febrero de 1945. Una comisión de historiadores nombrada por la ciudad concluyó en 2010 que murieron hasta 25.000 personas; las estimaciones anteriores llegaban a 135.000 y fueron rebajadas en parte por usos propagandísticos. Si el ataque estaba justificado militarmente sigue discutido. No se ha comprobado en esta pasada que Churchill lo ordenara personalmente ni su papel de ministro de Colonias en el Mandato de Palestina.",
+    "resumen": "El bombardeo de Dresde por la RAF y la fuerza aérea de EE. UU. se produjo entre el 13 y el 15 de febrero de 1945. Una comisión de historiadores nombrada por la ciudad concluyó en 2010 que murieron hasta 25.000 personas; las estimaciones anteriores llegaban a 135.000 y fueron rebajadas en parte por usos propagandísticos. Si el ataque estaba justificado militarmente sigue discutido. Churchill, primer ministro, presionó el 26 de enero de 1945 al ministro del Aire para que se atacaran las grandes ciudades del este de Alemania, y el encargo pasó por el Estado Mayor del Aire al Mando de Bombarderos; en lo consultado no aparece una orden suya que nombre Dresde. Fue secretario de Estado para las Colonias, con responsabilidad sobre el Mandato de Palestina, en 1921-1922, no en 1945.",
     "fuentes": [
      {
       "titulo": "Ciudad de Dresde: comisión histórica sobre el bombardeo (informe final 2010)",
@@ -7036,6 +7036,16 @@ window.CRONO = {
       "titulo": "Wikipedia: Bombardeo de Dresde",
       "url": "https://es.wikipedia.org/wiki/Bombardeo_de_Dresde",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Wikipedia (en): Bombing of Dresden",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Dresden",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Winston Churchill",
+      "url": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -7079,6 +7089,11 @@ window.CRONO = {
      "titulo": "La propaganda de Goebbels",
      "nivel": "hecho",
      "texto": "El régimen nazi explotó el ataque. El 16 de febrero el Ministerio de Propaganda publicó que Dresde no tenía industria militar y era una ciudad cultural, y el 25 de febrero un panfleto con fotos de dos niños abrasados titulado «Dresde - Masacre de refugiados» afirmaba que habían muerto 200.000 personas. Frederick Taylor sostiene que el ministerio filtró a la prensa neutral extractos del informe oficial con un cero de más, 202.040.\n\nLa campaña funcionó: el parlamentario laborista Richard Stokes citó en la Cámara de los Comunes información de la agencia alemana de prensa y contribuyó al cambio de opinión británico sobre los bombardeos de ciudades. La manipulación de las cifras está, según Taylor, en el origen de parte de la indignación posterior."
+    },
+    {
+     "titulo": "Churchill y la orden",
+     "nivel": "hecho",
+     "texto": "El 25 de enero de 1945 Churchill preguntó al ministro del Aire, Archibald Sinclair, qué planes había contra Berlín y otras ciudades del este. El Estado Mayor del Aire propuso un gran ataque a Berlín y ataques a Dresde, Leipzig y Chemnitz. Churchill no quedó satisfecho con la respuesta y el día 26 exigió un plan; Sinclair se dirigió al Estado Mayor, que pidió a Arthur Harris, jefe del Mando de Bombarderos, atacar esas ciudades cuando el tiempo lo permitiera."
     },
     {
      "titulo": "El debate",
@@ -17398,7 +17413,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras en las leyes sigue sin verificar.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras en las leyes sigue sin verificar: no se ha intentado, porque haría falta el texto de las leyes federales de 1799 a 1845 y un criterio de conteo.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
     }
    ],
    "vista": "economia"
@@ -20295,7 +20310,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Corriente intelectual de la Universidad de Salamanca iniciada por Francisco de Vitoria (cátedra desde 1526), con Domingo de Soto, Azpilcueta, Tomás de Mercado, Vázquez de Menchaca (influyente en Grocio), Suárez, Mariana y Lessius, estudioso de Amberes. Anticipó ideas sobre el valor, la moneda y los precios, y Schumpeter la consideró precursora de la economía. No consta que la financiaran banqueros. Azpilcueta murió en 1586, cuando Sarpi tenía 34 años; Sarpi estuvo en Roma de 1585 a 1588 y pudo tratarlo, pero la amistad no se ha podido comprobar. Felipe II suspendió pagos en 1557, 1560, 1575 y 1596, con banqueros genoveses como principales acreedores.",
+    "resumen": "Corriente intelectual de la Universidad de Salamanca iniciada por Francisco de Vitoria (cátedra desde 1526), con Domingo de Soto, Azpilcueta, Tomás de Mercado, Vázquez de Menchaca (influyente en Grocio), Suárez, Mariana y Lessius, estudioso de Amberes. Anticipó ideas sobre el valor, la moneda y los precios, y Schumpeter la consideró precursora de la economía. No consta que la financiaran banqueros. Sarpi estuvo en Roma entre 1585 y 1588 y, según la Wikipedia en italiano, conoció allí a Azpilcueta, que murió el 21 de junio de 1586, cuando Sarpi tenía 33 años; no se ha hallado constancia de una amistad ni de que lo protegiera. Felipe II suspendió pagos en 1557, 1560, 1575 y 1596, con banqueros genoveses como principales acreedores.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Escuela de Salamanca",
@@ -20305,6 +20320,21 @@ window.CRONO = {
       "titulo": "Wikipedia (en): School of Salamanca",
       "url": "https://en.wikipedia.org/wiki/School_of_Salamanca",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (italiano): Paolo Sarpi",
+      "url": "https://it.wikipedia.org/wiki/Paolo_Sarpi",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Treccani, Dizionario Biografico degli Italiani: Sarpi, Paolo",
+      "url": "https://www.treccani.it/enciclopedia/paolo-sarpi_(Dizionario-Biografico)/",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (es): Martín de Azpilcueta",
+      "url": "https://es.wikipedia.org/wiki/Mart%C3%ADn_de_Azpilcueta",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -20356,7 +20386,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La aportación económica y jurídica consta. En los pasajes buscados no aparece que la financiaran banqueros; la cadena de influencias hasta 1789 queda sin comprobar."
+     "texto": "La aportación económica y jurídica consta. Que Sarpi y Azpilcueta se conocieran en Roma se apoya en una sola fuente; la amistad y la protección ante la curia que afirma el autor no se han hallado. En los pasajes buscados no aparece que la financiaran banqueros; la cadena de influencias hasta 1789 queda sin comprobar."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -23732,7 +23762,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias. Que los donantes busquen contratos es afirmación de Nocera sin comprobar.",
+    "resumen": "La FAO se fundó en Quebec en 1945 y tiene sede en Roma; su presupuesto combina cuotas ordinarias y aportaciones voluntarias. En el presupuesto previsto para 2016-2017, el 38 % venía de cuotas de los miembros y el 62 % debía llegar en aportaciones voluntarias, según la FAO. La Asociación Europea de Semillas entregó en 2015 una aportación voluntaria de 300.000 euros al Tratado Internacional sobre los Recursos Fitogenéticos para la Alimentación y la Agricultura. No se ha hallado fuente de que los donantes busquen contratos, como sostiene el autor.",
     "fuentes": [
      {
       "titulo": "FAO: informe de resultados",
@@ -23748,6 +23778,16 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Organización de las Naciones Unidas para la Alimentación y la Agricultura",
       "url": "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_de_las_Naciones_Unidas_para_la_Alimentaci%C3%B3n_y_la_Agricultura",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "FAO Members Gateway: presupuesto 2016-2017",
+      "url": "https://www.fao.org/members-gateway/news/detail/en/c/410144",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "HortiDaily: ESA entrega 300.000 euros al Tratado de la FAO (22-10-2015)",
+      "url": "https://www.hortidaily.com/article/6021304/austria-esa-hands-eur300-000-voluntary-financial-contribution-to-fao-it",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -23778,7 +23818,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La versión oficial confirma cuotas y aportaciones voluntarias. Que los donantes busquen contratos no se ha comprobado.\n\nPendiente al seguir el dinero: la lista de donantes y para qué se destina cada fondo."
+     "texto": "Constan las aportaciones voluntarias y la donación de 2015. El 61 % que da el autor se acerca al 62 % previsto para 2016-2017, pero no se ha identificado de qué periodo sale. Que los donantes busquen contratos no tiene apoyo en lo leído.\n\nPendiente al seguir el dinero: la lista de donantes y para qué se destina cada fondo."
     }
    ],
    "vista": "politica"
@@ -26718,12 +26758,17 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La emisión de CBS de Orson Welles del 30-10-1938 existió, pero el pánico masivo es en gran parte exagerado por la prensa de entonces; los estudios posteriores hablan de una audiencia pequeña y de reacciones limitadas. La masonería de Welles no se ha comprobado.",
+    "resumen": "La emisión de CBS de Orson Welles del 30-10-1938 existió, pero el pánico masivo es en gran parte exagerado por la prensa de entonces; los estudios posteriores hablan de una audiencia pequeña y de reacciones limitadas. En lo consultado no aparece que Welles fuera masón, como sostiene el autor.",
     "fuentes": [
      {
       "titulo": "Wikipedia: The War of the Worlds (1938 radio drama)",
       "url": "https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(1938_radio_drama)",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Orson Welles",
+      "url": "https://en.wikipedia.org/wiki/Orson_Welles",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -26762,7 +26807,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La emisión consta; el pánico masivo está discutido. En lo leído no aparecen la masonería ni un diseño experimental.\n\nEl interés de la prensa en agrandar el pánico es un dato a considerar."
+     "texto": "La emisión consta; el pánico masivo está discutido. Ni en lo leído ni en una búsqueda sobre el asunto ha aparecido prueba de que Welles fuera masón, lo que no demuestra que no lo fuera; tampoco un diseño experimental.\n\nEl interés de la prensa en agrandar el pánico es un dato a considerar."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -37873,6 +37918,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Alexander Garden Obelisk",
       "url": "https://en.wikipedia.org/wiki/Alexander_Garden_Obelisk",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Karl Kautsky",
+      "url": "https://en.wikipedia.org/wiki/Karl_Kautsky",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -37916,7 +37966,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "No fue un monumento a Moro: su nombre es uno de diecinueve en un obelisco reutilizado. La aprobación de Lenin consta. En lo leído no aparece nadie que corresponda a «Karl Kowski»."
+     "texto": "No fue un monumento a Moro: su nombre es uno de diecinueve en un obelisco reutilizado. La aprobación de Lenin consta. En lo leído no aparece nadie que corresponda a «Karl Kowski». Karl Kautsky publicó en 1888 «Thomas More y su utopía», así que puede tratarse de él: hipótesis de Nexus. No se ha localizado la antología de Margaret L. King que cita el autor."
     }
    ],
    "naturaleza": "ideales-sociales",
@@ -41316,7 +41366,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres. La cifra del 80 % que da Nocera no se ha podido comprobar. El convenio se adoptó en Ginebra el 6-3-1948 y entró en vigor el 17-3-1958 (Colección de Tratados de la ONU); entonces la organización se llamaba OCMI (IMCO) y cambió a OMI después.",
+    "resumen": "El convenio constitutivo de la OMI se adoptó en Ginebra en 1948 y entró en vigor en marzo de 1958 (primera asamblea el 6-1-1959); tiene sede en Londres. El transporte marítimo internacional mueve más del 80 % del comercio mundial, según la propia OMI; esa cifra es la parte del comercio que va por mar, no una medida de lo que la organización regula. El convenio se adoptó en Ginebra el 6-3-1948 y entró en vigor el 17-3-1958 (Colección de Tratados de la ONU); entonces la organización se llamaba OCMI (IMCO) y cambió a OMI después.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Organización Marítima Internacional",
@@ -41337,6 +41387,11 @@ window.CRONO = {
       "titulo": "Colección de Tratados de la ONU: Convenio constitutivo de la OMI",
       "url": "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%20XII/XII-1.en.xml",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "OMI: About IMO",
+      "url": "https://www.imo.org/en/about/pages/default.aspx",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -41372,7 +41427,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Es un regulador acordado entre Estados. La cifra del 80 % no se ha comprobado."
+     "texto": "Es un regulador acordado entre Estados. La cifra de más del 80 % consta como la parte del comercio mundial que va por mar, según la propia OMI."
     }
    ],
    "vista": "politica"
@@ -46394,7 +46449,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Entre 1831 y 1832 los Rothschild prestaron a los Estados Pontificios del papa Gregorio XVI; el contrato al 5 % lo firmaron Rothschild y Torlonia. Carl Mayer von Rothschild, desde Nápoles, se entrevistó con el papa en enero de 1832, y James de Rothschild pasó a ser banquero oficial del papado. La Jewish Encyclopedia (1906) dice, en efecto, que en la segunda mitad del siglo XIX los Rothschild fueron «guardianes del tesoro papal». No se ha podido comprobar que la Banca del Fucino volviera a trabajar con ellos en 2018.",
+    "resumen": "Entre 1831 y 1832 los Rothschild prestaron a los Estados Pontificios del papa Gregorio XVI; el contrato al 5 % lo firmaron Rothschild y Torlonia. Carl Mayer von Rothschild, desde Nápoles, se entrevistó con el papa en enero de 1832, y James de Rothschild pasó a ser banquero oficial del papado. La Jewish Encyclopedia (1906) dice, en efecto, que en la segunda mitad del siglo XIX los Rothschild fueron «guardianes del tesoro papal». En 2018 la Banca del Fucino encargó a un asesor, Rothschild, buscar un socio, según la Wikipedia en italiano; es un encargo puntual y no consta la protección de una familia sobre otra que sostiene el autor.",
     "fuentes": [
      {
       "titulo": "Jewish Encyclopedia (1906): Rothschild",
@@ -46413,7 +46468,7 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (it): Banca del Fucino",
       "url": "https://it.wikipedia.org/wiki/Banca_del_Fucino",
-      "consultado": "2026-11-27"
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -46452,7 +46507,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La mediación de Torlonia en 1831 consta. En lo leído no aparece una protección de una familia sobre la otra.\n\nSobre 2018: el artículo sobre la Banca del Fucino consultado hoy para la ficha de los Torlonia menciona que un asesor llamado Rothschild buscó socio para el banco ese año; es un encargo puntual y no consta que sea la relación que describe el autor.\n\nLectura de trabajo de Nexus: al seguir el dinero, el préstamo une a los banqueros con las potencias que sostenían el orden de Viena."
+     "texto": "La mediación de Torlonia en 1831 consta. En lo leído no aparece una protección de una familia sobre la otra.\n\nSobre 2018: la Wikipedia en italiano recoge que un asesor, Rothschild, propuso en marzo de ese año un socio para el banco; no precisa qué sociedad ni consta que sea la relación que describe el autor.\n\nLectura de trabajo de Nexus: al seguir el dinero, el préstamo une a los banqueros con las potencias que sostenían el orden de Viena."
     }
    ],
    "naturaleza": "banca",
@@ -53024,7 +53079,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Stalin ingresó en 1894 en el seminario ortodoxo de Tiflis y lo dejó en mayo de 1899; era un seminario ortodoxo, no jesuita. Agagianian, nacido en 1895, marchó a Roma a los 11 años (1906): no pudo coincidir con Stalin en sus años de seminarista. «Métodos jesuíticos» es la expresión de Stalin en su entrevista con Ludwig. Lo de Aleksándrov (1947) no se ha comprobado.",
+    "resumen": "Stalin ingresó en 1894 en el seminario ortodoxo de Tiflis y lo dejó en mayo de 1899; era un seminario ortodoxo, no jesuita. Agagianian, nacido en 1895, marchó a Roma a los 11 años (1906): no pudo coincidir con Stalin en sus años de seminarista. «Métodos jesuíticos» es la expresión de Stalin en su entrevista con Ludwig. La biografía breve de Stalin publicada en Moscú en 1947, a nombre del Instituto Marx-Engels-Lenin, dice que el «régimen jesuítico» del seminario le despertó un ardiente sentimiento de protesta y que a los quince años se hizo revolucionario; la página consultada no nombra a Aleksándrov.",
     "fuentes": [
      {
       "titulo": "Spartacus Educational: Joseph Stalin",
@@ -53045,6 +53100,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Gregorio Pedro XV Agagianian",
       "url": "https://es.wikipedia.org/wiki/Gregorio_Pedro_XV_Agagianian",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Marxists Internet Archive: Joseph Stalin, biografía breve (Moscú, 1947), capítulo I",
+      "url": "https://www.marxists.org/reference/archive/stalin/biographies/1947/stalin/01.htm",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -57567,6 +57627,11 @@ window.CRONO = {
       "titulo": "Wikipedia (de): Christoph von Dohna",
       "url": "https://de.wikipedia.org/wiki/Christoph_von_Dohna_(1583%E2%80%931637)",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Treccani, Dizionario Biografico degli Italiani: Sarpi, Paolo",
+      "url": "https://www.treccani.it/enciclopedia/paolo-sarpi_(Dizionario-Biografico)/",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -57602,7 +57667,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La Unión y la Liga constan. Sarpi se carteó con Christoph von Dohna, enviado de Anhalt a Venecia en 1608. En lo leído no aparecen cartas directas con Anhalt ni el hallazgo de 1875."
+     "texto": "La Unión y la Liga constan. Sarpi se carteó con Christoph von Dohna, enviado de Anhalt a Venecia en 1608. En lo leído no aparecen cartas directas con Anhalt ni el hallazgo de 1875. La bibliografía de Treccani sobre Sarpi recoge un estudio de Boris Ulianich (1976) sobre Anhalt y Sarpi, que no se ha leído."
     }
    ],
    "naturaleza": "gobiernos",
@@ -81449,7 +81514,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Gabriel Bonnot de Mably (Grenoble, 14-3-1709 – París, 2-4-1785), filósofo francés, hermanastro de Condillac y precursor del socialismo utópico. Criticó la desigualdad y la propiedad privada. Su Des droits et des devoirs du citoyen, escrito en 1758, se publicó tras su muerte. Las fuentes consultadas no dicen que su obra resuma a Juan de Mariana; esa afirmación es del autor y no se ha podido comprobar en el texto de Mably.",
+    "resumen": "Gabriel Bonnot de Mably (Grenoble, 14-3-1709 – París, 2-4-1785), filósofo francés, hermanastro de Condillac y precursor del socialismo utópico. Criticó la desigualdad y la propiedad privada. Su Des droits et des devoirs du citoyen, escrito en 1758, se publicó tras su muerte. Las fuentes consultadas no dicen que su obra resuma a Juan de Mariana, como sostiene el autor: en una edición de 1789 digitalizada, la advertencia que la abre es solo una cita latina y el nombre de Mariana no aparece en el texto reconocido por ordenador.",
     "fuentes": [
      {
       "titulo": "Wikipedia (es): Gabriel Bonnot de Mably",
@@ -81465,6 +81530,11 @@ window.CRONO = {
       "titulo": "Wikipedia (fr): Gabriel Bonnot de Mably",
       "url": "https://fr.wikipedia.org/wiki/Gabriel_Bonnot_de_Mably",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Mably, Des droits et des devoirs du citoyen (1789), texto digitalizado en Internet Archive",
+      "url": "https://archive.org/stream/desdroitsetdesde00mabl/desdroitsetdesde00mabl_djvu.txt",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -81499,7 +81569,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Consta su formación con jesuitas. En lo leído no aparece Juan de Mariana ni ese preámbulo.\n\nPendiente: leer la obra citada."
+     "texto": "Consta su formación con jesuitas. Se buscó en una edición de 1789 (ejemplar de la Universidad Duke en Internet Archive): la advertencia es una cita en latín y «Mariana» no aparece en el texto reconocido por OCR. Puede haber otras ediciones con prólogo, y el OCR tiene errores.\n\nPendiente: comparar las ideas de la obra con las de Mariana."
     }
    ],
    "vista": "politica"
@@ -85442,7 +85512,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Su papel contra Roma, sus trabajos científicos y su influjo en Hobbes constan; la Wikipedia en español dice además que meditaba separar a Venecia de la Iglesia romana al morir. En lo buscado no aparecen la banca central, Adam Smith ni el magnetismo."
+     "texto": "Su papel contra Roma, sus trabajos científicos y su influjo en Hobbes constan; la Wikipedia en español dice además que meditaba separar a Venecia de la Iglesia romana al morir. En lo buscado no aparecen la banca central, Adam Smith ni el magnetismo.\n\nSobre el incendio de 1769: se buscó cuántos papeles de Sarpi se perdieron y no se ha abierto ninguna fuente que lo detalle."
     }
    ],
    "naturaleza": "ideales-sociales",
