@@ -1831,7 +1831,7 @@ window.CRONO = {
     "margen": 10
    },
    "fecha_autor": "Tras 1773; «sigue activa hasta hoy día»",
-   "resumen": "Tesis de Guerra: tras la supresión, los jesuitas guardaron su riqueza con los Rothschild y les dieron el control del Banco de Inglaterra y parte del tesoro vaticano.",
+   "resumen": "Tesis según la cual, tras la supresión de 1773, los jesuitas guardaron su riqueza con los Rothschild y les dieron el control del Banco de Inglaterra y de parte del tesoro vaticano. No hay evidencia histórica de esa alianza financiera.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -7964,7 +7964,7 @@ window.CRONO = {
     "desde": 1720
    },
    "fecha_autor": "1720; en otro pasaje 1708 (=1523)",
-   "resumen": "La caída de Rodas es la conquista de la isla por el sultán otomano Solimán el Magnífico en 1522, tras un asedio de cinco meses, que expulsó a los Caballeros Hospitalarios y puso fin a la presencia de las órdenes militares nacidas de las cruzadas en Oriente Próximo. La ficha la fecha en 1720 según la cronología alternativa que sigue.",
+   "resumen": "La caída de Rodas es la conquista de la isla por el sultán otomano Solimán el Magnífico en 1522, tras un asedio de cinco meses, que expulsó a los Caballeros Hospitalarios y puso fin a la presencia de las órdenes militares nacidas de las cruzadas en Oriente Próximo. Una cronología alternativa la sitúa en 1720.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -8821,7 +8821,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Dinastía alemana que, según Rubén, está por encima de los Windsor.",
+   "resumen": "Casa principesca alemana con varias ramas, entre ellas Hesse-Kassel y Hesse-Darmstadt; alquiló tropas a otros Estados, sobre todo a Gran Bretaña.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -9200,7 +9200,7 @@ window.CRONO = {
     "desde": 1297,
     "fuente": "oficial"
    },
-   "resumen": "Familia que gobierna Mónaco; Nocera y Guerra la citan entre las que impulsaron la unificación de Italia.",
+   "resumen": "Familia noble de origen genovés que gobierna Mónaco desde que Francisco Grimaldi tomó su señorío en 1297, con la interrupción de la ocupación francesa durante la Revolución y, desde 1731, por línea femenina.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -12119,7 +12119,7 @@ window.CRONO = {
     "aprox": false,
     "texto": "12-12-1996 a marzo de 2002"
    },
-   "resumen": "Comisión suiza de historiadores que investigó los bienes y el oro movidos a Suiza antes, durante y después de la Segunda Guerra Mundial; SMiguel1 la señala junto a la BIS.",
+   "resumen": "Comisión suiza de historiadores que investigó los bienes y el oro movidos a Suiza antes, durante y después de la Segunda Guerra Mundial; presentó su informe final en 2002.",
    "segun": [
     {
      "autor": "smiguel1",
@@ -12217,7 +12217,7 @@ window.CRONO = {
     "aprox": false,
     "texto": "informe del 24 de septiembre de 1964"
    },
-   "resumen": "Comisión presidencial que concluyó que Oswald actuó solo en el asesinato de Kennedy, y película doméstica de Zapruder que fue su prueba central; SMiguel1 los señala como controversia abierta.",
+   "resumen": "Comisión presidencial que en 1964 concluyó que Oswald mató a Kennedy y actuó solo, y película doméstica de Zapruder, prueba esencial de la investigación. Las conclusiones han sido discutidas y también respaldadas por estudios posteriores.",
    "segun": [
     {
      "autor": "smiguel1",
@@ -13187,7 +13187,7 @@ window.CRONO = {
     "hasta": 1313,
     "texto": "325–1313"
    },
-   "resumen": "Nocera señala que todos los primeros concilios fueron patrocinados por emperadores y presididos por papas ciudadanos del imperio.",
+   "resumen": "Concilios ecuménicos celebrados entre 325 y 1312: los ocho primeros en Oriente y los de Letrán, Lyon y Vienne en Occidente, muchos de ellos con patrocinio imperial.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -13279,7 +13279,7 @@ window.CRONO = {
    "fecha": {
     "desde": 2024
    },
-   "resumen": "Repaso del autor de condenas y pleitos de Trump (34 delitos, fraude civil, Universidad Trump, fundación).",
+   "resumen": "En mayo de 2024 un jurado de Manhattan declaró a Donald Trump culpable de 34 delitos graves de falsificación de registros comerciales; en enero de 2025 la condena quedó registrada sin pena de prisión ni libertad vigilada. Afrontó además procesos civiles, como el de fraude en la valoración de sus activos inmobiliarios.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -14763,7 +14763,7 @@ window.CRONO = {
     "desde": 800,
     "texto": "25 de diciembre de 800"
    },
-   "resumen": "Coronación imperial de Carlomagno por León III, que Nocera lee como renacimiento del Imperio Romano bajo el papa.",
+   "resumen": "Coronación de Carlomagno como emperador por el papa León III, en Roma, el 25 de diciembre del año 800.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -16367,7 +16367,7 @@ window.CRONO = {
     "texto": "desde 1945",
     "fuente": "autor"
    },
-   "resumen": "Concepto central del autor: el nuevo orden tecnocrático, heredero del Tercer Reich, en el que ya estaríamos.",
+   "resumen": "Término usado para un hipotético resurgir del nazismo; no designa ninguna organización real. La tesis de un orden tecnocrático heredero del Tercer Reich choca con la historiografía, que no reconoce un Estado o proyecto unificado de ese tipo después de 1945.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -17211,7 +17211,7 @@ window.CRONO = {
     "margen": 3,
     "fuente": "oficial"
    },
-   "resumen": "Nocera señala que el término griego del arresto de Jesús designa una cohorte romana de unos 600 hombres.",
+   "resumen": "En el relato del arresto de Jesús (Juan 18:3) la palabra griega speira se traduce como «cohorte», unidad de unos 600 hombres sobre el papel, aunque el término también se usaba para destacamentos menores; el tamaño real no se sabe.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -17829,7 +17829,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Esquema del libro de Nocera: dieciséis fuentes de poder (salud, energía, tecnología y aprendizaje), entre las que no está el dinero.",
+   "resumen": "Clasificación que reparte el poder en dieciséis fuentes (salud, energía, tecnología y aprendizaje), entre las que no está el dinero. Es una propuesta propia que no se ha localizado en la bibliografía académica consultada.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -20612,7 +20612,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Organigrama del poder que Jorge Guerra publicó en su trilogía y explica en este directo, de la base a la cúspide.",
+   "resumen": "Organigrama que representa el poder mundial como una cadena de mando, de la base a la cúspide. No tiene versión oficial: las instituciones que aparecen existen, pero la historiografía y la ciencia política no respaldan una cadena de mando única.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -23131,7 +23131,7 @@ window.CRONO = {
     "desde": 1884,
     "fuente": "oficial"
    },
-   "resumen": "Corriente socialista gradualista nacida en Londres; Guerra ve en ella la síntesis de capitalismo y comunismo que buscan las élites.",
+   "resumen": "Corriente socialista y gradualista de la Sociedad Fabiana, fundada en Londres en 1884, que toma su nombre del general romano Fabio Máximo e influyó en el Partido Laborista británico.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -24302,7 +24302,7 @@ window.CRONO = {
    "temas": [],
    "fecha": null,
    "fecha_autor": "Actualidad (2021)",
-   "resumen": "Cálculo que cita Guerra: los Rothschild poseerían más de la mitad de la riqueza mundial; repartida, tocarían unos 2 millones de dólares por persona.",
+   "resumen": "Cálculo según el cual los Rothschild poseerían más de la mitad de la riqueza mundial. No hay datos fiables que lo apoyen: el patrimonio de la familia es mucho menor.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -26698,7 +26698,7 @@ window.CRONO = {
     "desde": 1938,
     "texto": "30 de octubre de 1938"
    },
-   "resumen": "Emisión de Orson Welles en forma de noticiario; Guerra la ve como experimento social sobre el poder de los medios.",
+   "resumen": "Emisión radiofónica de Orson Welles en la cadena CBS, el 30 de octubre de 1938. El pánico masivo que se le atribuye fue en gran parte exagerado por la prensa de entonces.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -27529,7 +27529,7 @@ window.CRONO = {
     "desde": 2026,
     "fuente": "oficial"
    },
-   "resumen": "Guerra en curso en el momento de la entrevista.",
+   "resumen": "Guerra que empezó el 28 de febrero de 2026 con ataques conjuntos de Estados Unidos e Israel contra Irán; tras el alto el fuego del 8 de abril ha habido acuerdos parciales y nuevos choques, y en noviembre de 2026 seguían las negociaciones para reabrir el estrecho de Ormuz.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -29568,7 +29568,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1958
    },
-   "resumen": "IESE y ESADE son dos escuelas de negocios de Barcelona. El IESE lo creó el Opus Dei en Barcelona en 1958 (primer curso en noviembre) y ESADE se fundó el mismo año por un grupo de empresarios con la Compañía de Jesús; las dos fechas del autor coinciden.",
+   "resumen": "IESE y ESADE son dos escuelas de negocios de Barcelona fundadas en 1958: el IESE lo creó el Opus Dei y ESADE un grupo de empresarios con la Compañía de Jesús.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -30310,7 +30310,7 @@ window.CRONO = {
     "religion"
    ],
    "fecha": null,
-   "resumen": "Tesis del autor: Roma no cayó, se transfiguró en el Vaticano y sigue gobernando a través de sus herederos.",
+   "resumen": "Tesis según la cual Roma no cayó, sino que se transformó en el Vaticano y sigue gobernando. La historiografía sitúa el fin del Imperio de Occidente en 476 y el de Oriente en 1453; el papado heredó parte de su prestigio y estructura, con un poder temporal reducido a los Estados Pontificios hasta 1870 y a la Ciudad del Vaticano desde 1929.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -34291,7 +34291,7 @@ window.CRONO = {
    "carril": "politica-economia",
    "temas": [],
    "fecha": null,
-   "resumen": "Imagen negativa de España; Guerra sostiene que nació en Venecia contra Aragón, antes de la conquista de América.",
+   "resumen": "Imagen negativa de España creada por la propaganda de sus rivales desde el siglo XVI; el nombre de «leyenda negra» lo popularizó Julián Juderías en 1914.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -36879,7 +36879,7 @@ window.CRONO = {
     "aprox": false,
     "texto": "1967 (enero según una fuente; sin cotejar con el original)"
    },
-   "resumen": "Despacho interno de la CIA que recomendaba cómo contrarrestar a los críticos del informe Warren; SMiguel1 lo señala por la etiqueta «teoría de la conspiración».",
+   "resumen": "Despacho 1035-960 de la CIA, fechado en 1967 y desclasificado en 1976, con recomendaciones para contrarrestar las críticas al informe de la Comisión Warren. Que la CIA inventara la expresión «teoría de la conspiración» no se sostiene.",
    "segun": [
     {
      "autor": "smiguel1",
@@ -38240,7 +38240,7 @@ window.CRONO = {
     "texto": "1897 (Primer Congreso Sionista, Basilea)",
     "fuente": "oficial"
    },
-   "resumen": "Afirmaciones del autor sobre el origen y el papel del sionismo, con la versión oficial al lado.",
+   "resumen": "Movimiento político organizado por Theodor Herzl en el Primer Congreso Sionista (Basilea, 1897), que llevó a la creación del Estado de Israel en 1948.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -38995,7 +38995,7 @@ window.CRONO = {
     "fuente": "oficial",
     "texto": "su Gobierno (1922-1943)"
    },
-   "resumen": "La tesis del autor: Mussolini, presentado como proyecto fallido de unos y triunfo de otros, acabó siendo un «títere» con un jesuita al fondo.",
+   "resumen": "Tesis según la cual Mussolini acabó siendo un «títere» del Vaticano. No hay respaldo documental de que la Santa Sede lo dirigiera, aunque contó con apoyos como los de la monarquía, el ejército y amplios sectores católicos.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -42608,7 +42608,7 @@ window.CRONO = {
     "hasta": 530,
     "texto": "529–530"
    },
-   "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. El vínculo con linajes senatoriales es tesis de Nocera. Británica sitúa la fundación de Montecassino en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
+   "resumen": "Benito de Nursia fundó Montecassino hacia el 529, primera casa de la orden benedictina; los benedictinos pertenecen desde entonces a la Iglesia católica. Británica sitúa la fundación en 529; otras fuentes advierten de que esa fecha es la memoria benedictina del hecho, no un dato documentado con firmeza.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -43662,7 +43662,7 @@ window.CRONO = {
     "texto": "del siglo XIII al Manifiesto de 1848"
    },
    "fecha_autor": "siglo XIII a 1848",
-   "resumen": "Tesis del autor: el modelo social comunista procede de órdenes católicas y del humanismo cristiano, no del judaísmo.",
+   "resumen": "Tesis según la cual el modelo social comunista procede de las órdenes católicas y del humanismo cristiano. La historiografía reconoce precedentes comunitarios y religiosos, pero sitúa el comunismo moderno en el siglo XIX, en el socialismo utópico y sobre todo con Marx y Engels, y no lo deriva de las órdenes católicas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -44571,7 +44571,7 @@ window.CRONO = {
     "texto": "desde 2016",
     "fuente": "autor"
    },
-   "resumen": "Tesis del autor: el papa, el general de los jesuitas y un miembro de los Orsini forman una trinidad de poder.",
+   "resumen": "Tesis de una trinidad de poder formada por el papa, el general de los jesuitas y un miembro de la familia Orsini, el «papa gris». «Papa negro» es un apodo popular del superior general de la Compañía de Jesús; el «papa gris» no es un cargo reconocido.",
    "segun": [
     {
      "autor": "guillermo-masarellano",
@@ -53602,7 +53602,7 @@ window.CRONO = {
     "desde": 1773,
     "texto": "21 de julio de 1773"
    },
-   "resumen": "El papa extinguió la Compañía; Guerra añade que los caballeros de Malta apoyaron la medida y que los jesuitas se refugiaron en Prusia y Rusia.",
+   "resumen": "Clemente XIV suprimió la Compañía de Jesús con el breve Dominus ac Redemptor, promulgado el 21 de julio de 1773; en Prusia y Rusia no se aplicó de inmediato y la orden sobrevivió. Pío VII la restableció en 1814.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -56600,7 +56600,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "No da año",
-   "resumen": "Unión Internacional para la Conservación de la Naturaleza; Guerra la liga a Huxley, al fabianismo y a un plan transhumanista.",
+   "resumen": "Unión Internacional para la Conservación de la Naturaleza, fundada el 5 de octubre de 1948 en Fontainebleau (Francia) con el impulso de Julian Huxley y otras instituciones; elabora la Lista Roja de especies amenazadas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -59412,7 +59412,7 @@ window.CRONO = {
     "desde": 1933,
     "texto": "18 de agosto de 1933"
    },
-   "resumen": "Receptor de radio barato lanzado en 1933 por encargo de Goebbels; SMiguel1 lo señala como pista de cómo el nazismo usó la radio para llegar a las masas.",
+   "resumen": "Receptor de radio de bajo precio presentado en Berlín en 1933, desarrollado por el ingeniero Otto Griessing por encargo de Joseph Goebbels; los historiadores lo describen como un instrumento de propaganda.",
    "segun": [
     {
      "autor": "smiguel1",
@@ -61258,7 +61258,7 @@ window.CRONO = {
     "hasta": 1963,
     "fuente": "oficial"
    },
-   "resumen": "Escritor británico, autor de Un mundo feliz; Guerra lo presenta como fabiano.",
+   "resumen": "Escritor y filósofo británico (1894-1963), autor de «Contrapunto», «Un mundo feliz» y «Las puertas de la percepción»; en sus novelas y ensayos criticó las convenciones sociales de su tiempo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -70828,7 +70828,7 @@ window.CRONO = {
     "hasta": 1950,
     "fuente": "oficial"
    },
-   "resumen": "Escritor británico, autor de 1984; Guerra lo presenta como miembro de la Sociedad Fabiana.",
+   "resumen": "Novelista y ensayista británico (1903-1950), de nombre Eric Arthur Blair, autor de «Rebelión en la granja» y «1984».",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -72353,7 +72353,7 @@ window.CRONO = {
     "hasta": 1946,
     "fuente": "oficial"
    },
-   "resumen": "Escritor británico de ciencia ficción y ensayista; Guerra lo presenta como fabiano que planeó un gobierno mundial.",
+   "resumen": "Escritor británico (1866-1946), autor de «La máquina del tiempo» y «La guerra de los mundos»; fue miembro de la Sociedad Fabiana y defendió en ensayos un gobierno mundial.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -79991,7 +79991,7 @@ window.CRONO = {
     "hasta": 1705,
     "fuente": "oficial"
    },
-   "resumen": "Emperador del Sacro Imperio desde 1658, educado por jesuitas, para Guerra enlace entre Oppenheimer y los jesuitas.",
+   "resumen": "Rey de Hungría y de Bohemia y emperador del Sacro Imperio desde 1658 hasta su muerte en 1705; en su reinado Viena resistió el sitio otomano de 1683.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -84542,7 +84542,7 @@ window.CRONO = {
     "hasta": 1985,
     "fuente": "oficial"
    },
-   "resumen": "Actor y director estadounidense; Guerra lo presenta como francmasón y autor de la emisión radiofónica de 1938.",
+   "resumen": "Actor, director y productor estadounidense (1915-1985); radió «La guerra de los mundos» en 1938 y dirigió «Ciudadano Kane».",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -89850,7 +89850,7 @@ window.CRONO = {
     "hasta": 1703,
     "fuente": "oficial"
    },
-   "resumen": "Banquero judío y proveedor militar del Sacro Imperio; Guerra lo presenta como la primera vía de los Rothschild a la banca.",
+   "resumen": "Banquero judío asquenazí (1630-1703), diplomático de la corte imperial y proveedor militar del emperador del Sacro Imperio, con el favor especial de Leopoldo I.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -97571,7 +97571,7 @@ window.CRONO = {
     "texto": "hacia 100-300 d. C. (Corpus Hermeticum)",
     "fuente": "oficial"
    },
-   "resumen": "Tradición filosófica y religiosa basada en los Hermética, atribuidos a Hermes Trismegisto; Trallero lo ve como raíz de la astrología y la alquimia occidentales.",
+   "resumen": "Tradición filosófica y religiosa basada en los Hermética, textos atribuidos a Hermes Trismegisto, combinación helenística del dios griego Hermes y el egipcio Thot.",
    "segun": [
     {
      "autor": "sergio-trallero",
