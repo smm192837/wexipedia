@@ -1574,7 +1574,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica. El papa Francisco habló ante la Asamblea General la mañana del 25-9-2015, antes de que se adoptara la Agenda por aclamación; Obama aparece en el archivo de la ONU con un discurso fechado el 27-9-2015, en la misma cumbre.",
+    "resumen": "La Agenda 2030 para el Desarrollo Sostenible se aprobó por la Asamblea General el 25-9-2015 (resolución A/RES/70/1) con 17 objetivos y 169 metas. Que su fin real sea un gobierno mundial no forma parte de la versión académica. El papa Francisco habló ante la Asamblea General la mañana del 25-9-2015, antes de que se adoptara la Agenda por aclamación; Obama aparece en el archivo de la ONU con un discurso fechado el 27-9-2015, en la misma cumbre. El presupuesto ordinario de la ONU para el bienio 2018-2019 se aprobó en unos 5.400 millones de dólares (5.396 según la ONU), la cifra que maneja Nocera.",
     "fuentes": [
      {
       "titulo": "ONU: Agenda 2030",
@@ -1610,6 +1610,11 @@ window.CRONO = {
       "titulo": "La Agenda para el Desarrollo Sostenible - Desarrollo Sostenible",
       "url": "https://www.un.org/sustainabledevelopment/es/development-agenda/",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "ONU Noticias: la Asamblea General aprueba un presupuesto de 5.400 millones de dólares para 2018-2019",
+      "url": "https://news.un.org/en/story/2017/12/640451",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -5427,7 +5432,8 @@ window.CRONO = {
    "fecha": {
     "desde": -43,
     "texto": "Fundación romana (44 a. C.) a 1897",
-    "aprox": true
+    "aprox": true,
+    "fuente": "autor"
    },
    "resumen": "Basilea se menciona en un documento del 374 d. C., fue ciudad libre del Sacro Imperio y sede del Concilio de Basilea (1431–1449), adoptó la Reforma en 1529 y acogió el Primer Congreso Sionista en 1897; Ginebra fue anexionada por la Francia revolucionaria en 1798, la tomaron tropas austriacas en 1813 y se sumó a la Confederación Helvética en 1815.",
    "segun": [
@@ -10477,7 +10483,8 @@ window.CRONO = {
     "desde": -3,
     "aprox": true,
     "margen": 3,
-    "texto": "hacia el 4 a. C."
+    "texto": "hacia el 4 a. C.",
+    "fuente": "autor"
    },
    "resumen": "Augusto realizó varios censos del Imperio (28 a. C., 8 a. C. y 14 d. C.); el de Quirinio en Judea es del año 6 d. C. La fecha de «4 a. C.» procede de la tradición evangélica y es discutida.",
    "segun": [
@@ -102040,7 +102047,8 @@ window.CRONO = {
    "fecha": {
     "desde": 1790,
     "aprox": true,
-    "margen": 10
+    "margen": 10,
+    "fuente": "autor"
    },
    "fecha_autor": "siglo XVIII",
    "resumen": "La idea de las eras zodiacales (Piscis, Acuario…), que Sergio Trallero considera moderna y no tradicional.",
