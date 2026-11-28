@@ -15604,7 +15604,7 @@ window.CRONO = {
      "obra": "historia-secreta-cuarto-reich",
      "ubicacion": "min. 2:07:22",
      "url": "https://www.youtube.com/watch?v=v8AXJRSc0FU&t=7642s",
-     "resumen": "Sugiere que en el Titanic murieron algunas de las personas que podrían haberse opuesto a la Reserva Federal. Un oyente le corrige: la Reserva se creó un año después, no tres.",
+     "resumen": "Comentando un mensaje del chat, dice que en el Titanic murieron algunas personas que podrían haberse opuesto a la creación de la Reserva Federal y que no es casualidad que esta llegara después. Un oyente le corrige: se creó un año más tarde, no tres.",
      "contradice": []
     },
     {
@@ -29581,9 +29581,9 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 3, pp. 154–157",
+     "ubicacion": "cap. 3, p. 156",
      "url": null,
-     "resumen": "Nocera sostiene que Guggenheim, Straus y Astor se oponían en 1911-1912 al plan que llevó a la Reserva Federal y que los tres murieron en el Titanic.",
+     "resumen": "Nocera sostiene que en 1911-1912 Guggenheim, Straus y Astor se oponían con firmeza al proyecto de la Reserva Federal y que los tres murieron en el Titanic.",
      "contradice": []
     },
     {
@@ -29591,7 +29591,7 @@ window.CRONO = {
      "obra": "historia-secreta-cuarto-reich",
      "ubicacion": "min. 2:07:22",
      "url": "https://www.youtube.com/watch?v=v8AXJRSc0FU&t=7642s",
-     "resumen": "Sugiere que en el Titanic murieron algunas de las personas que podrían haberse opuesto a la Reserva Federal. Un oyente le corrige: la Reserva se creó un año después, no tres.",
+     "resumen": "Comentando un mensaje del chat, dice que en el Titanic murieron algunas personas que podrían haberse opuesto a la creación de la Reserva Federal y que no es casualidad que esta llegara después. Un oyente le corrige: se creó un año más tarde, no tres.",
      "contradice": []
     },
     {
@@ -29685,7 +29685,7 @@ window.CRONO = {
      "nota": "Redactor del plan Aldrich."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "El choque",
@@ -64230,7 +64230,7 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 3, pp. 154–157",
+     "ubicacion": "cap. 3, p. 156",
      "url": null,
      "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
      "contradice": []
@@ -64277,7 +64277,7 @@ window.CRONO = {
      "nota": "Se le cita como opositor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Familia",
@@ -75395,7 +75395,7 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 3, pp. 154–157",
+     "ubicacion": "cap. 3, p. 156",
      "url": null,
      "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
      "contradice": []
@@ -75437,7 +75437,7 @@ window.CRONO = {
      "nota": "Se le cita como opositor; escribió sobre la reforma."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Vida y negocios",
@@ -77929,7 +77929,7 @@ window.CRONO = {
     {
      "autor": "giuseppe-nocera",
      "obra": "mientras-dormiamos",
-     "ubicacion": "cap. 3, pp. 154–157",
+     "ubicacion": "cap. 3, p. 156",
      "url": null,
      "resumen": "Nocera lo incluye entre los tres opositores a la Reserva Federal que murieron en el Titanic.",
      "contradice": []
@@ -77976,7 +77976,7 @@ window.CRONO = {
      "nota": "Se le cita como opositor."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Fortuna y actividades",
