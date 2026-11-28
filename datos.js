@@ -9835,7 +9835,7 @@ window.CRONO = {
     "texto": "desde mediados del s. XVIII",
     "fuente": "oficial"
    },
-   "resumen": "Familia de banqueros romanos, según Rubén tesoreros del Vaticano.",
+   "resumen": "Familia romana de banqueros, de origen francés e instalada en Roma hacia 1750, que fue banquera del papado desde finales del siglo XVIII y recibió títulos de nobleza de los papas.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -9991,12 +9991,12 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La familia desciende de Marin Tourlonias (1725–1785), comerciante de paños y prestamista de la región de Auvergne (Francia) que se instaló en Roma hacia 1750. Su hijo Giovanni Raimondo Torlonia (1754–1829) fue banquero del papado, nombrado banquero de corte tras el tratado de Tolentino (1797), y trató también con los franceses. Recibió títulos de los papas y compró el feudo de Bracciano a los Odescalchi (1803) y el principado de Civitella Cesi a los Pallavicino (1814). Alessandro Torlonia financió el desecamiento del lago Fucino (1854–1878), origen de la Banca del Fucino, que la familia controló hasta su venta en 2019. Mussolini vivió en Villa Torlonia de 1925 a 1943 por un alquiler simbólico; en la villa hay un pequeño templo de Saturno y la Casina delle Civette. Alessandro Torlonia se casó con la infanta Beatriz de Borbón en 1935; su nieto es Alessandro Lecquio, y Sibilla Weiller, esposa del príncipe Guillermo de Luxemburgo, es nieta de ambos. Los Torlonia ocupan desde 1958 el cargo de príncipe asistente al solio, hoy ceremonial y en desuso. En las fuentes de referencia sobre la familia no consta ningún delito, y no hay pruebas de las acusaciones de trata ni de sacrificios humanos.",
+    "resumen": "La familia desciende de Marin Tourlonias (1725–1785), comerciante de paños y prestamista de la región de Auvergne (Francia) que se instaló en Roma hacia 1750. Su hijo Giovanni Raimondo Torlonia (1754–1829) fue banquero del papado, nombrado banquero de corte tras el tratado de Tolentino (1797), y trató también con los franceses. Recibió títulos de los papas y compró el feudo de Bracciano a los Odescalchi (1803) y el principado de Civitella Cesi a los Pallavicino (1814). Alessandro Torlonia financió el desecamiento del lago Fucino (1854–1878), origen de la Banca del Fucino, que la familia controló hasta su venta en 2019. Mussolini vivió en Villa Torlonia de 1925 a 1943 por un alquiler simbólico; en la villa hay un pequeño templo de Saturno y la Casina delle Civette. Alessandro Torlonia se casó con la infanta Beatriz de Borbón en 1935; su nieto es Alessandro Lecquio, y Sibilla Weiller, esposa del príncipe Guillermo de Luxemburgo, es nieta de ambos. Pío XII retiró en enero de 1958 el cargo de príncipe asistente al solio a Filippo Orsini; Alessandro Torlonia (1925-2017), de la rama del Fucino, entró en él en 1962, con Juan XXIII. La reforma de 1968 quitó al cargo el carácter hereditario; según Wikipedia, Torlonia conservó el título a título personal hasta su muerte y hoy no está en uso. El artículo de la Wikipedia en inglés sobre la familia fecha el nombramiento en 1958, sin nota. En las fuentes de referencia sobre la familia no consta ningún delito, y no hay pruebas de las acusaciones de trata ni de sacrificios humanos.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Torlonia",
       "url": "https://en.wikipedia.org/wiki/Torlonia_family",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "Wikipedia: Villa Torlonia",
@@ -10020,6 +10020,26 @@ window.CRONO = {
       "titulo": "Treccani, Dizionario Biografico degli Italiani: Torlonia, Giovanni Raimondo (D. Felisini)",
       "url": "https://www.treccani.it/enciclopedia/giovanni-raimondo-torlonia_(Dizionario-Biografico)/",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Prince assistant to the papal throne",
+      "url": "https://en.wikipedia.org/wiki/Prince_assistant_to_the_papal_throne",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (italiano): Principe assistente al Soglio pontificio",
+      "url": "https://it.wikipedia.org/wiki/Principe_assistente_al_Soglio_pontificio",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Heritage Standard: The Papal Court's Assistants",
+      "url": "https://heritagestandard.eu/p/lost-tradition-the-papal-courts-assistants",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Santa Sede: Pablo VI, Pontificalis Domus (texto italiano, 28-3-1968)",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -10082,6 +10102,11 @@ window.CRONO = {
      "texto": "En 1925 cedieron Villa Torlonia a Mussolini por un alquiler simbólico; vivió allí hasta julio de 1943. Giovanni Torlonia (1873-1938), senador desde 1920, acumuló cargos financieros durante el régimen. La Banca del Fucino colocó en 1926 suscripciones del préstamo del Littorio."
     },
     {
+     "titulo": "El asistente al solio",
+     "nivel": "hecho",
+     "texto": "En enero de 1958 Pío XII retiró el cargo de príncipe asistente al solio a Filippo Orsini. En 1962 Juan XXIII llamó a Alessandro Torlonia (1925-2017) para que acompañara a Aspreno Colonna durante el Concilio Vaticano II. El motu proprio de 1968 declaró que ningún cargo de la Casa Pontificia es hereditario y, según Wikipedia en inglés, los dos conservaron el título personalmente hasta su muerte."
+    },
+    {
      "titulo": "Qué dicen los autores",
      "nivel": "tesis",
      "texto": "Según Rubén Avilés, con los Borghese son las principales dinastías bancarias del Vaticano, se enriquecieron prestando con tierras en garantía durante la ocupación francesa y supervisarían también el Tesoro de EE. UU. y cuentas suizas.\n\nJorge Guerra sostiene que supervisan el BPI, los sitúa en la nobleza negra y fecha su gran enriquecimiento entre los siglos XVIII y XIX, gestionando el dinero de la Santa Sede. Giuseppe Nocera les atribuye mucho poder en la actualidad. El resto de afirmaciones están en «Según los autores»."
@@ -10089,7 +10114,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "Coinciden con las fuentes leídas el origen bancario, los préstamos con garantía de tierras, la relación con las finanzas papales y el alquiler a Mussolini. En lo leído no aparece nada sobre el Tesoro de EE. UU., el BPI ni cuentas suizas, y no consta ningún delito.\n\nLectura de trabajo de Nexus: el mecanismo documentado de la fortuna es el crédito a una nobleza sin liquidez, la guerra y la ocupación, y los contratos públicos. Pendiente: los estudios de Daniela Felisini sobre Alessandro Torlonia, banquero del papa, que no se han leído."
+     "texto": "Coinciden con las fuentes leídas el origen bancario, los préstamos con garantía de tierras, la relación con las finanzas papales y el alquiler a Mussolini. En lo leído no aparece nada sobre el Tesoro de EE. UU., el BPI ni cuentas suizas, y no consta ningún delito.\n\nLectura de trabajo de Nexus: el mecanismo documentado de la fortuna es el crédito a una nobleza sin liquidez, la guerra y la ocupación, y los contratos públicos. Pendiente: los estudios de Daniela Felisini sobre Alessandro Torlonia, banquero del papa, que no se han leído.\n\nEl año 1962 se apoya en las Wikipedias en inglés e italiano y en Heritage Standard, que pueden depender entre sí; el breve del 24 de noviembre de 1962 que cita la italiana no se ha visto."
     }
    ],
    "naturaleza": "gobiernos",
@@ -14892,7 +14917,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Santa Sede es el gobierno de la Iglesia católica; el Estado de la Ciudad del Vaticano nació con los Pactos de Letrán, firmados el 11 de febrero de 1929 por el cardenal Gasparri y Mussolini, jefe del Gobierno del rey Víctor Manuel III. Bulas del siglo XV como Inter caetera (1493) respaldaron el reparto colonial de tierras, pero hoy no tienen valor jurídico y en 2023 el Vaticano rechazó la llamada «doctrina del descubrimiento» y dijo que esas bulas nunca fueron expresión de la fe católica. La Iglesia tiene unos 407.000 sacerdotes. Que el Vaticano sea dueño del planeta no tiene respaldo en las fuentes de referencia. Muchos sacerdotes han sido condenados por abusos en tribunales civiles de varios países. La infalibilidad papal se definió en 1870 y se limita a la doctrina de fe y costumbres. El cargo honorífico de príncipe asistente al solio fue de los Colonna y los Orsini; en 1958 los Torlonia sustituyeron a los Orsini, y hoy está en desuso. La Bula de Oro de 1356 regula la elección del emperador germánico, no Inglaterra; Juan sin Tierra hizo de Inglaterra un feudo del papado en 1213.",
+    "resumen": "La Santa Sede es el gobierno de la Iglesia católica; el Estado de la Ciudad del Vaticano nació con los Pactos de Letrán, firmados el 11 de febrero de 1929 por el cardenal Gasparri y Mussolini, jefe del Gobierno del rey Víctor Manuel III. Bulas del siglo XV como Inter caetera (1493) respaldaron el reparto colonial de tierras, pero hoy no tienen valor jurídico y en 2023 el Vaticano rechazó la llamada «doctrina del descubrimiento» y dijo que esas bulas nunca fueron expresión de la fe católica. La Iglesia tiene unos 407.000 sacerdotes. Que el Vaticano sea dueño del planeta no tiene respaldo en las fuentes de referencia. Muchos sacerdotes han sido condenados por abusos en tribunales civiles de varios países. La infalibilidad papal se definió en 1870 y se limita a la doctrina de fe y costumbres. El cargo honorífico de príncipe asistente al solio fue de los Colonna y los Orsini; Pío XII se lo retiró a Filippo Orsini en 1958 y Alessandro Torlonia entró en él en 1962. La reforma de 1968 le quitó el carácter hereditario; según Wikipedia, Aspreno Colonna y Torlonia lo conservaron personalmente hasta su muerte (1987 y 2017) y hoy está en desuso. La Bula de Oro de 1356 regula la elección del emperador germánico, no Inglaterra; Juan sin Tierra hizo de Inglaterra un feudo del papado en 1213.",
     "fuentes": [
      {
       "titulo": "ACI Prensa: el Vaticano celebra 91 años de los Pactos Lateranenses",
@@ -14912,7 +14937,7 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Prince assistant to the papal throne",
       "url": "https://en.wikipedia.org/wiki/Prince_assistant_to_the_papal_throne",
-      "consultado": "2026-11-12"
+      "consultado": "2026-11-28"
      },
      {
       "titulo": "World History Encyclopedia: el rey Juan de Inglaterra",
@@ -14926,6 +14951,21 @@ window.CRONO = {
      {
       "titulo": "Wikipedia: Inter caetera",
       "url": "https://es.wikipedia.org/wiki/Inter_caetera"
+     },
+     {
+      "titulo": "Wikipedia (italiano): Principe assistente al Soglio pontificio",
+      "url": "https://it.wikipedia.org/wiki/Principe_assistente_al_Soglio_pontificio",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Heritage Standard: The Papal Court's Assistants",
+      "url": "https://heritagestandard.eu/p/lost-tradition-the-papal-courts-assistants",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Santa Sede: Pablo VI, Pontificalis Domus (texto italiano, 28-3-1968)",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -14966,7 +15006,7 @@ window.CRONO = {
     {
      "titulo": "Los príncipes del solio",
      "nivel": "hecho",
-     "texto": "El título de príncipe asistente era el mayor honor para un laico en la corte; lo tuvieron los jefes de los Colonna y, de 1735 a 1958, los Orsini. No se usa desde la reforma de 1968."
+     "texto": "El título de príncipe asistente era el mayor honor para un laico en la corte; lo tuvieron los jefes de los Colonna y, de 1735 a 1958, los Orsini. En 1962 entró Alessandro Torlonia. El motu proprio de 1968 suprimió en la Capilla el cargo y el nombre de «Príncipes asistentes al solio», mantuvo los «Asistentes al solio» en la Familia laica y declaró que ningún cargo es hereditario. Según Wikipedia en inglés, Aspreno Colonna y Torlonia conservaron el título hasta su muerte, en 1987 y 2017, y hoy no está en uso."
     },
     {
      "titulo": "Seguir el poder",
@@ -47623,7 +47663,7 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "oficial": {
-    "resumen": "El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968. La Corte Pontificia pasó a llamarse Casa Pontificia, dividida en Capilla y Familia, y ningún cargo en ella es hereditario. De la Capilla se suprimieron, entre otros, el cargo y el nombre de «Príncipes asistentes al solio»; en la Familia laica se mantuvieron los «Asistentes al solio». Según Wikipedia, los dos titulares que vivían, Aspreno Colonna y Alessandro Torlonia, conservaron el título a título personal hasta su muerte (1987 y 2017). Esto choca en parte con el autor: desde 1968 el cargo no es hereditario y Torlonia murió a finales de 2017; no se ha hallado fuente sobre un Marco Antonio Colonna que lo ostente.",
+    "resumen": "El motu proprio Pontificalis Domus lo firmó Pablo VI el 28 de marzo de 1968. La Corte Pontificia pasó a llamarse Casa Pontificia, dividida en Capilla y Familia, y ningún cargo en ella es hereditario. De la Capilla se suprimieron, entre otros, el cargo y el nombre de «Príncipes asistentes al solio»; en la Familia laica se mantuvieron los «Asistentes al solio». Según Wikipedia, los dos titulares que vivían, Aspreno Colonna y Alessandro Torlonia, conservaron el título a título personal hasta su muerte (1987 y 2017). Esto choca en parte con el autor: desde 1968 el cargo no es hereditario y Torlonia murió a finales de 2017. Sobre Marco Antonio Colonna las fuentes no coinciden: el artículo de la Wikipedia en inglés sobre los Torlonia lo da como titular junto a Torlonia hasta hace poco, sin nota para él, y Heritage Standard presenta a Aspreno como el último Colonna en el cargo.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Pontificalis Domus",
@@ -47654,6 +47694,16 @@ window.CRONO = {
       "titulo": "Il Centro: muerte de Alessandro Torlonia (2-1-2018)",
       "url": "https://www.ilcentro.it/l-aquila/morto-a-92-anni-don-alessandro-torlonia-ultimo-principe-del-fucino-1.1794615",
       "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Torlonia",
+      "url": "https://en.wikipedia.org/wiki/Torlonia_family",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Heritage Standard: The Papal Court's Assistants",
+      "url": "https://heritagestandard.eu/p/lost-tradition-the-papal-courts-assistants",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -47681,7 +47731,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El autor fecha la reforma en 1969; el texto pontificio es de 1968. En lo leído no consta quién es el Marco Antonio Colonna que cita ni que alguien ostente hoy el título. El artículo de Liturgical Arts Journal en que se apoya la Wikipedia no se pudo abrir."
+     "texto": "El autor fecha la reforma en 1969; el texto pontificio es de 1968. El artículo de la Wikipedia en inglés sobre los Torlonia cita a Marco Antonio Colonna como titular, junto a Torlonia, hasta hace poco, sin nota para él; Heritage Standard da a Aspreno Colonna como último de su casa en el cargo. Ese artículo coincide además con el autor en 1969 y en el «único honor hereditario»: hipótesis de Nexus, los dos comparten origen. El artículo de Liturgical Arts Journal en que se apoya la Wikipedia sobre el cargo no se pudo abrir."
     }
    ],
    "naturaleza": "tratados-y-escritos",
