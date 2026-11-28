@@ -13231,7 +13231,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1312, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Vienne se celebró en 1311-1312; el reconocimiento como ecuménicos de los concilios medievales de Occidente fue posterior. El edicto de Tesalónica es del 27-2-380 (Teodosio I con Graciano y Valentiniano II); el emperador convocó el primer concilio de Constantinopla (381) y Marciano el de Calcedonia (451).",
+    "resumen": "Los ocho primeros concilios ecuménicos se celebraron en Oriente entre 325 y 869 y los de Letrán, Lyon y Vienne en Occidente entre 1123 y 1312, muchos con patrocinio imperial. El edicto de Tesalónica (Cunctos populos, 380) hizo oficial el cristianismo niceno. La tesis de control deliberado es de Nocera. Vienne se celebró en 1311-1312; el reconocimiento como ecuménicos de los concilios medievales de Occidente fue posterior. El edicto de Tesalónica es del 27-2-380 (Teodosio I con Graciano y Valentiniano II); el emperador convocó el primer concilio de Constantinopla (381) y Marciano el de Calcedonia (451). Los siete primeros, con el emperador que los convocó: Nicea I (325, Constantino I), Constantinopla I (381, Teodosio I), Éfeso (431, Teodosio II), Calcedonia (451, Marciano), Constantinopla II (553, Justiniano), Constantinopla III (680-681, Constantino IV) y Nicea II (787, Irene); el octavo, Constantinopla IV (869-870), lo convocó Basilio I. Los occidentales (Letrán I 1123, II 1139, III 1179, IV 1215, Lyon I 1245, Lyon II 1274 y Vienne 1311-1312) los convocó el papa, no el emperador.",
     "fuentes": [
      {
       "titulo": "Britannica: ecumenical council",
@@ -13267,6 +13267,11 @@ window.CRONO = {
       "titulo": "Wikipedia (es): Concilio ecuménico",
       "url": "https://es.wikipedia.org/wiki/Concilio_ecum%C3%A9nico",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia: Concilio ecuménico (tabla de los siete primeros y su convocante)",
+      "url": "https://es.wikipedia.org/wiki/Concilio_ecum%C3%A9nico",
+      "consultado": "2026-11-28"
      }
     ]
    },
