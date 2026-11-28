@@ -9694,6 +9694,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Orsini family",
       "url": "https://en.wikipedia.org/wiki/Orsini_family",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Wikipedia (it): Principe assistente al Soglio pontificio",
+      "url": "https://it.wikipedia.org/wiki/Principe_assistente_al_Soglio_pontificio",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -9726,7 +9731,7 @@ window.CRONO = {
     {
      "titulo": "Qué pasó",
      "nivel": "hecho",
-     "texto": "Su auge empezó con Celestino III (1191-1198), cuyos repartos a sus sobrinos fundaron el patrimonio de la familia. Dieron además a Nicolás III y Benedicto XIII, muchos cardenales y condotieros. Fueron güelfos, partidarios del papa, en rivalidad secular con los Colonna, y forman parte de la «nobleza negra» romana. Tuvieron el cargo de príncipes asistentes al solio hasta 1958. Karl, príncipe de Löwenstein-Wertheim-Rosenberg, fue miembro de las SA en la época nazi y presidió el Comité Central de los Católicos Alemanes de 1948 a 1967."
+     "texto": "Su auge empezó con Celestino III (1191-1198), cuyos repartos a sus sobrinos fundaron el patrimonio de la familia. Dieron además a Nicolás III y Benedicto XIII, muchos cardenales y condotieros. Fueron güelfos, partidarios del papa, en rivalidad secular con los Colonna, y forman parte de la «nobleza negra» romana. Tuvieron el cargo de príncipes asistentes al solio hasta 1958. El sucesor, Alessandro Torlonia, fue llamado en 1962 por Juan XXIII para acompañar a Aspreno Colonna y quedó confirmado como asistente al solio; desde su muerte, en 2017, la dignidad no se ha vuelto a conferir. Karl, príncipe de Löwenstein-Wertheim-Rosenberg, fue miembro de las SA en la época nazi y presidió el Comité Central de los Católicos Alemanes de 1948 a 1967."
     },
     {
      "titulo": "Qué dicen los autores",
@@ -9736,7 +9741,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "El fin del cargo en 1958 consta. En lo buscado no aparecen los rosacruces, el ébola ni los negocios criminales. Los Löwenstein-Wertheim-Rosenberg son una casa alemana distinta de los Orsini; Merck Finck no sale en el artículo leído sobre Karl."
+     "texto": "El fin del cargo en 1958 consta. En lo buscado no aparecen los rosacruces, el ébola ni los negocios criminales. Los Löwenstein-Wertheim-Rosenberg son una casa alemana distinta de los Orsini; Merck Finck no sale en el artículo leído sobre Karl.\n\nEl nombramiento de Torlonia en 1962 solo consta en la Wikipedia en italiano (que cita un breve del 24-11-1962 que no se ha podido leer): sin fuente primaria."
     }
    ],
    "naturaleza": "gobiernos",
@@ -57569,14 +57574,15 @@ window.CRONO = {
   {
    "id": "union-asociaciones-internacionales-1895",
    "tipo": "hecho",
-   "titulo": "Unión de Asociaciones Internacionales (1895)",
+   "titulo": "Unión de Asociaciones Internacionales",
    "carril": "politica-economia",
    "naturaleza": "gobiernos",
    "temas": [],
    "fecha": {
-    "desde": 1895
+    "desde": 1895,
+    "fuente": "autor"
    },
-   "resumen": "Organización fundada en 1907, con el nombre de Oficina Central de Asociaciones Internacionales, por Henri La Fontaine, premio Nobel de la Paz en 1913, y Paul Otlet, pionero de la documentación.",
+   "resumen": "Centro de documentación de Bruselas sobre organizaciones internacionales, con raíces en el Instituto Internacional de Bibliografía (1895) y creado en 1907 como Oficina Central de Asociaciones Internacionales por Henri La Fontaine, premio Nobel de la Paz de 1913, y Paul Otlet, pionero de la documentación; desde 1910, Unión de Asociaciones Internacionales.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -57588,8 +57594,13 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La UIA se fundó en 1907 como Oficina Central de Asociaciones Internacionales, por Henri La Fontaine (Nobel de la Paz de 1913) y Paul Otlet, pionero de la documentación. Nocera la fecha en 1895. Que sea un eslabón del globalismo no forma parte de la versión académica.",
+    "resumen": "La UIA tiene su origen en el Instituto Internacional de Bibliografía, que Henri La Fontaine (Nobel de la Paz de 1913) y Paul Otlet, pionero de la documentación, fundaron en Bruselas en 1895; en 1907 se creó la Oficina Central de Asociaciones Internacionales, que en 1910 se transformó en la Unión de Asociaciones Internacionales. Nocera fecha la unión en 1895 porque la identifica con el instituto. Que sea un eslabón del globalismo no forma parte de la versión académica.",
     "fuentes": [
+     {
+      "titulo": "UIA: UIA's History",
+      "url": "https://uia.org/history",
+      "consultado": "2026-11-28"
+     },
      {
       "titulo": "Wikipedia: Unión de Asociaciones Internacionales",
       "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_de_Asociaciones_Internacionales",
@@ -57609,7 +57620,7 @@ window.CRONO = {
      "nota": "Mismo hilo."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "Qué es",
@@ -57619,7 +57630,7 @@ window.CRONO = {
     {
      "titulo": "Cómo nació",
      "nivel": "hecho",
-     "texto": "Henri La Fontaine, Nobel de la Paz de 1913, y Paul Otlet, uno de los padres de la ciencia de la documentación, la fundaron en 1907 como Oficina Central de Asociaciones Internacionales. Empezaron inventariando las organizaciones con sede en Bélgica y, con el sociólogo Cyril van Overbergh, las ampliaron a otros países. Colaboraron con Alfred Fried en un anuario y luego sacaron el suyo. En 1923 publicó una recopilación de resoluciones de organismos internacionales, con prólogo de La Fontaine."
+     "texto": "Henri La Fontaine, Nobel de la Paz de 1913, y Paul Otlet, uno de los padres de la ciencia de la documentación, crearon en 1895 el Instituto Internacional de Bibliografía, del que la unión se considera heredera, y en 1907 la Oficina Central de Asociaciones Internacionales, que en 1910 pasó a llamarse Unión de Asociaciones Internacionales. Empezaron inventariando las organizaciones con sede en Bélgica y, con el sociólogo Cyril van Overbergh, las ampliaron a otros países. Colaboraron con Alfred Fried en un anuario y luego sacaron el suyo. En 1923 publicó una recopilación de resoluciones de organismos internacionales, con prólogo de La Fontaine."
     },
     {
      "titulo": "Qué dice el autor",
@@ -57629,7 +57640,7 @@ window.CRONO = {
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La unión consultada fecha su origen en 1907, no en 1895; el instituto bibliográfico es una entidad anterior distinta y no se ha leído sobre él. En lo leído no aparecen la masonería, la comisión de 1920 ni la Agenda 2030.\n\nDocumentar organizaciones no equivale a dirigirlas. Pendiente: fuentes sobre el instituto de 1895 y sobre la financiación de ambos."
+     "texto": "La propia unión fecha su origen en 1907 (la Oficina Central) y su nombre actual en 1910; el Instituto Internacional de Bibliografía de 1895 figura en su historia como la organización madre, y se convirtió después en la Federación Internacional de Información y Documentación (FID).\n\nDocumentar organizaciones no equivale a dirigirlas. Que «acoge plenamente» los 17 objetivos de la Agenda 2030 es la lectura que hace Nocera del sitio de la unión, no algo que cuente su historia; la masonería que le atribuye a La Fontaine no aparece en ella (lo llama socialista). Pendiente: fuentes sobre la financiación de ambos y sobre el instituto a partir de 1937."
     }
    ],
    "vista": "politica"
