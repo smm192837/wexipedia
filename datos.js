@@ -4975,7 +4975,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "Se fundó en 1930 en el marco del Plan Young sobre las reparaciones alemanas: sus estatutos se redactaron en Baden-Baden (1929), se aprobaron en La Haya (enero de 1930) y los gobernadores de los bancos centrales los firmaron en Roma el 26 y 27 de febrero de 1930, en una reunión presidida por Bonaldo Stringher, del Banco de Italia, a la que asistieron Hjalmar Schacht (Reichsbank) y Montagu Norman (Banco de Inglaterra); en eso el autor acierta. Abrió en Basilea en mayo de 1930, y su sede actual, de 1977, es en efecto una torre. Tuvo accionistas privados hasta 2005; hoy es propiedad de los bancos centrales de 63 jurisdicciones, que lo gobiernan. Sus comités elaboran estándares (los acuerdos de Basilea) que los países adoptan voluntariamente. En marzo de 1939 transfirió al Reichsbank 23 toneladas de oro checoslovaco con la autorización del Banco de Inglaterra y de Norman, su episodio más polémico; durante la guerra el Reichsbank le pagó en oro procedente en parte del saqueo nazi, y en 1944 la conferencia de Bretton Woods recomendó liquidarlo. En la historia de su fundación no figura ningún Torlonia: por Italia participaron Stringher y Alberto Beneduce. Su primer presidente fue el estadounidense Gates McGarrah (abril de 1930 a mayo de 1933); Schacht participó en el proyecto como presidente del Reichsbank, pero no presidió el BIS.",
+    "resumen": "Se fundó en 1930 en el marco del Plan Young sobre las reparaciones alemanas: sus estatutos se redactaron en Baden-Baden (1929), se aprobaron en La Haya (enero de 1930) y los gobernadores de los bancos centrales los firmaron en Roma el 26 y 27 de febrero de 1930, en una reunión presidida por Bonaldo Stringher, del Banco de Italia, a la que asistieron Hjalmar Schacht (Reichsbank) y Montagu Norman (Banco de Inglaterra); en eso el autor acierta. Abrió en Basilea en mayo de 1930, y su sede actual, de 1977, es en efecto una torre. Tuvo accionistas privados hasta 2005; hoy es propiedad de los bancos centrales de 63 jurisdicciones, que lo gobiernan. Sus comités elaboran estándares (los acuerdos de Basilea) que los países adoptan voluntariamente. En marzo de 1939 transfirió al Reichsbank 23 toneladas de oro checoslovaco con la autorización del Banco de Inglaterra y de Norman, su episodio más polémico; durante la guerra el Reichsbank le pagó en oro procedente en parte del saqueo nazi, y en 1944 la conferencia de Bretton Woods recomendó liquidarlo. En la historia de su fundación no figura ningún Torlonia: por Italia participaron Stringher y Alberto Beneduce. Su primer presidente fue el estadounidense Gates McGarrah (abril de 1930 a mayo de 1933); Schacht participó en el proyecto como presidente del Reichsbank, pero no presidió el BIS. La cifra de 7,1 billones de dólares que cita Nocera coincide con el stock de deuda externa de los países de ingreso bajo y medio en 2017 según el Banco Mundial (International Debt Statistics 2019), no con una estadística del propio BIS.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Bank for International Settlements (leída en una copia de marzo de 2026)",
@@ -5000,6 +5000,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Gates W. McGarrah",
       "url": "https://en.wikipedia.org/wiki/Gates_W._McGarrah",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Banco Mundial: International Debt Statistics 2019 (2017: 7,1 billones de deuda externa de países de ingreso bajo y medio)",
+      "url": "https://blogs.worldbank.org/zh/opendata/international-debt-statistics-2019-external-debt-stocks-end-2017-stood-over-7-trillion",
+      "consultado": "2026-11-28"
      }
     ]
    },
