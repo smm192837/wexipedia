@@ -13497,7 +13497,7 @@ window.CRONO = {
    ],
    "estado": "borrador",
    "oficial": {
-    "resumen": "Qué es: un congreso de astrología celebrado en Vigo en junio de 2016, con el tema «El saber cosmológico». El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. El organizador no está confirmado. Época y lugar: Vigo (España), junio de 2016.",
+    "resumen": "Qué es: un congreso de astrología celebrado en Vigo en junio de 2016, con el tema «El saber cosmológico». El 33.º Congreso Ibérico de Astrología se celebró en Vigo del 24 al 26 de junio de 2016, en el Museo de Arte Contemporáneo de Vigo (MARCO), con el título «El Saber Cosmológico». En el programa, Sergio Trallero figura el sábado 25 de junio a las 10:00 con la conferencia «La Alquimia en la Carta Natal», que relaciona la astrología con la alquimia como saberes cosmológicos tradicionales. Lo promovió SAGA, la Sociedade Astrolóxica de Galicia. En la transcripción la conferencia aparece como «La alquimia de la astrología», que es el título con el que Trallero la cita en su propio currículo; en el programa figura como «La Alquimia en la Carta Natal». Época y lugar: Vigo (España), junio de 2016.",
     "fuentes": [
      {
       "titulo": "Programa del 33.º Congreso Ibérico de Astrología, Vigo 2016 (astro3z)",
@@ -13508,6 +13508,11 @@ window.CRONO = {
       "titulo": "Historia de los Congresos Ibéricos de Astrología (Astralis)",
       "url": "https://www.astralis.es/novedades/congresosibericos_historia.htm",
       "consultado": "2026-11-22"
+     },
+     {
+      "titulo": "Congreso Ibérico de Astrología: Información del 33.º congreso",
+      "url": "https://astro3z.wordpress.com/informacion/",
+      "consultado": "2026-11-28"
      }
     ]
    },
