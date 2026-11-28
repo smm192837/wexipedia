@@ -1141,7 +1141,7 @@ window.CRONO = {
     "desde": 1950,
     "fuente": "autor"
    },
-   "resumen": "Nocera lo cita junto a la OIM como el organismo de la ONU que controla lo referente a refugiados, con sede en Ginebra.",
+   "resumen": "Agencia de la ONU para los refugiados (ACNUR), creada el 14 de diciembre de 1950; empezó a trabajar en 1951 y tiene su sede en Ginebra.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -1275,7 +1275,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1962
    },
-   "resumen": "Convenio del Grupo de los Diez que presta recursos suplementarios al FMI; Nocera lo presenta como parte de un mecanismo de endeudamiento de los países pobres.",
+   "resumen": "Acuerdos firmados en 1962 entre diez países industrializados para dotar de recursos al Fondo Monetario Internacional en caso de necesidad; más tarde se ampliaron con los Nuevos Acuerdos de Préstamo.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -1552,7 +1552,7 @@ window.CRONO = {
     "desde": 2015,
     "texto": "25 de septiembre de 2015"
    },
-   "resumen": "Resolución 70/1 de la ONU con 17 objetivos de desarrollo sostenible; Nocera la ve como la herramienta de un gobierno mundial.",
+   "resumen": "Agenda para el Desarrollo Sostenible aprobada por la Asamblea General de la ONU el 25 de septiembre de 2015 (resolución 70/1), con 17 objetivos y 169 metas.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -6462,7 +6462,7 @@ window.CRONO = {
     "desde": 1988,
     "fuente": "oficial"
    },
-   "resumen": "Mayor gestora de activos del mundo, vista por Nocera y Guerra como una herramienta de concentración de poder.",
+   "resumen": "Gestora de inversiones fundada en 1988, la mayor del mundo por activos gestionados, que son de sus clientes; es accionista institucional de muchas grandes empresas.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -6667,7 +6667,7 @@ window.CRONO = {
     "desde": 2019,
     "texto": "17 y 19-10-2019"
    },
-   "resumen": "Enlace del pretendiente Bonaparte con una condesa de linaje bávaro y habsbúrgico; según Rubén, une la casa con las dinastías europeas.",
+   "resumen": "Matrimonio de Jean-Christophe Napoléon con la condesa Olimpia von und zu Arco-Zinneberg: por lo civil el 17 de octubre de 2019 en Neuilly-sur-Seine y por la Iglesia el 19 en Les Invalides, en París.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -9068,7 +9068,7 @@ window.CRONO = {
     "texto": "ducado de Parma: 1545–1731",
     "fuente": "oficial"
    },
-   "resumen": "Familia italiana de la que salió el papa Pablo III; Nocera dice que Carlos de Borbón es su descendiente directo y que la Farnesina es suya.",
+   "resumen": "Familia italiana de la que salió el papa Pablo III (1534-1549) y que gobernó el ducado de Parma y Piacenza de 1545 a 1731; los Borbones de Nápoles heredaron sus derechos por Isabel de Farnesio.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -9297,7 +9297,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "El autor no da fecha; habla de una casa que «todavía» gobierna.",
-   "resumen": "Casa imperial francesa fundada por Napoleón I. Según Rubén (Nuevo Desorden Mundial), sigue mandando de forma oculta en Francia mediante alianzas con la nobleza italiana, casas banqueras y la Legión de Honor.",
+   "resumen": "Familia de origen toscano, con una rama establecida en Córcega en el siglo XVI, de la que salieron los emperadores franceses Napoleón I y Napoleón III. Desde la deposición de este en 1870 no gobierna, y hoy es una casa pretendiente sin poder político.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -13848,7 +13848,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1963
    },
-   "resumen": "Asociación empresarial de Washington; Nocera dice que la maneja la familia Rockefeller y que presidentes latinoamericanos pasan por ella.",
+   "resumen": "Organización empresarial fundada en 1963 por David Rockefeller, a petición del presidente Kennedy, con el nombre de Business Group for Latin America, para contrarrestar la influencia de Fidel Castro en la región; reúne a ejecutivos y gobernantes en conferencias.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -19006,7 +19006,7 @@ window.CRONO = {
     "hasta": 1602,
     "texto": "1600–1602"
    },
-   "resumen": "Creación de las dos primeras grandes compañías por acciones del comercio con Asia; Nocera las presenta como corporaciones con accionistas ocultos al servicio de las coronas.",
+   "resumen": "Dos grandes compañías del comercio con Asia: la inglesa de las Indias Orientales, con carta real del 31 de diciembre de 1600 y disuelta en 1874, y la holandesa (VOC), fundada en 1602, pionera en emitir acciones negociables en bolsa y disuelta en 1799.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -21896,7 +21896,7 @@ window.CRONO = {
     "desde": 1860,
     "fuente": "oficial"
    },
-   "resumen": "Desembarco de Garibaldi en Sicilia en 1860; Nocera duda de que mil hombres derrotaran a un ejército de 120.000.",
+   "resumen": "Campaña de 1860 en la que Garibaldi desembarcó en Sicilia, en mayo, con unos mil voluntarios, derrotó a las tropas borbónicas con apoyo local y pasó a Nápoles.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -33911,7 +33911,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "El autor no da fecha.",
-   "resumen": "Orden honorífica francesa creada por Napoleón Bonaparte, entonces primer cónsul, el 19-5-1802. Según Rubén, es el cuerpo con el que los Bonaparte reúnen a banqueros y empresarios afines.",
+   "resumen": "Orden honorífica francesa instituida por Napoleón Bonaparte, entonces primer cónsul, el 19 de mayo de 1802 para premiar méritos civiles y militares; su gran maestre es el jefe del Estado.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -34733,7 +34733,7 @@ window.CRONO = {
     "hasta": 1946,
     "texto": "1919–1946"
    },
-   "resumen": "Organismo creado tras el Tratado de Versalles; Nocera la ve como la fase anterior de la ONU, con la misma estructura de control.",
+   "resumen": "Organización internacional creada por el Pacto firmado el 28 de junio de 1919 como parte del Tratado de Versalles, en vigor desde el 10 de enero de 1920; cesó en 1946, cuando parte de sus órganos pasaron a la ONU.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -37174,7 +37174,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1949
    },
-   "resumen": "Novela distópica de Orwell; Guerra sostiene que refleja el plan de un grupo radical, la Sociedad Fabiana.",
+   "resumen": "Novela distópica de George Orwell, publicada en 1949 y ambientada en un Estado totalitario que controla la información y la vida privada; Orwell la escribió como crítica del totalitarismo.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -37538,7 +37538,7 @@ window.CRONO = {
     "fuente": "autor"
    },
    "fecha_autor": "«hoy en día, 2023»",
-   "resumen": "Nocera y Guerra afirman que casas reales y nobles poseen participaciones importantes en farmacéuticas, petroleras, bancos y fabricantes de coches.",
+   "resumen": "Tesis según la cual casas reales y nobles tienen participaciones importantes en farmacéuticas, petroleras, bancos y fabricantes de coches. En los accionariados comprobados, los de Shell y Bayer, el capital está repartido entre fondos y no consta una participación significativa de las casas citadas.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -38611,7 +38611,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El 2-5-2011 fuerzas especiales de EE. UU. mataron a Osama bin Laden en Abbottabad (Pakistán); su cuerpo se arrojó al mar. La boda de William y Catherine fue el 29-4-2011. Que los presentes en la foto fueran jesuitas es una afirmación del autor por comprobar.",
+    "resumen": "El 2-5-2011 fuerzas especiales de EE. UU. mataron a Osama bin Laden en Abbottabad (Pakistán); su cuerpo se arrojó al mar. La boda de William y Catherine fue el 29-4-2011. En las fuentes consultadas no aparece que en la foto hubiera jesuitas, como sostiene el autor.",
     "fuentes": [
      {
       "titulo": "Britannica: Killing of Osama bin Laden",
@@ -39156,7 +39156,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1798
    },
-   "resumen": "Napoleón tomó Malta; según Guerra, eso dejó a los jesuitas subordinar a los caballeros de Malta hasta hoy.",
+   "resumen": "La expedición francesa a Egipto ocupó Malta el 11 de junio de 1798 y expulsó a la Orden de San Juan. Los franceses se rindieron a los británicos en 1800 y Gran Bretaña retuvo la isla, posesión confirmada en 1814.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -40914,7 +40914,7 @@ window.CRONO = {
     "desde": 1944,
     "fuente": "autor"
    },
-   "resumen": "Nocera usa el código de aeropuerto del billete para decir que la ICAO (1944) regula los aeropuertos a escala mundial y que la IATA, formalmente ajena, responde a la ITO y a la UNECE, y por tanto al SNU.",
+   "resumen": "Organización de Aviación Civil Internacional, creada por el Convenio de Chicago de 1944 y agencia de la ONU desde 1947. La IATA es otra entidad: una asociación privada de aerolíneas.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -42001,7 +42001,7 @@ window.CRONO = {
     "desde": 1960,
     "fuente": "autor"
    },
-   "resumen": "Nocera la cita, junto a GEIDCO, como uno de los cárteles energéticos situados bajo el WEC en la estructura de control.",
+   "resumen": "Organización de Países Exportadores de Petróleo, fundada en Bagdad en septiembre de 1960 por cinco países productores y con sede en Viena desde 1965.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -45968,7 +45968,7 @@ window.CRONO = {
     "desde": 1925,
     "fuente": "oficial"
    },
-   "resumen": "Idea difundida de que un plan atribuido al conde Coudenhove-Kalergi guía la política europea; Nocera dice que los verdaderos ideólogos fueron los Habsburgo.",
+   "resumen": "Teoría conspirativa según la cual el conde Coudenhove-Kalergi (1894-1972), fundador del movimiento paneuropeo, tramó sustituir a los europeos blancos mediante la inmigración. Organizaciones y un diario que la han examinado la consideran un bulo o una teoría conspirativa de carácter racista y antisemita, apoyada en citas fuera de contexto.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -47783,7 +47783,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1517
    },
-   "resumen": "Inicio de la Reforma; Guerra dice que el Vaticano la habría perdido todo sin los jesuitas.",
+   "resumen": "Movimiento religioso iniciado en 1517, cuando Lutero hizo públicas en Wittenberg sus 95 tesis contra las indulgencias; rompió la unidad de la Iglesia occidental y dio lugar a las iglesias luteranas, reformadas y anglicanas.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -48066,7 +48066,7 @@ window.CRONO = {
     "hasta": 1861,
     "fuente": "oficial"
    },
-   "resumen": "Estado borbónico del sur de Italia, que Nocera presenta como uno de los más prósperos del mundo hasta su desaparición.",
+   "resumen": "Estado de los Borbones en el sur de Italia, formado en 1816 al unirse los reinos de Nápoles y de Sicilia; Garibaldi lo derrocó en 1860 y se anexionó al Reino de Italia en 1861.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -49646,7 +49646,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1920
    },
-   "resumen": "Think tank británico de política exterior; Nocera lo describe como un poder de decisión con miembros corporativos como Google, Apple y Microsoft.",
+   "resumen": "Centro de estudios británico de política exterior, fundado en 1920 tras la Conferencia de París y con carta real desde 1926; tiene miembros individuales y corporativos y publica la revista International Affairs.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -51545,7 +51545,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1809
    },
-   "resumen": "Napoleón confinó al papa; Guerra dice que los jesuitas le ofrecieron salvarlo si restablecía la Compañía.",
+   "resumen": "Arresto del papa Pío VII en Roma por tropas francesas, el 5-6 de julio de 1809, tras excomulgar a quienes participaron en la anexión de los Estados Pontificios; estuvo retenido hasta 1814, en Savona y Fontainebleau.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -56002,7 +56002,7 @@ window.CRONO = {
     "desde": 1783,
     "texto": "3 de septiembre de 1783"
    },
-   "resumen": "Tratado que cerró la guerra de independencia de EE. UU.; Nocera lee en su encabezado y en sus artículos 4 y 5 una continuidad de la Corona y de las deudas.",
+   "resumen": "Tratado firmado el 3 de septiembre de 1783 entre Gran Bretaña y Estados Unidos que cerró la guerra y reconoció la independencia estadounidense.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -56090,7 +56090,7 @@ window.CRONO = {
     "desde": 1679
    },
    "fecha_autor": "1679 (=1494)",
-   "resumen": "El Tratado de Tordesillas es el acuerdo firmado el 7 de junio de 1494 entre los Reyes Católicos y Juan II de Portugal para repartirse el Atlántico y el Nuevo Mundo con una línea a 370 leguas al oeste de Cabo Verde. Rubén Avilés lo data en 1679 y lo presenta como origen de las órdenes de Montesa y de Cristo, herederas del Temple.",
+   "resumen": "El Tratado de Tordesillas es el acuerdo firmado el 7 de junio de 1494 entre los Reyes Católicos y Juan II de Portugal para repartirse el Atlántico y el Nuevo Mundo con una línea a 370 leguas al oeste de Cabo Verde. Una cronología alternativa lo sitúa en 1679, fecha que la historiografía académica no admite.",
    "segun": [
     {
      "autor": "ruben-ndm",
@@ -56963,7 +56963,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1946
    },
-   "resumen": "Creación de la UNESCO; según Guerra, Huxley pidió en su manifiesto revivir la eugenesia y llevar a la humanidad a un gobierno mundial.",
+   "resumen": "Organismo especializado de la ONU para la educación, la ciencia y la cultura (UNESCO): su constitución se firmó el 16 de noviembre de 1945 y entró en vigor el 4 de noviembre de 1946. Su primer director general fue Julian Huxley.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -57105,7 +57105,7 @@ window.CRONO = {
     "fuente": "oficial"
    },
    "fecha_autor": "«1860, que es cuando se crea Italia»",
-   "resumen": "Proceso por el que los estados italianos se unieron bajo los Saboya; Nocera y Guerra lo presentan como obra de familias nobles y del bando anglo-veneciano.",
+   "resumen": "Proceso por el que los estados italianos se unieron bajo los Saboya: el Reino de Italia se proclamó en 1861 y se anexionó Venecia en 1866 y Roma en 1870.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -57364,7 +57364,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1895
    },
-   "resumen": "Entidad nacida del Instituto Internacional de Bibliografía de La Fontaine y Otlet; Nocera la une con la Liga de Naciones y la Agenda 2030.",
+   "resumen": "Organización fundada en 1907, con el nombre de Oficina Central de Asociaciones Internacionales, por Henri La Fontaine, premio Nobel de la Paz en 1913, y Paul Otlet, pionero de la documentación.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -57515,7 +57515,7 @@ window.CRONO = {
    "fecha": {
     "desde": 1889
    },
-   "resumen": "Organización internacional de parlamentos que Nocera considera la «piedra angular» del proyecto globalista.",
+   "resumen": "Organización de los parlamentos nacionales fundada en París en 1889 por Frédéric Passy y William Randal Cremer, hoy con sede en Ginebra.",
    "segun": [
     {
      "autor": "giuseppe-nocera",
@@ -88970,7 +88970,7 @@ window.CRONO = {
     "hasta": 1794,
     "fuente": "oficial"
    },
-   "resumen": "Líder de la Revolución francesa; Guerra dice que «pasa por ser» jesuita.",
+   "resumen": "Abogado y dirigente jacobino francés (1758-1794), miembro del Comité de Salvación Pública y figura central del Terror; murió guillotinado el 28 de julio de 1794.",
    "segun": [
     {
      "autor": "jorge-guerra",
