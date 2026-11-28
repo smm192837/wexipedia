@@ -5795,7 +5795,7 @@ window.CRONO = {
   {
    "id": "banco-de-venecia-1157",
    "tipo": "hecho",
-   "titulo": "Banco de Venecia (1157)",
+   "titulo": "El supuesto Banco de Venecia de 1157",
    "carril": "politica-economia",
    "naturaleza": "banca",
    "temas": [],
@@ -5804,11 +5804,16 @@ window.CRONO = {
     "texto": "1157",
     "fuente": "oficial"
    },
-   "resumen": "Primer banco con garantía del Estado en Venecia, en 1157; se considera el primer banco nacional dentro de las fronteras de Europa.",
+   "resumen": "Relato muy repetido según el cual Venecia fundó en el siglo XII el primer banco nacional de Europa; la investigación de archivo lo desmiente y fecha en 1587 el primer banco público de la República.",
    "segun": [],
    "oficial": {
-    "resumen": "El Banco de Venecia fue el primer banco nacional establecido dentro de las fronteras de Europa. El primer banco se estableció en Venecia con garantía del Estado en 1157.",
+    "resumen": "Una tradición fecha en 1157, o hacia 1171, un Banco de Venecia nacido de un préstamo forzoso a la República cuya deuda habría pasado a usarse como medio de pago. No hubo tal banco: las investigaciones de Elia Lattes y Francesco Ferrara en los archivos venecianos, hacia 1870, deshicieron la leyenda. Los banqueros privados recibían depósitos al menos desde 1318, y el primer banco público, el Banco della Piazza di Rialto, se estableció en 1587, tras una ley de 1584 revocada al año siguiente.",
     "fuentes": [
+     {
+      "titulo": "Charles F. Dunbar, «The Bank of Venice», The Quarterly Journal of Economics 6, n.º 3 (1892), pp. 308–335",
+      "url": "https://www.cooperative-individualism.org/dunbar-charles_the-bank-of-venice-1892-apr.pdf",
+      "consultado": "2026-11-28"
+     },
      {
       "titulo": "Wikipedia (es): Banco de Venecia",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Venecia",
@@ -5826,15 +5831,23 @@ window.CRONO = {
     {
      "id": "banco-della-piazza-di-rialto-1587",
      "nota": "Sus herederos como bancos públicos."
+    },
+    {
+     "id": "banco-del-giro-1619",
+     "nota": "El banco al que se atribuyó la antigüedad de la leyenda."
+    },
+    {
+     "id": "bancos-centrales-cronologia",
+     "nota": "Lista cronológica de bancos centrales."
     }
    ],
    "estado": "aprobado",
    "solo_oficial": true,
    "detalle": [
     {
-     "titulo": "Lo que cuenta la versión recibida",
-     "nivel": "hecho",
-     "texto": "La versión que recoge la Wikipedia en español, y que repiten muchos manuales, dice que el Banco de Venecia fue el primer banco nacional establecido dentro de las fronteras de Europa, con garantía del Estado, en 1157. Según Macardy, el banco se debió a la agencia comercial de los venecianos, que habría actuado en interés de los cruzados del papa Urbano II; según otra explicación, a los costes de la expansión del imperio bajo el dux Vitale II Michiel, para cuyo alivio se necesitó un «préstamo forzoso». Con ese tipo de préstamo, el gobierno podía tomar prestado en especie de sus ciudadanos adinerados, anotando en un libro de registro lo que debía a cada uno pero sin emitir pruebas de endeudamiento. Se creó para administrarlo la Cámara de Préstamos, que devolvía lo prestado con un interés del 4 %, y habría seguido hasta que el banco dejó de operar con la invasión francesa de 1797."
+     "titulo": "Lo que cuenta la leyenda",
+     "nivel": "tesis",
+     "texto": "La versión que recoge la Wikipedia en español dice que el Banco de Venecia fue el primer banco nacional establecido dentro de las fronteras de Europa, con garantía del Estado, en 1157. Según Macardy, el banco se debió a la agencia comercial de los venecianos, que habría actuado en interés de los cruzados del papa Urbano II; según otra explicación, a los costes de la expansión del imperio bajo el dux Vitale II Michiel, para cuyo alivio se necesitó un «préstamo forzoso». Con ese tipo de préstamo, el gobierno podía tomar prestado en especie de sus ciudadanos adinerados, anotando en un libro de registro lo que debía a cada uno pero sin emitir pruebas de endeudamiento. Se creó para administrarlo la Cámara de Préstamos, que devolvía lo prestado con un interés del 4 %, y habría seguido hasta que el banco dejó de operar con la invasión francesa de 1797."
     },
     {
      "titulo": "Lo que dice la investigación de archivo",
@@ -5842,9 +5855,14 @@ window.CRONO = {
      "texto": "Esa historia es, según la Wikipedia en inglés, un relato del siglo XIX que la investigación de archivo ha corregido. Varios autores de aquel siglo describieron un «Banco de Venecia» formado en el siglo XII, el primer banco nacional de Europa y un innovador del dinero basado en deuda no reembolsable. En esa leyenda, la República cobró un préstamo de emergencia en 1157 o en 1171 para financiar sus guerras comerciales contra el Imperio bizantino; la guerra bizantino-veneciana de 1171 acabó en derrota, la República quedó arruinada y el dux Vitale II Michiel fue asesinado; sin medios para devolver el préstamo, lo convirtió en una renta perpetua (o, en algunas versiones, no ofreció nada a los prestamistas); los ciudadanos habrían adoptado ese dinero imaginario por más cómodo que las monedas, y la Cámara de Préstamos se habría convertido en el banco público.\n\nHenry Dunning Macleod, en «Theory and Practice of Banking» (1856), llamó a la historia una «gran ilusión corriente», aunque defendía que la deuda transferible de la República fue un antecedente importante de la banca de depósito. Sidney Dean, en su «History of Banking» (1884), recogió varias descripciones del supuesto banco y señaló que los investigadores no habían logrado encontrar documentación del banco tal como se describía. La investigación posterior distingue entre las oficinas de financiación de la República, el negocio de sus banqueros privados y el Banco della Piazza di Rialto, mucho más tardío (1587), que fue el primer banco público real de Venecia."
     },
     {
-     "titulo": "Qué se concluye para esta ficha",
+     "titulo": "Los documentos",
+     "nivel": "hecho",
+     "texto": "El economista Charles F. Dunbar repasó en 1892 los documentos publicados por Lattes y Ferrara. Entre ellos hay casi cuarenta actas del Senado veneciano, de 1270 a 1530, sobre los banqueros privados. Un acta de 1318 ya reconoce que los cambistas recibían depósitos. En un discurso de 1584, el senador Tommaso Contarini cifraba en 103 los bancos que habían existido, de los que 96 habían acabado mal; ese año quebró la casa Pisani y Tiepolo.\n\nEl Senado aprobó un banco público en diciembre de 1584, revocó la ley en abril siguiente y estableció el Banco della Piazza di Rialto el 11 de abril de 1587. Guardaba y transfería depósitos, sin prestarlos. El 3 de mayo de 1619 se creó el Banco del Giro, que acabó como único banco público y fue famoso en Europa como Banco de Venecia; Napoleón decretó la liquidación de sus deudas en julio de 1806."
+    },
+    {
+     "titulo": "De dónde pudo salir la leyenda",
      "nivel": "hipotesis",
-     "texto": "La fuente en inglés dice que el relato de un banco público en 1157 es una tergiversación, y que el primer banco público real de la República es de 1587. La versión oficial de esta ficha, que dice que fue el primer banco nacional de Europa en 1157, no coincide con la versión corregida. Lo que sí parece comprobado, según la fuente, es que Venecia usó préstamos forzosos para financiar al Estado y que existieron oficinas de financiación de la República; que eso fuera un banco en 1157 no consta.\n\nPropuesta de Nexus, que requiere decisión de SMiguel1: matizar el resumen y la versión oficial de esta ficha («según la leyenda recogida por autores del siglo XIX, y no confirmada por la investigación de archivo»), manteniendo en pie los hechos documentados. Es una hipótesis de Nexus sobre cómo conviene tratarla, no un dato. Lo dejo escrito aquí y no he tocado el resumen."
+     "texto": "Dunbar, siguiendo una explicación del historiador Rota, apunta una posibilidad: el Banco del Giro nació para pagar con asientos en sus libros las deudas de la República con sus acreedores, de donde la idea de que el banco había sido en origen una deuda pública; como además absorbió al de Rialto, se borró la fecha de su creación y la práctica de transferir depósitos, mucho más antigua, acabó atribuyéndole unos seis siglos de vida. Es una explicación posible, no un hecho probado.\n\nQue Venecia recurrió a préstamos forzosos para financiarse lo recoge la propia leyenda; en lo leído no se ha comprobado con un estudio de la deuda del siglo XII."
     }
    ],
    "vista": "economia"
@@ -6941,7 +6959,7 @@ window.CRONO = {
     "texto": "desde 1157",
     "fuente": "oficial"
    },
-   "resumen": "Lista cronológica de los bancos públicos y centrales, desde el que la tradición sitúa en Venecia en 1157 hasta los creados en el siglo XXI.",
+   "resumen": "Lista cronológica de los bancos públicos y centrales, desde los de la Baja Edad Media hasta los creados en el siglo XXI; el de Venecia de 1157 que cita la tradición no existió como banco.",
    "segun": [],
    "oficial": {
     "resumen": "Un banco central es la institución que emite la moneda y dirige la política monetaria de un país o de una unión de países. Antes existieron bancos públicos de ciudades y repúblicas, como los de Barcelona, Génova, Venecia, Ámsterdam o Hamburgo. El de Suecia (1668) se considera el banco central más antiguo en funcionamiento, y le sigue el de Inglaterra (1694). La lista consultada recoge 182 instituciones vigentes con fecha, contando una sola vez las compartidas por varios países; además señala países sin banco central propio.",
@@ -6959,6 +6977,11 @@ window.CRONO = {
      {
       "titulo": "Wikipedia (es): Banco de Suecia",
       "url": "https://es.wikipedia.org/wiki/Banco_de_Suecia",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Charles F. Dunbar, «The Bank of Venice», The Quarterly Journal of Economics 6, n.º 3 (1892), pp. 308–335",
+      "url": "https://www.cooperative-individualism.org/dunbar-charles_the-bank-of-venice-1892-apr.pdf",
       "consultado": "2026-11-28"
      }
     ]
@@ -7160,7 +7183,7 @@ window.CRONO = {
     {
      "titulo": "Antes del banco central: los bancos públicos",
      "nivel": "hecho",
-     "texto": "1157 · Banco de Venecia, según una tradición que lo presenta como el primer banco con garantía del Estado.\n\n1401 · Taula de canvi de Barcelona (hasta 1714).\n\n1407 · Banco de San Giorgio, Génova (hasta 1805).\n\n1463 · Banco de Nápoles, bajo distintos nombres; ejerció de banco central hasta 1926.\n\n1587 · Banco della Piazza di Rialto, Venecia.\n\n1609 · Banco de Ámsterdam (hasta 1791).\n\n1619 · Banco de Hamburgo (hasta 1875) y Banco del Giro de Venecia."
+     "texto": "1157 · «Banco de Venecia» de la tradición: la investigación de archivo no halla ningún banco en el siglo XII.\n\n1401 · Taula de canvi de Barcelona (hasta 1714).\n\n1407 · Banco de San Giorgio, Génova (hasta 1805).\n\n1463 · Banco de Nápoles, bajo distintos nombres; ejerció de banco central hasta 1926.\n\n1587 · Banco della Piazza di Rialto, el primer banco público de Venecia.\n\n1609 · Banco de Ámsterdam (hasta 1791).\n\n1619 · Banco de Hamburgo (hasta 1875) y Banco del Giro de Venecia."
     },
     {
      "titulo": "1668–1799",
@@ -7200,7 +7223,7 @@ window.CRONO = {
     {
      "titulo": "Cómo leer las fechas",
      "nivel": "hipotesis",
-     "texto": "Los años de 1668 en adelante son los de la columna «establecimiento» de la lista de Wikipedia en inglés; no se han comprobado uno a uno. En varios casos es el año de la primera institución y no el del banco central actual, y algunas no son bancos centrales en sentido estricto (autoridades monetarias o la Administración del Patrimonio de la Sede Apostólica).\n\nHay diferencias con otras fuentes: el Banco del Giro es de 1619 en su ficha y de 1524 en esa lista; el de África Occidental, 1959 en la lista y 1962 en la Wikipedia en español; el de Canadá, 1935 en la lista y fundado en 1934. Sobre 1157, la Wikipedia en inglés solo llama «Banco de Venecia» a los de 1587 y 1619: queda abierto qué fue exactamente el de 1157."
+     "texto": "Los años de 1668 en adelante son los de la columna «establecimiento» de la lista de Wikipedia en inglés; no se han comprobado uno a uno. En varios casos es el año de la primera institución y no el del banco central actual, y algunas no son bancos centrales en sentido estricto (autoridades monetarias o la Administración del Patrimonio de la Sede Apostólica).\n\nHay diferencias con otras fuentes: el Banco del Giro es de 1619 según el acta del Senado que cita Dunbar y de 1524 en esa lista; el de África Occidental, 1959 en la lista y 1962 en la Wikipedia en español; el de Canadá, 1935 en la lista y fundado en 1934. El «Banco de Venecia» de 1157 figura solo como tradición: Dunbar (1892) la da por desmentida con documentos de archivo."
     }
    ],
    "vista": "economia"
