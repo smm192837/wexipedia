@@ -10823,7 +10823,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera. Una inscripción taurobólica de Roma, la más antigua conocida, es del año 295 (CIL VI 505); las dedicatorias del santuario vaticano se datan entre 305 y 390 y casi todas se hallaron en 1609 bajo la fachada de San Pedro; el emplazamiento exacto del Phrygianum se discute.",
+    "resumen": "La Magna Mater (Cibeles) se introdujo oficialmente en Roma en 204 a. C., en el año 14 de la segunda guerra púnica; en la colina Vaticana, bajo San Pedro, apareció un santuario, el Phrygianum, con unas 24 dedicatorias a la Magna Mater y Atis. La lectura de continuidad con la basílica de San Pedro es una tesis de Nocera. Una inscripción taurobólica de Roma, la más antigua conocida, es del año 295 (CIL VI 505); las dedicatorias del santuario vaticano se datan entre 305 y 390 y casi todas se hallaron en 1609 bajo la fachada de San Pedro; el emplazamiento exacto del Phrygianum se discute. El altar de 374 consta: es un ara hallada a comienzos del siglo XVII en los cimientos de San Pedro, con la dedicatoria de Clodio Hermogeniano tras un taurobolio, fechada en el 374 por el consulado de Graciano y Equicio (CIL VI 499).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Cibeles",
@@ -10844,6 +10844,11 @@ window.CRONO = {
       "titulo": "Journal of Roman Studies: Symmachus y los cultos orientales",
       "url": "https://resolve.cambridge.org/core/journals/journal-of-roman-studies/article/abs/symmachus-and-the-oriental-cults/43586800A421B26411BA0C3BD0554781",
       "consultado": "2026-11-25"
+     },
+     {
+      "titulo": "Brill: capítulo sobre los cultos orientales en Roma (inscripción del altar de 374, CIL VI 499)",
+      "url": "https://brill.com/previewpdf/display/book/9789004294844/B9789004294844-s004.xml",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -17489,7 +17494,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "La devaluación del denario es un hecho aceptado: con Nerón (37–68) su peso se redujo a 1/96 de libra, el denario dejó de acuñarse en plata hacia 270–275 (Aureliano) y el edicto de precios máximos de Diocleciano es del 301. Las cifras concretas de Peden no se han comprobado.",
+    "resumen": "La devaluación del denario es un hecho aceptado: con Nerón (37–68) su peso se redujo a 1/96 de libra, el denario dejó de acuñarse en plata hacia 270–275 (Aureliano) y el edicto de precios máximos de Diocleciano es del 301. Las cifras que maneja (una libra de oro a 50.000 denarios en 301 y a 20 millones en 337, un 40.000 %) son las de Joseph R. Peden en «Inflation and the Fall of the Roman Empire»: se citan así en obras posteriores; el original de Mises Daily no se pudo abrir hoy (fuente: resultado de búsqueda).",
     "fuentes": [
      {
       "titulo": "Wikipedia: Denario",
@@ -17505,6 +17510,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Denarius",
       "url": "https://en.wikipedia.org/wiki/Denarius",
       "consultado": "2026-11-23"
+     },
+     {
+      "titulo": "Mises Daily: Joseph R. Peden, «Inflation and the Fall of the Roman Empire»",
+      "url": "https://mises.org/mises-daily/inflation-and-fall-roman-empire",
+      "consultado": "2026-11-28"
      }
     ]
    },
