@@ -10831,11 +10831,6 @@ window.CRONO = {
       "consultado": "2026-11-23"
      },
      {
-      "titulo": "Wikipedia: Phrygianum",
-      "url": "https://en.wikipedia.org/wiki/Phrygianum",
-      "consultado": "2026-11-23"
-     },
-     {
       "titulo": "Wikipedia (en): Cybele",
       "url": "https://en.wikipedia.org/wiki/Cybele",
       "consultado": "2026-11-23"
