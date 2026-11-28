@@ -34063,7 +34063,7 @@ window.CRONO = {
      "obra": "mientras-dormiamos",
      "ubicacion": "cap. 1, pp. 8–9",
      "url": null,
-     "resumen": "Nocera añade que los legados de 1070 fueron Pietro, Giovanni Minutus y Ermenfrido de Sion, que coronaron a Guillermo en Pascua y presidieron concilios para reformar la Iglesia inglesa; destaca a Lanfranco, arzobispo de Canterbury, y dice que hacia 1080 el arzobispo controlaba casi todo a través del rey.",
+     "resumen": "Nocera añade que los legados de 1070 fueron Pietro, Giovanni Minutus y Ermenfrido de Sion, que coronaron a Guillermo en Pascua y presidieron concilios para reformar la Iglesia inglesa; destaca a Lanfranco, arzobispo de Canterbury, y dice que hacia 1080 el arzobispo controlaba casi todo a través del rey. En su nota, Nocera apoya el pasaje en la Wikipedia (y avisa de un error sobre el apellido Minutus), en el libro de Margaret Gibson «Lanfranco da Pavia al Bec a Canterbury» (p. 110) y en el canon 362 del Derecho Canónico sobre los legados.",
      "contradice": []
     }
    ],
