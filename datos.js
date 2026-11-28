@@ -29851,11 +29851,13 @@ window.CRONO = {
    "tipo": "hecho",
    "titulo": "Fundación de los Illuminati de Baviera (1776)",
    "carril": "politica-economia",
-   "temas": [],
+   "temas": [
+    "religion"
+   ],
    "fecha": {
     "desde": 1776
    },
-   "resumen": "Orden secreta fundada en Baviera; Guerra la coloca en su cronología tras la supresión jesuita y la liga a los alumbrados.",
+   "resumen": "Sociedad secreta de la Ilustración fundada por Adam Weishaupt, profesor de derecho canónico, el 1 de mayo de 1776 en Ingolstadt (Baviera); el gobierno bávaro la prohibió y se disolvió hacia 1785.",
    "segun": [
     {
      "autor": "jorge-guerra",
@@ -29880,10 +29882,18 @@ window.CRONO = {
      "url": "https://www.youtube.com/watch?v=GwXPd3oV6x4",
      "resumen": "Según el autor, tres años después de la supresión de 1773, en 1776, los jesuitas continuaron su labor con los Illuminati de Baviera.",
      "contradice": []
+    },
+    {
+     "autor": "ruben-ndm",
+     "obra": "historia-ndm",
+     "ubicacion": "párr. 641",
+     "url": null,
+     "resumen": "Según el autor, se crean la Logia de Inglaterra (1717), la de Irlanda (1725), la de Francia (1728), la de Escocia (1736) y la de Prusia (1737); el 1 de mayo de 1776 el «sacerdote jesuita» Adam Weishaupt funda los Iluminados de Baviera para infiltrar y controlar el resto de órdenes masónicas.",
+     "contradice": []
     }
    ],
    "oficial": {
-    "resumen": "La Orden de los Illuminati de Baviera fue una sociedad secreta de la Ilustración fundada por Adam Weishaupt el 1-5-1776, que se declaraba contraria a la influencia religiosa y a los abusos de poder del Estado. El gobierno de Baviera la prohibió, junto con otras sociedades secretas, y se disolvió hacia 1785. No consta una filiación con los alumbrados españoles.",
+    "resumen": "La Orden de los Illuminati de Baviera fue una sociedad secreta de la Ilustración fundada por Adam Weishaupt, profesor de derecho canónico en Ingolstadt, el 1 de mayo de 1776, que se declaraba contraria a la influencia religiosa y a los abusos de poder del Estado. Britannica llama a Weishaupt antiguo jesuita y otras fuentes precisan que fue alumno de los jesuitas y el único profesor laico de su facultad, no sacerdote. El gobierno de Baviera prohibió la orden junto con otras sociedades secretas, Weishaupt perdió su cátedra y la orden se disolvió hacia 1785. No consta una filiación con los alumbrados españoles ni que controlara las demás órdenes masónicas. Las fechas de las logias de Inglaterra, Irlanda, Francia, Escocia y Prusia que da uno de los autores no se han contrastado.",
     "fuentes": [
      {
       "titulo": "Wikipedia: Iluminados de Baviera",
@@ -29894,6 +29904,16 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Illuminati",
       "url": "https://en.wikipedia.org/wiki/Illuminati",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Britannica: Adam Weishaupt",
+      "url": "https://www.britannica.com/biography/Adam-Weishaupt",
+      "consultado": "2026-11-16"
+     },
+     {
+      "titulo": "Britannica: ¿Qué fueron los Illuminati de Baviera?",
+      "url": "https://www.britannica.com/question/What-was-the-Bavarian-illuminati-group",
+      "consultado": "2026-11-16"
      }
     ]
    },
@@ -29902,6 +29922,10 @@ window.CRONO = {
     {
      "id": "congreso-wilhelmsbad",
      "nota": "Mismo ámbito."
+    },
+    {
+     "id": "lascaris-comneno-habsburgo",
+     "nota": ""
     }
    ],
    "estado": "aprobado",
@@ -29909,7 +29933,7 @@ window.CRONO = {
     {
      "titulo": "Cómo surgieron",
      "nivel": "hecho",
-     "texto": "Adam Weishaupt, profesor de derecho canónico en Ingolstadt, fundó el 1 de mayo de 1776, con dos alumnos, una asociación que pasó a llamarse Orden de los Iluminados. La universidad seguía dominada por antiguos jesuitas, orden suprimida tres años antes, y Weishaupt, partidario de la Ilustración, quería dar a sus estudiantes acceso a literatura crítica con la Iglesia. Era al principio un círculo de lectura anticlerical de no más de veinte miembros.\n\nSu organización tomó como modelo, en parte, la de la Compañía de Jesús."
+     "texto": "Adam Weishaupt, profesor de derecho canónico en Ingolstadt, fundó el 1 de mayo de 1776, con dos alumnos, una asociación que pasó a llamarse Orden de los Iluminados. La universidad seguía dominada por antiguos jesuitas, orden suprimida tres años antes, y Weishaupt, partidario de la Ilustración, quería dar a sus estudiantes acceso a literatura crítica con la Iglesia. Era al principio un círculo de lectura anticlerical de no más de veinte miembros.\n\nSu organización tomó como modelo, en parte, la de la Compañía de Jesús.\n\nSobre su relación con la Compañía, Britannica llama a Weishaupt antiguo jesuita; otras fuentes precisan que fue alumno de los jesuitas y el único profesor laico de su facultad, no sacerdote."
     },
     {
      "titulo": "Expansión y disputas",
@@ -29927,108 +29951,18 @@ window.CRONO = {
      "texto": "En 1797-1798 Augustin Barruel, jesuita exiliado de Francia, y John Robison difundieron que la orden había sobrevivido y estaba detrás de la Revolución francesa. Barruel extendió la acusación a un complot que incluía a los judíos. La versión española concluye que, como la orden no sobrevivió a la supresión, ese papel de conspiradores es invención de esos autores."
     },
     {
-     "titulo": "Qué dice el autor",
+     "titulo": "Qué dicen los autores",
      "nivel": "tesis",
-     "texto": "Según Jorge Guerra, la orden se creó tres años después de la supresión de los jesuitas, deriva de los alumbrados españoles y fue la forma en que los jesuitas continuaron su labor."
+     "texto": "Según Jorge Guerra, la orden se creó tres años después de la supresión de los jesuitas, deriva de los alumbrados españoles y fue la forma en que los jesuitas continuaron su labor.\n\nSegún Rubén Avilés, tras las grandes logias de 1717 a 1737, el «sacerdote jesuita» Weishaupt los fundó para infiltrar y controlar las demás órdenes masónicas."
     },
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La fecha coincide y hay un parecido de organización con la Compañía, pero las fuentes leídas presentan una orden nacida contra la influencia jesuita, no al servicio de ella. En lo leído no consta que derive de los alumbrados.\n\nLectura de trabajo de Nexus: que un jesuita (Barruel) fuera uno de los grandes difusores de la conspiración iluminada es un dato que conviene poner al lado de la tesis; no la confirma ni la descarta."
+     "texto": "La fecha coincide y hay un parecido de organización con la Compañía, pero las fuentes leídas presentan una orden nacida contra la influencia jesuita, no al servicio de ella. En lo leído no consta que derive de los alumbrados.\n\nLectura de trabajo de Nexus: que un jesuita (Barruel) fuera uno de los grandes difusores de la conspiración iluminada es un dato que conviene poner al lado de la tesis; no la confirma ni la descarta.\n\nWeishaupt no fue sacerdote jesuita según las fuentes leídas. Que la orden buscara peso dentro de la masonería sí aparece; el control del resto de órdenes, no."
     }
    ],
    "naturaleza": "gobiernos",
    "vista": "politica"
-  },
-  {
-   "id": "iluminados-de-baviera-1776",
-   "tipo": "hecho",
-   "titulo": "Fundación de los Iluminados de Baviera (1776)",
-   "carril": "religion",
-   "naturaleza": "logias",
-   "temas": [
-    "politica-economia"
-   ],
-   "fecha": {
-    "desde": 1776
-   },
-   "resumen": "Los Iluminados de Baviera se fundaron el 1 de mayo de 1776 en Ingolstadt por Adam Weishaupt, profesor de derecho canónico; Britannica lo llama antiguo jesuita y otras fuentes precisan que fue alumno de los jesuitas y el único profesor laico de su facultad, no sacerdote.",
-   "segun": [
-    {
-     "autor": "ruben-ndm",
-     "obra": "historia-ndm",
-     "ubicacion": "párr. 641",
-     "url": null,
-     "resumen": "Según el autor, se crean la Logia de Inglaterra (1717), la de Irlanda (1725), la de Francia (1728), la de Escocia (1736) y la de Prusia (1737); el 1 de mayo de 1776 el «sacerdote jesuita» Adam Weishaupt funda los Iluminados de Baviera para infiltrar y controlar el resto de órdenes masónicas.",
-     "contradice": []
-    }
-   ],
-   "citas": [],
-   "conexiones": [
-    {
-     "id": "lascaris-comneno-habsburgo",
-     "nota": ""
-    }
-   ],
-   "estado": "aprobado",
-   "oficial": {
-    "resumen": "Los Iluminados de Baviera se fundaron el 1 de mayo de 1776 en Ingolstadt por Adam Weishaupt, profesor de derecho canónico; Britannica lo llama antiguo jesuita y otras fuentes precisan que fue alumno de los jesuitas y el único profesor laico de su facultad, no sacerdote. Fue un movimiento ilustrado de pensamiento libre que se prohibió y del que Weishaupt perdió su cátedra. Las fechas de las logias de Inglaterra, Irlanda, Francia, Escocia y Prusia no se han contrastado.",
-    "fuentes": [
-     {
-      "titulo": "Britannica: Adam Weishaupt",
-      "url": "https://www.britannica.com/biography/Adam-Weishaupt",
-      "consultado": "2026-11-16"
-     },
-     {
-      "titulo": "Britannica: ¿Qué fueron los Illuminati de Baviera?",
-      "url": "https://www.britannica.com/question/What-was-the-Bavarian-illuminati-group",
-      "consultado": "2026-11-16"
-     },
-     {
-      "titulo": "Illuminati (Wikipedia, resultado de búsqueda)",
-      "url": "https://en.wikipedia.org/wiki/Illuminati",
-      "consultado": "2026-11-16"
-     },
-     {
-      "titulo": "Wikipedia (es): Iluminados de Baviera",
-      "url": "https://es.wikipedia.org/wiki/Iluminados_de_Baviera",
-      "consultado": "2026-11-27"
-     }
-    ]
-   },
-   "detalle": [
-    {
-     "titulo": "Contexto",
-     "nivel": "hecho",
-     "texto": "La Universidad de Ingolstadt estaba dominada por antiguos jesuitas tres años después de la supresión. Weishaupt, profesor de derecho eclesiástico, estaba aislado por sus ideas ilustradas."
-    },
-    {
-     "titulo": "Fundación",
-     "nivel": "hecho",
-     "texto": "El 1 de mayo de 1776 creó con dos alumnos una sociedad secreta, al principio un círculo de lectura anticlerical de pocos miembros, para dar acceso a literatura crítica. Declaraba oponerse a la superstición, la influencia religiosa y los abusos del poder del Estado."
-    },
-    {
-     "titulo": "Crecimiento y caída",
-     "nivel": "hecho",
-     "texto": "Con Adolph von Knigge, desde 1780, ganó estructura de estilo masónico e influencia en el convento de Wilhelmsbad (1782). Las disputas internas llamaron la atención de las autoridades; Baviera la prohibió y se disolvió en 1785."
-    },
-    {
-     "titulo": "La leyenda",
-     "nivel": "hecho",
-     "texto": "La idea de que sobrevivió y dirigió revoluciones arranca de Barruel y Robison, y la fuente la considera invención suya; teorías actuales les atribuyen el control del mundo."
-    },
-    {
-     "titulo": "Qué dice el autor",
-     "nivel": "tesis",
-     "texto": "Según Rubén Avilés, tras las grandes logias de 1717 a 1737, el «sacerdote jesuita» Weishaupt los fundó para infiltrar y controlar las demás órdenes masónicas."
-    },
-    {
-     "titulo": "Lo que queda abierto",
-     "nivel": "hipotesis",
-     "texto": "Weishaupt no fue sacerdote jesuita según la ficha, y fundó la orden contra la influencia jesuita. Que buscara peso dentro de la masonería sí aparece; el control del resto de órdenes, no."
-    }
-   ],
-   "vista": "religion"
   },
   {
    "id": "impeller-pax-jay-harman",
@@ -105000,33 +104934,6 @@ window.CRONO = {
     "sin_pluton": false,
     "luna": {
      "pos": "16°Sag",
-     "oposiciones": []
-    }
-   },
-   "iluminados-de-baviera-1776": {
-    "fecha": "1776-05-01",
-    "pos": {
-     "Sol": "11°Tau",
-     "Mercurio": "28°Ari",
-     "Venus": "14°Ari",
-     "Marte": "5°Tau",
-     "Júpiter": "21°Gem",
-     "Saturno": "16°Lib",
-     "Urano": "5°Gem",
-     "Neptuno": "22°Vir",
-     "Plutón": "28°Cap"
-    },
-    "aspectos": [
-     {
-      "a": "Júpiter",
-      "b": "Neptuno",
-      "aspecto": "cuadratura",
-      "orbe": 0.6
-     }
-    ],
-    "sin_pluton": false,
-    "luna": {
-     "pos": "15°Lib",
      "oposiciones": []
     }
    },
