@@ -22827,6 +22827,11 @@ window.CRONO = {
       "titulo": "«On the epidemiology of influenza», Virology Journal (PMC2279112)",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2279112/",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Milton J. Rosenau",
+      "url": "https://en.wikipedia.org/wiki/Milton_J._Rosenau",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -22838,6 +22843,38 @@ window.CRONO = {
     }
    ],
    "estado": "borrador",
+   "detalle": [
+    {
+     "titulo": "Quién los hizo",
+     "nivel": "hecho",
+     "texto": "Los dirigió Milton Rosenau (1869-1946), médico del Servicio de Salud Pública de EE. UU. y profesor en Harvard, antiguo director del laboratorio de higiene del Servicio y defensor de la pasteurización de la leche."
+    },
+    {
+     "titulo": "El procedimiento",
+     "nivel": "hecho",
+     "texto": "Con voluntarios de la Marina que no referían haber tenido gripe, se buscaron enfermos en los primeros días. Se recogieron lavados de nariz y garganta y mucosidad de 19 casos, se mezclaron y se rociaron en la nariz, la garganta y los ojos de diez voluntarios: ninguno enfermó. En otra prueba, diez enfermos tosieron directamente a la cara de voluntarios sanos: tampoco. Una revisión de 2008 sitúa las series en 1919 y habla de 100 voluntarios; la versión oficial de esta ficha las fecha en noviembre y diciembre de 1918, con más de 60 en Boston."
+    },
+    {
+     "titulo": "No fueron los únicos",
+     "nivel": "hecho",
+     "texto": "Según la monografía de Jordan sobre la pandemia, citada en esa revisión, hubo cinco intentos de demostrar el contagio de enfermo a sano, con más de 150 personas sanas en total, y ninguno lo logró. En 2003 Bridges y otros no hallaron estudios experimentales en humanos publicados en inglés que describieran la transmisión de persona a persona de la gripe."
+    },
+    {
+     "titulo": "Cómo se ha interpretado",
+     "nivel": "tesis",
+     "texto": "La revisión de 2008 (Cannell y otros, que defienden que la vitamina D influye en la gripe) enumera explicaciones: inmunidad de los voluntarios por la oleada de 1918, aunque no referían síntomas; donantes que ya no contagiaban; diagnósticos erróneos, que ellos dudan; o que la transmisión habitual no sea la de enfermo a sano. La misma revisión afirma que en laboratorio queda fuera de duda que gotas y aerosoles con virus pueden infectar a personas."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés describe los experimentos de Boston, que no lograron transmitir la gripe de persona a persona."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "El resultado negativo consta. No demuestra por sí solo que la gripe no se contagie: no había forma de confirmar en laboratorio quién tenía el virus ni quién era ya inmune. Quedan sin leer el informe original de Rosenau (la página de la Universidad de Michigan denegó el acceso) y sin resolver la diferencia de fechas y de número de voluntarios."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -58397,6 +58434,21 @@ window.CRONO = {
       "titulo": "CIDRAP: resumen del análisis",
       "url": "https://www.cidrap.umn.edu/public-health/who-expert-panel-reaffirms-no-link-between-vaccines-and-autism",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Thomas McKeown",
+      "url": "https://en.wikipedia.org/wiki/Thomas_McKeown_(physician)",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): Vaccine hesitancy",
+      "url": "https://en.wikipedia.org/wiki/Vaccine_hesitancy",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "OMS: la inmunización ha salvado al menos 154 millones de vidas (24-4-2024)",
+      "url": "https://www.who.int/news/item/24-04-2024-global-immunization-efforts-have-saved-at-least-154-million-lives-over-the-past-50-years",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -58416,6 +58468,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Dos medidas que conviene no mezclar",
+     "nivel": "hecho",
+     "texto": "La mortalidad cuenta cuántos mueren por una enfermedad; la incidencia, cuántos la contraen. Una puede caer mucho sin que caiga la otra. La discusión sobre higiene y vacunas depende de cuál se esté mirando."
+    },
+    {
+     "titulo": "La tesis de McKeown sobre la mortalidad",
+     "nivel": "tesis",
+     "texto": "El médico e historiador Thomas McKeown (1912-1988), con datos sobre todo de Inglaterra y Gales, sostuvo que el crecimiento de la población desde finales del siglo XVIII se debió más a la mejor alimentación que a la higiene, la salud pública o la medicina, y que muchas muertes por infecciones habían caído mucho antes de existir tratamientos o vacunas. Su ejemplo repetido era la tuberculosis, en descenso desde el siglo XIX, antes del primer antibiótico eficaz (1947) y de la BCG (1954 en Inglaterra y Gales)."
+    },
+    {
+     "titulo": "Qué respondieron a McKeown",
+     "nivel": "hecho",
+     "texto": "La tesis provocó una discusión de décadas. Se le reprochó simplificar y, como señaló Simon Szreter, descuidar la salud pública: agua potable, alcantarillado, vivienda. Otros autores la han revalorizado. Según el artículo leído, lo que menos se le ha discutido es que la medicina curativa pesó poco en la caída de la mortalidad hasta bien entrado el siglo XX. Ninguna de estas posturas equivale a que las vacunas no funcionen."
+    },
+    {
+     "titulo": "La incidencia y las cifras actuales",
+     "nivel": "hecho",
+     "texto": "La Wikipedia en inglés, en su artículo sobre la reticencia a vacunar, resume que la incidencia de las enfermedades prevenibles oscilaba hasta que llegó cada vacuna y entonces cayó casi a cero, y que los datos no apoyan que bastara la higiene. Un estudio coordinado por la OMS calculó en 2024 que la vacunación infantil había evitado al menos 154 millones de muertes en 50 años, 101 millones de ellas de lactantes, y atribuyó a la vacuna del sarampión el 60 % de las vidas salvadas. Es una estimación con modelos, no un recuento."
+    },
+    {
+     "titulo": "El autismo",
+     "nivel": "hecho",
+     "texto": "En 1998 Andrew Wakefield y otros publicaron en The Lancet los casos de doce niños, que abrieron la polémica sobre la vacuna triple vírica. Estudios posteriores no la hallaron y en 2011 el BMJ describió los datos como falsificados. En 2009 un tribunal especial de EE. UU. concluyó que las pruebas no mostraban que esa vacuna o el tiomersal causaran autismo. El tiomersal se había pedido retirar en 1999 por precaución. En diciembre de 2025 el comité de seguridad de vacunas de la OMS, tras revisar 31 estudios de 2010 a 2025, reafirmó que no hay relación causal."
+    },
+    {
+     "titulo": "Seguir el dinero, en los dos sentidos",
+     "nivel": "hecho",
+     "texto": "Wakefield recibió fondos de demandantes contra los fabricantes de vacunas sin declararlo, y se informó de que podía ganar hasta 43 millones de dólares al año vendiendo pruebas diagnósticas. En el otro lado, la alianza Gavi, creada en 2000 para ampliar la vacunación en países pobres, tiene entre sus socios fundadores a la OMS, UNICEF y la Fundación Bill y Melinda Gates."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés sostiene que tos ferina, difteria, polio y sarampión casi desaparecieron antes de sus vacunas gracias a la higiene; que las vacunas llevan sustancias dañinas, que no hay prueba de su eficacia y que saltan las defensas naturales; y cita aumentos de asma, autismo, trastornos neurológicos y TDAH en vacunados, sin dar fuente."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Hipótesis de Nexus: el argumento de la higiene tiene un apoyo parcial en la caída de la mortalidad antes de las vacunas, y no lo tiene, en lo leído, sobre la desaparición de los casos. Para zanjarlo enfermedad por enfermedad harían falta las series de casos y muertes antes y después de cada vacuna en un mismo país, que aquí no se han reunido. No se han comprobado los porcentajes que cita el autor ni la lista de ingredientes. La página de los CDC sobre el sarampión no se pudo abrir."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -59137,9 +59231,46 @@ window.CRONO = {
       "titulo": "Subcell Biochem 2024",
       "url": "https://pubmed.ncbi.nlm.nih.gov/39738945/",
       "consultado": "2026-11-14"
+     },
+     {
+      "titulo": "Wikipedia (en): Cryogenic electron microscopy",
+      "url": "https://en.wikipedia.org/wiki/Cryogenic_electron_microscopy",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Revisión sobre criomicroscopía de virus (PMC4928862)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928862/",
+      "consultado": "2026-11-28"
      }
     ]
    },
+   "detalle": [
+    {
+     "titulo": "El problema del vacío",
+     "nivel": "hecho",
+     "texto": "El microscopio electrónico de transmisión trabaja con un alto vacío en su columna. Una muestra con agua líquida no puede introducirse sin más, así que hay que prepararla."
+    },
+    {
+     "titulo": "La congelación vítrea",
+     "nivel": "hecho",
+     "texto": "En la criomicroscopía electrónica la muestra en agua se extiende sobre una rejilla y se congela tan deprisa, normalmente en etano líquido, que el agua queda vítrea, sin cristales. Se mantiene a temperatura de nitrógeno líquido y se observa en estado hidratado, cercano al natural, con dosis bajas de electrones porque el material biológico es muy sensible. La primera demostración con éxito es de 1981, en el Laboratorio Europeo de Biología Molecular. Dubochet, Frank y Henderson recibieron por esta técnica el Nobel de Química de 2017."
+    },
+    {
+     "titulo": "Qué se ve de la actividad",
+     "nivel": "hecho",
+     "texto": "Los virus cambian de forma al unirse a su receptor, al entrar en la célula y al ensamblarse. Con la tomografía crioelectrónica se han captado instantáneas tridimensionales de esos procesos, como un bacteriófago inyectando su material genético o la fusión del virus de la gripe. Con muestras gruesas la técnica tiene límites, y en células se centra sobre todo en lo que ocurre en la periferia."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Artur Sala dice que los virus vistos al microscopio electrónico están secos y que sin agua no se ve su actividad, como un coche sin gasolina; opina que lo que hagan los virus es transmitir información."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La criomicroscopía no seca la muestra. Hipótesis de Nexus: queda una parte razonable en la observación: cada imagen es un instante congelado, y la actividad se reconstruye reuniendo muchas instantáneas, no se ve moverse. En lo leído no aparece nada sobre la función de los virus como mera información. No se han revisado las técnicas de preparación que sí secan la muestra, ni el artículo de PubMed que cita la ficha (la página exigía cookies)."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -62506,6 +62637,16 @@ window.CRONO = {
       "titulo": "Wikipedia (copia 2023): Antoine Béchamp",
       "url": "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/Antoine_B%C3%A9champ",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (en): Antoine Béchamp",
+      "url": "https://en.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (fr): Antoine Béchamp",
+      "url": "https://fr.wikipedia.org/wiki/Antoine_B%C3%A9champ",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -62521,6 +62662,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Formación y cargos",
+     "nivel": "hecho",
+     "texto": "Nació en Bassing (Mosela) el 16 de octubre de 1816, hijo de un molinero. Pasó parte de su infancia en Bucarest con un tío (la Wikipedia en inglés dice de los 7 a los 18 años; la francesa, que partió con 11). Volvió a Francia, trabajó en farmacias y estudió en Estrasburgo, donde abrió la suya. Se doctoró en ciencias en 1853 y en medicina en 1856, año en que pasó a Montpellier como profesor. Allí estuvo hasta 1876, cuando fue el primer decano de la facultad libre (católica) de medicina de Lille."
+    },
+    {
+     "titulo": "El químico de los colorantes",
+     "nivel": "hecho",
+     "texto": "En 1852 mostró que la anilina podía obtenerse sin alcohol, con hierro y ácido acético en lugar de zinc y ácido clorhídrico: la reducción de Béchamp, que abarató la producción industrial. La casa Renard, de Lyon, la aprovechó con su ayuda para fabricar fucsina; según la Wikipedia en francés, el único beneficio que él obtuvo fue una medalla de oro de la Sociedad Industrial de Mulhouse, unos diez años después.\n\nEn 1859 sintetizó el arsanilato de sodio, que llamó atoxil, usado contra enfermedades de la piel y la enfermedad del sueño. Seguía siendo muy tóxico. Cincuenta años más tarde Paul Ehrlich estudió cientos de derivados y, con Hata, llegó en 1909 al Salvarsán."
+    },
+    {
+     "titulo": "La rivalidad con Pasteur",
+     "nivel": "hecho",
+     "texto": "Empezó por la prioridad en atribuir la fermentación a microorganismos, siguió con la pebrina, enfermedad del gusano de seda, y terminó en la teoría de los gérmenes. En la pebrina, Béchamp consideraba bien establecido que era parasitaria cuando Pasteur todavía lo negaba; Pasteur cambió de opinión en 1867.\n\nBéchamp acusó a Pasteur de plagio. La acusación la mantienen hoy partidarios suyos, apoyados en el libro de Ethel Douglas Hume de los años veinte."
+    },
+    {
+     "titulo": "Final",
+     "nivel": "hecho",
+     "texto": "En Lille su trabajo chocó con las autoridades eclesiásticas y hubo intentos de incluir su obra en el Índice de libros prohibidos. Dejó el cargo (en 1886 según la Wikipedia en inglés; en 1888 según la francesa), tuvo una farmacia y acabó en París, con un pequeño laboratorio en la Sorbona. Murió el 15 de abril de 1908, a los 91 años. Su último libro de teoría es «La sangre y su tercer elemento». Había sido nombrado caballero de la Legión de Honor en 1870."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, era un hombre muy educado que soportó con estoicismo los ataques de Pasteur; le atribuye unos 95 años al morir. Sala toma además la pregunta de Béchamp por el origen del nitrógeno de los mohos como prueba de una energía del éter."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La edad que da Sala no coincide con las fechas de nacimiento y muerte. En lo leído no aparece nada que apoye la lectura del nitrógeno como prueba del éter. Las dos Wikipedias difieren en la edad de la estancia en Bucarest y en el año en que dejó Lille. No se han abierto los libros de Béchamp."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -70353,6 +70526,16 @@ window.CRONO = {
       "titulo": "Quackwatch: 714X (procesos judiciales de Naessens)",
       "url": "https://quackwatch.org/related/cancer/714x/",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (fr): Gaston Naessens",
+      "url": "https://fr.wikipedia.org/wiki/Gaston_Naessens",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (en): 714-X",
+      "url": "https://en.wikipedia.org/wiki/714-X",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -70364,6 +70547,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Francia",
+     "nivel": "hecho",
+     "texto": "Nació en Roubaix el 16 de marzo de 1924. La Wikipedia en francés dice que estudió química, física y biología en Lille y que siguió en Niza durante la guerra; Quackwatch afirma que los registros de Lille no lo confirman. Presentó un microscopio propio, el somatoscopio, y dos tratamientos contra cáncer y leucemia. En 1956 lo condenaron por ejercicio ilegal de la medicina. En 1964, Pierre Denoix, del instituto de cáncer de Villejuif, examinó su suero Anablast y concluyó que no tenía valor terapéutico: los casos de aparente éxito que pudo investigar habían recibido antes tratamiento convencional. En 1965, según la Wikipedia en francés, fue condenado de nuevo y se marchó a Canadá, a Quebec."
+    },
+    {
+     "titulo": "Los somátidos y el 714-X",
+     "nivel": "hecho",
+     "texto": "Sostenía que con su microscopio veía en la sangre viva unos seres diminutos, los somátidos, ligados al origen del cáncer. Denoix informó de que las partículas que él vio eran restos conocidos de la rotura de glóbulos rojos y que los cultivos estaban contaminados. El 714-X, derivado del alcanfor, se inyecta en la zona linfática de la ingle. El nombre alude a sus iniciales (letras 7 y 14) y a su año de nacimiento (X, la letra 24)."
+    },
+    {
+     "titulo": "Qué se ha comprobado",
+     "nivel": "hecho",
+     "texto": "Según el Instituto Nacional del Cáncer de EE. UU., no hay estudios publicados en revistas científicas que muestren que sea seguro o eficaz; los pocos ensayos en animales no se publicaron con revisión o no hallaron beneficio. Un análisis de la FDA encontró un 94 % de agua y menos de un 0,01 % de alcanfor en la muestra. Un informe de 1985 de un colegio veterinario de Ontario no halló efecto en linfomas de perros y vacas."
+    },
+    {
+     "titulo": "Juicios y dinero",
+     "nivel": "hecho",
+     "texto": "En 1989 fue detenido y juzgado en Canadá, y el jurado lo absolvió. Las fuentes no coinciden en el cargo: ejercicio de la medicina sin licencia según Quackwatch; complicidad en la muerte de una paciente que dejó el tratamiento convencional según la Wikipedia en inglés. En los años setenta una fundación de Montreal financió su laboratorio; el producto lo comercializa una empresa, CERBE. En EE. UU. su importación está prohibida y en 1996 Charles Pixley fue condenado a un año de prisión por venderlo. En Canadá puede obtenerse por el programa de acceso especial, a petición de un médico, lo que no equivale a aprobación; un juez federal restableció ese acceso en 2006. Murió en Sherbrooke el 16 de febrero de 2018."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Artur Sala lo presenta como pleomorfista perseguido. Según Nacho López Cabanas, vio las microzimas de Béchamp, les atribuyó resistencia extrema, transmisión de información genética y un ciclo de dieciséis fases; su 714-X reactivaría el sistema inmune, la «mafia de la enfermedad» lo persiguió y el producto fue legalizado."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La absolución de 1989 consta; no prueba que el producto funcione. Lo que en Canadá existe es acceso especial caso por caso, no una aprobación. No se han leído los libros de Christopher Bird, favorables a Naessens, ni el informe original de Denoix."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -72143,6 +72358,11 @@ window.CRONO = {
       "titulo": "Wikipedia: Günther Enderlein",
       "url": "https://en.wikipedia.org/wiki/G%C3%BCnther_Enderlein",
       "consultado": "2026-11-12"
+     },
+     {
+      "titulo": "Wikipedia (de): Günther Enderlein",
+      "url": "https://de.wikipedia.org/wiki/G%C3%BCnther_Enderlein",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -72154,6 +72374,38 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "El entomólogo",
+     "nivel": "hecho",
+     "texto": "Nació en Leipzig en 1872, hijo de un maestro, y se doctoró en zoología en 1898. Trabajó en el museo zoológico de Berlín y fue conservador en Stettin y, de 1919 a 1937, en Berlín. Publicó cerca de 500 trabajos, la mayoría sobre insectos. En la Primera Guerra Mundial sirvió como médico militar con rango de oficial sin serlo de carrera."
+    },
+    {
+     "titulo": "La «ciclogenia» de las bacterias",
+     "nivel": "hecho",
+     "texto": "En 1925 publicó «Bakterien-Cyklogenie». Partiendo de Béchamp y de otros, sostuvo que en todo animal y planta hay partículas inofensivas de proteína, los «protitos», que en un medio alterado pasan por una serie de formas hasta bacterias u hongos dañinos, y que pueden volver atrás en un organismo sano. Creó un vocabulario propio muy difícil. Trataba con preparados de las mismas «simbiontes», como Mucokehl y Utilin, y recomendaba dieta vegetariana cruda."
+    },
+    {
+     "titulo": "Cómo se juzgó",
+     "nivel": "hecho",
+     "texto": "El pleomorfismo se discutió mucho; la bacteriología médica se quedó con la postura de que las especies tienen formas estables, ligada a Cohn, Pasteur y Koch. Las fuentes no fechan igual su derrota: la Wikipedia en alemán la da por refutada ya en los años treinta y la inglesa habla de los cincuenta. Hoy la genética muestra que bacterias y hongos no son formas unos de otros y que los genes de un tumor no son de microbios. El análisis de sangre en campo oscuro que lleva su nombre no tiene eficacia demostrada."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "En los años treinta pasó a la farmacia (desde 1933 según la Wikipedia en inglés; tras jubilarse en 1937 según la alemana): dirigió la producción de la empresa Sanum y en 1944 fundó la suya, IBICA, luego trasladada a Hamburgo. En 1952 una investigación sobre su remedio contra el cáncer cerró temporalmente el instituto que lo fabricaba. Por la ley de medicamentos de 1961, IBICA no renovó en 1972 la autorización de sus productos. Murió en 1968; en 1975 se unieron las dos empresas en Sanum-Kehlbeck, que según las fuentes sigue activa."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Para Artur Sala marca un antes y un después en el análisis de sangre en campo oscuro. Nacho López Cabanas sostiene que observó los protitos, equivalentes a las microzimas de Béchamp, y su ciclo regido por la acidez del medio."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que en la sangre de una persona sana puedan hallarse bacterias en baja concentración se admite, aunque parte viene de la contaminación al extraerla; eso no demuestra el ciclo que describió Enderlein. Las dos Wikipedias dan días de nacimiento distintos (7 de julio y 7 de agosto). No se ha leído «Bakterien-Cyklogenie» ni el estudio biográfico de Elke Krämer."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -80748,6 +81000,16 @@ window.CRONO = {
       "titulo": "Encyclopedia.com — Pasteur, Louis (premios y honores)",
       "url": "https://www.encyclopedia.com/medicine/medical-journals/pasteur-louis",
       "consultado": "2026-11-18"
+     },
+     {
+      "titulo": "Wikipedia (en): Louis Pasteur",
+      "url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (fr): Louis Pasteur",
+      "url": "https://fr.wikipedia.org/wiki/Louis_Pasteur",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -80767,6 +81029,48 @@ window.CRONO = {
    ],
    "estado": "aprobado",
    "citas": [],
+   "detalle": [
+    {
+     "titulo": "Formación",
+     "nivel": "hecho",
+     "texto": "Nació el 27 de diciembre de 1822 en Dole, hijo de un curtidor. Entró en la Escuela Normal Superior en 1843 y presentó sus dos tesis, en química y física, en 1847. Empezó investigando cristales y fue profesor de química en Estrasburgo, donde se casó en 1849 con Marie Laurent, hija del rector. De sus cinco hijos solo dos llegaron a adultos."
+    },
+    {
+     "titulo": "Fermentación y pasteurización",
+     "nivel": "hecho",
+     "texto": "En Lille, desde 1856, un fabricante de alcohol de remolacha le pidió ayuda porque se le agriaba. Pasteur publicó en 1857 un trabajo sobre la fermentación láctica y sostuvo que la levadura causaba la alcohólica y otros microbios la acidez, contra la explicación química de Berzelius y Liebig. No fue el primero en ver que la levadura vivía: ya lo habían concluido Cagniard-Latour, Kützing y Schwann en los años treinta.\n\nDe ahí salió el calentamiento moderado para conservar vino, leche y cerveza. Con el vino tuvo una disputa de prioridad con el enólogo Vergnette de Lamotte."
+    },
+    {
+     "titulo": "Generación espontánea y gusanos de seda",
+     "nivel": "hecho",
+     "texto": "Frente a Félix Pouchet, usó matraces calentados y de cuello de cisne para mostrar que los microbios del caldo venían del polvo del aire; la Academia de Ciencias le dio el premio Alhumbert en 1862.\n\nDesde 1865 estudió en Alès las enfermedades del gusano de seda. Al principio confundió dos de ellas y negó que la pebrina fuera parasitaria. Acabó proponiendo examinar al microscopio las mariposas y destruir las puestas afectadas, lo que frenó la pebrina; no así la flacidez. Las dos Wikipedias no valoran igual cuánto salvó a la industria de la seda."
+    },
+    {
+     "titulo": "Las vacunas",
+     "nivel": "hecho",
+     "texto": "Tras el cólera de las gallinas anunció una vacuna contra el carbunco y la sometió a una prueba pública en Pouilly-le-Fort, en mayo y junio de 1881: las ovejas y cabras vacunadas sobrevivieron y las no vacunadas murieron o agonizaban. Dijo que era una vacuna viva; sus cuadernos muestran que usó bacilos inactivados con dicromato potásico, un método de Chamberland parecido al del veterinario Henry Toussaint, cuya idea de vacuna muerta Pasteur había rechazado.\n\nEl 6 de julio de 1885 se inoculó contra la rabia al niño Joseph Meister, de 9 años, con 13 inyecciones en 11 días que puso el médico Grancher, porque Pasteur no lo era. Los cuadernos recogen dos personas tratadas antes. En 1886 trató a 350, de las que una desarrolló la rabia."
+    },
+    {
+     "titulo": "Cuadernos y controversias",
+     "nivel": "hecho",
+     "texto": "En 1878 pidió a su familia que no mostrara sus cuadernos. Su nieto los donó en 1964 a la Biblioteca Nacional de Francia y no se abrieron al estudio hasta después de 1971. En 1995 Gerald Geison publicó su análisis y sostuvo que Pasteur había dado relatos engañosos de varios descubrimientos; según Geison, antes de Meister constaban 11 perros vacunados, no los 50 que Pasteur afirmaba. Max Perutz lo defendió y Patrice Debré reconoció defectos junto al genio. Joseph Gal concluyó en 2019 que las críticas de Geison sobre la quiralidad carecen en lo esencial de valor."
+    },
+    {
+     "titulo": "Seguir el dinero y el poder",
+     "nivel": "hecho",
+     "texto": "Fue cercano a Napoleón III, que le encargó estudiar las enfermedades del vino (1863) y, según la Wikipedia en francés, las del gusano de seda. Patentó procedimientos de fermentación (1857), vinagre (1861), conservación del vino (1865) y cerveza (1871). Perdido el apoyo de la corte en 1870, en 1873 creó una sociedad con 250.000 francos de capital que le compró la patente de la cerveza por 150.000. La Asamblea Nacional le concedió una recompensa. El Instituto Pasteur, inaugurado el 14 de noviembre de 1888, se financió con una suscripción internacional. Murió el 28 de septiembre de 1895 y tuvo funeral de Estado."
+    },
+    {
+     "titulo": "Qué dicen los autores",
+     "nivel": "tesis",
+     "texto": "Según Artur Sala, fue un manipulador que, con el apoyo de Napoleón III, se apropió de los descubrimientos de Béchamp. Rubén Avilés subraya la Legión de Honor, lo describe como químico y empresario, sostiene que su teoría infecciosa es falsa y recoge acusaciones de plagio y falsificación."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "En lo leído constan la cercanía a Napoleón III, las patentes, el negocio de la cerveza y las discrepancias entre cuadernos y publicaciones. Un historiador citado por la ficha no ve plagio a Béchamp en sentido significativo, y no consta aquí nada que sostenga la falsedad de la teoría de los gérmenes.\n\nHipótesis de Nexus: conviene separar tres preguntas que se mezclan: si Pasteur contó bien sus experimentos (hay reparos documentados), si se apropió de ideas ajenas (discutido, y en el caso del carbunco el nombre es Toussaint) y si los microbios causan enfermedades (otra cuestión, que no se decide por la conducta de una persona). No se han leído los cuadernos ni el libro de Geison."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -88349,6 +88653,21 @@ window.CRONO = {
       "titulo": "Wikipedia: Robert Koch",
       "url": "https://es.wikipedia.org/wiki/Robert_Koch",
       "consultado": "2026-11-20"
+     },
+     {
+      "titulo": "Wikipedia (en): Robert Koch",
+      "url": "https://en.wikipedia.org/wiki/Robert_Koch",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "Wikipedia (de): Robert Koch",
+      "url": "https://de.wikipedia.org/wiki/Robert_Koch",
+      "consultado": "2026-11-28"
+     },
+     {
+      "titulo": "NobelPrize.org: Robert Koch, biografía",
+      "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/biographical/",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -88360,6 +88679,48 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "De médico rural a bacteriólogo",
+     "nivel": "hecho",
+     "texto": "Nació en Clausthal el 11 de diciembre de 1843, hijo de un ingeniero de minas, y se doctoró en medicina en 1866. Fue médico de distrito en Wollstein, donde montó un laboratorio en casa con un microscopio regalo de su mujer. Allí estudió el carbunco: el bacilo ya lo habían visto Pollender, Rayer y Davaine, y Koch trabajó para demostrar que era la causa, lo cultivó y describió sus esporas. Ferdinand Cohn lo publicó en 1876. En 1880 pasó a la Oficina Imperial de Salud, en Berlín."
+    },
+    {
+     "titulo": "Tuberculosis, cólera y método",
+     "nivel": "hecho",
+     "texto": "El 24 de marzo de 1882 presentó el bacilo de la tuberculosis, entonces tenida a menudo por hereditaria; Virchow se mostró escéptico. En 1883 encabezó la misión alemana sobre el cólera en Egipto y siguió en Calcuta; aisló el vibrión en 1884. Pacini lo había descrito en 1854 sin que se aceptara como causa. Sus animales de experimentación no enfermaban con los cultivos, así que no pudo cerrar la prueba que pedían sus propios criterios.\n\nImpulsó los cultivos puros en medio sólido con su equipo (la placa es de Petri). Los postulados que llevan su nombre los formuló en tres puntos su ayudante Loeffler en 1883; el cuarto lo añadió Erwin Smith en 1905."
+    },
+    {
+     "titulo": "La disputa con Pasteur",
+     "nivel": "hecho",
+     "texto": "Se trataron con cordialidad en Londres en 1881 y enseguida chocaron por el carbunco: Pasteur sostenía que Koch no había probado del todo la causa; Koch atacaba los métodos de Pasteur y llegó a decir que, no siendo médico, no podía juzgar bien las enfermedades. En 1882 lo debatieron en público en Ginebra."
+    },
+    {
+     "titulo": "El escándalo de la tuberculina",
+     "nivel": "hecho",
+     "texto": "En 1890 anunció un remedio contra la tuberculosis sin revelar qué era. Llegaron noticias de curaciones y luego de muertes; las autopsias que expuso Virchow mostraron que no mataba los bacilos. Era un extracto de bacilos en glicerina. Su prestigio se hundió. De sus preparados salieron después sustancias útiles para el diagnóstico."
+    },
+    {
+     "titulo": "Seguir el dinero",
+     "nivel": "hecho",
+     "texto": "Según la Wikipedia en alemán, quiso explotar la tuberculina: pidió un instituto para producirla, calculó 4,5 millones de marcos de beneficio al año y vendió a la industria los derechos de fabricación por un millón de marcos oro, pese a haber investigado con medios públicos. En 1891 el Estado le creó el instituto de enfermedades infecciosas, a condición de quedarse sus futuros inventos sin compensación. Por el cólera había recibido un premio de 100.000 marcos."
+    },
+    {
+     "titulo": "África y el final",
+     "nivel": "hecho",
+     "texto": "Estudió la peste bovina en Sudáfrica (1896), la malaria y la enfermedad del sueño en África. Según la Wikipedia en alemán, en esa campaña junto al lago Victoria participó en experimentos con enfermos recluidos en campos, a quienes se dio atoxil (el compuesto que había sintetizado Béchamp) sin consentimiento y a dosis crecientes pese a efectos muy graves. Recibió el Nobel en 1905 y murió en Baden-Baden el 27 de mayo de 1910, a los 66 años."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Rubén Avilés lo presenta como creyente en la teoría de la infección y autor de los cuatro postulados."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "La atribución de los cuatro postulados a Koch es la habitual, pero en lo leído tres son de Loeffler y el cuarto de Smith. Las cifras del negocio de la tuberculina y los experimentos en África vienen de una sola Wikipedia; no se han contrastado con otra fuente."
+    }
+   ],
    "vista": "ciencia"
   },
   {
@@ -89081,6 +89442,38 @@ window.CRONO = {
     }
    ],
    "estado": "aprobado",
+   "detalle": [
+    {
+     "titulo": "Qué se sabe de él",
+     "nivel": "hecho",
+     "texto": "Nació en 1888 y murió el 5 de agosto de 1971, a los 83 años. Hay poca información fiable publicada sobre su vida. En los años treinta construyó microscopios compuestos, algunos con polarizadores, y filmó microbios a cámara rápida."
+    },
+    {
+     "titulo": "Los microscopios",
+     "nivel": "hecho",
+     "texto": "Afirmaba ampliaciones de 17.000 aumentos o más, consideradas imposibles para su época. Un informe del Instituto Smithsonian (el anual de 1944) describió uno de ellos y recogió que varios médicos habían quedado impresionados por la nitidez y los aumentos de otro. Según él y otros que los examinaron, al iluminar cada microbio con una longitud de onda concreta emitía un color propio, sin necesidad de teñirlo. Algunas de sus observaciones contradicen lo que hoy se sabe: que la bacteria del tifus pasaba a una forma mucho menor, o que en casi todos los tumores había un microbio de varias formas."
+    },
+    {
+     "titulo": "El «rayo»",
+     "nivel": "hecho",
+     "texto": "Aseguraba haber medido para cada microbio una «frecuencia mortal» y poder destruirlo con ondas de radio. En 1938 un diario de San Diego recogió que no llegaba a decir que curara el cáncer. Sus resultados fueron rechazados por las sociedades médicas y oncológicas estadounidenses. Él lo atribuyó a una conspiración de la medicina organizada y murió sin dinero."
+    },
+    {
+     "titulo": "Los aparatos y el dinero",
+     "nivel": "hecho",
+     "texto": "El libro de Barry Lynes de 1987, «The Cancer Cure That Worked», revivió el interés; la Sociedad Estadounidense contra el Cáncer lo describe como un relato de estilo conspirativo imposible de verificar. Después se vendieron muchos «aparatos Rife». Un análisis de la revista Electronics Australia halló que uno típico, de 105 dólares australianos, era un circuito de pila de 9 voltios y poco más; otros se ofrecían entre 1.500 y 34.000. En EE. UU. ha habido condenas por fraude sanitario (1996, 2009) y se han atribuido muertes a abandonar el tratamiento para usarlos. Cancer Research UK sostiene que no hay prueba fiable de que sirvan contra el cáncer."
+    },
+    {
+     "titulo": "Qué dice el autor",
+     "nivel": "tesis",
+     "texto": "Según Nacho López Cabanas, montó en 1933 un microscopio de unas seis mil piezas que ampliaba entre 5.000 y 30.000 veces, asoció el «bacilo BX» al cáncer, desarrolló la Beam Ray Machine y una campaña de la «mafia» (robos, incendio, quiebras) enterró sus inventos."
+    },
+    {
+     "titulo": "Lo que queda abierto",
+     "nivel": "hipotesis",
+     "texto": "Que hubo microscopios propios y que algunos observadores los elogiaron consta. En lo leído no aparecen réplicas que confirmen las ampliaciones ni la destrucción selectiva por frecuencia, ni pruebas de los robos o el incendio. No se han leído el informe Smithsonian original ni el libro de Lynes."
+    }
+   ],
    "vista": "ciencia"
   },
   {
