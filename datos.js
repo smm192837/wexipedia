@@ -19310,7 +19310,7 @@ window.CRONO = {
     }
    ],
    "oficial": {
-    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. El censo contó 3.929.214 habitantes. No consta una ley federal de bancarrota de 1813 en EE. UU. (la de 1800 se derogó en 1803), aunque sí una británica de ese año sobre presos por deudas. Con las cifras del propio autor, 11 dólares a 19,39 la onza son unas 0,57 onzas de oro, no casi una. El recuento de las veces que las leyes usan la palabra «deuda» no se ha comprobado: la nota del libro enlaza solo el archivo de las leyes del 6.º Congreso (1799–1801).",
+    "resumen": "El artículo VI de la Constitución dice que las deudas contraídas antes de su adopción serán tan válidas contra EE. UU. como bajo la Confederación; la deuda pública de enero de 1783 fue de unos 43 millones (Tesoro de EE. UU.); el censo de 1790 contó 3,9 millones de habitantes. La conclusión de Nocera —un sistema deliberado de control— no forma parte de la versión académica. El censo contó 3.929.214 habitantes. No consta una ley federal de bancarrota de 1813 en EE. UU. (la de 1800 se derogó en 1803), aunque sí una británica de ese año sobre presos por deudas. Con las cifras del propio autor, 11 dólares a 19,39 la onza son unas 0,57 onzas de oro, no casi una. El recuento de palabras se reproduce en el archivo de la Biblioteca del Congreso sobre el 6.º Congreso: contando cada aparición una vez, «debt», «debts», «debtor» y «debtors» suman 147, y 31 son de «deudor», incluidas en esas 147. Pero el archivo no cubre de 1799 a 1845: reúne la lista de leyes del tomo II, que llega a 1813, y los textos de las leyes de 1799–1801; la mayor parte de las apariciones está en la ley de quiebras de 1800.",
     "fuentes": [
      {
       "titulo": "Constitución de EE. UU. (art. VI)",
@@ -19366,6 +19366,11 @@ window.CRONO = {
       "titulo": "Wikipedia (en): Insolvent Debtors (England) Act 1813",
       "url": "https://en.wikipedia.org/wiki/Insolvent_Debtors_(England)_Act_1813",
       "consultado": "2026-11-27"
+     },
+     {
+      "titulo": "Library of Congress: United States Statutes at Large, 6.º Congreso (PDF, 163 páginas)",
+      "url": "https://tile.loc.gov/storage-services/service/ll/llsl/llsl-c6/llsl-c6.pdf",
+      "consultado": "2026-11-28"
      }
     ]
    },
@@ -19380,7 +19385,7 @@ window.CRONO = {
      "nota": "Continuación del argumento."
     }
    ],
-   "estado": "borrador",
+   "estado": "aprobado",
    "detalle": [
     {
      "titulo": "De dónde venía la deuda",
@@ -19410,12 +19415,12 @@ window.CRONO = {
     {
      "titulo": "La fuente del recuento",
      "nivel": "hecho",
-     "texto": "En la página 55 el autor remite, para las 147 apariciones de «deuda» y las más de 30 de «deudor», a un archivo de la Biblioteca del Congreso llamado c6.pdf, dentro de la carpeta del 6.º Congreso, que legisló entre 1799 y 1801. La figura 21 reproduce la portada de los Public Statutes at Large, que cubren hasta el 3 de marzo de 1845."
+     "texto": "En la página 55 el autor remite, para las 147 apariciones de «deuda» y las más de 30 de «deudor», a un archivo de la Biblioteca del Congreso sobre el 6.º Congreso. La figura 21 reproduce la portada de los Public Statutes at Large, que anuncian la colección hasta el 3 de marzo de 1845.\n\nEl archivo actual de ese Congreso tiene 163 páginas: la portada, la lista de leyes públicas del tomo II (páginas 1 a 38, con leyes hasta marzo de 1813) y las leyes del 6.º Congreso, de 1799 a 1801. Su texto reconocido está repetido en cada página, así que cada aparición se ha contado una sola vez: «debt» 62, «debts» 54, «debtor» 25 y «debtors» 6, en total 147. Aparte hay un «indebted» y un fragmento mal leído; con ellos serían 149. De las 147, 17 están en la lista de leyes y el resto en los textos, unas 95 de ellas en las páginas de la ley de quiebras (capítulo 19, de 1800).\n\nEs un recuento automático sobre el texto escaneado; no se ha cotejado palabra por palabra con la imagen de las páginas, y no consta que el archivo que enlazó el autor fuera idéntico al actual."
     },
     {
      "titulo": "Lo que queda abierto",
      "nivel": "hipotesis",
-     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. El recuento de palabras sigue sin verificar. Hipótesis de Nexus: las cifras podrían salir solo del archivo del 6.º Congreso y la fecha de 1845, de la portada de la colección; se comprobaría contando las dos palabras en ese archivo.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
+     "texto": "La cifra de 43 millones a 1 de enero de 1783 la da el Tesoro en su historia de la deuda (TreasuryDirect); su serie anual de datos empieza en 1790. En lo leído no consta ninguna ley federal de bancarrota de 1813 en EE. UU.; la británica sí consta: la Insolvent Debtors (England) Act, sobre presos por deudas. La cifra de 147 queda reproducida, pero no mide las leyes de 1799 a 1845: contarlas exigiría los demás tomos.\n\nLectura de trabajo de Nexus, al seguir el dinero: la ley de 1790 convirtió deudas dispersas en títulos federales respaldados por aranceles, a favor de quienes los tuvieran en la mano. Pendiente saber quién los compró antes del canje."
     }
    ],
    "vista": "economia"
